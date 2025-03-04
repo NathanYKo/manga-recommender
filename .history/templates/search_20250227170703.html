@@ -1,0 +1,123 @@
+
+<!-- templates/search.html -->
+{% extends 'base.html' %}
+
+{% block title %}Search Manga - Manga Recommender{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-12">
+        <h1>Search Manga</h1>
+    </div>
+</div>
+
+<div class="row mb-4">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <form action="{{ url_for('search') }}" method="GET" class="row g-3">
+                    <div class="col-md-6">
+                        <label for="q" class="form-label">Title</label>
+                        <input type="text" class="form-control" id="q" name="q" value="{{ query }}">
+                    </div>
+                    <div class="col-md-3">
+                        <label for="genre" class="form-label">Genre</label>
+                        <select class="form-select" id="genre" name="genre">
+                            <option value="">All Genres</option>
+                            {% for g in genres %}
+                            <option value="{{ g }}" {% if genre == g %}selected{% endif %}>{{ g }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <label for="sort" class="form-label">Sort By</label>
+                        <select class="form-select" id="sort" name="sort">
+                            <option value="score" {% if sort_by == 'score' %}selected{% endif %}>Score</option>
+                            <option value="popularity" {% if sort_by == 'popularity' %}selected{% endif %}>Popularity</option>
+                            <option value="title" {% if sort_by == 'title' %}selected{% endif %}>Title</option>
+                        </select>
+                    </div>
+                    <div class="col-12">
+                        <button type="submit" class="btn btn-primary">Search</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% if results %}
+<div class="row mb-4">
+    <div class="col-md-12">
+        <h2>Results</h2>
+    </div>
+</div>
+
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4 mb-4">
+    {% for manga in results %}
+    <div class="col">
+        <div class="card h-100">
+            <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}">
+                <img src="{{ manga.img_url }}" class="card-img-top" alt="{{ manga.title }}" onerror="this.src='{{ url_for('static', filename='img/no-cover.jpg') }}'">
+            </a>
+            <div class="card-body">
+                <h5 class="card-title"><a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="text-decoration-none text-dark">{{ manga.title }}</a></h5>
+                <div class="d-flex justify-content-between align-items-center mb-2">
+                    <span class="badge bg-primary">Score: {{ manga.score|round(1) }}</span>
+                    <small class="text-muted"><i class="fas fa-users"></i> {{ manga.members }}</small>
+                </div>
+                <div class="manga-genres">
+                    {% for genre in manga.genres.split(', ')[:3] %}
+                    <span class="badge bg-secondary">{{ genre }}</span>
+                    {% endfor %}
+                    {% if manga.genres.split(', ')|length > 3 %}
+                    <span class="badge bg-secondary">+{{ manga.genres.split(', ')|length - 3 }}</span>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<!-- Pagination -->
+{% if total_pages > 1 %}
+<nav aria-label="Search results pages">
+    <ul class="pagination justify-content-center">
+        <li class="page-item {% if page == 1 %}disabled{% endif %}">
+            <a class="page-link" href="{{ url_for('search', q=query, genre=genre, sort=sort_by, page=page-1) }}" aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+            </a>
+        </li>
+        
+        {% for i in range(max(1, page-2), min(total_pages+1, page+3)) %}
+        <li class="page-item {% if i == page %}active{% endif %}">
+            <a class="page-link" href="{{ url_for('search', q=query, genre=genre, sort=sort_by, page=i) }}">{{ i }}</a>
+        </li>
+        {% endfor %}
+        
+        <li class="page-item {% if page == total_pages %}disabled{% endif %}">
+            <a class="page-link" href="{{ url_for('search', q=query, genre=genre, sort=sort_by, page=page+1) }}" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+            </a>
+        </li>
+    </ul>
+</nav>
+{% endif %}
+
+{% else %}
+<div class="row">
+    <div class="col-md-12 text-center">
+        <div class="alert alert-info">
+            {% if query or genre %}
+            <h4>No results found</h4>
+            <p>Try different search terms or filters</p>
+            {% else %}
+            <h4>Enter search terms to find manga</h4>
+            <p>You can search by title or select a genre</p>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endif %}
+{% endblock %}
