@@ -1,0 +1,154 @@
+{
+    "mal_id": 114,
+    "url": "https://myanimelist.net/manga/114/Erementar_Gerad",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/260247.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/260247t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/260247l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/260247.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/260247t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/260247l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Erementar Gerad"
+        },
+        {
+            "type": "Synonym",
+            "title": "Erementar Gerade"
+        },
+        {
+            "type": "Japanese",
+            "title": "EREMENTAR GERAD"
+        },
+        {
+            "type": "English",
+            "title": "Elemental Gelade"
+        }
+    ],
+    "title": "Erementar Gerad",
+    "title_english": "Elemental Gelade",
+    "title_japanese": "EREMENTAR GERAD",
+    "title_synonyms": [
+        "Erementar Gerade"
+    ],
+    "type": "Manga",
+    "chapters": 96,
+    "volumes": 18,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-02-28T00:00:00+00:00",
+        "to": "2009-12-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 2,
+                "year": 2002
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2009
+            }
+        },
+        "string": "Feb 28, 2002 to Dec 28, 2009"
+    },
+    "score": 7.47,
+    "scored": 7.47,
+    "scored_by": 3739,
+    "rank": 3151,
+    "popularity": 2298,
+    "members": 9495,
+    "favorites": 216,
+    "synopsis": "Coud is a young sky pirate who discovered a girl with mysterious powers on what had seemed like a routine mission. Ren has the ability to lend Coud bizarre fighting capabilities (his arm turns into a giant blade of some sort), being part of a race of beings called Edel Reid, but being the possessor of a stone called the Elemental Gelade, she has powers even beyond the norm.\n\n(Source: Tokyopop)",
+    "background": "Erementar Gerad was first published in English as Elemental Gelade by Tokyopop, who published the first twelve volumes from July 11, 2006 to September 7, 2010. DMG later took over the license, and published the series digitally as Erementar Gerade from March 6, 2012 to January 30, 2013.",
+    "authors": [
+        {
+            "mal_id": 1953,
+            "type": "people",
+            "name": "Azuma, Mayumi",
+            "url": "https://myanimelist.net/people/1953/Mayumi_Azuma"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Comic Blade",
+            "url": "https://myanimelist.net/manga/magazine/28/Comic_Blade"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1250,
+                    "type": "anime",
+                    "name": "Erementar Gerad",
+                    "url": "https://myanimelist.net/anime/1250/Erementar_Gerad"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 115,
+                    "type": "manga",
+                    "name": "Erementar Gerad: Aozora no Senki",
+                    "url": "https://myanimelist.net/manga/115/Erementar_Gerad__Aozora_no_Senki"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB_%E3%82%B8%E3%82%A7%E3%83%AC%E3%82%A4%E3%83%89"
+        }
+    ]
+}

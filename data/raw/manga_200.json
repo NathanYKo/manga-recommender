@@ -1,0 +1,146 @@
+{
+    "mal_id": 200,
+    "url": "https://myanimelist.net/manga/200/Tsumasaki_ni_Kiss",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/4927.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/4927t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/4927l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/4927.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/4927t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/4927l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tsumasaki ni Kiss"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Gentleman's Kiss"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tiptoe Kiss"
+        },
+        {
+            "type": "Japanese",
+            "title": "爪先にキス"
+        },
+        {
+            "type": "English",
+            "title": "A Gentleman's Kiss"
+        }
+    ],
+    "title": "Tsumasaki ni Kiss",
+    "title_english": "A Gentleman's Kiss",
+    "title_japanese": "爪先にキス",
+    "title_synonyms": [
+        "A Gentleman's Kiss",
+        "Tiptoe Kiss"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": "2006-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            }
+        },
+        "string": "2005 to 2006"
+    },
+    "score": 7.51,
+    "scored": 7.51,
+    "scored_by": 908,
+    "rank": null,
+    "popularity": 11274,
+    "members": 1639,
+    "favorites": 5,
+    "synopsis": "Yakuza heir Homura Yasobe has a secret lover, the young businessman Touji Karasuma. A resourceful man who will do whatever it takes to succeed; Touji is in fact the noble son of the rival company competing with Homura. If anyone were to find out, it would mean war between the groups! But can the two keep their rendezvous secret? An adult story of secret love between heirs with lives hanging in the balance! (Source: DMP)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2210,
+            "type": "people",
+            "name": "Fuwa, Shinri",
+            "url": "https://myanimelist.net/people/2210/Shinri_Fuwa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 333,
+            "type": "manga",
+            "name": "Chara Selection",
+            "url": "https://myanimelist.net/manga/magazine/333/Chara_Selection"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 197,
+                    "type": "manga",
+                    "name": "Zettai Unmei Houteishiki",
+                    "url": "https://myanimelist.net/manga/197/Zettai_Unmei_Houteishiki"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 198,
+                    "type": "manga",
+                    "name": "Gravity Eyes",
+                    "url": "https://myanimelist.net/manga/198/Gravity_Eyes"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.dmpbooks.com/titles?n=161"
+        }
+    ]
+}

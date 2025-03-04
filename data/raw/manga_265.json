@@ -1,0 +1,124 @@
+{
+    "mal_id": 265,
+    "url": "https://myanimelist.net/manga/265/Kimi_no_Ai_wa_Mienikui",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/5905.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/5905t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/5905l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/5905.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/5905t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/5905l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi no Ai wa Mienikui"
+        },
+        {
+            "type": "Synonym",
+            "title": "Your Love Cannot Be Easily Visible"
+        },
+        {
+            "type": "Japanese",
+            "title": "君の愛は見えにくい"
+        },
+        {
+            "type": "English",
+            "title": "Invisible Love"
+        }
+    ],
+    "title": "Kimi no Ai wa Mienikui",
+    "title_english": "Invisible Love",
+    "title_japanese": "君の愛は見えにくい",
+    "title_synonyms": [
+        "Your Love Cannot Be Easily Visible"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2005 to ?"
+    },
+    "score": 7.09,
+    "scored": 7.09,
+    "scored_by": 971,
+    "rank": null,
+    "popularity": 10328,
+    "members": 1839,
+    "favorites": 1,
+    "synopsis": "This collection of 7 short stories by the master of romance explores love that is not easily seen. (Source: M-U) \n\nA prequel from the manga \"Kimi to Iru Asu\",  it tells the story before Senou and Inori start dating",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2250,
+            "type": "people",
+            "name": "Honjou, Rie",
+            "url": "https://myanimelist.net/people/2250/Rie_Honjou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 2259,
+                    "type": "manga",
+                    "name": "Kimi to Iru Asu",
+                    "url": "https://myanimelist.net/manga/2259/Kimi_to_Iru_Asu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.dmpbooks.com/titles?n=109"
+        }
+    ]
+}

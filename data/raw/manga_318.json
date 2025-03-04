@@ -1,0 +1,183 @@
+{
+    "mal_id": 318,
+    "url": "https://myanimelist.net/manga/318/Futari_Ecchi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/50533.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/50533t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/50533l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/50533.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/50533t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/50533l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Futari Ecchi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Love Diary"
+        },
+        {
+            "type": "Synonym",
+            "title": "Manga Love Story"
+        },
+        {
+            "type": "Synonym",
+            "title": "Manga Sutra"
+        },
+        {
+            "type": "Synonym",
+            "title": "Step up - Love Story"
+        },
+        {
+            "type": "Japanese",
+            "title": "ふたりエッチ"
+        },
+        {
+            "type": "English",
+            "title": "Manga Sutra"
+        }
+    ],
+    "title": "Futari Ecchi",
+    "title_english": "Manga Sutra",
+    "title_japanese": "ふたりエッチ",
+    "title_synonyms": [
+        "Love Diary",
+        "Manga Love Story",
+        "Manga Sutra",
+        "Step up - Love Story"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "1997-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 1997 to ?"
+    },
+    "score": 7.25,
+    "scored": 7.25,
+    "scored_by": 4894,
+    "rank": 5400,
+    "popularity": 1325,
+    "members": 15697,
+    "favorites": 244,
+    "synopsis": "An excellent and very educational series. About a newlywed couple who are virgins and their comedic ups and downs in learning how to have sex. Not really a hentai, though there are scenes which can be called hentai. Tastefully rendered taboo themes. A funny \"how to\" guide for sex illiterate and experts. \n\n(Source: MU)",
+    "background": "The first four volumes of Futari Ecchi were published in English as Manga Sutra by Tokyopop from January 8, 2008, to January 13, 2009. The first 21 volumes were released in Brazilian Portuguese by Editora JBC from March 2009 to February 2013.",
+    "authors": [
+        {
+            "mal_id": 2304,
+            "type": "people",
+            "name": "Katsu, Aki",
+            "url": "https://myanimelist.net/people/2304/Aki_Katsu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Young Animal",
+            "url": "https://myanimelist.net/manga/magazine/2/Young_Animal"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 382,
+                    "type": "anime",
+                    "name": "Futari Ecchi",
+                    "url": "https://myanimelist.net/anime/382/Futari_Ecchi"
+                },
+                {
+                    "mal_id": 23985,
+                    "type": "anime",
+                    "name": "Futari Ecchi (2014)",
+                    "url": "https://myanimelist.net/anime/23985/Futari_Ecchi_2014"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 630,
+                    "type": "manga",
+                    "name": "Futari Ecchi for Ladies",
+                    "url": "https://myanimelist.net/manga/630/Futari_Ecchi_for_Ladies"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.younganimal.com/title/?id=18"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Futari_Ecchi"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%9F%E3%82%8A%E3%82%A8%E3%83%83%E3%83%81"
+        }
+    ]
+}

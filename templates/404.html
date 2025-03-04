@@ -1,0 +1,13 @@
+<!-- templates/404.html -->
+{% extends 'base.html' %}
+
+{% block title %}Page Not Found - Manga Recommender{% endblock %}
+
+{% block content %}
+<div class="text-center my-5">
+    <h1 class="display-1">404</h1>
+    <h2 class="mb-4">Page Not Found</h2>
+    <p class="lead">{{ message|default('The page you are looking for does not exist.', true) }}</p>
+    <a href="{{ url_for('index') }}" class="btn btn-primary mt-3">Go Home</a>
+</div>
+{% endblock %}

@@ -1,0 +1,166 @@
+{
+    "mal_id": 152,
+    "url": "https://myanimelist.net/manga/152/Boys_Be",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/183366.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/183366t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/183366l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/183366.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/183366t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/183366l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boys Be..."
+        },
+        {
+            "type": "Japanese",
+            "title": "BOYS BE…"
+        },
+        {
+            "type": "English",
+            "title": "Boys Be..."
+        }
+    ],
+    "title": "Boys Be...",
+    "title_english": "Boys Be...",
+    "title_japanese": "BOYS BE…",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 255,
+    "volumes": 32,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1991-07-24T00:00:00+00:00",
+        "to": "1996-10-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 7,
+                "year": 1991
+            },
+            "to": {
+                "day": 30,
+                "month": 10,
+                "year": 1996
+            }
+        },
+        "string": "Jul 24, 1991 to Oct 30, 1996"
+    },
+    "score": 6.49,
+    "scored": 6.49,
+    "scored_by": 389,
+    "rank": 16560,
+    "popularity": 10953,
+    "members": 1701,
+    "favorites": 13,
+    "synopsis": "An anthology of stories about ordinary high school guys and their relationships...or lack thereof. Boys Be... takes a look at the trials of love and loss from a refreshing point of view and often adds interesting insight into what a relationship is like from an average guys point of view!\n\n(Source: Tokyopop)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2077,
+            "type": "people",
+            "name": "Tamakoshi, Hiroyuki",
+            "url": "https://myanimelist.net/people/2077/Hiroyuki_Tamakoshi"
+        },
+        {
+            "mal_id": 2080,
+            "type": "people",
+            "name": "Itabashi, Masahiro",
+            "url": "https://myanimelist.net/people/2080/Masahiro_Itabashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 153,
+                    "type": "manga",
+                    "name": "Boys Be... 2nd Season",
+                    "url": "https://myanimelist.net/manga/153/Boys_Be_2nd_Season"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 105,
+                    "type": "anime",
+                    "name": "Boys Be...",
+                    "url": "https://myanimelist.net/anime/105/Boys_Be"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 101258,
+                    "type": "manga",
+                    "name": "Girls Be...",
+                    "url": "https://myanimelist.net/manga/101258/Girls_Be"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/BOYS_BE%E2%80%A6"
+        }
+    ]
+}

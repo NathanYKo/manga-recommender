@@ -1,0 +1,120 @@
+{
+    "mal_id": 182,
+    "url": "https://myanimelist.net/manga/182/Zombie_Hunter",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/12307.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/12307t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/12307l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/12307.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/12307t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/12307l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zombie Hunter"
+        },
+        {
+            "type": "Japanese",
+            "title": "死霊狩り"
+        }
+    ],
+    "title": "Zombie Hunter",
+    "title_english": null,
+    "title_japanese": "死霊狩り",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 26,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-01-01T00:00:00+00:00",
+        "to": "2000-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            }
+        },
+        "string": "1999 to 2000"
+    },
+    "score": 6.72,
+    "scored": 6.72,
+    "scored_by": 1449,
+    "rank": 13406,
+    "popularity": 6226,
+    "members": 3429,
+    "favorites": 26,
+    "synopsis": "Unknown to the world aliens have begun to invade people's bodies. A young race car pilot named Toshio was won by a mysterious organization for a \"test\" for money. That test turned out to be a hellish training to become a Zombie Hunter. However, Toshio decided to return to a normal life but soon face the harsh reality of a Zombie Hunter. Surrounded by shallow figures and aliens Toshio accepts his new life as a Zombie Hunter ...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2201,
+            "type": "people",
+            "name": "Hirai, Kazumasa",
+            "url": "https://myanimelist.net/people/2201/Kazumasa_Hirai"
+        },
+        {
+            "mal_id": 2202,
+            "type": "people",
+            "name": "Yang, Kyung-il",
+            "url": "https://myanimelist.net/people/2202/Kyung-il_Yang"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 114,
+            "type": "manga",
+            "name": "Comic Beam",
+            "url": "https://myanimelist.net/manga/magazine/114/Comic_Beam"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 130982,
+                    "type": "manga",
+                    "name": "Death Hunter",
+                    "url": "https://myanimelist.net/manga/130982/Death_Hunter"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Zombie_Hunter"
+        }
+    ]
+}

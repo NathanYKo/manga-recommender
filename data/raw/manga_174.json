@@ -1,0 +1,149 @@
+{
+    "mal_id": 174,
+    "url": "https://myanimelist.net/manga/174/Shooting_Star_Bebop__Cowboy_Bebop",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/176770.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/176770t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/176770l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/176770.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/176770t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/176770l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shooting Star Bebop: Cowboy Bebop"
+        },
+        {
+            "type": "Japanese",
+            "title": "シューティングスタービバップ―カウボーイビバップ"
+        },
+        {
+            "type": "English",
+            "title": "Cowboy Bebop: Shooting Star"
+        }
+    ],
+    "title": "Shooting Star Bebop: Cowboy Bebop",
+    "title_english": "Cowboy Bebop: Shooting Star",
+    "title_japanese": "シューティングスタービバップ―カウボーイビバップ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-05-01T00:00:00+00:00",
+        "to": "1998-10-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 5,
+                "year": 1998
+            },
+            "to": {
+                "day": 10,
+                "month": 10,
+                "year": 1998
+            }
+        },
+        "string": "May 1, 1998 to Oct 10, 1998"
+    },
+    "score": 6.71,
+    "scored": 6.71,
+    "scored_by": 2104,
+    "rank": 13596,
+    "popularity": 3803,
+    "members": 5896,
+    "favorites": 45,
+    "synopsis": "Kai Lucas hires the Bebop crew to find his mischievous doppelganger, but the bounty goes bust and Spike and Jet once again find themselves broke - and hungry. And to add to their woes, Spike ends up mysteriously on the police's most wanted list, either the butt of a joke or the victim of a severe computer glitch. But what's worse, being targeted by every bounty hunter in the solar system, or taking on a kid-genius, a genius puppy and a genus: fatale, species: femme as part of the crew. Well, if Scorpion or the Dragon Head Family doesn't kill them, the extra mouths to feed certainly will.\n\n(Source: Tokyopop)",
+    "background": "Shooting Star Bebop: Cowboy Bebop was published in English as Cowboy Bebop: Shooting Star by Tokyopop from April 8, 2003 to June 10, 2003.",
+    "authors": [
+        {
+            "mal_id": 2198,
+            "type": "people",
+            "name": "Kuga, Cain",
+            "url": "https://myanimelist.net/people/2198/Cain_Kuga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 97,
+            "type": "manga",
+            "name": "Asuka Fantasy DX",
+            "url": "https://myanimelist.net/manga/magazine/97/Asuka_Fantasy_DX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 173,
+                    "type": "manga",
+                    "name": "Cowboy Bebop",
+                    "url": "https://myanimelist.net/manga/173/Cowboy_Bebop"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1,
+                    "type": "anime",
+                    "name": "Cowboy Bebop",
+                    "url": "https://myanimelist.net/anime/1/Cowboy_Bebop"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A6%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%93%E3%83%90%E3%83%83%E3%83%97"
+        }
+    ]
+}

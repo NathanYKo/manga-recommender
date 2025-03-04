@@ -1,0 +1,117 @@
+{
+    "mal_id": 224,
+    "url": "https://myanimelist.net/manga/224/Camera_Camera_Camera",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/30593.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/30593t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/30593l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/30593.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/30593t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/30593l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Camera Camera Camera"
+        },
+        {
+            "type": "Japanese",
+            "title": "カメラ・カメラ・カメラ"
+        },
+        {
+            "type": "English",
+            "title": "Camera Camera Camera"
+        }
+    ],
+    "title": "Camera Camera Camera",
+    "title_english": "Camera Camera Camera",
+    "title_japanese": "カメラ・カメラ・カメラ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2002"
+    },
+    "score": 6.72,
+    "scored": 6.72,
+    "scored_by": 193,
+    "rank": 13399,
+    "popularity": 25905,
+    "members": 441,
+    "favorites": 2,
+    "synopsis": "Akira Togawa is a normal teenager: he goes to an average high school, he plays video games, he's in love with his step-brother, he's harassed by lecherous photographers, picked on by mischievous little boys, insulted by possessive young women...you get the idea. When a scruffy photographer by the name of Kaoru Nakahara has a premonition of love (or so he says) and takes a campus photography job, he ends up meeting Akira and falls head over heels. Will Akira learn to love the persistent pervert, or will he cling to his beloved brother?\n\n(Source: Juné Manga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2231,
+            "type": "people",
+            "name": "Matsumoto, Kazura",
+            "url": "https://myanimelist.net/people/2231/Kazura_Matsumoto"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 2737,
+                    "type": "manga",
+                    "name": "Natsuyasumi",
+                    "url": "https://myanimelist.net/manga/2737/Natsuyasumi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.junemanga.com/books/87/"
+        }
+    ]
+}

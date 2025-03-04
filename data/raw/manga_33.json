@@ -1,0 +1,154 @@
+{
+    "mal_id": 33,
+    "url": "https://myanimelist.net/manga/33/Pita-Ten",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/191236.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/191236t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/191236l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/191236.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/191236t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/191236l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Pita-Ten"
+        },
+        {
+            "type": "Synonym",
+            "title": "Clinging Angel"
+        },
+        {
+            "type": "Japanese",
+            "title": "ぴたテン"
+        },
+        {
+            "type": "English",
+            "title": "Pita-Ten"
+        }
+    ],
+    "title": "Pita-Ten",
+    "title_english": "Pita-Ten",
+    "title_japanese": "ぴたテン",
+    "title_synonyms": [
+        "Clinging Angel"
+    ],
+    "type": "Manga",
+    "chapters": 47,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-08-27T00:00:00+00:00",
+        "to": "2003-06-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 8,
+                "year": 1999
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2003
+            }
+        },
+        "string": "Aug 27, 1999 to Jun 27, 2003"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 4121,
+    "rank": 4610,
+    "popularity": 2676,
+    "members": 8287,
+    "favorites": 279,
+    "synopsis": "Kotarou Higuchi is a sixth-grade student who not only has to work hard to get into a good middle school, but he also has to deal with the responsibilities that come with living in an apartment all by himself. One day, while leaving for school, he is greeted with a surprise: an unfamiliar, older girl in a frilly black dress is waiting by his front door, asking to be friends with him!\n\nDespite his attempts at ignoring her, the strange girl determinedly follows Kotarou all the way to school and back. Giving in, Kotarou finds out that the strange girl's name is Misha and that she is his new neighbor, supposedly from Heaven to work on becoming a full-time angel. What will become of Kotarou and his life with this \"clingy angel\"?\n\n[Written by MAL Rewrite]",
+    "background": "Pita-Ten was published in English by Tokypop from January 13, 2004 to March 8, 2005.",
+    "authors": [
+        {
+            "mal_id": 1898,
+            "type": "people",
+            "name": "Koge-Donbo*",
+            "url": "https://myanimelist.net/people/1898/Koge-Donbo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Dengeki Comic Gao!",
+            "url": "https://myanimelist.net/manga/magazine/18/Dengeki_Comic_Gao"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 162,
+                    "type": "anime",
+                    "name": "Pita Ten",
+                    "url": "https://myanimelist.net/anime/162/Pita_Ten"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 4659,
+                    "type": "manga",
+                    "name": "Pita-Ten",
+                    "url": "https://myanimelist.net/manga/4659/Pita-Ten"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%B4%E3%81%9F%E3%83%86%E3%83%B3"
+        }
+    ]
+}

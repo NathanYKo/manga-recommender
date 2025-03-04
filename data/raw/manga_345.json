@@ -1,0 +1,155 @@
+{
+    "mal_id": 345,
+    "url": "https://myanimelist.net/manga/345/Kidou_Senshi_Gundam_SEED__X_Astray",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/184670.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/184670t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/184670l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/184670.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/184670t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/184670l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kidou Senshi Gundam SEED: X Astray"
+        },
+        {
+            "type": "Japanese",
+            "title": "機動戦士ガンダムSEED Ｘ Astray"
+        },
+        {
+            "type": "English",
+            "title": "Mobile Suit Gundam SEED X Astray"
+        }
+    ],
+    "title": "Kidou Senshi Gundam SEED: X Astray",
+    "title_english": "Mobile Suit Gundam SEED X Astray",
+    "title_japanese": "機動戦士ガンダムSEED Ｘ Astray",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-09-26T00:00:00+00:00",
+        "to": "2004-07-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 9,
+                "year": 2003
+            },
+            "to": {
+                "day": 26,
+                "month": 7,
+                "year": 2004
+            }
+        },
+        "string": "Sep 26, 2003 to Jul 26, 2004"
+    },
+    "score": 7.02,
+    "scored": 7.02,
+    "scored_by": 434,
+    "rank": 8630,
+    "popularity": 15866,
+    "members": 1015,
+    "favorites": 9,
+    "synopsis": "After having finished a job at Research Colony Mendel, a mysterious mobile suit approaches the colony--likely with hostile intent. When Lowe Gear intercepts in the Red Frame, the pilot opens fire... and thus begins another exciting adventure set in the popular Gundam Seed universe! Mobile Suit Gundam SEED X Astray continues where Gundam Seed Astray R left off!\n\n(Source: Tokyopop)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2330,
+            "type": "people",
+            "name": "Chiba, Tomohiro",
+            "url": "https://myanimelist.net/people/2330/Tomohiro_Chiba"
+        },
+        {
+            "mal_id": 2331,
+            "type": "people",
+            "name": "Tokita, Kouichi",
+            "url": "https://myanimelist.net/people/2331/Kouichi_Tokita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 68,
+            "type": "manga",
+            "name": "Gundam Ace",
+            "url": "https://myanimelist.net/manga/magazine/68/Gundam_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 593,
+                    "type": "manga",
+                    "name": "Kidou Senshi Gundam SEED: Astray",
+                    "url": "https://myanimelist.net/manga/593/Kidou_Senshi_Gundam_SEED__Astray"
+                },
+                {
+                    "mal_id": 594,
+                    "type": "manga",
+                    "name": "Kidou Senshi Gundam SEED: Astray R",
+                    "url": "https://myanimelist.net/manga/594/Kidou_Senshi_Gundam_SEED__Astray_R"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 10982,
+                    "type": "manga",
+                    "name": "Kidou Senshi Gundam SEED Destiny Astray",
+                    "url": "https://myanimelist.net/manga/10982/Kidou_Senshi_Gundam_SEED_Destiny_Astray"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://gundam.wikia.com/wiki/Mobile_Suit_Gundam_SEED_X_Astray"
+        }
+    ]
+}

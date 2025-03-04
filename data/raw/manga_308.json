@@ -1,0 +1,131 @@
+{
+    "mal_id": 308,
+    "url": "https://myanimelist.net/manga/308/Eden_no_Hana",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/40434.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/40434t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/40434l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/40434.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/40434t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/40434l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Eden no Hana"
+        },
+        {
+            "type": "Synonym",
+            "title": "Eden's Flower"
+        },
+        {
+            "type": "Synonym",
+            "title": "Flower of Eden"
+        },
+        {
+            "type": "Japanese",
+            "title": "エデンの花"
+        },
+        {
+            "type": "English",
+            "title": "Flower of Eden"
+        }
+    ],
+    "title": "Eden no Hana",
+    "title_english": "Flower of Eden",
+    "title_japanese": "エデンの花",
+    "title_synonyms": [
+        "Eden's Flower",
+        "Flower of Eden"
+    ],
+    "type": "Manga",
+    "chapters": 42,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-01-01T00:00:00+00:00",
+        "to": "2004-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            }
+        },
+        "string": "2000 to 2004"
+    },
+    "score": 7.37,
+    "scored": 7.37,
+    "scored_by": 1476,
+    "rank": 4088,
+    "popularity": 5731,
+    "members": 3747,
+    "favorites": 42,
+    "synopsis": "A schoolgirl who was adopted by a family experiences hardships at school and home. Her foster family treats her as Reika, their daughter who had died a couple years ago. Suddenly, her real blood-related brother appears before her, who has been searching for her for years. Now her life is turned upside down. Will she learn to trust other people again? (Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2293,
+            "type": "people",
+            "name": "Suetsugu, Yuki",
+            "url": "https://myanimelist.net/people/2293/Yuki_Suetsugu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 64,
+            "type": "manga",
+            "name": "Love Polygon",
+            "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Eden_no_hana"
+        }
+    ]
+}

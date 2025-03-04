@@ -1,0 +1,158 @@
+{
+    "mal_id": 307,
+    "url": "https://myanimelist.net/manga/307/Gakuen_Tokukei_Duklyon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260106.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260106t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260106l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260106.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260106t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260106l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gakuen Tokukei Duklyon"
+        },
+        {
+            "type": "Japanese",
+            "title": "学園特警デュカリオン"
+        },
+        {
+            "type": "English",
+            "title": "Duklyon: CLAMP School Defenders"
+        }
+    ],
+    "title": "Gakuen Tokukei Duklyon",
+    "title_english": "Duklyon: CLAMP School Defenders",
+    "title_japanese": "学園特警デュカリオン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1992-01-01T00:00:00+00:00",
+        "to": "1993-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1992
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            }
+        },
+        "string": "1992 to 1993"
+    },
+    "score": 6.45,
+    "scored": 6.45,
+    "scored_by": 1337,
+    "rank": 17103,
+    "popularity": 7583,
+    "members": 2720,
+    "favorites": 7,
+    "synopsis": "Kentaro and Takeshi are two freshmen who are periodically called upon to transform themselves into monster-battling superheroes, complete with capes and armor... but there's much more than meets the eye... \n\n(Source: Tokyopop)",
+    "background": "Gakuen Tokukei Duklyon was published in English by Tokyopop, and digitally by VIZ Media under the VIZ Select imprint from January 20, 2015 to February 17, 2015.",
+    "authors": [
+        {
+            "mal_id": 1877,
+            "type": "people",
+            "name": "CLAMP",
+            "url": "https://myanimelist.net/people/1877/CLAMP"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Newtype",
+            "url": "https://myanimelist.net/manga/magazine/31/Newtype"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1844,
+                    "type": "anime",
+                    "name": "Clamp Gakuen Tanteidan",
+                    "url": "https://myanimelist.net/anime/1844/Clamp_Gakuen_Tanteidan"
+                },
+                {
+                    "mal_id": 6107,
+                    "type": "anime",
+                    "name": "Aruhi no Clamp Gakuen Tanteidan",
+                    "url": "https://myanimelist.net/anime/6107/Aruhi_no_Clamp_Gakuen_Tanteidan"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 552,
+                    "type": "manga",
+                    "name": "20 Mensou ni Onegai!!",
+                    "url": "https://myanimelist.net/manga/552/20_Mensou_ni_Onegai"
+                },
+                {
+                    "mal_id": 130,
+                    "type": "manga",
+                    "name": "Clamp Gakuen Tanteidan",
+                    "url": "https://myanimelist.net/manga/130/Clamp_Gakuen_Tanteidan"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Duklyon:_Clamp_School_Defenders"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%AD%A6%E5%9C%92%E7%89%B9%E8%AD%A6%E3%83%87%E3%83%A5%E3%82%AB%E3%83%AA%E3%82%AA%E3%83%B3"
+        }
+    ]
+}

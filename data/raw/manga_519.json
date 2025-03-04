@@ -1,0 +1,142 @@
+{
+    "mal_id": 519,
+    "url": "https://myanimelist.net/manga/519/Seikai_no_Monshou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/1588.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/1588t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/1588l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/1588.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/1588t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/1588l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Seikai no Monshou"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Seikai Trilogy: Crest Of The Stars"
+        },
+        {
+            "type": "Japanese",
+            "title": "星界の紋章"
+        },
+        {
+            "type": "English",
+            "title": "Seikai Trilogy"
+        }
+    ],
+    "title": "Seikai no Monshou",
+    "title_english": "Seikai Trilogy",
+    "title_japanese": "星界の紋章",
+    "title_synonyms": [
+        "The Seikai Trilogy: Crest Of The Stars"
+    ],
+    "type": "Manga",
+    "chapters": 25,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1999 to ?"
+    },
+    "score": 7.24,
+    "scored": 7.24,
+    "scored_by": 427,
+    "rank": 5520,
+    "popularity": 15716,
+    "members": 1030,
+    "favorites": 16,
+    "synopsis": "After his home world is ruthlessly taken over by the Abh - a space-faring race that has conquered thousands of galaxies - a boy named Jinto begins an unforgettable journey that stretches the boundaries of the final frontier. With a beautiful princess at his side, he will attempt to unlock the secret behind the Abh domination and discover that all's fair in love and interplanetary war.\n\n(Source: Tokyopop)",
+    "background": "Seikai no Monshou was published in English as Seikai Trilogy by Tokyopop from June 8 to October 12, 2004. The volumes are unnumbered, but subtitled Crest of the Stars, Banner Of The Stars I and Banner Of The Stars II",
+    "authors": [
+        {
+            "mal_id": 2473,
+            "type": "people",
+            "name": "Morioka, Hiroyuki",
+            "url": "https://myanimelist.net/people/2473/Hiroyuki_Morioka"
+        },
+        {
+            "mal_id": 2474,
+            "type": "people",
+            "name": "Ono, Toshihiro",
+            "url": "https://myanimelist.net/people/2474/Toshihiro_Ono"
+        },
+        {
+            "mal_id": 2475,
+            "type": "people",
+            "name": "Miyakoshi, Wasoh",
+            "url": "https://myanimelist.net/people/2475/Wasoh_Miyakoshi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 5490,
+                    "type": "manga",
+                    "name": "Seikai no Monshou",
+                    "url": "https://myanimelist.net/manga/5490/Seikai_no_Monshou"
+                },
+                {
+                    "mal_id": 290,
+                    "type": "anime",
+                    "name": "Seikai no Monshou",
+                    "url": "https://myanimelist.net/anime/290/Seikai_no_Monshou"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 70189,
+                    "type": "manga",
+                    "name": "Seikai no Monshou",
+                    "url": "https://myanimelist.net/manga/70189/Seikai_no_Monshou"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

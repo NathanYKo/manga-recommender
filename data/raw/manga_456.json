@@ -1,0 +1,125 @@
+{
+    "mal_id": 456,
+    "url": "https://myanimelist.net/manga/456/Monochrome_Factor",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/205068.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/205068t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/205068l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/205068.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/205068t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/205068l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Monochrome Factor"
+        },
+        {
+            "type": "Japanese",
+            "title": "モノクローム・ファクター"
+        },
+        {
+            "type": "English",
+            "title": "Monochrome Factor"
+        }
+    ],
+    "title": "Monochrome Factor",
+    "title_english": "Monochrome Factor",
+    "title_japanese": "モノクローム・ファクター",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 65,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-01-01T00:00:00+00:00",
+        "to": "2011-06-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": 15,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "2004 to Jun 15, 2011"
+    },
+    "score": 7.55,
+    "scored": 7.55,
+    "scored_by": 2197,
+    "rank": 2641,
+    "popularity": 3540,
+    "members": 6320,
+    "favorites": 124,
+    "synopsis": "Akira Nikaidou is a typical slacker high school student who thinks he has a normal life until a mysterious man called Shirogane appears and tells him to meet him at the school that night. He is skeptical but goes anyway...and gets attacked by a shadow monster! Shirogane convinces him that the balance between the human world and the shadow world has been distorted, and that Akira must become a shin, a creature of the shadow world, in order to help restore the balance.\n\n(Source: Tokyopop)",
+    "background": "Monochrome Factor was published in English by Tokyopop, who printed the first four volumes from January 8 to December 1, 2008, before dropping the license and becoming default.",
+    "authors": [
+        {
+            "mal_id": 2424,
+            "type": "people",
+            "name": "Sorano, Kairi",
+            "url": "https://myanimelist.net/people/2424/Kairi_Sorano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Comic Blade Masamune",
+            "url": "https://myanimelist.net/manga/magazine/30/Comic_Blade_Masamune"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3656,
+                    "type": "anime",
+                    "name": "Monochrome Factor",
+                    "url": "https://myanimelist.net/anime/3656/Monochrome_Factor"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%95%E3%82%A1%E3%82%AF%E3%82%BF%E3%83%BC"
+        }
+    ]
+}

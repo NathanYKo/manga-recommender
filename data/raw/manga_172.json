@@ -1,0 +1,152 @@
+{
+    "mal_id": 172,
+    "url": "https://myanimelist.net/manga/172/Corrector_Yui",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/178097.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/178097t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/178097l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/178097.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/178097t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/178097l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Corrector Yui"
+        },
+        {
+            "type": "Japanese",
+            "title": "コレクター・ユイ"
+        },
+        {
+            "type": "English",
+            "title": "Corrector Yui"
+        }
+    ],
+    "title": "Corrector Yui",
+    "title_english": "Corrector Yui",
+    "title_japanese": "コレクター・ユイ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-04-01T00:00:00+00:00",
+        "to": "1999-12-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 1999
+            },
+            "to": {
+                "day": 1,
+                "month": 12,
+                "year": 1999
+            }
+        },
+        "string": "Apr 1999 to Dec 1999"
+    },
+    "score": 6.46,
+    "scored": 6.46,
+    "scored_by": 279,
+    "rank": 16965,
+    "popularity": 18655,
+    "members": 789,
+    "favorites": 5,
+    "synopsis": "In the year 2020, computers are everywhere. From digital teachers to cars that drive themselves, computers are an integral part of everyone's lives—everyone's, that is, except Yui Kasuga's. The 14-year-old daydreamer can't tell a Pentium chip from a Dorito! Very shortly, she will be called on to save the world from the mother of all computer viruses... and she can't even be bothered to stay awake in class!\n\n(Source: MU)",
+    "background": "Corrector Yui was published in English by Tokyopop from January 15 to September 17, 2002.",
+    "authors": [
+        {
+            "mal_id": 2195,
+            "type": "people",
+            "name": "Okamoto, Keiko",
+            "url": "https://myanimelist.net/people/2195/Keiko_Okamoto"
+        },
+        {
+            "mal_id": 2233,
+            "type": "people",
+            "name": "Asamiya, Kia",
+            "url": "https://myanimelist.net/people/2233/Kia_Asamiya"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 18412,
+                    "type": "manga",
+                    "name": "Corrector Yui Ver.2",
+                    "url": "https://myanimelist.net/manga/18412/Corrector_Yui_Ver2"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 111,
+                    "type": "anime",
+                    "name": "Corrector Yui",
+                    "url": "https://myanimelist.net/anime/111/Corrector_Yui"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 18411,
+                    "type": "manga",
+                    "name": "Corrector Yui",
+                    "url": "https://myanimelist.net/manga/18411/Corrector_Yui"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%A6%E3%82%A4"
+        }
+    ]
+}

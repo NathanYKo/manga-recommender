@@ -1,0 +1,151 @@
+{
+    "mal_id": 111,
+    "url": "https://myanimelist.net/manga/111/Mahoromatic",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180649.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180649t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180649l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180649.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180649t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180649l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mahoromatic"
+        },
+        {
+            "type": "Japanese",
+            "title": "まほろまてぃっく"
+        }
+    ],
+    "title": "Mahoromatic",
+    "title_english": null,
+    "title_japanese": "まほろまてぃっく",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 45,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-12-01T00:00:00+00:00",
+        "to": "2004-07-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 1998
+            },
+            "to": {
+                "day": 26,
+                "month": 7,
+                "year": 2004
+            }
+        },
+        "string": "Dec 1998 to Jul 26, 2004"
+    },
+    "score": 7.38,
+    "scored": 7.38,
+    "scored_by": 1490,
+    "rank": 4012,
+    "popularity": 5492,
+    "members": 3949,
+    "favorites": 92,
+    "synopsis": "Vesper is a secret agency fighting an army of alien invaders by using super-powerful battle androids. Mahoro is Vesper\\'s most powerful battle android and has won many battles, but she has little operating time left and soon will cease to function. However, if she lays down her arms and conserves her remaining power, the time she has left can be prolonged to just over a year. Mahoro is given an opportunity to live the remaining time she has as a normal human. She chooses to live as a maid for Suguru, a phenomenally messy high school student who lives by himself after his family passed away.\n\n(Source: ANN)",
+    "background": "Mahoromatic was published in English as Mahoromatic: Automatic Maiden by Tokyopop from May 1, 2004 to January 11, 2006.",
+    "authors": [
+        {
+            "mal_id": 1951,
+            "type": "people",
+            "name": "Ditama, Bow",
+            "url": "https://myanimelist.net/people/1951/Bow_Ditama"
+        },
+        {
+            "mal_id": 1952,
+            "type": "people",
+            "name": "Nakayama, Bunjuro",
+            "url": "https://myanimelist.net/people/1952/Bunjuro_Nakayama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 33,
+            "type": "manga",
+            "name": "Comic Gum",
+            "url": "https://myanimelist.net/manga/magazine/33/Comic_Gum"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 276,
+                    "type": "anime",
+                    "name": "Mahoromatic: Automatic Maiden",
+                    "url": "https://myanimelist.net/anime/276/Mahoromatic__Automatic_Maiden"
+                },
+                {
+                    "mal_id": 7066,
+                    "type": "anime",
+                    "name": "Mahoromatic: Tadaima Okaeri",
+                    "url": "https://myanimelist.net/anime/7066/Mahoromatic__Tadaima_Okaeri"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%BB%E3%82%8D%E3%81%BE%E3%81%A6%E3%81%83%E3%81%A3%E3%81%8F"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "mal_id": 285,
+    "url": "https://myanimelist.net/manga/285/Love_Recipe",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/5529.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/5529t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/5529l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/5529.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/5529t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/5529l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Love Recipe"
+        },
+        {
+            "type": "Japanese",
+            "title": "愛在旋轉"
+        },
+        {
+            "type": "English",
+            "title": "Love Recipe"
+        }
+    ],
+    "title": "Love Recipe",
+    "title_english": "Love Recipe",
+    "title_japanese": "愛在旋轉",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2005"
+    },
+    "score": 7.23,
+    "scored": 7.23,
+    "scored_by": 518,
+    "rank": null,
+    "popularity": 13334,
+    "members": 1308,
+    "favorites": 15,
+    "synopsis": "Tomonori Ozawa has just landed a job at a large publishing firm. The only catch is, he is the new editor of a Boy’s Love magazine?! On top of that, he is stuck with dealing with the artist Sakurako Kakyoin, a male yaoi artist who is notorious for missing his deadlines. To become a full fledged editor, Tomonori-kun has to start from the bottom – checking drafts, editing scripts and lettering. Now if only Kakyoin-sensei would stop sexually harassing him, he could actually get some work done! \n\n(Source: DMP)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2275,
+            "type": "people",
+            "name": "Higashizato, Kirico",
+            "url": "https://myanimelist.net/people/2275/Kirico_Higashizato"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 192,
+            "type": "manga",
+            "name": "Daria",
+            "url": "https://myanimelist.net/manga/magazine/192/Daria"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 19472,
+                    "type": "manga",
+                    "name": "Love Portion",
+                    "url": "https://myanimelist.net/manga/19472/Love_Portion"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.dmpbooks.com/titles?n=78"
+        }
+    ]
+}

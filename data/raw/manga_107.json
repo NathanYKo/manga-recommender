@@ -1,0 +1,159 @@
+{
+    "mal_id": 107,
+    "url": "https://myanimelist.net/manga/107/Chobits",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/260812.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/260812t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/260812l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/260812.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/260812t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/260812l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Chobits"
+        },
+        {
+            "type": "Japanese",
+            "title": "ちょびっツ"
+        },
+        {
+            "type": "English",
+            "title": "Chobits"
+        }
+    ],
+    "title": "Chobits",
+    "title_english": "Chobits",
+    "title_japanese": "ちょびっツ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 88,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-09-25T00:00:00+00:00",
+        "to": "2002-10-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 9,
+                "year": 2000
+            },
+            "to": {
+                "day": 28,
+                "month": 10,
+                "year": 2002
+            }
+        },
+        "string": "Sep 25, 2000 to Oct 28, 2002"
+    },
+    "score": 7.78,
+    "scored": 7.78,
+    "scored_by": 37596,
+    "rank": 1403,
+    "popularity": 234,
+    "members": 70491,
+    "favorites": 2883,
+    "synopsis": "After enduring four years of high school, Hideki Motosuwa strives to get into the university of his choice by attending cram school in Tokyo. Concurrently, he works daily shifts at a bar to make ends meet, thus missing out on the world's latest invention—human-like computers called Persocoms. Longing for a persocom of his own, Hideki is met with a stroke of luck when he stumbles upon a cute abandoned persocom in a garbage pile.\n\nUpon finding the power button, Hideki finds his newfound robot to be faulty and only capable of uttering the word \"Chii\"—which Hideki decides to name her after. Chii, however, is no ordinary persocom: capable of thinking and learning on her own, she is a legendary type of robot known as a Chobit. Now, it is up to Hideki to teach Chii how to live an ordinary life and to uncover the truth behind the elusive chobits series.\n\n[Written by MAL Rewrite]",
+    "background": "Chobits was published in English by Tokyopop from April 23, 2002, to October 7, 2003. Dark Horse later republished the series in two omnibus volumes. Kodansha USA republished the series digitally in four omnibus volumes titled Chobits 20th Anniversary Edition from June 9, 2020, to June 15, 2021. It was also released in Brazilian Portuguese by Editora JBC in 16 volumes from August 2003 to April 2004.",
+    "authors": [
+        {
+            "mal_id": 1877,
+            "type": "people",
+            "name": "CLAMP",
+            "url": "https://myanimelist.net/people/1877/CLAMP"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 59,
+                    "type": "anime",
+                    "name": "Chobits",
+                    "url": "https://myanimelist.net/anime/59/Chobits"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 80,
+                    "type": "manga",
+                    "name": "Angelic Layer",
+                    "url": "https://myanimelist.net/manga/80/Angelic_Layer"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/chobits-20th-anniversary-edition/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%A1%E3%82%87%E3%81%B3%E3%81%A3%E3%83%84"
+        }
+    ]
+}

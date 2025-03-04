@@ -1,0 +1,153 @@
+{
+    "mal_id": 500,
+    "url": "https://myanimelist.net/manga/500/RG_Veda",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/265984.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/265984t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/265984l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/265984.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/265984t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/265984l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "RG Veda"
+        },
+        {
+            "type": "Synonym",
+            "title": "Seiden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rigveda"
+        },
+        {
+            "type": "Japanese",
+            "title": "聖伝 ‐RG VEDA‐"
+        },
+        {
+            "type": "English",
+            "title": "RG Veda"
+        }
+    ],
+    "title": "RG Veda",
+    "title_english": "RG Veda",
+    "title_japanese": "聖伝 ‐RG VEDA‐",
+    "title_synonyms": [
+        "Seiden",
+        "Rigveda"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1990-01-01T00:00:00+00:00",
+        "to": "1996-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1990
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1996
+            }
+        },
+        "string": "1990 to 1996"
+    },
+    "score": 7.68,
+    "scored": 7.68,
+    "scored_by": 3910,
+    "rank": 1847,
+    "popularity": 2083,
+    "members": 10313,
+    "favorites": 216,
+    "synopsis": "300 years ago, a powerful warlord rebelled against the Heavenly Emperor. After killing the Emperor, the warlord crowned himself as the new Emperor, starting a cruel reign. But there is a prophecy: Six Stars will one day assemble and overthrow his tyrannical rule ...\nNow, the ruler of the Yasha Clan has found Ashura, the last of the Ashura Clan, and together they set out to find the Six Stars and fulfill the prophecy.\n\n(Source: Tokyopop)",
+    "background": "RG Veda was published in English by Tokyopop from April 12, 2005, to September 4, 2007. Dark Horse Comics later republished the series in omnibus volumes. It was also released in Spanish by Norma Editorial from April 1, 2008, to October 1, 2009; in Brazilian Portuguese by Editora JBC from October 2012 to August 2013; and in Polish by Japonica Polonica Fantastica in 2-in-1 omnibus volumes from April 28, 2022, to June 5, 2023.",
+    "authors": [
+        {
+            "mal_id": 1877,
+            "type": "people",
+            "name": "CLAMP",
+            "url": "https://myanimelist.net/people/1877/CLAMP"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Wings",
+            "url": "https://myanimelist.net/manga/magazine/45/Wings"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 439,
+                    "type": "anime",
+                    "name": "RG Veda",
+                    "url": "https://myanimelist.net/anime/439/RG_Veda"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 31983,
+                    "type": "manga",
+                    "name": "Shining Star",
+                    "url": "https://myanimelist.net/manga/31983/Shining_Star"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E8%81%96%E4%BC%9D-RG_VEDA-"
+        }
+    ]
+}

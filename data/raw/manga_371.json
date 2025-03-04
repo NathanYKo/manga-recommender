@@ -1,0 +1,149 @@
+{
+    "mal_id": 371,
+    "url": "https://myanimelist.net/manga/371/Ichigo_Mashimaro",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/156517.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/156517t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/156517l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/156517.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/156517t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/156517l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ichigo Mashimaro"
+        },
+        {
+            "type": "Japanese",
+            "title": "苺ましまろ"
+        },
+        {
+            "type": "English",
+            "title": "Strawberry Marshmallow"
+        }
+    ],
+    "title": "Ichigo Mashimaro",
+    "title_english": "Strawberry Marshmallow",
+    "title_japanese": "苺ましまろ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2002-02-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 2,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 15, 2002 to ?"
+    },
+    "score": 7.89,
+    "scored": 7.89,
+    "scored_by": 2026,
+    "rank": 1030,
+    "popularity": 2693,
+    "members": 8243,
+    "favorites": 302,
+    "synopsis": "\"Cute girls doing cute things in cute ways.\"\n\nEveryday things make up the fabric of life whether its making friends, going to school, trying to make money, or celebrating a holiday. Ichigo Mashimaro is a heartwarming series that follows the daily lives of Itoh Chika, her sister Nobue, and her friends Miu, Matsuri, and Ana.\n\n[Written by MAL Rewrite]",
+    "background": "The first five volumes of Ichigo Mashimaro were published in English as Strawberry Marshmallow by Tokyopop from July 11, 2006 to June 8, 2008 before release was discontinued.",
+    "authors": [
+        {
+            "mal_id": 2355,
+            "type": "people",
+            "name": "Barasui",
+            "url": "https://myanimelist.net/people/2355/Barasui"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 4156,
+                    "type": "anime",
+                    "name": "Ichigo Mashimaro Episode 0",
+                    "url": "https://myanimelist.net/anime/4156/Ichigo_Mashimaro_Episode_0"
+                },
+                {
+                    "mal_id": 488,
+                    "type": "anime",
+                    "name": "Ichigo Mashimaro",
+                    "url": "https://myanimelist.net/anime/488/Ichigo_Mashimaro"
+                },
+                {
+                    "mal_id": 1888,
+                    "type": "anime",
+                    "name": "Ichigo Mashimaro OVA",
+                    "url": "https://myanimelist.net/anime/1888/Ichigo_Mashimaro_OVA"
+                },
+                {
+                    "mal_id": 4811,
+                    "type": "anime",
+                    "name": "Ichigo Mashimaro Encore",
+                    "url": "https://myanimelist.net/anime/4811/Ichigo_Mashimaro_Encore"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E8%8B%BA%E3%81%BE%E3%81%97%E3%81%BE%E3%82%8D"
+        }
+    ]
+}

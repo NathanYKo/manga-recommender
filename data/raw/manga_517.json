@@ -1,0 +1,149 @@
+{
+    "mal_id": 517,
+    "url": "https://myanimelist.net/manga/517/sCRYed",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/56325.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/56325t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/56325l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/56325.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/56325t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/56325l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "s.CRY.ed"
+        },
+        {
+            "type": "Japanese",
+            "title": "スクライド"
+        },
+        {
+            "type": "English",
+            "title": "Scryed"
+        }
+    ],
+    "title": "s.CRY.ed",
+    "title_english": "Scryed",
+    "title_japanese": "スクライド",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 45,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-05-31T00:00:00+00:00",
+        "to": "2002-04-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 5,
+                "year": 2001
+            },
+            "to": {
+                "day": 18,
+                "month": 4,
+                "year": 2002
+            }
+        },
+        "string": "May 31, 2001 to Apr 18, 2002"
+    },
+    "score": 6.75,
+    "scored": 6.75,
+    "scored_by": 840,
+    "rank": 12882,
+    "popularity": 9006,
+    "members": 2196,
+    "favorites": 33,
+    "synopsis": "22 years ago a mysterious seismic phenomenon rocked the Yokohama district, thrusting it miles into the sky and effectively separating it from the rest of Japan. In the following years, a fraction of the newborns in this fledgling world began to develop extraordinary powers, each unique to the personality of the possessor. These mutated humans became known as Alters and were responsible for turning the former Yokohama into a chaotic wasteland.\n\nNow, as the former metropolis continues to re-build itself, the Alters have fallen into two camps: those who have joined HOLY, a dogmatic organization that hopes to re-establish order and morality, and those who wish to lord over the comparatively weaker humans. Only Kazuma, a powerful Alter who's really only interested in looking out for himself and an orphan girl named Kanami, stands between them, suspicious of both sides and unaware that he may hold the key to harmonious co-existence.\n\n(Source: Tokyopop)",
+    "background": "s.CRY.ed was published in English as Scryed by Tokyopop from March 11 to November 23, 2003.",
+    "authors": [
+        {
+            "mal_id": 2471,
+            "type": "people",
+            "name": "Kuroda, Yousuke",
+            "url": "https://myanimelist.net/people/2471/Yousuke_Kuroda"
+        },
+        {
+            "mal_id": 2472,
+            "type": "people",
+            "name": "Toda, Yasunari",
+            "url": "https://myanimelist.net/people/2472/Yasunari_Toda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 36755,
+                    "type": "manga",
+                    "name": "s.CRY.ed After",
+                    "url": "https://myanimelist.net/manga/36755/sCRYed_After"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 168,
+                    "type": "anime",
+                    "name": "s.CRY.ed",
+                    "url": "https://myanimelist.net/anime/168/sCRYed"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%89"
+        }
+    ]
+}

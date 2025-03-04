@@ -1,0 +1,106 @@
+{
+    "mal_id": 311,
+    "url": "https://myanimelist.net/manga/311/Eternity",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/152314.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/152314t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/152314l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/152314.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/152314t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/152314l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Eternity"
+        },
+        {
+            "type": "Japanese",
+            "title": "이터너티"
+        },
+        {
+            "type": "English",
+            "title": "Eternity"
+        }
+    ],
+    "title": "Eternity",
+    "title_english": "Eternity",
+    "title_japanese": "이터너티",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": 34,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1999 to ?"
+    },
+    "score": 6.32,
+    "scored": 6.32,
+    "scored_by": 130,
+    "rank": 18222,
+    "popularity": 27105,
+    "members": 403,
+    "favorites": 1,
+    "synopsis": "In the year 184, three leaders (Yoobe, Kwanoo, and Jangbe) rose up against the oppressive Chinese government and were all killed. Now, a 17-year-old shaman by the name of Aram Ko is in search of the reincarnations of the three men. Back in the year 184, Kwanoo had saved a man's life and, in return, that man ensured that every one of Kwanoo's female descendents became a Shaman so that they could serve Kwanoo when he is reincarnated.\n\n(Souce: Tokyopop)",
+    "background": "Eternity was published in English by Tokyopop from 2004 to September 30, 2005.",
+    "authors": [
+        {
+            "mal_id": 2296,
+            "type": "people",
+            "name": "Park, Jin-Ryong",
+            "url": "https://myanimelist.net/people/2296/Jin-Ryong_Park"
+        },
+        {
+            "mal_id": 2297,
+            "type": "people",
+            "name": "Shin, Yong-Gwan",
+            "url": "https://myanimelist.net/people/2297/Yong-Gwan_Shin"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,119 @@
+{
+    "mal_id": 226,
+    "url": "https://myanimelist.net/manga/226/Mizu_Nurumu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/249350.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/249350t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/249350l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/249350.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/249350t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/249350l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mizu Nurumu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mizu Numuru"
+        },
+        {
+            "type": "Japanese",
+            "title": "水温む"
+        },
+        {
+            "type": "English",
+            "title": "Spring Fever"
+        }
+    ],
+    "title": "Mizu Nurumu",
+    "title_english": "Spring Fever",
+    "title_japanese": "水温む",
+    "title_synonyms": [
+        "Mizu Numuru"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-10-01T00:00:00+00:00",
+        "to": "2001-03-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2000
+            },
+            "to": {
+                "day": 1,
+                "month": 3,
+                "year": 2001
+            }
+        },
+        "string": "Oct 2000 to Mar 2001"
+    },
+    "score": 6.92,
+    "scored": 6.92,
+    "scored_by": 353,
+    "rank": null,
+    "popularity": 21051,
+    "members": 646,
+    "favorites": 0,
+    "synopsis": "Yusuke Onishi easily gets crushes on everybody and anybody, but never succeeds in love. That is, until the day he meets and falls in love with his new neighbor—a mature single parent. Yusuke has finally met his match. But his match just happens to be a guy! This is a classic oyaji-uke of an unexpected love between two people, one younger, one older.\n\n(Source: Deux)\n\nIncluded one-shots\nWildman Blues",
+    "background": "Mizu Nurumu was published in English as Spring Fever by Aurora Publishing's Deux Press imprint on August 1, 2007.",
+    "authors": [
+        {
+            "mal_id": 2232,
+            "type": "people",
+            "name": "Yamada, Yugi",
+            "url": "https://myanimelist.net/people/2232/Yugi_Yamada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 225,
+                    "type": "manga",
+                    "name": "Chiisana Glass no Sora",
+                    "url": "https://myanimelist.net/manga/225/Chiisana_Glass_no_Sora"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

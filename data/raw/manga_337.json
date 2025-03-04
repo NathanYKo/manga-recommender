@@ -1,0 +1,100 @@
+{
+    "mal_id": 337,
+    "url": "https://myanimelist.net/manga/337/Blue_Inferior",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/77263.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/77263t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/77263l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/77263.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/77263t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/77263l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Blue Inferior"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブルー・インフェリア"
+        },
+        {
+            "type": "English",
+            "title": "Blue Inferior"
+        }
+    ],
+    "title": "Blue Inferior",
+    "title_english": "Blue Inferior",
+    "title_japanese": "ブルー・インフェリア",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 24,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1994-01-01T00:00:00+00:00",
+        "to": "2001-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1994
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            }
+        },
+        "string": "1994 to 2001"
+    },
+    "score": null,
+    "scored": null,
+    "scored_by": null,
+    "rank": 20435,
+    "popularity": 35440,
+    "members": 220,
+    "favorites": 1,
+    "synopsis": "It is a world where environmental pollution has spiraled out of control. Most of the land is contaminated desert, and there are only a few pockets along the shore where people can live. Those inhabiting these oases are suspicious of strangers, and know nothing about the outside world save for stories of vicious \"sub-humans.\" One day, a young girl named Marine washes up on the shore of one of the inhabited lands. She has no memory of where she came from. She is found by a young boy named Kazuya, who loves the sea and has a natural curiosity about the outside world. The two of them start to become friends... but then rumors start spreading that Marine might be a sub-human, and she is locked up. Now Kazuya must help her escape, and uncover the mystery of who she is and where she came from. \n\n(Source: ADV)",
+    "background": "Blue Inferior had one volume published in English by ADV Manga on June 8, 2004 before the license was dropped and the publisher went defunct.",
+    "authors": [
+        {
+            "mal_id": 2320,
+            "type": "people",
+            "name": "Shitou, Kyouko",
+            "url": "https://myanimelist.net/people/2320/Kyouko_Shitou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 520,
+            "type": "manga",
+            "name": "Comic Tom (Monthly)",
+            "url": "https://myanimelist.net/manga/magazine/520/Comic_Tom_Monthly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Blue_Inferior"
+        }
+    ]
+}

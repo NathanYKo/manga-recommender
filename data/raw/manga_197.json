@@ -1,0 +1,108 @@
+{
+    "mal_id": 197,
+    "url": "https://myanimelist.net/manga/197/Zettai_Unmei_Houteishiki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/1345.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/1345t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/1345l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/1345.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/1345t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/1345l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zettai Unmei Houteishiki"
+        },
+        {
+            "type": "Japanese",
+            "title": "絶対運命方程式"
+        }
+    ],
+    "title": "Zettai Unmei Houteishiki",
+    "title_english": null,
+    "title_japanese": "絶対運命方程式",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-09-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 9,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 25, 2004"
+    },
+    "score": 7.06,
+    "scored": 7.06,
+    "scored_by": 1037,
+    "rank": null,
+    "popularity": 10483,
+    "members": 1804,
+    "favorites": 3,
+    "synopsis": "Tamaki, the son of a Yakuza family, is friends with Tomoyuki who is 12 years older than him. One day, Tomoyuki kisses Tamaki. Tamaki becomes confused and runs away but before he has a chance to figure out his feelings, Tomoyuki goes abroad for 3 years without saying anything or keeping in touch with Tamaki. Now Tomoyuki is back in Japan but he's avoiding Tamaki. Can the two become close again? (Source: B-U)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2210,
+            "type": "people",
+            "name": "Fuwa, Shinri",
+            "url": "https://myanimelist.net/people/2210/Shinri_Fuwa"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 200,
+                    "type": "manga",
+                    "name": "Tsumasaki ni Kiss",
+                    "url": "https://myanimelist.net/manga/200/Tsumasaki_ni_Kiss"
+                },
+                {
+                    "mal_id": 198,
+                    "type": "manga",
+                    "name": "Gravity Eyes",
+                    "url": "https://myanimelist.net/manga/198/Gravity_Eyes"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

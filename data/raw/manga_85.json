@@ -1,0 +1,159 @@
+{
+    "mal_id": 85,
+    "url": "https://myanimelist.net/manga/85/Azumanga_Daioh",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/259651.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/259651t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/259651l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/259651.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/259651t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/259651l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Azumanga Daioh"
+        },
+        {
+            "type": "Japanese",
+            "title": "あずまんが大王"
+        },
+        {
+            "type": "English",
+            "title": "Azumanga Daioh"
+        }
+    ],
+    "title": "Azumanga Daioh",
+    "title_english": "Azumanga Daioh",
+    "title_japanese": "あずまんが大王",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 69,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-01-18T00:00:00+00:00",
+        "to": "2002-03-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 1,
+                "year": 1999
+            },
+            "to": {
+                "day": 21,
+                "month": 3,
+                "year": 2002
+            }
+        },
+        "string": "Jan 18, 1999 to Mar 21, 2002"
+    },
+    "score": 8.36,
+    "scored": 8.36,
+    "scored_by": 26434,
+    "rank": 253,
+    "popularity": 309,
+    "members": 56581,
+    "favorites": 3604,
+    "synopsis": "Chiyo Mihama is a child prodigy who has skipped several grades to end up in high school. On her first day, she discovers that her class is full of eccentric individuals. Sakaki, who towers over Chiyo, is aloof and intimidating; Tomo Takino is loud and annoying; Ayumu \"Osaka\" Kasuga is absentminded but great at solving riddles; Koyomi \"Yomi\" Mizuhara is obsessed with diets and loves karaoke despite her awful singing; and Kagura, who is a competitive tomboy.\n\nAs the classmates become good friends over time, they experience their everyday lives together—things like school, studying, going on summer trips, and engaging in all kinds of shenanigans!\n\n[Written by MAL Rewrite]",
+    "background": "Azumanga Daioh was published in English by ADV Manga from September 16, 2003, to April 6, 2004, and in a complete omnibus on November 20, 2007. Yen Press republished the series as a complete omnibus with new translations on December 15, 2009. It was also released in Brazilian Portuguese by NewPOP Editora from July 2014 to May 2015.",
+    "authors": [
+        {
+            "mal_id": 1939,
+            "type": "people",
+            "name": "Azuma, Kiyohiko",
+            "url": "https://myanimelist.net/people/1939/Kiyohiko_Azuma"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 66,
+                    "type": "anime",
+                    "name": "Azumanga Daiou The Animation",
+                    "url": "https://myanimelist.net/anime/66/Azumanga_Daiou_The_Animation"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 13992,
+                    "type": "manga",
+                    "name": "Azumanga Daioh: Hoshuu-hen",
+                    "url": "https://myanimelist.net/manga/13992/Azumanga_Daioh__Hoshuu-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 59917,
+                    "type": "manga",
+                    "name": "Osaka Banpaku",
+                    "url": "https://myanimelist.net/manga/59917/Osaka_Banpaku"
+                },
+                {
+                    "mal_id": 29937,
+                    "type": "manga",
+                    "name": "Bara Manga Daioh",
+                    "url": "https://myanimelist.net/manga/29937/Bara_Manga_Daioh"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%82%E3%81%9A%E3%81%BE%E3%82%93%E3%81%8C%E5%A4%A7%E7%8E%8B"
+        }
+    ]
+}

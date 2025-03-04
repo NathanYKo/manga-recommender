@@ -1,0 +1,139 @@
+{
+    "mal_id": 123,
+    "url": "https://myanimelist.net/manga/123/Tenshi_no_Su",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/114665.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/114665t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/114665l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/114665.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/114665t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/114665l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tenshi no Su"
+        },
+        {
+            "type": "Synonym",
+            "title": "God Knows Everything"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tea Time"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dispensation of Heaven"
+        },
+        {
+            "type": "Synonym",
+            "title": "God Only Knows"
+        },
+        {
+            "type": "Japanese",
+            "title": "天使の巣"
+        },
+        {
+            "type": "English",
+            "title": "Angel Nest"
+        }
+    ],
+    "title": "Tenshi no Su",
+    "title_english": "Angel Nest",
+    "title_japanese": "天使の巣",
+    "title_synonyms": [
+        "God Knows Everything",
+        "Tea Time",
+        "Dispensation of Heaven",
+        "God Only Knows"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2000 to ?"
+    },
+    "score": 6.55,
+    "scored": 6.55,
+    "scored_by": 296,
+    "rank": 15806,
+    "popularity": 20103,
+    "members": 700,
+    "favorites": 1,
+    "synopsis": "A woman named Natsu finds Ken, her husband, with another woman when she comes home from work one day. Ken confesses that he is in love with the girl, mi, and asks Natsu for a divorce. Natsu doesn't really feel shocked OR sad, for some strange reason. All she can think of is what she has learned from her five years with Ken, and how she can move forward. Then, one sleepless night, she sees an angel sitting on her balcony... and soon after, the angel begins living with her. \n\nIncluded in this volume are three more short manga stories: God Knows Everything, Tea Time and Dispensation of Heaven.\n\n(Source: Tokyopop)",
+    "background": "Tenshi no Su was published in English as Erica Sakurazawa: Angel Nest by Tokyopop on September 9, 2003. It has also been published in German by Tokyopop Gmbh.",
+    "authors": [
+        {
+            "mal_id": 1960,
+            "type": "people",
+            "name": "Sakurazawa, Erica",
+            "url": "https://myanimelist.net/people/1960/Erica_Sakurazawa"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1477,
+                    "type": "manga",
+                    "name": "Tenshi",
+                    "url": "https://myanimelist.net/manga/1477/Tenshi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.tokyopop.com/shop/1138/"
+        }
+    ]
+}

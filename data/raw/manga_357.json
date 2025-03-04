@@ -1,0 +1,149 @@
+{
+    "mal_id": 357,
+    "url": "https://myanimelist.net/manga/357/Wolfs_Rain",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/181408.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/181408t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/181408l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/181408.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/181408t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/181408l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Wolf's Rain"
+        },
+        {
+            "type": "Japanese",
+            "title": "WOLF'S RAIN"
+        },
+        {
+            "type": "English",
+            "title": "Wolf's Rain"
+        }
+    ],
+    "title": "Wolf's Rain",
+    "title_english": "Wolf's Rain",
+    "title_japanese": "WOLF'S RAIN",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-02-26T00:00:00+00:00",
+        "to": "2004-01-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 2,
+                "year": 2003
+            },
+            "to": {
+                "day": 26,
+                "month": 1,
+                "year": 2004
+            }
+        },
+        "string": "Feb 26, 2003 to Jan 26, 2004"
+    },
+    "score": 7.14,
+    "scored": 7.14,
+    "scored_by": 6885,
+    "rank": 6898,
+    "popularity": 1428,
+    "members": 14756,
+    "favorites": 291,
+    "synopsis": "Humans thought the wolves died off two centuries ago in this bleak post-apocalyptic wasteland. But some survivors lurk among the humans by mentally cloaking their animal bodies. One white wolf, Kiba, scours the land for the scent of the Lunar Flower that will lead them all to Paradise...but will it lead them to a deadly false legend?\n\n(Source: VIZ Media)",
+    "background": "Wolf's Rain was published in English by VIZ Media from November 9, 2004 to February 1, 2005.",
+    "authors": [
+        {
+            "mal_id": 2334,
+            "type": "people",
+            "name": "Nobumoto, Keiko",
+            "url": "https://myanimelist.net/people/2334/Keiko_Nobumoto"
+        },
+        {
+            "mal_id": 2335,
+            "type": "people",
+            "name": "Iida, Toshitsugu",
+            "url": "https://myanimelist.net/people/2335/Toshitsugu_Iida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 70,
+            "type": "manga",
+            "name": "Magazine-Z",
+            "url": "https://myanimelist.net/manga/magazine/70/Magazine-Z"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 202,
+                    "type": "anime",
+                    "name": "Wolf's Rain",
+                    "url": "https://myanimelist.net/anime/202/Wolfs_Rain"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/WOLF'S_RAIN"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "mal_id": 287,
+    "url": "https://myanimelist.net/manga/287/Devil_May_Cry_3",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/112447.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/112447t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/112447l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/112447.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/112447t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/112447l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Devil May Cry 3"
+        },
+        {
+            "type": "Japanese",
+            "title": "デビル メイ クライ 3"
+        },
+        {
+            "type": "English",
+            "title": "Devil May Cry 3"
+        }
+    ],
+    "title": "Devil May Cry 3",
+    "title_english": "Devil May Cry 3",
+    "title_japanese": "デビル メイ クライ 3",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-02-10T00:00:00+00:00",
+        "to": "2005-07-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 2,
+                "year": 2005
+            },
+            "to": {
+                "day": 23,
+                "month": 7,
+                "year": 2005
+            }
+        },
+        "string": "Feb 10, 2005 to Jul 23, 2005"
+    },
+    "score": 7.08,
+    "scored": 7.08,
+    "scored_by": 2834,
+    "rank": 7785,
+    "popularity": 3802,
+    "members": 5897,
+    "favorites": 124,
+    "synopsis": "It's been 2000 years since the rebellion lead by the Dark Knight Sparda, a demon who turned to the side of good. The gateway to the Underworld has been sealed and humans are now safe from an invasion of the demon world.\n\nDante, Sparda's son, makes a living by eradicating demons. His first job is to find and bring back a girl named Alice. But what awaits him when he storms the inn where Alice is being held? And who is this man walking around town who has the same face as Dante?\n\nTwin brothers born of the Dark Knight Sparda and the human woman he loved are now grown men, but each walks a very different path in life. What is Dante's twin, Vergil's, goal? The violent story of two fated brothers continues...\n\n(Source: MU)",
+    "background": "Devil May Cry 3 was published in English by Tokyopop from October 11, 2005 to August 8, 2006.",
+    "authors": [
+        {
+            "mal_id": 2274,
+            "type": "people",
+            "name": "Chayamachi, Suguro",
+            "url": "https://myanimelist.net/people/2274/Suguro_Chayamachi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1423,
+                    "type": "manga",
+                    "name": "Devil May Cry",
+                    "url": "https://myanimelist.net/manga/1423/Devil_May_Cry"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 115398,
+                    "type": "manga",
+                    "name": "Devil May Cry 4: Deadly Fortune",
+                    "url": "https://myanimelist.net/manga/115398/Devil_May_Cry_4__Deadly_Fortune"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Devil_May_Cry_3_%28manga%29"
+        }
+    ]
+}

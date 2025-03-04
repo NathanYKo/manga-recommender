@@ -1,0 +1,337 @@
+{
+    "mal_id": 13,
+    "url": "https://myanimelist.net/manga/13/One_Piece",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/253146.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/253146t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/253146l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/253146.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/253146t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/253146l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "One Piece"
+        },
+        {
+            "type": "Japanese",
+            "title": "ONE PIECE"
+        },
+        {
+            "type": "English",
+            "title": "One Piece"
+        }
+    ],
+    "title": "One Piece",
+    "title_english": "One Piece",
+    "title_japanese": "ONE PIECE",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "1997-07-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 7,
+                "year": 1997
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 22, 1997 to ?"
+    },
+    "score": 9.22,
+    "scored": 9.22,
+    "scored_by": 398228,
+    "rank": 4,
+    "popularity": 4,
+    "members": 652152,
+    "favorites": 121207,
+    "synopsis": "Gol D. Roger, a man referred to as the King of the Pirates, is set to be executed by the World Government. But just before his demise, he confirms the existence of a great treasure, One Piece, located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the King of the Pirates is executed and the Great Age of Pirates begins.\n\nTwenty-two years later, a young man by the name of Monkey D. Luffy is ready to embark on his own adventure, searching for One Piece and striving to become the new King of the Pirates. Armed with just a straw hat, a small boat, and an elastic body, he sets out on a fantastic journey to gather his own crew and a worthy ship that will take them across the Grand Line to claim the greatest status on the high seas.\n\n[Written by MAL Rewrite]",
+    "background": "One Piece is the highest-selling manga series of all time, with over 500 million copies in circulation as of 2022. Volume 67 of the series currently holds the record for highest first print run of any manga or book of all time in Japan, with 4.05 million in 2012. The series was a finalist for the Tezuka Osamu Cultural Prize three times in a row from 2000 to 2002. In 2012, it won the 41st Japan Cartoonists Association Award Grand Prize, alongside Kimuchi Yokoyama's Neko Darake. VIZ Media has published One Piece in English under the Shonen Jump imprint since January 2, 2003, and in 3-in-1 omnibus editions since December 1, 2009. VIZ Media has been publishing boxed sets for the manga since November 5, 2013. It has also been simulpub through MANGA Plus. The series has also been published in numerous amounts of languages worldwide including Korean, Malay, Indonesian, Chinese, Thai, Vietnamese, German, French, Italian, Spanish, Portuguese, Swedish, Danish, Norwegian, Finnish, Polish, Turkish, and Russian. The manga has been adapted into a live-action TV series on Netflix since August 31, 2023.",
+    "authors": [
+        {
+            "mal_id": 1881,
+            "type": "people",
+            "name": "Oda, Eiichiro",
+            "url": "https://myanimelist.net/people/1881/Eiichiro_Oda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 21,
+                    "type": "anime",
+                    "name": "One Piece",
+                    "url": "https://myanimelist.net/anime/21/One_Piece"
+                },
+                {
+                    "mal_id": 60108,
+                    "type": "anime",
+                    "name": "One Piece: Gyojin Tou-hen",
+                    "url": "https://myanimelist.net/anime/60108/One_Piece__Gyojin_Tou-hen"
+                },
+                {
+                    "mal_id": 57557,
+                    "type": "anime",
+                    "name": "The One Piece",
+                    "url": "https://myanimelist.net/anime/57557/The_One_Piece"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 94533,
+                    "type": "manga",
+                    "name": "One Piece: Taose! Kaizoku Ganzack",
+                    "url": "https://myanimelist.net/manga/94533/One_Piece__Taose_Kaizoku_Ganzack"
+                },
+                {
+                    "mal_id": 94534,
+                    "type": "manga",
+                    "name": "One Piece: Loguetown-hen",
+                    "url": "https://myanimelist.net/manga/94534/One_Piece__Loguetown-hen"
+                },
+                {
+                    "mal_id": 14414,
+                    "type": "manga",
+                    "name": "One Piece: Mugiwara Daigekijou",
+                    "url": "https://myanimelist.net/manga/14414/One_Piece__Mugiwara_Daigekijou"
+                },
+                {
+                    "mal_id": 17152,
+                    "type": "manga",
+                    "name": "One Piece: Strong World",
+                    "url": "https://myanimelist.net/manga/17152/One_Piece__Strong_World"
+                },
+                {
+                    "mal_id": 110830,
+                    "type": "manga",
+                    "name": "One Piece Novel: Mugiwara Stories",
+                    "url": "https://myanimelist.net/manga/110830/One_Piece_Novel__Mugiwara_Stories"
+                },
+                {
+                    "mal_id": 114760,
+                    "type": "manga",
+                    "name": "Shokugeki no Sanji",
+                    "url": "https://myanimelist.net/manga/114760/Shokugeki_no_Sanji"
+                },
+                {
+                    "mal_id": 120656,
+                    "type": "manga",
+                    "name": "Gekijouban One Piece: Stampede",
+                    "url": "https://myanimelist.net/manga/120656/Gekijouban_One_Piece__Stampede"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 23251,
+                    "type": "manga",
+                    "name": "Chopperman: Yuke Yuke! Minna no Chopper-sensei",
+                    "url": "https://myanimelist.net/manga/23251/Chopperman__Yuke_Yuke_Minna_no_Chopper-sensei"
+                },
+                {
+                    "mal_id": 52353,
+                    "type": "manga",
+                    "name": "Chopperman",
+                    "url": "https://myanimelist.net/manga/52353/Chopperman"
+                },
+                {
+                    "mal_id": 86972,
+                    "type": "manga",
+                    "name": "One Piece Party",
+                    "url": "https://myanimelist.net/manga/86972/One_Piece_Party"
+                },
+                {
+                    "mal_id": 127114,
+                    "type": "manga",
+                    "name": "One Piece Novel: A",
+                    "url": "https://myanimelist.net/manga/127114/One_Piece_Novel__A"
+                },
+                {
+                    "mal_id": 142771,
+                    "type": "manga",
+                    "name": "Chin Piece",
+                    "url": "https://myanimelist.net/manga/142771/Chin_Piece"
+                },
+                {
+                    "mal_id": 142772,
+                    "type": "manga",
+                    "name": "Fischer's x One Piece: Nanatsunagi no Daihihou",
+                    "url": "https://myanimelist.net/manga/142772/Fischers_x_One_Piece__Nanatsunagi_no_Daihihou"
+                },
+                {
+                    "mal_id": 141501,
+                    "type": "manga",
+                    "name": "One Piece Novel: Law",
+                    "url": "https://myanimelist.net/manga/141501/One_Piece_Novel__Law"
+                },
+                {
+                    "mal_id": 122305,
+                    "type": "manga",
+                    "name": "One Piece Gakuen",
+                    "url": "https://myanimelist.net/manga/122305/One_Piece_Gakuen"
+                },
+                {
+                    "mal_id": 152411,
+                    "type": "manga",
+                    "name": "Ore no Keikaku wa Zettai ni Kuruwanai!!",
+                    "url": "https://myanimelist.net/manga/152411/Ore_no_Keikaku_wa_Zettai_ni_Kuruwanai"
+                },
+                {
+                    "mal_id": 141511,
+                    "type": "manga",
+                    "name": "One Piece Novel: Heroines",
+                    "url": "https://myanimelist.net/manga/141511/One_Piece_Novel__Heroines"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 5114,
+                    "type": "manga",
+                    "name": "Romance Dawn",
+                    "url": "https://myanimelist.net/manga/5114/Romance_Dawn"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 793,
+                    "type": "manga",
+                    "name": "Wanted!",
+                    "url": "https://myanimelist.net/manga/793/Wanted"
+                },
+                {
+                    "mal_id": 881,
+                    "type": "manga",
+                    "name": "Cross Epoch",
+                    "url": "https://myanimelist.net/manga/881/Cross_Epoch"
+                },
+                {
+                    "mal_id": 25146,
+                    "type": "manga",
+                    "name": "Jisshoku! Akuma no Mi!!",
+                    "url": "https://myanimelist.net/manga/25146/Jisshoku_Akuma_no_Mi"
+                },
+                {
+                    "mal_id": 172694,
+                    "type": "manga",
+                    "name": "One Piece Card Battle Hobby Saikyou Kizuna Boost",
+                    "url": "https://myanimelist.net/manga/172694/One_Piece_Card_Battle_Hobby_Saikyou_Kizuna_Boost"
+                },
+                {
+                    "mal_id": 115627,
+                    "type": "manga",
+                    "name": "One Piece: Koby-ni no Kobiyama - Uri Futatsunagi no Daihihou",
+                    "url": "https://myanimelist.net/manga/115627/One_Piece__Koby-ni_no_Kobiyama_-_Uri_Futatsunagi_no_Daihihou"
+                },
+                {
+                    "mal_id": 120401,
+                    "type": "manga",
+                    "name": "Koisuru One Piece",
+                    "url": "https://myanimelist.net/manga/120401/Koisuru_One_Piece"
+                },
+                {
+                    "mal_id": 128594,
+                    "type": "manga",
+                    "name": "One Piece: Episode A",
+                    "url": "https://myanimelist.net/manga/128594/One_Piece__Episode_A"
+                },
+                {
+                    "mal_id": 150042,
+                    "type": "manga",
+                    "name": "One Piece 1000-wa Kinen! Tokubetsu Bangai-hen",
+                    "url": "https://myanimelist.net/manga/150042/One_Piece_1000-wa_Kinen_Tokubetsu_Bangai-hen"
+                },
+                {
+                    "mal_id": 139972,
+                    "type": "manga",
+                    "name": "One Piece: Vivi no Bouken",
+                    "url": "https://myanimelist.net/manga/139972/One_Piece__Vivi_no_Bouken"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.shonenjump.com/j/rensai/onepiece.html"
+        },
+        {
+            "name": "@Eiichiro_Staff",
+            "url": "https://twitter.com/Eiichiro_Staff"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/ONE_PIECE"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/One_Piece"
+        }
+    ]
+}

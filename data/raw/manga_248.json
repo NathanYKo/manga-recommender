@@ -1,0 +1,131 @@
+{
+    "mal_id": 248,
+    "url": "https://myanimelist.net/manga/248/Family_Complex",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/30580.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/30580t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/30580l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/30580.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/30580t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/30580l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Family Complex"
+        },
+        {
+            "type": "Japanese",
+            "title": "ファミリー・コンプレックス"
+        },
+        {
+            "type": "English",
+            "title": "Family Complex"
+        }
+    ],
+    "title": "Family Complex",
+    "title_english": "Family Complex",
+    "title_japanese": "ファミリー・コンプレックス",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-01-01T00:00:00+00:00",
+        "to": "2000-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            }
+        },
+        "string": "1999 to 2000"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 2233,
+    "rank": 4206,
+    "popularity": 5071,
+    "members": 4306,
+    "favorites": 26,
+    "synopsis": "Meet the Sakamotos...a typical, upper middle class family of six with one peculiar quality-namely, they're all uncannily good-looking! That is, except for one member of the clan-14-year-old Akira. At that awkward stage where teenagers feel out-of-place in general, Akira believes he's average in the looks department, which simply doesn't measure up. How can he be around his family when he feels like he's being judged against them all the time? Will Akira's complex about being \"different\" cause him to turn away from the people who love him most?\n\n(Source: Digital Manga Publishing)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2005,
+            "type": "people",
+            "name": "Tsuda, Mikiyo",
+            "url": "https://myanimelist.net/people/2005/Mikiyo_Tsuda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Wings",
+            "url": "https://myanimelist.net/manga/magazine/45/Wings"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 249,
+                    "type": "manga",
+                    "name": "Kakumei no Hi",
+                    "url": "https://myanimelist.net/manga/249/Kakumei_no_Hi"
+                },
+                {
+                    "mal_id": 246,
+                    "type": "manga",
+                    "name": "Princess Princess",
+                    "url": "https://myanimelist.net/manga/246/Princess_Princess"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Family_Complex"
+        }
+    ]
+}

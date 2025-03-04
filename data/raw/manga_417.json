@@ -1,0 +1,121 @@
+{
+    "mal_id": 417,
+    "url": "https://myanimelist.net/manga/417/Modotte_Mamotte_Lollipop",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/1318.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/1318t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/1318l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/1318.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/1318t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/1318l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Modotte! Mamotte! Lollipop"
+        },
+        {
+            "type": "Synonym",
+            "title": "Milcute vs Lollipop"
+        },
+        {
+            "type": "Synonym",
+            "title": "Milcute vs. Lollipop"
+        },
+        {
+            "type": "Japanese",
+            "title": "もどって！ まもって！ ロリポップ"
+        }
+    ],
+    "title": "Modotte! Mamotte! Lollipop",
+    "title_english": null,
+    "title_japanese": "もどって！ まもって！ ロリポップ",
+    "title_synonyms": [
+        "Milcute vs Lollipop",
+        "Milcute vs. Lollipop"
+    ],
+    "type": "Manga",
+    "chapters": 22,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-01-01T00:00:00+00:00",
+        "to": "2008-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            }
+        },
+        "string": "2006 to 2008"
+    },
+    "score": 7.43,
+    "scored": 7.43,
+    "scored_by": 1195,
+    "rank": 3548,
+    "popularity": 8227,
+    "members": 2465,
+    "favorites": 35,
+    "synopsis": "Nina, Zero, and Ichii are back! This time for the Advanced Magic test! The object of the test is-yet again-a crystal drop that looks like candy! When Nina accidentally swallows it (again!), it's up to Zero and Ichii to protect her until it comes out. The only trouble is, all the past participants are back, and only little fragments of the crystal drop will come out of Nina at a time! (Source: Baka Updates)\n\nOther Stories in the series.\nVol 1: Milcute Vs Lollipop\nVol 4: Sidestory\nVol 6: Minus 0",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2393,
+            "type": "people",
+            "name": "Kikuta, Michiyo",
+            "url": "https://myanimelist.net/people/2393/Michiyo_Kikuta"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Nakayoshi",
+            "url": "https://myanimelist.net/manga/magazine/20/Nakayoshi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 414,
+                    "type": "manga",
+                    "name": "Mamotte! Lollipop",
+                    "url": "https://myanimelist.net/manga/414/Mamotte_Lollipop"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,131 @@
+{
+    "mal_id": 129,
+    "url": "https://myanimelist.net/manga/129/Birth",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/201290.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/201290t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/201290l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/201290.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/201290t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/201290l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Birth"
+        },
+        {
+            "type": "Japanese",
+            "title": "BIRTH バース"
+        },
+        {
+            "type": "English",
+            "title": "Arm of Kannon"
+        }
+    ],
+    "title": "Birth",
+    "title_english": "Arm of Kannon",
+    "title_japanese": "BIRTH バース",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 17,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-01-01T00:00:00+00:00",
+        "to": "2003-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            }
+        },
+        "string": "1998 to 2003"
+    },
+    "score": 6.3,
+    "scored": 6.3,
+    "scored_by": 269,
+    "rank": 18402,
+    "popularity": 15386,
+    "members": 1060,
+    "favorites": 15,
+    "synopsis": "Deep within the mountains of Tibet, secluded from the mortal world, sits The Arm of Kannon, an instrument of inconceivably wicked power, resting safely outside the grasp of humanity... until now.\nAn archeologist, Juzo Mikami, dizzied with tales of The Arm's power and determined to unlock the mystery behind this Buddhist secret, sets out on a journey to find this ancient artifact and is never heard from again, leaving behind his wife and children. Three years later, he returns to his family, however he isn't the man he was, and his family will never be the same.\n\n(Source: Tokyopop)",
+    "background": "Birth was published in English as Arm of Kannon by Tokyopop from May 4, 2004 to October 9, 2007.",
+    "authors": [
+        {
+            "mal_id": 1964,
+            "type": "people",
+            "name": "Yamaguchi, Masakazu",
+            "url": "https://myanimelist.net/people/1964/Masakazu_Yamaguchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 91,
+            "type": "manga",
+            "name": "Comic Birz",
+            "url": "https://myanimelist.net/manga/magazine/91/Comic_Birz"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 66219,
+                    "type": "manga",
+                    "name": "Raten - Birth",
+                    "url": "https://myanimelist.net/manga/66219/Raten_-_Birth"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Arm_of_Kannon"
+        }
+    ]
+}

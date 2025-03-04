@@ -1,0 +1,148 @@
+{
+    "mal_id": 242,
+    "url": "https://myanimelist.net/manga/242/Duetto",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/33239.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/33239t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/33239l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/33239.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/33239t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/33239l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Duetto"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Neighbor's Lie"
+        },
+        {
+            "type": "Synonym",
+            "title": "Natural"
+        },
+        {
+            "type": "Synonym",
+            "title": "Two Apart"
+        },
+        {
+            "type": "Synonym",
+            "title": "Somewhere Today"
+        },
+        {
+            "type": "Synonym",
+            "title": "Only In Those Eyes"
+        },
+        {
+            "type": "Synonym",
+            "title": "Secret"
+        },
+        {
+            "type": "Synonym",
+            "title": "Glasses + He"
+        },
+        {
+            "type": "Synonym",
+            "title": "Step By Step"
+        },
+        {
+            "type": "Japanese",
+            "title": "デュエット"
+        }
+    ],
+    "title": "Duetto",
+    "title_english": null,
+    "title_japanese": "デュエット",
+    "title_synonyms": [
+        "The Neighbor's Lie",
+        "Natural",
+        "Two Apart",
+        "Somewhere Today",
+        "Only In Those Eyes",
+        "Secret",
+        "Glasses + He",
+        "Step By Step"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-11-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 11,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 12, 2004"
+    },
+    "score": 6.47,
+    "scored": 6.47,
+    "scored_by": 352,
+    "rank": null,
+    "popularity": 20265,
+    "members": 690,
+    "favorites": 0,
+    "synopsis": "Every time Shinobu and Ei-ichi see each other on campus at the university they start fighting. But, it turns out they actually live together in an apartment, and when they’re there they act completely different. That is the relationship they keep a secret from the rest of the world… (Source: DMP)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2238,
+            "type": "people",
+            "name": "Kujou, Aoi",
+            "url": "https://myanimelist.net/people/2238/Aoi_Kujou"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 2373,
+                    "type": "manga",
+                    "name": "Akai Koi",
+                    "url": "https://myanimelist.net/manga/2373/Akai_Koi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.dmpbooks.com/titles?n=120"
+        }
+    ]
+}

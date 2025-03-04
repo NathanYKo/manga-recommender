@@ -1,0 +1,138 @@
+{
+    "mal_id": 360,
+    "url": "https://myanimelist.net/manga/360/Heat_Guy_J",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/164806.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/164806t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/164806l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/164806.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/164806t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/164806l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Heat Guy J"
+        },
+        {
+            "type": "Synonym",
+            "title": "HeatGuy J"
+        },
+        {
+            "type": "Japanese",
+            "title": "ヒートガイジェイ"
+        },
+        {
+            "type": "English",
+            "title": "Heat Guy J"
+        }
+    ],
+    "title": "Heat Guy J",
+    "title_english": "Heat Guy J",
+    "title_japanese": "ヒートガイジェイ",
+    "title_synonyms": [
+        "HeatGuy J"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-08-26T00:00:00+00:00",
+        "to": "2003-02-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 8,
+                "year": 2002
+            },
+            "to": {
+                "day": 26,
+                "month": 2,
+                "year": 2003
+            }
+        },
+        "string": "Aug 26, 2002 to Feb 26, 2003"
+    },
+    "score": 6.23,
+    "scored": 6.23,
+    "scored_by": 216,
+    "rank": 18823,
+    "popularity": 20693,
+    "members": 665,
+    "favorites": 1,
+    "synopsis": "Daisuke Aurora works with the special division of peacekeepers in the city of Jewde, one of the largest cities on the planet. He and his android partner, Heat Guy J, team up to make sure that anything illegal stays off the streets and out of circulation.\n\nHowever, their presence doesn't sit too well with the local mob leader—a ruthless, unbalanced, well-armed son of the late Don, who is out to prove that he is not too young to take over the family business. In the city that never sleeps, will Daisuke and Heat Guy J end up sleeping with the fishes?\n\n(Source: TokyoPop)",
+    "background": "Heat Guy J is based on a 26-episode science fiction anime series created by Escaflowne director Kazuki Akane and Satelight. It was published in English by TokyoPop on July 12, 2005.",
+    "authors": [
+        {
+            "mal_id": 2342,
+            "type": "people",
+            "name": "Ogishima, Chiaki",
+            "url": "https://myanimelist.net/people/2342/Chiaki_Ogishima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 70,
+            "type": "manga",
+            "name": "Magazine-Z",
+            "url": "https://myanimelist.net/manga/magazine/70/Magazine-Z"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 958,
+                    "type": "anime",
+                    "name": "Heat Guy J",
+                    "url": "https://myanimelist.net/anime/958/Heat_Guy_J"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%92%E3%83%BC%E3%83%88%E3%82%AC%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%A4"
+        }
+    ]
+}

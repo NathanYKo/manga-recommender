@@ -1,0 +1,136 @@
+{
+    "mal_id": 96,
+    "url": "https://myanimelist.net/manga/96/Lagoon_Engine_Einsatz",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/179820.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/179820t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/179820l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/179820.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/179820t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/179820l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Lagoon Engine Einsatz"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラグーンエンジン アインザッツ"
+        },
+        {
+            "type": "English",
+            "title": "Lagoon Engine Einsatz"
+        }
+    ],
+    "title": "Lagoon Engine Einsatz",
+    "title_english": "Lagoon Engine Einsatz",
+    "title_japanese": "ラグーンエンジン アインザッツ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-10-01T00:00:00+00:00",
+        "to": "2005-07-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2004
+            },
+            "to": {
+                "day": 1,
+                "month": 7,
+                "year": 2005
+            }
+        },
+        "string": "Oct 2004 to Jul 2005"
+    },
+    "score": 6.8,
+    "scored": 6.8,
+    "scored_by": 226,
+    "rank": 12174,
+    "popularity": 19389,
+    "members": 743,
+    "favorites": 2,
+    "synopsis": "Sakis, the Scion and Godslayer, gets entangled in a deadly incident when an unknown ship enters Lagoonarian airspace. After uncovering explosives along with the seeds of Abomination, Sakis begins a quest to uncover the mysteries surrounding the Ancient Gods!",
+    "background": "Lagoon Engine Einsatz was serialized in the special English edition of the Japanese Newtype's magazine published in the North America, Newtype USA, but it was discontinued after only ten chapters. Serialization in the Japanese magazine started with a two month delay in January 2005 issue. The series was published in English by ADV Manga on December 20, 2005.",
+    "authors": [
+        {
+            "mal_id": 1947,
+            "type": "people",
+            "name": "Sugisaki, Yukiru",
+            "url": "https://myanimelist.net/people/1947/Yukiru_Sugisaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Newtype",
+            "url": "https://myanimelist.net/manga/magazine/31/Newtype"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 95,
+                    "type": "manga",
+                    "name": "Lagoon Engine",
+                    "url": "https://myanimelist.net/manga/95/Lagoon_Engine"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Lagoon_Engine_Einsatz"
+        }
+    ]
+}

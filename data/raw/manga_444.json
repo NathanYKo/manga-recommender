@@ -1,0 +1,139 @@
+{
+    "mal_id": 444,
+    "url": "https://myanimelist.net/manga/444/Bad_Company",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/18566.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/18566t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/18566l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/18566.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/18566t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/18566l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bad Company"
+        },
+        {
+            "type": "Japanese",
+            "title": "BAD COMPANY"
+        }
+    ],
+    "title": "Bad Company",
+    "title_english": null,
+    "title_japanese": "BAD COMPANY",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-06-12T00:00:00+00:00",
+        "to": "1996-07-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 6,
+                "year": 1996
+            },
+            "to": {
+                "day": 17,
+                "month": 7,
+                "year": 1996
+            }
+        },
+        "string": "Jun 12, 1996 to Jul 17, 1996"
+    },
+    "score": 7.47,
+    "scored": 7.47,
+    "scored_by": 7778,
+    "rank": 3154,
+    "popularity": 1302,
+    "members": 15878,
+    "favorites": 111,
+    "synopsis": "Before Eikichi Onizuka became a legend, before Onibaku, before he became GTO, he was just a normal junior high school delinquent. Getting into fights with his seniors, trying to pick up girls and just hanging out with his friends. Bad Company is a compilation of many short stories, linked together with the characters of Eikichi, Ryuji and their school buds. Such stories involve the origins of Eikichi`s bike, which we see frequently in GTO, the first meeting with the Midnight Angel and many other.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2318,
+            "type": "people",
+            "name": "Fujisawa, Tooru",
+            "url": "https://myanimelist.net/people/2318/Tooru_Fujisawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 445,
+                    "type": "manga",
+                    "name": "Shonan Junai Gumi!",
+                    "url": "https://myanimelist.net/manga/445/Shonan_Junai_Gumi"
+                },
+                {
+                    "mal_id": 336,
+                    "type": "manga",
+                    "name": "GTO",
+                    "url": "https://myanimelist.net/manga/336/GTO"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1913,
+                    "type": "anime",
+                    "name": "Shonan Junai Gumi!",
+                    "url": "https://myanimelist.net/anime/1913/Shonan_Junai_Gumi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/BAD_COMPANY"
+        }
+    ]
+}

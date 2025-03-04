@@ -1,0 +1,174 @@
+{
+    "mal_id": 228,
+    "url": "https://myanimelist.net/manga/228/Silent_Möbius",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/278215.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/278215t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/278215l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/278215.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/278215t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/278215l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Silent Möbius"
+        },
+        {
+            "type": "Synonym",
+            "title": "Silent Mobius"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sairento Mebiusu"
+        },
+        {
+            "type": "Japanese",
+            "title": "サイレントメビウス"
+        },
+        {
+            "type": "English",
+            "title": "Silent Möbius"
+        }
+    ],
+    "title": "Silent Möbius",
+    "title_english": "Silent Möbius",
+    "title_japanese": "サイレントメビウス",
+    "title_synonyms": [
+        "Silent Mobius",
+        "Sairento Mebiusu"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1991-01-01T00:00:00+00:00",
+        "to": "2003-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1991
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            }
+        },
+        "string": "1991 to 2003"
+    },
+    "score": 7.13,
+    "scored": 7.13,
+    "scored_by": 414,
+    "rank": 7076,
+    "popularity": 11780,
+    "members": 1543,
+    "favorites": 27,
+    "synopsis": "In the 21st century, just when the human race needs new heroes, the Lucifer Hawks enter Earth's dimension. The members of the A.M.P., six young women with incredible powers, are set to defend the human race against these monstrous entities from another world.\n\n(Source: VIZ Media)",
+    "background": "Silent Möbius was first published in English as part of the VIZ Select Comics lineup. It had a run of 21 issues from July 1991 to November 1993, split into four parts. Only the first volume was initially published by VIZ Communications in tankoubon format, split into two smaller parts, in September 1992. The series was picked up again by VIZ Comics from May 1999 with the story arc Into the Labyrinth, followed by Karma, Love and Chaos, Catastrophe, Advent, Turnabout, Blood and Hell in 2003, for an additional total of 46 issues. This time, VIZ Media also published the volumes from May 6, 1999 to December 31, 2003. Udon Entertainment relicensed the series with the subtitle Complete Edition but only released the first four volumes from September 8, 2009 to May 3, 2011.",
+    "authors": [
+        {
+            "mal_id": 2233,
+            "type": "people",
+            "name": "Asamiya, Kia",
+            "url": "https://myanimelist.net/people/2233/Kia_Asamiya"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 47765,
+                    "type": "manga",
+                    "name": "Silent Möbius Klein",
+                    "url": "https://myanimelist.net/manga/47765/Silent_Möbius_Klein"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 25177,
+                    "type": "manga",
+                    "name": "Silent Möbius Tales",
+                    "url": "https://myanimelist.net/manga/25177/Silent_Möbius_Tales"
+                },
+                {
+                    "mal_id": 57813,
+                    "type": "manga",
+                    "name": "Silent Möbius QD",
+                    "url": "https://myanimelist.net/manga/57813/Silent_Möbius_QD"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2099,
+                    "type": "anime",
+                    "name": "Silent Möbius: The Motion Picture",
+                    "url": "https://myanimelist.net/anime/2099/Silent_Möbius__The_Motion_Picture"
+                },
+                {
+                    "mal_id": 2100,
+                    "type": "anime",
+                    "name": "Silent Möbius 2",
+                    "url": "https://myanimelist.net/anime/2100/Silent_Möbius_2"
+                },
+                {
+                    "mal_id": 1517,
+                    "type": "anime",
+                    "name": "Silent Möbius",
+                    "url": "https://myanimelist.net/anime/1517/Silent_Möbius"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Silent_Mobius"
+        }
+    ]
+}

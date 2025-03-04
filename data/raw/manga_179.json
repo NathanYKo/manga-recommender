@@ -1,0 +1,141 @@
+{
+    "mal_id": 179,
+    "url": "https://myanimelist.net/manga/179/Color",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/30585.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/30585t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/30585l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/30585.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/30585t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/30585l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Color"
+        },
+        {
+            "type": "Japanese",
+            "title": "カラー"
+        },
+        {
+            "type": "English",
+            "title": "Color"
+        }
+    ],
+    "title": "Color",
+    "title_english": "Color",
+    "title_japanese": "カラー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-02-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 2,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 1999"
+    },
+    "score": 7.18,
+    "scored": 7.18,
+    "scored_by": 1797,
+    "rank": null,
+    "popularity": 6449,
+    "members": 3289,
+    "favorites": 19,
+    "synopsis": "When art student Takashiro Tsuda chose to show his painting, Color, in a gallery exhibition, he never dreamed that an uncannily similar painting would hang next to his – with the same title, even. Works of art come from the deepest depths of an artist’s soul, so how can anyone else be expressing themselves so much like Takashiro? Filled with a yearning to find his artistic soulmate, Takashiro goes off to art school in Tokyo and meets classmate Sakae Fujiwara. Soon, Takashiro learns that this is the artist he’s been searching for – the one who created a Color so much like his own – but Sakae is a guy! Can such a profound connection between two people transcend gender and become something more?\n\n(Source: Dokidoki)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2005,
+            "type": "people",
+            "name": "Tsuda, Mikiyo",
+            "url": "https://myanimelist.net/people/2005/Mikiyo_Tsuda"
+        },
+        {
+            "mal_id": 2236,
+            "type": "people",
+            "name": "Eiki, Eiki",
+            "url": "https://myanimelist.net/people/2236/Eiki_Eiki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 99,
+            "type": "manga",
+            "name": "Dear+",
+            "url": "https://myanimelist.net/manga/magazine/99/Dear_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 971,
+                    "type": "manga",
+                    "name": "Renai Koufukuron",
+                    "url": "https://myanimelist.net/manga/971/Renai_Koufukuron"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.dokidokibooks.com/books/102/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Color_(manga)"
+        }
+    ]
+}

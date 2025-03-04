@@ -1,0 +1,158 @@
+{
+    "mal_id": 314,
+    "url": "https://myanimelist.net/manga/314/Fake",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/161939.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/161939t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/161939l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/161939.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/161939t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/161939l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fake"
+        },
+        {
+            "type": "Japanese",
+            "title": "FAKE"
+        },
+        {
+            "type": "English",
+            "title": "Fake"
+        }
+    ],
+    "title": "Fake",
+    "title_english": "Fake",
+    "title_japanese": "FAKE",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 20,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-01-01T00:00:00+00:00",
+        "to": "2000-05-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "to": {
+                "day": 6,
+                "month": 5,
+                "year": 2000
+            }
+        },
+        "string": "1993 to May 6, 2000"
+    },
+    "score": 7.88,
+    "scored": 7.88,
+    "scored_by": 3629,
+    "rank": null,
+    "popularity": 3122,
+    "members": 7173,
+    "favorites": 339,
+    "synopsis": "Half-Japanese Randy \"Ryo\" Maclean is assigned as a new detective to the 27th precinct at the New York City Police Department. His boss pairs him with Dee Laytner, a good-looking veteran prone to impulsiveness. Much to Ryo's confusion, Dee takes an immediate interest in his new partner.\n\nIn their first case together, Ryo and Dee must take care of Bikky—a young boy whose father was killed due to his involvement in a shady drug trafficking business. Bikky denies having any knowledge about his father's actions prior to his murder. Even so, it is up to Ryo and Dee to protect the boy from those wanting to get rid of him and preserve any evidence he might be holding back.\n\nAs time goes on and the detective duo works increasingly more together, the distance between them gradually shortens. But could Ryo ever reciprocate Dee's feelings?\n\n[Written by MAL Rewrite]",
+    "background": "Fake was published in English by Tokyopop from May 6, 2003 to May 4, 2004.",
+    "authors": [
+        {
+            "mal_id": 2301,
+            "type": "people",
+            "name": "Matoh, Sanami",
+            "url": "https://myanimelist.net/people/2301/Sanami_Matoh"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 126,
+            "type": "manga",
+            "name": "Magazine Be x Boy",
+            "url": "https://myanimelist.net/manga/magazine/126/Magazine_Be_x_Boy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 365,
+                    "type": "anime",
+                    "name": "Fake",
+                    "url": "https://myanimelist.net/anime/365/Fake"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 7926,
+                    "type": "manga",
+                    "name": "Fake: Like, Like, Love",
+                    "url": "https://myanimelist.net/manga/7926/Fake__Like_Like_Love"
+                },
+                {
+                    "mal_id": 6138,
+                    "type": "manga",
+                    "name": "Fake Second",
+                    "url": "https://myanimelist.net/manga/6138/Fake_Second"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 493,
+                    "type": "manga",
+                    "name": "Ra-i",
+                    "url": "https://myanimelist.net/manga/493/Ra-i"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/FAKE_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

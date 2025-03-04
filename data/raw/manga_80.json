@@ -1,0 +1,159 @@
+{
+    "mal_id": 80,
+    "url": "https://myanimelist.net/manga/80/Angelic_Layer",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/179060.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/179060t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/179060l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/179060.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/179060t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/179060l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Angelic Layer"
+        },
+        {
+            "type": "Japanese",
+            "title": "ANGELIC LAYER"
+        },
+        {
+            "type": "English",
+            "title": "Angelic Layer"
+        }
+    ],
+    "title": "Angelic Layer",
+    "title_english": "Angelic Layer",
+    "title_japanese": "ANGELIC LAYER",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 28,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-12-26T00:00:00+00:00",
+        "to": "2001-09-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 12,
+                "year": 1998
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2001
+            }
+        },
+        "string": "Dec 26, 1998 to Sep 26, 2001"
+    },
+    "score": 7.11,
+    "scored": 7.11,
+    "scored_by": 7711,
+    "rank": 7284,
+    "popularity": 1366,
+    "members": 15358,
+    "favorites": 160,
+    "synopsis": "In the future, the most popular game in the world is Angelic Layer. Contestants must raise and train their own 'Angels' (or fighting dolls) to compete in tournaments. Enter Misaki Suzuhara, sixth grade Angelic Layer prodigy. With her speed-type angel, Hikaru, many people think Misaki stands a chance at winning the championship. She'll have a lot of help along the way, but the road to victory will be not be an easy route, especially for someone as young as Misaki.\n\n(Source: Tokyopop)",
+    "background": "Angelic Layer was published in English by Tokyopop from June 25, 2002, to March 11, 2003. Dark Horse Comics later released the series as two-in-one omnibus volumes from September 19, 2012, and March 27, 2013. It was also published in Spanish by Editorial Ivrea from May 2003 to January 2004; in Italian by Edizioni Star Comics from May 13, 2005, to September 13, 2005; and in Brazilian Portuguese by Editora JBC from October 2005 to September 2006.",
+    "authors": [
+        {
+            "mal_id": 1877,
+            "type": "people",
+            "name": "CLAMP",
+            "url": "https://myanimelist.net/people/1877/CLAMP"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 52,
+                    "type": "anime",
+                    "name": "Kidou Tenshi Angelic Layer",
+                    "url": "https://myanimelist.net/anime/52/Kidou_Tenshi_Angelic_Layer"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 107,
+                    "type": "manga",
+                    "name": "Chobits",
+                    "url": "https://myanimelist.net/manga/107/Chobits"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/ANGELIC_LAYER"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Angelic_Layer"
+        }
+    ]
+}

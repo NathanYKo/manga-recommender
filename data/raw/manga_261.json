@@ -1,0 +1,141 @@
+{
+    "mal_id": 261,
+    "url": "https://myanimelist.net/manga/261/Kanjou_Kairo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/11239.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/11239t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/11239l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/11239.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/11239t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/11239l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kanjou Kairo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Emotion Circuit"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kanjokairo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kanjoukairo"
+        },
+        {
+            "type": "Japanese",
+            "title": "感情回路"
+        },
+        {
+            "type": "English",
+            "title": "Manic Love"
+        }
+    ],
+    "title": "Kanjou Kairo",
+    "title_english": "Manic Love",
+    "title_japanese": "感情回路",
+    "title_synonyms": [
+        "Emotion Circuit",
+        "Kanjokairo",
+        "Kanjoukairo"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-12-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 12,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 27, 2005"
+    },
+    "score": 7.01,
+    "scored": 7.01,
+    "scored_by": 369,
+    "rank": null,
+    "popularity": 17270,
+    "members": 890,
+    "favorites": 5,
+    "synopsis": "During the summer of his second year in high school, Maki Sonoda found love for the first time in the arms of his cram school teacher, Haruji Shirai. Blinded by the illusions of his first love, Maki can think only of getting to know Haruji more. But, things become complicated when Maki realizes that Haruji is really in love with high school teacher Mr. Mizuguchi. Three men find themselves intertwined in this tantalizing love triangle full of emotion. (Source: Juné)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2240,
+            "type": "people",
+            "name": "Yamagata, Satomi",
+            "url": "https://myanimelist.net/people/2240/Satomi_Yamagata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 64,
+            "type": "manga",
+            "name": "Love Polygon",
+            "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 245,
+                    "type": "manga",
+                    "name": "Fake Fur",
+                    "url": "https://myanimelist.net/manga/245/Fake_Fur"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.dmpbooks.com/titles?n=102"
+        }
+    ]
+}

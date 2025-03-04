@@ -1,0 +1,161 @@
+{
+    "mal_id": 173,
+    "url": "https://myanimelist.net/manga/173/Cowboy_Bebop",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/166652.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/166652t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/166652l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/166652.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/166652t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/166652l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Cowboy Bebop"
+        },
+        {
+            "type": "Japanese",
+            "title": "カウボーイビバップ"
+        },
+        {
+            "type": "English",
+            "title": "Cowboy Bebop"
+        }
+    ],
+    "title": "Cowboy Bebop",
+    "title_english": "Cowboy Bebop",
+    "title_japanese": "カウボーイビバップ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-04-08T00:00:00+00:00",
+        "to": "2000-04-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 1999
+            },
+            "to": {
+                "day": 10,
+                "month": 4,
+                "year": 2000
+            }
+        },
+        "string": "Apr 8, 1999 to Apr 10, 2000"
+    },
+    "score": 7.15,
+    "scored": 7.15,
+    "scored_by": 7426,
+    "rank": 6738,
+    "popularity": 1135,
+    "members": 17759,
+    "favorites": 312,
+    "synopsis": "Spike, Jet, Faye and Ed—cowboys on the new frontier. Together this band of interplanetary bounty hunters takes on the jobs that anyone in their right mind would turn down. \n\n(Source: Tokyopop)",
+    "background": "Cowboy Bebop was published in English by Tokyopop from April 23, 2002, to August 20, 2002. It was also released in Brazilian Portuguese by Editora JBC in six volumes from June 2004 to July 2004.",
+    "authors": [
+        {
+            "mal_id": 2009,
+            "type": "people",
+            "name": "Watanabe, Shinichirou",
+            "url": "https://myanimelist.net/people/2009/Shinichirou_Watanabe"
+        },
+        {
+            "mal_id": 2196,
+            "type": "people",
+            "name": "Nanten, Yutaka",
+            "url": "https://myanimelist.net/people/2196/Yutaka_Nanten"
+        },
+        {
+            "mal_id": 2197,
+            "type": "people",
+            "name": "Yatate, Hajime",
+            "url": "https://myanimelist.net/people/2197/Hajime_Yatate"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 97,
+            "type": "manga",
+            "name": "Asuka Fantasy DX",
+            "url": "https://myanimelist.net/manga/magazine/97/Asuka_Fantasy_DX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 174,
+                    "type": "manga",
+                    "name": "Shooting Star Bebop: Cowboy Bebop",
+                    "url": "https://myanimelist.net/manga/174/Shooting_Star_Bebop__Cowboy_Bebop"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1,
+                    "type": "anime",
+                    "name": "Cowboy Bebop",
+                    "url": "https://myanimelist.net/anime/1/Cowboy_Bebop"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A6%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%93%E3%83%90%E3%83%83%E3%83%97"
+        }
+    ]
+}

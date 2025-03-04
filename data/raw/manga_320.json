@@ -1,0 +1,171 @@
+{
+    "mal_id": 320,
+    "url": "https://myanimelist.net/manga/320/Gakuen_Alice",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/269701.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/269701t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/269701l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/269701.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/269701t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/269701l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gakuen Alice"
+        },
+        {
+            "type": "Synonym",
+            "title": "Alice Academy"
+        },
+        {
+            "type": "Japanese",
+            "title": "学園アリス"
+        },
+        {
+            "type": "English",
+            "title": "Gakuen Alice"
+        }
+    ],
+    "title": "Gakuen Alice",
+    "title_english": "Gakuen Alice",
+    "title_japanese": "学園アリス",
+    "title_synonyms": [
+        "Alice Academy"
+    ],
+    "type": "Manga",
+    "chapters": 183,
+    "volumes": 31,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-09-05T00:00:00+00:00",
+        "to": "2013-06-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 9,
+                "year": 2002
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Sep 5, 2002 to Jun 20, 2013"
+    },
+    "score": 8.32,
+    "scored": 8.32,
+    "scored_by": 21226,
+    "rank": 287,
+    "popularity": 415,
+    "members": 43872,
+    "favorites": 3239,
+    "synopsis": "Mikan Sakura and Hotaru Imai are inseparable best friends, even if it seems like the latter does not reciprocate the same sentiment. Mikan naively believes that her aloof best friend would always be by her side until Hotaru decides to depart for Tokyo to attend Alice Academy. The school is home to gifted children who possess unique abilities known as Alices. Heartbroken and feeling abandoned, Mikan runs away from home in pursuit of her friend, hoping that she too can enroll in the prestigious institution.\n\nAs Mikan gets accepted as a student at Alice Academy and reunites with her friend, she quickly learns that the academy is not all fun and games. The school itself is divided into a hierarchy system based on the strength of their Alice, behavior, and academic performance, as well as classifying each student under a specific Alice subgroup for a more personalized education. When she finds herself in the lowest rank, Mikan faces bullying from her classmates who all believe that she does not belong. Natsume Hyuuga, one of the academy's highest-ranking students, is especially vitriolic towards Mikan for seemingly no reason.\n\nThe students begin to discover that the special academy has hidden secrets—many of which are a lot darker than one might think. As they unravel these mysteries, Mikan and her friends find themselves entangled in something far bigger than they could imagine.\n\n[Written by MAL Rewrite]",
+    "background": "The first 16 volumes of Gakuen Alice were in English by Tokyopop from January 1, 2008, to April 5, 2011, before the publisher went defunct. The first 20 volumes were published in Spanish by Glénat España from June 2006 to February 2012.",
+    "authors": [
+        {
+            "mal_id": 2306,
+            "type": "people",
+            "name": "Higuchi, Tachibana",
+            "url": "https://myanimelist.net/people/2306/Tachibana_Higuchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/21/Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 64,
+            "type": "manga",
+            "name": "Love Polygon",
+            "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 74,
+                    "type": "anime",
+                    "name": "Gakuen Alice",
+                    "url": "https://myanimelist.net/anime/74/Gakuen_Alice"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 103233,
+                    "type": "manga",
+                    "name": "Kageki no Kuni no Alice",
+                    "url": "https://myanimelist.net/manga/103233/Kageki_no_Kuni_no_Alice"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gakuen_Alice"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%AD%A6%E5%9C%92%E3%82%A2%E3%83%AA%E3%82%B9"
+        }
+    ]
+}

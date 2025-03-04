@@ -1,0 +1,135 @@
+{
+    "mal_id": 327,
+    "url": "https://myanimelist.net/manga/327/Ueki_no_Housoku_Plus",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/266595.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/266595t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/266595l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/266595.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/266595t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/266595l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ueki no Housoku Plus"
+        },
+        {
+            "type": "Japanese",
+            "title": "うえきの法則プラス"
+        },
+        {
+            "type": "English",
+            "title": "The Law of Ueki Plus"
+        }
+    ],
+    "title": "Ueki no Housoku Plus",
+    "title_english": "The Law of Ueki Plus",
+    "title_japanese": "うえきの法則プラス",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 46,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": "2007-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "2005 to 2007"
+    },
+    "score": 7.24,
+    "scored": 7.24,
+    "scored_by": 2373,
+    "rank": 5519,
+    "popularity": 4728,
+    "members": 4650,
+    "favorites": 53,
+    "synopsis": "Two years after the battle for the Heavenly World, Kousuke Ueki and his friends are finally able to have their long-awaited reunion. However, things take a strange turn when everyone starts forgetting about the people who matter the most to them. Even Ueki's friends are not excluded, as they completely forget about their comrades and the supposed reunion of Team Ueki. \n\nAfter he encounters U-lu, a mysterious sheep-like dog that can speak, Ueki discovers that everyone's memories were stolen from them and are now stored in U-lu's body. In order to get them back, he has to travel to the world where U-lu is from, an unknown territory where 75% of the population are power users. As the only person with his memory intact, Ueki is determined to do whatever it takes to restore the lost memories, even if it means fighting a dangerous battle without his precious friends.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2314,
+            "type": "people",
+            "name": "Fukuchi, Tsubasa",
+            "url": "https://myanimelist.net/people/2314/Tsubasa_Fukuchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 176832,
+                    "type": "manga",
+                    "name": "Ueki no Housoku: Exhibition",
+                    "url": "https://myanimelist.net/manga/176832/Ueki_no_Housoku__Exhibition"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.websunday.net/ueki/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%88%E3%81%8D%E3%81%AE%E6%B3%95%E5%89%87%2B"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "mal_id": 511,
+    "url": "https://myanimelist.net/manga/511/Sakura_Taisen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/301286.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/301286t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/301286l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/301286.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/301286t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/301286l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sakura Taisen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sakura Wars"
+        },
+        {
+            "type": "Japanese",
+            "title": "サクラ大戦"
+        },
+        {
+            "type": "English",
+            "title": "Sakura Wars"
+        }
+    ],
+    "title": "Sakura Taisen",
+    "title_english": "Sakura Wars",
+    "title_japanese": "サクラ大戦",
+    "title_synonyms": [
+        "Sakura Wars"
+    ],
+    "type": "Manga",
+    "chapters": 29,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-06-26T00:00:00+00:00",
+        "to": "2008-12-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 6,
+                "year": 2002
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Jun 26, 2002 to Dec 26, 2008"
+    },
+    "score": 6.88,
+    "scored": 6.88,
+    "scored_by": 799,
+    "rank": 10844,
+    "popularity": 8692,
+    "members": 2298,
+    "favorites": 25,
+    "synopsis": "The year is 1921, and this is a Tokyo where monstrous steam-powered robots crash a flower-viewing party only to be cut down samurai-style by a young girl in a kimono and traditional hakama pants.\n\nIt's eight years after the horrific Demon War, and Japan is a peaceful prosperous place. Meet Ensign Ogami Ichiro, who has just graduated from the Naval Academy. He's assigned to a base in Tokyo, but soon discovers that his headquarters is the Imperial Theater and his first mission is collecting tickets at the gate. He gamely goes about his menial jobs at the theater, surrounded by beautiful girls who seem to know a lot more about what's going on than he does, but he's about to be swept into a roiling world of robots, demons, and hot girls in uniform.\n\n(Source: Tokyopop)",
+    "background": "Sakura Taisen had seven volumes published in English by Tokyopop from December 13, 2005 to May 1, 2008, before the publisher became defunct.",
+    "authors": [
+        {
+            "mal_id": 2463,
+            "type": "people",
+            "name": "Hiroi, Ouji",
+            "url": "https://myanimelist.net/people/2463/Ouji_Hiroi"
+        },
+        {
+            "mal_id": 18777,
+            "type": "people",
+            "name": "Masa, Ikku",
+            "url": "https://myanimelist.net/people/18777/Ikku_Masa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 116,
+            "type": "manga",
+            "name": "Magazine E-no",
+            "url": "https://myanimelist.net/manga/magazine/116/Magazine_E-no"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 71,
+            "type": "manga",
+            "name": "Performing Arts",
+            "url": "https://myanimelist.net/manga/genre/71/Performing_Arts"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 42649,
+                    "type": "manga",
+                    "name": "Sakura Taisen: Mangaban Dainibu",
+                    "url": "https://myanimelist.net/manga/42649/Sakura_Taisen__Mangaban_Dainibu"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 561,
+                    "type": "anime",
+                    "name": "Sakura Taisen",
+                    "url": "https://myanimelist.net/anime/561/Sakura_Taisen"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 39819,
+                    "type": "manga",
+                    "name": "Sakura Taisen: Kanadegumi",
+                    "url": "https://myanimelist.net/manga/39819/Sakura_Taisen__Kanadegumi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.sakura-taisen.com/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Sakura_Taisen"
+        }
+    ]
+}

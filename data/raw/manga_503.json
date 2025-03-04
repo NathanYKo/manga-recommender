@@ -1,0 +1,125 @@
+{
+    "mal_id": 503,
+    "url": "https://myanimelist.net/manga/503/Rose_Hip_Zero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/177217.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/177217t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/177217l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/177217.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/177217t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/177217l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rose Hip Zero"
+        },
+        {
+            "type": "Japanese",
+            "title": "ROSE HIP ZERO"
+        },
+        {
+            "type": "English",
+            "title": "Rose Hip Zero"
+        }
+    ],
+    "title": "Rose Hip Zero",
+    "title_english": "Rose Hip Zero",
+    "title_japanese": "ROSE HIP ZERO",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 34,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-04-20T00:00:00+00:00",
+        "to": "2006-03-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 15,
+                "month": 3,
+                "year": 2006
+            }
+        },
+        "string": "Apr 20, 2005 to Mar 15, 2006"
+    },
+    "score": 7.07,
+    "scored": 7.07,
+    "scored_by": 858,
+    "rank": 7926,
+    "popularity": 8946,
+    "members": 2216,
+    "favorites": 14,
+    "synopsis": "Appearances can be deceiving. There is trouble in Tokyo as a mysterious terrorist organization called ALICE plots against the government. Just as the police are tasked to bring these men to justice, they are given a \"secret weapon\": a young girl with a mysterious past named Kasumi Asakura. She may look innocent, but she walks softly and carries a big gun.\n\n(Source: Tokyopop)",
+    "background": "Rose Hip Zero was published in English by Tokyopop from November 7, 2006 to February 12, 2008.",
+    "authors": [
+        {
+            "mal_id": 2318,
+            "type": "people",
+            "name": "Fujisawa, Tooru",
+            "url": "https://myanimelist.net/people/2318/Tooru_Fujisawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 502,
+                    "type": "manga",
+                    "name": "Rose Hip Rose",
+                    "url": "https://myanimelist.net/manga/502/Rose_Hip_Rose"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Rose_Hip_Zero"
+        }
+    ]
+}

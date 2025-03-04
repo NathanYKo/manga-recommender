@@ -1,0 +1,142 @@
+{
+    "mal_id": 185,
+    "url": "https://myanimelist.net/manga/185/Shishunki_Miman_Okotowari_Kanketsuhen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/314673.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/314673t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/314673l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/314673.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/314673t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/314673l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shishunki Miman Okotowari Kanketsuhen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shishunki Miman Okotowari Kanketsu Hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shishunki Miman Okotowari Ending"
+        },
+        {
+            "type": "Synonym",
+            "title": "Couple"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chikyu no Arukikata"
+        },
+        {
+            "type": "Japanese",
+            "title": "思春期未満お断り・完結編"
+        }
+    ],
+    "title": "Shishunki Miman Okotowari Kanketsuhen",
+    "title_english": null,
+    "title_japanese": "思春期未満お断り・完結編",
+    "title_synonyms": [
+        "Shishunki Miman Okotowari Kanketsu Hen",
+        "Shishunki Miman Okotowari Ending",
+        "Couple",
+        "Chikyu no Arukikata"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-06-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 6,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 2000"
+    },
+    "score": 6.97,
+    "scored": 6.97,
+    "scored_by": 448,
+    "rank": 9393,
+    "popularity": 16335,
+    "members": 972,
+    "favorites": 0,
+    "synopsis": "1. Shishunki Miman Okotowari Ending\nAt long last, Yuu Watase brings us the final chapter of the Shinshunki Miman Okotowari series. Manato returns from America, but he doesn't come with the best news for Asuka. This might be the last time he returns to Japan.\n\n2. Couple\nInaho has fallen in love with Takumi, the lead guitarist of a high school band. With hand-made gifts and her strange personality, she gets Takumi to ask her out. But only with a special biwa (a Japanese lute) can their relationship last.\n\n3. Chikyu no Arukikata\nAyuki just got dumped. On the same day, she hurt her ankle during track practice. Later, Ayuki gets trapped on the wrong train to the coast. On this train, she meets Hiroto, a guy who has quit school in search of himself. Ayuki wonders if she should do the same.  \n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1930,
+            "type": "people",
+            "name": "Watase, Yuu",
+            "url": "https://myanimelist.net/people/1930/Yuu_Watase"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Sho-Comi",
+            "url": "https://myanimelist.net/manga/magazine/22/Sho-Comi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 183,
+                    "type": "manga",
+                    "name": "Zoku Shishunki Miman Okotowari",
+                    "url": "https://myanimelist.net/manga/183/Zoku_Shishunki_Miman_Okotowari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Shishunki_Miman_Okotowari"
+        }
+    ]
+}

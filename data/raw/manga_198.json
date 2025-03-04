@@ -1,0 +1,119 @@
+{
+    "mal_id": 198,
+    "url": "https://myanimelist.net/manga/198/Gravity_Eyes",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/17732.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/17732t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/17732l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/17732.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/17732t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/17732l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gravity Eyes"
+        },
+        {
+            "type": "Japanese",
+            "title": "グーラビティ・アイズ"
+        },
+        {
+            "type": "English",
+            "title": "Gravity Eyes"
+        }
+    ],
+    "title": "Gravity Eyes",
+    "title_english": "Gravity Eyes",
+    "title_japanese": "グーラビティ・アイズ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-01-01T00:00:00+00:00",
+        "to": "2008-05-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 5,
+                "year": 2008
+            }
+        },
+        "string": "Jan 2007 to May 2008"
+    },
+    "score": 7.61,
+    "scored": 7.61,
+    "scored_by": 1166,
+    "rank": null,
+    "popularity": 9523,
+    "members": 2040,
+    "favorites": 11,
+    "synopsis": "This series is a spin-off of Tsumasaki ni Kiss following the character of Kyouya.\nfrom Dangerous Pleasure\n\nKyouya has left hosting to go to university and work at a regular job. That is when he meets an assistant professor, Kiriya, whose \"cold eyes\" have drawn him in.\n\nKyouya's problems begin with his restaurant boss who he has an emotional attachment to that he doesn't know how to deal with. He turns to Kiriya, who in turn has his own past to get over.\n\nWill Kyouya and Kiriya be able to overcome their pasts and find a future together?\n\nVolume 1 contains the Extra:  The Flower's Name\nVolume 2 contains the Extra:  Love Life",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2210,
+            "type": "people",
+            "name": "Fuwa, Shinri",
+            "url": "https://myanimelist.net/people/2210/Shinri_Fuwa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 333,
+            "type": "manga",
+            "name": "Chara Selection",
+            "url": "https://myanimelist.net/manga/magazine/333/Chara_Selection"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 197,
+                    "type": "manga",
+                    "name": "Zettai Unmei Houteishiki",
+                    "url": "https://myanimelist.net/manga/197/Zettai_Unmei_Houteishiki"
+                },
+                {
+                    "mal_id": 200,
+                    "type": "manga",
+                    "name": "Tsumasaki ni Kiss",
+                    "url": "https://myanimelist.net/manga/200/Tsumasaki_ni_Kiss"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

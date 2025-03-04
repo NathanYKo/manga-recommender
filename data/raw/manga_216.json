@@ -1,0 +1,165 @@
+{
+    "mal_id": 216,
+    "url": "https://myanimelist.net/manga/216/RahXephon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/229880.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/229880t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/229880l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/229880.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/229880t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/229880l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "RahXephon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rah Xephon"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラーゼフォン"
+        },
+        {
+            "type": "English",
+            "title": "RahXephon"
+        }
+    ],
+    "title": "RahXephon",
+    "title_english": "RahXephon",
+    "title_japanese": "ラーゼフォン",
+    "title_synonyms": [
+        "Rah Xephon"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-09-19T00:00:00+00:00",
+        "to": "2002-11-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 9,
+                "year": 2001
+            },
+            "to": {
+                "day": 19,
+                "month": 11,
+                "year": 2002
+            }
+        },
+        "string": "Sep 19, 2001 to Nov 19, 2002"
+    },
+    "score": 6.34,
+    "scored": 6.34,
+    "scored_by": 990,
+    "rank": 18052,
+    "popularity": 9010,
+    "members": 2195,
+    "favorites": 19,
+    "synopsis": "A mysterious orb envelops the city of Tokyo. All forms of communication are severed, leaving the inhabitants of the newly dubbed \"Tokyo Jupiter\" ignorant to their fate. Along with the United Nations, a special organization known as TERRA is formed: their mission is to liberate Tokyo from the otherwordly MU -- those responsible for Tokyo's capture. (Source: Viz Media)",
+    "background": "RahXephon was published in English by VIZ Media from October 5, 2004 to September 29, 2005.",
+    "authors": [
+        {
+            "mal_id": 2223,
+            "type": "people",
+            "name": "Momose, Takeaki",
+            "url": "https://myanimelist.net/people/2223/Takeaki_Momose"
+        },
+        {
+            "mal_id": 4075,
+            "type": "people",
+            "name": "Izubuchi, Yutaka",
+            "url": "https://myanimelist.net/people/4075/Yutaka_Izubuchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Sunday Gene-X",
+            "url": "https://myanimelist.net/manga/magazine/40/Sunday_Gene-X"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 165,
+                    "type": "anime",
+                    "name": "RahXephon",
+                    "url": "https://myanimelist.net/anime/165/RahXephon"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 4566,
+                    "type": "manga",
+                    "name": "RahXephon",
+                    "url": "https://myanimelist.net/manga/4566/RahXephon"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.viz.com/products/products.php?series_id=143"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/RahXephon#Manga"
+        }
+    ]
+}

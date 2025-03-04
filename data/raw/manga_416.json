@@ -1,0 +1,138 @@
+{
+    "mal_id": 416,
+    "url": "https://myanimelist.net/manga/416/Sidooh",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/263863.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/263863t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/263863l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/263863.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/263863t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/263863l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sidooh"
+        },
+        {
+            "type": "Japanese",
+            "title": "SIDOOH―士道―"
+        }
+    ],
+    "title": "Sidooh",
+    "title_english": null,
+    "title_japanese": "SIDOOH―士道―",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 267,
+    "volumes": 25,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-06T00:00:00+00:00",
+        "to": "2010-10-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 28,
+                "month": 10,
+                "year": 2010
+            }
+        },
+        "string": "Jan 6, 2005 to Oct 28, 2010"
+    },
+    "score": 7.54,
+    "scored": 7.54,
+    "scored_by": 2799,
+    "rank": 2697,
+    "popularity": 1498,
+    "members": 14164,
+    "favorites": 115,
+    "synopsis": "During the political upheavals and social strife at the end of the Tokugawa Shogunate in Japan (1855), two parent-less brothers — Yukimura Shoutarou and Yukimura Gentarou — struggle to survive in these turbulent times. The brothers' only possession is their deceased father's sword and they cling onto the wisdom of their mother's final words as they seek to embark on the Path of the Warrior: Sidooh.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2360,
+            "type": "people",
+            "name": "Takahashi, Tsutomu",
+            "url": "https://myanimelist.net/people/2360/Tsutomu_Takahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Samurai",
+            "url": "https://myanimelist.net/manga/genre/21/Samurai"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 30465,
+                    "type": "manga",
+                    "name": "Sidooh: Sunrise",
+                    "url": "https://myanimelist.net/manga/30465/Sidooh__Sunrise"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/SIDOOH/%E5%A3%AB%E9%81%93"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sidooh"
+        }
+    ]
+}

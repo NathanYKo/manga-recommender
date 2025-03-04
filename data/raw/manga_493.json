@@ -1,0 +1,120 @@
+{
+    "mal_id": 493,
+    "url": "https://myanimelist.net/manga/493/Ra-i",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/265855.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/265855t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/265855l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/265855.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/265855t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/265855l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ra-i"
+        },
+        {
+            "type": "Japanese",
+            "title": "ライ"
+        },
+        {
+            "type": "English",
+            "title": "Ra-i"
+        }
+    ],
+    "title": "Ra-i",
+    "title_english": "Ra-i",
+    "title_japanese": "ライ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1995-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1995
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1995"
+    },
+    "score": 6.47,
+    "scored": 6.47,
+    "scored_by": 143,
+    "rank": 16825,
+    "popularity": 28167,
+    "members": 371,
+    "favorites": 0,
+    "synopsis": "Al Foster is a private detective whose workaday life suddenly shakes up with the arrival of 13-year-old Rai Spencer, youngest son of the billionaire Spencer family, genius child prodigy, and unrepentant smart aleck. Rai has an unusual gift -- his telekinetic powers can knock out anyone who stands in his path. He also has a sister who sports a mean left hook. But what Rai desperately needs is someone to figure out who has been trying to kill him for the past month! (Source: Tokyopop)",
+    "background": "Ra-i was published in English by Tokyopop on October 10, 2006.",
+    "authors": [
+        {
+            "mal_id": 2301,
+            "type": "people",
+            "name": "Matoh, Sanami",
+            "url": "https://myanimelist.net/people/2301/Sanami_Matoh"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 314,
+                    "type": "manga",
+                    "name": "Fake",
+                    "url": "https://myanimelist.net/manga/314/Fake"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

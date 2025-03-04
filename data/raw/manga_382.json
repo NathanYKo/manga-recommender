@@ -1,0 +1,151 @@
+{
+    "mal_id": 382,
+    "url": "https://myanimelist.net/manga/382/Juu_Ou_Sei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/72293.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/72293t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/72293l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/72293.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/72293t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/72293l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Juu Ou Sei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Juuousei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Planet of the Beast King"
+        },
+        {
+            "type": "Synonym",
+            "title": "Death Game"
+        },
+        {
+            "type": "Japanese",
+            "title": "獣王星"
+        },
+        {
+            "type": "English",
+            "title": "Jyu-Oh-Sei"
+        }
+    ],
+    "title": "Juu Ou Sei",
+    "title_english": "Jyu-Oh-Sei",
+    "title_japanese": "獣王星",
+    "title_synonyms": [
+        "Juuousei",
+        "Planet of the Beast King",
+        "Death Game"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-01-01T00:00:00+00:00",
+        "to": "2003-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            }
+        },
+        "string": "1993 to 2003"
+    },
+    "score": 7.37,
+    "scored": 7.37,
+    "scored_by": 339,
+    "rank": 4089,
+    "popularity": 10957,
+    "members": 1700,
+    "favorites": 14,
+    "synopsis": "Twin Brothers Thor and Rai, the sons of murder parents are sent to prison star Kimera. What was waiting for them is a planet where meat eating plants rules and society is in four different colony based on skin color. Will the boys survive in these harsh conditions!? \n\n(Source: MU)\n\nIncludes a two-part short called \"Death Game\".",
+    "background": "Juu Ou Sei was re-released in a three-volume edition. This is the edition that was released in official English translation by Tokyopop from August 12, 2008 to June 1, 2009.",
+    "authors": [
+        {
+            "mal_id": 2361,
+            "type": "people",
+            "name": "Itsuki, Natsumi",
+            "url": "https://myanimelist.net/people/2361/Natsumi_Itsuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "LaLa",
+            "url": "https://myanimelist.net/manga/magazine/11/LaLa"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 953,
+                    "type": "anime",
+                    "name": "Juu Ou Sei",
+                    "url": "https://myanimelist.net/anime/953/Juu_Ou_Sei"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://jyu-oh-sei.com/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Jyu_Oh_Sei"
+        }
+    ]
+}

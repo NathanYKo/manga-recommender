@@ -1,0 +1,698 @@
+2025-02-27 17:38:32,132 - manga_recommender.etl_runner - INFO - Starting extraction process...
+2025-02-27 17:39:31,643 - manga_recommender.etl_runner - INFO - Starting extraction process...
+2025-02-27 17:39:31,644 - manga_recommender - INFO - Created directory: data/raw
+2025-02-27 17:39:40,925 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_10.json
+2025-02-27 17:39:50,247 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_20.json
+2025-02-27 17:39:50,603 - manga_recommender - INFO - Saved data to data/raw/manga_list.json
+2025-02-27 17:39:50,603 - manga_recommender.extract - INFO - Extracted 500 manga entries
+2025-02-27 17:39:51,208 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:39:51,209 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:39:51,210 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:39:51,361 - manga_recommender - INFO - Saved data to data/raw/manga_28.json
+2025-02-27 17:39:52,135 - manga_recommender - INFO - Saved data to data/raw/manga_60.json
+2025-02-27 17:39:52,869 - manga_recommender - INFO - Saved data to data/raw/manga_511.json
+2025-02-27 17:39:53,427 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:39:56,550 - manga_recommender - INFO - Saved data to data/raw/manga_59.json
+2025-02-27 17:39:56,553 - manga_recommender - INFO - Saved data to data/raw/manga_29.json
+2025-02-27 17:39:56,580 - manga_recommender - INFO - Saved data to data/raw/manga_510.json
+2025-02-27 17:39:57,121 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:39:57,127 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:39:57,168 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:39:58,772 - manga_recommender - INFO - Saved data to data/raw/manga_30.json
+2025-02-27 17:39:59,515 - manga_recommender - INFO - Saved data to data/raw/manga_62.json
+2025-02-27 17:40:01,279 - manga_recommender - INFO - Saved data to data/raw/manga_513.json
+2025-02-27 17:40:02,001 - manga_recommender - INFO - Saved data to data/raw/manga_32.json
+2025-02-27 17:40:02,313 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:02,358 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:02,683 - manga_recommender - INFO - Saved data to data/raw/manga_63.json
+2025-02-27 17:40:03,112 - manga_recommender - INFO - Saved data to data/raw/manga_61.json
+2025-02-27 17:40:03,249 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:03,796 - manga_recommender - INFO - Saved data to data/raw/manga_33.json
+2025-02-27 17:40:04,356 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:07,641 - manga_recommender - INFO - Saved data to data/raw/manga_512.json
+2025-02-27 17:40:08,349 - manga_recommender - INFO - Saved data to data/raw/manga_516.json
+2025-02-27 17:40:08,435 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:08,458 - manga_recommender - INFO - Saved data to data/raw/manga_31.json
+2025-02-27 17:40:09,026 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:09,075 - manga_recommender - INFO - Saved data to data/raw/manga_34.json
+2025-02-27 17:40:09,664 - manga_recommender - INFO - Saved data to data/raw/manga_64.json
+2025-02-27 17:40:09,666 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:10,235 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:13,751 - manga_recommender - INFO - Saved data to data/raw/manga_514.json
+2025-02-27 17:40:14,366 - manga_recommender - INFO - Saved data to data/raw/manga_65.json
+2025-02-27 17:40:14,447 - manga_recommender - INFO - Saved data to data/raw/manga_66.json
+2025-02-27 17:40:14,938 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:14,979 - manga_recommender - INFO - Saved data to data/raw/manga_517.json
+2025-02-27 17:40:15,016 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:15,418 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:15,555 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:20,274 - manga_recommender - INFO - Saved data to data/raw/manga_518.json
+2025-02-27 17:40:20,743 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:20,854 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:21,246 - manga_recommender - INFO - Saved data to data/raw/manga_36.json
+2025-02-27 17:40:21,537 - manga_recommender - INFO - Saved data to data/raw/manga_35.json
+2025-02-27 17:40:22,004 - manga_recommender - INFO - Saved data to data/raw/manga_37.json
+2025-02-27 17:40:22,255 - manga_recommender - INFO - Saved data to data/raw/manga_68.json
+2025-02-27 17:40:22,580 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:22,851 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:26,090 - manga_recommender - INFO - Saved data to data/raw/manga_67.json
+2025-02-27 17:40:26,194 - manga_recommender - INFO - Saved data to data/raw/manga_519.json
+2025-02-27 17:40:26,764 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:26,777 - manga_recommender - INFO - Saved data to data/raw/manga_69.json
+2025-02-27 17:40:27,502 - manga_recommender - INFO - Saved data to data/raw/manga_70.json
+2025-02-27 17:40:27,776 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:28,068 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:40:28,184 - manga_recommender - INFO - Saved data to data/raw/manga_38.json
+2025-02-27 17:40:28,767 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:44:55,070 - manga_recommender.etl_runner - INFO - Starting extraction process...
+2025-02-27 17:45:09,606 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_10.json
+2025-02-27 17:45:23,508 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_20.json
+2025-02-27 17:45:24,626 - manga_recommender - INFO - Saved data to data/raw/manga_list.json
+2025-02-27 17:45:24,627 - manga_recommender.extract - INFO - Extracted 500 manga entries
+2025-02-27 17:45:25,234 - manga_recommender - INFO - Saved data to data/raw/manga_28.json
+2025-02-27 17:45:25,933 - manga_recommender - INFO - Saved data to data/raw/manga_122.json
+2025-02-27 17:45:26,493 - manga_recommender - INFO - Saved data to data/raw/manga_510.json
+2025-02-27 17:45:27,063 - manga_recommender - INFO - Saved data to data/raw/manga_29.json
+2025-02-27 17:45:27,775 - manga_recommender - INFO - Saved data to data/raw/manga_123.json
+2025-02-27 17:45:28,357 - manga_recommender - INFO - Saved data to data/raw/manga_511.json
+2025-02-27 17:45:28,932 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:45:34,128 - manga_recommender - INFO - Saved data to data/raw/manga_30.json
+2025-02-27 17:45:34,883 - manga_recommender - INFO - Saved data to data/raw/manga_124.json
+2025-02-27 17:45:35,457 - manga_recommender - INFO - Saved data to data/raw/manga_512.json
+2025-02-27 17:45:36,049 - manga_recommender - INFO - Saved data to data/raw/manga_31.json
+2025-02-27 17:45:36,769 - manga_recommender - INFO - Saved data to data/raw/manga_125.json
+2025-02-27 17:45:37,339 - manga_recommender - INFO - Saved data to data/raw/manga_513.json
+2025-02-27 17:45:37,906 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:45:43,113 - manga_recommender - INFO - Saved data to data/raw/manga_32.json
+2025-02-27 17:45:43,831 - manga_recommender - INFO - Saved data to data/raw/manga_126.json
+2025-02-27 17:45:44,398 - manga_recommender - INFO - Saved data to data/raw/manga_514.json
+2025-02-27 17:45:44,960 - manga_recommender - INFO - Saved data to data/raw/manga_33.json
+2025-02-27 17:45:46,895 - manga_recommender - INFO - Saved data to data/raw/manga_127.json
+2025-02-27 17:45:47,461 - manga_recommender - INFO - Saved data to data/raw/manga_516.json
+2025-02-27 17:45:48,029 - manga_recommender - INFO - Saved data to data/raw/manga_34.json
+2025-02-27 17:45:48,728 - manga_recommender - INFO - Saved data to data/raw/manga_128.json
+2025-02-27 17:45:49,297 - manga_recommender - INFO - Saved data to data/raw/manga_517.json
+2025-02-27 17:45:49,866 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:49:15,570 - manga_recommender.etl_runner - INFO - Starting extraction process...
+2025-02-27 17:51:17,719 - manga_recommender.etl_runner - INFO - Starting extraction process...
+2025-02-27 17:52:40,883 - manga_recommender.etl_runner - INFO - Starting extraction process...
+2025-02-27 17:52:54,246 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_10.json
+2025-02-27 17:53:08,127 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_20.json
+2025-02-27 17:53:09,235 - manga_recommender - INFO - Saved data to data/raw/manga_list.json
+2025-02-27 17:53:09,235 - manga_recommender.extract - INFO - Extracted 500 manga entries
+2025-02-27 17:53:09,235 - manga_recommender.extract - INFO - Processing batch of 60 manga IDs starting at index 0
+2025-02-27 17:53:09,973 - manga_recommender - INFO - Saved data to data/raw/manga_1.json
+2025-02-27 17:53:10,695 - manga_recommender - INFO - Saved data to data/raw/manga_2.json
+2025-02-27 17:53:11,425 - manga_recommender - INFO - Saved data to data/raw/manga_3.json
+2025-02-27 17:53:12,140 - manga_recommender - INFO - Saved data to data/raw/manga_4.json
+2025-02-27 17:53:13,653 - manga_recommender - INFO - Saved data to data/raw/manga_7.json
+2025-02-27 17:53:14,372 - manga_recommender - INFO - Saved data to data/raw/manga_8.json
+2025-02-27 17:53:15,084 - manga_recommender - INFO - Saved data to data/raw/manga_9.json
+2025-02-27 17:53:15,783 - manga_recommender - INFO - Saved data to data/raw/manga_10.json
+2025-02-27 17:53:16,510 - manga_recommender - INFO - Saved data to data/raw/manga_11.json
+2025-02-27 17:53:17,203 - manga_recommender - INFO - Saved data to data/raw/manga_12.json
+2025-02-27 17:53:17,769 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:53:23,113 - manga_recommender - INFO - Saved data to data/raw/manga_13.json
+2025-02-27 17:53:23,914 - manga_recommender - INFO - Saved data to data/raw/manga_14.json
+2025-02-27 17:53:24,612 - manga_recommender - INFO - Saved data to data/raw/manga_15.json
+2025-02-27 17:53:26,154 - manga_recommender - INFO - Saved data to data/raw/manga_16.json
+2025-02-27 17:53:26,865 - manga_recommender - INFO - Saved data to data/raw/manga_17.json
+2025-02-27 17:53:27,553 - manga_recommender - INFO - Saved data to data/raw/manga_18.json
+2025-02-27 17:53:29,121 - manga_recommender - INFO - Saved data to data/raw/manga_19.json
+2025-02-27 17:53:29,881 - manga_recommender - INFO - Saved data to data/raw/manga_20.json
+2025-02-27 17:53:30,579 - manga_recommender - INFO - Saved data to data/raw/manga_21.json
+2025-02-27 17:53:31,300 - manga_recommender - INFO - Saved data to data/raw/manga_22.json
+2025-02-27 17:53:32,004 - manga_recommender - INFO - Saved data to data/raw/manga_23.json
+2025-02-27 17:53:32,682 - manga_recommender - INFO - Saved data to data/raw/manga_24.json
+2025-02-27 17:53:33,403 - manga_recommender - INFO - Saved data to data/raw/manga_25.json
+2025-02-27 17:53:34,086 - manga_recommender - INFO - Saved data to data/raw/manga_26.json
+2025-02-27 17:53:34,644 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:53:40,021 - manga_recommender - INFO - Saved data to data/raw/manga_27.json
+2025-02-27 17:53:40,597 - manga_recommender - INFO - Saved data to data/raw/manga_28.json
+2025-02-27 17:53:41,163 - manga_recommender - INFO - Saved data to data/raw/manga_29.json
+2025-02-27 17:53:41,733 - manga_recommender - INFO - Saved data to data/raw/manga_30.json
+2025-02-27 17:53:42,307 - manga_recommender - INFO - Saved data to data/raw/manga_31.json
+2025-02-27 17:53:42,889 - manga_recommender - INFO - Saved data to data/raw/manga_32.json
+2025-02-27 17:53:43,455 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:53:48,664 - manga_recommender - INFO - Saved data to data/raw/manga_33.json
+2025-02-27 17:53:49,231 - manga_recommender - INFO - Saved data to data/raw/manga_34.json
+2025-02-27 17:53:49,803 - manga_recommender - INFO - Saved data to data/raw/manga_35.json
+2025-02-27 17:53:50,365 - manga_recommender - INFO - Saved data to data/raw/manga_36.json
+2025-02-27 17:53:50,929 - manga_recommender - INFO - Saved data to data/raw/manga_37.json
+2025-02-27 17:53:51,490 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:53:56,688 - manga_recommender - INFO - Saved data to data/raw/manga_38.json
+2025-02-27 17:53:58,307 - manga_recommender - INFO - Saved data to data/raw/manga_39.json
+2025-02-27 17:53:59,015 - manga_recommender - INFO - Saved data to data/raw/manga_40.json
+2025-02-27 17:53:59,768 - manga_recommender - INFO - Saved data to data/raw/manga_41.json
+2025-02-27 17:54:00,473 - manga_recommender - INFO - Saved data to data/raw/manga_42.json
+2025-02-27 17:54:01,994 - manga_recommender - INFO - Saved data to data/raw/manga_43.json
+2025-02-27 17:54:02,727 - manga_recommender - INFO - Saved data to data/raw/manga_44.json
+2025-02-27 17:54:03,414 - manga_recommender - INFO - Saved data to data/raw/manga_45.json
+2025-02-27 17:54:04,093 - manga_recommender - INFO - Saved data to data/raw/manga_46.json
+2025-02-27 17:54:04,796 - manga_recommender - INFO - Saved data to data/raw/manga_47.json
+2025-02-27 17:54:05,507 - manga_recommender - INFO - Saved data to data/raw/manga_48.json
+2025-02-27 17:54:06,226 - manga_recommender - INFO - Saved data to data/raw/manga_49.json
+2025-02-27 17:54:06,799 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:54:12,140 - manga_recommender - INFO - Saved data to data/raw/manga_50.json
+2025-02-27 17:54:12,843 - manga_recommender - INFO - Saved data to data/raw/manga_51.json
+2025-02-27 17:54:13,513 - manga_recommender - INFO - Saved data to data/raw/manga_52.json
+2025-02-27 17:54:14,222 - manga_recommender - INFO - Saved data to data/raw/manga_53.json
+2025-02-27 17:54:14,948 - manga_recommender - INFO - Saved data to data/raw/manga_54.json
+2025-02-27 17:54:15,669 - manga_recommender - INFO - Saved data to data/raw/manga_55.json
+2025-02-27 17:54:16,398 - manga_recommender - INFO - Saved data to data/raw/manga_56.json
+2025-02-27 17:54:16,962 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:54:22,260 - manga_recommender - INFO - Saved data to data/raw/manga_57.json
+2025-02-27 17:54:22,989 - manga_recommender - INFO - Saved data to data/raw/manga_58.json
+2025-02-27 17:54:23,585 - manga_recommender - INFO - Saved data to data/raw/manga_59.json
+2025-02-27 17:54:24,152 - manga_recommender - INFO - Saved data to data/raw/manga_60.json
+2025-02-27 17:54:24,743 - manga_recommender - INFO - Saved data to data/raw/manga_61.json
+2025-02-27 17:54:25,308 - manga_recommender - INFO - Saved data to data/raw/manga_62.json
+2025-02-27 17:54:25,309 - manga_recommender.extract - INFO - Batch took 76.07s, which is over 60s. Proceeding immediately.
+2025-02-27 17:54:25,309 - manga_recommender.extract - INFO - Processing batch of 60 manga IDs starting at index 60
+2025-02-27 17:54:25,887 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:54:31,083 - manga_recommender - INFO - Saved data to data/raw/manga_63.json
+2025-02-27 17:54:31,653 - manga_recommender - INFO - Saved data to data/raw/manga_64.json
+2025-02-27 17:54:32,224 - manga_recommender - INFO - Saved data to data/raw/manga_65.json
+2025-02-27 17:54:32,793 - manga_recommender - INFO - Saved data to data/raw/manga_66.json
+2025-02-27 17:54:33,378 - manga_recommender - INFO - Saved data to data/raw/manga_67.json
+2025-02-27 17:54:33,946 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:54:39,143 - manga_recommender - INFO - Saved data to data/raw/manga_68.json
+2025-02-27 17:54:39,726 - manga_recommender - INFO - Saved data to data/raw/manga_69.json
+2025-02-27 17:54:40,287 - manga_recommender - INFO - Saved data to data/raw/manga_70.json
+2025-02-27 17:54:41,007 - manga_recommender - INFO - Saved data to data/raw/manga_71.json
+2025-02-27 17:54:41,724 - manga_recommender - INFO - Saved data to data/raw/manga_72.json
+2025-02-27 17:54:42,441 - manga_recommender - INFO - Saved data to data/raw/manga_73.json
+2025-02-27 17:54:43,004 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:54:48,343 - manga_recommender - INFO - Saved data to data/raw/manga_74.json
+2025-02-27 17:54:49,034 - manga_recommender - INFO - Saved data to data/raw/manga_75.json
+2025-02-27 17:54:49,769 - manga_recommender - INFO - Saved data to data/raw/manga_76.json
+2025-02-27 17:54:50,529 - manga_recommender - INFO - Saved data to data/raw/manga_77.json
+2025-02-27 17:54:51,269 - manga_recommender - INFO - Saved data to data/raw/manga_78.json
+2025-02-27 17:54:51,994 - manga_recommender - INFO - Saved data to data/raw/manga_79.json
+2025-02-27 17:54:52,697 - manga_recommender - INFO - Saved data to data/raw/manga_80.json
+2025-02-27 17:54:53,415 - manga_recommender - INFO - Saved data to data/raw/manga_81.json
+2025-02-27 17:54:53,976 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:54:59,351 - manga_recommender - INFO - Saved data to data/raw/manga_83.json
+2025-02-27 17:55:00,039 - manga_recommender - INFO - Saved data to data/raw/manga_84.json
+2025-02-27 17:55:00,620 - manga_recommender - INFO - Saved data to data/raw/manga_85.json
+2025-02-27 17:55:01,314 - manga_recommender - INFO - Saved data to data/raw/manga_86.json
+2025-02-27 17:55:02,023 - manga_recommender - INFO - Saved data to data/raw/manga_87.json
+2025-02-27 17:55:02,736 - manga_recommender - INFO - Saved data to data/raw/manga_88.json
+2025-02-27 17:55:03,452 - manga_recommender - INFO - Saved data to data/raw/manga_89.json
+2025-02-27 17:55:04,041 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:55:09,354 - manga_recommender - INFO - Saved data to data/raw/manga_90.json
+2025-02-27 17:55:10,076 - manga_recommender - INFO - Saved data to data/raw/manga_91.json
+2025-02-27 17:55:10,799 - manga_recommender - INFO - Saved data to data/raw/manga_92.json
+2025-02-27 17:55:11,528 - manga_recommender - INFO - Saved data to data/raw/manga_93.json
+2025-02-27 17:55:13,084 - manga_recommender - INFO - Saved data to data/raw/manga_94.json
+2025-02-27 17:55:13,794 - manga_recommender - INFO - Saved data to data/raw/manga_95.json
+2025-02-27 17:55:14,468 - manga_recommender - INFO - Saved data to data/raw/manga_96.json
+2025-02-27 17:55:15,184 - manga_recommender - INFO - Saved data to data/raw/manga_97.json
+2025-02-27 17:55:15,917 - manga_recommender - INFO - Saved data to data/raw/manga_98.json
+2025-02-27 17:55:17,517 - manga_recommender - INFO - Saved data to data/raw/manga_99.json
+2025-02-27 17:55:18,247 - manga_recommender - INFO - Saved data to data/raw/manga_100.json
+2025-02-27 17:55:18,963 - manga_recommender - INFO - Saved data to data/raw/manga_101.json
+2025-02-27 17:55:19,668 - manga_recommender - INFO - Saved data to data/raw/manga_102.json
+2025-02-27 17:55:20,233 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:55:25,553 - manga_recommender - INFO - Saved data to data/raw/manga_103.json
+2025-02-27 17:55:26,302 - manga_recommender - INFO - Saved data to data/raw/manga_104.json
+2025-02-27 17:55:27,048 - manga_recommender - INFO - Saved data to data/raw/manga_105.json
+2025-02-27 17:55:27,770 - manga_recommender - INFO - Saved data to data/raw/manga_106.json
+2025-02-27 17:55:28,485 - manga_recommender - INFO - Saved data to data/raw/manga_107.json
+2025-02-27 17:55:29,221 - manga_recommender - INFO - Saved data to data/raw/manga_108.json
+2025-02-27 17:55:29,923 - manga_recommender - INFO - Saved data to data/raw/manga_109.json
+2025-02-27 17:55:30,643 - manga_recommender - INFO - Saved data to data/raw/manga_110.json
+2025-02-27 17:55:31,203 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:55:36,536 - manga_recommender - INFO - Saved data to data/raw/manga_111.json
+2025-02-27 17:55:37,245 - manga_recommender - INFO - Saved data to data/raw/manga_112.json
+2025-02-27 17:55:37,958 - manga_recommender - INFO - Saved data to data/raw/manga_113.json
+2025-02-27 17:55:38,663 - manga_recommender - INFO - Saved data to data/raw/manga_114.json
+2025-02-27 17:55:40,132 - manga_recommender - INFO - Saved data to data/raw/manga_115.json
+2025-02-27 17:55:40,859 - manga_recommender - INFO - Saved data to data/raw/manga_116.json
+2025-02-27 17:55:41,569 - manga_recommender - INFO - Saved data to data/raw/manga_117.json
+2025-02-27 17:55:42,257 - manga_recommender - INFO - Saved data to data/raw/manga_118.json
+2025-02-27 17:55:42,981 - manga_recommender - INFO - Saved data to data/raw/manga_119.json
+2025-02-27 17:55:43,714 - manga_recommender - INFO - Saved data to data/raw/manga_120.json
+2025-02-27 17:55:44,272 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:55:49,611 - manga_recommender - INFO - Saved data to data/raw/manga_121.json
+2025-02-27 17:55:50,181 - manga_recommender - INFO - Saved data to data/raw/manga_122.json
+2025-02-27 17:55:50,750 - manga_recommender - INFO - Saved data to data/raw/manga_123.json
+2025-02-27 17:55:50,750 - manga_recommender.extract - INFO - Batch took 85.44s, which is over 60s. Proceeding immediately.
+2025-02-27 17:55:50,751 - manga_recommender.extract - INFO - Processing batch of 60 manga IDs starting at index 120
+2025-02-27 17:55:51,317 - manga_recommender - INFO - Saved data to data/raw/manga_124.json
+2025-02-27 17:55:51,880 - manga_recommender - INFO - Saved data to data/raw/manga_125.json
+2025-02-27 17:55:52,462 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:55:57,660 - manga_recommender - INFO - Saved data to data/raw/manga_126.json
+2025-02-27 17:55:58,237 - manga_recommender - INFO - Saved data to data/raw/manga_127.json
+2025-02-27 17:55:58,802 - manga_recommender - INFO - Saved data to data/raw/manga_128.json
+2025-02-27 17:55:59,524 - manga_recommender - INFO - Saved data to data/raw/manga_129.json
+2025-02-27 17:56:00,246 - manga_recommender - INFO - Saved data to data/raw/manga_130.json
+2025-02-27 17:56:00,977 - manga_recommender - INFO - Saved data to data/raw/manga_131.json
+2025-02-27 17:56:02,093 - manga_recommender - INFO - Saved data to data/raw/manga_132.json
+2025-02-27 17:56:03,711 - manga_recommender - INFO - Saved data to data/raw/manga_133.json
+2025-02-27 17:56:04,394 - manga_recommender - INFO - Saved data to data/raw/manga_134.json
+2025-02-27 17:56:05,119 - manga_recommender - INFO - Saved data to data/raw/manga_135.json
+2025-02-27 17:56:05,839 - manga_recommender - INFO - Saved data to data/raw/manga_136.json
+2025-02-27 17:56:06,410 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:56:11,759 - manga_recommender - INFO - Saved data to data/raw/manga_137.json
+2025-02-27 17:56:12,475 - manga_recommender - INFO - Saved data to data/raw/manga_138.json
+2025-02-27 17:56:13,183 - manga_recommender - INFO - Saved data to data/raw/manga_139.json
+2025-02-27 17:56:13,926 - manga_recommender - INFO - Saved data to data/raw/manga_140.json
+2025-02-27 17:56:14,638 - manga_recommender - INFO - Saved data to data/raw/manga_141.json
+2025-02-27 17:56:16,244 - manga_recommender - INFO - Saved data to data/raw/manga_142.json
+2025-02-27 17:56:16,928 - manga_recommender - INFO - Saved data to data/raw/manga_143.json
+2025-02-27 17:56:17,604 - manga_recommender - INFO - Saved data to data/raw/manga_144.json
+2025-02-27 17:56:18,307 - manga_recommender - INFO - Saved data to data/raw/manga_145.json
+2025-02-27 17:56:18,996 - manga_recommender - INFO - Saved data to data/raw/manga_146.json
+2025-02-27 17:56:19,567 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:56:24,883 - manga_recommender - INFO - Saved data to data/raw/manga_147.json
+2025-02-27 17:56:25,587 - manga_recommender - INFO - Saved data to data/raw/manga_148.json
+2025-02-27 17:56:26,311 - manga_recommender - INFO - Saved data to data/raw/manga_149.json
+2025-02-27 17:56:27,012 - manga_recommender - INFO - Saved data to data/raw/manga_150.json
+2025-02-27 17:56:27,733 - manga_recommender - INFO - Saved data to data/raw/manga_151.json
+2025-02-27 17:56:28,481 - manga_recommender - INFO - Saved data to data/raw/manga_152.json
+2025-02-27 17:56:29,182 - manga_recommender - INFO - Saved data to data/raw/manga_153.json
+2025-02-27 17:56:29,939 - manga_recommender - INFO - Saved data to data/raw/manga_155.json
+2025-02-27 17:56:30,514 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:56:35,875 - manga_recommender - INFO - Saved data to data/raw/manga_156.json
+2025-02-27 17:56:36,602 - manga_recommender - INFO - Saved data to data/raw/manga_157.json
+2025-02-27 17:56:38,235 - manga_recommender - INFO - Saved data to data/raw/manga_158.json
+2025-02-27 17:56:38,921 - manga_recommender - INFO - Saved data to data/raw/manga_159.json
+2025-02-27 17:56:39,647 - manga_recommender - INFO - Saved data to data/raw/manga_160.json
+2025-02-27 17:56:40,314 - manga_recommender - INFO - Saved data to data/raw/manga_161.json
+2025-02-27 17:56:41,034 - manga_recommender - INFO - Saved data to data/raw/manga_162.json
+2025-02-27 17:56:41,783 - manga_recommender - INFO - Saved data to data/raw/manga_163.json
+2025-02-27 17:56:42,477 - manga_recommender - INFO - Saved data to data/raw/manga_164.json
+2025-02-27 17:56:43,202 - manga_recommender - INFO - Saved data to data/raw/manga_165.json
+2025-02-27 17:56:43,946 - manga_recommender - INFO - Saved data to data/raw/manga_166.json
+2025-02-27 17:56:44,514 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:56:49,850 - manga_recommender - INFO - Saved data to data/raw/manga_167.json
+2025-02-27 17:56:50,565 - manga_recommender - INFO - Saved data to data/raw/manga_168.json
+2025-02-27 17:56:51,297 - manga_recommender - INFO - Saved data to data/raw/manga_169.json
+2025-02-27 17:56:52,012 - manga_recommender - INFO - Saved data to data/raw/manga_170.json
+2025-02-27 17:56:53,474 - manga_recommender - INFO - Saved data to data/raw/manga_171.json
+2025-02-27 17:56:54,153 - manga_recommender - INFO - Saved data to data/raw/manga_172.json
+2025-02-27 17:56:55,605 - manga_recommender - INFO - Saved data to data/raw/manga_173.json
+2025-02-27 17:56:56,350 - manga_recommender - INFO - Saved data to data/raw/manga_174.json
+2025-02-27 17:56:57,090 - manga_recommender - INFO - Saved data to data/raw/manga_175.json
+2025-02-27 17:56:57,802 - manga_recommender - INFO - Saved data to data/raw/manga_176.json
+2025-02-27 17:56:58,496 - manga_recommender - INFO - Saved data to data/raw/manga_177.json
+2025-02-27 17:56:59,218 - manga_recommender - INFO - Saved data to data/raw/manga_178.json
+2025-02-27 17:56:59,937 - manga_recommender - INFO - Saved data to data/raw/manga_179.json
+2025-02-27 17:57:00,492 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:57:05,829 - manga_recommender - INFO - Saved data to data/raw/manga_180.json
+2025-02-27 17:57:07,258 - manga_recommender - INFO - Saved data to data/raw/manga_181.json
+2025-02-27 17:57:08,823 - manga_recommender - INFO - Saved data to data/raw/manga_182.json
+2025-02-27 17:57:09,552 - manga_recommender - INFO - Saved data to data/raw/manga_183.json
+2025-02-27 17:57:10,272 - manga_recommender - INFO - Saved data to data/raw/manga_184.json
+2025-02-27 17:57:10,274 - manga_recommender.extract - INFO - Batch took 79.52s, which is over 60s. Proceeding immediately.
+2025-02-27 17:57:10,275 - manga_recommender.extract - INFO - Processing batch of 60 manga IDs starting at index 180
+2025-02-27 17:57:11,005 - manga_recommender - INFO - Saved data to data/raw/manga_185.json
+2025-02-27 17:57:11,710 - manga_recommender - INFO - Saved data to data/raw/manga_186.json
+2025-02-27 17:57:12,431 - manga_recommender - INFO - Saved data to data/raw/manga_187.json
+2025-02-27 17:57:13,159 - manga_recommender - INFO - Saved data to data/raw/manga_188.json
+2025-02-27 17:57:13,880 - manga_recommender - INFO - Saved data to data/raw/manga_190.json
+2025-02-27 17:57:14,587 - manga_recommender - INFO - Saved data to data/raw/manga_191.json
+2025-02-27 17:57:15,144 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:57:20,492 - manga_recommender - INFO - Saved data to data/raw/manga_192.json
+2025-02-27 17:57:21,968 - manga_recommender - INFO - Saved data to data/raw/manga_193.json
+2025-02-27 17:57:22,676 - manga_recommender - INFO - Saved data to data/raw/manga_194.json
+2025-02-27 17:57:23,389 - manga_recommender - INFO - Saved data to data/raw/manga_195.json
+2025-02-27 17:57:24,102 - manga_recommender - INFO - Saved data to data/raw/manga_196.json
+2025-02-27 17:57:25,650 - manga_recommender - INFO - Saved data to data/raw/manga_197.json
+2025-02-27 17:57:26,335 - manga_recommender - INFO - Saved data to data/raw/manga_198.json
+2025-02-27 17:57:27,051 - manga_recommender - INFO - Saved data to data/raw/manga_199.json
+2025-02-27 17:57:28,597 - manga_recommender - INFO - Saved data to data/raw/manga_200.json
+2025-02-27 17:57:29,307 - manga_recommender - INFO - Saved data to data/raw/manga_201.json
+2025-02-27 17:57:30,020 - manga_recommender - INFO - Saved data to data/raw/manga_202.json
+2025-02-27 17:57:30,749 - manga_recommender - INFO - Saved data to data/raw/manga_203.json
+2025-02-27 17:57:31,476 - manga_recommender - INFO - Saved data to data/raw/manga_204.json
+2025-02-27 17:57:33,040 - manga_recommender - INFO - Saved data to data/raw/manga_205.json
+2025-02-27 17:57:33,777 - manga_recommender - INFO - Saved data to data/raw/manga_206.json
+2025-02-27 17:57:34,482 - manga_recommender - INFO - Saved data to data/raw/manga_207.json
+2025-02-27 17:57:35,220 - manga_recommender - INFO - Saved data to data/raw/manga_208.json
+2025-02-27 17:57:35,910 - manga_recommender - INFO - Saved data to data/raw/manga_209.json
+2025-02-27 17:57:36,484 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:57:41,829 - manga_recommender - INFO - Saved data to data/raw/manga_211.json
+2025-02-27 17:57:42,528 - manga_recommender - INFO - Saved data to data/raw/manga_212.json
+2025-02-27 17:57:43,234 - manga_recommender - INFO - Saved data to data/raw/manga_213.json
+2025-02-27 17:57:45,155 - manga_recommender - INFO - Saved data to data/raw/manga_214.json
+2025-02-27 17:57:45,878 - manga_recommender - INFO - Saved data to data/raw/manga_215.json
+2025-02-27 17:57:46,585 - manga_recommender - INFO - Saved data to data/raw/manga_216.json
+2025-02-27 17:57:47,318 - manga_recommender - INFO - Saved data to data/raw/manga_217.json
+2025-02-27 17:57:47,997 - manga_recommender - INFO - Saved data to data/raw/manga_218.json
+2025-02-27 17:57:48,713 - manga_recommender - INFO - Saved data to data/raw/manga_219.json
+2025-02-27 17:57:49,428 - manga_recommender - INFO - Saved data to data/raw/manga_220.json
+2025-02-27 17:57:50,169 - manga_recommender - INFO - Saved data to data/raw/manga_221.json
+2025-02-27 17:57:51,656 - manga_recommender - INFO - Saved data to data/raw/manga_222.json
+2025-02-27 17:57:52,371 - manga_recommender - INFO - Saved data to data/raw/manga_223.json
+2025-02-27 17:57:53,083 - manga_recommender - INFO - Saved data to data/raw/manga_224.json
+2025-02-27 17:57:53,645 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:57:58,941 - manga_recommender - INFO - Saved data to data/raw/manga_225.json
+2025-02-27 17:58:00,462 - manga_recommender - INFO - Saved data to data/raw/manga_226.json
+2025-02-27 17:58:01,169 - manga_recommender - INFO - Saved data to data/raw/manga_227.json
+2025-02-27 17:58:01,885 - manga_recommender - INFO - Saved data to data/raw/manga_228.json
+2025-02-27 17:58:02,635 - manga_recommender - INFO - Saved data to data/raw/manga_229.json
+2025-02-27 17:58:03,339 - manga_recommender - INFO - Saved data to data/raw/manga_230.json
+2025-02-27 17:58:04,051 - manga_recommender - INFO - Saved data to data/raw/manga_233.json
+2025-02-27 17:58:04,727 - manga_recommender - INFO - Saved data to data/raw/manga_234.json
+2025-02-27 17:58:05,425 - manga_recommender - INFO - Saved data to data/raw/manga_235.json
+2025-02-27 17:58:05,988 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:58:11,359 - manga_recommender - INFO - Saved data to data/raw/manga_236.json
+2025-02-27 17:58:12,076 - manga_recommender - INFO - Saved data to data/raw/manga_237.json
+2025-02-27 17:58:12,782 - manga_recommender - INFO - Saved data to data/raw/manga_238.json
+2025-02-27 17:58:13,491 - manga_recommender - INFO - Saved data to data/raw/manga_239.json
+2025-02-27 17:58:14,208 - manga_recommender - INFO - Saved data to data/raw/manga_240.json
+2025-02-27 17:58:15,187 - manga_recommender - INFO - Saved data to data/raw/manga_241.json
+2025-02-27 17:58:15,958 - manga_recommender - INFO - Saved data to data/raw/manga_242.json
+2025-02-27 17:58:16,680 - manga_recommender - INFO - Saved data to data/raw/manga_243.json
+2025-02-27 17:58:17,392 - manga_recommender - INFO - Saved data to data/raw/manga_244.json
+2025-02-27 17:58:17,978 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:58:23,955 - manga_recommender - INFO - Saved data to data/raw/manga_245.json
+2025-02-27 17:58:24,663 - manga_recommender - INFO - Saved data to data/raw/manga_246.json
+2025-02-27 17:58:25,386 - manga_recommender - INFO - Saved data to data/raw/manga_247.json
+2025-02-27 17:58:26,068 - manga_recommender - INFO - Saved data to data/raw/manga_248.json
+2025-02-27 17:58:26,069 - manga_recommender.extract - INFO - Batch took 75.79s, which is over 60s. Proceeding immediately.
+2025-02-27 17:58:26,070 - manga_recommender.extract - INFO - Processing batch of 60 manga IDs starting at index 240
+2025-02-27 17:58:26,781 - manga_recommender - INFO - Saved data to data/raw/manga_249.json
+2025-02-27 17:58:28,161 - manga_recommender - INFO - Saved data to data/raw/manga_250.json
+2025-02-27 17:58:28,856 - manga_recommender - INFO - Saved data to data/raw/manga_251.json
+2025-02-27 17:58:29,589 - manga_recommender - INFO - Saved data to data/raw/manga_252.json
+2025-02-27 17:58:30,262 - manga_recommender - INFO - Saved data to data/raw/manga_253.json
+2025-02-27 17:58:31,016 - manga_recommender - INFO - Saved data to data/raw/manga_254.json
+2025-02-27 17:58:31,730 - manga_recommender - INFO - Saved data to data/raw/manga_255.json
+2025-02-27 17:58:32,295 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:58:37,642 - manga_recommender - INFO - Saved data to data/raw/manga_256.json
+2025-02-27 17:58:38,359 - manga_recommender - INFO - Saved data to data/raw/manga_257.json
+2025-02-27 17:58:39,083 - manga_recommender - INFO - Saved data to data/raw/manga_258.json
+2025-02-27 17:58:39,806 - manga_recommender - INFO - Saved data to data/raw/manga_259.json
+2025-02-27 17:58:40,527 - manga_recommender - INFO - Saved data to data/raw/manga_260.json
+2025-02-27 17:58:42,240 - manga_recommender - INFO - Saved data to data/raw/manga_261.json
+2025-02-27 17:58:42,971 - manga_recommender - INFO - Saved data to data/raw/manga_262.json
+2025-02-27 17:58:43,735 - manga_recommender - INFO - Saved data to data/raw/manga_263.json
+2025-02-27 17:58:45,234 - manga_recommender - INFO - Saved data to data/raw/manga_264.json
+2025-02-27 17:58:45,946 - manga_recommender - INFO - Saved data to data/raw/manga_265.json
+2025-02-27 17:58:46,667 - manga_recommender - INFO - Saved data to data/raw/manga_266.json
+2025-02-27 17:58:47,364 - manga_recommender - INFO - Saved data to data/raw/manga_267.json
+2025-02-27 17:58:48,886 - manga_recommender - INFO - Saved data to data/raw/manga_268.json
+2025-02-27 17:58:49,608 - manga_recommender - INFO - Saved data to data/raw/manga_269.json
+2025-02-27 17:58:50,279 - manga_recommender - INFO - Saved data to data/raw/manga_270.json
+2025-02-27 17:58:51,004 - manga_recommender - INFO - Saved data to data/raw/manga_271.json
+2025-02-27 17:58:51,718 - manga_recommender - INFO - Saved data to data/raw/manga_272.json
+2025-02-27 17:58:52,282 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:58:57,649 - manga_recommender - INFO - Saved data to data/raw/manga_273.json
+2025-02-27 17:58:58,394 - manga_recommender - INFO - Saved data to data/raw/manga_274.json
+2025-02-27 17:58:59,097 - manga_recommender - INFO - Saved data to data/raw/manga_275.json
+2025-02-27 17:58:59,770 - manga_recommender - INFO - Saved data to data/raw/manga_276.json
+2025-02-27 17:59:00,478 - manga_recommender - INFO - Saved data to data/raw/manga_277.json
+2025-02-27 17:59:01,179 - manga_recommender - INFO - Saved data to data/raw/manga_278.json
+2025-02-27 17:59:01,888 - manga_recommender - INFO - Saved data to data/raw/manga_279.json
+2025-02-27 17:59:02,453 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 17:59:07,812 - manga_recommender - INFO - Saved data to data/raw/manga_280.json
+2025-02-27 17:59:08,505 - manga_recommender - INFO - Saved data to data/raw/manga_281.json
+2025-02-27 17:59:12,983 - manga_recommender.etl_runner - INFO - Starting extraction process...
+2025-02-27 17:59:26,238 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_10.json
+2025-02-27 17:59:40,081 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_20.json
+2025-02-27 17:59:41,163 - manga_recommender - INFO - Saved data to data/raw/manga_list.json
+2025-02-27 17:59:41,164 - manga_recommender.extract - INFO - Extracted 500 manga entries
+2025-02-27 18:02:28,879 - manga_recommender.etl_runner - INFO - Starting extraction process...
+2025-02-27 18:02:42,355 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_10.json
+2025-02-27 18:02:56,312 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_20.json
+2025-02-27 18:02:57,420 - manga_recommender - INFO - Saved data to data/raw/manga_list.json
+2025-02-27 18:02:57,420 - manga_recommender.extract - INFO - Extracted 500 manga entries
+2025-02-27 18:02:57,426 - manga_recommender.extract - INFO - Total manga IDs to process: 218 out of 500
+2025-02-27 18:02:57,426 - manga_recommender.extract - INFO - Processing batch of 60 manga IDs starting at index 0
+2025-02-27 18:02:58,028 - manga_recommender - INFO - Saved data to data/raw/manga_282.json
+2025-02-27 18:02:58,761 - manga_recommender - INFO - Saved data to data/raw/manga_283.json
+2025-02-27 18:02:59,446 - manga_recommender - INFO - Saved data to data/raw/manga_284.json
+2025-02-27 18:03:00,154 - manga_recommender - INFO - Saved data to data/raw/manga_285.json
+2025-02-27 18:03:00,870 - manga_recommender - INFO - Saved data to data/raw/manga_286.json
+2025-02-27 18:03:01,568 - manga_recommender - INFO - Saved data to data/raw/manga_287.json
+2025-02-27 18:03:02,265 - manga_recommender - INFO - Saved data to data/raw/manga_288.json
+2025-02-27 18:03:02,856 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:03:08,203 - manga_recommender - INFO - Saved data to data/raw/manga_289.json
+2025-02-27 18:03:08,907 - manga_recommender - INFO - Saved data to data/raw/manga_290.json
+2025-02-27 18:03:09,637 - manga_recommender - INFO - Saved data to data/raw/manga_291.json
+2025-02-27 18:03:10,332 - manga_recommender - INFO - Saved data to data/raw/manga_292.json
+2025-02-27 18:03:11,035 - manga_recommender - INFO - Saved data to data/raw/manga_293.json
+2025-02-27 18:03:11,732 - manga_recommender - INFO - Saved data to data/raw/manga_294.json
+2025-02-27 18:03:12,457 - manga_recommender - INFO - Saved data to data/raw/manga_295.json
+2025-02-27 18:03:13,029 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:03:18,361 - manga_recommender - INFO - Saved data to data/raw/manga_296.json
+2025-02-27 18:03:19,049 - manga_recommender - INFO - Saved data to data/raw/manga_297.json
+2025-02-27 18:03:19,738 - manga_recommender - INFO - Saved data to data/raw/manga_298.json
+2025-02-27 18:03:20,460 - manga_recommender - INFO - Saved data to data/raw/manga_299.json
+2025-02-27 18:03:21,180 - manga_recommender - INFO - Saved data to data/raw/manga_300.json
+2025-02-27 18:03:21,880 - manga_recommender - INFO - Saved data to data/raw/manga_301.json
+2025-02-27 18:03:22,581 - manga_recommender - INFO - Saved data to data/raw/manga_302.json
+2025-02-27 18:03:23,147 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:03:28,438 - manga_recommender - INFO - Saved data to data/raw/manga_303.json
+2025-02-27 18:03:29,233 - manga_recommender - INFO - Saved data to data/raw/manga_304.json
+2025-02-27 18:03:29,957 - manga_recommender - INFO - Saved data to data/raw/manga_305.json
+2025-02-27 18:03:30,690 - manga_recommender - INFO - Saved data to data/raw/manga_306.json
+2025-02-27 18:03:31,410 - manga_recommender - INFO - Saved data to data/raw/manga_307.json
+2025-02-27 18:03:32,137 - manga_recommender - INFO - Saved data to data/raw/manga_308.json
+2025-02-27 18:03:32,839 - manga_recommender - INFO - Saved data to data/raw/manga_309.json
+2025-02-27 18:03:33,548 - manga_recommender - INFO - Saved data to data/raw/manga_311.json
+2025-02-27 18:03:34,112 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:03:39,462 - manga_recommender - INFO - Saved data to data/raw/manga_312.json
+2025-02-27 18:03:40,193 - manga_recommender - INFO - Saved data to data/raw/manga_314.json
+2025-02-27 18:03:40,934 - manga_recommender - INFO - Saved data to data/raw/manga_315.json
+2025-02-27 18:03:41,610 - manga_recommender - INFO - Saved data to data/raw/manga_316.json
+2025-02-27 18:03:42,348 - manga_recommender - INFO - Saved data to data/raw/manga_317.json
+2025-02-27 18:03:43,088 - manga_recommender - INFO - Saved data to data/raw/manga_318.json
+2025-02-27 18:03:43,781 - manga_recommender - INFO - Saved data to data/raw/manga_319.json
+2025-02-27 18:03:44,497 - manga_recommender - INFO - Saved data to data/raw/manga_320.json
+2025-02-27 18:03:45,060 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:03:51,212 - manga_recommender - INFO - Saved data to data/raw/manga_321.json
+2025-02-27 18:03:51,945 - manga_recommender - INFO - Saved data to data/raw/manga_322.json
+2025-02-27 18:03:52,676 - manga_recommender - INFO - Saved data to data/raw/manga_323.json
+2025-02-27 18:03:53,408 - manga_recommender - INFO - Saved data to data/raw/manga_324.json
+2025-02-27 18:03:54,135 - manga_recommender - INFO - Saved data to data/raw/manga_325.json
+2025-02-27 18:03:54,812 - manga_recommender - INFO - Saved data to data/raw/manga_326.json
+2025-02-27 18:03:55,491 - manga_recommender - INFO - Saved data to data/raw/manga_327.json
+2025-02-27 18:03:56,208 - manga_recommender - INFO - Saved data to data/raw/manga_328.json
+2025-02-27 18:03:56,785 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:05:16,925 - manga_recommender.etl_runner - INFO - Starting extraction process...
+2025-02-27 18:05:30,824 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_10.json
+2025-02-27 18:05:49,923 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_20.json
+2025-02-27 18:05:51,026 - manga_recommender - INFO - Saved data to data/raw/manga_list.json
+2025-02-27 18:05:51,026 - manga_recommender.extract - INFO - Extracted 500 manga entries
+2025-02-27 18:05:51,027 - manga_recommender.extract - INFO - Total manga IDs to process: 173 out of 500
+2025-02-27 18:05:51,027 - manga_recommender.extract - INFO - Processing batch of 60 manga IDs starting at index 0
+2025-02-27 18:05:51,734 - manga_recommender - INFO - Saved data to data/raw/manga_329.json
+2025-02-27 18:05:52,475 - manga_recommender - INFO - Saved data to data/raw/manga_330.json
+2025-02-27 18:05:53,201 - manga_recommender - INFO - Saved data to data/raw/manga_332.json
+2025-02-27 18:05:53,917 - manga_recommender - INFO - Saved data to data/raw/manga_333.json
+2025-02-27 18:05:54,647 - manga_recommender - INFO - Saved data to data/raw/manga_334.json
+2025-02-27 18:05:56,137 - manga_recommender - INFO - Saved data to data/raw/manga_335.json
+2025-02-27 18:05:56,871 - manga_recommender - INFO - Saved data to data/raw/manga_336.json
+2025-02-27 18:05:57,587 - manga_recommender - INFO - Saved data to data/raw/manga_337.json
+2025-02-27 18:05:58,316 - manga_recommender - INFO - Saved data to data/raw/manga_338.json
+2025-02-27 18:05:59,028 - manga_recommender - INFO - Saved data to data/raw/manga_339.json
+2025-02-27 18:05:59,749 - manga_recommender - INFO - Saved data to data/raw/manga_340.json
+2025-02-27 18:06:00,325 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:06:05,663 - manga_recommender - INFO - Saved data to data/raw/manga_341.json
+2025-02-27 18:06:06,451 - manga_recommender - INFO - Saved data to data/raw/manga_342.json
+2025-02-27 18:06:07,179 - manga_recommender - INFO - Saved data to data/raw/manga_343.json
+2025-02-27 18:06:07,894 - manga_recommender - INFO - Saved data to data/raw/manga_344.json
+2025-02-27 18:06:09,452 - manga_recommender - INFO - Saved data to data/raw/manga_345.json
+2025-02-27 18:06:10,293 - manga_recommender - INFO - Saved data to data/raw/manga_346.json
+2025-02-27 18:06:11,231 - manga_recommender - INFO - Saved data to data/raw/manga_347.json
+2025-02-27 18:06:11,956 - manga_recommender - INFO - Saved data to data/raw/manga_348.json
+2025-02-27 18:06:12,699 - manga_recommender - INFO - Saved data to data/raw/manga_349.json
+2025-02-27 18:06:13,446 - manga_recommender - INFO - Saved data to data/raw/manga_350.json
+2025-02-27 18:06:14,225 - manga_recommender - INFO - Saved data to data/raw/manga_351.json
+2025-02-27 18:06:14,944 - manga_recommender - INFO - Saved data to data/raw/manga_352.json
+2025-02-27 18:06:15,517 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:06:20,875 - manga_recommender - INFO - Saved data to data/raw/manga_353.json
+2025-02-27 18:06:21,607 - manga_recommender - INFO - Saved data to data/raw/manga_354.json
+2025-02-27 18:06:23,069 - manga_recommender - INFO - Saved data to data/raw/manga_355.json
+2025-02-27 18:06:23,820 - manga_recommender - INFO - Saved data to data/raw/manga_356.json
+2025-02-27 18:06:24,543 - manga_recommender - INFO - Saved data to data/raw/manga_357.json
+2025-02-27 18:06:25,572 - manga_recommender - INFO - Saved data to data/raw/manga_358.json
+2025-02-27 18:06:26,468 - manga_recommender - INFO - Saved data to data/raw/manga_359.json
+2025-02-27 18:06:27,198 - manga_recommender - INFO - Saved data to data/raw/manga_360.json
+2025-02-27 18:06:27,915 - manga_recommender - INFO - Saved data to data/raw/manga_361.json
+2025-02-27 18:06:28,655 - manga_recommender - INFO - Saved data to data/raw/manga_362.json
+2025-02-27 18:06:29,394 - manga_recommender - INFO - Saved data to data/raw/manga_363.json
+2025-02-27 18:06:30,111 - manga_recommender - INFO - Saved data to data/raw/manga_364.json
+2025-02-27 18:06:31,565 - manga_recommender - INFO - Saved data to data/raw/manga_365.json
+2025-02-27 18:06:32,289 - manga_recommender - INFO - Saved data to data/raw/manga_366.json
+2025-02-27 18:06:33,008 - manga_recommender - INFO - Saved data to data/raw/manga_367.json
+2025-02-27 18:06:33,580 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:06:38,905 - manga_recommender - INFO - Saved data to data/raw/manga_368.json
+2025-02-27 18:06:39,622 - manga_recommender - INFO - Saved data to data/raw/manga_369.json
+2025-02-27 18:06:40,530 - manga_recommender - INFO - Saved data to data/raw/manga_370.json
+2025-02-27 18:06:41,276 - manga_recommender - INFO - Saved data to data/raw/manga_371.json
+2025-02-27 18:06:41,995 - manga_recommender - INFO - Saved data to data/raw/manga_372.json
+2025-02-27 18:06:42,718 - manga_recommender - INFO - Saved data to data/raw/manga_373.json
+2025-02-27 18:06:43,445 - manga_recommender - INFO - Saved data to data/raw/manga_374.json
+2025-02-27 18:06:44,153 - manga_recommender - INFO - Saved data to data/raw/manga_375.json
+2025-02-27 18:06:44,736 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:06:50,075 - manga_recommender - INFO - Saved data to data/raw/manga_376.json
+2025-02-27 18:06:50,819 - manga_recommender - INFO - Saved data to data/raw/manga_377.json
+2025-02-27 18:06:51,531 - manga_recommender - INFO - Saved data to data/raw/manga_378.json
+2025-02-27 18:06:52,215 - manga_recommender - INFO - Saved data to data/raw/manga_379.json
+2025-02-27 18:06:52,957 - manga_recommender - INFO - Saved data to data/raw/manga_380.json
+2025-02-27 18:06:53,674 - manga_recommender - INFO - Saved data to data/raw/manga_381.json
+2025-02-27 18:06:54,437 - manga_recommender - INFO - Saved data to data/raw/manga_382.json
+2025-02-27 18:06:55,172 - manga_recommender - INFO - Saved data to data/raw/manga_383.json
+2025-02-27 18:06:55,992 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:07:01,356 - manga_recommender - INFO - Saved data to data/raw/manga_384.json
+2025-02-27 18:07:02,074 - manga_recommender - INFO - Saved data to data/raw/manga_385.json
+2025-02-27 18:07:03,653 - manga_recommender - INFO - Saved data to data/raw/manga_386.json
+2025-02-27 18:07:04,407 - manga_recommender - INFO - Saved data to data/raw/manga_387.json
+2025-02-27 18:07:05,128 - manga_recommender - INFO - Saved data to data/raw/manga_388.json
+2025-02-27 18:07:05,856 - manga_recommender - INFO - Saved data to data/raw/manga_389.json
+2025-02-27 18:07:05,858 - manga_recommender.extract - INFO - Batch took 74.83s, which is over 60s. Proceeding immediately.
+2025-02-27 18:07:05,858 - manga_recommender.extract - INFO - Processing batch of 60 manga IDs starting at index 60
+2025-02-27 18:07:07,221 - manga_recommender - INFO - Saved data to data/raw/manga_390.json
+2025-02-27 18:07:07,973 - manga_recommender - INFO - Saved data to data/raw/manga_391.json
+2025-02-27 18:07:09,459 - manga_recommender - INFO - Saved data to data/raw/manga_392.json
+2025-02-27 18:07:11,071 - manga_recommender - INFO - Saved data to data/raw/manga_393.json
+2025-02-27 18:07:11,848 - manga_recommender - INFO - Saved data to data/raw/manga_394.json
+2025-02-27 18:07:12,580 - manga_recommender - INFO - Saved data to data/raw/manga_395.json
+2025-02-27 18:07:13,686 - manga_recommender - INFO - Saved data to data/raw/manga_396.json
+2025-02-27 18:07:15,194 - manga_recommender - INFO - Saved data to data/raw/manga_397.json
+2025-02-27 18:07:15,927 - manga_recommender - INFO - Saved data to data/raw/manga_398.json
+2025-02-27 18:07:17,651 - manga_recommender - INFO - Saved data to data/raw/manga_399.json
+2025-02-27 18:07:18,445 - manga_recommender - INFO - Saved data to data/raw/manga_400.json
+2025-02-27 18:07:19,139 - manga_recommender - INFO - Saved data to data/raw/manga_401.json
+2025-02-27 18:07:19,860 - manga_recommender - INFO - Saved data to data/raw/manga_402.json
+2025-02-27 18:07:20,558 - manga_recommender - INFO - Saved data to data/raw/manga_403.json
+2025-02-27 18:07:21,274 - manga_recommender - INFO - Saved data to data/raw/manga_405.json
+2025-02-27 18:07:22,000 - manga_recommender - INFO - Saved data to data/raw/manga_406.json
+2025-02-27 18:07:22,727 - manga_recommender - INFO - Saved data to data/raw/manga_407.json
+2025-02-27 18:07:23,457 - manga_recommender - INFO - Saved data to data/raw/manga_408.json
+2025-02-27 18:07:24,050 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:07:29,408 - manga_recommender - INFO - Saved data to data/raw/manga_409.json
+2025-02-27 18:07:30,139 - manga_recommender - INFO - Saved data to data/raw/manga_410.json
+2025-02-27 18:07:30,859 - manga_recommender - INFO - Saved data to data/raw/manga_411.json
+2025-02-27 18:07:32,704 - manga_recommender - INFO - Saved data to data/raw/manga_412.json
+2025-02-27 18:07:34,314 - manga_recommender - INFO - Saved data to data/raw/manga_413.json
+2025-02-27 18:07:35,040 - manga_recommender - INFO - Saved data to data/raw/manga_414.json
+2025-02-27 18:07:35,792 - manga_recommender - INFO - Saved data to data/raw/manga_416.json
+2025-02-27 18:07:36,474 - manga_recommender - INFO - Saved data to data/raw/manga_417.json
+2025-02-27 18:07:37,177 - manga_recommender - INFO - Saved data to data/raw/manga_418.json
+2025-02-27 18:07:37,891 - manga_recommender - INFO - Saved data to data/raw/manga_419.json
+2025-02-27 18:07:38,597 - manga_recommender - INFO - Saved data to data/raw/manga_420.json
+2025-02-27 18:07:40,063 - manga_recommender - INFO - Saved data to data/raw/manga_421.json
+2025-02-27 18:07:40,801 - manga_recommender - INFO - Saved data to data/raw/manga_422.json
+2025-02-27 18:07:42,229 - manga_recommender - INFO - Saved data to data/raw/manga_423.json
+2025-02-27 18:07:43,354 - manga_recommender - INFO - Saved data to data/raw/manga_424.json
+2025-02-27 18:07:44,049 - manga_recommender - INFO - Saved data to data/raw/manga_425.json
+2025-02-27 18:07:44,787 - manga_recommender - INFO - Saved data to data/raw/manga_426.json
+2025-02-27 18:07:45,685 - manga_recommender - INFO - Saved data to data/raw/manga_427.json
+2025-02-27 18:07:46,396 - manga_recommender - INFO - Saved data to data/raw/manga_428.json
+2025-02-27 18:07:46,972 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:07:52,303 - manga_recommender - INFO - Saved data to data/raw/manga_429.json
+2025-02-27 18:07:53,033 - manga_recommender - INFO - Saved data to data/raw/manga_430.json
+2025-02-27 18:07:53,728 - manga_recommender - INFO - Saved data to data/raw/manga_431.json
+2025-02-27 18:07:54,467 - manga_recommender - INFO - Saved data to data/raw/manga_432.json
+2025-02-27 18:07:55,199 - manga_recommender - INFO - Saved data to data/raw/manga_433.json
+2025-02-27 18:07:55,885 - manga_recommender - INFO - Saved data to data/raw/manga_434.json
+2025-02-27 18:07:57,279 - manga_recommender - INFO - Saved data to data/raw/manga_435.json
+2025-02-27 18:07:58,918 - manga_recommender - INFO - Saved data to data/raw/manga_436.json
+2025-02-27 18:08:00,387 - manga_recommender - INFO - Saved data to data/raw/manga_437.json
+2025-02-27 18:08:01,139 - manga_recommender - INFO - Saved data to data/raw/manga_438.json
+2025-02-27 18:08:01,963 - manga_recommender - INFO - Saved data to data/raw/manga_439.json
+2025-02-27 18:08:02,667 - manga_recommender - INFO - Saved data to data/raw/manga_440.json
+2025-02-27 18:08:04,433 - manga_recommender - INFO - Saved data to data/raw/manga_441.json
+2025-02-27 18:08:05,359 - manga_recommender - INFO - Saved data to data/raw/manga_442.json
+2025-02-27 18:08:06,122 - manga_recommender - INFO - Saved data to data/raw/manga_443.json
+2025-02-27 18:08:06,851 - manga_recommender - INFO - Saved data to data/raw/manga_444.json
+2025-02-27 18:08:07,545 - manga_recommender - INFO - Saved data to data/raw/manga_445.json
+2025-02-27 18:08:08,275 - manga_recommender - INFO - Saved data to data/raw/manga_446.json
+2025-02-27 18:08:09,019 - manga_recommender - INFO - Saved data to data/raw/manga_447.json
+2025-02-27 18:08:09,835 - manga_recommender - INFO - Saved data to data/raw/manga_448.json
+2025-02-27 18:08:10,553 - manga_recommender - INFO - Saved data to data/raw/manga_449.json
+2025-02-27 18:08:11,118 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:08:17,301 - manga_recommender - INFO - Saved data to data/raw/manga_450.json
+2025-02-27 18:08:18,065 - manga_recommender - INFO - Saved data to data/raw/manga_451.json
+2025-02-27 18:08:18,067 - manga_recommender.extract - INFO - Batch took 72.21s, which is over 60s. Proceeding immediately.
+2025-02-27 18:08:18,070 - manga_recommender.extract - INFO - Processing batch of 53 manga IDs starting at index 120
+2025-02-27 18:08:18,784 - manga_recommender - INFO - Saved data to data/raw/manga_452.json
+2025-02-27 18:08:19,514 - manga_recommender - INFO - Saved data to data/raw/manga_454.json
+2025-02-27 18:08:20,233 - manga_recommender - INFO - Saved data to data/raw/manga_455.json
+2025-02-27 18:08:20,942 - manga_recommender - INFO - Saved data to data/raw/manga_456.json
+2025-02-27 18:08:21,643 - manga_recommender - INFO - Saved data to data/raw/manga_457.json
+2025-02-27 18:08:23,346 - manga_recommender - INFO - Saved data to data/raw/manga_458.json
+2025-02-27 18:08:24,925 - manga_recommender - INFO - Saved data to data/raw/manga_459.json
+2025-02-27 18:08:25,888 - manga_recommender - INFO - Saved data to data/raw/manga_460.json
+2025-02-27 18:08:26,614 - manga_recommender - INFO - Saved data to data/raw/manga_461.json
+2025-02-27 18:08:27,325 - manga_recommender - INFO - Saved data to data/raw/manga_462.json
+2025-02-27 18:08:28,030 - manga_recommender - INFO - Saved data to data/raw/manga_463.json
+2025-02-27 18:08:29,272 - manga_recommender - INFO - Saved data to data/raw/manga_464.json
+2025-02-27 18:08:29,975 - manga_recommender - INFO - Saved data to data/raw/manga_465.json
+2025-02-27 18:08:30,675 - manga_recommender - INFO - Saved data to data/raw/manga_466.json
+2025-02-27 18:08:31,415 - manga_recommender - INFO - Saved data to data/raw/manga_467.json
+2025-02-27 18:08:33,197 - manga_recommender - INFO - Saved data to data/raw/manga_468.json
+2025-02-27 18:08:33,932 - manga_recommender - INFO - Saved data to data/raw/manga_469.json
+2025-02-27 18:08:34,641 - manga_recommender - INFO - Saved data to data/raw/manga_470.json
+2025-02-27 18:08:35,392 - manga_recommender - INFO - Saved data to data/raw/manga_471.json
+2025-02-27 18:08:36,358 - manga_recommender - INFO - Saved data to data/raw/manga_472.json
+2025-02-27 18:08:37,065 - manga_recommender - INFO - Saved data to data/raw/manga_473.json
+2025-02-27 18:08:37,636 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:08:42,963 - manga_recommender - INFO - Saved data to data/raw/manga_474.json
+2025-02-27 18:08:43,779 - manga_recommender - INFO - Saved data to data/raw/manga_475.json
+2025-02-27 18:08:44,512 - manga_recommender - INFO - Saved data to data/raw/manga_476.json
+2025-02-27 18:08:45,597 - manga_recommender - INFO - Saved data to data/raw/manga_477.json
+2025-02-27 18:08:46,327 - manga_recommender - INFO - Saved data to data/raw/manga_478.json
+2025-02-27 18:08:47,060 - manga_recommender - INFO - Saved data to data/raw/manga_479.json
+2025-02-27 18:08:47,903 - manga_recommender - INFO - Saved data to data/raw/manga_480.json
+2025-02-27 18:08:48,587 - manga_recommender - INFO - Saved data to data/raw/manga_481.json
+2025-02-27 18:08:49,319 - manga_recommender - INFO - Saved data to data/raw/manga_482.json
+2025-02-27 18:08:50,064 - manga_recommender - INFO - Saved data to data/raw/manga_483.json
+2025-02-27 18:08:50,635 - manga_recommender.extract - WARNING - Rate limit exceeded. Waiting for 5 seconds.
+2025-02-27 18:08:55,967 - manga_recommender - INFO - Saved data to data/raw/manga_484.json
+2025-02-27 18:08:56,664 - manga_recommender - INFO - Saved data to data/raw/manga_485.json
+2025-02-27 18:08:57,358 - manga_recommender - INFO - Saved data to data/raw/manga_486.json
+2025-02-27 18:08:58,229 - manga_recommender - INFO - Saved data to data/raw/manga_489.json
+2025-02-27 18:08:58,948 - manga_recommender - INFO - Saved data to data/raw/manga_491.json
+2025-02-27 18:09:00,988 - manga_recommender - INFO - Saved data to data/raw/manga_492.json
+2025-02-27 18:09:01,735 - manga_recommender - INFO - Saved data to data/raw/manga_493.json
+2025-02-27 18:09:02,443 - manga_recommender - INFO - Saved data to data/raw/manga_495.json
+2025-02-27 18:09:03,182 - manga_recommender - INFO - Saved data to data/raw/manga_496.json
+2025-02-27 18:09:03,972 - manga_recommender - INFO - Saved data to data/raw/manga_497.json
+2025-02-27 18:09:04,702 - manga_recommender - INFO - Saved data to data/raw/manga_499.json
+2025-02-27 18:09:05,644 - manga_recommender - INFO - Saved data to data/raw/manga_500.json
+2025-02-27 18:09:07,870 - manga_recommender - INFO - Saved data to data/raw/manga_501.json
+2025-02-27 18:09:08,623 - manga_recommender - INFO - Saved data to data/raw/manga_502.json
+2025-02-27 18:09:09,632 - manga_recommender - INFO - Saved data to data/raw/manga_503.json
+2025-02-27 18:09:10,997 - manga_recommender - INFO - Saved data to data/raw/manga_504.json
+2025-02-27 18:09:11,839 - manga_recommender - INFO - Saved data to data/raw/manga_505.json
+2025-02-27 18:09:13,580 - manga_recommender - INFO - Saved data to data/raw/manga_506.json
+2025-02-27 18:09:14,290 - manga_recommender - INFO - Saved data to data/raw/manga_507.json
+2025-02-27 18:09:14,967 - manga_recommender - INFO - Saved data to data/raw/manga_508.json
+2025-02-27 18:09:15,704 - manga_recommender - INFO - Saved data to data/raw/manga_509.json
+2025-02-27 18:09:16,435 - manga_recommender - INFO - Saved data to data/raw/manga_520.json
+2025-02-27 18:09:16,436 - manga_recommender.extract - INFO - Batch completed in 58.37s. Waiting 1.63s before next batch.
+2025-02-27 18:09:18,072 - manga_recommender.extract - INFO - Finished extracting new manga details
+2025-02-27 18:09:18,268 - manga_recommender - INFO - Saved data to data/raw/manga_details.json
+2025-02-27 18:09:18,268 - manga_recommender.extract - INFO - Saved all manga details to manga_details.json
+2025-02-27 18:09:18,273 - manga_recommender.etl_runner - INFO - Extraction completed: 500 manga extracted
+2025-02-27 18:09:18,273 - manga_recommender.etl_runner - INFO - Starting transformation process...
+2025-02-27 18:09:18,273 - manga_recommender - INFO - Created directory: data/processed
+2025-02-27 18:12:42,016 - manga_recommender.etl_runner - INFO - Starting extraction process...
+2025-02-27 18:12:55,615 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_10.json
+2025-02-27 18:13:09,720 - manga_recommender - INFO - Saved data to data/raw/manga_list_checkpoint_20.json
+2025-02-27 18:13:10,829 - manga_recommender - INFO - Saved data to data/raw/manga_list.json
+2025-02-27 18:13:10,830 - manga_recommender.extract - INFO - Extracted 500 manga entries
+2025-02-27 18:13:10,831 - manga_recommender.extract - INFO - Total manga IDs to process: 0 out of 500
+2025-02-27 18:13:10,831 - manga_recommender.extract - INFO - All manga details have already been extracted.
+2025-02-27 18:13:11,173 - manga_recommender - INFO - Saved data to data/raw/manga_details.json
+2025-02-27 18:13:11,174 - manga_recommender.extract - INFO - Saved all manga details to manga_details.json
+2025-02-27 18:13:11,176 - manga_recommender.etl_runner - INFO - Extraction completed: 500 manga extracted
+2025-02-27 18:13:11,176 - manga_recommender.etl_runner - INFO - Starting transformation process...
+2025-02-27 18:13:11,217 - manga_recommender - INFO - Saved data to data/processed/transformed_manga.json
+2025-02-27 18:13:11,218 - manga_recommender - INFO - Saved data to data/processed/genres.json
+2025-02-27 18:13:11,218 - manga_recommender.transform - INFO - Transformed 500 manga entries with 19 unique genres
+2025-02-27 18:13:11,257 - manga_recommender - INFO - Saved data to data/processed/enhanced_manga.json
+2025-02-27 18:13:11,257 - manga_recommender.transform - INFO - Transformed 500 detailed manga entries
+2025-02-27 18:13:11,258 - manga_recommender.etl_runner - INFO - Transformation completed: {'manga_count': 500, 'genres_count': 19, 'enhanced_count': 500}
+2025-02-27 18:13:11,258 - manga_recommender.etl_runner - INFO - Starting loading process...
+2025-02-27 18:13:17,679 - manga_recommender.load - INFO - Loaded 19 genres into the database
+2025-02-27 18:13:55,690 - manga_recommender.load - INFO - Loaded 500 manga into the database
+2025-02-27 18:13:55,706 - manga_recommender.load - INFO - Found 500 enhanced manga entries. Additional loading logic would go here.
+2025-02-27 18:13:55,707 - manga_recommender.etl_runner - INFO - Loading completed: {'genres_count': 19, 'manga_count': 500, 'enhanced_count': 500}

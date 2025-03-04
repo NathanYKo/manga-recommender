@@ -1,0 +1,115 @@
+{
+    "mal_id": 46,
+    "url": "https://myanimelist.net/manga/46/Kannade",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/267796.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/267796t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/267796l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/267796.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/267796t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/267796l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kannade"
+        },
+        {
+            "type": "Synonym",
+            "title": "God's Hand"
+        },
+        {
+            "type": "Japanese",
+            "title": "神撫手"
+        }
+    ],
+    "title": "Kannade",
+    "title_english": null,
+    "title_japanese": "神撫手",
+    "title_synonyms": [
+        "God's Hand"
+    ],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-09-22T00:00:00+00:00",
+        "to": "2003-12-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 9,
+                "year": 2003
+            },
+            "to": {
+                "day": 15,
+                "month": 12,
+                "year": 2003
+            }
+        },
+        "string": "Sep 22, 2003 to Dec 15, 2003"
+    },
+    "score": 6.78,
+    "scored": 6.78,
+    "scored_by": 110,
+    "rank": 12499,
+    "popularity": 26706,
+    "members": 415,
+    "favorites": 0,
+    "synopsis": "Akito Hayama is the infamous God Hand, an art thief who steals only masterpieces. But these arn't your ordinary art pieces, they're actually copies made by Akito's missing mother. Akito is caught by an underground art broker and consequently learns the reason for the disappearance of his mother. In a attempt to save himself, a new found ability 'Kannade' emerges within Akito, as well as the quest to find certain art pieces by Akito's mother and what Kannade's fate really is.\n\nIncluded one-shot:\nVolume 2: Kannade (pilot), God Hand",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1906,
+            "type": "people",
+            "name": "Horibe, Takeo",
+            "url": "https://myanimelist.net/people/1906/Takeo_Horibe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%A5%9E%E6%92%AB%E6%89%8B"
+        }
+    ]
+}

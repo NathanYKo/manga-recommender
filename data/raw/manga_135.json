@@ -1,0 +1,163 @@
+{
+    "mal_id": 135,
+    "url": "https://myanimelist.net/manga/135/MÄR_Omega",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/33509.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/33509t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/33509l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/33509.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/33509t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/33509l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "MÄR Omega"
+        },
+        {
+            "type": "Synonym",
+            "title": "MAR Omega"
+        },
+        {
+            "type": "Synonym",
+            "title": "Märchen Awakens Romance Omega"
+        },
+        {
+            "type": "Synonym",
+            "title": "Marchen Awakens Romance Omega"
+        },
+        {
+            "type": "Japanese",
+            "title": "メル Ω, メル オメガ"
+        },
+        {
+            "type": "English",
+            "title": "MÄR Omega"
+        }
+    ],
+    "title": "MÄR Omega",
+    "title_english": "MÄR Omega",
+    "title_japanese": "メル Ω, メル オメガ",
+    "title_synonyms": [
+        "MAR Omega",
+        "Märchen Awakens Romance Omega",
+        "Marchen Awakens Romance Omega"
+    ],
+    "type": "Manga",
+    "chapters": 39,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-09-01T00:00:00+00:00",
+        "to": "2007-06-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 9,
+                "year": 2006
+            },
+            "to": {
+                "day": 13,
+                "month": 6,
+                "year": 2007
+            }
+        },
+        "string": "Sep 2006 to Jun 13, 2007"
+    },
+    "score": 6.03,
+    "scored": 6.03,
+    "scored_by": 1642,
+    "rank": 19652,
+    "popularity": 5964,
+    "members": 3594,
+    "favorites": 15,
+    "synopsis": "Young Kai has been passionately idolizing Ginta ever since his heroic battle in the War Games of six years ago. Since then, ARMs have become a common thing, Guardians especially! Kai himself doesn't have one though, and dreams big of being able to get an ARM like Ginta's! When his caretaker, the old ARM-smith that took him in after his parents' deaths, sends him out on an errand, he is attacked by a bandit from \"chess\"! In his escape attempt, he finds more than he bargained for when he comes across Babbo! But, now with Babbo's awakening, the fake ARMs are going out of control! Is it Kai's turn to save MAR Heaven following in his hero's footsteps?\n\n(Source: Project Kurai Ryu)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1966,
+            "type": "people",
+            "name": "Anzai, Nobuyuki",
+            "url": "https://myanimelist.net/people/1966/Nobuyuki_Anzai"
+        },
+        {
+            "mal_id": 8021,
+            "type": "people",
+            "name": "Hoshino, Koichiro",
+            "url": "https://myanimelist.net/people/8021/Koichiro_Hoshino"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 134,
+                    "type": "manga",
+                    "name": "MÄR",
+                    "url": "https://myanimelist.net/manga/134/MÄR"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://websunday.net/mar/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/M%C3%84R_Omega"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "mal_id": 225,
+    "url": "https://myanimelist.net/manga/225/Chiisana_Glass_no_Sora",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/33041.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/33041t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/33041l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/33041.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/33041t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/33041l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Chiisana Glass no Sora"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chiisana Garasu no Sora"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Little Glass Sky"
+        },
+        {
+            "type": "Synonym",
+            "title": "Wildman Blues"
+        },
+        {
+            "type": "Synonym",
+            "title": "Never Cry"
+        },
+        {
+            "type": "Japanese",
+            "title": "小さなガラスの空"
+        },
+        {
+            "type": "English",
+            "title": "Glass Sky"
+        }
+    ],
+    "title": "Chiisana Glass no Sora",
+    "title_english": "Glass Sky",
+    "title_japanese": "小さなガラスの空",
+    "title_synonyms": [
+        "Chiisana Garasu no Sora",
+        "The Little Glass Sky",
+        "Wildman Blues",
+        "Never Cry"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2000"
+    },
+    "score": 6.67,
+    "scored": 6.67,
+    "scored_by": 413,
+    "rank": null,
+    "popularity": 18088,
+    "members": 827,
+    "favorites": 0,
+    "synopsis": "Everyone thought Naoki was a little flamboyant, and he was used to getting teased for it. But when Yada glanced at him, he felt something he never had before! Ten deftly written short episodes explore the pathos, confusion, drama, passion and humor of coming out and finding one’s true self. Forbidden desire, hidden lust, jealousy and acceptance collide in this collection of wonderfully drawn, bittersweet short stories of teenage romance by author Yugi Yamada!\n\n(Source: Juné Manga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2232,
+            "type": "people",
+            "name": "Yamada, Yugi",
+            "url": "https://myanimelist.net/people/2232/Yugi_Yamada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 227,
+                    "type": "manga",
+                    "name": "Taiyou no Shita de Warae",
+                    "url": "https://myanimelist.net/manga/227/Taiyou_no_Shita_de_Warae"
+                },
+                {
+                    "mal_id": 226,
+                    "type": "manga",
+                    "name": "Mizu Nurumu",
+                    "url": "https://myanimelist.net/manga/226/Mizu_Nurumu"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 132130,
+                    "type": "manga",
+                    "name": "Reizouko no Naka wa Karappo",
+                    "url": "https://myanimelist.net/manga/132130/Reizouko_no_Naka_wa_Karappo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.junemanga.com/books/90/"
+        }
+    ]
+}

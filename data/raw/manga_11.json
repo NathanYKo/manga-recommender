@@ -1,0 +1,353 @@
+{
+    "mal_id": 11,
+    "url": "https://myanimelist.net/manga/11/Naruto",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/249658.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/249658t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/249658l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/249658.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/249658t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/249658l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Naruto"
+        },
+        {
+            "type": "Japanese",
+            "title": "NARUTO―ナルト―"
+        },
+        {
+            "type": "English",
+            "title": "Naruto"
+        }
+    ],
+    "title": "Naruto",
+    "title_english": "Naruto",
+    "title_japanese": "NARUTO―ナルト―",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 700,
+    "volumes": 72,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-09-21T00:00:00+00:00",
+        "to": "2014-11-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 9,
+                "year": 1999
+            },
+            "to": {
+                "day": 10,
+                "month": 11,
+                "year": 2014
+            }
+        },
+        "string": "Sep 21, 1999 to Nov 10, 2014"
+    },
+    "score": 8.07,
+    "scored": 8.07,
+    "scored_by": 279061,
+    "rank": 629,
+    "popularity": 12,
+    "members": 427384,
+    "favorites": 43753,
+    "synopsis": "Whenever Naruto Uzumaki proclaims that he will someday become the Hokage—a title bestowed upon the best ninja in the Village Hidden in the Leaves—no one takes him seriously. Since birth, Naruto has been shunned and ridiculed by his fellow villagers. But their contempt isn't because Naruto is loud-mouthed, mischievous, or because of his ineptitude in the ninja arts, but because there is a demon inside him. Prior to Naruto's birth, the powerful and deadly Nine-Tailed Fox attacked the village. In order to stop the rampage, the Fourth Hokage sacrificed his life to seal the demon inside the body of the newborn Naruto.\n\nAnd so when he is assigned to Team 7—along with his new teammates Sasuke Uchiha and Sakura Haruno, under the mentorship of veteran ninja Kakashi Hatake—Naruto is forced to work together with other people for the first time in his life. Through undergoing vigorous training and taking on challenging missions, Naruto must learn what it means to work in a team and carve his own route toward becoming a full-fledged ninja recognized by his village.\n\n[Written by MAL Rewrite]",
+    "background": "Naruto has sold over 250 million copies worldwide as of 2020, making it the 4th highest-grossing manga series of all time. It was nominated for the 19th Tezuka Osamu Cultural Prize in 2014, and in the same year, Masashi Kishimoto was awarded Rookie of the Year in the media fine arts category by Japan's Agency for Cultural Affairs. The series was published in English by VIZ Media under the Shonen Jump imprint from August 16, 2003, to October 6, 2015. In the last four months of 2007, the campaign titled Naruto Nation was launched, in which three volumes were published each month so that US releases would be closer to Japan's. The same practice was done in February through April of 2009, this time titled Generation Ninja. A 3-in-1 omnibus edition was later released. A box set containing volumes 1 through 27 was released on August 6, 2008, a set containing volumes 28 through 48 on July 7, 2015, and the final box set with volumes 49 through 72 on January 5, 2016. It was also published in Brazilian Portuguese by Panini Comics from May 2007 to June 2015; in German by Carlsen Verlag; and in French and Dutch by Kana. Numerous databooks, artbooks, novels, and fanbooks on the series have been released. Eight summary volumes featuring unaltered color pages, larger dimensions, and exclusive interviews, covering the first part of the series were released between November 7, 2008, and April 10, 2009.",
+    "authors": [
+        {
+            "mal_id": 1879,
+            "type": "people",
+            "name": "Kishimoto, Masashi",
+            "url": "https://myanimelist.net/people/1879/Masashi_Kishimoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 95210,
+                    "type": "manga",
+                    "name": "Boruto: Naruto Next Generations",
+                    "url": "https://myanimelist.net/manga/95210/Boruto__Naruto_Next_Generations"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 20,
+                    "type": "anime",
+                    "name": "Naruto",
+                    "url": "https://myanimelist.net/anime/20/Naruto"
+                },
+                {
+                    "mal_id": 1735,
+                    "type": "anime",
+                    "name": "Naruto: Shippuuden",
+                    "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden"
+                },
+                {
+                    "mal_id": 54688,
+                    "type": "anime",
+                    "name": "Naruto (Shinsaku Anime)",
+                    "url": "https://myanimelist.net/anime/54688/Naruto_Shinsaku_Anime"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 57095,
+                    "type": "manga",
+                    "name": "Naruto: Takigakure no Shitou Ore ga Hero dattebayo!",
+                    "url": "https://myanimelist.net/manga/57095/Naruto__Takigakure_no_Shitou_Ore_ga_Hero_dattebayo"
+                },
+                {
+                    "mal_id": 96762,
+                    "type": "manga",
+                    "name": "Naruto: Dai Katsugeki! Yuki Hime Ninpouchou Datteba yo!!",
+                    "url": "https://myanimelist.net/manga/96762/Naruto__Dai_Katsugeki_Yuki_Hime_Ninpouchou_Datteba_yo"
+                },
+                {
+                    "mal_id": 96763,
+                    "type": "manga",
+                    "name": "Gekijouban Naruto: Dai Gekitotsu! Maboroshi no Chitei Iseki Datteba yo",
+                    "url": "https://myanimelist.net/manga/96763/Gekijouban_Naruto__Dai_Gekitotsu_Maboroshi_no_Chitei_Iseki_Datteba_yo"
+                },
+                {
+                    "mal_id": 96764,
+                    "type": "manga",
+                    "name": "Gekijouban Naruto: Dai Koufun! Mikazuki-jima no Animal Panic Datteba yo",
+                    "url": "https://myanimelist.net/manga/96764/Gekijouban_Naruto__Dai_Koufun_Mikazuki-jima_no_Animal_Panic_Datteba_yo"
+                },
+                {
+                    "mal_id": 96765,
+                    "type": "manga",
+                    "name": "Gekijouban Naruto: Shippuuden",
+                    "url": "https://myanimelist.net/manga/96765/Gekijouban_Naruto__Shippuuden"
+                },
+                {
+                    "mal_id": 96766,
+                    "type": "manga",
+                    "name": "Gekijouban Naruto: Shippuuden - Kizuna",
+                    "url": "https://myanimelist.net/manga/96766/Gekijouban_Naruto__Shippuuden_-_Kizuna"
+                },
+                {
+                    "mal_id": 96767,
+                    "type": "manga",
+                    "name": "Gekijouban Naruto: Shippuuden - Hi no Ishi wo Tsugu Mono",
+                    "url": "https://myanimelist.net/manga/96767/Gekijouban_Naruto__Shippuuden_-_Hi_no_Ishi_wo_Tsugu_Mono"
+                },
+                {
+                    "mal_id": 96768,
+                    "type": "manga",
+                    "name": "Gekijouban Naruto: Shippuuden - The Lost Tower",
+                    "url": "https://myanimelist.net/manga/96768/Gekijouban_Naruto__Shippuuden_-_The_Lost_Tower"
+                },
+                {
+                    "mal_id": 40225,
+                    "type": "manga",
+                    "name": "Naruto Ninden Series",
+                    "url": "https://myanimelist.net/manga/40225/Naruto_Ninden_Series"
+                },
+                {
+                    "mal_id": 96769,
+                    "type": "manga",
+                    "name": "Naruto: Blood Prison",
+                    "url": "https://myanimelist.net/manga/96769/Naruto__Blood_Prison"
+                },
+                {
+                    "mal_id": 40549,
+                    "type": "manga",
+                    "name": "Road to Ninja: Naruto the Movie",
+                    "url": "https://myanimelist.net/manga/40549/Road_to_Ninja__Naruto_the_Movie"
+                },
+                {
+                    "mal_id": 96770,
+                    "type": "manga",
+                    "name": "Road to Ninja: Naruto the Movie",
+                    "url": "https://myanimelist.net/manga/96770/Road_to_Ninja__Naruto_the_Movie"
+                },
+                {
+                    "mal_id": 87714,
+                    "type": "manga",
+                    "name": "Naruto Jinraiden: Okami no Naku Hi",
+                    "url": "https://myanimelist.net/manga/87714/Naruto_Jinraiden__Okami_no_Naku_Hi"
+                },
+                {
+                    "mal_id": 83257,
+                    "type": "manga",
+                    "name": "The Last: Naruto the Movie",
+                    "url": "https://myanimelist.net/manga/83257/The_Last__Naruto_the_Movie"
+                },
+                {
+                    "mal_id": 86129,
+                    "type": "manga",
+                    "name": "Naruto Hiden Series",
+                    "url": "https://myanimelist.net/manga/86129/Naruto_Hiden_Series"
+                },
+                {
+                    "mal_id": 96200,
+                    "type": "manga",
+                    "name": "Naruto: Fuu no Sho - Sugao no Shinjitsu...!!",
+                    "url": "https://myanimelist.net/manga/96200/Naruto__Fuu_no_Sho_-_Sugao_no_Shinjitsu"
+                },
+                {
+                    "mal_id": 115792,
+                    "type": "manga",
+                    "name": "Naruto: Rai no Sho - Ai wo Utareta Kemono!!",
+                    "url": "https://myanimelist.net/manga/115792/Naruto__Rai_no_Sho_-_Ai_wo_Utareta_Kemono"
+                },
+                {
+                    "mal_id": 87866,
+                    "type": "manga",
+                    "name": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
+                    "url": "https://myanimelist.net/manga/87866/Naruto_Gaiden__Nanadaime_Hokage_to_Akairo_no_Hanatsuzuki"
+                },
+                {
+                    "mal_id": 92286,
+                    "type": "manga",
+                    "name": "Boruto: Naruto the Movie Tokubetsu Bangai-hen - Naruto ga Hokage ni Natta Hi",
+                    "url": "https://myanimelist.net/manga/92286/Boruto__Naruto_the_Movie_Tokubetsu_Bangai-hen_-_Naruto_ga_Hokage_ni_Natta_Hi"
+                },
+                {
+                    "mal_id": 90531,
+                    "type": "manga",
+                    "name": "Naruto Shinden Series",
+                    "url": "https://myanimelist.net/manga/90531/Naruto_Shinden_Series"
+                },
+                {
+                    "mal_id": 98462,
+                    "type": "manga",
+                    "name": "Naruto Shinden Series",
+                    "url": "https://myanimelist.net/manga/98462/Naruto_Shinden_Series"
+                },
+                {
+                    "mal_id": 119908,
+                    "type": "manga",
+                    "name": "Naruto Retsuden Series",
+                    "url": "https://myanimelist.net/manga/119908/Naruto_Retsuden_Series"
+                },
+                {
+                    "mal_id": 160710,
+                    "type": "manga",
+                    "name": "Naruto Gaiden: Uzu no Naka no Tsumujikaze",
+                    "url": "https://myanimelist.net/manga/160710/Naruto_Gaiden__Uzu_no_Naka_no_Tsumujikaze"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 23208,
+                    "type": "manga",
+                    "name": "Rock Lee no Seishun Full-Power Ninden",
+                    "url": "https://myanimelist.net/manga/23208/Rock_Lee_no_Seishun_Full-Power_Ninden"
+                },
+                {
+                    "mal_id": 77273,
+                    "type": "manga",
+                    "name": "Uchiha Sasuke no Sharingan Den",
+                    "url": "https://myanimelist.net/manga/77273/Uchiha_Sasuke_no_Sharingan_Den"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 6444,
+                    "type": "manga",
+                    "name": "Naruto",
+                    "url": "https://myanimelist.net/manga/6444/Naruto"
+                },
+                {
+                    "mal_id": 6028,
+                    "type": "manga",
+                    "name": "Naruto: Shiro no Douji, Keppu no Kijin",
+                    "url": "https://myanimelist.net/manga/6028/Naruto__Shiro_no_Douji_Keppu_no_Kijin"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 11926,
+                    "type": "manga",
+                    "name": "Jump Super Stars",
+                    "url": "https://myanimelist.net/manga/11926/Jump_Super_Stars"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/NARUTO_-%E3%83%8A%E3%83%AB%E3%83%88-"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Naruto"
+        }
+    ]
+}

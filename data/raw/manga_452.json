@@ -1,0 +1,128 @@
+{
+    "mal_id": 452,
+    "url": "https://myanimelist.net/manga/452/Fushigi_no_Kuni_no_Miyuki-chan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/161931.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/161931t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/161931l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/161931.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/161931t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/161931l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fushigi no Kuni no Miyuki-chan"
+        },
+        {
+            "type": "Japanese",
+            "title": "不思議の国の美幸ちゃん"
+        },
+        {
+            "type": "English",
+            "title": "Miyuki-chan in Wonderland"
+        }
+    ],
+    "title": "Fushigi no Kuni no Miyuki-chan",
+    "title_english": "Miyuki-chan in Wonderland",
+    "title_japanese": "不思議の国の美幸ちゃん",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-03-10T00:00:00+00:00",
+        "to": "1995-06-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 3,
+                "year": 1993
+            },
+            "to": {
+                "day": 10,
+                "month": 6,
+                "year": 1995
+            }
+        },
+        "string": "Mar 10, 1993 to Jun 10, 1995"
+    },
+    "score": 5.99,
+    "scored": 5.99,
+    "scored_by": 3287,
+    "rank": 19743,
+    "popularity": 3640,
+    "members": 6165,
+    "favorites": 14,
+    "synopsis": "In CLAMP's take on the Alice in Wonderland saga, Miyuki finds herself in a world which seems to be populated solely by a series of scantily-clad women interested exclusively in exploring her charms. Needless to say, hi-jinks and misunderstandings ensue as our young heroine attempts to escape their clutches and return to her regular life.\n\n(Source: Tokyopop)",
+    "background": "Fushigi no Kuni no Miyuki-chan was published in English as Miyuki-chan in Wonderland by Tokyopop in October 2003, and digitally by VIZ Media under the VIZ Select imprint on September 23, 2014. It was also released in Brazilian Portuguese by Editora JBC in August 2010.",
+    "authors": [
+        {
+            "mal_id": 1877,
+            "type": "people",
+            "name": "CLAMP",
+            "url": "https://myanimelist.net/people/1877/CLAMP"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Newtype",
+            "url": "https://myanimelist.net/manga/magazine/31/Newtype"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1496,
+                    "type": "anime",
+                    "name": "Fushigi no Kuni no Miyuki-chan",
+                    "url": "https://myanimelist.net/anime/1496/Fushigi_no_Kuni_no_Miyuki-chan"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E5%9B%BD%E3%81%AE%E7%BE%8E%E5%B9%B8%E3%81%A1%E3%82%83%E3%82%93"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Miyuki-chan_in_Wonderland"
+        }
+    ]
+}

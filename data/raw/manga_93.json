@@ -1,0 +1,144 @@
+{
+    "mal_id": 93,
+    "url": "https://myanimelist.net/manga/93/Megami_Kouhosei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180628.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180628t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180628l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180628.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180628t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180628l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Megami Kouhosei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Pilot Candidate"
+        },
+        {
+            "type": "Japanese",
+            "title": "女神候補生"
+        },
+        {
+            "type": "English",
+            "title": "The Candidate for Goddess"
+        }
+    ],
+    "title": "Megami Kouhosei",
+    "title_english": "The Candidate for Goddess",
+    "title_japanese": "女神候補生",
+    "title_synonyms": [
+        "Pilot Candidate"
+    ],
+    "type": "Manga",
+    "chapters": 27,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-11-01T00:00:00+00:00",
+        "to": "2001-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 11,
+                "year": 1996
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            }
+        },
+        "string": "Nov 1996 to 2001"
+    },
+    "score": 6.86,
+    "scored": 6.86,
+    "scored_by": 963,
+    "rank": 11187,
+    "popularity": 8614,
+    "members": 2326,
+    "favorites": 27,
+    "synopsis": "It is the year 4088. It has been over one thousand years since the Crisis of Systems (Lost Property), which resulted in the destruction of four planetary systems, leaving only a single inhabitable planet, Zion. Mankind is forced to live in space colonies, since that one planet is constantly being invaded by alien life forms that have come to be known as Victim.\n\nTo stop the aliens and to allow people to land on Zion, mankind has developed the astronomical humanoid weapons, Ingrids, also known as Goddesses. G.O.A. (Goddess Operation Academy) is a school dedicated to the training of young men to pilot these Ingrids...\n\n(Source: Tokyopop)",
+    "background": "Megami Kouhosei was published in English as Candidate for Goddess by Tokyopop from April 13, 2004 to June 15, 2006.",
+    "authors": [
+        {
+            "mal_id": 1947,
+            "type": "people",
+            "name": "Sugisaki, Yukiru",
+            "url": "https://myanimelist.net/people/1947/Yukiru_Sugisaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 33,
+            "type": "manga",
+            "name": "Comic Gum",
+            "url": "https://myanimelist.net/manga/magazine/33/Comic_Gum"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 888,
+                    "type": "anime",
+                    "name": "Megami Kouhosei",
+                    "url": "https://myanimelist.net/anime/888/Megami_Kouhosei"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%A5%B3%E7%A5%9E%E5%80%99%E8%A3%9C%E7%94%9F"
+        }
+    ]
+}

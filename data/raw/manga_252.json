@@ -1,0 +1,137 @@
+{
+    "mal_id": 252,
+    "url": "https://myanimelist.net/manga/252/Gorgeous_Carat_Galaxy",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/11215.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/11215t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/11215l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/11215.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/11215t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/11215l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gorgeous Carat Galaxy"
+        },
+        {
+            "type": "Synonym",
+            "title": "Seinaru Kaibutsu no Mori"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゴージャス・カラットGALAXY"
+        }
+    ],
+    "title": "Gorgeous Carat Galaxy",
+    "title_english": null,
+    "title_japanese": "ゴージャス・カラットGALAXY",
+    "title_synonyms": [
+        "Seinaru Kaibutsu no Mori"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2004"
+    },
+    "score": 7.17,
+    "scored": 7.17,
+    "scored_by": 487,
+    "rank": 6430,
+    "popularity": 16125,
+    "members": 991,
+    "favorites": 3,
+    "synopsis": "Florian and Noir take a trip to Florian's relative's castle to purchase some antique works of art. There, Florian reunites with a childhood acquaintance, Eleonora, an unhappy and somewhat confused girl. Eleonara decides that she wants to keep Florian all to her self and takes him away to an underground cave holding him captive. Noir must now rescue Florian, but with murderous intents following him everywhere and a convoluted dungeon with multiple hidden trapdoors, will Noir succeed and be able to leave with Florian? (Source: DMP)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2244,
+            "type": "people",
+            "name": "Higuri, You",
+            "url": "https://myanimelist.net/people/2244/You_Higuri"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1170,
+                    "type": "manga",
+                    "name": "Gorgeous Carat",
+                    "url": "https://myanimelist.net/manga/1170/Gorgeous_Carat"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 10498,
+                    "type": "manga",
+                    "name": "Gorgeous Carat: La Esperanza – Kibou no Seibo",
+                    "url": "https://myanimelist.net/manga/10498/Gorgeous_Carat__La_Esperanza_–_Kibou_no_Seibo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.dmpbooks.com/titles?n=44"
+        }
+    ]
+}

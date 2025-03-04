@@ -1,0 +1,174 @@
+{
+    "mal_id": 170,
+    "url": "https://myanimelist.net/manga/170/Mondaiteiki_Sakuhinshu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/11131.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/11131t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/11131l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/11131.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/11131t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/11131l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mondaiteiki Sakuhinshu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tobira"
+        },
+        {
+            "type": "Synonym",
+            "title": "Namida"
+        },
+        {
+            "type": "Synonym",
+            "title": "Memai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Itami"
+        },
+        {
+            "type": "Synonym",
+            "title": "Himitsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Uwasa"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Door"
+        },
+        {
+            "type": "Japanese",
+            "title": "問題提起 作品集"
+        },
+        {
+            "type": "English",
+            "title": "Confidential Confessions"
+        }
+    ],
+    "title": "Mondaiteiki Sakuhinshu",
+    "title_english": "Confidential Confessions",
+    "title_japanese": "問題提起 作品集",
+    "title_synonyms": [
+        "Tobira",
+        "Namida",
+        "Memai",
+        "Itami",
+        "Himitsu",
+        "Uwasa",
+        "The Door"
+    ],
+    "type": "Manga",
+    "chapters": 23,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-01-01T00:00:00+00:00",
+        "to": "2002-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            }
+        },
+        "string": "2000 to 2002"
+    },
+    "score": 7.68,
+    "scored": 7.68,
+    "scored_by": 2023,
+    "rank": 1846,
+    "popularity": 3661,
+    "members": 6143,
+    "favorites": 118,
+    "synopsis": "Confidential Confessions is a shocking new manga series that deals with many of the hard-hitting issues that teens face today. Using emotionally moving story lines and multi-dimensional characters, each groundbreaking volume tackles such topics as teen prostitution, rape, HIV, stalkers, suicide, and sexual harassment. \n\n(Source: Tokyopop)",
+    "background": "Mondaiteiki Sakuhinshu was pubished in English as Confidential Confessions by Tokyopop from July 1, 2003 to February 8, 2005.",
+    "authors": [
+        {
+            "mal_id": 2194,
+            "type": "people",
+            "name": "Momochi, Reiko",
+            "url": "https://myanimelist.net/people/2194/Reiko_Momochi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 95,
+            "type": "manga",
+            "name": "Dessert",
+            "url": "https://myanimelist.net/manga/magazine/95/Dessert"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 171,
+                    "type": "manga",
+                    "name": "Deai",
+                    "url": "https://myanimelist.net/manga/171/Deai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Confidential_Confessions"
+        }
+    ]
+}

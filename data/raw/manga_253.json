@@ -1,0 +1,111 @@
+{
+    "mal_id": 253,
+    "url": "https://myanimelist.net/manga/253/Tenchi_Muyou_Sasami-chan_À_la_Carte",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/146481.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/146481t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/146481l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/146481.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/146481t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/146481l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tenchi Muyou! Sasami-chan À la Carte"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tenchi Muyou! Sasami-chan Arakaruto!"
+        },
+        {
+            "type": "Japanese",
+            "title": "天地無用! 砂沙美ちゃんあらかると!"
+        },
+        {
+            "type": "English",
+            "title": "Tenchi Muyo! Sasami Stories"
+        }
+    ],
+    "title": "Tenchi Muyou! Sasami-chan À la Carte",
+    "title_english": "Tenchi Muyo! Sasami Stories",
+    "title_japanese": "天地無用! 砂沙美ちゃんあらかると!",
+    "title_synonyms": [
+        "Tenchi Muyou! Sasami-chan Arakaruto!"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-03-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 3,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 29, 2005"
+    },
+    "score": 7.21,
+    "scored": 7.21,
+    "scored_by": 208,
+    "rank": 5937,
+    "popularity": 21851,
+    "members": 606,
+    "favorites": 4,
+    "synopsis": "Who's the most popular of all the Tenchi girls? That's an easy question to answer. It's sweet li'l Sasami, of course! She's the cutest and best loved and, without a doubt, the most accomplished cook of the bunch. Whether she's thwarting evil space invaders or simply negotiating peace among her bickering housemates, Sasami always has a big smile on her face.\n\n(Source: VIZ Media)",
+    "background": "Tenchi Muyou! Sasami-chan À la Carte was published in English as Tenchi Muyo! Sasami Stories by VIZ Media on Oct 29, 2003.",
+    "authors": [
+        {
+            "mal_id": 2242,
+            "type": "people",
+            "name": "Okuda, Hitoshi",
+            "url": "https://myanimelist.net/people/2242/Hitoshi_Okuda"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 855,
+                    "type": "manga",
+                    "name": "Tenchi Muyou! Ryououki",
+                    "url": "https://myanimelist.net/manga/855/Tenchi_Muyou_Ryououki"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%A4%A9%E5%9C%B0%E7%84%A1%E7%94%A8!#.E6.BC.AB.E7.94.BB"
+        }
+    ]
+}

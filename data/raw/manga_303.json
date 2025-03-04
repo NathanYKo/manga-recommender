@@ -1,0 +1,154 @@
+{
+    "mal_id": 303,
+    "url": "https://myanimelist.net/manga/303/Dragon_Kishidan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/180630.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/180630t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/180630l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/180630.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/180630t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/180630l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dragon Kishidan"
+        },
+        {
+            "type": "Japanese",
+            "title": "ドラゴン騎士団"
+        },
+        {
+            "type": "English",
+            "title": "Dragon Knights"
+        }
+    ],
+    "title": "Dragon Kishidan",
+    "title_english": "Dragon Knights",
+    "title_japanese": "ドラゴン騎士団",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 26,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1990-01-01T00:00:00+00:00",
+        "to": "2007-04-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1990
+            },
+            "to": {
+                "day": 28,
+                "month": 4,
+                "year": 2007
+            }
+        },
+        "string": "1990 to Apr 28, 2007"
+    },
+    "score": 7.18,
+    "scored": 7.18,
+    "scored_by": 789,
+    "rank": 6322,
+    "popularity": 9548,
+    "members": 2035,
+    "favorites": 95,
+    "synopsis": "Meet Rune, Rath and Thats—three warriors with dragon blood running through their veins. They've sworn allegiance to the Dragon Lord Lykouleon, and whenever evil shows up in the kingdom, it's up to the three Dragon Knights to save the day. The mighty trio are on their way home for rest and feasting when an incompetent witch and a demon rudely interrupt them. It's no fun fighting bad guys on an empty stomach! Oh well, it's all in a day's work when you're the most famous warriors in the land...\n\n(Source: Tokyopop)",
+    "background": "Dragon Kishidan was published in English as Dragon Knights by Tokyopop from April 23, 2002 to June 1, 2008.",
+    "authors": [
+        {
+            "mal_id": 2290,
+            "type": "people",
+            "name": "Oukami, Mineko",
+            "url": "https://myanimelist.net/people/2290/Mineko_Oukami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Wings",
+            "url": "https://myanimelist.net/manga/magazine/45/Wings"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 86104,
+                    "type": "manga",
+                    "name": "Shukufuku no Kuro to Hametsu no Shiro - Dragon Kishidan II",
+                    "url": "https://myanimelist.net/manga/86104/Shukufuku_no_Kuro_to_Hametsu_no_Shiro_-_Dragon_Kishidan_II"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 10294,
+                    "type": "manga",
+                    "name": "Dragon Knights Gaiden: One Day, Another Day",
+                    "url": "https://myanimelist.net/manga/10294/Dragon_Knights_Gaiden__One_Day_Another_Day"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E9%A8%8E%E5%A3%AB%E5%9B%A3_(%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "mal_id": 234,
+    "url": "https://myanimelist.net/manga/234/Saigo_no_Door_wo_Shimero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/33045.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/33045t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/33045l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/33045.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/33045t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/33045l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Saigo no Door wo Shimero!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Saigo no Door wo Shimero"
+        },
+        {
+            "type": "Synonym",
+            "title": "Saigo no Doa wo Shimero!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Close your last door"
+        },
+        {
+            "type": "Japanese",
+            "title": "最後のドアを閉めろ！"
+        },
+        {
+            "type": "English",
+            "title": "Close the Last Door"
+        }
+    ],
+    "title": "Saigo no Door wo Shimero!",
+    "title_english": "Close the Last Door",
+    "title_japanese": "最後のドアを閉めろ！",
+    "title_synonyms": [
+        "Saigo no Door wo Shimero",
+        "Saigo no Doa wo Shimero!",
+        "Close your last door"
+    ],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2001 to ?"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 1273,
+    "rank": null,
+    "popularity": 7714,
+    "members": 2658,
+    "favorites": 12,
+    "synopsis": "Nagai is just your typical office guy...except that he’s had a secret crush on his coworker Saitou for ages. But with Saitou’s massive wedding just around the corner, Nagai realizes that it’s finally time to retire his illicit desire for the adorable young man. However, sly Honda has a few teasing tricks up his own sleeve...and once the beer starts flowing, there’s no telling where the night will end! Is this love triangle destined to tumble, or will it evolve into the most tantalizing tryst ever?\n\n(Source: Juné Manga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2232,
+            "type": "people",
+            "name": "Yamada, Yugi",
+            "url": "https://myanimelist.net/people/2232/Yugi_Yamada"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 64,
+            "type": "manga",
+            "name": "Love Polygon",
+            "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 235,
+                    "type": "manga",
+                    "name": "Aiteru Door kara Shitsurei Shimasuyo",
+                    "url": "https://myanimelist.net/manga/235/Aiteru_Door_kara_Shitsurei_Shimasuyo"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2417,
+                    "type": "anime",
+                    "name": "Saigo no Door wo Shimero!",
+                    "url": "https://myanimelist.net/anime/2417/Saigo_no_Door_wo_Shimero"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.junemanga.com/books/97/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Close_the_Last_Door"
+        }
+    ]
+}

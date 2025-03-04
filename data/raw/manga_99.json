@@ -1,0 +1,159 @@
+{
+    "mal_id": 99,
+    "url": "https://myanimelist.net/manga/99/Zombie-Loan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/267914.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/267914t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/267914l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/267914.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/267914t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/267914l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zombie-Loan"
+        },
+        {
+            "type": "Japanese",
+            "title": "ZOMBIE-LOAN"
+        },
+        {
+            "type": "English",
+            "title": "Zombie-Loan"
+        }
+    ],
+    "title": "Zombie-Loan",
+    "title_english": "Zombie-Loan",
+    "title_japanese": "ZOMBIE-LOAN",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 83,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-10-18T00:00:00+00:00",
+        "to": "2011-02-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 10,
+                "year": 2002
+            },
+            "to": {
+                "day": 18,
+                "month": 2,
+                "year": 2011
+            }
+        },
+        "string": "Oct 18, 2002 to Feb 18, 2011"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 7243,
+    "rank": 4583,
+    "popularity": 1058,
+    "members": 19026,
+    "favorites": 313,
+    "synopsis": "Michiru Kita’s a weak-spirited girl who has a hard time saying what’s on her mind. One day, she notices mysterious, ring-like markings around the necks of two of her classmates, Chika Akatsuki and Shito Tachibana — two boys who miraculously survived a horrible accident six months before. Michiru, possessing the rare ability to see these rings, knows that they warn of impending death. Thinking that, perhaps, she can do something to save her classmates’ lives, she approaches them... but it seems the boys have already made a different kind of deal and garnered themselves a heavy debt \n\n(Source: Yen Press)",
+    "background": "Zombie-Loan was published in English by Yen Press from October 17, 2007 to January 24, 2012.",
+    "authors": [
+        {
+            "mal_id": 1948,
+            "type": "people",
+            "name": "PEACH‐PIT",
+            "url": "https://myanimelist.net/people/1948/PEACH‐PIT"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "GFantasy",
+            "url": "https://myanimelist.net/manga/magazine/35/GFantasy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2404,
+                    "type": "anime",
+                    "name": "Zombie-Loan",
+                    "url": "https://myanimelist.net/anime/2404/Zombie-Loan"
+                },
+                {
+                    "mal_id": 3354,
+                    "type": "anime",
+                    "name": "Zombie-Loan Specials",
+                    "url": "https://myanimelist.net/anime/3354/Zombie-Loan_Specials"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.co.jp/magazine/gfantasy/story/zombie/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ZOMBIE-LOAN"
+        }
+    ]
+}

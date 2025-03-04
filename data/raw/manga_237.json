@@ -1,0 +1,123 @@
+{
+    "mal_id": 237,
+    "url": "https://myanimelist.net/manga/237/Dear_Myself",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/843.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/843t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/843l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/843.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/843t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/843l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dear Myself"
+        },
+        {
+            "type": "Japanese",
+            "title": "ディア・マイセルフ"
+        },
+        {
+            "type": "English",
+            "title": "Dear Myself"
+        }
+    ],
+    "title": "Dear Myself",
+    "title_english": "Dear Myself",
+    "title_japanese": "ディア・マイセルフ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 1, 1998"
+    },
+    "score": 7.15,
+    "scored": 7.15,
+    "scored_by": 1492,
+    "rank": 6787,
+    "popularity": 7695,
+    "members": 2666,
+    "favorites": 11,
+    "synopsis": "One fateful morning, Hirofumi awakens to discover he has no memory of the previous two years. He has forgotten his classmates and everything he's learned at school. All he recalls is the car accident that caused his amnesia. When he finds a letter written to himself, he is shocked to discover that he has been romantically involved with the tragic and handsome Daigo! Can true love triumph over the loss of memory? And will Hirofumi be able to make Daigo smile again? (Source: DMP)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2005,
+            "type": "people",
+            "name": "Tsuda, Mikiyo",
+            "url": "https://myanimelist.net/people/2005/Mikiyo_Tsuda"
+        },
+        {
+            "mal_id": 2236,
+            "type": "people",
+            "name": "Eiki, Eiki",
+            "url": "https://myanimelist.net/people/2236/Eiki_Eiki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 238,
+                    "type": "manga",
+                    "name": "Dear Myself: World's End",
+                    "url": "https://myanimelist.net/manga/238/Dear_Myself__Worlds_End"
+                },
+                {
+                    "mal_id": 12609,
+                    "type": "manga",
+                    "name": "Dear Myself dj - Second Virgin",
+                    "url": "https://myanimelist.net/manga/12609/Dear_Myself_dj_-_Second_Virgin"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.dmpbooks.com/titles?n=50"
+        }
+    ]
+}

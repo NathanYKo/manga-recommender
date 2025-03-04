@@ -1,0 +1,140 @@
+{
+    "mal_id": 291,
+    "url": "https://myanimelist.net/manga/291/Picnic",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/33047.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/33047t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/33047l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/33047.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/33047t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/33047l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Picnic"
+        },
+        {
+            "type": "Japanese",
+            "title": "ピクニック"
+        },
+        {
+            "type": "English",
+            "title": "PICNIC"
+        }
+    ],
+    "title": "Picnic",
+    "title_english": "PICNIC",
+    "title_japanese": "ピクニック",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2004"
+    },
+    "score": 7.07,
+    "scored": 7.07,
+    "scored_by": 411,
+    "rank": null,
+    "popularity": 19143,
+    "members": 759,
+    "favorites": 1,
+    "synopsis": "Relationships are tough, but relationships between friends can be even tougher. That’s what Koreeda discovers when Noda – one of his college buddies – offers to become “friends with benefits.” Until recently, Koreeda had a serious girlfriend. But now he’s on the rebound and looking for something different, something real. Despite Noda’s bold proposition, he seems to pull away every time Koreeda tries to get close. Maybe all they need is some time alone – a vacation… a picnic, even.\n\n(Source: Juné Manga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2232,
+            "type": "people",
+            "name": "Yamada, Yugi",
+            "url": "https://myanimelist.net/people/2232/Yugi_Yamada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 5650,
+                    "type": "manga",
+                    "name": "Boku ni Datte Iibun ga Aru",
+                    "url": "https://myanimelist.net/manga/5650/Boku_ni_Datte_Iibun_ga_Aru"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.junemanga.com/books/387/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Picnic_%28manga%29"
+        }
+    ]
+}

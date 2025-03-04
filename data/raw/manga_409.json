@@ -1,0 +1,159 @@
+{
+    "mal_id": 409,
+    "url": "https://myanimelist.net/manga/409/Guruguru_Pon-chan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/286565.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/286565t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/286565l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/286565.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/286565t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/286565l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Guruguru Pon-chan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Guruguru Ponchan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ponchan is Ponta"
+        },
+        {
+            "type": "Japanese",
+            "title": "ぐるぐるポンちゃん"
+        },
+        {
+            "type": "English",
+            "title": "Guru Guru Pon-chan"
+        }
+    ],
+    "title": "Guruguru Pon-chan",
+    "title_english": "Guru Guru Pon-chan",
+    "title_japanese": "ぐるぐるポンちゃん",
+    "title_synonyms": [
+        "Guruguru Ponchan",
+        "Ponchan is Ponta"
+    ],
+    "type": "Manga",
+    "chapters": 37,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-01-01T00:00:00+00:00",
+        "to": "2000-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            }
+        },
+        "string": "1997 to 2000"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 1073,
+    "rank": 8447,
+    "popularity": 8609,
+    "members": 2327,
+    "favorites": 52,
+    "synopsis": "Ponta is a Labrador retriever puppy, the Koizumi family's pet. She's full of energy and usually up to some kind of mischief. But when Grandpa Koizumi, an amateur inventor, creates the Guruguru Bone, Ponta's curiosity causes trouble. She nibbles the bone... and turns into a human girl!\n\nSurprised but undaunted, Ponta ventures out of the house and meets Mirai Iwaki, the most popular boy at school. When Mirai saves her from a speeding car, Ponta changes back into her puppy self. Yet much has changed for Ponta during her short adventure as a human. Her heart races and her face flushes when she thinks of Mirai now. She's in love! Using the power of the Guruguru Bone, Ponta switches back and forth from dog to girl... but can she win Mirai's affections?\n\n(Source: Del Rey)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2388,
+            "type": "people",
+            "name": "Ikezawa, Satomi",
+            "url": "https://myanimelist.net/people/2388/Satomi_Ikezawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Pets",
+            "url": "https://myanimelist.net/manga/genre/72/Pets"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 39857,
+                    "type": "manga",
+                    "name": "Guruguru Pon-chan Okawari",
+                    "url": "https://myanimelist.net/manga/39857/Guruguru_Pon-chan_Okawari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Guru_Guru_Pon-chan"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%90%E3%82%8B%E3%81%90%E3%82%8B%E3%83%9D%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93"
+        }
+    ]
+}

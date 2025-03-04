@@ -1,0 +1,129 @@
+{
+    "mal_id": 245,
+    "url": "https://myanimelist.net/manga/245/Fake_Fur",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/11238.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/11238t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/11238l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/11238.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/11238t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/11238l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fake Fur"
+        },
+        {
+            "type": "Japanese",
+            "title": "フェイクファー"
+        },
+        {
+            "type": "English",
+            "title": "Fake Fur"
+        }
+    ],
+    "title": "Fake Fur",
+    "title_english": "Fake Fur",
+    "title_japanese": "フェイクファー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2004 to ?"
+    },
+    "score": 6.89,
+    "scored": 6.89,
+    "scored_by": 594,
+    "rank": null,
+    "popularity": 13364,
+    "members": 1304,
+    "favorites": 5,
+    "synopsis": "“When I was a junior in high school, I always thought about kissing someone. 15-year-old boys always pretend like that, right? One Valentine’s Day, I received a letter with chocolate…from a guy! The whole class was thrown into an uproar.” A collection of sweet stories like this one, Fake Fur takes you on the rocky road of love. (Source: DMP)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2240,
+            "type": "people",
+            "name": "Yamagata, Satomi",
+            "url": "https://myanimelist.net/people/2240/Satomi_Yamagata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 261,
+                    "type": "manga",
+                    "name": "Kanjou Kairo",
+                    "url": "https://myanimelist.net/manga/261/Kanjou_Kairo"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 2597,
+                    "type": "manga",
+                    "name": "Three Quarters",
+                    "url": "https://myanimelist.net/manga/2597/Three_Quarters"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.dmpbooks.com/titles?n=73"
+        }
+    ]
+}

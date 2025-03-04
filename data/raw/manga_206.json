@@ -1,0 +1,147 @@
+{
+    "mal_id": 206,
+    "url": "https://myanimelist.net/manga/206/Kidou_Senshi_Gundam_0079",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/301412.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/301412t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/301412l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/301412.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/301412t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/301412l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kidou Senshi Gundam 0079"
+        },
+        {
+            "type": "Japanese",
+            "title": "機動戦士ガンダム0079"
+        },
+        {
+            "type": "English",
+            "title": "Mobile Suit Gundam 0079"
+        }
+    ],
+    "title": "Kidou Senshi Gundam 0079",
+    "title_english": "Mobile Suit Gundam 0079",
+    "title_japanese": "機動戦士ガンダム0079",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 72,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-01-01T00:00:00+00:00",
+        "to": "2005-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            }
+        },
+        "string": "1993 to 2005"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 344,
+    "rank": 5271,
+    "popularity": 14161,
+    "members": 1197,
+    "favorites": 13,
+    "synopsis": "Mobile Suit Gundam 0079 is retelling of the story remembered so well in Japan-of a war occurring on Earth's not-so-far-off future, when humanity's millions living in orbiting space colonies begin to push for their independence from the government of Earth, and new weapon called a \"Mobile suit\" becomes the deciding factor in battle....\n\n(Source: VIZ Media)",
+    "background": "Nine volumes of Kidou Senshi Gundam 0079 were published in English as Mobile Suit Gundam 0079 by VIZ Media from January 2000 to January 2003.",
+    "authors": [
+        {
+            "mal_id": 2213,
+            "type": "people",
+            "name": "Kondo, Kazuhisa",
+            "url": "https://myanimelist.net/people/2213/Kazuhisa_Kondo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        },
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 80,
+                    "type": "anime",
+                    "name": "Kidou Senshi Gundam",
+                    "url": "https://myanimelist.net/anime/80/Kidou_Senshi_Gundam"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 42571,
+                    "type": "manga",
+                    "name": "Stampede: The Story of Professor Minovsky",
+                    "url": "https://myanimelist.net/manga/42571/Stampede__The_Story_of_Professor_Minovsky"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 9977,
+                    "type": "manga",
+                    "name": "Kidou Senshi Gundam",
+                    "url": "https://myanimelist.net/manga/9977/Kidou_Senshi_Gundam"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Mobile_Suit_Gundam"
+        }
+    ]
+}

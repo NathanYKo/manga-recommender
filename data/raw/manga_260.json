@@ -1,0 +1,111 @@
+{
+    "mal_id": 260,
+    "url": "https://myanimelist.net/manga/260/Kashinfuu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/6066.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/6066t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/6066l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/6066.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/6066t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/6066l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kashinfuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Spring Wind Telling the Tidings of Flowers"
+        },
+        {
+            "type": "Japanese",
+            "title": "花信風"
+        },
+        {
+            "type": "English",
+            "title": "Ka Shin Fuu"
+        }
+    ],
+    "title": "Kashinfuu",
+    "title_english": "Ka Shin Fuu",
+    "title_japanese": "花信風",
+    "title_synonyms": [
+        "Spring Wind Telling the Tidings of Flowers"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-07-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 7,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 12, 2006"
+    },
+    "score": 6.89,
+    "scored": 6.89,
+    "scored_by": 607,
+    "rank": null,
+    "popularity": 14078,
+    "members": 1206,
+    "favorites": 1,
+    "synopsis": "The Kourenji Family, a wealthy Japanese empire, is looking for an heir to its massive family. The two candidates, Karou and Ryuugo, are fighting to succeed as the next heir. But as they two pit their strength against each other, Kaoru starts to show another side of himself. It seems he might be more interested in winning Ryuugo than the family fortune.\n\n(Source: DMP)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2211,
+            "type": "people",
+            "name": "Tateno, Makoto",
+            "url": "https://myanimelist.net/people/2211/Makoto_Tateno"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Ka_Shin_Fu"
+        }
+    ]
+}

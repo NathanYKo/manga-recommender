@@ -1,0 +1,186 @@
+{
+    "mal_id": 16,
+    "url": "https://myanimelist.net/manga/16/Love_Hina",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/259287.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/259287t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/259287l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/259287.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/259287t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/259287l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Love Hina"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラブひな"
+        },
+        {
+            "type": "English",
+            "title": "Love Hina"
+        }
+    ],
+    "title": "Love Hina",
+    "title_english": "Love Hina",
+    "title_japanese": "ラブひな",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 120,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-10-21T00:00:00+00:00",
+        "to": "2001-10-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 10,
+                "year": 1998
+            },
+            "to": {
+                "day": 31,
+                "month": 10,
+                "year": 2001
+            }
+        },
+        "string": "Oct 21, 1998 to Oct 31, 2001"
+    },
+    "score": 7.77,
+    "scored": 7.77,
+    "scored_by": 37236,
+    "rank": 1424,
+    "popularity": 239,
+    "members": 69444,
+    "favorites": 3905,
+    "synopsis": "It is said that if a couple gets into the University of Tokyo together, they will live happily ever after. However, for Keitarou Urashima, UTokyo is a distant dream. After failing the entrance exams twice already, he decides to stay at his grandmother's inn in Tokyo in order to prepare for his third attempt. He is, therefore, surprised when he finds out that not only has his grandmother gone on a long vacation, but the inn has also become the Hinata House, an all-girls dormitory!\n\nUnfortunately for Keitarou, a series of misunderstandings during his first visit leave him with five untrusting tenants. But when Haruka Urashima, his aunt who works at the dorm, brings up that he is supposedly a UTokyo student, the girls' impressions of him quickly change, and they reluctantly allow him to stay. Feeling guilty about the lie, he slowly gets to know his new neighbors: the cute yet violent Naru Narusegawa, the cheeky and opportunistic Mitsune Konno, the soft-spoken Shinobu Maehara, the straight-laced Motoko Aoyama, and the mischievous Kaolla Su.\n\nThus continues the unpopular Keitarou's difficult journey to get into UTokyo, all for the chance to fulfill his childhood promise to the only girl who has ever shown any interest in him and maybe, just maybe, meet her again.\n\n[Written by MAL Rewrite]",
+    "background": "Love Hina won the 25th Kodansha Manga Award in the Shounen category in 2001. The series was published in English by Tokyopop from May 21, 2002, to September 16, 2003. Kodansha Comics USA republished the series in 5-in-1 omnibus volumes from October 25, 2011, to March 26, 2013. It was also released in Brazilian Portuguese by Editora JBC in 28 volumes from May 2002 to August 2003.",
+    "authors": [
+        {
+            "mal_id": 1883,
+            "type": "people",
+            "name": "Akamatsu, Ken",
+            "url": "https://myanimelist.net/people/1883/Ken_Akamatsu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 189,
+                    "type": "anime",
+                    "name": "Love Hina",
+                    "url": "https://myanimelist.net/anime/189/Love_Hina"
+                },
+                {
+                    "mal_id": 190,
+                    "type": "anime",
+                    "name": "Love Hina Again",
+                    "url": "https://myanimelist.net/anime/190/Love_Hina_Again"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 5931,
+                    "type": "manga",
+                    "name": "Love Hina",
+                    "url": "https://myanimelist.net/manga/5931/Love_Hina"
+                },
+                {
+                    "mal_id": 21883,
+                    "type": "manga",
+                    "name": "Love Hina: Special Project",
+                    "url": "https://myanimelist.net/manga/21883/Love_Hina__Special_Project"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 78905,
+                    "type": "manga",
+                    "name": "Love Hina Tokubetsuhen",
+                    "url": "https://myanimelist.net/manga/78905/Love_Hina_Tokubetsuhen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/love-hina-omnibus/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Love_Hina"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E3%81%B2%E3%81%AA"
+        }
+    ]
+}

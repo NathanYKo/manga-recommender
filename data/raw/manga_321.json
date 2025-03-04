@@ -1,0 +1,176 @@
+{
+    "mal_id": 321,
+    "url": "https://myanimelist.net/manga/321/Gate_Keepers",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/35659.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/35659t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/35659l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/35659.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/35659t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/35659l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gate Keepers"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gatekeepers"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゲートキーパーズ"
+        },
+        {
+            "type": "English",
+            "title": "Gate Keepers"
+        }
+    ],
+    "title": "Gate Keepers",
+    "title_english": "Gate Keepers",
+    "title_japanese": "ゲートキーパーズ",
+    "title_synonyms": [
+        "Gatekeepers"
+    ],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-12-01T00:00:00+00:00",
+        "to": "2001-10-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 1999
+            },
+            "to": {
+                "day": 31,
+                "month": 10,
+                "year": 2001
+            }
+        },
+        "string": "Dec 1, 1999 to Oct 31, 2001"
+    },
+    "score": 6.21,
+    "scored": 6.21,
+    "scored_by": 210,
+    "rank": 18961,
+    "popularity": 20643,
+    "members": 668,
+    "favorites": 6,
+    "synopsis": "After attacked by an alien, saved by a girl, and discovers he has extraordinary powers, Shun Ukiya has had a hell of first day of school. Realizing what this new power is all about soon becomes one of the less important things that threaten Earth. \n\n(Source: ANN)",
+    "background": "Gate Keepers was published in English by Tokyopop from March 11, 2003 to May 6, 2003.",
+    "authors": [
+        {
+            "mal_id": 2307,
+            "type": "people",
+            "name": "Gotou, Keiji",
+            "url": "https://myanimelist.net/people/2307/Keiji_Gotou"
+        },
+        {
+            "mal_id": 2308,
+            "type": "people",
+            "name": "Yamaguchi, Hiroshi",
+            "url": "https://myanimelist.net/people/2308/Hiroshi_Yamaguchi"
+        },
+        {
+            "mal_id": 3133,
+            "type": "people",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/people/3133/Gonzo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 105,
+            "type": "manga",
+            "name": "Ace Next",
+            "url": "https://myanimelist.net/manga/magazine/105/Ace_Next"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 127,
+                    "type": "anime",
+                    "name": "Gate Keepers",
+                    "url": "https://myanimelist.net/anime/127/Gate_Keepers"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 21981,
+                    "type": "manga",
+                    "name": "Gate Keepers",
+                    "url": "https://myanimelist.net/manga/21981/Gate_Keepers"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Gate_Keepers"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ゲートキーパーズ"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "mal_id": 130,
+    "url": "https://myanimelist.net/manga/130/Clamp_Gakuen_Tanteidan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260110.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260110t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260110l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260110.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260110t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260110l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Clamp Gakuen Tanteidan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Clamp Campus Detectives"
+        },
+        {
+            "type": "Japanese",
+            "title": "CLAMP学園探偵団"
+        },
+        {
+            "type": "English",
+            "title": "Clamp School Detectives"
+        }
+    ],
+    "title": "Clamp Gakuen Tanteidan",
+    "title_english": "Clamp School Detectives",
+    "title_japanese": "CLAMP学園探偵団",
+    "title_synonyms": [
+        "Clamp Campus Detectives"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1992-01-01T00:00:00+00:00",
+        "to": "1993-10-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1992
+            },
+            "to": {
+                "day": 1,
+                "month": 10,
+                "year": 1993
+            }
+        },
+        "string": "Jan 1992 to Oct 1993"
+    },
+    "score": 6.82,
+    "scored": 6.82,
+    "scored_by": 2819,
+    "rank": 11757,
+    "popularity": 3948,
+    "members": 5660,
+    "favorites": 30,
+    "synopsis": "Akira, Nokoru, and Suoh are the student council heads in the Elementary department of the CLAMP university. After one encounter with a damsel in distress, Nokoru turns the group into a group of sleuths out to make the world safe for everyone of the female sex. \n\n(Source: ANN)",
+    "background": "Clamp Gakuen Tanteidan was first published in English as Clamp School Detectives by Tokyopop from April 1, 2003 to August 1, 2003. VIZ Media took over the license, and published the title digitally from September 22, 2015 to November 24, 2015.",
+    "authors": [
+        {
+            "mal_id": 1877,
+            "type": "people",
+            "name": "CLAMP",
+            "url": "https://myanimelist.net/people/1877/CLAMP"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Asuka",
+            "url": "https://myanimelist.net/manga/magazine/14/Asuka"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1844,
+                    "type": "anime",
+                    "name": "Clamp Gakuen Tanteidan",
+                    "url": "https://myanimelist.net/anime/1844/Clamp_Gakuen_Tanteidan"
+                },
+                {
+                    "mal_id": 6107,
+                    "type": "anime",
+                    "name": "Aruhi no Clamp Gakuen Tanteidan",
+                    "url": "https://myanimelist.net/anime/6107/Aruhi_no_Clamp_Gakuen_Tanteidan"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 307,
+                    "type": "manga",
+                    "name": "Gakuen Tokukei Duklyon",
+                    "url": "https://myanimelist.net/manga/307/Gakuen_Tokukei_Duklyon"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 552,
+                    "type": "manga",
+                    "name": "20 Mensou ni Onegai!!",
+                    "url": "https://myanimelist.net/manga/552/20_Mensou_ni_Onegai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/CLAMP%E5%AD%A6%E5%9C%92%E6%8E%A2%E5%81%B5%E5%9B%A3"
+        }
+    ]
+}

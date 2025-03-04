@@ -1,0 +1,242 @@
+{
+    "mal_id": 50,
+    "url": "https://myanimelist.net/manga/50/Shaman_King",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/255376.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/255376t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/255376l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/255376.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/255376t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/255376l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shaman King"
+        },
+        {
+            "type": "Synonym",
+            "title": "Exotica"
+        },
+        {
+            "type": "Synonym",
+            "title": "Funbari no Uta"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Poem of Funbari"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Song of Funbari"
+        },
+        {
+            "type": "Japanese",
+            "title": "シャーマンキング"
+        },
+        {
+            "type": "English",
+            "title": "Shaman King"
+        }
+    ],
+    "title": "Shaman King",
+    "title_english": "Shaman King",
+    "title_japanese": "シャーマンキング",
+    "title_synonyms": [
+        "Exotica",
+        "Funbari no Uta",
+        "The Poem of Funbari",
+        "The Song of Funbari"
+    ],
+    "type": "Manga",
+    "chapters": 288,
+    "volumes": 32,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-06-30T00:00:00+00:00",
+        "to": "2004-08-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 6,
+                "year": 1998
+            },
+            "to": {
+                "day": 30,
+                "month": 8,
+                "year": 2004
+            }
+        },
+        "string": "Jun 30, 1998 to Aug 30, 2004"
+    },
+    "score": 7.77,
+    "scored": 7.77,
+    "scored_by": 37363,
+    "rank": 1438,
+    "popularity": 215,
+    "members": 76591,
+    "favorites": 3389,
+    "synopsis": "Shamans are extraordinary individuals with the ability to communicate with ghosts, spirits, and gods, which are invisible to ordinary people. The Shaman Fight—a prestigious tournament pitting shamans from all over the world against each other—is held every five hundred years, where the winner is crowned Shaman King. This title allows the current incumbent to call upon the Great Spirit and shape the world as they see fit.\n \nFinding himself late for class one night, Manta Oyamada, an ordinary middle school student, decides to take a shortcut through the local cemetery. Noticing him, a lone boy sitting on a gravestone invites Manta to stargaze with \"them.\" Realizing that \"them\" refers to the boy and his ghostly friends, Manta flees in terror. Later, the boy introduces himself as You Asakura, a Shaman-in-training, and demonstrates his powers by teaming up with the ghost of six-hundred-year-old samurai Amidamaru to save Manta from a group of thugs. You befriends Manta due to his ability to see spirits, and with the help of Amidamaru, they set out to accomplish You's goal of becoming the next Shaman King.\n\n[Written by MAL Rewrite]\n\nNote: This entry is for the original printing of Shaman King. Please see Shaman King (Kanzenban Edition) for the chapters not included in this edition.",
+    "background": "Shaman King was published in English by VIZ Media under the Shonen Jump imprint from August 6, 2003, to January 4, 2011. Kodansha USA republished the series digitally in 35 volumes on October 6, 2020. It was also released in Brazilian Portuguese by Editora JBC in 64 volumes from July 2003 to July 2006.",
+    "authors": [
+        {
+            "mal_id": 1910,
+            "type": "people",
+            "name": "Takei, Hiroyuki",
+            "url": "https://myanimelist.net/people/1910/Hiroyuki_Takei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 33389,
+                    "type": "manga",
+                    "name": "Shaman King Zero",
+                    "url": "https://myanimelist.net/manga/33389/Shaman_King_Zero"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 16572,
+                    "type": "manga",
+                    "name": "Shaman King: Flowers",
+                    "url": "https://myanimelist.net/manga/16572/Shaman_King__Flowers"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 154,
+                    "type": "anime",
+                    "name": "Shaman King",
+                    "url": "https://myanimelist.net/anime/154/Shaman_King"
+                },
+                {
+                    "mal_id": 42205,
+                    "type": "anime",
+                    "name": "Shaman King (2021)",
+                    "url": "https://myanimelist.net/anime/42205/Shaman_King_2021"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 120706,
+                    "type": "manga",
+                    "name": "Shaman King Faust 8: Eien no Eliza",
+                    "url": "https://myanimelist.net/manga/120706/Shaman_King_Faust_8__Eien_no_Eliza"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 114665,
+                    "type": "manga",
+                    "name": "Shaman King: Red Crimson",
+                    "url": "https://myanimelist.net/manga/114665/Shaman_King__Red_Crimson"
+                },
+                {
+                    "mal_id": 125731,
+                    "type": "manga",
+                    "name": "Shaman King: Marcos",
+                    "url": "https://myanimelist.net/manga/125731/Shaman_King__Marcos"
+                },
+                {
+                    "mal_id": 132526,
+                    "type": "manga",
+                    "name": "Shaman King & A Garden",
+                    "url": "https://myanimelist.net/manga/132526/Shaman_King___A_Garden"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 12917,
+                    "type": "manga",
+                    "name": "Shaman King Kanzenban",
+                    "url": "https://myanimelist.net/manga/12917/Shaman_King_Kanzenban"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/shaman-king/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0"
+        }
+    ]
+}

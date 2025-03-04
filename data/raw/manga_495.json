@@ -1,0 +1,127 @@
+{
+    "mal_id": 495,
+    "url": "https://myanimelist.net/manga/495/Rakuen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/39991.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/39991t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/39991l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/39991.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/39991t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/39991l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rakuen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Paradise"
+        },
+        {
+            "type": "Japanese",
+            "title": "楽園"
+        },
+        {
+            "type": "English",
+            "title": "Passion Fruit"
+        }
+    ],
+    "title": "Rakuen",
+    "title_english": "Passion Fruit",
+    "title_japanese": "楽園",
+    "title_synonyms": [
+        "Paradise"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-01-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 1,
+                "year": 2003
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 25, 2003"
+    },
+    "score": 7.01,
+    "scored": 7.01,
+    "scored_by": 781,
+    "rank": 8846,
+    "popularity": 10436,
+    "members": 1815,
+    "favorites": 11,
+    "synopsis": "A collection of four short stories. Story 3: Chihiro and Chiaki are twins with a special ability; Chihiro sees strange visions triggered by the things around him, but it's Chiaki who, without actually seeing them, knows what the visions mean. The trouble Chiaki has caused by blurting out the truth behind the visions has caused Chihiro to shut himself away to keep the visions from coming. But then, one day, his brother asks him to step outside...\n\n(Source: Storm in Heaven)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2451,
+            "type": "people",
+            "name": "Fujiwara, Kaoru",
+            "url": "https://myanimelist.net/people/2451/Kaoru_Fujiwara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 103,
+            "type": "manga",
+            "name": "Feel Young",
+            "url": "https://myanimelist.net/manga/magazine/103/Feel_Young"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,178 @@
+{
+    "mal_id": 137,
+    "url": "https://myanimelist.net/manga/137/ROD__Read_or_Die",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/266047.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/266047t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/266047l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/266047.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/266047t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/266047l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "R.O.D: Read or Die"
+        },
+        {
+            "type": "Synonym",
+            "title": "RoD"
+        },
+        {
+            "type": "Japanese",
+            "title": "R.O.D -READ OR DIE-"
+        },
+        {
+            "type": "English",
+            "title": "Read or Die"
+        }
+    ],
+    "title": "R.O.D: Read or Die",
+    "title_english": "Read or Die",
+    "title_japanese": "R.O.D -READ OR DIE-",
+    "title_synonyms": [
+        "RoD"
+    ],
+    "type": "Manga",
+    "chapters": 30,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-12-18T00:00:00+00:00",
+        "to": "2002-05-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 12,
+                "year": 1999
+            },
+            "to": {
+                "day": 18,
+                "month": 5,
+                "year": 2002
+            }
+        },
+        "string": "Dec 18, 1999 to May 18, 2002"
+    },
+    "score": 6.97,
+    "scored": 6.97,
+    "scored_by": 1837,
+    "rank": 9416,
+    "popularity": 4123,
+    "members": 5441,
+    "favorites": 74,
+    "synopsis": "Yomiko Readman's love for literature goes far beyond any run-of-the-mill bookworm's! In fact, she has a supernatural ability to manipulate paper in the most amazing ways. From turning a tiny scrap into a lethal throwing dagger to making a single sheet hard enough to block bullets, she's only limited by her imagination. She uses her phenomenal power to seek out legendary books containing secret information that, in the wrong hands, could be dangerous. Backed by a Special Operations Division in England, Yomiko has her hands full battling evildoers, saving the world, and trying to find time to curl up with a good book.\n\n(Source: VIZ Media)",
+    "background": "R.O.D: Read or Die was published in English by VIZ Media from March 21 to September 19, 2006.",
+    "authors": [
+        {
+            "mal_id": 1967,
+            "type": "people",
+            "name": "Kurata, Hideyuki",
+            "url": "https://myanimelist.net/people/1967/Hideyuki_Kurata"
+        },
+        {
+            "mal_id": 2566,
+            "type": "people",
+            "name": "Yamada, Shutarou",
+            "url": "https://myanimelist.net/people/2566/Shutarou_Yamada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 208,
+                    "type": "anime",
+                    "name": "R.O.D: Read or Die",
+                    "url": "https://myanimelist.net/anime/208/ROD__Read_or_Die"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 709,
+                    "type": "manga",
+                    "name": "R.O.D: Read or Dream",
+                    "url": "https://myanimelist.net/manga/709/ROD__Read_or_Dream"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 10869,
+                    "type": "manga",
+                    "name": "R.O.D: Yomiko Readman \"The Paper\"",
+                    "url": "https://myanimelist.net/manga/10869/ROD__Yomiko_Readman_The_Paper"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/R.O.D"
+        }
+    ]
+}

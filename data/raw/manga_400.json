@@ -1,0 +1,131 @@
+{
+    "mal_id": 400,
+    "url": "https://myanimelist.net/manga/400/Kilala☆Princess",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190870.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190870t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190870l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190870.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190870t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190870l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kilala☆Princess"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kirara Princess"
+        },
+        {
+            "type": "Japanese",
+            "title": "Disney's きらら☆プリンセス"
+        },
+        {
+            "type": "English",
+            "title": "Kilala Princess"
+        }
+    ],
+    "title": "Kilala☆Princess",
+    "title_english": "Kilala Princess",
+    "title_japanese": "Disney's きらら☆プリンセス",
+    "title_synonyms": [
+        "Kirara Princess"
+    ],
+    "type": "Manga",
+    "chapters": 23,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": "2007-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "2005 to 2007"
+    },
+    "score": 7.22,
+    "scored": 7.22,
+    "scored_by": 1180,
+    "rank": 5848,
+    "popularity": 7792,
+    "members": 2628,
+    "favorites": 70,
+    "synopsis": "Meet Kilala, an ordinary girl who loves all the Disney Princesses. When she awakens a sleeping prince named Rei, she magically gains the power of the princesses! Rei is searching for the missing princess of his world, and has a magical tiara that will lead him to her. But before Kilala can help him find the missing princess and restore peace to his world, Kilala's best friend, Erica, is kidnapped by mysterious men! So, with the help of the magical tiara and Rei, Kilala sets off on a quest to find her!",
+    "background": "Kilala☆Princess was partially published in English by Tokyopop, who published the first four volumes between January 9, 2007 and December 11, 2007. The publisher re-released the series from July 19, 2016 to May 9, 2017.",
+    "authors": [
+        {
+            "mal_id": 2375,
+            "type": "people",
+            "name": "Tanaka, Rika",
+            "url": "https://myanimelist.net/people/2375/Rika_Tanaka"
+        },
+        {
+            "mal_id": 2376,
+            "type": "people",
+            "name": "Kodaka, Nao",
+            "url": "https://myanimelist.net/people/2376/Nao_Kodaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Nakayoshi",
+            "url": "https://myanimelist.net/manga/magazine/20/Nakayoshi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 17789,
+                    "type": "manga",
+                    "name": "Kilala☆Princess",
+                    "url": "https://myanimelist.net/manga/17789/Kilala☆Princess"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Kilala_Princess"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "mal_id": 188,
+    "url": "https://myanimelist.net/manga/188/Kindan_no_Koi_de_Ikou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/5717.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/5717t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/5717l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/5717.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/5717t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/5717l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kindan no Koi de Ikou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Forbidden Fruit"
+        },
+        {
+            "type": "Synonym",
+            "title": "Let's Go with Forbidden Love"
+        },
+        {
+            "type": "Japanese",
+            "title": "禁断の恋でいこう"
+        }
+    ],
+    "title": "Kindan no Koi de Ikou",
+    "title_english": null,
+    "title_japanese": "禁断の恋でいこう",
+    "title_synonyms": [
+        "Forbidden Fruit",
+        "Let's Go with Forbidden Love"
+    ],
+    "type": "Manga",
+    "chapters": 50,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-01T00:00:00+00:00",
+        "to": "2005-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            }
+        },
+        "string": "2001 to 2005"
+    },
+    "score": 7.78,
+    "scored": 7.78,
+    "scored_by": 1859,
+    "rank": 1404,
+    "popularity": 5191,
+    "members": 4187,
+    "favorites": 69,
+    "synopsis": "Hisako is saved by a beautiful wolf that turns into an even more beautiful man...but can a relationship like this work!? The continuation of the story of Hisako and Yato seen in Kindan no Koi wo Shiyou and Zoku Kindan no Koi wo Shiyou!\n\n(Source: ShojoMagic)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2203,
+            "type": "people",
+            "name": "Ohmi, Tomu",
+            "url": "https://myanimelist.net/people/2203/Tomu_Ohmi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 73,
+            "type": "manga",
+            "name": "Petit Comic",
+            "url": "https://myanimelist.net/manga/magazine/73/Petit_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 186,
+                    "type": "manga",
+                    "name": "Zoku - Kindan no Koi wo Shiyou",
+                    "url": "https://myanimelist.net/manga/186/Zoku_-_Kindan_no_Koi_wo_Shiyou"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,118 @@
+{
+    "mal_id": 88,
+    "url": "https://myanimelist.net/manga/88/Angel_Dust",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/179773.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/179773t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/179773l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/179773.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/179773t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/179773l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Angel/Dust"
+        },
+        {
+            "type": "Japanese",
+            "title": "ANGEL/DUST"
+        },
+        {
+            "type": "English",
+            "title": "Angel/Dust"
+        }
+    ],
+    "title": "Angel/Dust",
+    "title_english": "Angel/Dust",
+    "title_japanese": "ANGEL/DUST",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-04-10T00:00:00+00:00",
+        "to": "2000-12-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 4,
+                "year": 2000
+            },
+            "to": {
+                "day": 9,
+                "month": 12,
+                "year": 2000
+            }
+        },
+        "string": "Apr 10, 2000 to Dec 9, 2000"
+    },
+    "score": 6.35,
+    "scored": 6.35,
+    "scored_by": 2084,
+    "rank": 18039,
+    "popularity": 5224,
+    "members": 4158,
+    "favorites": 20,
+    "synopsis": "A mysterious creature has fallen from the sky and landed right at young Yuina's feet! Branded as the master of this new angelic being, Yuina is forced into an otherworldly pact, one that will take her beyond the clouds and into battle against a new and yet hauntingly familiar evil, one that patiently waits in the shadows.\n\n(Source: ADV)",
+    "background": "Angel/Dust was published by ADV Manga on November 22, 2005 and prior to the release also serialized in Newtype USA magazine.",
+    "authors": [
+        {
+            "mal_id": 1942,
+            "type": "people",
+            "name": "Nanase, Aoi",
+            "url": "https://myanimelist.net/people/1942/Aoi_Nanase"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Newtype",
+            "url": "https://myanimelist.net/manga/magazine/31/Newtype"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 295,
+                    "type": "manga",
+                    "name": "Angel/Dust Neo",
+                    "url": "https://myanimelist.net/manga/295/Angel_Dust_Neo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB/%E3%83%80%E3%82%B9%E3%83%88"
+        }
+    ]
+}

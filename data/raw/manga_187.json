@@ -1,0 +1,138 @@
+{
+    "mal_id": 187,
+    "url": "https://myanimelist.net/manga/187/Kindan_no_Koi_wo_Shiyou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/17066.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/17066t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/17066l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/17066.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/17066t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/17066l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kindan no Koi wo Shiyou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Let's Make Forbidden Love"
+        },
+        {
+            "type": "Synonym",
+            "title": "Vampire no Onegai"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Request to the Vampire"
+        },
+        {
+            "type": "Japanese",
+            "title": "禁断の恋をしよう"
+        }
+    ],
+    "title": "Kindan no Koi wo Shiyou",
+    "title_english": null,
+    "title_japanese": "禁断の恋をしよう",
+    "title_synonyms": [
+        "Let's Make Forbidden Love",
+        "Vampire no Onegai",
+        "A Request to the Vampire"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2000"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 2545,
+    "rank": 5224,
+    "popularity": 4560,
+    "members": 4845,
+    "favorites": 35,
+    "synopsis": "Hisako was saved from a drunkard by a wolf. She decides to adopt the beautiful, and entrancing creature, but Hisako's new pet turns into a fine-looking guy! Somehow his entrancing eyes remain in her mind...\n\nOne-Shot: A Request to the Vampire\nRyouko is targeted as an anorexic, or shall we say, unappetizing, girl. But when her want to die overflows when she meets a vampire, he turns her world around.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2203,
+            "type": "people",
+            "name": "Ohmi, Tomu",
+            "url": "https://myanimelist.net/people/2203/Tomu_Ohmi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 73,
+            "type": "manga",
+            "name": "Petit Comic",
+            "url": "https://myanimelist.net/manga/magazine/73/Petit_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 186,
+                    "type": "manga",
+                    "name": "Zoku - Kindan no Koi wo Shiyou",
+                    "url": "https://myanimelist.net/manga/186/Zoku_-_Kindan_no_Koi_wo_Shiyou"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

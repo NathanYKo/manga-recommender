@@ -1,0 +1,178 @@
+{
+    "mal_id": 23,
+    "url": "https://myanimelist.net/manga/23/Ranma_½",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/156534.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/156534t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/156534l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/156534.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/156534t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/156534l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ranma ½"
+        },
+        {
+            "type": "Japanese",
+            "title": "らんま½"
+        },
+        {
+            "type": "English",
+            "title": "Ranma 1/2"
+        }
+    ],
+    "title": "Ranma ½",
+    "title_english": "Ranma 1/2",
+    "title_japanese": "らんま½",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 407,
+    "volumes": 38,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1987-08-05T00:00:00+00:00",
+        "to": "1996-02-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 8,
+                "year": 1987
+            },
+            "to": {
+                "day": 21,
+                "month": 2,
+                "year": 1996
+            }
+        },
+        "string": "Aug 5, 1987 to Feb 21, 1996"
+    },
+    "score": 7.99,
+    "scored": 7.99,
+    "scored_by": 26416,
+    "rank": 781,
+    "popularity": 319,
+    "members": 54793,
+    "favorites": 3146,
+    "synopsis": "Soun Tendou runs the Tendou Martial Arts School accompanied by his three daughters: Akane, Nabiki, and Kasumi. One day, the sisters' lives are turned upside down when their father announces that he has promised one of them to be married to a fellow martial artist's son in hopes of carrying on the family legacy. In addition to their mixed reactions, when the fiancé arrives, the last thing the Tendou family expects is Ranma Saotome and his father, Genma.\n\nRanma has been training in China with his father until an unfortunate accident changed them both. Now, when water touches them, Ranma turns into a girl and Genma into a giant panda. Ranma ½ follows Ranma as he attempts to get along with his newly betrothed, the youngest of the Tendou sisters, Akane. As the two begin to attend the same school, they deal with fellow friends and rivals, all of whom have something to say about their engagement.\n\n[Written by MAL Rewrite]",
+    "background": "Ranma ½ was published in English by VIZ Media from May 1993 to November 16, 2006. It was VIZ's longest-running manga at the release of its final volume. It was republished in 2-in-1 omnibus volumes in the original right-to-left format by VIZ Media under the Shonen Sunday imprint from March 11, 2014, to March 14, 2017. The series was also partially published in Spanish by Glénat España from December 2011 to June 2013, before the publisher went defunct. Planeta Cómic published the full series in 2-in-1 omnibus volumes from April 28, 2016, to July 24, 2018. The manga was also released in Brazilian Portuguese by Editora JBC from September 2009 to April 2013.",
+    "authors": [
+        {
+            "mal_id": 1891,
+            "type": "people",
+            "name": "Takahashi, Rumiko",
+            "url": "https://myanimelist.net/people/1891/Rumiko_Takahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 210,
+                    "type": "anime",
+                    "name": "Ranma ½",
+                    "url": "https://myanimelist.net/anime/210/Ranma_½"
+                },
+                {
+                    "mal_id": 5493,
+                    "type": "anime",
+                    "name": "Ranma ½: Akumu! Shunmin Kou",
+                    "url": "https://myanimelist.net/anime/5493/Ranma_½__Akumu_Shunmin_Kou"
+                },
+                {
+                    "mal_id": 59145,
+                    "type": "anime",
+                    "name": "Ranma ½ (2024)",
+                    "url": "https://myanimelist.net/anime/59145/Ranma_½_2024"
+                },
+                {
+                    "mal_id": 60564,
+                    "type": "anime",
+                    "name": "Ranma ½ (2024) 2nd Season",
+                    "url": "https://myanimelist.net/anime/60564/Ranma_½_2024_2nd_Season"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ranma_%C2%BD"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%89%E3%82%93%E3%81%BE1/2"
+        }
+    ]
+}

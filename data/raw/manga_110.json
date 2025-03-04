@@ -1,0 +1,161 @@
+{
+    "mal_id": 110,
+    "url": "https://myanimelist.net/manga/110/AI_ga_Tomaranai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/54753.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/54753t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/54753l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/54753.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/54753t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/54753l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "AI ga Tomaranai!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ai Love You"
+        },
+        {
+            "type": "Synonym",
+            "title": "A.I Non-Stop!"
+        },
+        {
+            "type": "Japanese",
+            "title": "AIが止まらない！"
+        },
+        {
+            "type": "English",
+            "title": "A.I. Love you"
+        }
+    ],
+    "title": "AI ga Tomaranai!",
+    "title_english": "A.I. Love you",
+    "title_japanese": "AIが止まらない！",
+    "title_synonyms": [
+        "Ai Love You",
+        "A.I Non-Stop!"
+    ],
+    "type": "Manga",
+    "chapters": 55,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1994-04-06T00:00:00+00:00",
+        "to": "1997-08-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 1994
+            },
+            "to": {
+                "day": 20,
+                "month": 8,
+                "year": 1997
+            }
+        },
+        "string": "Apr 6, 1994 to Aug 20, 1997"
+    },
+    "score": 6.94,
+    "scored": 6.94,
+    "scored_by": 3274,
+    "rank": 9916,
+    "popularity": 3038,
+    "members": 7358,
+    "favorites": 107,
+    "synopsis": "Hitoshi Kobe is pretty dumb, not good at sports, and extremely unpopular. The only thing he IS good at really is creating artificial intelligence programs on his computer. His greatest work is number 30, one which very accurately simulates talking to an actual girl. One dark and stormy night, a freak lightning strike causes number Thirty to emerge from his computer screen as a real girl, and sends Hitoshi's life on a turn for the crazy.\n\n(Source: ANN)",
+    "background": "AI ga Tomaranai! was originally serialized in Weekly Shounen Magazine until September 7, 1994 (1994 #40). It was then moved to Magazine Special on October 20 (1994 No.11). The series was published in English as A.I Love You by Tokyopop from February 3, 2004, to April 12, 2005.",
+    "authors": [
+        {
+            "mal_id": 1883,
+            "type": "people",
+            "name": "Akamatsu, Ken",
+            "url": "https://myanimelist.net/people/1883/Ken_Akamatsu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 128,
+            "type": "manga",
+            "name": "Magazine Special",
+            "url": "https://myanimelist.net/manga/magazine/128/Magazine_Special"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 11247,
+                    "type": "manga",
+                    "name": "AI ga Tomaranai! 0→9",
+                    "url": "https://myanimelist.net/manga/11247/AI_ga_Tomaranai_0→9"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/A.I._Love_You"
+        }
+    ]
+}

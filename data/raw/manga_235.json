@@ -1,0 +1,117 @@
+{
+    "mal_id": 235,
+    "url": "https://myanimelist.net/manga/235/Aiteru_Door_kara_Shitsurei_Shimasuyo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/33046.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/33046t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/33046l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/33046.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/33046t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/33046l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Aiteru Door kara Shitsurei Shimasuyo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Into Your Heart Through the Door"
+        },
+        {
+            "type": "Synonym",
+            "title": "Story For Opening The Door"
+        },
+        {
+            "type": "Japanese",
+            "title": "開いてるドアから失礼しますよ"
+        },
+        {
+            "type": "English",
+            "title": "Open The Door Through Your Heart"
+        }
+    ],
+    "title": "Aiteru Door kara Shitsurei Shimasuyo",
+    "title_english": "Open The Door Through Your Heart",
+    "title_japanese": "開いてるドアから失礼しますよ",
+    "title_synonyms": [
+        "Into Your Heart Through the Door",
+        "Story For Opening The Door"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2003"
+    },
+    "score": 7.06,
+    "scored": 7.06,
+    "scored_by": 656,
+    "rank": null,
+    "popularity": 13821,
+    "members": 1241,
+    "favorites": 2,
+    "synopsis": "This time focusing on the two elder brothers of Kenzou Honda...\n\nShouichi Honda goes to the Asian imported product shop to collect the tax. There he happens to meet an importer, his younger brother, Junji who had run away from home. When Shouichi returns home, Junji is already there having a card game with their parents. They realize how their feelings have not changed since they made love only once 10 years ago.\n\n(Source: MU)",
+    "background": "Aireru Door kara Shitsurei Shimasuyo was published in English as Open The Door Through Your Heart by Digital Manga Publishing under the June imprint on December 30, 2010.",
+    "authors": [
+        {
+            "mal_id": 2232,
+            "type": "people",
+            "name": "Yamada, Yugi",
+            "url": "https://myanimelist.net/people/2232/Yugi_Yamada"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 234,
+                    "type": "manga",
+                    "name": "Saigo no Door wo Shimero!",
+                    "url": "https://myanimelist.net/manga/234/Saigo_no_Door_wo_Shimero"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

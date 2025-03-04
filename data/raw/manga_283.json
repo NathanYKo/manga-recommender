@@ -1,0 +1,114 @@
+{
+    "mal_id": 283,
+    "url": "https://myanimelist.net/manga/283/The_Big_O",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/220469.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/220469t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/220469l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/220469.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/220469t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/220469l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "The Big O"
+        },
+        {
+            "type": "Japanese",
+            "title": "Theビッグオー"
+        }
+    ],
+    "title": "The Big O",
+    "title_english": null,
+    "title_japanese": "Theビッグオー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 21,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-06-26T00:00:00+00:00",
+        "to": "2001-09-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 6,
+                "year": 1999
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2001
+            }
+        },
+        "string": "Jun 26, 1999 to Sep 26, 2001"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 482,
+    "rank": 8445,
+    "popularity": 10628,
+    "members": 1774,
+    "favorites": 13,
+    "synopsis": "The official comic adaptation of Bandai's Cartoon Network hit, a stylish \"manga meets film noir\" story which goes BEYOND the plot of the TV series! \n\nParadigm City is the city of amnesia—40 years ago, SOMETHING happened that wiped out the memories of the residents, forcing them to recreate their culture from scattered fragments. \n\nIn this world only 40 years old, Roger Smith is a negotiator—a go-between for police, citizens and criminals in high-risk diplomatic situations. But something else survives from the forgotten past. They are the MegaDeuses—giant robots created by the city's former inhabitants, or perhaps by the forgetful citizens themselves. When crime and madness strike, Roger Smith brings the guilty to justice with the giant robot called THE BIG O. \n\n(Source: Viz)",
+    "background": "The Big O was published in English by VIZ Media as a montly comic from March 2002 to June 2003, for a total of 17 issues. The compiled books were published from November 5, 2002 to April 7, 2004.",
+    "authors": [
+        {
+            "mal_id": 2197,
+            "type": "people",
+            "name": "Yatate, Hajime",
+            "url": "https://myanimelist.net/people/2197/Hajime_Yatate"
+        },
+        {
+            "mal_id": 2269,
+            "type": "people",
+            "name": "Ariga, Hitoshi",
+            "url": "https://myanimelist.net/people/2269/Hitoshi_Ariga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 70,
+            "type": "manga",
+            "name": "Magazine-Z",
+            "url": "https://myanimelist.net/manga/magazine/70/Magazine-Z"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 567,
+                    "type": "anime",
+                    "name": "The Big O",
+                    "url": "https://myanimelist.net/anime/567/The_Big_O"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/THE_%E3%83%93%E3%83%83%E3%82%B0%E3%82%AA%E3%83%BC"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+
+<!-- templates/profile.html -->
+{% extends 'base.html' %}
+
+{% block title %}My Profile - Manga Recommender{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-12">
+        <h1>Your Profile</h1>
+        <p class="lead">Welcome back, {{ username }}!</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <ul class="nav nav-tabs" id="profileTabs" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="ratings-tab" data-bs-toggle="tab" data-bs-target="#ratings" type="button" role="tab" aria-controls="ratings" aria-selected="true">My Ratings</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="recommendations-tab" data-bs-toggle="tab" data-bs-target="#recommendations" type="button" role="tab" aria-controls="recommendations" aria-selected="false">Recommendations</button>
+            </li>
+        </ul>
+        
+        <div class="tab-content p-4 border border-top-0 rounded-bottom" id="profileTabsContent">
+            <div class="tab-pane fade show active" id="ratings" role="tabpanel" aria-labelledby="ratings-tab">
+                {% if ratings %}
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>Manga</th>
+                                <th>Cover</th>
+                                <th>Your Rating</th>
+                                <th>Rated On</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for rating in ratings %}
+                            <tr>
+                                <td>
+                                    <a href="{{ url_for('manga_details', manga_id=rating.manga_id) }}" class="text-decoration-none">{{ rating.title }}</a>
+                                </td>
+                                <td>
+                                    <a href="{{ url_for('manga_details', manga_id=rating.manga_id) }}">
+                                        <img src="{{ rating.img_url }}" alt="{{ rating.title }}" class="img-thumbnail" style="height: 80px;" onerror="this.src='{{ url_for('static', filename='img/no-cover.jpg') }}'">
+                                    </a>
+                                </td>
+                                <td>
+                                    <span class="badge bg-primary">{{ rating.rating }}/10</span>
+                                </td>
+                                <td>{{ rating.created_at|format_date }}</td>
+                                <td>
+                                    <a href="{{ url_for('manga_details', manga_id=rating.manga_id) }}" class="btn btn-sm btn-outline-primary">
+                                        <i class="fas fa-edit"></i> Update
+                                    </a>
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                {% else %}
+                <div class="alert alert-info">
+                    <h4>No ratings yet</h4>
+                    <p>Start rating manga to get personalized recommendations!</p>
+                    <a href="{{ url_for('search') }}" class="btn btn-primary">Discover Manga</a>
+                </div>
+                {% endif %}
+            </div>
+            
+            <div class="tab-pane fade" id="recommendations" role="tabpanel" aria-labelledby="recommendations-tab">
+                {% if recommendations %}
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+                    {% for manga in recommendations %}
+                    <div class="col">
+                        <div class="card h-100">
+                            <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}">
+                                <img src="{{ manga.img_url }}" class="card-img-top" alt="{{ manga.title }}" onerror="this.src='{{ url_for('static', filename='img/no-cover.jpg') }}'">
+                            </a>
+                            <div class="card-body">
+                                <h5 class="card-title"><a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="text-decoration-none text-dark">{{ manga.title }}</a></h5>
+                                <span class="badge bg-primary">Score: {{ manga.score|round(1) }}</span>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+                {% else %}
+                <div class="alert alert-info">
+                    <h4>No recommendations yet</h4>
+                    <p>Rate more manga to get personalized recommendations!</p>
+                    <a href="{{ url_for('search') }}" class="btn btn-primary">Discover Manga</a>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+

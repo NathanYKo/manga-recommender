@@ -1,0 +1,158 @@
+{
+    "mal_id": 115,
+    "url": "https://myanimelist.net/manga/115/Erementar_Gerad__Aozora_no_Senki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/158740.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/158740t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/158740l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/158740.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/158740t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/158740l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Erementar Gerad: Aozora no Senki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Elemental Gelade: Flag of the Blue Sky"
+        },
+        {
+            "type": "Japanese",
+            "title": "EREMENTAR GERAD －蒼空の戦旗－"
+        },
+        {
+            "type": "English",
+            "title": "Erementar Gerade: Flag of Bluesky"
+        }
+    ],
+    "title": "Erementar Gerad: Aozora no Senki",
+    "title_english": "Erementar Gerade: Flag of Bluesky",
+    "title_japanese": "EREMENTAR GERAD －蒼空の戦旗－",
+    "title_synonyms": [
+        "Elemental Gelade: Flag of the Blue Sky"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2003-06-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 6,
+                "year": 2003
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 16, 2003 to ?"
+    },
+    "score": 7.06,
+    "scored": 7.06,
+    "scored_by": 518,
+    "rank": 8068,
+    "popularity": 10561,
+    "members": 1789,
+    "favorites": 13,
+    "synopsis": "The Kingdom of the Sun, Fuajarl was ruthlessly invaded by the Garden of Eden. They came seeking the King's Edel Raid, rumored to be one of the Shichikou-houju (Seven Glittering Jewels).\n\nSensing their intent, the King hid his daughter with his Edel Raid and fought against the invasion but was defeated in battle that resulted in the desert kingdom being blanketed in a sheet of white snow.\n\nEscaping capture, the Crown Princess Achea Fuajarl XIV reacted with Jeen, the King's Edel Raid, and along with Puffe, the Kingdom's only mechanic, fled Fuajarl in an ancient tank. They are on a journey to restore the Kingdom and exact vengeance on the Garden of Eden.\n\nThis story takes place two years after Erementar Gerad.\n\n(Source: MU)",
+    "background": "Erementar Gerad: Aozora no Senki has been digitally published in English as Erementar Gerade: Flag of Bluesky by Digital Manga Publishing since May 7, 2013.",
+    "authors": [
+        {
+            "mal_id": 1953,
+            "type": "people",
+            "name": "Azuma, Mayumi",
+            "url": "https://myanimelist.net/people/1953/Mayumi_Azuma"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 269,
+            "type": "manga",
+            "name": "Comic Avarus",
+            "url": "https://myanimelist.net/manga/magazine/269/Comic_Avarus"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 17693,
+                    "type": "anime",
+                    "name": "Erementar Gerad: Aozora no Senki",
+                    "url": "https://myanimelist.net/anime/17693/Erementar_Gerad__Aozora_no_Senki"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 114,
+                    "type": "manga",
+                    "name": "Erementar Gerad",
+                    "url": "https://myanimelist.net/manga/114/Erementar_Gerad"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic.mag-garden.co.jp/avarus/129.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB_%E3%82%B8%E3%82%A7%E3%83%AC%E3%82%A4%E3%83%89"
+        }
+    ]
+}

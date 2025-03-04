@@ -1,0 +1,144 @@
+{
+    "mal_id": 513,
+    "url": "https://myanimelist.net/manga/513/Samurai_Deeper_Kyou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/157961.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/157961t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/157961l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/157961.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/157961t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/157961l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Samurai Deeper Kyou"
+        },
+        {
+            "type": "Synonym",
+            "title": "SDK"
+        },
+        {
+            "type": "Japanese",
+            "title": "SAMURAI DEEPER KYO"
+        },
+        {
+            "type": "English",
+            "title": "Samurai Deeper Kyo"
+        }
+    ],
+    "title": "Samurai Deeper Kyou",
+    "title_english": "Samurai Deeper Kyo",
+    "title_japanese": "SAMURAI DEEPER KYO",
+    "title_synonyms": [
+        "SDK"
+    ],
+    "type": "Manga",
+    "chapters": 308,
+    "volumes": 38,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-05-26T00:00:00+00:00",
+        "to": "2006-05-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 1999
+            },
+            "to": {
+                "day": 10,
+                "month": 5,
+                "year": 2006
+            }
+        },
+        "string": "May 26, 1999 to May 10, 2006"
+    },
+    "score": 7.67,
+    "scored": 7.67,
+    "scored_by": 11228,
+    "rank": 1880,
+    "popularity": 740,
+    "members": 26094,
+    "favorites": 921,
+    "synopsis": "At the dawn of the 17th century, at the end of the era of civil wars, in a world of chaos, the epic Battle of Sekigahara was joined. One man emerged from the largest battle ever fought on Japanese soil; a terrible warrior of unspeakable power, he was nicknamed 'the unconquerable.'\n\nKyoshiro is a peaceful medicine peddler who harbors the soul of an assassin. He accompanies a young bounty hunter across Japan in search of a murderer and on a quest to discover the terrible secret of his own identity.\n\n(Source: Tokyopop)",
+    "background": "Tokyopop published the first 34 volumes of Samurai Deeper Kyou in English from June 10, 2003 to April 7, 2009. The remaining volumes were published in two-in-one omnibuses by Del Rey from December 15, 2009 to June 22, 2010.",
+    "authors": [
+        {
+            "mal_id": 2465,
+            "type": "people",
+            "name": "Kamijyo, Akimine",
+            "url": "https://myanimelist.net/people/2465/Akimine_Kamijyo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 419,
+                    "type": "anime",
+                    "name": "Samurai Deeper Kyou",
+                    "url": "https://myanimelist.net/anime/419/Samurai_Deeper_Kyou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/SAMURAI_DEEPER_KYO"
+        }
+    ]
+}

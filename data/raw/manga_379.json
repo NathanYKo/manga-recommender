@@ -1,0 +1,159 @@
+{
+    "mal_id": 379,
+    "url": "https://myanimelist.net/manga/379/Jiraishin",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/263862.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/263862t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/263862l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/263862.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/263862t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/263862l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Jiraishin"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ice Blade"
+        },
+        {
+            "type": "Japanese",
+            "title": "地雷震"
+        },
+        {
+            "type": "English",
+            "title": "Ice Blade"
+        }
+    ],
+    "title": "Jiraishin",
+    "title_english": "Ice Blade",
+    "title_japanese": "地雷震",
+    "title_synonyms": [
+        "Ice Blade"
+    ],
+    "type": "Manga",
+    "chapters": 72,
+    "volumes": 19,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1992-09-25T00:00:00+00:00",
+        "to": "1999-11-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 9,
+                "year": 1992
+            },
+            "to": {
+                "day": 25,
+                "month": 11,
+                "year": 1999
+            }
+        },
+        "string": "Sep 25, 1992 to Nov 25, 1999"
+    },
+    "score": 7.73,
+    "scored": 7.73,
+    "scored_by": 2490,
+    "rank": 1596,
+    "popularity": 1834,
+    "members": 11807,
+    "favorites": 163,
+    "synopsis": "Kyoya Ida is a hard-nosed detective from the Shinjuku Police precient. He is known in the force as an unreasonable type who would use lethal force to solve cases, making him unpopular with the enlisted and high-ranking officers in the National Police Agency. Despite this fact, there are some in the force that admire Ida for his bravery and cleverness in using lethal force to solve criminal cases whenever legal means are met in a dead end.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2360,
+            "type": "people",
+            "name": "Takahashi, Tsutomu",
+            "url": "https://myanimelist.net/people/2360/Tsutomu_Takahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 10444,
+                    "type": "manga",
+                    "name": "Jiraishin Diablo",
+                    "url": "https://myanimelist.net/manga/10444/Jiraishin_Diablo"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 160151,
+                    "type": "manga",
+                    "name": "Jiraishin",
+                    "url": "https://myanimelist.net/manga/160151/Jiraishin"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ice_Blade"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E9%9B%B7%E9%9C%87"
+        }
+    ]
+}

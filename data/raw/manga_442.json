@@ -1,0 +1,153 @@
+{
+    "mal_id": 442,
+    "url": "https://myanimelist.net/manga/442/Tekkon_Kinkreet",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/151420.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/151420t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/151420l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/151420.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/151420t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/151420l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tekkon Kinkreet"
+        },
+        {
+            "type": "Synonym",
+            "title": "Black and White"
+        },
+        {
+            "type": "Japanese",
+            "title": "鉄コン筋クリート"
+        },
+        {
+            "type": "English",
+            "title": "Tekkonkinkreet: Black & White"
+        }
+    ],
+    "title": "Tekkon Kinkreet",
+    "title_english": "Tekkonkinkreet: Black & White",
+    "title_japanese": "鉄コン筋クリート",
+    "title_synonyms": [
+        "Black and White"
+    ],
+    "type": "Manga",
+    "chapters": 33,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-01-01T00:00:00+00:00",
+        "to": "1994-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1994
+            }
+        },
+        "string": "1993 to 1994"
+    },
+    "score": 8.02,
+    "scored": 8.02,
+    "scored_by": 4538,
+    "rank": 724,
+    "popularity": 1253,
+    "members": 16361,
+    "favorites": 378,
+    "synopsis": "Orphaned on the mean streets of Treasure Town, lost boys Black and White must mug, steal and fight to survive. Around them moves a world of corruption and loneliness, small-time crooks and neurotic police officers, and a band of sadistic yakuza who have plans for their once-fair city. Can they rise above their environment? Surreal manga influenced by European comics.",
+    "background": "Tekkon Kinkreet was published in English as Black & White by VIZ Media from March 8, 1999, to November 20, 2000. VIZ Media republished the series as Tekkonkinkreet: Black & White in a complete omnibus volume under the VIZ Signature imprint on September 25, 2007. It was also released in Brazilian Portuguese by Conrad Editora from May 2001 to September 2001.",
+    "authors": [
+        {
+            "mal_id": 2409,
+            "type": "people",
+            "name": "Matsumoto, Taiyou",
+            "url": "https://myanimelist.net/people/2409/Taiyou_Matsumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 32247,
+                    "type": "anime",
+                    "name": "Tekkon Kinkreet Pilot",
+                    "url": "https://myanimelist.net/anime/32247/Tekkon_Kinkreet_Pilot"
+                },
+                {
+                    "mal_id": 2154,
+                    "type": "anime",
+                    "name": "Tekkon Kinkreet",
+                    "url": "https://myanimelist.net/anime/2154/Tekkon_Kinkreet"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 3824,
+                    "type": "manga",
+                    "name": "Aoi Haru",
+                    "url": "https://myanimelist.net/manga/3824/Aoi_Haru"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.viz.com/products/products.php?series_id=816"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Tekkon_Kinkreet"
+        }
+    ]
+}

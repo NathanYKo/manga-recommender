@@ -1,0 +1,125 @@
+{
+    "mal_id": 354,
+    "url": "https://myanimelist.net/manga/354/Happy_Mania",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/263715.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/263715t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/263715l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/263715.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/263715t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/263715l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Happy Mania"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハッピー・マニア"
+        },
+        {
+            "type": "English",
+            "title": "Happy Mania"
+        }
+    ],
+    "title": "Happy Mania",
+    "title_english": "Happy Mania",
+    "title_japanese": "ハッピー・マニア",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 62,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-01-01T00:00:00+00:00",
+        "to": "2001-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1996
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            }
+        },
+        "string": "1996 to 2001"
+    },
+    "score": 6.8,
+    "scored": 6.8,
+    "scored_by": 265,
+    "rank": 12175,
+    "popularity": 11919,
+    "members": 1517,
+    "favorites": 17,
+    "synopsis": "Shigeta, a young woman of 24, spends her days working at Tanaka Books and fretting over her love-life or, more accurately, the lack thereof. The thing is, though, the biggest obstacle between Shigeta and a satisfying relationship seems to be Shigeta herself. When it comes to men, the poor girl has exceedingly poor judgement, exacerbated by her even poorer self-esteem.\n\n(Source: Tokyopop)",
+    "background": "Happy Mania was published in English by Tokyopop from April 15, 2003 to December 7, 2004.",
+    "authors": [
+        {
+            "mal_id": 2340,
+            "type": "people",
+            "name": "Anno, Moyoco",
+            "url": "https://myanimelist.net/people/2340/Moyoco_Anno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 103,
+            "type": "manga",
+            "name": "Feel Young",
+            "url": "https://myanimelist.net/manga/magazine/103/Feel_Young"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 135727,
+                    "type": "manga",
+                    "name": "Go Happy Mania",
+                    "url": "https://myanimelist.net/manga/135727/Go_Happy_Mania"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "mal_id": 183,
+    "url": "https://myanimelist.net/manga/183/Zoku_Shishunki_Miman_Okotowari",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/199144.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/199144t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/199144l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/199144.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/199144t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/199144l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zoku Shishunki Miman Okotowari"
+        },
+        {
+            "type": "Synonym",
+            "title": "No Pre-teens Allowed Continuation"
+        },
+        {
+            "type": "Synonym",
+            "title": "Further Less than puberty refusal"
+        },
+        {
+            "type": "Japanese",
+            "title": "続・思春期未満お断り"
+        }
+    ],
+    "title": "Zoku Shishunki Miman Okotowari",
+    "title_english": null,
+    "title_japanese": "続・思春期未満お断り",
+    "title_synonyms": [
+        "No Pre-teens Allowed Continuation",
+        "Further Less than puberty refusal"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1992-01-14T00:00:00+00:00",
+        "to": "1994-01-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 1,
+                "year": 1992
+            },
+            "to": {
+                "day": 14,
+                "month": 1,
+                "year": 1994
+            }
+        },
+        "string": "Jan 14, 1992 to Jan 14, 1994"
+    },
+    "score": 6.92,
+    "scored": 6.92,
+    "scored_by": 222,
+    "rank": 10242,
+    "popularity": 20251,
+    "members": 691,
+    "favorites": 1,
+    "synopsis": "Asuka, who lived in Hokkaido with her mother, moves to Tokyo to look for her father she has never even met before. When she gets to his house, he is not there, only his children who claim they have never met their father either. Asuka decides to stay with her \"brother\" and \"sister\" while she looks for their father. Her two \"siblings\" are living alone and things sorta complicate when Asuka and her \"brother\" start to fall for each other...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1930,
+            "type": "people",
+            "name": "Watase, Yuu",
+            "url": "https://myanimelist.net/people/1930/Yuu_Watase"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 211,
+            "type": "manga",
+            "name": "Sho-Comi Zoukan",
+            "url": "https://myanimelist.net/manga/magazine/211/Sho-Comi_Zoukan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 184,
+                    "type": "manga",
+                    "name": "Shishunki Miman Okotowari",
+                    "url": "https://myanimelist.net/manga/184/Shishunki_Miman_Okotowari"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 185,
+                    "type": "manga",
+                    "name": "Shishunki Miman Okotowari Kanketsuhen",
+                    "url": "https://myanimelist.net/manga/185/Shishunki_Miman_Okotowari_Kanketsuhen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%80%9D%E6%98%A5%E6%9C%9F%E6%9C%AA%E6%BA%80%E3%81%8A%E6%96%AD%E3%82%8A"
+        }
+    ]
+}

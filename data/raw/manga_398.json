@@ -1,0 +1,174 @@
+{
+    "mal_id": 398,
+    "url": "https://myanimelist.net/manga/398/Kingdom_Hearts_II",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/153894.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/153894t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/153894l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/153894.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/153894t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/153894l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kingdom Hearts II"
+        },
+        {
+            "type": "Japanese",
+            "title": "キングダムハーツⅡ"
+        },
+        {
+            "type": "English",
+            "title": "Kingdom Hearts II"
+        }
+    ],
+    "title": "Kingdom Hearts II",
+    "title_english": "Kingdom Hearts II",
+    "title_japanese": "キングダムハーツⅡ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 69,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-05-12T00:00:00+00:00",
+        "to": "2015-08-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 5,
+                "year": 2006
+            },
+            "to": {
+                "day": 12,
+                "month": 8,
+                "year": 2015
+            }
+        },
+        "string": "May 12, 2006 to Aug 12, 2015"
+    },
+    "score": 7.78,
+    "scored": 7.78,
+    "scored_by": 6016,
+    "rank": 1406,
+    "popularity": 1509,
+    "members": 14072,
+    "favorites": 490,
+    "synopsis": "In the quiet little hamlet of Twilight Town, there lives a boy named Roxas. He and his friends Hayner, Pence and Olette are trying to enjoy their final days of summer vacation, when strange things begin to happen. First the group is falsely accused of stealing photos from all over town. Then they are attacked by bizarre, white creatures. But the oddest occurrences are the recurring dreams Roxas has of a boy named Sora, and the presence of a girl named Naminé, who has a mysterious secret to share with Roxas.\n\n(Source: Tokyopop)",
+    "background": "Kingdom Hearts II is based on Square Enix's PlayStation 2 video game of the same title. The series began serialization in Shounen Gangan on May 12, 2006, and continued until June 12, 2009, after which it was put on hiatus. Shiro Amano then serialized Kingdom Hearts: 358/2 Days in the same magazine from issues 2009-09 to 2012-09. Kingdom Hearts II resumed serialization in Shounen Gangan on October 12, 2012, and ended on May 12, 2015. A special chapter was later published on August 12, 2015. Tokyopop published the first two volumes in English from July 31, 2007, to May 13, 2008, before release was discontinued. Yen Press republished the series in four omnibus volumes from July 30, 2013, to May 30, 2017. In November 2015, Shiro Amano stated that Kingdom Hearts II would be his last manga adaptation of the series. However, he later launched his adaptation of Kingdom Hearts III in 2019.",
+    "authors": [
+        {
+            "mal_id": 2371,
+            "type": "people",
+            "name": "Amano, Shiro",
+            "url": "https://myanimelist.net/people/2371/Shiro_Amano"
+        },
+        {
+            "mal_id": 2372,
+            "type": "people",
+            "name": "Nomura, Tetsuya",
+            "url": "https://myanimelist.net/people/2372/Tetsuya_Nomura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Shounen Gangan",
+            "url": "https://myanimelist.net/manga/magazine/13/Shounen_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 397,
+                    "type": "manga",
+                    "name": "Kingdom Hearts: Chain of Memories",
+                    "url": "https://myanimelist.net/manga/397/Kingdom_Hearts__Chain_of_Memories"
+                },
+                {
+                    "mal_id": 15104,
+                    "type": "manga",
+                    "name": "Kingdom Hearts: 358/2 Days",
+                    "url": "https://myanimelist.net/manga/15104/Kingdom_Hearts__358_2_Days"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 90289,
+                    "type": "manga",
+                    "name": "Kingdom Hearts Re:coded",
+                    "url": "https://myanimelist.net/manga/90289/Kingdom_Hearts_Re_coded"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 22829,
+                    "type": "manga",
+                    "name": "Kingdom Hearts Another Report",
+                    "url": "https://myanimelist.net/manga/22829/Kingdom_Hearts_Another_Report"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 90288,
+                    "type": "manga",
+                    "name": "Kingdom Hearts II",
+                    "url": "https://myanimelist.net/manga/90288/Kingdom_Hearts_II"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84II"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_II"
+        }
+    ]
+}

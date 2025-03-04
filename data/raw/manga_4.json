@@ -1,0 +1,179 @@
+{
+    "mal_id": 4,
+    "url": "https://myanimelist.net/manga/4/Yokohama_Kaidashi_Kikou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/171813.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/171813t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/171813l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/171813.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/171813t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/171813l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yokohama Kaidashi Kikou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yokohama Shopping Log"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yokohama Shopping Trip"
+        },
+        {
+            "type": "Synonym",
+            "title": "Touge"
+        },
+        {
+            "type": "Japanese",
+            "title": "ヨコハマ買い出し紀行"
+        },
+        {
+            "type": "English",
+            "title": "Yokohama Kaidashi Kikou"
+        },
+        {
+            "type": "French",
+            "title": "Escale à Yokohama"
+        }
+    ],
+    "title": "Yokohama Kaidashi Kikou",
+    "title_english": "Yokohama Kaidashi Kikou",
+    "title_japanese": "ヨコハマ買い出し紀行",
+    "title_synonyms": [
+        "Yokohama Shopping Log",
+        "Yokohama Shopping Trip",
+        "Touge"
+    ],
+    "type": "Manga",
+    "chapters": 142,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1994-04-25T00:00:00+00:00",
+        "to": "2006-02-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 1994
+            },
+            "to": {
+                "day": 25,
+                "month": 2,
+                "year": 2006
+            }
+        },
+        "string": "Apr 25, 1994 to Feb 25, 2006"
+    },
+    "score": 8.65,
+    "scored": 8.65,
+    "scored_by": 19942,
+    "rank": 74,
+    "popularity": 207,
+    "members": 78800,
+    "favorites": 5318,
+    "synopsis": "In a post-apocalyptic world where an environmental disaster led to the eruption of Mt. Fuji and the inundation of Yokohama, the age of humans is in its twilight. Alpha Hatsuseno is an android and the namesake of a small cafe outside Yokohama. As her owner is away on a trip indefinitely, she has been left responsible for running the cafe. Although she rarely gets any customers, Alpha remains outgoing and cheerful.\n\nWhile Alpha awaits her owner's homecoming, she explores the vicinity with her scooter and camera. Throughout her journeys, she meets new people and other androids, making memories along the way.\n\nYokohama Kaidashi Kikou is a beautiful, laid-back story centered around Alpha's daily activities, emphasizing the passing of time in everyday life.\n\n[Written by MAL Rewrite]",
+    "background": "Yokohama Kaidashi Kikou won the Seiun Award for Best Manga in 2007. Three drama CDs were released in 2002. In all three, Alpha is voiced by Hekiru Shiina and Kokone by Akiko Nakagawa, both of whom voiced the same characters in the two OVA series. The series was published in English by Seven Seas Entertainment in five omnibus volumes from August 9, 2022, to August 6, 2024.",
+    "authors": [
+        {
+            "mal_id": 1869,
+            "type": "people",
+            "name": "Ashinano, Hitoshi",
+            "url": "https://myanimelist.net/people/1869/Hitoshi_Ashinano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 975,
+                    "type": "anime",
+                    "name": "Yokohama Kaidashi Kikou",
+                    "url": "https://myanimelist.net/anime/975/Yokohama_Kaidashi_Kikou"
+                },
+                {
+                    "mal_id": 976,
+                    "type": "anime",
+                    "name": "Yokohama Kaidashi Kikou: Quiet Country Cafe",
+                    "url": "https://myanimelist.net/anime/976/Yokohama_Kaidashi_Kikou__Quiet_Country_Cafe"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 165348,
+                    "type": "manga",
+                    "name": "Shousetsu Yokohama Kaidashi Kikou: Mite, Aruki, Yorokobu Mono",
+                    "url": "https://myanimelist.net/manga/165348/Shousetsu_Yokohama_Kaidashi_Kikou__Mite_Aruki_Yorokobu_Mono"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B3%E3%83%8F%E3%83%9E%E8%B2%B7%E3%81%84%E5%87%BA%E3%81%97%E7%B4%80%E8%A1%8C"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Yokohama_Kaidashi_Kik%C5%8D"
+        }
+    ]
+}

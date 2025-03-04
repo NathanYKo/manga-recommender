@@ -1,0 +1,160 @@
+{
+    "mal_id": 436,
+    "url": "https://myanimelist.net/manga/436/Uzumaki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/185972.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/185972t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/185972l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/185972.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/185972t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/185972l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Uzumaki"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Spiral"
+        },
+        {
+            "type": "Japanese",
+            "title": "うずまき"
+        },
+        {
+            "type": "English",
+            "title": "Uzumaki: Spiral into Horror"
+        },
+        {
+            "type": "German",
+            "title": "Uzumaki. Spiral Into Horror"
+        },
+        {
+            "type": "Spanish",
+            "title": "Uzumaki: Espiral"
+        },
+        {
+            "type": "French",
+            "title": "Spirale"
+        }
+    ],
+    "title": "Uzumaki",
+    "title_english": "Uzumaki: Spiral into Horror",
+    "title_japanese": "うずまき",
+    "title_synonyms": [
+        "The Spiral"
+    ],
+    "type": "Manga",
+    "chapters": 19,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-01-12T00:00:00+00:00",
+        "to": "1999-08-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 1,
+                "year": 1998
+            },
+            "to": {
+                "day": 30,
+                "month": 8,
+                "year": 1999
+            }
+        },
+        "string": "Jan 12, 1998 to Aug 30, 1999"
+    },
+    "score": 8.16,
+    "scored": 8.16,
+    "scored_by": 135321,
+    "rank": 486,
+    "popularity": 32,
+    "members": 239800,
+    "favorites": 15353,
+    "synopsis": "In the town of Kurouzu-cho, Kirie Goshima lives a fairly normal life with her family. As she walks to the train station one day to meet her boyfriend, Shuuichi Saito, she sees his father staring at a snail shell in an alley. Thinking nothing of it, she mentions the incident to Shuuichi, who says that his father has been acting weird lately. Shuuichi reveals his rising desire to leave the town with Kirie, saying that the town is infected with spirals.\n\nBut his father's obsession with the shape soon proves deadly, beginning a chain of horrific and unexplainable events that causes the residents of Kurouzu-cho to spiral into madness.\n\n[Written by MAL Rewrite]",
+    "background": "Uzumaki was chosen by the American Library Association (ALA) as one of the Top Ten Great Graphic Novels for Teens in 2009. The series was published in English as Uzumaki: Spiral into Horror by VIZ Media under the VIZ Signature imprint from October 16, 2007, to February 19, 2008, and as a hardcover 3-in-1 omnibus on October 15, 2013. It was also published in Polish by Japonica Polonica Fantastica in May 2011; in Czech by Zoner Press; in Spanish by Planeta Cómic; and in Brazilian Portuguese by Conrad Editora from July 2006 to October 2006.",
+    "authors": [
+        {
+            "mal_id": 2410,
+            "type": "people",
+            "name": "Itou, Junji",
+            "url": "https://myanimelist.net/people/2410/Junji_Itou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 40333,
+                    "type": "anime",
+                    "name": "Uzumaki",
+                    "url": "https://myanimelist.net/anime/40333/Uzumaki"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 119534,
+                    "type": "manga",
+                    "name": "Uzumaki Tokubetsu-hen: Ginga",
+                    "url": "https://myanimelist.net/manga/119534/Uzumaki_Tokubetsu-hen__Ginga"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%9A%E3%81%BE%E3%81%8D_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

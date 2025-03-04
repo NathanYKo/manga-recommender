@@ -1,0 +1,112 @@
+{
+    "mal_id": 266,
+    "url": "https://myanimelist.net/manga/266/Star",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/168484.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/168484t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/168484l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/168484.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/168484t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/168484l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Star"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimi no Na wa Star"
+        },
+        {
+            "type": "Synonym",
+            "title": "Your name is Star"
+        },
+        {
+            "type": "Japanese",
+            "title": "君の名はスター"
+        }
+    ],
+    "title": "Star",
+    "title_english": null,
+    "title_japanese": "君の名はスター",
+    "title_synonyms": [
+        "Kimi no Na wa Star",
+        "Your name is Star"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-08-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 8,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 21, 2004"
+    },
+    "score": 6.84,
+    "scored": 6.84,
+    "scored_by": 219,
+    "rank": null,
+    "popularity": 25906,
+    "members": 441,
+    "favorites": 1,
+    "synopsis": "Hoshimi Sudou is known as a lady-killer at the office. But Sodou leads a double life - lady-killer office man by day, awkward yet charming singer in an amateur band at night. His co-worker Hirokawa stumbles upon Sodou late one night on the street and is taken by his true face. At work Hirokawa finds himself becoming more and more attracted to Soudou and sets out to seduce him. (Source: DMP)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2215,
+            "type": "people",
+            "name": "Konno, Keiko",
+            "url": "https://myanimelist.net/people/2215/Keiko_Konno"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.dmpbooks.com/titles?n=100"
+        }
+    ]
+}

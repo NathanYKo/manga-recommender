@@ -1,0 +1,131 @@
+{
+    "mal_id": 502,
+    "url": "https://myanimelist.net/manga/502/Rose_Hip_Rose",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/177185.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/177185t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/177185l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/177185.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/177185t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/177185l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rose Hip Rose"
+        },
+        {
+            "type": "Synonym",
+            "title": "Magnum Rose Hip"
+        },
+        {
+            "type": "Japanese",
+            "title": "Rose Hip Rose"
+        },
+        {
+            "type": "English",
+            "title": "Rose Hip Rose"
+        }
+    ],
+    "title": "Rose Hip Rose",
+    "title_english": "Rose Hip Rose",
+    "title_japanese": "Rose Hip Rose",
+    "title_synonyms": [
+        "Magnum Rose Hip"
+    ],
+    "type": "Manga",
+    "chapters": 22,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-11-05T00:00:00+00:00",
+        "to": "2006-06-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 11,
+                "year": 2002
+            },
+            "to": {
+                "day": 14,
+                "month": 6,
+                "year": 2006
+            }
+        },
+        "string": "Nov 5, 2002 to Jun 14, 2006"
+    },
+    "score": 6.79,
+    "scored": 6.79,
+    "scored_by": 1207,
+    "rank": 12316,
+    "popularity": 7596,
+    "members": 2712,
+    "favorites": 24,
+    "synopsis": "Seventeen-year-old Kasumi Asakura may be many things—high school student, next-door neighbor, police assault squad ace—but she's not going to stand still and let anyone take a picture up her skirt, as Shohei Aiba learns firsthand when he tries it on the subway. When he attempts to find out more about this mystery girl, he gets caught up in her search for the serial killer nicknamed the Shepherd—who enjoys carving his initials into young women's mutilated bodies! Asakura's back for more in this action-packed shonen sequel to Rose Hip Zero!\n\n(Source: Tokyopop)\n\nIncluded one-shot:\nVolume 4: Rose Hip Rose (pilot)",
+    "background": "Rose Hip Rose was published in English by Tokyopop from March 12, 2008 to February 1, 2009.",
+    "authors": [
+        {
+            "mal_id": 2318,
+            "type": "people",
+            "name": "Fujisawa, Tooru",
+            "url": "https://myanimelist.net/people/2318/Tooru_Fujisawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 120,
+            "type": "manga",
+            "name": "Young Magazine Uppers",
+            "url": "https://myanimelist.net/manga/magazine/120/Young_Magazine_Uppers"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 503,
+                    "type": "manga",
+                    "name": "Rose Hip Zero",
+                    "url": "https://myanimelist.net/manga/503/Rose_Hip_Zero"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Rose_Hip_Rose"
+        }
+    ]
+}

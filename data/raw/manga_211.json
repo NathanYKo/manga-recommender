@@ -1,0 +1,136 @@
+{
+    "mal_id": 211,
+    "url": "https://myanimelist.net/manga/211/Kurumi_no_Naka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6148.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6148t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6148l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6148.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6148t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6148l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kurumi no Naka"
+        },
+        {
+            "type": "Synonym",
+            "title": "In the Box"
+        },
+        {
+            "type": "Synonym",
+            "title": "Reflection of de Chirico"
+        },
+        {
+            "type": "Japanese",
+            "title": "胡桃の中"
+        },
+        {
+            "type": "English",
+            "title": "In the Walnut"
+        }
+    ],
+    "title": "Kurumi no Naka",
+    "title_english": "In the Walnut",
+    "title_japanese": "胡桃の中",
+    "title_synonyms": [
+        "In the Box",
+        "Reflection of de Chirico"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-08-05T00:00:00+00:00",
+        "to": "2010-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 8,
+                "year": 2002
+            },
+            "to": {
+                "day": 9,
+                "month": 10,
+                "year": 2010
+            }
+        },
+        "string": "Aug 5, 2002 to Oct 9, 2010"
+    },
+    "score": 6.97,
+    "scored": 6.97,
+    "scored_by": 231,
+    "rank": null,
+    "popularity": 20682,
+    "members": 666,
+    "favorites": 0,
+    "synopsis": "This is the story of Nakai, a filmmaking apprentice, and Tanizaki, the owner of the art gallery In the Walnut. The two of them have been friendly since their days studying art at university, and now their friendship is giving way to a burgeoning relationship. It's hard to get a grip on ordinary Tanizaki, and in reality there's another side to him—a con man side…! Touko Kawai provides a prescription for love in her latest popular series!\n\n(Source: Juné Manga)",
+    "background": "Kurumi no Naka was published in English as In the Walnut by Juné Manga.",
+    "authors": [
+        {
+            "mal_id": 2218,
+            "type": "people",
+            "name": "Kawai, Touko",
+            "url": "https://myanimelist.net/people/2218/Touko_Kawai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 447,
+            "type": "manga",
+            "name": "Kurofune Zero",
+            "url": "https://myanimelist.net/manga/magazine/447/Kurofune_Zero"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 263,
+                    "type": "manga",
+                    "name": "Keijijou na Bokura",
+                    "url": "https://myanimelist.net/manga/263/Keijijou_na_Bokura"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

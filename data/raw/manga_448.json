@@ -1,0 +1,143 @@
+{
+    "mal_id": 448,
+    "url": "https://myanimelist.net/manga/448/Tenshi_Kinryouku",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/262086.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/262086t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/262086l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/262086.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/262086t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/262086l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tenshi Kinryouku"
+        },
+        {
+            "type": "Japanese",
+            "title": "天使禁猟区"
+        },
+        {
+            "type": "English",
+            "title": "Angel Sanctuary"
+        }
+    ],
+    "title": "Tenshi Kinryouku",
+    "title_english": "Angel Sanctuary",
+    "title_japanese": "天使禁猟区",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 120,
+    "volumes": 20,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1994-07-05T00:00:00+00:00",
+        "to": "2000-10-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 1994
+            },
+            "to": {
+                "day": 20,
+                "month": 10,
+                "year": 2000
+            }
+        },
+        "string": "Jul 5, 1994 to Oct 20, 2000"
+    },
+    "score": 7.89,
+    "scored": 7.89,
+    "scored_by": 10239,
+    "rank": 1025,
+    "popularity": 710,
+    "members": 27012,
+    "favorites": 1587,
+    "synopsis": "The angel Alexiel loved God, but she rebelled against Heaven when she saw how disgracefully the other angels were behaving. She was finally captured, and as punishment sent to Earth to live an endless series of tragic lives. She now inhabits the body of Setsuna Mudo, a troubled teen in love with his sister Sara. Setsuna's misery mirrors the chaos among the angels, and their combined passions threaten to destroy both Heaven and Earth.",
+    "background": "Tenshi Kinryouku was published in English as Angel Sanctuary by VIZ Media under the Shojo Beat imprint from February 25, 2004, to June 12, 2007. It was also published in German by Carlsen, in French by Editions Tonkam, in Italian by Planet Manga, in Polish by Japonica Polonica Fantastica, in Brazilian Portuguese by Panini Comics, and in Spanish by Mangaline Ediciones.",
+    "authors": [
+        {
+            "mal_id": 2039,
+            "type": "people",
+            "name": "Yuki, Kaori",
+            "url": "https://myanimelist.net/people/2039/Kaori_Yuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/21/Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 73,
+            "type": "manga",
+            "name": "Reincarnation",
+            "url": "https://myanimelist.net/manga/genre/73/Reincarnation"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 151130,
+                    "type": "manga",
+                    "name": "Tenshi Kinryouku: Tokyo Chronos",
+                    "url": "https://myanimelist.net/manga/151130/Tenshi_Kinryouku__Tokyo_Chronos"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 51,
+                    "type": "anime",
+                    "name": "Tenshi Kinryouku",
+                    "url": "https://myanimelist.net/anime/51/Tenshi_Kinryouku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%A4%A9%E4%BD%BF%E7%A6%81%E7%8C%9F%E5%8C%BA"
+        }
+    ]
+}

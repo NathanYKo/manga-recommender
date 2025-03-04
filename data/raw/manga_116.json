@@ -1,0 +1,159 @@
+{
+    "mal_id": 116,
+    "url": "https://myanimelist.net/manga/116/hack__GU_",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/126081.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/126081t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/126081l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/126081.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/126081t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/126081l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": ".hack//G.U.+"
+        },
+        {
+            "type": "Synonym",
+            "title": ".hack//GU+"
+        },
+        {
+            "type": "Synonym",
+            "title": "dot hack slash slash GU plus"
+        },
+        {
+            "type": "Japanese",
+            "title": ".hack//G.U.+"
+        },
+        {
+            "type": "English",
+            "title": ".hack//G.U.+"
+        }
+    ],
+    "title": ".hack//G.U.+",
+    "title_english": ".hack//G.U.+",
+    "title_japanese": ".hack//G.U.+",
+    "title_synonyms": [
+        ".hack//GU+",
+        "dot hack slash slash GU plus"
+    ],
+    "type": "Manga",
+    "chapters": 26,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-01-01T00:00:00+00:00",
+        "to": "2009-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            }
+        },
+        "string": "2006 to 2009"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 2567,
+    "rank": 4982,
+    "popularity": 3995,
+    "members": 5611,
+    "favorites": 106,
+    "synopsis": "It is the year 2017, and the stakes have gotten even higher in the massively multiplayer online game The World--now The World R:2, a dangerous place overrun by player killers, where lawlessness abounds. The PKK Haseo, known as \"The Terror of Death,\" is a fearsome foe who punishes those who want to slay other players. But things have gotten personal as Haseo tries to track down the killer Tri-Edge, who has threatened the real life of his friend Shino...\n\n(Source: Tokyopop)",
+    "background": ".hack//G.U.+ was published in English by Tokyopop from February 12, 2008 to September 1, 2009.",
+    "authors": [
+        {
+            "mal_id": 1955,
+            "type": "people",
+            "name": "Hamazaki, Tatsuya",
+            "url": "https://myanimelist.net/people/1955/Tatsuya_Hamazaki"
+        },
+        {
+            "mal_id": 6294,
+            "type": "people",
+            "name": "Morita, Yuzuka",
+            "url": "https://myanimelist.net/people/6294/Yuzuka_Morita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": ".hack//G.U. The World",
+            "url": "https://myanimelist.net/manga/magazine/37/hack__GU_The_World"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 80,
+            "type": "manga",
+            "name": "Video Game",
+            "url": "https://myanimelist.net/manga/genre/80/Video_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1355,
+                    "type": "manga",
+                    "name": ".hack//Another Birth",
+                    "url": "https://myanimelist.net/manga/1355/hack__Another_Birth"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 1819,
+                    "type": "manga",
+                    "name": ".hack//Alcor: Hagun no Jokyoku",
+                    "url": "https://myanimelist.net/manga/1819/hack__Alcor__Hagun_no_Jokyoku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/.hack//G.U."
+        }
+    ]
+}

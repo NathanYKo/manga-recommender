@@ -1,0 +1,155 @@
+{
+    "mal_id": 89,
+    "url": "https://myanimelist.net/manga/89/Gals",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/267912.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/267912t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/267912l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/267912.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/267912t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/267912l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gals!"
+        },
+        {
+            "type": "Japanese",
+            "title": "GALS！"
+        },
+        {
+            "type": "English",
+            "title": "GALS!"
+        }
+    ],
+    "title": "Gals!",
+    "title_english": "GALS!",
+    "title_japanese": "GALS！",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 40,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-08-01T00:00:00+00:00",
+        "to": "2002-07-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 1999
+            },
+            "to": {
+                "day": 15,
+                "month": 7,
+                "year": 2002
+            }
+        },
+        "string": "Aug 1999 to Jul 15, 2002"
+    },
+    "score": 7.41,
+    "scored": 7.41,
+    "scored_by": 1713,
+    "rank": 3749,
+    "popularity": 5137,
+    "members": 4233,
+    "favorites": 129,
+    "synopsis": "Self-styled Kogal queen Kotobuki Ran and her friends just wanna have fun, which includes shopping, hanging out, and scamming meals off gullible guys. Unfortunately, their \"hood\"—Shibuya—is in constant danger of being despoiled by dirty old men, street gangs, nasty Kogal rivals, and other societal evils. But with a little help from her friends and a toughness born of coming from a family full of cops, Ran takes on the bad guys (and gals) with gusto!\n\n(Source: CMX)",
+    "background": "Gals! was published in English by CMX Manga from April 1, 2005 to April 25, 2007.",
+    "authors": [
+        {
+            "mal_id": 1943,
+            "type": "people",
+            "name": "Fujii, Mihona",
+            "url": "https://myanimelist.net/people/1943/Mihona_Fujii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ribon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 129427,
+                    "type": "manga",
+                    "name": "Gals‼︎",
+                    "url": "https://myanimelist.net/manga/129427/Gals‼︎"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1728,
+                    "type": "anime",
+                    "name": "Super GALS! Kotobuki Ran",
+                    "url": "https://myanimelist.net/anime/1728/Super_GALS_Kotobuki_Ran"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/GALS!"
+        }
+    ]
+}

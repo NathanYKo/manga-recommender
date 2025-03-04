@@ -1,0 +1,148 @@
+{
+    "mal_id": 263,
+    "url": "https://myanimelist.net/manga/263/Keijijou_na_Bokura",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/31099.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/31099t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/31099l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/31099.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/31099t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/31099l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Keijijou na Bokura"
+        },
+        {
+            "type": "Synonym",
+            "title": "Keijijyou na Bokura"
+        },
+        {
+            "type": "Synonym",
+            "title": "Utakata no Hibi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ephemeral Days"
+        },
+        {
+            "type": "Synonym",
+            "title": "Beautiful World"
+        },
+        {
+            "type": "Japanese",
+            "title": "形而上なぼくら"
+        },
+        {
+            "type": "English",
+            "title": "Our Everlasting"
+        }
+    ],
+    "title": "Keijijou na Bokura",
+    "title_english": "Our Everlasting",
+    "title_japanese": "形而上なぼくら",
+    "title_synonyms": [
+        "Keijijyou na Bokura",
+        "Utakata no Hibi",
+        "Ephemeral Days",
+        "Beautiful World"
+    ],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-03-01T00:00:00+00:00",
+        "to": "2001-03-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 3,
+                "year": 2000
+            },
+            "to": {
+                "day": 1,
+                "month": 3,
+                "year": 2001
+            }
+        },
+        "string": "Mar 2000 to Mar 2001"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 764,
+    "rank": null,
+    "popularity": 12280,
+    "members": 1461,
+    "favorites": 3,
+    "synopsis": "For beach bum Horyu, it’s more than the surf that’s up. He has just confessed his undying love to the timid and quiet Shouin. Though Shouin feels the same, he is reluctant to return Horyu’s affections. Unknown to Horyu, Shouin already had his heart broken and is – as the saying goes – once bitten, twice shy. It looks like Horyu will wipe out on this one, unless he can convince Shouin that he won’t ever go through the same heartache twice.\n\n(Source: Juné Manga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2218,
+            "type": "people",
+            "name": "Kawai, Touko",
+            "url": "https://myanimelist.net/people/2218/Touko_Kawai"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 211,
+                    "type": "manga",
+                    "name": "Kurumi no Naka",
+                    "url": "https://myanimelist.net/manga/211/Kurumi_no_Naka"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.junemanga.com/books/254/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Our_Everlasting"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "mal_id": 467,
+    "url": "https://myanimelist.net/manga/467/Sono_Te_Wo_Dokero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/178498.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/178498t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/178498l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/178498.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/178498t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/178498l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sono Te Wo Dokero"
+        },
+        {
+            "type": "Synonym",
+            "title": "Off Your Hand!"
+        },
+        {
+            "type": "Japanese",
+            "title": "その手をどけろ"
+        },
+        {
+            "type": "English",
+            "title": "Hands Off!"
+        }
+    ],
+    "title": "Sono Te Wo Dokero",
+    "title_english": "Hands Off!",
+    "title_japanese": "その手をどけろ",
+    "title_synonyms": [
+        "Off Your Hand!"
+    ],
+    "type": "Manga",
+    "chapters": 28,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-01-01T00:00:00+00:00",
+        "to": "2001-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            }
+        },
+        "string": "1998 to 2001"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 778,
+    "rank": 4208,
+    "popularity": 11340,
+    "members": 1625,
+    "favorites": 34,
+    "synopsis": "Kotarou Oohira is a boy with the clueless touch--he has an unusual type of ESP that is transmitted via physical contact. When he accidentally gives his cousin Tatsuki the \"gift\", he comes to realize that there is much more to his powers than he ever imagined!\n\n(Source: Tokyopop)",
+    "background": "Sono Te Wo Dokero was published in English as Hands Off! by Tokyopop from October 12, 2004 to January 9, 2007, and by VIZ Media under the VIZ Select imprint from December 30, 2014 to July 28, 2015.",
+    "authors": [
+        {
+            "mal_id": 2286,
+            "type": "people",
+            "name": "Katsumoto, Kasane",
+            "url": "https://myanimelist.net/people/2286/Kasane_Katsumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Asuka",
+            "url": "https://myanimelist.net/manga/magazine/14/Asuka"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 300,
+                    "type": "manga",
+                    "name": "Hands Off!: Don't Call Us Angels",
+                    "url": "https://myanimelist.net/manga/300/Hands_Off__Dont_Call_Us_Angels"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

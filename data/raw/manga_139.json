@@ -1,0 +1,124 @@
+{
+    "mal_id": 139,
+    "url": "https://myanimelist.net/manga/139/Ba_ku",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/160715.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/160715t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/160715l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/160715.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/160715t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/160715l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ba_ku"
+        },
+        {
+            "type": "Synonym",
+            "title": "Baku"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mephisto"
+        },
+        {
+            "type": "Japanese",
+            "title": "ばく"
+        },
+        {
+            "type": "English",
+            "title": "Ba_ku"
+        }
+    ],
+    "title": "Ba_ku",
+    "title_english": "Ba_ku",
+    "title_japanese": "ばく",
+    "title_synonyms": [
+        "Baku",
+        "Mephisto"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-05-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 5,
+                "year": 2003
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 2003"
+    },
+    "score": 6.92,
+    "scored": 6.92,
+    "scored_by": 502,
+    "rank": 10241,
+    "popularity": 15976,
+    "members": 1005,
+    "favorites": 4,
+    "synopsis": "1-3. Ba_ku\n4-5. Mephisto",
+    "background": "Ba_ku was published in English as Baku by Tokyopop on October 9, 2007.",
+    "authors": [
+        {
+            "mal_id": 1969,
+            "type": "people",
+            "name": "Hakase, Mizuki",
+            "url": "https://myanimelist.net/people/1969/Mizuki_Hakase"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Wings",
+            "url": "https://myanimelist.net/manga/magazine/45/Wings"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Baku_%28manga%29"
+        }
+    ]
+}

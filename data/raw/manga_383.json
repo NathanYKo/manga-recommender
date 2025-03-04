@@ -1,0 +1,106 @@
+{
+    "mal_id": 383,
+    "url": "https://myanimelist.net/manga/383/Kamen_Tantei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180641.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180641t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180641l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180641.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180641t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180641l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kamen Tantei"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Masked Detective"
+        },
+        {
+            "type": "Japanese",
+            "title": "仮面探偵"
+        },
+        {
+            "type": "English",
+            "title": "Kamen Tantei"
+        }
+    ],
+    "title": "Kamen Tantei",
+    "title_english": "Kamen Tantei",
+    "title_japanese": "仮面探偵",
+    "title_synonyms": [
+        "The Masked Detective"
+    ],
+    "type": "Manga",
+    "chapters": 19,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-01-01T00:00:00+00:00",
+        "to": "2000-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            }
+        },
+        "string": "1999 to 2000"
+    },
+    "score": 6.84,
+    "scored": 6.84,
+    "scored_by": 133,
+    "rank": 11414,
+    "popularity": 26865,
+    "members": 410,
+    "favorites": 2,
+    "synopsis": "A pair of young aspiring mystery writers have weird incidents happen around them that need solving. Luckily for them, the Masked Detective inexplicably always shows up to help.\n\n(Source: Tokyopop)",
+    "background": "Kamen Tantei was published in English by Tokyopop from September 12, 2006 to September 11, 2007.",
+    "authors": [
+        {
+            "mal_id": 1959,
+            "type": "people",
+            "name": "Akino, Matsuri",
+            "url": "https://myanimelist.net/people/1959/Matsuri_Akino"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

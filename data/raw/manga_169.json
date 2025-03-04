@@ -1,0 +1,149 @@
+{
+    "mal_id": 169,
+    "url": "https://myanimelist.net/manga/169/Comic_Party",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/755.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/755t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/755l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/755.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/755t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/755l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Comic Party"
+        },
+        {
+            "type": "Japanese",
+            "title": "こみっくパーティー"
+        },
+        {
+            "type": "English",
+            "title": "Comic Party"
+        }
+    ],
+    "title": "Comic Party",
+    "title_english": "Comic Party",
+    "title_japanese": "こみっくパーティー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 49,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-01T00:00:00+00:00",
+        "to": "2005-03-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": 1,
+                "month": 3,
+                "year": 2005
+            }
+        },
+        "string": "Jan 2001 to Mar 2005"
+    },
+    "score": 6.85,
+    "scored": 6.85,
+    "scored_by": 1008,
+    "rank": 11313,
+    "popularity": 8641,
+    "members": 2317,
+    "favorites": 30,
+    "synopsis": "The plot centers on Kazuki Sendo, whose passion and talent for painting and drawing propels him into the world of doujinshi (underground comics). Soon, Kazuki's everyday life is consumed by the fanboy life and his girlfriend is beginning to have some serious doubts about him... Sure, his new career as a struggling artist has begun, but at what cost to his friends and family? (Source: Tokyopop)",
+    "background": "Comic Party was published in English by Tokyopop from June 8, 2004 to January 10, 2006.",
+    "authors": [
+        {
+            "mal_id": 2192,
+            "type": "people",
+            "name": "Inui, Sekihiko",
+            "url": "https://myanimelist.net/people/2192/Sekihiko_Inui"
+        },
+        {
+            "mal_id": 2193,
+            "type": "people",
+            "name": "Aquaplus",
+            "url": "https://myanimelist.net/people/2193/Aquaplus"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 70,
+            "type": "manga",
+            "name": "Otaku Culture",
+            "url": "https://myanimelist.net/manga/genre/70/Otaku_Culture"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 289,
+                    "type": "anime",
+                    "name": "Comic Party",
+                    "url": "https://myanimelist.net/anime/289/Comic_Party"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 15632,
+                    "type": "manga",
+                    "name": "Comic Party Comic Anthology",
+                    "url": "https://myanimelist.net/manga/15632/Comic_Party_Comic_Anthology"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Comic_Party"
+        }
+    ]
+}

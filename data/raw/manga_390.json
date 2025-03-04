@@ -1,0 +1,186 @@
+{
+    "mal_id": 390,
+    "url": "https://myanimelist.net/manga/390/Keroro_Gunsou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/152242.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/152242t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/152242l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/152242.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/152242t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/152242l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Keroro Gunsou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sergeant Frog"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sergeant Keroro"
+        },
+        {
+            "type": "Japanese",
+            "title": "ケロロ軍曹"
+        },
+        {
+            "type": "English",
+            "title": "Sgt. Frog"
+        }
+    ],
+    "title": "Keroro Gunsou",
+    "title_english": "Sgt. Frog",
+    "title_japanese": "ケロロ軍曹",
+    "title_synonyms": [
+        "Sergeant Frog",
+        "Sergeant Keroro"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "1999-11-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 11,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 29, 1999 to ?"
+    },
+    "score": 7.65,
+    "scored": 7.65,
+    "scored_by": 3302,
+    "rank": 1992,
+    "popularity": 2843,
+    "members": 7830,
+    "favorites": 529,
+    "synopsis": "Sergeant Keroro is the Captain of the Space Invasion Forces Special Advance Team of the 58th Planet of the Gamma Storm Cloud System, sent to the planet Pokopen (aka Earth) to collect intelligence for his planet's invasion force. He is also a frog. After his ship crash-lands in the planet earth, he takes shelter in the Hinata household, but the two kids, Fuyuki and Natsume, find him and take away his alien weapons. When his people discover that the Pokopenians are aware of him, Keroro is abandoned - left to fend for himself in this hostile world. But he's not alone - four other pre-invasion agents were are also lurking on Earth. \n\n(Source: Tokyopop)",
+    "background": "Keroro Gunsou has been published digitally in English as Sgt. Frog by VIZ Media under the VIZ Select imprint since December 30, 2014.",
+    "authors": [
+        {
+            "mal_id": 2052,
+            "type": "people",
+            "name": "Yoshizaki, Mine",
+            "url": "https://myanimelist.net/people/2052/Mine_Yoshizaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 64,
+            "type": "manga",
+            "name": "Love Polygon",
+            "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 516,
+                    "type": "anime",
+                    "name": "Keroro Gunsou",
+                    "url": "https://myanimelist.net/anime/516/Keroro_Gunsou"
+                },
+                {
+                    "mal_id": 21671,
+                    "type": "anime",
+                    "name": "Keroro",
+                    "url": "https://myanimelist.net/anime/21671/Keroro"
+                },
+                {
+                    "mal_id": 58773,
+                    "type": "anime",
+                    "name": "Keroro Gunsou (Anime Shin Project)",
+                    "url": "https://myanimelist.net/anime/58773/Keroro_Gunsou_Anime_Shin_Project"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 179188,
+                    "type": "manga",
+                    "name": "Chou Keroro Gunsou: Ultra Cool Gekitou!! Keroro Robo Daikessen",
+                    "url": "https://myanimelist.net/manga/179188/Chou_Keroro_Gunsou__Ultra_Cool_Gekitou_Keroro_Robo_Daikessen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://web-ace.jp/shonenace/contents/3/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Keroro_Gunsou"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ケロロ軍曹"
+        }
+    ]
+}

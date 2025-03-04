@@ -1,0 +1,151 @@
+{
+    "mal_id": 120,
+    "url": "https://myanimelist.net/manga/120/Maburaho",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180923.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180923t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180923l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180923.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180923t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180923l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Maburaho"
+        },
+        {
+            "type": "Synonym",
+            "title": "Maburaho Tanpen"
+        },
+        {
+            "type": "Japanese",
+            "title": "まぶらほ"
+        }
+    ],
+    "title": "Maburaho",
+    "title_english": null,
+    "title_japanese": "まぶらほ",
+    "title_synonyms": [
+        "Maburaho Tanpen"
+    ],
+    "type": "Light Novel",
+    "chapters": 133,
+    "volumes": 22,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-12-20T00:00:00+00:00",
+        "to": "2015-03-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 12,
+                "year": 2001
+            },
+            "to": {
+                "day": 20,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Dec 20, 2001 to Mar 20, 2015"
+    },
+    "score": 7.05,
+    "scored": 7.05,
+    "scored_by": 190,
+    "rank": 8137,
+    "popularity": 16936,
+    "members": 917,
+    "favorites": 11,
+    "synopsis": "His name is Kazuki Shikimori, 17 years old. He attends Aoi Academy, a school for elite magicians. Each magician has a set limit of spells, and performing more spells than the limit allows will cause the user to turn into dust. In this case, the number of magic Kazuki can use is far below the average in his school. Then one day, all of a sudden, three girls appear before him. But of all the things that they are after, it is his GENES. And for Kazuki, the girls' appearances may also spell his doom, as he soon realizes that his magic count is decreasing ever steadily.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1957,
+            "type": "people",
+            "name": "Tsukiji, Toshihiko",
+            "url": "https://myanimelist.net/people/1957/Toshihiko_Tsukiji"
+        },
+        {
+            "mal_id": 2866,
+            "type": "people",
+            "name": "Komatsu, E-ji",
+            "url": "https://myanimelist.net/people/2866/E-ji_Komatsu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 312,
+            "type": "manga",
+            "name": "Dragon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/312/Dragon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 752,
+                    "type": "manga",
+                    "name": "Maburaho",
+                    "url": "https://myanimelist.net/manga/752/Maburaho"
+                },
+                {
+                    "mal_id": 193,
+                    "type": "anime",
+                    "name": "Maburaho",
+                    "url": "https://myanimelist.net/anime/193/Maburaho"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%B6%E3%82%89%E3%81%BB"
+        }
+    ]
+}

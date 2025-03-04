@@ -1,0 +1,135 @@
+{
+    "mal_id": 300,
+    "url": "https://myanimelist.net/manga/300/Hands_Off__Dont_Call_Us_Angels",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/278571.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/278571t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/278571l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/278571.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/278571t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/278571l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hands Off!: Don't Call Us Angels"
+        },
+        {
+            "type": "Synonym",
+            "title": "Far From Angels"
+        },
+        {
+            "type": "Synonym",
+            "title": "Oretachi wo Tenshi to Yobuna"
+        },
+        {
+            "type": "Synonym",
+            "title": "We are Angels"
+        },
+        {
+            "type": "Japanese",
+            "title": "俺たちを天使と呼ぶな"
+        },
+        {
+            "type": "English",
+            "title": "Hands Off!: Don't Call Us Angels"
+        }
+    ],
+    "title": "Hands Off!: Don't Call Us Angels",
+    "title_english": "Hands Off!: Don't Call Us Angels",
+    "title_japanese": "俺たちを天使と呼ぶな",
+    "title_synonyms": [
+        "Far From Angels",
+        "Oretachi wo Tenshi to Yobuna",
+        "We are Angels"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2001"
+    },
+    "score": 6.69,
+    "scored": 6.69,
+    "scored_by": 134,
+    "rank": 13818,
+    "popularity": 25567,
+    "members": 453,
+    "favorites": 2,
+    "synopsis": "Kiba is a sensitive who can see the future whenever he touches someone. But there's one person who's future always disturbs him: Udou. Unable to leave things alone, Kiba finds himself embroiled in Udou's issues, which deal mostly with girls, and, in this particular case, his childhood friend Haruhi. How Udou deals with his problems and how Kiba decides to judge him become the means to whether or not they can save anyone, much less themselves. (Source: M-U)",
+    "background": "Hands Off!: Don't Call Us Angels was published in English by Tokyopop from November 6, 2007 to March 11, 2008.",
+    "authors": [
+        {
+            "mal_id": 2286,
+            "type": "people",
+            "name": "Katsumoto, Kasane",
+            "url": "https://myanimelist.net/people/2286/Kasane_Katsumoto"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 467,
+                    "type": "manga",
+                    "name": "Sono Te Wo Dokero",
+                    "url": "https://myanimelist.net/manga/467/Sono_Te_Wo_Dokero"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Hands_Off!"
+        }
+    ]
+}

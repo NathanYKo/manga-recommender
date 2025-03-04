@@ -1,0 +1,158 @@
+{
+    "mal_id": 28,
+    "url": "https://myanimelist.net/manga/28/Nana",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/262324.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/262324t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/262324l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/262324.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/262324t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/262324l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nana"
+        },
+        {
+            "type": "Japanese",
+            "title": "NANA"
+        },
+        {
+            "type": "English",
+            "title": "Nana"
+        },
+        {
+            "type": "German",
+            "title": "NANA"
+        }
+    ],
+    "title": "Nana",
+    "title_english": "Nana",
+    "title_japanese": "NANA",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 84,
+    "volumes": 21,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "2000-05-26T00:00:00+00:00",
+        "to": "2009-05-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 2000
+            },
+            "to": {
+                "day": 26,
+                "month": 5,
+                "year": 2009
+            }
+        },
+        "string": "May 26, 2000 to May 26, 2009"
+    },
+    "score": 8.8,
+    "scored": 8.8,
+    "scored_by": 47756,
+    "rank": 42,
+    "popularity": 78,
+    "members": 154508,
+    "favorites": 12472,
+    "synopsis": "Nana Komatsu is a naive, unmotivated girl who spends her high school days chasing one crush after the other. Despite continually facing failure in her quest for love, her spirits have never dampened. At the age of 20, she finds herself on a train to Tokyo with hopes of reuniting with her current boyfriend.\n\nNana Osaki, on the other hand, is feisty and prideful. After joining a local band during her high school days, she falls in love with music and one of the band members. However, when faced with the choice between her relationship and her musical career, she chooses the latter and separates from her boyfriend. On her 20th birthday, she boards the same train to Tokyo, like her namesake, where she aims to become a top vocalist.\n\nThe two girls with the same name but very different aspirations find themselves sitting together on their journey to the city, and, as fate would have it, eventually share the same apartment. A deep and unique bond is then forged, where they will support each other in this saga of love, music, friendship, and heartbreak.\n\n[Written by MAL Rewrite]",
+    "background": "Nana won the 48th Shogakukan Manga Award in the Shoujo category in 2002, along with Kaze Hikaru. The series was placed on hiatus since the July 2009 issue of Cookie due to the mangaka's sudden illness. The series has been published in English by VIZ Media under the Shojo Beat imprint since December 6, 2005. It has also been released in French by Delcourt since January 1, 2003; in Spain by Planeta Cómic since June 2006; in Brazilian Portuguese by Editora JBC since July 2008; in Argentina by Editorial Ivrea since April 24, 2009; in Mexico by Panini Comics since May 25, 2022; and in Polish by Kotori since June 16, 2023.",
+    "authors": [
+        {
+            "mal_id": 1894,
+            "type": "people",
+            "name": "Yazawa, Ai",
+            "url": "https://myanimelist.net/people/1894/Ai_Yazawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 15,
+            "type": "manga",
+            "name": "Cookie",
+            "url": "https://myanimelist.net/manga/magazine/15/Cookie"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 64,
+            "type": "manga",
+            "name": "Love Polygon",
+            "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+        },
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 877,
+                    "type": "anime",
+                    "name": "Nana",
+                    "url": "https://myanimelist.net/anime/877/Nana"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/NANA"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nana_(manga)"
+        }
+    ]
+}

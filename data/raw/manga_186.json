@@ -1,0 +1,138 @@
+{
+    "mal_id": 186,
+    "url": "https://myanimelist.net/manga/186/Zoku_-_Kindan_no_Koi_wo_Shiyou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/10852.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/10852t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/10852l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/10852.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/10852t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/10852l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zoku - Kindan no Koi wo Shiyou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Let's Have Forbidden Romance"
+        },
+        {
+            "type": "Synonym",
+            "title": "continued"
+        },
+        {
+            "type": "Japanese",
+            "title": "続・禁断の恋をしよう"
+        }
+    ],
+    "title": "Zoku - Kindan no Koi wo Shiyou",
+    "title_english": null,
+    "title_japanese": "続・禁断の恋をしよう",
+    "title_synonyms": [
+        "Let's Have Forbidden Romance",
+        "continued"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2001"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 1639,
+    "rank": 4204,
+    "popularity": 7091,
+    "members": 2948,
+    "favorites": 16,
+    "synopsis": "A manga about werewolves and the continued adventures of Hisako and Yato. This volume falls between the prequel volume, Kindan no Koi wo Shiyou, and the longer main series, Kindan no Koi de Ikou.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2203,
+            "type": "people",
+            "name": "Ohmi, Tomu",
+            "url": "https://myanimelist.net/people/2203/Tomu_Ohmi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 73,
+            "type": "manga",
+            "name": "Petit Comic",
+            "url": "https://myanimelist.net/manga/magazine/73/Petit_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 187,
+                    "type": "manga",
+                    "name": "Kindan no Koi wo Shiyou",
+                    "url": "https://myanimelist.net/manga/187/Kindan_no_Koi_wo_Shiyou"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 188,
+                    "type": "manga",
+                    "name": "Kindan no Koi de Ikou",
+                    "url": "https://myanimelist.net/manga/188/Kindan_no_Koi_de_Ikou"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,171 @@
+{
+    "mal_id": 222,
+    "url": "https://myanimelist.net/manga/222/Le_Chevalier_DEon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/286577.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/286577t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/286577l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/286577.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/286577t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/286577l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Le Chevalier D'Eon"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Knight of Eon"
+        },
+        {
+            "type": "Japanese",
+            "title": "シュヴァリエ"
+        },
+        {
+            "type": "English",
+            "title": "Le Chevalier D'Eon"
+        }
+    ],
+    "title": "Le Chevalier D'Eon",
+    "title_english": "Le Chevalier D'Eon",
+    "title_japanese": "シュヴァリエ",
+    "title_synonyms": [
+        "The Knight of Eon"
+    ],
+    "type": "Manga",
+    "chapters": 45,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-26T00:00:00+00:00",
+        "to": "2008-11-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 26,
+                "month": 11,
+                "year": 2008
+            }
+        },
+        "string": "Jan 26, 2005 to Nov 26, 2008"
+    },
+    "score": 7.05,
+    "scored": 7.05,
+    "scored_by": 617,
+    "rank": 8246,
+    "popularity": 7959,
+    "members": 2561,
+    "favorites": 24,
+    "synopsis": "A mysterious cult is sacrificing beautiful young women to a demonic force that has promised them the kingdom of France in return for the blood of their victims. Only one man can save Paris from chaos and terror: the Chevalier d'Eon!\n\n(Source: Del Rey)",
+    "background": "Le Chevalier D'Eon was first published in English by Del Rey Books from June 26, 2007 to July 27, 2010. The series was later published digitally by Kodansha Comics from September 9, 2014 to September 23, 2014.",
+    "authors": [
+        {
+            "mal_id": 2229,
+            "type": "people",
+            "name": "Ubukata, Tow",
+            "url": "https://myanimelist.net/people/2229/Tow_Ubukata"
+        },
+        {
+            "mal_id": 4073,
+            "type": "people",
+            "name": "Yumeji, Kiriko",
+            "url": "https://myanimelist.net/people/4073/Kiriko_Yumeji"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 70,
+            "type": "manga",
+            "name": "Magazine-Z",
+            "url": "https://myanimelist.net/manga/magazine/70/Magazine-Z"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 44,
+            "type": "manga",
+            "name": "Crossdressing",
+            "url": "https://myanimelist.net/manga/genre/44/Crossdressing"
+        },
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1013,
+                    "type": "anime",
+                    "name": "Le Chevalier D'Eon",
+                    "url": "https://myanimelist.net/anime/1013/Le_Chevalier_DEon"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 23818,
+                    "type": "manga",
+                    "name": "Le Chevalier D'Eon",
+                    "url": "https://myanimelist.net/manga/23818/Le_Chevalier_DEon"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/le-chevalier-deon/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Le_Chevalier_D%27Eon"
+        }
+    ]
+}

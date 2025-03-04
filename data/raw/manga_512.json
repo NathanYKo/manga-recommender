@@ -1,0 +1,131 @@
+{
+    "mal_id": 512,
+    "url": "https://myanimelist.net/manga/512/Samurai_Champloo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/56743.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/56743t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/56743l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/56743.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/56743t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/56743l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Samurai Champloo"
+        },
+        {
+            "type": "Japanese",
+            "title": "サムライチャンプルー"
+        },
+        {
+            "type": "English",
+            "title": "Samurai Champloo"
+        }
+    ],
+    "title": "Samurai Champloo",
+    "title_english": "Samurai Champloo",
+    "title_japanese": "サムライチャンプルー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-01-26T00:00:00+00:00",
+        "to": "2004-09-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2004
+            }
+        },
+        "string": "Jan 26, 2004 to Sep 25, 2004"
+    },
+    "score": 7.41,
+    "scored": 7.41,
+    "scored_by": 6285,
+    "rank": 3729,
+    "popularity": 1446,
+    "members": 14615,
+    "favorites": 221,
+    "synopsis": "Mugen is a rough-around-the-edges mercenary with a killer technique and nothing left to lose. Jin is a disciplined samurai who's as deadly as he is reserved. Fuu is a young waitress with a good heart and a resourcefulness that emerges when you least expect it. These three unlikely companions are about to begin a journey that will change all of their lives.\n\nIt's a dangerous quest for a mysterious samurai that will see our squabbling group of heroes get into and out of trouble more times than they can count (which admittedly, isn't very high). From the cynical gentility of the nobles to the backstabbing of the Japanese underworld, Mugen, Jin and Fuu will face threats from without and within as they hurl insults and throwing stars alike. Ancient Japan is about to get a lethal dose of street justice—Champloo style. And it will never be the same.\n\n(Source: TokyoPop)",
+    "background": "Samurai Champloo was published in English by Tokyopop from November 8, 2005 to March 7, 2006 with an omnibus edition containing both volumes being released on August 12, 2008.",
+    "authors": [
+        {
+            "mal_id": 2464,
+            "type": "people",
+            "name": "Gotsubo, Masaru",
+            "url": "https://myanimelist.net/people/2464/Masaru_Gotsubo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 205,
+                    "type": "anime",
+                    "name": "Samurai Champloo",
+                    "url": "https://myanimelist.net/anime/205/Samurai_Champloo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%81%E3%83%A3%E3%83%B3%E3%83%97%E3%83%AB%E3%83%BC"
+        }
+    ]
+}

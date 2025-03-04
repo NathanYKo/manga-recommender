@@ -1,0 +1,121 @@
+{
+    "mal_id": 403,
+    "url": "https://myanimelist.net/manga/403/Kakutou_Komusume_Juline",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/167712.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/167712t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/167712l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/167712.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/167712t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/167712l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kakutou Komusume Juline"
+        },
+        {
+            "type": "Japanese",
+            "title": "格闘小娘 JULINE"
+        },
+        {
+            "type": "English",
+            "title": "Kung-Fu Girl Juline"
+        }
+    ],
+    "title": "Kakutou Komusume Juline",
+    "title_english": "Kung-Fu Girl Juline",
+    "title_japanese": "格闘小娘 JULINE",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 20,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-01-01T00:00:00+00:00",
+        "to": "1998-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            }
+        },
+        "string": "1997 to 1998"
+    },
+    "score": 6.4,
+    "scored": 6.4,
+    "scored_by": 248,
+    "rank": 17559,
+    "popularity": 20983,
+    "members": 649,
+    "favorites": 3,
+    "synopsis": "In a faraway village, in a magical land, live Juline, Bakuya, and Seika, daughters of the top three martial-arts schools. Join them on a quest to uncover the mystery of the Black Pearl, a new clan shrouded in shadows. Juline and the other clan leaders face a new threat in the form of the Black Pearl Guardians. Who are these mysterious warriors, and what is their link to the princesses' past? (Source: Tokyopop)",
+    "background": "Kakutou Komusume Juline was published in English as Kung-Fu Girl Juline by Tokyopop and was serialized in their manga anthology magazine Smile. The volumes were published from January 16, 2001 to May 21, 2002. The series has also been published in French & German.",
+    "authors": [
+        {
+            "mal_id": 2378,
+            "type": "people",
+            "name": "Kakinouchi, Narumi",
+            "url": "https://myanimelist.net/people/2378/Narumi_Kakinouchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Amie Magazine",
+            "url": "https://myanimelist.net/manga/magazine/39/Amie_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 523,
+                    "type": "manga",
+                    "name": "Fuun Sanshimai Lin³",
+                    "url": "https://myanimelist.net/manga/523/Fuun_Sanshimai_Lin³"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

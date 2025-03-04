@@ -1,0 +1,119 @@
+{
+    "mal_id": 171,
+    "url": "https://myanimelist.net/manga/171/Deai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/152535.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/152535t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/152535l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/152535.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/152535t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/152535l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Deai"
+        },
+        {
+            "type": "Japanese",
+            "title": "であい"
+        },
+        {
+            "type": "English",
+            "title": "Confidential Confessions: Deai"
+        }
+    ],
+    "title": "Deai",
+    "title_english": "Confidential Confessions: Deai",
+    "title_japanese": "であい",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": null,
+        "to": null,
+        "prop": {
+            "from": {
+                "day": null,
+                "month": null,
+                "year": null
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Not available"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 393,
+    "rank": 5341,
+    "popularity": 14319,
+    "members": 1179,
+    "favorites": 11,
+    "synopsis": "A continuation of the gripping and cutting-edge Confidential Confessions, this series deals exclusively with the seedy underbelly of the sex industry. Using emotionally moving storylines and multi-dimensional characters, here is a shocking look into the hard-hitting issues that teens face today. Enlightening without being preachy, Confidential Confessions speaks to teens in a heartfelt, authentic way. \n\n(Source: Tokyopop)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2194,
+            "type": "people",
+            "name": "Momochi, Reiko",
+            "url": "https://myanimelist.net/people/2194/Reiko_Momochi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 95,
+            "type": "manga",
+            "name": "Dessert",
+            "url": "https://myanimelist.net/manga/magazine/95/Dessert"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 170,
+                    "type": "manga",
+                    "name": "Mondaiteiki Sakuhinshu",
+                    "url": "https://myanimelist.net/manga/170/Mondaiteiki_Sakuhinshu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Confidential_Confessions_-Deai-"
+        }
+    ]
+}

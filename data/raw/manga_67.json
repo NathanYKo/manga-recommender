@@ -1,0 +1,142 @@
+{
+    "mal_id": 67,
+    "url": "https://myanimelist.net/manga/67/2001-ya_Monogatari",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/267904.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/267904t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/267904l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/267904.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/267904t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/267904l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "2001-ya Monogatari"
+        },
+        {
+            "type": "Japanese",
+            "title": "2001夜物語"
+        },
+        {
+            "type": "English",
+            "title": "2001 Nights"
+        }
+    ],
+    "title": "2001-ya Monogatari",
+    "title_english": "2001 Nights",
+    "title_japanese": "2001夜物語",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 20,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1984-05-05T00:00:00+00:00",
+        "to": "1986-05-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 5,
+                "year": 1984
+            },
+            "to": {
+                "day": 6,
+                "month": 5,
+                "year": 1986
+            }
+        },
+        "string": "May 5, 1984 to May 6, 1986"
+    },
+    "score": 7.68,
+    "scored": 7.68,
+    "scored_by": 1641,
+    "rank": 1845,
+    "popularity": 3721,
+    "members": 6045,
+    "favorites": 112,
+    "synopsis": "Regardless of time and place, space has always been a primary subject of mankind's awe and fascination. Steadfast in discovering the truth behind their own existence, humans have continued to venture out far into the unknown, ready to confront any hurdle that comes along the way. Although the path ahead is one full of uncertainties, as long as humanity remains persistent in their endeavors, they may ultimately learn to understand each other and come closer to unraveling the intriguing mysteries of the universe.\n\n[Written by MAL Rewrite]",
+    "background": "2001 Ya Monogatari was published in English as 2001 Nights by VIZ Media, first in comic book format, for a total of 10 issues, from July 1990 to May 1991, and later in tankoubon format, in 1996.",
+    "authors": [
+        {
+            "mal_id": 1925,
+            "type": "people",
+            "name": "Hoshino, Yukinobu",
+            "url": "https://myanimelist.net/people/1925/Yukinobu_Hoshino"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 29,
+            "type": "manga",
+            "name": "Space",
+            "url": "https://myanimelist.net/manga/genre/29/Space"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1662,
+                    "type": "anime",
+                    "name": "Space Fantasia 2001 Nights",
+                    "url": "https://myanimelist.net/anime/1662/Space_Fantasia_2001_Nights"
+                },
+                {
+                    "mal_id": 7279,
+                    "type": "anime",
+                    "name": "TO",
+                    "url": "https://myanimelist.net/anime/7279/TO"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 13602,
+                    "type": "manga",
+                    "name": "2001+5",
+                    "url": "https://myanimelist.net/manga/13602/2001_5"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/2001%E5%A4%9C%E7%89%A9%E8%AA%9E"
+        }
+    ]
+}
