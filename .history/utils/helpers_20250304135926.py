@@ -84,3 +84,12 @@ def execute_query(query, params=None, fetch_one=False, commit=False):
             if fetch_one:
                 return dict(result.fetchone()) if result.rowcount > 0 else None
             return [dict(row) for row in result.fetchall()]
+
+
+connection_string = "postgresql://neondb_owner:npg_KgT7Zw6onPOb@ep-black-art-a8w4agoa-pooler.eastus2.azure.neon.tech/manga_recommender?sslmode=require"
+engine = create_engine(connection_string)
+
+# Test the connection
+with engine.connect() as connection:
+    result = connection.execute("SELECT 1")
+    print(result.fetchone())
