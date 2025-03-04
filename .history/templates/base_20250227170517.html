@@ -32,7 +32,7 @@
                         <a class="nav-link" href="{{ url_for('search') }}">Search</a>
                     </li>
                 </ul>
-                <form class="d-flex mx-auto" action="{{ url_for('search') }}" method="get">
+                <form class="d-flex me-2" action="{{ url_for('search') }}" method="GET">
                     <input class="form-control me-2" type="search" name="q" placeholder="Search manga..." aria-label="Search">
                     <button class="btn btn-outline-light" type="submit">Search</button>
                 </form>
