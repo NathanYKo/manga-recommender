@@ -67,52 +67,19 @@ def get_db_engine():
             )
     return _engine
 
-def execute_query(query, params=None):
-    """Execute SQL query and return results"""
-    try:
-        conn = get_db_connection()
-        cursor = conn.cursor()
-        cursor.execute(query, params)
-        
-        # If this is a SELECT query, return results
-        if query.strip().upper().startswith('SELECT'):
-            result = cursor.fetchall()
-            cursor.close()
-            conn.close()
-            return result
-        
-        # Otherwise commit the transaction
-        conn.commit()
-        cursor.close()
-        conn.close()
-        return True
-    except Exception as e:
-        logger.error(f"Database error: {e}")
-        raise
-
-def get_db_connection():
-    """Get database connection with environment variable support"""
-    # First try environment variable (for production)
-    database_url = os.environ.get('DATABASE_URL')
+def execute_query(query, params=None, fetch_one=False, commit=False):
+    """Execute a database query with proper connection handling"""
+    engine = get_db_engine()
     
-    if database_url:
-        # Handle potential Heroku/Render style postgres:// URLs
-        if database_url.startswith('postgres://'):
-            database_url = database_url.replace('postgres://', 'postgresql://', 1)
-        
-        conn = psycopg2.connect(database_url, cursor_factory=RealDictCursor)
-        logger.info("Connected to database using DATABASE_URL")
-        return conn
-    
-    # Fall back to config values
-    db_config = config.get('database', {})
-    conn = psycopg2.connect(
-        host=db_config.get('host', 'localhost'),
-        port=db_config.get('port', '5432'),
-        dbname=db_config.get('database', 'manga_recommender'),
-        user=db_config.get('user', 'postgres'),
-        password=db_config.get('password', ''),
-        cursor_factory=RealDictCursor
-    )
-    logger.info("Connected to database using config values")
-    return conn
+    with engine.connect() as connection:
+        if commit:
+            # For INSERT/UPDATE/DELETE operations
+            with connection.begin():
+                result = connection.execute(sqlalchemy.text(query), params or {})
+                return result
+        else:
+            # For SELECT operations
+            result = connection.execute(sqlalchemy.text(query), params or {})
+            if fetch_one:
+                return dict(result.fetchone()) if result.rowcount > 0 else None
+            return [dict(row) for row in result.fetchall()]

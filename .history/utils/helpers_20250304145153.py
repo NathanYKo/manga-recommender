@@ -67,28 +67,22 @@ def get_db_engine():
             )
     return _engine
 
-def execute_query(query, params=None):
-    """Execute SQL query and return results"""
-    try:
-        conn = get_db_connection()
-        cursor = conn.cursor()
-        cursor.execute(query, params)
-        
-        # If this is a SELECT query, return results
-        if query.strip().upper().startswith('SELECT'):
-            result = cursor.fetchall()
-            cursor.close()
-            conn.close()
-            return result
-        
-        # Otherwise commit the transaction
-        conn.commit()
-        cursor.close()
-        conn.close()
-        return True
-    except Exception as e:
-        logger.error(f"Database error: {e}")
-        raise
+def execute_query(query, params=None, fetch_one=False, commit=False):
+    """Execute a database query with proper connection handling"""
+    engine = get_db_engine()
+    
+    with engine.connect() as connection:
+        if commit:
+            # For INSERT/UPDATE/DELETE operations
+            with connection.begin():
+                result = connection.execute(sqlalchemy.text(query), params or {})
+                return result
+        else:
+            # For SELECT operations
+            result = connection.execute(sqlalchemy.text(query), params or {})
+            if fetch_one:
+                return dict(result.fetchone()) if result.rowcount > 0 else None
+            return [dict(row) for row in result.fetchall()]
 
 def get_db_connection():
     """Get database connection with environment variable support"""
