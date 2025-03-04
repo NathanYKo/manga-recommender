@@ -65,7 +65,7 @@ def register_routes(app, get_recommender):
         return render_template(
             'index.html', 
             popular_manga=popular_manga,
-            personalized_recs=personalized_recs.to_dict('records') if hasattr(personalized_recs, 'empty') and not personalized_recs.empty else personalized_recs,
+            personalized_recs=personalized_recs.to_dict('records') if not personalized_recs.empty else [],
             user_id=user_id,
             username=username
         )
