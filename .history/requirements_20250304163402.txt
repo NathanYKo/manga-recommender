@@ -1,6 +1,5 @@
 requests==2.31.0
 flask==2.3.3
-werkzeug==2.2.3
 gunicorn>=22.0.0
 python-dotenv==1.0.0
 sqlalchemy==2.0.20
