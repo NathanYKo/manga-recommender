@@ -1,0 +1,16 @@
+<div class="alert alert-success shadow-lg mt-4">
+  <div>
+    <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current flex-shrink-0 h-6 w-6" fill="none" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+    <span>Your rating has been saved!</span>
+  </div>
+  <div class="flex-none">
+    <button class="btn btn-sm" onclick="document.getElementById('rating-modal').remove()">Close</button>
+  </div>
+</div>
+
+<script>
+  // Close the modal automatically after 2 seconds
+  setTimeout(function() {
+    document.getElementById('rating-modal').remove();
+  }, 2000);
+</script> 

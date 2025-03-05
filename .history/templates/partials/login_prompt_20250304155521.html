@@ -1,0 +1,11 @@
+<div id="rating-modal" class="modal modal-open">
+  <div class="modal-box">
+    <h3 class="font-bold text-lg">Authentication Required</h3>
+    <p class="py-4">You need to be logged in to rate manga.</p>
+    <div class="modal-action">
+      <a href="{{ url_for('login') }}" class="btn btn-primary">Login</a>
+      <a href="{{ url_for('register') }}" class="btn btn-secondary">Register</a>
+      <button class="btn" onclick="document.getElementById('rating-modal').remove()">Close</button>
+    </div>
+  </div>
+</div> 

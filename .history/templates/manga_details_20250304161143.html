@@ -115,34 +115,6 @@
     {% endfor %}
 </div>
 {% endif %}
-
-<div class="comments-section mt-4">
-    <h4>Discussion ({{ comments|length }})</h4>
-    <form hx-post="{{ url_for('add_comment', manga_id=manga.manga_id) }}" hx-target="#comments-list">
-        <textarea name="comment" class="form-control" placeholder="Share your thoughts..."></textarea>
-        <button type="submit" class="btn btn-primary mt-2">Post Comment</button>
-    </form>
-    
-    <div id="comments-list" class="mt-3">
-        {% for comment in comments %}
-        <div class="comment-card">
-            <div class="user-info">
-                <img src="{{ comment.user_avatar }}" class="avatar">
-                <span class="username">{{ comment.username }}</span>
-            </div>
-            <div class="comment-content">{{ comment.content }}</div>
-            <div class="comment-actions">
-                <button class="btn btn-sm btn-link" onclick="likeComment({{ comment.id }})">
-                    <i class="fas fa-heart"></i> {{ comment.likes }}
-                </button>
-                <button class="btn btn-sm btn-link" onclick="replyToComment({{ comment.id }})">
-                    Reply
-                </button>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
-</div>
 {% endblock %}
 
 {% block extra_js %}
@@ -163,7 +135,7 @@ $(document).ready(function() {
         },
         function() {
             // On mouseout, restore original rating
-            var userRating = "{{ user_rating|default(0, true) }}";
+            var userRating = {{ user_rating|default(0, true) }};
             $('.rating-stars i').each(function() {
                 if (userRating && $(this).data('rating') <= userRating) {
                     $(this).removeClass('far').addClass('fas');

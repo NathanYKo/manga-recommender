@@ -297,7 +297,6 @@ def register_routes(app, get_recommender):
         if 'user_id' not in session:
             return redirect(url_for('login', next='profile'))
         
-        # Use consistent database access pattern
         query = """
         SELECT ur.manga_id, ur.rating, ur.created_at, m.title, m.image_url
         FROM user_ratings ur
@@ -305,29 +304,7 @@ def register_routes(app, get_recommender):
         WHERE ur.user_id = %s
         ORDER BY ur.created_at DESC
         """
-        ratings = DatabaseManager.execute_query(query, (session['user_id'],))
-        
-        # Get genres for preferences section
-        all_genres = DatabaseManager.execute_query("SELECT * FROM genres ORDER BY name")
-        
-        # Get user preferences
-        user_preferences = {
-            'genres': [g['genre_id'] for g in DatabaseManager.execute_query(
-                "SELECT genre_id FROM user_preferences WHERE user_id = %s", 
-                (session['user_id'],)
-            )],
-            'nsfw': False  # Default value
-        }
-        
-        # Calculate stats for stats section
-        stats = {
-            'total_read': len(ratings),
-            'avg_rating': DatabaseManager.execute_query(
-                "SELECT AVG(rating) as avg FROM user_ratings WHERE user_id = %s", 
-                (session['user_id'],), 
-                fetch_one=True
-            )['avg'] or 0
-        }
+        ratings = execute_query(query, (session['user_id'],))
         
         personalized_recs = []
         try:
@@ -342,7 +319,7 @@ def register_routes(app, get_recommender):
                 FROM manga 
                 WHERE manga_id IN ({placeholders})
                 """
-                personalized_recs = DatabaseManager.execute_query(query, tuple(manga_ids))
+                personalized_recs = execute_query(query, tuple(manga_ids))
         except Exception as e:
             logger.error(f"Error getting personalized recommendations: {e}")
         
@@ -354,10 +331,7 @@ def register_routes(app, get_recommender):
             'profile.html',
             ratings=ratings,
             recommendations=personalized_recs,
-            username=session.get('username'),
-            all_genres=all_genres,
-            user_preferences=user_preferences,
-            stats=stats
+            username=session.get('username')
         )
 
     @app.route('/api/recommendations/<int:manga_id>')
@@ -398,11 +372,8 @@ def register_routes(app, get_recommender):
             return jsonify({'error': str(e)}), 500
 
     @app.route('/import-mal', methods=['POST'])
-    @login_required
     def import_mal():
         mal_username = request.form.get('mal_username')
-        user_id = session.get('user_id')
-        
         if not mal_username:
             flash('Please provide your MAL username', 'error')
             return redirect(url_for('profile'))
@@ -425,33 +396,33 @@ def register_routes(app, get_recommender):
                     
                     if score and score != '-':
                         # Find manga in our database
-                        manga = DatabaseManager.execute_query(
-                            "SELECT manga_id FROM manga WHERE LOWER(title) LIKE LOWER(%s) LIMIT 1",
-                            (f'%{manga_title}%',),
-                            fetch_one=True
-                        )
+                        manga = Manga.query.filter(
+                            Manga.title.ilike(f'%{manga_title}%')
+                        ).first()
                         
                         if manga:
                             # Update or create rating
-                            DatabaseManager.execute_query(
-                                """
-                                INSERT INTO user_ratings (user_id, manga_id, rating, created_at)
-                                VALUES (%s, %s, %s, %s)
-                                ON CONFLICT (user_id, manga_id)
-                                DO UPDATE SET rating = EXCLUDED.rating, updated_at = CURRENT_TIMESTAMP
-                                """,
-                                (user_id, manga['manga_id'], int(float(score)), datetime.now())
+                            rating = Rating.query.filter_by(
+                                user_id=current_user.id,
+                                manga_id=manga.id
+                            ).first() or Rating(
+                                user_id=current_user.id,
+                                manga_id=manga.id
                             )
+                            
+                            rating.score = int(float(score))
+                            db.session.add(rating)
                             imported_count += 1
                 
                 except Exception as e:
-                    logger.error(f'Error importing manga: {str(e)}')
+                    app.logger.error(f'Error importing manga: {str(e)}')
                     continue
             
+            db.session.commit()
             flash(f'Successfully imported {imported_count} ratings from MAL!', 'success')
             
         except Exception as e:
-            logger.error(f'MAL import error: {str(e)}')
+            app.logger.error(f'MAL import error: {str(e)}')
             flash('Error importing from MAL. Please try again later.', 'error')
         
         return redirect(url_for('profile'))
@@ -500,65 +471,3 @@ def register_routes(app, get_recommender):
                 'status': 'unhealthy',
                 'error': str(e)
             }), 500
-
-    @app.route('/update-preferences', methods=['POST'])
-    @login_required
-    def update_preferences():
-        """Update user genre preferences and settings."""
-        user_id = session.get('user_id')
-        if not user_id:
-            return jsonify({'success': False, 'message': 'Not logged in'}), 401
-        
-        try:
-            # Get form data
-            favorite_genres = request.form.getlist('favorite_genres')
-            nsfw = 'nsfw' in request.form
-            
-            # Clear existing preferences
-            DatabaseManager.execute_query(
-                "DELETE FROM user_preferences WHERE user_id = %s",
-                (user_id,)
-            )
-            
-            # Add new preferences
-            if favorite_genres:
-                params_list = [(user_id, int(genre_id), 1.0) for genre_id in favorite_genres]
-                DatabaseManager.execute_batch(
-                    "INSERT INTO user_preferences (user_id, genre_id, weight) VALUES (%s, %s, %s)",
-                    params_list
-                )
-            
-            # Update user settings
-            DatabaseManager.execute_query(
-                "UPDATE users SET show_nsfw = %s WHERE user_id = %s",
-                (nsfw, user_id)
-            )
-            
-            return jsonify({'success': True, 'message': 'Preferences updated'})
-        except Exception as e:
-            logger.error(f"Error updating preferences: {e}")
-            return jsonify({'success': False, 'message': 'Failed to update preferences'}), 500
-
-    @app.route('/api/user-genre-stats')
-    @login_required
-    def get_user_genre_stats():
-        """Get statistics about user's manga genres for the chart."""
-        user_id = session.get('user_id')
-        
-        query = """
-        SELECT g.name, COUNT(*) as count
-        FROM user_ratings ur
-        JOIN manga_genres mg ON ur.manga_id = mg.manga_id
-        JOIN genres g ON mg.genre_id = g.genre_id
-        WHERE ur.user_id = %s
-        GROUP BY g.name
-        ORDER BY count DESC
-        LIMIT 7
-        """
-        
-        results = DatabaseManager.execute_query(query, (user_id,))
-        
-        return jsonify({
-            'labels': [row['name'] for row in results],
-            'values': [row['count'] for row in results]
-        })

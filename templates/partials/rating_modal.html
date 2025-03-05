@@ -1,0 +1,28 @@
+<div id="rating-modal" class="modal modal-open">
+  <div class="modal-box">
+    <h3 class="font-bold text-lg">Rate "{{ manga.title }}"</h3>
+    
+    <div class="flex items-center space-x-4 my-4">
+      <img src="{{ manga.image_url }}" alt="{{ manga.title }}" class="w-24 h-auto rounded" onerror="this.src='{{ url_for(\'static\', filename=\'img/no-cover.jpg\') }}';">
+      <div>
+        <p class="text-lg font-medium">{{ manga.title }}</p>
+        <p class="text-sm opacity-75">Your rating will help improve recommendations</p>
+      </div>
+    </div>
+    
+    <form hx-post="{{ url_for('submit_rating', manga_id=manga_id) }}" hx-target="#rating-result">
+      <div class="rating rating-lg">
+        {% for i in range(1, 11) %}
+        <input type="radio" name="rating" value="{{ i }}" class="mask mask-star-2 bg-orange-400" {% if current_rating == i %}checked{% endif %} />
+        {% endfor %}
+      </div>
+      
+      <div class="modal-action">
+        <button type="submit" class="btn btn-primary">Submit Rating</button>
+        <button type="button" class="btn" onclick="document.getElementById('rating-modal').remove()">Close</button>
+      </div>
+    </form>
+    
+    <div id="rating-result"></div>
+  </div>
+</div> 

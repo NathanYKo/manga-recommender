@@ -11,23 +11,6 @@
     </div>
 </div>
 
-<div class="row mb-4">
-    <div class="col-md-12">
-        <div class="card">
-            <div class="card-body">
-                <h5 class="card-title">Import Your MAL Library</h5>
-                <p class="card-text">Import your manga ratings from MyAnimeList to get personalized recommendations.</p>
-                <form action="{{ url_for('import_mal') }}" method="POST" class="d-flex gap-2">
-                    <input type="text" name="mal_username" class="form-control" placeholder="Your MAL Username" required>
-                    <button type="submit" class="btn btn-primary">
-                        <i class="fas fa-sync-alt"></i> Import MAL Ratings
-                    </button>
-                </form>
-            </div>
-        </div>
-    </div>
-</div>
-
 <div class="row">
     <div class="col-md-12">
         <ul class="nav nav-tabs" id="profileTabs" role="tablist">
@@ -115,95 +98,5 @@
         </div>
     </div>
 </div>
-
-<div class="preferences-section">
-    <h3>Reading Preferences</h3>
-    <form hx-post="{{ url_for('update_preferences') }}" class="row g-3">
-        <div class="col-md-6">
-            <label>Favorite Genres</label>
-            <select name="favorite_genres" multiple class="form-select">
-                {% for genre in all_genres %}
-                <option value="{{ genre.id }}" {% if genre.id in user_preferences.genres %}selected{% endif %}>
-                    {{ genre.name }}
-                </option>
-                {% endfor %}
-            </select>
-        </div>
-        
-        <div class="col-md-6">
-            <label>Content Preferences</label>
-            <div class="form-check">
-                <input type="checkbox" name="nsfw" class="form-check-input" 
-                       {% if user_preferences.nsfw %}checked{% endif %}>
-                <label class="form-check-label">Show mature content</label>
-            </div>
-        </div>
-        
-        <div class="col-12">
-            <button type="submit" class="btn btn-primary">Save Preferences</button>
-        </div>
-    </form>
-</div>
-
-<div class="stats-section">
-    <h3>Your Reading Stats</h3>
-    <div class="row">
-        <div class="col-md-3">
-            <div class="stat-card">
-                <h4>Total Manga Read</h4>
-                <p class="display-4">{{ stats.total_read }}</p>
-            </div>
-        </div>
-        <div class="col-md-3">
-            <div class="stat-card">
-                <h4>Average Rating</h4>
-                <p class="display-4">{{ stats.avg_rating|round(1) }}</p>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <h4>Top Genres</h4>
-            <canvas id="genresChart"></canvas>
-        </div>
-    </div>
-</div>
-{% endblock %}
-
-{% block scripts %}
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    // Check if the canvas element exists
-    var ctx = document.getElementById('genresChart');
-    if (ctx) {
-        // Get genre data from the server
-        fetch('{{ url_for("get_user_genre_stats") }}')
-            .then(response => response.json())
-            .then(data => {
-                new Chart(ctx, {
-                    type: 'pie',
-                    data: {
-                        labels: data.labels,
-                        datasets: [{
-                            data: data.values,
-                            backgroundColor: [
-                                '#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0',
-                                '#9966FF', '#FF9F40', '#8AC54A'
-                            ]
-                        }]
-                    },
-                    options: {
-                        responsive: true,
-                        plugins: {
-                            legend: {
-                                position: 'right'
-                            }
-                        }
-                    }
-                });
-            })
-            .catch(error => console.error('Error loading genre data:', error));
-    }
-});
-</script>
 {% endblock %}
 

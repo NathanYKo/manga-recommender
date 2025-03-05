@@ -1,3 +1,4 @@
+
 <!-- templates/index.html -->
 {% extends 'base.html' %}
 
@@ -32,7 +33,7 @@
     <div class="col">
         <div class="card h-100">
             <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}">
-                <img src="{{ manga.image_url }}" class="card-img-top" alt="{{ manga.title }}" onerror="this.src='{{ url_for(\'static\', filename=\'img/no-cover.jpg\') }}';">
+                <img src="{{ manga.img_url }}" class="card-img-top" alt="{{ manga.title }}" onerror="this.src='{{ url_for('static', filename='img/no-cover.jpg') }}'">
             </a>
             <div class="card-body">
                 <h5 class="card-title"><a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="text-decoration-none text-dark">{{ manga.title }}</a></h5>
@@ -59,7 +60,7 @@
     <div class="col">
         <div class="card h-100">
             <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}">
-                <img src="{{ manga.image_url }}" class="card-img-top" alt="{{ manga.title }}" onerror="this.src='{{ url_for(\'static\', filename=\'img/no-cover.jpg\') }}';">
+                <img src="{{ manga.img_url }}" class="card-img-top" alt="{{ manga.title }}" onerror="this.src='{{ url_for('static', filename='img/no-cover.jpg') }}'">
             </a>
             <div class="card-body">
                 <h5 class="card-title"><a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="text-decoration-none text-dark">{{ manga.title }}</a></h5>

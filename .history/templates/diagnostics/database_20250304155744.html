@@ -1,0 +1,123 @@
+{% extends 'base.html' %}
+
+{% block title %}Database Diagnostic - Manga Recommender{% endblock %}
+
+{% block content %}
+<div class="container mx-auto px-4 py-8">
+    <h1 class="text-3xl font-bold mb-6">Database Diagnostic</h1>
+    
+    <div class="card bg-base-100 shadow-xl mb-6">
+        <div class="card-body">
+            <h2 class="card-title">Database Connection</h2>
+            {% if results.database_connection %}
+                <div class="alert alert-success">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current shrink-0 h-6 w-6" fill="none" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                    <span>Connected to database successfully!</span>
+                </div>
+            {% else %}
+                <div class="alert alert-error">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current shrink-0 h-6 w-6" fill="none" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                    <span>Database connection failed!</span>
+                </div>
+            {% endif %}
+            
+            <div class="stats shadow mt-4">
+                <div class="stat">
+                    <div class="stat-title">Total Manga in Database</div>
+                    <div class="stat-value">{{ results.manga_count }}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    {% if results.sample_search.query %}
+        <div class="card bg-base-100 shadow-xl mb-6">
+            <div class="card-body">
+                <h2 class="card-title">Sample Search Test</h2>
+                <p>Query: <span class="badge badge-primary">{{ results.sample_search.query }}</span></p>
+                
+                {% if results.sample_search.results %}
+                    <div class="alert alert-success">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current shrink-0 h-6 w-6" fill="none" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                        <span>Found {{ results.sample_search.results|length }} results!</span>
+                    </div>
+                    
+                    <div class="overflow-x-auto">
+                        <table class="table w-full">
+                            <thead>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Title</th>
+                                    <th>Score</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for manga in results.sample_search.results %}
+                                <tr>
+                                    <td>{{ manga.manga_id }}</td>
+                                    <td>{{ manga.title }}</td>
+                                    <td>{{ manga.score|default('N/A') }}</td>
+                                    <td>
+                                        <a href="{{ url_for('search') }}?q={{ manga.title }}" class="btn btn-xs btn-primary">
+                                            Search
+                                        </a>
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                {% else %}
+                    <div class="alert alert-warning">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current shrink-0 h-6 w-6" fill="none" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" /></svg>
+                        <span>No results found for '{{ results.sample_search.query }}'</span>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    {% endif %}
+    
+    {% if results.errors %}
+        <div class="card bg-base-100 shadow-xl">
+            <div class="card-body">
+                <h2 class="card-title text-error">Errors</h2>
+                <div class="alert alert-error">
+                    <ul>
+                        {% for error in results.errors %}
+                            <li>{{ error }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    
+    <div class="flex justify-between mt-6">
+        <a href="{{ url_for('index') }}" class="btn btn-outline">Back to Home</a>
+        <a href="{{ url_for('search') }}" class="btn btn-primary">Go to Search</a>
+    </div>
+
+    {% if debug %}
+    <div class="card bg-base-200 mt-8 collapse collapse-arrow">
+        <input type="checkbox" /> 
+        <div class="collapse-title text-xl font-medium">
+            Debug Information
+        </div>
+        <div class="collapse-content"> 
+            <pre class="bg-base-300 p-4 rounded-box overflow-x-auto">{{ debug_info|pprint }}</pre>
+            
+            <h3 class="text-lg font-bold mt-4">Test Query</h3>
+            <div class="form-control">
+                <div class="input-group">
+                    <input type="text" id="test-query" class="input input-bordered w-full" value="{{ search_term }}">
+                    <button class="btn btn-primary" onclick="window.location.href='/search?q=' + document.getElementById('test-query').value + '&debug=1'">
+                        Test
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+</div>
+{% endblock %} 
