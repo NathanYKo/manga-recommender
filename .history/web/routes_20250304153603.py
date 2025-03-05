@@ -1,13 +1,9 @@
 # web/routes.py
-from flask import render_template, request, session, redirect, url_for, jsonify, flash
+from flask import render_template, request, session, redirect, url_for, jsonify
 import logging
 from datetime import datetime
 from utils.auth import get_user, create_user, verify_password
-from utils.helpers import execute_query, standardize_manga_fields
-import requests
-from bs4 import BeautifulSoup
-from flask_login import login_required
-from utils.database import DatabaseManager
+from utils.helpers import execute_query
 
 # Configure logging
 logger = logging.getLogger('manga_recommender.routes')
@@ -66,10 +62,6 @@ def register_routes(app, get_recommender):
             except Exception as e:
                 logger.error(f"Error getting personalized recommendations: {e}")
         
-        # After getting data and before rendering templates:
-        standardize_manga_fields(popular_manga)
-        standardize_manga_fields(personalized_recs)
-        
         return render_template(
             'index.html', 
             popular_manga=popular_manga,
@@ -110,10 +102,6 @@ def register_routes(app, get_recommender):
             result = execute_query(query, (session['user_id'], manga_id), fetch_one=True)
             user_rating = result['rating'] if result else None
         
-        # After getting data and before rendering templates:
-        standardize_manga_fields(manga)
-        standardize_manga_fields(similar_manga)
-        
         return render_template(
             'manga_details.html',
             manga=manga,
@@ -126,38 +114,6 @@ def register_routes(app, get_recommender):
     @app.route('/search', methods=['GET', 'POST'])
     def search():
         """Search for manga and show recommendations for similar titles."""
-<<<<<<< HEAD
-        # Add these parameters
-        genre = request.args.get('genre')
-        status = request.args.get('status')
-        year = request.args.get('year')
-        sort_by = request.args.get('sort_by', 'popularity')
-        
-        query = """
-        SELECT manga_id, title, image_url, synopsis, score, popularity, published_at, genres, status 
-        FROM manga 
-        WHERE (LOWER(title) LIKE LOWER(%s) OR LOWER(alternative_titles) LIKE LOWER(%s))
-        AND (%s IS NULL OR genres LIKE %s)
-        AND (%s IS NULL OR status = %s)
-        AND (%s IS NULL OR EXTRACT(YEAR FROM published_at) = %s)
-        ORDER BY 
-            CASE WHEN %s = 'score' THEN score
-                 WHEN %s = 'latest' THEN published_at
-                 ELSE popularity END DESC
-        LIMIT 20
-        """
-        search_term = request.args.get('q', '') or request.form.get('search', '')
-        results = []
-        similar_manga = []
-        error = None
-        is_htmx_request = request.headers.get('HX-Request') == 'true'
-        
-        if search_term:
-            try:
-                # Search for manga matching the term
-                search_param = f'%{search_term}%'
-                results = execute_query(query, (search_param, search_param, genre, genre, status, status, year, year, sort_by, sort_by))
-=======
         search_term = request.args.get('q', '') or request.form.get('search', '')
         results = []
         similar_manga = []
@@ -176,7 +132,6 @@ def register_routes(app, get_recommender):
                 """
                 search_param = f'%{search_term}%'
                 results = execute_query(query, (search_param, search_param))
->>>>>>> dbca43714ae796a2da268a71b24a785aa34e5264
                 
                 # If we have results, get recommendations for the first match
                 if results and len(results) > 0:
@@ -193,11 +148,7 @@ def register_routes(app, get_recommender):
                             manga_ids = similar['manga_id'].tolist()
                             placeholders = ', '.join(['%s'] * len(manga_ids))
                             query = f"""
-<<<<<<< HEAD
-                            SELECT manga_id, title, image_url, synopsis, score, published_at
-=======
                             SELECT manga_id, title, image_url, synopsis, score
->>>>>>> dbca43714ae796a2da268a71b24a785aa34e5264
                             FROM manga
                             WHERE manga_id IN ({placeholders})
                             """
@@ -208,21 +159,7 @@ def register_routes(app, get_recommender):
             except Exception as e:
                 logger.error(f"Error searching manga: {e}")
                 error = "An error occurred while searching. Please try again."
-<<<<<<< HEAD
         
-        # If this is an HTMX request, render just the results section
-        if is_htmx_request:
-            return render_template(
-                'partials/search_results.html',
-                search_term=search_term,
-                results=results,
-                similar_manga=similar_manga,
-                error=error
-            )
-=======
->>>>>>> dbca43714ae796a2da268a71b24a785aa34e5264
-        
-        # Otherwise render the full page
         return render_template(
             'search.html',
             search_term=search_term,
@@ -325,7 +262,6 @@ def register_routes(app, get_recommender):
         if 'user_id' not in session:
             return redirect(url_for('login', next='profile'))
         
-        # Use consistent database access pattern
         query = """
         SELECT ur.manga_id, ur.rating, ur.created_at, m.title, m.image_url
         FROM user_ratings ur
@@ -333,29 +269,7 @@ def register_routes(app, get_recommender):
         WHERE ur.user_id = %s
         ORDER BY ur.created_at DESC
         """
-        ratings = DatabaseManager.execute_query(query, (session['user_id'],))
-        
-        # Get genres for preferences section
-        all_genres = DatabaseManager.execute_query("SELECT * FROM genres ORDER BY name")
-        
-        # Get user preferences
-        user_preferences = {
-            'genres': [g['genre_id'] for g in DatabaseManager.execute_query(
-                "SELECT genre_id FROM user_preferences WHERE user_id = %s", 
-                (session['user_id'],)
-            )],
-            'nsfw': False  # Default value
-        }
-        
-        # Calculate stats for stats section
-        stats = {
-            'total_read': len(ratings),
-            'avg_rating': DatabaseManager.execute_query(
-                "SELECT AVG(rating) as avg FROM user_ratings WHERE user_id = %s", 
-                (session['user_id'],), 
-                fetch_one=True
-            )['avg'] or 0
-        }
+        ratings = execute_query(query, (session['user_id'],))
         
         personalized_recs = []
         try:
@@ -370,22 +284,15 @@ def register_routes(app, get_recommender):
                 FROM manga 
                 WHERE manga_id IN ({placeholders})
                 """
-                personalized_recs = DatabaseManager.execute_query(query, tuple(manga_ids))
+                personalized_recs = execute_query(query, tuple(manga_ids))
         except Exception as e:
             logger.error(f"Error getting personalized recommendations: {e}")
-        
-        # After getting data and before rendering templates:
-        standardize_manga_fields(ratings)
-        standardize_manga_fields(personalized_recs)
         
         return render_template(
             'profile.html',
             ratings=ratings,
             recommendations=personalized_recs,
-            username=session.get('username'),
-            all_genres=all_genres,
-            user_preferences=user_preferences,
-            stats=stats
+            username=session.get('username')
         )
 
     @app.route('/api/recommendations/<int:manga_id>')
@@ -424,169 +331,3 @@ def register_routes(app, get_recommender):
         except Exception as e:
             logger.error(f"Error getting recommendations: {e}")
             return jsonify({'error': str(e)}), 500
-
-    @app.route('/import-mal', methods=['POST'])
-    @login_required
-    def import_mal():
-        mal_username = request.form.get('mal_username')
-        user_id = session.get('user_id')
-        
-        if not mal_username:
-            flash('Please provide your MAL username', 'error')
-            return redirect(url_for('profile'))
-        
-        try:
-            # Fetch user's manga list from MAL
-            response = requests.get(f'https://myanimelist.net/mangalist/{mal_username}')
-            if response.status_code != 200:
-                flash('Could not find MAL profile. Please check the username.', 'error')
-                return redirect(url_for('profile'))
-            
-            soup = BeautifulSoup(response.text, 'html.parser')
-            manga_items = soup.select('#list_surround table.list-table tbody tr')
-            
-            imported_count = 0
-            for item in manga_items:
-                try:
-                    manga_title = item.select_one('.manga_title').text
-                    score = item.select_one('.score').text
-                    
-                    if score and score != '-':
-                        # Find manga in our database
-                        manga = DatabaseManager.execute_query(
-                            "SELECT manga_id FROM manga WHERE LOWER(title) LIKE LOWER(%s) LIMIT 1",
-                            (f'%{manga_title}%',),
-                            fetch_one=True
-                        )
-                        
-                        if manga:
-                            # Update or create rating
-                            DatabaseManager.execute_query(
-                                """
-                                INSERT INTO user_ratings (user_id, manga_id, rating, created_at)
-                                VALUES (%s, %s, %s, %s)
-                                ON CONFLICT (user_id, manga_id)
-                                DO UPDATE SET rating = EXCLUDED.rating, updated_at = CURRENT_TIMESTAMP
-                                """,
-                                (user_id, manga['manga_id'], int(float(score)), datetime.now())
-                            )
-                            imported_count += 1
-                
-                except Exception as e:
-                    logger.error(f'Error importing manga: {str(e)}')
-                    continue
-            
-            flash(f'Successfully imported {imported_count} ratings from MAL!', 'success')
-            
-        except Exception as e:
-            logger.error(f'MAL import error: {str(e)}')
-            flash('Error importing from MAL. Please try again later.', 'error')
-        
-        return redirect(url_for('profile'))
-
-    @app.route('/reading-list/<status>', methods=['GET'])
-    @login_required
-    def reading_list(status):
-        query = """
-        SELECT m.*, rl.status, rl.updated_at
-        FROM reading_list rl
-        JOIN manga m ON rl.manga_id = m.manga_id
-        WHERE rl.user_id = %s AND rl.status = %s
-        ORDER BY rl.updated_at DESC
-        """
-        manga_list = execute_query(query, (session['user_id'], status))
-        return render_template('reading_list.html', manga_list=manga_list, current_status=status)
-
-    @app.route('/health/database')
-    def database_health():
-        try:
-            # Test database connection
-            query = "SELECT COUNT(*) as manga_count FROM manga"
-            result = DatabaseManager.execute_query(query, fetch_one=True)
-            
-            # Get database statistics
-            stats = {
-                'manga_count': result['manga_count'],
-                'user_count': DatabaseManager.execute_query(
-                    "SELECT COUNT(*) as count FROM users", fetch_one=True
-                )['count'],
-                'rating_count': DatabaseManager.execute_query(
-                    "SELECT COUNT(*) as count FROM user_ratings", fetch_one=True
-                )['count'],
-                'avg_rating': DatabaseManager.execute_query(
-                    "SELECT AVG(rating) as avg FROM user_ratings", fetch_one=True
-                )['avg']
-            }
-            
-            return jsonify({
-                'status': 'healthy',
-                'statistics': stats
-            })
-        except Exception as e:
-            logger.error(f"Database health check failed: {e}")
-            return jsonify({
-                'status': 'unhealthy',
-                'error': str(e)
-            }), 500
-
-    @app.route('/update-preferences', methods=['POST'])
-    @login_required
-    def update_preferences():
-        """Update user genre preferences and settings."""
-        user_id = session.get('user_id')
-        if not user_id:
-            return jsonify({'success': False, 'message': 'Not logged in'}), 401
-        
-        try:
-            # Get form data
-            favorite_genres = request.form.getlist('favorite_genres')
-            nsfw = 'nsfw' in request.form
-            
-            # Clear existing preferences
-            DatabaseManager.execute_query(
-                "DELETE FROM user_preferences WHERE user_id = %s",
-                (user_id,)
-            )
-            
-            # Add new preferences
-            if favorite_genres:
-                params_list = [(user_id, int(genre_id), 1.0) for genre_id in favorite_genres]
-                DatabaseManager.execute_batch(
-                    "INSERT INTO user_preferences (user_id, genre_id, weight) VALUES (%s, %s, %s)",
-                    params_list
-                )
-            
-            # Update user settings
-            DatabaseManager.execute_query(
-                "UPDATE users SET show_nsfw = %s WHERE user_id = %s",
-                (nsfw, user_id)
-            )
-            
-            return jsonify({'success': True, 'message': 'Preferences updated'})
-        except Exception as e:
-            logger.error(f"Error updating preferences: {e}")
-            return jsonify({'success': False, 'message': 'Failed to update preferences'}), 500
-
-    @app.route('/api/user-genre-stats')
-    @login_required
-    def get_user_genre_stats():
-        """Get statistics about user's manga genres for the chart."""
-        user_id = session.get('user_id')
-        
-        query = """
-        SELECT g.name, COUNT(*) as count
-        FROM user_ratings ur
-        JOIN manga_genres mg ON ur.manga_id = mg.manga_id
-        JOIN genres g ON mg.genre_id = g.genre_id
-        WHERE ur.user_id = %s
-        GROUP BY g.name
-        ORDER BY count DESC
-        LIMIT 7
-        """
-        
-        results = DatabaseManager.execute_query(query, (user_id,))
-        
-        return jsonify({
-            'labels': [row['name'] for row in results],
-            'values': [row['count'] for row in results]
-        })

@@ -11,15 +11,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-    <!-- Tailwind CSS and daisyUI -->
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/daisyui@2.51.5/dist/full.css" rel="stylesheet">
-    <!-- HTMX for dynamic interactions -->
-    <script src="https://unpkg.com/htmx.org@1.9.2"></script>
-    <!-- Day.js for date handling -->
-    <script src="https://cdn.jsdelivr.net/npm/dayjs@1.11.7/dayjs.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/dayjs@1.11.7/plugin/relativeTime.js"></script>
-    <script>dayjs.extend(window.dayjs_plugin_relativeTime)</script>
     {% block extra_css %}{% endblock %}
 </head>
 <body>
@@ -41,44 +32,6 @@
                         <a class="nav-link" href="{{ url_for('search') }}">Search</a>
                     </li>
                 </ul>
-<<<<<<< HEAD
-                <div class="navbar bg-primary text-primary-content">
-                    <div class="flex-1">
-                        <div class="form-control">
-                            <div class="input-group">
-                                <input 
-                                    type="text" 
-                                    placeholder="Search manga..." 
-                                    class="input input-bordered" 
-                                    name="q" 
-                                    hx-get="{{ url_for('search') }}"
-                                    hx-trigger="keyup changed delay:500ms, search"
-                                    hx-target="#search-results"
-                                    hx-indicator=".htmx-indicator"
-                                />
-                                <button class="btn btn-square">
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="flex-none gap-2">
-                        <div class="dropdown dropdown-end">
-                            <label tabindex="0" class="btn btn-ghost btn-circle avatar">
-                                <div class="avatar placeholder">
-                                    <div class="bg-neutral-focus text-neutral-content rounded-full w-10">
-                                        <span>{{ session.get('username')[0].upper() }}</span>
-                                    </div>
-                                </div>
-                            </label>
-                            <ul tabindex="0" class="mt-3 p-2 shadow menu menu-compact dropdown-content bg-base-100 rounded-box w-52">
-                                <li><a href="{{ url_for('profile') }}">Profile</a></li>
-                                <li><a href="{{ url_for('logout') }}">Logout</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-=======
                 <form class="d-flex mx-auto" action="{{ url_for('search') }}" method="get">
                     <input class="form-control me-2" type="search" name="q" placeholder="Search manga..." aria-label="Search">
                     <button class="btn btn-outline-light" type="submit">Search</button>
@@ -104,7 +57,6 @@
                     </li>
                     {% endif %}
                 </ul>
->>>>>>> dbca43714ae796a2da268a71b24a785aa34e5264
             </div>
         </div>
     </nav>
@@ -128,8 +80,5 @@
     <!-- Custom JavaScript -->
     <script src="{{ url_for('static', filename='js/main.js') }}"></script>
     {% block extra_js %}{% endblock %}
-
-    <!-- Add a container for search results that will be updated with HTMX -->
-    <div id="search-results" class="container mx-auto mt-4"></div>
 </body>
 </html>
