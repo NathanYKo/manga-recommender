@@ -57,20 +57,43 @@ def initialize_database():
         if not table_exists:
             # Read the SQL file and execute
             logger.info("Reading SQL schema from init_schema.sql...")
-            with open('init_schema.sql', 'r') as f:
-                sql_script = f.read()
+            try:
+                with open('init_schema.sql', 'r') as f:
+                    sql_script = f.read()
+                    
+                # Execute each statement separately for better error handling
+                logger.info("Executing SQL script...")
+                for statement in sql_script.split(';'):
+                    if statement.strip():
+                        try:
+                            cursor.execute(statement)
+                            conn.commit()
+                        except Exception as stmt_error:
+                            conn.rollback()
+                            logger.error(f"Error executing statement: {statement[:100]}...")
+                            logger.error(f"Error details: {stmt_error}")
+                            # Continue with next statement
                 
-            logger.info("Executing SQL script...")
-            cursor.execute(sql_script)
-            conn.commit()
-            logger.info("Database initialized successfully!")
+                logger.info("Database schema initialized successfully!")
+                
+                # Check if manga data was inserted
+                cursor.execute("SELECT COUNT(*) FROM manga")
+                manga_count = cursor.fetchone()['count']
+                logger.info(f"Manga table has {manga_count} entries")
+                
+            except Exception as script_error:
+                logger.error(f"Error reading or processing SQL file: {script_error}")
+                return False
         else:
             logger.info("Tables already exist, skipping initialization")
+            
+        return True
             
     except Exception as e:
         conn.rollback()
         logger.error(f"Error initializing database: {e}")
-        sys.exit(1)
+        # Don't exit the program, just return failure status
+        return False
     finally:
         cursor.close()
         conn.close()
