@@ -48,9 +48,7 @@ class CollaborativeFilteringRecommender:
             for _, manga in self.manga_df.iterrows():
                 if manga['score'] is not None:
                     # Distribute ratings around the API score with some variance
-                    popularity = float(manga['popularity']) if manga['popularity'] else 0
-                    # Limit the number of ratings to the available users
-                    num_ratings = min(len(user_ids), max(5, int(popularity / 100)))
+                    num_ratings = max(5, int(float(manga['popularity'] / 100)) if manga['popularity'] else 5
                     selected_users = np.random.choice(user_ids, size=num_ratings, replace=False)
                     
                     for user_id in selected_users:

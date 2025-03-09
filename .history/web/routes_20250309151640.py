@@ -348,14 +348,6 @@ def register_routes(app, get_recommender):
     def api_recommendations(manga_id):
         """API endpoint to get recommendations for a specific manga."""
         try:
-            # First verify manga exists
-            query = "SELECT manga_id FROM manga WHERE manga_id = %s"
-            results = execute_query(query, (manga_id,))
-            
-            if not results or len(results) == 0:
-                return jsonify({'error': 'Manga not found'}), 404
-                
-            # Get recommendations
             rec_system = get_recommender()
             recommendations = rec_system.get_recommendations_by_id(manga_id, top_n=10)
             
@@ -376,13 +368,6 @@ def register_routes(app, get_recommender):
             return jsonify({'error': 'Not logged in'}), 401
         
         try:
-            # First verify user exists
-            query = "SELECT user_id FROM users WHERE user_id = %s"
-            results = execute_query(query, (session['user_id'],))
-            
-            if not results or len(results) == 0:
-                return jsonify({'error': 'User not found'}), 404
-            
             rec_system = get_recommender()
             recommendations = rec_system.get_personalized_recommendations(session['user_id'], top_n=10)
             
@@ -640,106 +625,3 @@ def register_routes(app, get_recommender):
         except Exception as e:
             logger.error(f"Error getting manga details with recommendations: {e}")
             return jsonify({'error': str(e)}), 500
-
-    @app.route('/recommend', methods=['GET', 'POST'])
-    def recommend_manga():
-        """
-        Handle manga recommendation requests.
-        GET: Show the recommendation form
-        POST: Process the recommendation request and show results
-        """
-        if request.method == 'POST':
-            # Get input parameters
-            manga_title = request.form.get('title', '').strip()
-            manga_id = request.form.get('manga_id', '').strip()
-            num_recommendations = int(request.form.get('num_recommendations', 10))
-            
-            # Limit the number of recommendations
-            if num_recommendations < 1:
-                num_recommendations = 10
-            elif num_recommendations > 50:
-                num_recommendations = 50
-                
-            # If neither title nor ID provided, show the form
-            if not manga_title and not manga_id:
-                flash('Please provide either a manga title or ID', 'error')
-                return render_template('recommend_form.html')
-                
-            # Get manga by ID or search for title
-            target_manga = None
-            if manga_id:
-                try:
-                    manga_id = int(manga_id)
-                    query = "SELECT * FROM manga WHERE manga_id = %s"
-                    results = execute_query(query, (manga_id,))
-                    if results and len(results) > 0:
-                        target_manga = results[0]
-                except (ValueError, TypeError):
-                    flash('Invalid manga ID', 'error')
-            
-            # If we don't have a manga yet, search by title
-            if not target_manga and manga_title:
-                query = """
-                SELECT * FROM manga 
-                WHERE LOWER(title) LIKE LOWER(%s) 
-                OR LOWER(title_english) LIKE LOWER(%s)
-                ORDER BY popularity DESC
-                LIMIT 1
-                """
-                results = execute_query(query, (f'%{manga_title}%', f'%{manga_title}%'))
-                if results and len(results) > 0:
-                    target_manga = results[0]
-            
-            # If we still don't have a manga, show an error
-            if not target_manga:
-                flash('Manga not found', 'error')
-                return render_template('recommend_form.html')
-            
-            # Get recommendations
-            try:
-                rec_system = get_recommender()
-                recommendations = rec_system.get_recommendations_by_id(target_manga['manga_id'], top_n=num_recommendations)
-                
-                # Get detailed information for the recommendations
-                similar_manga = []
-                if not recommendations.empty:
-                    manga_ids = recommendations['manga_id'].tolist()
-                    placeholders = ', '.join(['%s'] * len(manga_ids))
-                    query = f"""
-                    SELECT m.manga_id, m.title, m.image_url, m.score, m.popularity, 
-                           m.status, m.published_from, m.published_to, m.synopsis,
-                           STRING_AGG(DISTINCT g.name, ', ') as genre_list
-                    FROM manga m
-                    LEFT JOIN manga_genres mg ON m.manga_id = mg.manga_id
-                    LEFT JOIN genres g ON mg.genre_id = g.genre_id
-                    WHERE m.manga_id IN ({placeholders})
-                    GROUP BY m.manga_id
-                    """
-                    similar_manga = execute_query(query, tuple(manga_ids))
-                    
-                    # Add similarity scores
-                    similarity_dict = {row['manga_id']: row['hybrid_score'] if 'hybrid_score' in row else row['similarity'] 
-                                    for _, row in recommendations.iterrows()}
-                    
-                    for rec in similar_manga:
-                        rec['similarity_score'] = similarity_dict.get(rec['manga_id'], 0)
-                
-                # Standardize fields
-                standardize_manga_fields(target_manga)
-                standardize_manga_fields(similar_manga)
-                
-                return render_template(
-                    'recommendations.html',
-                    manga=target_manga,
-                    recommendations=similar_manga,
-                    user_id=session.get('user_id'),
-                    username=session.get('username')
-                )
-                
-            except Exception as e:
-                logger.error(f"Error getting recommendations: {e}")
-                flash('Error generating recommendations', 'error')
-                return render_template('recommend_form.html')
-        
-        # GET request - show the form
-        return render_template('recommend_form.html')

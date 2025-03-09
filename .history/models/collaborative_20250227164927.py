@@ -26,7 +26,7 @@ class CollaborativeFilteringRecommender:
         FROM manga
         """
         manga_result = execute_query(manga_query)
-        self.manga_df = pd.DataFrame(manga_result)
+        self.manga_df = pd.DataFrame(manga_result.fetchall(), columns=manga_result.keys())
         
         # Load user ratings
         ratings_query = """
@@ -34,7 +34,7 @@ class CollaborativeFilteringRecommender:
         FROM user_ratings
         """
         ratings_result = execute_query(ratings_query)
-        self.ratings_df = pd.DataFrame(ratings_result)
+        self.ratings_df = pd.DataFrame(ratings_result.fetchall(), columns=ratings_result.keys())
         
         logger.info(f"Loaded {len(self.manga_df)} manga and {len(self.ratings_df)} ratings")
         
@@ -48,15 +48,12 @@ class CollaborativeFilteringRecommender:
             for _, manga in self.manga_df.iterrows():
                 if manga['score'] is not None:
                     # Distribute ratings around the API score with some variance
-                    popularity = float(manga['popularity']) if manga['popularity'] else 0
-                    # Limit the number of ratings to the available users
-                    num_ratings = min(len(user_ids), max(5, int(popularity / 100)))
+                    num_ratings = max(5, int(manga['popularity'] / 100)) if manga['popularity'] else 5
                     selected_users = np.random.choice(user_ids, size=num_ratings, replace=False)
                     
                     for user_id in selected_users:
-                        # Convert score to float and add some noise to create variance
-                        score_float = float(manga['score'])
-                        rating = min(10, max(1, score_float + np.random.normal(0, 1)))
+                        # Add some noise to the score to create variance
+                        rating = min(10, max(1, manga['score'] + np.random.normal(0, 1)))
                         synthetic_ratings.append({
                             'user_id': user_id,
                             'manga_id': manga['manga_id'],

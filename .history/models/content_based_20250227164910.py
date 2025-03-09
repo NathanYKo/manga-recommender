@@ -29,8 +29,7 @@ class ContentBasedRecommender:
         """
         
         result = execute_query(query)
-        # Create DataFrame directly from the result list of dictionaries
-        self.manga_df = pd.DataFrame(result)
+        self.manga_df = pd.DataFrame(result.fetchall(), columns=result.keys())
         logger.info(f"Loaded {len(self.manga_df)} manga entries for content-based filtering")
         
         # Fill NaN values
