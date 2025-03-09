@@ -56,8 +56,8 @@ def initialize_database():
         
         if not table_exists:
             # Read the SQL file and execute
-            logger.info("Reading SQL schema from manga_data.sql...")
-            with open('manga_data.sql', 'r') as f:
+            logger.info("Reading SQL schema from init_schema.sql...")
+            with open('init_schema.sql', 'r') as f:
                 sql_script = f.read()
                 
             logger.info("Executing SQL script...")

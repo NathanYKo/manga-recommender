@@ -595,31 +595,56 @@ def register_routes(app, get_recommender):
             
             # Get recommendations
             similar_manga = []
-            rec_system = get_recommender()
-            recommendations = rec_system.get_recommendations_by_id(manga_id, top_n=10)
-            
-            if not recommendations.empty:
-                manga_ids = recommendations['manga_id'].tolist()
-                placeholders = ', '.join(['%s'] * len(manga_ids))
-                query = f"""
-                SELECT m.manga_id, m.title, m.image_url, m.score, m.popularity, 
-                       m.status, m.published_from, m.published_to, m.synopsis,
-                       STRING_AGG(DISTINCT g.name, ', ') as genre_list
+            try:
+                rec_system = get_recommender()
+                recommendations = rec_system.get_recommendations_by_id(manga_id, top_n=10)
+                
+                if not recommendations.empty:
+                    manga_ids = recommendations['manga_id'].tolist()
+                    placeholders = ', '.join(['%s'] * len(manga_ids))
+                    query = f"""
+                    SELECT m.manga_id, m.title, m.image_url, m.score, m.popularity, 
+                           m.status, m.published_from, m.published_to, m.synopsis,
+                           STRING_AGG(DISTINCT g.name, ', ') as genre_list
+                    FROM manga m
+                    LEFT JOIN manga_genres mg ON m.manga_id = mg.manga_id
+                    LEFT JOIN genres g ON mg.genre_id = g.genre_id
+                    WHERE m.manga_id IN ({placeholders})
+                    GROUP BY m.manga_id
+                    """
+                    similar_manga = execute_query(query, tuple(manga_ids))
+                    standardize_manga_fields(similar_manga)
+                    
+                    # Add similarity scores from recommendation system
+                    similarity_dict = {row['manga_id']: row['hybrid_score'] if 'hybrid_score' in row else row['similarity'] 
+                                      for _, row in recommendations.iterrows()}
+                    
+                    for i, rec in enumerate(similar_manga):
+                        rec['similarity_score'] = similarity_dict.get(rec['manga_id'], 0)
+            except Exception as e:
+                logger.warning(f"Error getting recommendations with recommender system: {e}")
+                # Fallback - get recommendations based on genres
+                query = """
+                SELECT m.manga_id, m.title, m.image_url, m.score, m.status, m.synopsis,
+                       STRING_AGG(DISTINCT g.name, ', ') as genre_list,
+                       COUNT(*) as genre_match_count
                 FROM manga m
-                LEFT JOIN manga_genres mg ON m.manga_id = mg.manga_id
-                LEFT JOIN genres g ON mg.genre_id = g.genre_id
-                WHERE m.manga_id IN ({placeholders})
+                JOIN manga_genres mg1 ON m.manga_id = mg1.manga_id
+                JOIN genres g ON mg1.genre_id = g.genre_id
+                WHERE mg1.genre_id IN (
+                    SELECT genre_id FROM manga_genres WHERE manga_id = %s
+                )
+                AND m.manga_id != %s
                 GROUP BY m.manga_id
+                ORDER BY genre_match_count DESC, m.score DESC
+                LIMIT 5
                 """
-                similar_manga = execute_query(query, tuple(manga_ids))
+                similar_manga = execute_query(query, (manga_id, manga_id))
                 standardize_manga_fields(similar_manga)
                 
-                # Add similarity scores from recommendation system
-                similarity_dict = {row['manga_id']: row['hybrid_score'] if 'hybrid_score' in row else row['similarity'] 
-                                  for _, row in recommendations.iterrows()}
-                
-                for i, rec in enumerate(similar_manga):
-                    rec['similarity_score'] = similarity_dict.get(rec['manga_id'], 0)
+                # Add simple similarity score
+                for rec in similar_manga:
+                    rec['similarity_score'] = 0.5  # Default similarity score
             
             # Get user rating if logged in
             user_rating = None

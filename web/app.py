@@ -43,12 +43,19 @@ def get_recommender():
     """Get or initialize the recommender system"""
     global recommender
     if recommender is None:
-        logger.info("Initializing recommender system...")
-        recommender = HybridRecommender(
-            content_weight=config.get('content_weight', 0.5),
-            collab_weight=config.get('collab_weight', 0.5)
-        )
-        recommender.fit()
+        try:
+            logger.info("Initializing recommender system...")
+            recommender = HybridRecommender(
+                content_weight=0.5,
+                collab_weight=0.5
+            )
+            recommender.fit()
+            logger.info("Recommender system initialized successfully")
+        except Exception as e:
+            logger.error(f"Error initializing recommender system: {e}")
+            logger.warning("Using a fallback minimal recommender")
+            # Return None to indicate the recommender couldn't be initialized
+            return None
     return recommender
 
 # Import and register routes

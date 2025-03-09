@@ -3,6 +3,7 @@ services:
     name: manga-recommender
     env: python
     plan: free
+    branch: main
     buildCommand: pip install -r requirements.txt
     startCommand: python init_db.py && gunicorn -c gunicorn_config.py api.index:app
     envVars:
