@@ -330,6 +330,18 @@ def register_routes(app, get_recommender):
             logger.error(f"Error rating manga: {e}")
             return jsonify({'success': False, 'message': 'Failed to save rating'}), 500
 
+    @app.route('/add_comment/<int:manga_id>', methods=['POST'])
+    def add_comment(manga_id):
+        """Allow users to add comments to a manga - placeholder for now."""
+        if 'user_id' not in session:
+            return jsonify({'success': False, 'message': 'You must be logged in to comment'}), 401
+        
+        # This is a placeholder implementation until the comments feature is fully implemented
+        return jsonify({
+            'success': False, 
+            'message': 'Comments feature is coming soon!'
+        }), 200
+
     @app.route('/profile')
     def profile():
         """Display the user's profile with their ratings and recommendations."""

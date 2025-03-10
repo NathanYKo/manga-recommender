@@ -161,7 +161,7 @@
         <div class="col-md-3">
             <div class="stat-card">
                 <h4>Average Rating</h4>
-                <p class="display-4">{{ stats.avg_rating|round(1) }}</p>
+                <p class="display-4">{% if stats.avg_rating is not none %}{{ stats.avg_rating|round(1) }}{% else %}N/A{% endif %}</p>
             </div>
         </div>
         <div class="col-md-6">
