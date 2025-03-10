@@ -332,26 +332,15 @@ def register_routes(app, get_recommender):
 
     @app.route('/add_comment/<int:manga_id>', methods=['POST'])
     def add_comment(manga_id):
-        """
-        Handle manga comment submission.
-        This is a placeholder endpoint for future implementation of the comments feature.
-        """
+        """Allow users to add comments to a manga - placeholder for now."""
         if 'user_id' not in session:
-            return jsonify({'success': False, 'message': 'You must be logged in to comment'}), 403
-            
-        # Get comment text
-        comment_text = request.form.get('comment', '').strip()
+            return jsonify({'success': False, 'message': 'You must be logged in to comment'}), 401
         
-        if not comment_text:
-            return jsonify({'success': False, 'message': 'Comment cannot be empty'}), 400
-            
-        # This is a placeholder for future implementation
-        # In the future, we will save the comment to the database
-        
-        logger.info(f"Comment placeholder endpoint called for manga ID {manga_id}")
-        
-        # Return success response
-        return jsonify({'success': True, 'message': 'Comment feature coming soon!'})
+        # This is a placeholder implementation until the comments feature is fully implemented
+        return jsonify({
+            'success': False, 
+            'message': 'Comments feature is coming soon!'
+        }), 200
 
     @app.route('/profile')
     def profile():

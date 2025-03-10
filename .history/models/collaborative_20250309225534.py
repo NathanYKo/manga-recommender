@@ -111,104 +111,84 @@ class CollaborativeFilteringRecommender:
     
     def fit(self, k=10, metric='cosine', algorithm='brute'):
         """Fit the collaborative filtering model using k-nearest neighbors"""
-        try:
-            self._load_data()
-            
-            if len(self.ratings_df) == 0:
-                logger.error("No ratings data available. Cannot fit collaborative model.")
-                return self
-            
-            self._create_matrix()
-            
-            if self.manga_user_matrix is None or self.manga_user_matrix.shape[0] == 0:
-                logger.error("No manga qualified for collaborative filtering after filtering.")
-                return self
-            
-            # Initialize the model
-            self.model = NearestNeighbors(n_neighbors=k, metric=metric, algorithm=algorithm)
-            
-            # Fit the model to our manga-user matrix (item-based collaborative filtering)
-            self.model.fit(self.manga_user_matrix)
-            
-            logger.info(f"Fitted KNN model with {k} neighbors using {metric} metric")
-            
-        except Exception as e:
-            logger.error(f"Error fitting collaborative model: {str(e)}")
-            # Ensure model and matrices are reset if there's an error
-            self.model = None
-            self.manga_user_matrix = None
-            self.user_manga_matrix = None
-            self.manga_indices = {}
-            
+        self._load_data()
+        
+        if len(self.ratings_df) == 0:
+            logger.error("No ratings data available. Cannot fit collaborative model.")
+            return self
+        
+        self._create_matrix()
+        
+        if self.manga_user_matrix.shape[0] == 0:
+            logger.error("No manga qualified for collaborative filtering after filtering.")
+            return self
+        
+        # Initialize the model
+        self.model = NearestNeighbors(n_neighbors=k, metric=metric, algorithm=algorithm)
+        
+        # Fit the model to our manga-user matrix (item-based collaborative filtering)
+        self.model.fit(self.manga_user_matrix)
+        
+        logger.info(f"Fitted KNN model with {k} neighbors using {metric} metric")
         return self
     
     def get_recommendations_by_id(self, manga_id, top_n=10):
         """Get manga recommendations based on manga ID using collaborative filtering"""
-        try:
-            if self.model is None or self.manga_indices is None:
-                self.fit()
-                
-            # If model is still None after trying to fit, we can't generate recommendations
-            if self.model is None or self.manga_indices is None or not self.manga_indices:
-                logger.debug(f"Could not initialize collaborative model for manga ID {manga_id}")
-                return pd.DataFrame()
-            
-            # Check if manga_id exists in our model
-            if manga_id not in self.manga_indices:
-                logger.debug(f"Manga ID {manga_id} not found in collaborative model")
-                return pd.DataFrame()
-            
-            # Get the manga index
-            manga_idx = self.manga_indices[manga_id]
-            
-            # Get K nearest neighbors
-            distances, indices = self.model.kneighbors(
-                self.manga_user_matrix[manga_idx].reshape(1, -1),
-                n_neighbors=min(len(self.manga_indices), top_n+1)  # +1 because the manga itself will be included
-            )
-            
-            # Convert model indices back to manga IDs
-            manga_ids = [list(self.manga_indices.keys())[list(self.manga_indices.values()).index(idx)] for idx in indices.flatten()]
-            
-            # Remove the input manga from the list
-            distances = distances.flatten()
-            indices = indices.flatten()
-            
-            # Create a list of (manga_id, distance) tuples, excluding the input manga
-            recommendations = []
-            for i in range(len(distances)):
-                if manga_ids[i] != manga_id:  # Skip the input manga
-                    recommendations.append((manga_ids[i], distances[i]))
-            
-            if not recommendations:
-                logger.warning(f"No recommendations found for manga ID {manga_id}")
-                return pd.DataFrame()
-            
-            # Get manga details and create DataFrame
-            rec_manga_ids = [rec[0] for rec in recommendations]
-            rec_distances = [rec[1] for rec in recommendations]
-            
-            # Filter manga DataFrame to get recommendation details
-            rec_df = self.manga_df[self.manga_df['manga_id'].isin(rec_manga_ids)].copy()
-            
-            # Add similarity information (1 - distance for cosine similarity)
-            rec_df['similarity'] = [1 - dist for dist in rec_distances[:len(rec_df)]]
-            
-            # Sort by similarity
-            rec_df = rec_df.sort_values('similarity', ascending=False)
-            
-            # Limit to top_n
-            rec_df = rec_df.head(top_n)
-            
-            # Get original manga title for logging
-            manga_title = self.manga_df[self.manga_df['manga_id'] == manga_id]['title'].iloc[0]
-            logger.info(f"Generated {len(rec_df)} collaborative recommendations for '{manga_title}'")
-            
-            return rec_df[['manga_id', 'title', 'score', 'similarity']]
-            
-        except Exception as e:
-            logger.debug(f"Error generating collaborative recommendations for manga ID {manga_id}: {str(e)}")
+        if self.model is None or self.manga_indices is None:
+            self.fit()
+        
+        # Check if manga_id exists in our model
+        if manga_id not in self.manga_indices:
+            logger.debug(f"Manga ID {manga_id} not found in collaborative model")
             return pd.DataFrame()
+        
+        # Get the manga index
+        manga_idx = self.manga_indices[manga_id]
+        
+        # Get K nearest neighbors
+        distances, indices = self.model.kneighbors(
+            self.manga_user_matrix[manga_idx].reshape(1, -1),
+            n_neighbors=top_n+1  # +1 because the manga itself will be included
+        )
+        
+        # Convert model indices back to manga IDs
+        manga_ids = [list(self.manga_indices.keys())[list(self.manga_indices.values()).index(idx)] for idx in indices.flatten()]
+        
+        # Remove the input manga from the list
+        distances = distances.flatten()
+        indices = indices.flatten()
+        
+        # Create a list of (manga_id, distance) tuples, excluding the input manga
+        recommendations = []
+        for i in range(len(distances)):
+            if manga_ids[i] != manga_id:  # Skip the input manga
+                recommendations.append((manga_ids[i], distances[i]))
+        
+        if not recommendations:
+            logger.warning(f"No recommendations found for manga ID {manga_id}")
+            return pd.DataFrame()
+        
+        # Get manga details and create DataFrame
+        rec_manga_ids = [rec[0] for rec in recommendations]
+        rec_distances = [rec[1] for rec in recommendations]
+        
+        # Filter manga DataFrame to get recommendation details
+        rec_df = self.manga_df[self.manga_df['manga_id'].isin(rec_manga_ids)].copy()
+        
+        # Add similarity information (1 - distance for cosine similarity)
+        rec_df['similarity'] = [1 - dist for dist in rec_distances[:len(rec_df)]]
+        
+        # Sort by similarity
+        rec_df = rec_df.sort_values('similarity', ascending=False)
+        
+        # Limit to top_n
+        rec_df = rec_df.head(top_n)
+        
+        # Get original manga title for logging
+        manga_title = self.manga_df[self.manga_df['manga_id'] == manga_id]['title'].iloc[0]
+        logger.info(f"Generated {len(rec_df)} collaborative recommendations for '{manga_title}'")
+        
+        return rec_df[['manga_id', 'title', 'score', 'similarity']]
     
     def get_recommendations_for_user(self, user_id, top_n=10, exclude_rated=True):
         """Get manga recommendations for a specific user"""
