@@ -1,0 +1,161 @@
+{
+    "mal_id": 1534,
+    "url": "https://myanimelist.net/manga/1534/Zetman",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/188924.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/188924t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/188924l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/188924.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/188924t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/188924l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zetman"
+        },
+        {
+            "type": "Japanese",
+            "title": "ZETMAN"
+        }
+    ],
+    "title": "Zetman",
+    "title_english": null,
+    "title_japanese": "ZETMAN",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 226,
+    "volumes": 20,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-10-31T00:00:00+00:00",
+        "to": "2014-07-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 10,
+                "year": 2002
+            },
+            "to": {
+                "day": 24,
+                "month": 7,
+                "year": 2014
+            }
+        },
+        "string": "Oct 31, 2002 to Jul 24, 2014"
+    },
+    "score": 7.61,
+    "scored": 7.61,
+    "scored_by": 14429,
+    "rank": 2261,
+    "popularity": 403,
+    "members": 44619,
+    "favorites": 672,
+    "synopsis": "On the surface, Jin Kanzaki may seem like an ordinary street urchin, but he possesses a supernatural strength that he uses for the welfare of his fellow man, or so his grandfather wishes. Much to his chagrin, his grandchild demands 10,000 yen for every good deed that he carries out. However, Jin's modest life is suddenly thrown into disarray when he encounters a player, a deadly entity possibly responsible for several mysterious murders.\n\nAs Jin attempts to navigate the situation by punching his way through every obstacle, a group of mysterious men desperately hunt down an individual with a ring-shaped mark on their hand. As they continue their investigation, various secrets surrounding the world begin to unravel—and it seems like Jin himself might be the solution to the puzzle.\n\n[Written by MAL Rewrite]",
+    "background": "Zetman was published in Spanish by Glénat España from October 2006 to June 2012 before declaring bankruptcy; it was republished and finished by Ivrea España from June 2013 to March 2016. It was also published in Brazilian Portuguese by Editora JBC from June 2015 to October 2017.",
+    "authors": [
+        {
+            "mal_id": 2563,
+            "type": "people",
+            "name": "Katsura, Masakazu",
+            "url": "https://myanimelist.net/people/2563/Masakazu_Katsura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 11837,
+                    "type": "anime",
+                    "name": "Zetman",
+                    "url": "https://myanimelist.net/anime/11837/Zetman"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 61103,
+                    "type": "manga",
+                    "name": "Alphas: Zetman Another Story",
+                    "url": "https://myanimelist.net/manga/61103/Alphas__Zetman_Another_Story"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 2987,
+                    "type": "manga",
+                    "name": "Zetman",
+                    "url": "https://myanimelist.net/manga/2987/Zetman"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ZETMAN"
+        }
+    ]
+}

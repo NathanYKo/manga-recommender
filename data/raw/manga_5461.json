@@ -1,0 +1,96 @@
+{
+    "mal_id": 5461,
+    "url": "https://myanimelist.net/manga/5461/Serial_Experiments_Lain__The_Nightmare_of_Fabrication",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6920.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6920t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6920l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6920.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6920t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6920l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Serial Experiments Lain: The Nightmare of Fabrication"
+        },
+        {
+            "type": "Japanese",
+            "title": "serial experiments lain the nightmare of fabrication"
+        }
+    ],
+    "title": "Serial Experiments Lain: The Nightmare of Fabrication",
+    "title_english": null,
+    "title_japanese": "serial experiments lain the nightmare of fabrication",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-05-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 5,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 1999"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 9791,
+    "rank": 3248,
+    "popularity": 893,
+    "members": 22142,
+    "favorites": 398,
+    "synopsis": "The Nightmare of Fabrication is a beautifully drawn full-color manga from Yoshitoshi Abe. The 18 page short story can be found in the \"an omnipresence in wired 'lain'\" artbook.\n\nIt's a bonus story which apparently isn't related with either the anime nor the PS game. It shows characters who were included in the PS game but not in the TV series (like the psychiatrist), but also determinant characters from the anime who didn't appear in the video game (like Deus).\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1991,
+            "type": "people",
+            "name": "ABe, Yoshitoshi",
+            "url": "https://myanimelist.net/people/1991/Yoshitoshi_ABe"
+        }
+    ],
+    "serializations": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 339,
+                    "type": "anime",
+                    "name": "Serial Experiments Lain",
+                    "url": "https://myanimelist.net/anime/339/Serial_Experiments_Lain"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

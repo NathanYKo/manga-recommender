@@ -1,0 +1,135 @@
+{
+    "mal_id": 1111,
+    "url": "https://myanimelist.net/manga/1111/Buddha",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/260394.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/260394t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/260394l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/260394.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/260394t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/260394l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Buddha"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブッダ"
+        },
+        {
+            "type": "English",
+            "title": "Buddha"
+        }
+    ],
+    "title": "Buddha",
+    "title_english": "Buddha",
+    "title_japanese": "ブッダ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 66,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1972-09-01T00:00:00+00:00",
+        "to": "1983-11-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 9,
+                "year": 1972
+            },
+            "to": {
+                "day": 1,
+                "month": 11,
+                "year": 1983
+            }
+        },
+        "string": "Sep 1972 to Nov 1983"
+    },
+    "score": 8.28,
+    "scored": 8.28,
+    "scored_by": 4767,
+    "rank": 340,
+    "popularity": 1247,
+    "members": 16464,
+    "favorites": 410,
+    "synopsis": "In ancient Southeast Asia, the lives of the people are plagued by drought, famine, constant warfare and the injustices of the strict caste system. The intertwining lives of many unhappy souls are drawn together by the birth of the young prince Siddhartha, who embarks on a spiritual journey, becomes Buddha, \"the Enlightened One,\" and attempts to bring about a spiritual rebirth of the people in this desperate age.\n\n(Source: ANN)",
+    "background": "Buddha received the Bungei Shunju Manga Award in 1975. The series was published in English by Vertical Inc. in 8 volumes in both hardcover and paperback format. Hardcover was released from October 1, 2003 to December 1, 2005 while paperback was released from May 2, 2006 to July 3, 2007. A complete paperback box set was released on July 1, 2014. The same publisher digitally published the series from November 1, 2017 to February 7, 2018. It was also published in Brazilian Portuguese by Conrad from February 2005 to March 2006.",
+    "authors": [
+        {
+            "mal_id": 1938,
+            "type": "people",
+            "name": "Tezuka, Osamu",
+            "url": "https://myanimelist.net/people/1938/Osamu_Tezuka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 520,
+            "type": "manga",
+            "name": "Comic Tom (Monthly)",
+            "url": "https://myanimelist.net/manga/magazine/520/Comic_Tom_Monthly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 7014,
+                    "type": "anime",
+                    "name": "Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku",
+                    "url": "https://myanimelist.net/anime/7014/Tezuka_Osamu_no_Buddha__Akai_Sabaku_yo_Utsukushiku"
+                },
+                {
+                    "mal_id": 20969,
+                    "type": "anime",
+                    "name": "Tezuka Osamu no Buddha: Owarinaki Tabi",
+                    "url": "https://myanimelist.net/anime/20969/Tezuka_Osamu_no_Buddha__Owarinaki_Tabi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/buddha/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%83%E3%83%80_(%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

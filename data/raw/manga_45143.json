@@ -1,0 +1,148 @@
+{
+    "mal_id": 45143,
+    "url": "https://myanimelist.net/manga/45143/Kono_Oto_Tomare",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/116653.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/116653t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/116653l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/116653.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/116653t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/116653l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kono Oto Tomare!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Stop This Sound!"
+        },
+        {
+            "type": "Japanese",
+            "title": "この音とまれ！"
+        }
+    ],
+    "title": "Kono Oto Tomare!",
+    "title_english": null,
+    "title_japanese": "この音とまれ！",
+    "title_synonyms": [
+        "Stop This Sound!"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2012-08-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 8,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 4, 2012 to ?"
+    },
+    "score": 8.7,
+    "scored": 8.7,
+    "scored_by": 13471,
+    "rank": 61,
+    "popularity": 384,
+    "members": 46820,
+    "favorites": 2757,
+    "synopsis": "Following the graduation of every other member of the Koto Music Club, Takezou Kurata is left alone as the new club president. Now burdened with the arduous task of rebuilding membership, he struggles to recruit anyone due to a lack of interest. Just as Kurata has lost nearly all hope in keeping the club alive, the feared delinquent Chika Kudou appears, claiming he will join and become the club president himself.\n\nAt first, Kurata refuses to admit such a troublesome person, aware of the dark rumors that have been circulating about Kudou. However, after discovering a more vulnerable side to Kudou and his mysterious connection to the club, Kurata rethinks his decision. The soon-to-be defunct club is saved with the help of koto prodigy Satowa Houzuki, who uses her charms to recruit Kudou's lively friends Saneyasu Adachi, Michitaka Sakai, and Kouta Mizuhara.\n\nWith sufficient numbers to retain the club's status, Houzuki declares that they will aim to become the best koto players in the nation, much to Kurata's dismay. This ragtag bunch of young musicians have a road filled with challenges and adversities ahead of them, and by overcoming their fears and differences, their aspirations may very well come true.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4429,
+            "type": "people",
+            "name": "Sakura, Amyuu",
+            "url": "https://myanimelist.net/people/4429/Amyuu_Sakura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38080,
+                    "type": "anime",
+                    "name": "Kono Oto Tomare!",
+                    "url": "https://myanimelist.net/anime/38080/Kono_Oto_Tomare"
+                },
+                {
+                    "mal_id": 38889,
+                    "type": "anime",
+                    "name": "Kono Oto Tomare! Part 2",
+                    "url": "https://myanimelist.net/anime/38889/Kono_Oto_Tomare_Part_2"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://jumpsq.shueisha.co.jp/rensai/konoototomare/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%93%E3%81%AE%E9%9F%B3%E3%81%A8%E3%81%BE%E3%82%8C!"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kono_Oto_Tomare!_Sounds_of_Life"
+        }
+    ]
+}

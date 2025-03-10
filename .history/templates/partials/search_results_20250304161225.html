@@ -56,7 +56,7 @@
                 <div class="carousel-item">
                     <div class="card w-64 bg-base-100 shadow-xl">
                         <figure>
-                            <img src="{{ manga.image_url }}" alt="{{ manga.title }}" onerror="this.src='{{ url_for('static', filename='img/no-cover.jpg') }}'">
+                            <img src="{{ manga.image_url }}" alt="{{ manga.title }}" onerror="this.onerror=null; this.src='/static/img/no-cover.jpg'">
                         </figure>
                         <div class="card-body">
                             <h3 class="card-title text-sm">{{ manga.title }}</h3>

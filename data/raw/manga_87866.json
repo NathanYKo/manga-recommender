@@ -1,0 +1,148 @@
+{
+    "mal_id": 87866,
+    "url": "https://myanimelist.net/manga/87866/Naruto_Gaiden__Nanadaime_Hokage_to_Akairo_no_Hanatsuzuki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/161762.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/161762t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/161762l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/161762.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/161762t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/161762l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Naruto Side Story: The Seventh Hokage and the Scarlet Spring Month"
+        },
+        {
+            "type": "Japanese",
+            "title": "NARUTO外伝 七代目火影と緋色の花つ月"
+        },
+        {
+            "type": "English",
+            "title": "Naruto: The Seventh Hokage and the Scarlet Spring"
+        }
+    ],
+    "title": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
+    "title_english": "Naruto: The Seventh Hokage and the Scarlet Spring",
+    "title_japanese": "NARUTO外伝 七代目火影と緋色の花つ月",
+    "title_synonyms": [
+        "Naruto Side Story: The Seventh Hokage and the Scarlet Spring Month"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-04-27T00:00:00+00:00",
+        "to": "2015-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 6,
+                "month": 7,
+                "year": 2015
+            }
+        },
+        "string": "Apr 27, 2015 to Jul 6, 2015"
+    },
+    "score": 7.16,
+    "scored": 7.16,
+    "scored_by": 32271,
+    "rank": 6624,
+    "popularity": 354,
+    "members": 49636,
+    "favorites": 502,
+    "synopsis": "The sun has set on Naruto Uzumaki's youth and is rising on the children of the next generation. One of these kids is Sarada Uchiha, daughter of Naruto's best friends Sasuke Uchiha and Sakura Haruno. Sharing a strong likeness with her father, Sarada has always wondered why she doesn't have any of her mother's features. When she discovers a photograph featuring Sasuke's old comrade Karin, Sarada is shocked to discover that she bears more of a resemblance to this strange woman than she does to her mother.\n\nWhen Sasuke returns to the village with news of a massive impending threat, Naruto obeys his duty as the Seventh Hokage and accompanies his old friend on an investigative mission. Unbeknownst to them both, Sarada and her friend Chouchou Akimichi pursue them, intent on solving the mystery of Sarada's parentage.\n\n[Written by MAL Rewrite]",
+    "background": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki was published in English as Naruto: The Seventh Hokage and the Scarlet Spring by VIZ Media under the Shonen Jump imprint on January 5, 2016; in Polish by J.P Fantastica on March 18, 2016; and in Brazilian Portuguese by Panini Comics/Planet Manga in October 2016.",
+    "authors": [
+        {
+            "mal_id": 1879,
+            "type": "people",
+            "name": "Kishimoto, Masashi",
+            "url": "https://myanimelist.net/people/1879/Masashi_Kishimoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 34566,
+                    "type": "anime",
+                    "name": "Boruto: Naruto Next Generations",
+                    "url": "https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 11,
+                    "type": "manga",
+                    "name": "Naruto",
+                    "url": "https://myanimelist.net/manga/11/Naruto"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/NARUTO_-%E3%83%8A%E3%83%AB%E3%83%88-"
+        }
+    ]
+}

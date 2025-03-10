@@ -1,0 +1,143 @@
+{
+    "mal_id": 70345,
+    "url": "https://myanimelist.net/manga/70345/Grand_Blue",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166124.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166124t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166124l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166124.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166124t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166124l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Grand Blue"
+        },
+        {
+            "type": "Japanese",
+            "title": "ぐらんぶる"
+        },
+        {
+            "type": "English",
+            "title": "Grand Blue Dreaming"
+        }
+    ],
+    "title": "Grand Blue",
+    "title_english": "Grand Blue Dreaming",
+    "title_japanese": "ぐらんぶる",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-04-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 7, 2014 to ?"
+    },
+    "score": 9.03,
+    "scored": 9.03,
+    "scored_by": 70500,
+    "rank": 10,
+    "popularity": 48,
+    "members": 185473,
+    "favorites": 18157,
+    "synopsis": "Among the seaside town of Izu's ocean waves and rays of shining sun, Iori Kitahara is just beginning his freshman year at Izu University. As he moves into his uncle's scuba diving shop, Grand Blue, he eagerly anticipates his dream college life, filled with beautiful girls and good friends.\n\nBut things don't exactly go according to plan. Upon entering the shop, he encounters a group of rowdy, naked upperclassmen, who immediately coerce him into participating in their alcoholic activities. Though unwilling at first, Iori quickly gives in and becomes the heart and soul of the party. Unfortunately, this earns him the scorn of his cousin, Chisa Kotegawa, who walks in at precisely the wrong time. Undeterred, Iori still vows to realize his ideal college life, but will things go according to plan this time, or will his situation take yet another dive?\n\n[Written by MAL Rewrite]",
+    "background": "Grand Blue was nominated for the 41st Kodansha Manga Awards in the General category in 2017. The series has been published digitally in English as Grand Blue Dreaming by Kodansha USA since September 12, 2017. It has also been simulpub through K Manga. The manga has also been published in French by Meian since February 24, 2021.",
+    "authors": [
+        {
+            "mal_id": 7108,
+            "type": "people",
+            "name": "Inoue, Kenji",
+            "url": "https://myanimelist.net/people/7108/Kenji_Inoue"
+        },
+        {
+            "mal_id": 16441,
+            "type": "people",
+            "name": "Yoshioka, Kimitake",
+            "url": "https://myanimelist.net/people/16441/Kimitake_Yoshioka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 316,
+            "type": "manga",
+            "name": "good! Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/316/good_Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 37105,
+                    "type": "anime",
+                    "name": "Grand Blue",
+                    "url": "https://myanimelist.net/anime/37105/Grand_Blue"
+                },
+                {
+                    "mal_id": 59986,
+                    "type": "anime",
+                    "name": "Grand Blue Season 2",
+                    "url": "https://myanimelist.net/anime/59986/Grand_Blue_Season_2"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/grand-blue-dreaming/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://afternoon.kodansha.co.jp/c/grandblue/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Grand_Blue"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%90%E3%82%89%E3%82%93%E3%81%B6%E3%82%8B"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "mal_id": 26144,
+    "url": "https://myanimelist.net/manga/26144/Danshi_Koukousei_no_Nichijou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/200703.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/200703t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/200703l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/200703.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/200703t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/200703l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Danshi Koukousei no Nichijou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Joshikousei wa Ijou"
+        },
+        {
+            "type": "Japanese",
+            "title": "男子高校生の日常"
+        },
+        {
+            "type": "English",
+            "title": "The Daily Lives of High School Boys"
+        }
+    ],
+    "title": "Danshi Koukousei no Nichijou",
+    "title_english": "The Daily Lives of High School Boys",
+    "title_japanese": "男子高校生の日常",
+    "title_synonyms": [
+        "Joshikousei wa Ijou"
+    ],
+    "type": "Manga",
+    "chapters": 138,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-05-21T00:00:00+00:00",
+        "to": "2012-09-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 5,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "May 21, 2009 to Sep 27, 2012"
+    },
+    "score": 8.22,
+    "scored": 8.22,
+    "scored_by": 8893,
+    "rank": 413,
+    "popularity": 734,
+    "members": 26383,
+    "favorites": 435,
+    "synopsis": "Sanada North High School is home to three ordinary boys—Tadakuni, Hidenori Tabata, and Yoshitake Tanaka—who get into ordinary situations that any high school boy could find himself in. Rather than fretting over relationships or aiming for the national championships, the trio finds themselves trying on skirts, maximizing their summer vacation, and musing with a hopeless romantic by the riverside. The constant clash of their conflicting personalities sparks various events that depict the absurd yet relatable daily lives of high school boys.\n\n[Written by MAL Rewrite]",
+    "background": "Danshi Koukousei no Nichijou was adapted into a live-action film featuring an original story. It was produced by Showgate and released on October 12, 2013 in Japan. Six drama CDs were released based on the manga. The series was published in English as The Daily Lives of High School Boys by Kodansha USA under the Vertical Comics imprint from August 4, 2020 to September 21, 2021.",
+    "authors": [
+        {
+            "mal_id": 15579,
+            "type": "people",
+            "name": "Yamauchi, Yasunobu",
+            "url": "https://myanimelist.net/people/15579/Yasunobu_Yamauchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 419,
+            "type": "manga",
+            "name": "Gangan Online",
+            "url": "https://myanimelist.net/manga/magazine/419/Gangan_Online"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 11843,
+                    "type": "anime",
+                    "name": "Danshi Koukousei no Nichijou",
+                    "url": "https://myanimelist.net/anime/11843/Danshi_Koukousei_no_Nichijou"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 71531,
+                    "type": "manga",
+                    "name": "Danshi Koukousei no Nichijou Anthology",
+                    "url": "https://myanimelist.net/manga/71531/Danshi_Koukousei_no_Nichijou_Anthology"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/the-daily-lives-of-high-school-boys/"
+        },
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.com/jp/magazine/ganganonline/comic/danshinichijyo/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Daily_Lives_of_High_School_Boys"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%94%B7%E5%AD%90%E9%AB%98%E6%A0%A1%E7%94%9F%E3%81%AE%E6%97%A5%E5%B8%B8"
+        }
+    ]
+}

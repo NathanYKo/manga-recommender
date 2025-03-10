@@ -1,0 +1,297 @@
+<!-- templates/search.html -->
+{% extends 'base.html' %}
+
+{% block title %}Search Results - Manga Recommender{% endblock %}
+
+{% block content %}
+<div class="container mx-auto px-4 py-8">
+    <!-- Search form with HTMX for live search -->
+    <div class="mb-8">
+        <h1 class="text-3xl font-bold mb-4">Search Results</h1>
+        
+        <div class="form-control">
+            <div class="input-group position-relative">
+                <form action="{{ url_for('search') }}" method="get" id="searchPageForm">
+                    <input 
+                        type="text" 
+                        class="input input-bordered w-full" 
+                        name="q" 
+                        id="searchPageInput"
+                        value="{{ search_term }}" 
+                        placeholder="Search for manga..."
+                        hx-get="{{ url_for('search') }}"
+                        hx-trigger="keyup changed delay:500ms, search"
+                        hx-target="#search-results-container"
+                        hx-indicator=".htmx-indicator"
+                        autocomplete="off"
+                    />
+                    <button type="submit" class="btn btn-primary">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
+                    </button>
+                </form>
+                <div class="search-suggestions" id="searchPageSuggestions"></div>
+            </div>
+        </div>
+        
+        <!-- HTMX loading indicator -->
+        <div class="htmx-indicator flex justify-center my-4">
+            <span class="loading loading-spinner loading-lg"></span>
+        </div>
+    </div>
+    
+    <div id="search-results-container">
+        {% if error %}
+        <div class="alert alert-error shadow-lg mb-6">
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current flex-shrink-0 h-6 w-6" fill="none" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                <span>{{ error }}</span>
+            </div>
+        </div>
+        {% endif %}
+        
+        {% if search_term %}
+            {% if results %}
+                <div class="mb-10">
+                    <h2 class="text-2xl font-bold mb-4">We found {{ results|length }} manga matching "{{ search_term }}"</h2>
+                    
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        {% for manga in results %}
+                        <div class="card card-side bg-base-100 shadow-xl">
+                            <figure class="w-1/3">
+                                <img src="{{ manga.image_url }}" alt="{{ manga.title }}" class="h-full object-cover" onerror="this.onerror=null; this.src='/static/img/no-cover.jpg'">
+                            </figure>
+                            <div class="card-body w-2/3">
+                                <h3 class="card-title">{{ manga.title }}</h3>
+                                <p>{{ manga.synopsis|truncate_text(150) }}</p>
+                                <div class="card-actions justify-end">
+                                    <span class="badge badge-primary">Score: {{ manga.score|default('N/A') }}</span>
+                                    <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="btn btn-primary btn-sm">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                
+                {% if similar_manga %}
+                <div class="divider"></div>
+                <div class="mt-8">
+                    <h2 class="text-2xl font-bold mb-4">Similar to "{{ results[0].title }}"</h2>
+                    <div class="carousel carousel-center p-4 space-x-4 rounded-box">
+                        {% for manga in similar_manga %}
+                        <div class="carousel-item">
+                            <div class="card w-64 bg-base-100 shadow-xl">
+                                <figure>
+                                    <img src="{{ manga.image_url }}" alt="{{ manga.title }}" onerror="this.onerror=null; this.src='/static/img/no-cover.jpg'">
+                                </figure>
+                                <div class="card-body">
+                                    <h3 class="card-title text-sm">{{ manga.title }}</h3>
+                                    <p class="text-xs">{{ manga.synopsis|truncate_text(80) }}</p>
+                                    <div class="card-actions justify-end">
+                                        <span class="badge badge-primary">Score: {{ manga.score|default('N/A') }}</span>
+                                        <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="btn btn-primary btn-xs">Details</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+                
+            {% else %}
+                <div class="alert alert-info shadow-lg">
+                    <div>
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="stroke-current flex-shrink-0 w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        <span>No results found for "{{ search_term }}". Try a different search term.</span>
+                    </div>
+                </div>
+            {% endif %}
+        {% else %}
+            <div class="hero min-h-[50vh] bg-base-200 rounded-box">
+                <div class="hero-content text-center">
+                    <div class="max-w-md">
+                        <h2 class="text-3xl font-bold">Search for Manga</h2>
+                        <p class="py-6">Enter a manga title to find similar recommendations.</p>
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+    </div>
+    
+    {% if search_term %}
+        {% if results %}
+            <div class="row mb-5">
+                <div class="col-md-12">
+                    <h2>We found {{ results|length }} manga matching "{{ search_term }}"</h2>
+                    
+                    <div class="row row-cols-1 row-cols-md-2 g-4 mt-2">
+                        {% for manga in results %}
+                        <div class="col">
+                            <div class="card h-100 mb-3">
+                                <div class="row g-0">
+                                    <div class="col-md-4">
+                                        <img src="{{ manga.image_url }}" class="img-fluid rounded-start h-100" alt="{{ manga.title }}" onerror="this.onerror=null; this.src='/static/img/no-cover.jpg'">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <div class="card-body">
+                                            <h5 class="card-title">{{ manga.title }}</h5>
+                                            <p class="card-text">{{ manga.synopsis|truncate_text(150) }}</p>
+                                            <div class="d-flex justify-content-between align-items-center">
+                                                <span class="badge bg-primary">Score: {{ manga.score|default('N/A') }}</span>
+                                                <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="btn btn-sm btn-outline-primary">Details</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            
+            {% if similar_manga %}
+            <div class="row mt-4">
+                <div class="col-md-12">
+                    <h2>Similar to "{{ results[0].title }}"</h2>
+                    <div class="row row-cols-1 row-cols-md-3 row-cols-lg-6 g-4">
+                        {% for manga in similar_manga %}
+                        <div class="col">
+                            <div class="card h-100">
+                                <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}">
+                                    <img src="{{ manga.image_url }}" class="card-img-top" alt="{{ manga.title }}" onerror="this.onerror=null; this.src='/static/img/no-cover.jpg'">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title"><a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="text-decoration-none text-dark">{{ manga.title }}</a></h5>
+                                    <p class="card-text small">{{ manga.synopsis|truncate_text(100) }}</p>
+                                </div>
+                                <div class="card-footer">
+                                    <span class="badge bg-primary">Score: {{ manga.score|default('N/A') }}</span>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+            
+        {% else %}
+            <div class="alert alert-info">
+                No results found for "{{ search_term }}". Try a different search term.
+            </div>
+        {% endif %}
+    {% else %}
+        <div class="jumbotron">
+            <h2>Search for Manga</h2>
+            <p class="lead">Enter a manga title to find similar recommendations.</p>
+        </div>
+    {% endif %}
+</div>
+
+<script>
+    // Use Day.js to format dates if needed
+    document.addEventListener('DOMContentLoaded', function() {
+        // Format any timestamp elements
+        document.querySelectorAll('.timestamp').forEach(function(el) {
+            const timestamp = el.getAttribute('data-timestamp');
+            el.textContent = dayjs(timestamp).fromNow();
+        });
+        
+        // Set up search suggestions for the search page
+        const searchInput = document.getElementById('searchPageInput');
+        const suggestionsContainer = document.getElementById('searchPageSuggestions');
+        let debounceTimer;
+        
+        if (searchInput && suggestionsContainer) {
+            // Event listener for input in search box
+            searchInput.addEventListener('input', function() {
+                const query = this.value.trim();
+                console.log('Search page input:', query);
+                
+                // Clear existing timer
+                clearTimeout(debounceTimer);
+                
+                // Hide suggestions if query is too short
+                if (query.length < 2) {
+                    suggestionsContainer.style.display = 'none';
+                    return;
+                }
+                
+                // Debounce the API call
+                debounceTimer = setTimeout(() => {
+                    const url = `/api/search_suggestions?q=${encodeURIComponent(query)}`;
+                    console.log('Search page fetching:', url);
+                    
+                    fetch(url)
+                        .then(response => {
+                            console.log('Search page response status:', response.status);
+                            return response.json();
+                        })
+                        .then(data => {
+                            console.log('Search page suggestions data:', data);
+                            
+                            // Clear previous suggestions
+                            suggestionsContainer.innerHTML = '';
+                            
+                            if (data.length > 0) {
+                                // Add new suggestions
+                                data.forEach(manga => {
+                                    const item = document.createElement('div');
+                                    item.className = 'suggestion-item';
+                                    
+                                    const englishTitle = manga.english_title ? 
+                                        `<div class="suggestion-english">${manga.english_title}</div>` : '';
+                                    
+                                    item.innerHTML = `
+                                        <img src="${manga.image_url}" alt="${manga.title}" class="suggestion-img" 
+                                             onerror="this.onerror=null; this.src='/static/img/no-cover.jpg'">
+                                        <div class="suggestion-info">
+                                            <div class="suggestion-title">${manga.title}</div>
+                                            ${englishTitle}
+                                            <small class="badge bg-primary">${manga.score || 'N/A'}</small>
+                                        </div>
+                                    `;
+                                    
+                                    // When clicked, fill the search box and submit the form
+                                    item.addEventListener('click', function() {
+                                        searchInput.value = manga.title;
+                                        suggestionsContainer.style.display = 'none';
+                                        // Submit the parent form
+                                        searchInput.closest('form').submit();
+                                    });
+                                    
+                                    suggestionsContainer.appendChild(item);
+                                });
+                                
+                                // Show suggestions
+                                suggestionsContainer.style.display = 'block';
+                            } else {
+                                suggestionsContainer.style.display = 'none';
+                            }
+                        })
+                        .catch(error => {
+                            console.error('Search page error fetching suggestions:', error);
+                        });
+                }, 300); // 300ms debounce
+            });
+            
+            // Hide suggestions when clicking outside
+            document.addEventListener('click', function(event) {
+                if (!event.target.closest('.input-group')) {
+                    suggestionsContainer.style.display = 'none';
+                }
+            });
+            
+            // Show suggestions when focusing on input if it has content
+            searchInput.addEventListener('focus', function() {
+                if (this.value.trim().length >= 2) {
+                    // Trigger the input event to load suggestions
+                    searchInput.dispatchEvent(new Event('input'));
+                }
+            });
+        }
+    });
+</script>
+{% endblock %}

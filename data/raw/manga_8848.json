@@ -1,0 +1,159 @@
+{
+    "mal_id": 8848,
+    "url": "https://myanimelist.net/manga/8848/Sun-Ken_Rock",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/166298.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/166298t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/166298l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/166298.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/166298t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/166298l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sun-Ken Rock"
+        },
+        {
+            "type": "Synonym",
+            "title": "Trigun: The Lost Plant"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yumin"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dango Knight: Awaking"
+        },
+        {
+            "type": "Japanese",
+            "title": "サンケンロック"
+        },
+        {
+            "type": "English",
+            "title": "Sun-Ken Rock"
+        }
+    ],
+    "title": "Sun-Ken Rock",
+    "title_english": "Sun-Ken Rock",
+    "title_japanese": "サンケンロック",
+    "title_synonyms": [
+        "Trigun: The Lost Plant",
+        "Yumin",
+        "Dango Knight: Awaking"
+    ],
+    "type": "Manga",
+    "chapters": 181,
+    "volumes": 25,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-04-24T00:00:00+00:00",
+        "to": "2016-02-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 22,
+                "month": 2,
+                "year": 2016
+            }
+        },
+        "string": "Apr 24, 2006 to Feb 22, 2016"
+    },
+    "score": 7.9,
+    "scored": 7.9,
+    "scored_by": 42663,
+    "rank": 992,
+    "popularity": 120,
+    "members": 117181,
+    "favorites": 3685,
+    "synopsis": "The story revolves around Ken, a man from an upper-class family that was orphaned young due to his family's involvement with the Yakuza; he became a high school delinquent known for fighting. The only thing that motivates him to take action is through his romantic affections for a classmate, Yumi. After learning she decided to move to Korea to become a police officer, Ken leaves his life in Japan behind and tries to follow in Yumi's footsteps; due to unforeseen circumstances, he incidentally becomes the head of a local gang and tries to hide it from Yumi. As the leader, the gang is renamed the Sun-Ken Rock Group. \n\n(Source: Wikipedia)\n\nIncluded one-shot:\nVolume 12: Trigun: The Lost Plant",
+    "background": "Sun-Ken Rock was published digitally in English through Crunchyroll. It was also published by Shonen Gahosha through Manga Planet from May 21, 2020 to July 1, 2021.",
+    "authors": [
+        {
+            "mal_id": 3537,
+            "type": "people",
+            "name": "Boichi",
+            "url": "https://myanimelist.net/people/3537/Boichi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 575,
+            "type": "manga",
+            "name": "Young King",
+            "url": "https://myanimelist.net/manga/magazine/575/Young_King"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 34657,
+                    "type": "manga",
+                    "name": "Yumin ni Gohan wo Tabesasetai: Yumin to Issho ni Taberu Kankoku Ryouri",
+                    "url": "https://myanimelist.net/manga/34657/Yumin_ni_Gohan_wo_Tabesasetai__Yumin_to_Issho_ni_Taberu_Kankoku_Ryouri"
+                },
+                {
+                    "mal_id": 54325,
+                    "type": "manga",
+                    "name": "Wallman",
+                    "url": "https://myanimelist.net/manga/54325/Wallman"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%B1%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AF"
+        }
+    ]
+}

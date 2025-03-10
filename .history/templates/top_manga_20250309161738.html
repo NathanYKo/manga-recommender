@@ -1,0 +1,136 @@
+{% extends "base.html" %}
+
+{% block title %}Top Manga - Page {{ page }} of {{ total_pages }}{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1 class="mb-0">Top {{ total_manga }} Manga</h1>
+        <div>
+            <span class="text-muted">Showing {{ (page-1) * per_page + 1 }}-{{ min(page * per_page, total_manga) }} of {{ total_manga }}</span>
+        </div>
+    </div>
+
+    <div class="alert alert-info mb-4">
+        <i class="fas fa-info-circle me-2"></i> The manga are ranked based on their MyAnimeList score.
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Cover</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Score</th>
+                    <th scope="col">Type</th>
+                    <th scope="col">Status</th>
+                    <th scope="col">Genres</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for manga in manga_list %}
+                <tr>
+                    <td class="align-middle">
+                        <span class="badge bg-primary rounded-pill">{{ manga.rank }}</span>
+                    </td>
+                    <td class="align-middle" style="width: 80px;">
+                        <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}">
+                            <img src="{{ manga.image_url }}" alt="{{ manga.title }}" class="img-fluid rounded" style="max-height: 80px;" onerror="this.onerror=null; this.src='/static/img/no-cover.jpg'">
+                        </a>
+                    </td>
+                    <td class="align-middle">
+                        <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="fw-bold text-decoration-none">{{ manga.title }}</a>
+                        {% if manga.title_english and manga.title_english != manga.title %}
+                        <div class="text-muted small">{{ manga.title_english }}</div>
+                        {% endif %}
+                    </td>
+                    <td class="align-middle">
+                        <span class="fw-bold">{{ manga.score|round(2) }}</span>
+                    </td>
+                    <td class="align-middle">{{ manga.type|default('N/A') }}</td>
+                    <td class="align-middle">
+                        <span class="badge {{ 'bg-success' if manga.status == 'Finished' else 'bg-primary' }}">
+                            {{ manga.status|default('Unknown') }}
+                        </span>
+                    </td>
+                    <td class="align-middle">
+                        {% if manga.genres %}
+                            {% for genre in manga.genres.split(', ') %}
+                            <a href="{{ url_for('search', genre=genre) }}" class="badge bg-secondary text-decoration-none">{{ genre }}</a>
+                            {% endfor %}
+                        {% else %}
+                            <span class="text-muted">No genres</span>
+                        {% endif %}
+                    </td>
+                    <td class="align-middle">
+                        <div class="btn-group" role="group">
+                            <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="btn btn-sm btn-outline-primary">Details</a>
+                            {% if user_id %}
+                            <button class="btn btn-sm btn-outline-secondary" 
+                                    hx-post="{{ url_for('rate_manga', manga_id=manga.manga_id) }}" 
+                                    hx-trigger="click"
+                                    hx-target="#rating-modal"
+                                    hx-swap="outerHTML">
+                                Rate
+                            </button>
+                            {% endif %}
+                        </div>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Pagination -->
+    <nav aria-label="Page navigation" class="mt-4">
+        <ul class="pagination justify-content-center">
+            <li class="page-item {{ 'disabled' if page == 1 else '' }}">
+                <a class="page-link" href="{{ url_for('top_manga', page=page-1) if page > 1 else '#' }}" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+            
+            {% set start_page = [page - 2, 1]|max %}
+            {% set end_page = [start_page + 4, total_pages]|min %}
+            {% set start_page = [end_page - 4, 1]|max %}
+            
+            {% if start_page > 1 %}
+            <li class="page-item">
+                <a class="page-link" href="{{ url_for('top_manga', page=1) }}">1</a>
+            </li>
+            {% if start_page > 2 %}
+            <li class="page-item disabled">
+                <span class="page-link">...</span>
+            </li>
+            {% endif %}
+            {% endif %}
+            
+            {% for p in range(start_page, end_page + 1) %}
+            <li class="page-item {{ 'active' if p == page else '' }}">
+                <a class="page-link" href="{{ url_for('top_manga', page=p) }}">{{ p }}</a>
+            </li>
+            {% endfor %}
+            
+            {% if end_page < total_pages %}
+            {% if end_page < total_pages - 1 %}
+            <li class="page-item disabled">
+                <span class="page-link">...</span>
+            </li>
+            {% endif %}
+            <li class="page-item">
+                <a class="page-link" href="{{ url_for('top_manga', page=total_pages) }}">{{ total_pages }}</a>
+            </li>
+            {% endif %}
+            
+            <li class="page-item {{ 'disabled' if page == total_pages else '' }}">
+                <a class="page-link" href="{{ url_for('top_manga', page=page+1) if page < total_pages else '#' }}" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>
+{% endblock %} 

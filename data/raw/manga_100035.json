@@ -1,0 +1,152 @@
+{
+    "mal_id": 100035,
+    "url": "https://myanimelist.net/manga/100035/Tongari_Boushi_no_Atelier",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190005.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190005t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190005l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190005.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190005t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190005l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tongari Boushi no Atelier"
+        },
+        {
+            "type": "Synonym",
+            "title": "Atelier of Witch Hat"
+        },
+        {
+            "type": "Japanese",
+            "title": "とんがり帽子のアトリエ"
+        },
+        {
+            "type": "English",
+            "title": "Witch Hat Atelier"
+        },
+        {
+            "type": "Spanish",
+            "title": "Atelier of Witch Hat"
+        }
+    ],
+    "title": "Tongari Boushi no Atelier",
+    "title_english": "Witch Hat Atelier",
+    "title_japanese": "とんがり帽子のアトリエ",
+    "title_synonyms": [
+        "Atelier of Witch Hat"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-07-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 22, 2016 to ?"
+    },
+    "score": 8.65,
+    "scored": 8.65,
+    "scored_by": 25506,
+    "rank": 75,
+    "popularity": 139,
+    "members": 105276,
+    "favorites": 6385,
+    "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices.\n\n[Written by MAL Rewrite]",
+    "background": "Tongari Boushi no Atelier was nominated for the 11th Manga Taishou Award in 2018. It was also nominated for the 42nd and 44th Kodansha Manga Award in the General category in 2018 and 2020, respectively. The series has been published in English as Witch Hat Atelier by Kodansha USA since April 9, 2019, and simulpub through K Manga. The manga has also been released in Spanish by Milky Way Ediciones since July 31, 2018; in Polish by Kotori since April 2019; and in Brazilian Portuguese by Panini Comics since July 12, 2019.",
+    "authors": [
+        {
+            "mal_id": 33377,
+            "type": "people",
+            "name": "Shirahama, Kamome",
+            "url": "https://myanimelist.net/people/33377/Kamome_Shirahama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 345,
+            "type": "manga",
+            "name": "Morning Two",
+            "url": "https://myanimelist.net/manga/magazine/345/Morning_Two"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 51553,
+                    "type": "anime",
+                    "name": "Tongari Boushi no Atelier",
+                    "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 122435,
+                    "type": "manga",
+                    "name": "Tongari Boushi no Kitchen",
+                    "url": "https://myanimelist.net/manga/122435/Tongari_Boushi_no_Kitchen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/witch-hat-atelier/"
+        },
+        {
+            "name": "Official Site",
+            "url": "http://morning.moae.jp/lineup/667"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Witch_Hat_Atelier"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%82%93%E3%81%8C%E3%82%8A%E5%B8%BD%E5%AD%90%E3%81%AE%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8"
+        }
+    ]
+}

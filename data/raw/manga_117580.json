@@ -1,0 +1,133 @@
+{
+    "mal_id": 117580,
+    "url": "https://myanimelist.net/manga/117580/Kengan_Omega",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/216684.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/216684t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/216684l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/216684.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/216684t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/216684l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kengan Omega"
+        },
+        {
+            "type": "Japanese",
+            "title": "ケンガンオメガ"
+        },
+        {
+            "type": "English",
+            "title": "Kengan Omega"
+        }
+    ],
+    "title": "Kengan Omega",
+    "title_english": "Kengan Omega",
+    "title_japanese": "ケンガンオメガ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-01-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 31, 2019 to ?"
+    },
+    "score": 7.68,
+    "scored": 7.68,
+    "scored_by": 9312,
+    "rank": 1879,
+    "popularity": 840,
+    "members": 23281,
+    "favorites": 411,
+    "synopsis": "Two years after the events of Kengan Ashura, a young man named Narushima Kouga aims to enter the Kengan matches, seeking Tokita Ouma for a yet unknown reason. He begins to work under Yamashita Kazuo when he meets Gaou Ryuuki, a spitting image of Ouma. As a massive showdown between the Kengan Association and Purgatory, another underground martial-arts fighting organization looms in the background, how will Kouga become strong enough to enter in the legendary Kengan fights?",
+    "background": "Kengan Omega is published digitally as an English simulpub through Comikey.",
+    "authors": [
+        {
+            "mal_id": 25033,
+            "type": "people",
+            "name": "Daromeon",
+            "url": "https://myanimelist.net/people/25033/Daromeon"
+        },
+        {
+            "mal_id": 31905,
+            "type": "people",
+            "name": "Sandrovich, Yabako",
+            "url": "https://myanimelist.net/people/31905/Yabako_Sandrovich"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1005,
+            "type": "manga",
+            "name": "Ura Sunday",
+            "url": "https://myanimelist.net/manga/magazine/1005/Ura_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 72025,
+                    "type": "manga",
+                    "name": "Kengan Ashura",
+                    "url": "https://myanimelist.net/manga/72025/Kengan_Ashura"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://urasunday.com/kenganomega/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kengan_Ashura"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%82%AC%E3%83%B3%E3%82%A2%E3%82%B7%E3%83%A5%E3%83%A9"
+        }
+    ]
+}

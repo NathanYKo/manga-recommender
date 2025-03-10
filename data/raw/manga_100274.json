@@ -1,0 +1,157 @@
+{
+    "mal_id": 100274,
+    "url": "https://myanimelist.net/manga/100274/Nande_Koko_ni_Sensei_ga",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/189194.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/189194t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/189194l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/189194.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/189194t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/189194l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nande Koko ni Sensei ga!?"
+        },
+        {
+            "type": "Synonym",
+            "title": "Golden Times"
+        },
+        {
+            "type": "Synonym",
+            "title": "Why Are You Here Sensei!?"
+        },
+        {
+            "type": "Japanese",
+            "title": "なんでここに先生が!?"
+        },
+        {
+            "type": "English",
+            "title": "Why the Hell Are You Here, Teacher!?"
+        }
+    ],
+    "title": "Nande Koko ni Sensei ga!?",
+    "title_english": "Why the Hell Are You Here, Teacher!?",
+    "title_japanese": "なんでここに先生が!?",
+    "title_synonyms": [
+        "Golden Times",
+        "Why Are You Here Sensei!?"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-10-10T00:00:00+00:00",
+        "to": "2024-10-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 21,
+                "month": 10,
+                "year": 2024
+            }
+        },
+        "string": "Oct 10, 2015 to Oct 21, 2024"
+    },
+    "score": 6.8,
+    "scored": 6.8,
+    "scored_by": 11673,
+    "rank": 12142,
+    "popularity": 472,
+    "members": 39395,
+    "favorites": 308,
+    "synopsis": "17-year-old Ichirou Satou is an average teenager who always happens to find himself in perverted situations with his teacher, Kana Kojima. Follow this erotic love comedy about their mishaps throughout their daily lives and how Ichirou and Kana choose to handle them.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 41814,
+            "type": "people",
+            "name": "Soborou",
+            "url": "https://myanimelist.net/people/41814/Soborou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38397,
+                    "type": "anime",
+                    "name": "Nande Koko ni Sensei ga!?",
+                    "url": "https://myanimelist.net/anime/38397/Nande_Koko_ni_Sensei_ga"
+                },
+                {
+                    "mal_id": 39689,
+                    "type": "anime",
+                    "name": "Nande Koko ni Sensei ga!? Nande Koko ni Sensei-tachi ga!?",
+                    "url": "https://myanimelist.net/anime/39689/Nande_Koko_ni_Sensei_ga_Nande_Koko_ni_Sensei-tachi_ga"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/nandekokonisenseiga"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Why_the_Hell_are_You_Here,_Teacher!%3F"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%93%E3%81%A7%E3%81%93%E3%81%93%E3%81%AB%E5%85%88%E7%94%9F%E3%81%8C!%3F"
+        }
+    ]
+}

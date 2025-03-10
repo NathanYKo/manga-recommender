@@ -1,0 +1,169 @@
+{
+    "mal_id": 3645,
+    "url": "https://myanimelist.net/manga/3645/Death_Note_13__How_to_Read_-_Shinsou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/231006.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/231006t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/231006l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/231006.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/231006t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/231006l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Death Note 13: How to Read - Shinsou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Death Note 13: How to Read - Truth"
+        },
+        {
+            "type": "Synonym",
+            "title": "Death Note Pilot"
+        },
+        {
+            "type": "Synonym",
+            "title": "Death Note Episode 0"
+        },
+        {
+            "type": "Synonym",
+            "title": "Death Note ni Rakugaki 4-koma"
+        },
+        {
+            "type": "Japanese",
+            "title": "DEATH NOTE 13 HOW TO READ 真相"
+        },
+        {
+            "type": "English",
+            "title": "Death Note 13: How to Read"
+        }
+    ],
+    "title": "Death Note 13: How to Read - Shinsou",
+    "title_english": "Death Note 13: How to Read",
+    "title_japanese": "DEATH NOTE 13 HOW TO READ 真相",
+    "title_synonyms": [
+        "Death Note 13: How to Read - Truth",
+        "Death Note Pilot",
+        "Death Note Episode 0",
+        "Death Note ni Rakugaki 4-koma"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-08-04T00:00:00+00:00",
+        "to": "2005-05-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 8,
+                "year": 2003
+            },
+            "to": {
+                "day": 1,
+                "month": 5,
+                "year": 2005
+            }
+        },
+        "string": "Aug 4, 2003 to May 2005"
+    },
+    "score": 7.2,
+    "scored": 7.2,
+    "scored_by": 13481,
+    "rank": 6102,
+    "popularity": 784,
+    "members": 24928,
+    "favorites": 146,
+    "synopsis": "Death Note 13: How to Read - Shinsou is a guidebook which contains the spin-off series Death Note ni Rakugaki 4-koma and the pilot one-shot.",
+    "background": "Death Note 13: How to Read - Shinsou was published in English as Death Note 13: How to Read by VIZ Media on February 19, 2008.",
+    "authors": [
+        {
+            "mal_id": 1888,
+            "type": "people",
+            "name": "Obata, Takeshi",
+            "url": "https://myanimelist.net/people/1888/Takeshi_Obata"
+        },
+        {
+            "mal_id": 2111,
+            "type": "people",
+            "name": "Ohba, Tsugumi",
+            "url": "https://myanimelist.net/people/2111/Tsugumi_Ohba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 21,
+                    "type": "manga",
+                    "name": "Death Note",
+                    "url": "https://myanimelist.net/manga/21/Death_Note"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Death_Note"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/DEATH_NOTE"
+        }
+    ]
+}

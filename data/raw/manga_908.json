@@ -1,0 +1,150 @@
+{
+    "mal_id": 908,
+    "url": "https://myanimelist.net/manga/908/Soul_Eater",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/159808.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/159808t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/159808l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/159808.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/159808t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/159808l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Soul Eater"
+        },
+        {
+            "type": "Japanese",
+            "title": "SOUL EATER"
+        },
+        {
+            "type": "English",
+            "title": "Soul Eater"
+        }
+    ],
+    "title": "Soul Eater",
+    "title_english": "Soul Eater",
+    "title_japanese": "SOUL EATER",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 117,
+    "volumes": 25,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-06-24T00:00:00+00:00",
+        "to": "2013-08-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 6,
+                "year": 2003
+            },
+            "to": {
+                "day": 12,
+                "month": 8,
+                "year": 2013
+            }
+        },
+        "string": "Jun 24, 2003 to Aug 12, 2013"
+    },
+    "score": 8.09,
+    "scored": 8.09,
+    "scored_by": 86983,
+    "rank": 600,
+    "popularity": 42,
+    "members": 198979,
+    "favorites": 10777,
+    "synopsis": "Death City is home to the Death Weapon Meister Academy, established by Shinigami—the grim reaper himself. Created to maintain peace, the academy trains Meisters and Demon Weapons—people who take on the form of a weapon—to defend humanity against evil. The ultimate goal of a Meister is to create a \"Death Scythe\" worthy of being wielded by Shinigami. To do this, their weapon partner must consume the souls of 99 wicked humans and one witch.\n \nMaka Albarn and her partner Soul Eater \"Soul\" Evans are two students who hope to make a Death Scythe. They are joined by the boisterous Black☆Star and his partner Tsubaki Nakatsukasa, as well as the perfectionist Death the Kid—simply known as Kid—and his partners, the twins Patricia \"Patty\" and Elizabeth \"Liz\" Thompson. These ambitious students all work towards becoming the ultimate Meister and Demon Weapon team, through misadventures, missions, and many class trials.\n \nHowever, many mysteries surround them, and as new enemies are discovered and secrets are revealed, Maka, Soul, and their friends must fight to protect the academy, Death City, and the world itself from enemies far worse than humans.\n \n[Written by MAL Rewrite]",
+    "background": "Soul Eater was published in English by Yen Press from October 27, 2009, to March 24, 2015. It was also released in Spanish by Norma Editorial from September 1, 2010, to October 1, 2014; in Brazilian Portuguese by Editora JBC from July 2012 to August 2014; and in Argentina by Ovni Press from September 8, 2017, to October 21, 2022.",
+    "authors": [
+        {
+            "mal_id": 5059,
+            "type": "people",
+            "name": "Ookubo, Atsushi",
+            "url": "https://myanimelist.net/people/5059/Atsushi_Ookubo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Shounen Gangan",
+            "url": "https://myanimelist.net/manga/magazine/13/Shounen_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3588,
+                    "type": "anime",
+                    "name": "Soul Eater",
+                    "url": "https://myanimelist.net/anime/3588/Soul_Eater"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 23661,
+                    "type": "manga",
+                    "name": "Soul Eater NOT!",
+                    "url": "https://myanimelist.net/manga/23661/Soul_Eater_NOT"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://gangan.square-enix.co.jp/souleater/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%A6%E3%83%AB%E3%82%A4%E3%83%BC%E3%82%BF%E3%83%BC"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Soul_Eater_(manga)"
+        }
+    ]
+}

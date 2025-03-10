@@ -1,0 +1,87 @@
+/* Manga Recommender Main Styles */
+
+/* Search Suggestions Styling */
+.search-suggestions {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1050; /* Higher than Bootstrap's default 1030 */
+    width: 100%;
+    background: white;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    display: none;
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    margin-top: 2px;
+}
+
+.suggestion-item {
+    display: flex;
+    padding: 12px;
+    border-bottom: 1px solid #e9ecef;
+    cursor: pointer;
+    align-items: center;
+    transition: background-color 0.2s;
+}
+
+.suggestion-item:hover {
+    background-color: #f8f9fa;
+}
+
+.suggestion-item:last-child {
+    border-bottom: none;
+}
+
+.suggestion-img {
+    width: 40px;
+    height: 60px;
+    object-fit: cover;
+    margin-right: 12px;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.suggestion-info {
+    flex: 1;
+}
+
+.suggestion-title {
+    font-weight: bold;
+    margin-bottom: 3px;
+    color: #212529;
+}
+
+.suggestion-english {
+    font-size: 0.8rem;
+    color: #6c757d;
+    margin-bottom: 3px;
+}
+
+.search-form-container {
+    position: relative;
+    min-width: 250px;
+}
+
+/* Position the dropdown correctly for various form layouts */
+.position-relative .search-suggestions {
+    width: 100%; 
+    position: absolute;
+}
+
+/* Responsive adjustments */
+@media (max-width: 576px) {
+    .search-suggestions {
+        max-height: 300px;
+    }
+    
+    .suggestion-item {
+        padding: 8px;
+    }
+    
+    .suggestion-img {
+        width: 30px;
+        height: 45px;
+    }
+} 

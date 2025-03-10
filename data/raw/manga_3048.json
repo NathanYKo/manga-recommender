@@ -1,0 +1,150 @@
+{
+    "mal_id": 3048,
+    "url": "https://myanimelist.net/manga/3048/Kiss_x_Sis",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/291840.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/291840t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/291840l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/291840.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/291840t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/291840l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kiss x Sis"
+        },
+        {
+            "type": "Japanese",
+            "title": "kiss×sis"
+        }
+    ],
+    "title": "Kiss x Sis",
+    "title_english": null,
+    "title_japanese": "kiss×sis",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 156,
+    "volumes": 25,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-12-11T00:00:00+00:00",
+        "to": "2021-09-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 12,
+                "year": 2005
+            },
+            "to": {
+                "day": 21,
+                "month": 9,
+                "year": 2021
+            }
+        },
+        "string": "Dec 11, 2005 to Sep 21, 2021"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 18089,
+    "rank": null,
+    "popularity": 419,
+    "members": 43592,
+    "favorites": 1189,
+    "synopsis": "Keita has two step-sisters who love him in a lustful way and have no problems expressing it, they even are in competition about that. Much to the laughs of his friends, he endures it but when one day they come to his school to give him his lunch, he gets annoyed and explodes on them, then they confess their feelings for him in front of everyone and leave. Feeling sorry he chases after them and says that he'll study hard in order to get in the same high school as them.\n\n(Source: MangaHelpers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1951,
+            "type": "people",
+            "name": "Ditama, Bow",
+            "url": "https://myanimelist.net/people/1951/Bow_Ditama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Young Magazine (Monthly)",
+            "url": "https://myanimelist.net/manga/magazine/6/Young_Magazine_Monthly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 5042,
+                    "type": "anime",
+                    "name": "Kiss x Sis",
+                    "url": "https://myanimelist.net/anime/5042/Kiss_x_Sis"
+                },
+                {
+                    "mal_id": 7593,
+                    "type": "anime",
+                    "name": "Kiss x Sis (TV)",
+                    "url": "https://myanimelist.net/anime/7593/Kiss_x_Sis_TV"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://kc.kodansha.co.jp/kiss_sis/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/Kiss%C3%97sis"
+        }
+    ]
+}

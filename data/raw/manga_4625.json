@@ -1,0 +1,137 @@
+{
+    "mal_id": 4625,
+    "url": "https://myanimelist.net/manga/4625/Kamigami_no_Itadaki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166336.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166336t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166336l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166336.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166336t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166336l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kamigami no Itadaki"
+        },
+        {
+            "type": "Japanese",
+            "title": "神々の山嶺"
+        },
+        {
+            "type": "English",
+            "title": "The Summit of the Gods"
+        }
+    ],
+    "title": "Kamigami no Itadaki",
+    "title_english": "The Summit of the Gods",
+    "title_japanese": "神々の山嶺",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 47,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-02-01T00:00:00+00:00",
+        "to": "2003-03-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 2,
+                "year": 2000
+            },
+            "to": {
+                "day": 1,
+                "month": 3,
+                "year": 2003
+            }
+        },
+        "string": "Feb 1, 2000 to Mar 1, 2003"
+    },
+    "score": 8.23,
+    "scored": 8.23,
+    "scored_by": 2665,
+    "rank": 399,
+    "popularity": 1225,
+    "members": 16664,
+    "favorites": 299,
+    "synopsis": "In 1924, mountaineers George Mallory and Andrew Irvine attempted a daring challenge: to be the first to scale Mount Everest. However, they disappeared during the final stages of their trek, leading to one of mountaineering's greatest mysteries—did the pair ever make it to the summit?\n\n1993, Kathmandu. Japanese photographer Makoto Fukamachi discovers a vintage camera in an antique store, which he believes might have belonged to Mallory. However, the camera falls into the possession of \"Bikha Sanp,\" a burly Japanese man who Fukamachi realizes may very well be Jouji Habu, a legendary Japanese mountaineer who disappeared from the scene several years ago. Unfortunately for Fukamachi however, Bikha Sanp refuses to talk to him and leaves with the camera in tow.\n\nWith the trail gone cold, Fukamachi has only one course left to pursue: to delve into Habu's past and see just what may have brought the former climber to Nepal. For the sake of rewriting mountaineering history, Fukamachi begins his investigation, a task that will bring him to the greatest height in the world—the summit of the gods.\n\n[Written by MAL Rewrite]",
+    "background": "Kamigami no Itadaki is based on the Baku Yumemakura novel of the same name. The manga series won the Excellence Prize in the manga division at the Japanese Ministry of Culture's Media Arts Festival in 2001 as well as the Best Art Award at the French Angouleme Festival in 2005. The original novel won the 11th Shibata Renzaburo Award in 1998. The series was published in English as The Summit of the Gods by Ponent Mon/Fanfare from September 30, 2009, to March 26, 2015. In 2014, the publisher's translation of the fourth volume was nominated for the Eisner Award in the Best U.S. Edition of International Material—Asia category. A live-action film adaptation titled Everest: Kamigami no Itadaki was released in Japan on March 12, 2016. A French-language CG animation film based on the series premiered at the 2021 Cannes Film Festival on July 15, 2021, before its theatrical release in France on September 22, 2021.",
+    "authors": [
+        {
+            "mal_id": 2026,
+            "type": "people",
+            "name": "Yumemakura, Baku",
+            "url": "https://myanimelist.net/people/2026/Baku_Yumemakura"
+        },
+        {
+            "mal_id": 3025,
+            "type": "people",
+            "name": "Taniguchi, Jiro",
+            "url": "https://myanimelist.net/people/3025/Jiro_Taniguchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Business Jump",
+            "url": "https://myanimelist.net/manga/magazine/57/Business_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%A5%9E%E3%80%85%E3%81%AE%E5%B1%B1%E5%B6%BA"
+        }
+    ]
+}

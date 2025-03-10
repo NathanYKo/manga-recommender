@@ -1,0 +1,168 @@
+{
+    "mal_id": 1271,
+    "url": "https://myanimelist.net/manga/1271/Special_A",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/269702.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/269702t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/269702l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/269702.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/269702t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/269702l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Special A"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mikansei Chorus"
+        },
+        {
+            "type": "Synonym",
+            "title": "Incomplete Chorus"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shoku no Miyako"
+        },
+        {
+            "type": "Synonym",
+            "title": "Food Paradise"
+        },
+        {
+            "type": "Japanese",
+            "title": "S・A　スペシャル・エー"
+        },
+        {
+            "type": "English",
+            "title": "S.A: Special A"
+        }
+    ],
+    "title": "Special A",
+    "title_english": "S.A: Special A",
+    "title_japanese": "S・A　スペシャル・エー",
+    "title_synonyms": [
+        "Mikansei Chorus",
+        "Incomplete Chorus",
+        "Shoku no Miyako",
+        "Food Paradise"
+    ],
+    "type": "Manga",
+    "chapters": 104,
+    "volumes": 17,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-02-26T00:00:00+00:00",
+        "to": "2009-03-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 2,
+                "year": 2003
+            },
+            "to": {
+                "day": 19,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Feb 26, 2003 to Mar 19, 2009"
+    },
+    "score": 7.9,
+    "scored": 7.9,
+    "scored_by": 18997,
+    "rank": 984,
+    "popularity": 431,
+    "members": 42560,
+    "favorites": 1102,
+    "synopsis": "From a young age, Hikari Hanazono believed that she was unmatched in anything she did. She used to beat all those who stood before her in any competition or event—until she met Kei Takashima. Briefly after their initial meeting, the two decided to hold a wrestling match in which Hikari suffers her first complete and utter defeat, marking the start of her lifelong rivalry with Kei.\n\nNow in high school, the pair attend the prestigious Hakusen Academy, finding themselves in the Special A class, a group composed of the top seven students in the school. However, despite ranking second in her grade, Hikari remains unmatched to Kei, who holds the first rank. Throughout the school year, they continue to compete as always, all the while letting their bond and feelings for one another grow in the background.\n \n[Written by MAL Rewrite]\n\nIncluded one-shots:\nVolume 1: Mikansei Chorus\nVolume 11: Shoku no Miyako (Food Paradise)",
+    "background": "Special A was published in English by VIZ Media under the Shojo Beat imprint from November 6, 2007 to November 2, 2010. The manga also received two drama CD adaptations on February 23, 2007 and June 18, 2008.",
+    "authors": [
+        {
+            "mal_id": 2908,
+            "type": "people",
+            "name": "Minami, Maki",
+            "url": "https://myanimelist.net/people/2908/Maki_Minami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/21/Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 58745,
+                    "type": "manga",
+                    "name": "Special A: Jougai Rantou",
+                    "url": "https://myanimelist.net/manga/58745/Special_A__Jougai_Rantou"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3470,
+                    "type": "anime",
+                    "name": "Special A",
+                    "url": "https://myanimelist.net/anime/3470/Special_A"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/S.A_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/S%E3%83%BBA"
+        }
+    ]
+}

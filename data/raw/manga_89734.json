@@ -1,0 +1,204 @@
+{
+    "mal_id": 89734,
+    "url": "https://myanimelist.net/manga/89734/Dragon_Ball_Super",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/176933.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/176933t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/176933l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/176933.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/176933t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/176933l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dragon Ball Super"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dragon Ball Chou"
+        },
+        {
+            "type": "Synonym",
+            "title": "DBS"
+        },
+        {
+            "type": "Japanese",
+            "title": "ドラゴンボール超〈スーパー〉"
+        },
+        {
+            "type": "English",
+            "title": "Dragon Ball Super"
+        }
+    ],
+    "title": "Dragon Ball Super",
+    "title_english": "Dragon Ball Super",
+    "title_japanese": "ドラゴンボール超〈スーパー〉",
+    "title_synonyms": [
+        "Dragon Ball Chou",
+        "DBS"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-06-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 6,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 20, 2015 to ?"
+    },
+    "score": 7.33,
+    "scored": 7.33,
+    "scored_by": 38142,
+    "rank": 4574,
+    "popularity": 220,
+    "members": 75592,
+    "favorites": 2734,
+    "synopsis": "Having defeated Boo, Goku is starting to get bored with his life on Earth. His wife, Chi-chi, wants him to get a job, but all he wants to do is train and fight stronger enemies. Elsewhere in the universe, the God of Destruction, Beerus, and his attendant Whis are traveling from planet to planet in search of food and entertainment. After blowing up some hapless victims, Beerus is reminded of a man from his dreams with the moniker \"Super Saiyan God,\" or something like that... The God of Destruction sets his sights on Earth to track down this mysterious man! Maybe this will give Goku something to do?\n\n(Source: VIZ Media)",
+    "background": "Dragon Ball Super has been published in English by VIZ Media under the Shonen Jump imprint since May 2, 2017. It has also been simulpub through MANGA Plus. The series has also been published in French by Glénat since April 5, 2017; in Italian by Edizioni Star Comics since April 26, 2017; in German by Carlsen Manga since May 2, 2017; and in Spanish by Planeta Cómic in comic issues since March 2017 and in volumes since October 17, 2017.",
+    "authors": [
+        {
+            "mal_id": 1901,
+            "type": "people",
+            "name": "Toriyama, Akira",
+            "url": "https://myanimelist.net/people/1901/Akira_Toriyama"
+        },
+        {
+            "mal_id": 19431,
+            "type": "people",
+            "name": "Toyotarou",
+            "url": "https://myanimelist.net/people/19431/Toyotarou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 168,
+            "type": "manga",
+            "name": "V-Jump",
+            "url": "https://myanimelist.net/manga/magazine/168/V-Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 42,
+                    "type": "manga",
+                    "name": "Dragon Ball",
+                    "url": "https://myanimelist.net/manga/42/Dragon_Ball"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 30694,
+                    "type": "anime",
+                    "name": "Dragon Ball Super",
+                    "url": "https://myanimelist.net/anime/30694/Dragon_Ball_Super"
+                },
+                {
+                    "mal_id": 48903,
+                    "type": "anime",
+                    "name": "Dragon Ball Super: Super Hero",
+                    "url": "https://myanimelist.net/anime/48903/Dragon_Ball_Super__Super_Hero"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 106285,
+                    "type": "manga",
+                    "name": "Super Dragon Ball Heroes: Ankoku Makai Mission!",
+                    "url": "https://myanimelist.net/manga/106285/Super_Dragon_Ball_Heroes__Ankoku_Makai_Mission"
+                },
+                {
+                    "mal_id": 173172,
+                    "type": "manga",
+                    "name": "Super Dragon Ball Heroes: Avatars!!",
+                    "url": "https://myanimelist.net/manga/173172/Super_Dragon_Ball_Heroes__Avatars"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 54627,
+                    "type": "manga",
+                    "name": "Ginga Patrol Jaco",
+                    "url": "https://myanimelist.net/manga/54627/Ginga_Patrol_Jaco"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E8%B6%85"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dragon_Ball_Super"
+        }
+    ]
+}

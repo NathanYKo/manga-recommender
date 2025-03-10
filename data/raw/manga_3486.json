@@ -1,0 +1,158 @@
+{
+    "mal_id": 3486,
+    "url": "https://myanimelist.net/manga/3486/Shiki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/56519.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/56519t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/56519l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/56519.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/56519t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/56519l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shiki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Corpse Demon"
+        },
+        {
+            "type": "Japanese",
+            "title": "屍鬼"
+        }
+    ],
+    "title": "Shiki",
+    "title_english": null,
+    "title_japanese": "屍鬼",
+    "title_synonyms": [
+        "Corpse Demon"
+    ],
+    "type": "Manga",
+    "chapters": 42,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-12-01T00:00:00+00:00",
+        "to": "2011-06-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 2007
+            },
+            "to": {
+                "day": 3,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "Dec 2007 to Jun 3, 2011"
+    },
+    "score": 7.91,
+    "scored": 7.91,
+    "scored_by": 6615,
+    "rank": 958,
+    "popularity": 892,
+    "members": 22151,
+    "favorites": 477,
+    "synopsis": "Nothing ever happens in the village of Sotoba. In fact, it is viewed as nothing more than a hick town by its most outgoing and fashionable resident, Megumi Shimizu. She wants nothing more than to live in the city, far away from the villagers and their outdated ways of thinking. So when a new European-style house is built on a hill in the village, Megumi believes its residents must be cultured and refined, so she decides to pay them a visit.\n\nHowever, Megumi doesn't return home that night. After a grueling search, she is found the next day, weak and anemic, with strange bite marks on her. But Megumi is just the first victim in what will soon become an epidemic in Sotoba as the bodies start piling up. The village doctor Toshio Ozaki, along with the priest Seishin Muroi, the loner Natsuno Yuuki, and the Tanaka siblings Kaori and Akira, begin investigating the strange deaths. But the answer to their predicament may be more than any of them can handle, for soon the dead could outnumber the living.\n\n[Written by MAL Rewrite]",
+    "background": "Shiki has been licensed in Poland by Waneko, with the first volume set to be released on September 10, 2017.",
+    "authors": [
+        {
+            "mal_id": 2673,
+            "type": "people",
+            "name": "Fujisaki, Ryuu",
+            "url": "https://myanimelist.net/people/2673/Ryuu_Fujisaki"
+        },
+        {
+            "mal_id": 2723,
+            "type": "people",
+            "name": "Ono, Fuyumi",
+            "url": "https://myanimelist.net/people/2723/Fuyumi_Ono"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 114260,
+                    "type": "manga",
+                    "name": "Shiki",
+                    "url": "https://myanimelist.net/manga/114260/Shiki"
+                },
+                {
+                    "mal_id": 7724,
+                    "type": "anime",
+                    "name": "Shiki",
+                    "url": "https://myanimelist.net/anime/7724/Shiki"
+                },
+                {
+                    "mal_id": 10083,
+                    "type": "anime",
+                    "name": "Shiki Specials",
+                    "url": "https://myanimelist.net/anime/10083/Shiki_Specials"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Shiki_%28novel_series%29"
+        }
+    ]
+}

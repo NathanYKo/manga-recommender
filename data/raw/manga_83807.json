@@ -1,0 +1,149 @@
+{
+    "mal_id": 83807,
+    "url": "https://myanimelist.net/manga/83807/Kuroko_no_Basket__Extra_Game",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/163711.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/163711t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/163711l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/163711.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/163711t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/163711l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kuroko no Basket: Extra Game"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kuroko's Basketball"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kuroko no Basuke"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Basketball Which Kuroko Plays. Extra Game"
+        },
+        {
+            "type": "Japanese",
+            "title": "黒子のバスケ EXTRA GAME"
+        }
+    ],
+    "title": "Kuroko no Basket: Extra Game",
+    "title_english": null,
+    "title_japanese": "黒子のバスケ EXTRA GAME",
+    "title_synonyms": [
+        "Kuroko's Basketball",
+        "Kuroko no Basuke",
+        "The Basketball Which Kuroko Plays. Extra Game"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-12-27T00:00:00+00:00",
+        "to": "2016-03-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 12,
+                "year": 2014
+            },
+            "to": {
+                "day": 3,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Dec 27, 2014 to Mar 3, 2016"
+    },
+    "score": 7.85,
+    "scored": 7.85,
+    "scored_by": 11170,
+    "rank": 1150,
+    "popularity": 970,
+    "members": 20409,
+    "favorites": 323,
+    "synopsis": "The college basketball team Strky, comprised of familiar faces from past Interhigh tournaments, is ready to face off against the Jabberwock, a popular American street basketball team that has just arrived in Japan. But what they believe will be a friendly match against a foreign team turns into a devastating loss, and afterwards, the Jabberwock's captain Nash Gold Jr. comments that the people of Japan are equivalent to monkeys and should stop pretending to play basketball.\n\nAngered by this insult, Kagetora Aida proposes a rematch with a different Japanese team, to which Nash accepts, believing the outcome will be the exact same. For the revenge match, Kagetora assembles the Vorpal Swords, consisting of the Generation of Miracles alongside Tetsuya Kuroko and Taiga Kagami—the only team that stands a chance in teaching the Jabberwock a lesson.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6854,
+            "type": "people",
+            "name": "Fujimaki, Tadatoshi",
+            "url": "https://myanimelist.net/people/6854/Tadatoshi_Fujimaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 548,
+            "type": "manga",
+            "name": "Shounen Jump NEXT!",
+            "url": "https://myanimelist.net/manga/magazine/548/Shounen_Jump_NEXT"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 11652,
+                    "type": "manga",
+                    "name": "Kuroko no Basket",
+                    "url": "https://myanimelist.net/manga/11652/Kuroko_no_Basket"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 31658,
+                    "type": "anime",
+                    "name": "Kuroko no Basket Movie 4: Last Game",
+                    "url": "https://myanimelist.net/anime/31658/Kuroko_no_Basket_Movie_4__Last_Game"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%BB%92%E5%AD%90%E3%81%AE%E3%83%90%E3%82%B9%E3%82%B1"
+        }
+    ]
+}

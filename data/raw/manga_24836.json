@@ -1,0 +1,171 @@
+{
+    "mal_id": 24836,
+    "url": "https://myanimelist.net/manga/24836/Ousama_Game",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/116343.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/116343t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/116343l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/116343.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/116343t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/116343l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ousama Game"
+        },
+        {
+            "type": "Japanese",
+            "title": "王様ゲーム"
+        },
+        {
+            "type": "English",
+            "title": "King's Game"
+        }
+    ],
+    "title": "Ousama Game",
+    "title_english": "King's Game",
+    "title_japanese": "王様ゲーム",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 25,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-01-01T00:00:00+00:00",
+        "to": "2012-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            }
+        },
+        "string": "2010 to 2012"
+    },
+    "score": 6.37,
+    "scored": 6.37,
+    "scored_by": 20372,
+    "rank": 17875,
+    "popularity": 467,
+    "members": 39903,
+    "favorites": 583,
+    "synopsis": "After awakening from a nightmare, Nobuaki Kanazawa receives a mysterious text message in the middle of the night from someone known as the King, concerning the so-called \"King's Game.\" This message demands that his entire class participate, that the King's orders must be fulfilled within 24 hours, and that no one is allowed to quit mid-game.\n\nNobuaki and the rest of his classmates shrug off the message, thinking it is nothing more than an elaborate prank. However, it soon becomes clear that failing to fulfill the King's commands results in bloody consequences, as those who defy the King die in horrific ways. With each command more extreme than the last, the body count begins to rise, and a cloud of turmoil and despair looms over the class as they wonder if any of them can make it out alive.\n\n[Written by MAL Rewrite]",
+    "background": "Ousama Game is an adaptation of the first novel from the novel series of the same title. The series was published digitally in English as King's Game by Futabasha Publishers from June 11, 2019, to September 24, 2019. It was also released in Brazilian Portuguese by Editora JBC from December 2013 to April 2014; and in Polish by Japonica Polonica Fantastica from February 27, 2016, to March 30, 2017.",
+    "authors": [
+        {
+            "mal_id": 13943,
+            "type": "people",
+            "name": "Renda, Hitori",
+            "url": "https://myanimelist.net/people/13943/Hitori_Renda"
+        },
+        {
+            "mal_id": 13945,
+            "type": "people",
+            "name": "Kanazawa, Nobuaki",
+            "url": "https://myanimelist.net/people/13945/Nobuaki_Kanazawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 214,
+            "type": "manga",
+            "name": "E★Everystar",
+            "url": "https://myanimelist.net/manga/magazine/214/E%E2%98%85Everystar"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 67121,
+                    "type": "manga",
+                    "name": "Ousama Game: Kigen",
+                    "url": "https://myanimelist.net/manga/67121/Ousama_Game__Kigen"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 47332,
+                    "type": "manga",
+                    "name": "Ousama Game: Shuukyoku",
+                    "url": "https://myanimelist.net/manga/47332/Ousama_Game__Shuukyoku"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 36027,
+                    "type": "anime",
+                    "name": "Ousama Game The Animation",
+                    "url": "https://myanimelist.net/anime/36027/Ousama_Game_The_Animation"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%8E%8B%E6%A7%98%E3%82%B2%E3%83%BC%E3%83%A0_%28%E5%B0%8F%E8%AA%AC%29"
+        }
+    ]
+}

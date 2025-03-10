@@ -1,0 +1,156 @@
+{
+    "mal_id": 111202,
+    "url": "https://myanimelist.net/manga/111202/Lookism",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/208866.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/208866t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/208866l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/208866.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/208866t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/208866l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Lookism"
+        },
+        {
+            "type": "Japanese",
+            "title": "외모지상주의"
+        },
+        {
+            "type": "English",
+            "title": "Lookism"
+        }
+    ],
+    "title": "Lookism",
+    "title_english": "Lookism",
+    "title_japanese": "외모지상주의",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-11-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 11,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 20, 2014 to ?"
+    },
+    "score": 7.97,
+    "scored": 7.97,
+    "scored_by": 26719,
+    "rank": 826,
+    "popularity": 266,
+    "members": 63842,
+    "favorites": 2780,
+    "synopsis": "Park Hyung Suk has spent all 17 years of his life at the bottom of the food chain. Short, overweight, and unattractive, he is used to being bullied by his classmates and constantly discriminated against for his looks. In an attempt to escape his biggest bully, Lee Tae Sung, he decides to transfer to Seoul's Jae Won High School, a vocational preparatory school notorious for its liberal education system and carefree students.\n\nDays before his transfer, Hyung Suk wakes to find that he is no longer in his usual chubby body, but is instead in a perfect body! Tall, handsome, and beautifully toned, Hyung Suk has become the ideal version of himself. The only problem is that his original body still lays beside him—and when one body falls asleep, he awakens in the other.\n\nNow possessing two extremely different bodies, Hyung Suk must learn to navigate his new and much more popular life at J High whilst also solving the mystery of where his second, almost superhuman, body came from.\n\n[Written by MAL Rewrite]",
+    "background": "Lookism is originally a webtoon which first volume was officially published in paperbook format by &Book (대원앤북) on May 25, 2017. The series has been serialized in English by LINE Webtoon since June 4, 2017.",
+    "authors": [
+        {
+            "mal_id": 47382,
+            "type": "people",
+            "name": "Park, Tae-Jun",
+            "url": "https://myanimelist.net/people/47382/Tae-Jun_Park"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 53149,
+                    "type": "anime",
+                    "name": "Oemojisangjuui",
+                    "url": "https://myanimelist.net/anime/53149/Oemojisangjuui"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 146879,
+                    "type": "manga",
+                    "name": "Manager Kim",
+                    "url": "https://myanimelist.net/manga/146879/Manager_Kim"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic.naver.com/webtoon/list.nhn?titleId=641253"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lookism_(manhwa)"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EC%99%B8%EB%AA%A8%EC%A7%80%EC%83%81%EC%A3%BC%EC%9D%98(%EC%9B%B9%ED%88%B0)"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "mal_id": 1047,
+    "url": "https://myanimelist.net/manga/1047/Saint_Seiya__The_Lost_Canvas_-_Meiou_Shinwa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/163126.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/163126t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/163126l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/163126.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/163126t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/163126l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa"
+        },
+        {
+            "type": "Japanese",
+            "title": "聖闘士星矢 THE LOST CANVAS 冥王神話"
+        }
+    ],
+    "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "title_english": null,
+    "title_japanese": "聖闘士星矢 THE LOST CANVAS 冥王神話",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 223,
+    "volumes": 25,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-09-21T00:00:00+00:00",
+        "to": "2011-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 9,
+                "year": 2006
+            },
+            "to": {
+                "day": 7,
+                "month": 4,
+                "year": 2011
+            }
+        },
+        "string": "Sep 21, 2006 to Apr 7, 2011"
+    },
+    "score": 8.27,
+    "scored": 8.27,
+    "scored_by": 8243,
+    "rank": 351,
+    "popularity": 1234,
+    "members": 16615,
+    "favorites": 1114,
+    "synopsis": "This manga tells the story of the previous Holy war of the universe of Saint Seiya, taking place in the XVIII century, 250 years before the original manga. The story centers on the relation between Tenma, the Pegasus Saint and his beloved friend, Alone, who would eventually become his greatest enemy, Hades.\n\n(Source: Wikipedia)",
+    "background": "Saint Seiya: The Lost Canvas - Meiou Shinwa was published in Brazilian Portuguese by Editora JBC from August 2007 to February 2012.",
+    "authors": [
+        {
+            "mal_id": 1999,
+            "type": "people",
+            "name": "Kurumada, Masami",
+            "url": "https://myanimelist.net/people/1999/Masami_Kurumada"
+        },
+        {
+            "mal_id": 3691,
+            "type": "people",
+            "name": "Teshirogi, Shiori",
+            "url": "https://myanimelist.net/people/3691/Shiori_Teshirogi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1045,
+                    "type": "manga",
+                    "name": "Saint Seiya",
+                    "url": "https://myanimelist.net/manga/1045/Saint_Seiya"
+                },
+                {
+                    "mal_id": 1046,
+                    "type": "manga",
+                    "name": "Saint Seiya Episode G",
+                    "url": "https://myanimelist.net/manga/1046/Saint_Seiya_Episode_G"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 6171,
+                    "type": "anime",
+                    "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+                    "url": "https://myanimelist.net/anime/6171/Saint_Seiya__The_Lost_Canvas_-_Meiou_Shinwa"
+                },
+                {
+                    "mal_id": 9130,
+                    "type": "anime",
+                    "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa 2",
+                    "url": "https://myanimelist.net/anime/9130/Saint_Seiya__The_Lost_Canvas_-_Meiou_Shinwa_2"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 25916,
+                    "type": "manga",
+                    "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa Gaiden",
+                    "url": "https://myanimelist.net/manga/25916/Saint_Seiya__The_Lost_Canvas_-_Meiou_Shinwa_Gaiden"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 1322,
+                    "type": "manga",
+                    "name": "Saint Seiya: Next Dimension - Meiou Shinwa",
+                    "url": "https://myanimelist.net/manga/1322/Saint_Seiya__Next_Dimension_-_Meiou_Shinwa"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E8%81%96%E9%97%98%E5%A3%AB%E6%98%9F%E7%9F%A2_THE_LOST_CANVAS_%E5%86%A5%E7%8E%8B%E7%A5%9E%E8%A9%B1"
+        }
+    ]
+}

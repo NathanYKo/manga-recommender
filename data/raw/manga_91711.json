@@ -1,0 +1,159 @@
+{
+    "mal_id": 91711,
+    "url": "https://myanimelist.net/manga/91711/Devils_Line",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/167817.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/167817t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/167817l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/167817.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/167817t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/167817l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Devils Line"
+        },
+        {
+            "type": "Japanese",
+            "title": "デビルズライン"
+        },
+        {
+            "type": "English",
+            "title": "Devils' Line"
+        }
+    ],
+    "title": "Devils Line",
+    "title_english": "Devils' Line",
+    "title_japanese": "デビルズライン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 80,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-03-22T00:00:00+00:00",
+        "to": "2019-05-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 3,
+                "year": 2013
+            },
+            "to": {
+                "day": 22,
+                "month": 5,
+                "year": 2019
+            }
+        },
+        "string": "Mar 22, 2013 to May 22, 2019"
+    },
+    "score": 7.56,
+    "scored": 7.56,
+    "scored_by": 6626,
+    "rank": 2583,
+    "popularity": 885,
+    "members": 22257,
+    "favorites": 582,
+    "synopsis": "In a world where vampires have a similar genetic makeup to humans, it is difficult to tell them apart. However, there is a distinct difference: when one of these vampires, called devils by the general public, sees the blood of a human, they completely lose control.\n\nOrdinary girl Tsukasa Taira finds herself the object of affection of vampire Shouta Akimura. To avoid hurting her, he has resorted to killing other humans to satiate his bloodlust. However, Shouta treads a thin wire, running the risk of losing control at any time.\n\nTo neutralize the potential threat, detective Yuuki Anzai swoops in to save Tsukasa from becoming Shouta's next victim. As he takes her home, Tsukasa finds herself enthralled by Anzai, who is a vampire himself. Together, they begin a tenuous relationship that takes them into the depths of a vicious conspiracy, rampant with murder and intrigue.\n\n[Written by MAL Rewrite]",
+    "background": "Devils Line was published in English by Vertical Inc. under the Vertical Comics imprint from May 24, 2016 to March 24, 2020.",
+    "authors": [
+        {
+            "mal_id": 38604,
+            "type": "people",
+            "name": "Hanada, Ryou",
+            "url": "https://myanimelist.net/people/38604/Ryou_Hanada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 345,
+            "type": "manga",
+            "name": "Morning Two",
+            "url": "https://myanimelist.net/manga/magazine/345/Morning_Two"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 146820,
+                    "type": "manga",
+                    "name": "Devils Line II [Gyakushuu]",
+                    "url": "https://myanimelist.net/manga/146820/Devils_Line_II_Gyakushuu"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35928,
+                    "type": "anime",
+                    "name": "Devils Line",
+                    "url": "https://myanimelist.net/anime/35928/Devils_Line"
+                },
+                {
+                    "mal_id": 37997,
+                    "type": "anime",
+                    "name": "Devils Line: Anytime Anywhere",
+                    "url": "https://myanimelist.net/anime/37997/Devils_Line__Anytime_Anywhere"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/devils-line/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%AB%E3%82%BA%E3%83%A9%E3%82%A4%E3%83%B3"
+        }
+    ]
+}

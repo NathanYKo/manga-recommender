@@ -1,0 +1,163 @@
+{
+    "mal_id": 3282,
+    "url": "https://myanimelist.net/manga/3282/Hotarubi_no_Mori_e",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/260149.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/260149t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/260149l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/260149.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/260149t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/260149l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hotarubi no Mori e"
+        },
+        {
+            "type": "Synonym",
+            "title": "Into the Forest of Fireflies' Light"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hanauta Nagaruru"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kurukuru Ochiba"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hibi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fukaku"
+        },
+        {
+            "type": "Japanese",
+            "title": "蛍火の杜へ"
+        }
+    ],
+    "title": "Hotarubi no Mori e",
+    "title_english": null,
+    "title_japanese": "蛍火の杜へ",
+    "title_synonyms": [
+        "Into the Forest of Fireflies' Light",
+        "Hanauta Nagaruru",
+        "Kurukuru Ochiba",
+        "Hibi",
+        "Fukaku"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-06-10T00:00:00+00:00",
+        "to": "2003-03-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 6,
+                "year": 2002
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2003
+            }
+        },
+        "string": "Jun 10, 2002 to Mar 24, 2003"
+    },
+    "score": 8.04,
+    "scored": 8.04,
+    "scored_by": 9670,
+    "rank": 688,
+    "popularity": 923,
+    "members": 21407,
+    "favorites": 285,
+    "synopsis": "1. Hanauta Nagaruru\n2. Hotarubi no Mori e\n3. Kurukuru Ochiba\n4. Hibi, Fukaku",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3206,
+            "type": "people",
+            "name": "Midorikawa, Yuki",
+            "url": "https://myanimelist.net/people/3206/Yuki_Midorikawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "LaLa",
+            "url": "https://myanimelist.net/manga/magazine/11/LaLa"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 10408,
+                    "type": "anime",
+                    "name": "Hotarubi no Mori e",
+                    "url": "https://myanimelist.net/anime/10408/Hotarubi_no_Mori_e"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 101004,
+                    "type": "manga",
+                    "name": "Hotarubi no Mori e Aizouban",
+                    "url": "https://myanimelist.net/manga/101004/Hotarubi_no_Mori_e_Aizouban"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E8%9B%8D%E7%81%AB%E3%81%AE%E6%9D%9C%E3%81%B8"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hotarubi_no_Mori_e"
+        }
+    ]
+}

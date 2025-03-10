@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block title %}Manga Recommender - Get Recommendations{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h2 class="mb-0">Find Manga Recommendations</h2>
+                </div>
+                <div class="card-body">
+                    <p class="lead">Enter a manga title to get similar manga recommendations.</p>
+                    
+                    {% with messages = get_flashed_messages(with_categories=true) %}
+                        {% if messages %}
+                            {% for category, message in messages %}
+                                <div class="alert alert-{{ category if category != 'error' else 'danger' }}">
+                                    {{ message }}
+                                </div>
+                            {% endfor %}
+                        {% endif %}
+                    {% endwith %}
+                    
+                    <form action="{{ url_for('recommend_manga') }}" method="post">
+                        <div class="mb-3">
+                            <label for="title" class="form-label">Manga Title</label>
+                            <input type="text" class="form-control" id="title" name="title" placeholder="e.g., Naruto">
+                            <small class="form-text text-muted">Enter the title of a manga you enjoy</small>
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label for="num_recommendations" class="form-label">Number of Recommendations</label>
+                            <select class="form-select" id="num_recommendations" name="num_recommendations">
+                                <option value="5">5</option>
+                                <option value="10" selected>10</option>
+                                <option value="15">15</option>
+                                <option value="20">20</option>
+                                <option value="30">30</option>
+                            </select>
+                        </div>
+                        
+                        <button type="submit" class="btn btn-primary">Get Recommendations</button>
+                    </form>
+                </div>
+                <div class="card-footer text-muted">
+                    <p class="mb-0">Our recommendation system uses content analysis and collaborative filtering to find manga with similar themes, genres, and popularity.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %} 

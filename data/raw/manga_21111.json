@@ -1,0 +1,157 @@
+{
+    "mal_id": 21111,
+    "url": "https://myanimelist.net/manga/21111/Arachnid",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/173766.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/173766t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/173766l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/173766.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/173766t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/173766l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Arachnid"
+        },
+        {
+            "type": "Japanese",
+            "title": "アラクニド"
+        },
+        {
+            "type": "English",
+            "title": "Arachnid"
+        }
+    ],
+    "title": "Arachnid",
+    "title_english": "Arachnid",
+    "title_japanese": "アラクニド",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 73,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-11-21T00:00:00+00:00",
+        "to": "2015-12-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 11,
+                "year": 2009
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Nov 21, 2009 to Dec 22, 2015"
+    },
+    "score": 6.99,
+    "scored": 6.99,
+    "scored_by": 7495,
+    "rank": 9168,
+    "popularity": 966,
+    "members": 20455,
+    "favorites": 296,
+    "synopsis": "Alice is a senior high school student who lives with an uncle that spends his time tormenting her everyday. One day, Alice witnesses the death of her uncle by the hands of an assassin called \"Kumo\" (Japanese for Arachnid). She then falls unconscious, and upon waking up, she finds out that she's in Kumo's house... Now, this Alice who no longer has any family is being raised by the assassin himself..!\n\n(Source: Kirei Cake)",
+    "background": "Arachnid has been published digitally in English by Square Enix through Manga UP!",
+    "authors": [
+        {
+            "mal_id": 3140,
+            "type": "people",
+            "name": "Murata, Shinya",
+            "url": "https://myanimelist.net/people/3140/Shinya_Murata"
+        },
+        {
+            "mal_id": 17027,
+            "type": "people",
+            "name": "Ifuji, Shinsen",
+            "url": "https://myanimelist.net/people/17027/Shinsen_Ifuji"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 412,
+            "type": "manga",
+            "name": "Gangan Joker",
+            "url": "https://myanimelist.net/manga/magazine/412/Gangan_Joker"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 125396,
+                    "type": "manga",
+                    "name": "Blattodea",
+                    "url": "https://myanimelist.net/manga/125396/Blattodea"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 40051,
+                    "type": "manga",
+                    "name": "Caterpillar",
+                    "url": "https://myanimelist.net/manga/40051/Caterpillar"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 87083,
+                    "type": "manga",
+                    "name": "Arachnid x Caterpillar x Killing Bites: Onna 6-nin (?) Onsen Monogatari",
+                    "url": "https://myanimelist.net/manga/87083/Arachnid_x_Caterpillar_x_Killing_Bites__Onna_6-nin__Onsen_Monogatari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.com/jp/magazine/joker/series/arachnid/index.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%AF%E3%83%8B%E3%83%89"
+        }
+    ]
+}

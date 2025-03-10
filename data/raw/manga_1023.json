@@ -1,0 +1,230 @@
+{
+    "mal_id": 1023,
+    "url": "https://myanimelist.net/manga/1023/Koukaku_Kidoutai__The_Ghost_in_the_Shell",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/155733.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/155733t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/155733l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/155733.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/155733t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/155733l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koukaku Kidoutai: The Ghost in the Shell"
+        },
+        {
+            "type": "Japanese",
+            "title": "攻殻機動隊 THE GHOST IN THE SHELL"
+        },
+        {
+            "type": "English",
+            "title": "The Ghost in the Shell"
+        }
+    ],
+    "title": "Koukaku Kidoutai: The Ghost in the Shell",
+    "title_english": "The Ghost in the Shell",
+    "title_japanese": "攻殻機動隊 THE GHOST IN THE SHELL",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1989-03-01T00:00:00+00:00",
+        "to": "1991-09-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 3,
+                "year": 1989
+            },
+            "to": {
+                "day": 1,
+                "month": 9,
+                "year": 1991
+            }
+        },
+        "string": "Mar 1989 to Sep 1991"
+    },
+    "score": 7.95,
+    "scored": 7.95,
+    "scored_by": 13665,
+    "rank": 852,
+    "popularity": 441,
+    "members": 41822,
+    "favorites": 1413,
+    "synopsis": "The year is 2029. The world has endured four world wars and ushered in a new age of technological advancement that has largely transformed society as humanity knows it. Cybernetic enhancements, robotic AIs, and cyborgs have now become the norm in a world where humans are more machine than man. However, with this modern change, crime started evolving as well: hackers, corrupt officials, and other opportunists have found ways to sneak into innovative systems for their own personal agendas.\n\nIn Japan, where such crimes run rampant, the government establishes Section 9—a clandestine team of highly trained operatives—to counter these threats. Major Motoko Kusanagi, a woman of impenetrable caliber and bravado, leads Section 9 on its mission to tackle cyberterrorism and ensure that the nation's stability does not falter in the pace of the rapidly progressing future.\n\n[Written by MAL Rewrite]",
+    "background": "Koukaku Kidoutai: The Ghost in the Shell was published in Japan as an English-Japanese bilingual edition by Kodansha on September 6, 2002. The series was released in English by Dark Horse Comics into eight comic issues from March 1, 1995, to October 1, 1995, and later into a single volume on December 1, 1995. An uncensored version was published on October 6, 2004. Kodansha Comics USA republished the censored version on October 13, 2009. It was also released in Brazilian Portuguese by Editora JBC in December 2016. A video game based on the series was released on the PlayStation on July 17, 1997, developed by Exact and Production I.G. The manga was also adapted into a Western live-action film that premiered on March 31, 2017.",
+    "authors": [
+        {
+            "mal_id": 2609,
+            "type": "people",
+            "name": "Shirow, Masamune",
+            "url": "https://myanimelist.net/people/2609/Masamune_Shirow"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1671,
+            "type": "manga",
+            "name": "Young Magazine Kaizokuban",
+            "url": "https://myanimelist.net/manga/magazine/1671/Young_Magazine_Kaizokuban"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1028,
+                    "type": "manga",
+                    "name": "Koukaku Kidoutai 1.5: Human-Error Processer",
+                    "url": "https://myanimelist.net/manga/1028/Koukaku_Kidoutai_15__Human-Error_Processer"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 43,
+                    "type": "anime",
+                    "name": "Koukaku Kidoutai",
+                    "url": "https://myanimelist.net/anime/43/Koukaku_Kidoutai"
+                },
+                {
+                    "mal_id": 58929,
+                    "type": "anime",
+                    "name": "Koukaku Kidoutai (TV)",
+                    "url": "https://myanimelist.net/anime/58929/Koukaku_Kidoutai_TV"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 10820,
+                    "type": "manga",
+                    "name": "Innocence: After the Long Goodbye",
+                    "url": "https://myanimelist.net/manga/10820/Innocence__After_the_Long_Goodbye"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 112031,
+                    "type": "manga",
+                    "name": "Koukaku Kidoutai Shousetsu Anthology",
+                    "url": "https://myanimelist.net/manga/112031/Koukaku_Kidoutai_Shousetsu_Anthology"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 7848,
+                    "type": "manga",
+                    "name": "Koukaku Kidoutai: Stand Alone Complex",
+                    "url": "https://myanimelist.net/manga/7848/Koukaku_Kidoutai__Stand_Alone_Complex"
+                },
+                {
+                    "mal_id": 48321,
+                    "type": "manga",
+                    "name": "Koukaku Kidoutai: Arise - Sleepless Eye",
+                    "url": "https://myanimelist.net/manga/48321/Koukaku_Kidoutai__Arise_-_Sleepless_Eye"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 3395,
+                    "type": "manga",
+                    "name": "Dominion",
+                    "url": "https://myanimelist.net/manga/3395/Dominion"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 123157,
+                    "type": "manga",
+                    "name": "Koukaku Kidoutai: Ghost in the Shell Comic Tribute",
+                    "url": "https://myanimelist.net/manga/123157/Koukaku_Kidoutai__Ghost_in_the_Shell_Comic_Tribute"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/the-ghost-in-the-shell/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(manga)"
+        }
+    ]
+}

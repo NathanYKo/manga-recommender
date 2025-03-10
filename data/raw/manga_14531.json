@@ -1,0 +1,163 @@
+{
+    "mal_id": 14531,
+    "url": "https://myanimelist.net/manga/14531/GTO__Shonan_14_Days",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/257894.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/257894t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/257894l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/257894.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/257894t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/257894l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "GTO: Shonan 14 Days"
+        },
+        {
+            "type": "Synonym",
+            "title": "Great Teacher Onizuka: Shonan 14 Days"
+        },
+        {
+            "type": "Synonym",
+            "title": "Black Diamond"
+        },
+        {
+            "type": "Japanese",
+            "title": "GTO SHONAN 14DAYS"
+        },
+        {
+            "type": "English",
+            "title": "GTO: 14 Days in Shonan"
+        }
+    ],
+    "title": "GTO: Shonan 14 Days",
+    "title_english": "GTO: 14 Days in Shonan",
+    "title_japanese": "GTO SHONAN 14DAYS",
+    "title_synonyms": [
+        "Great Teacher Onizuka: Shonan 14 Days",
+        "Black Diamond"
+    ],
+    "type": "Manga",
+    "chapters": 77,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-06-10T00:00:00+00:00",
+        "to": "2011-11-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 6,
+                "year": 2009
+            },
+            "to": {
+                "day": 16,
+                "month": 11,
+                "year": 2011
+            }
+        },
+        "string": "Jun 10, 2009 to Nov 16, 2011"
+    },
+    "score": 8.22,
+    "scored": 8.22,
+    "scored_by": 10651,
+    "rank": 412,
+    "popularity": 762,
+    "members": 25333,
+    "favorites": 264,
+    "synopsis": "This is a spin-off story of the manga GTO (Great Teacher Onizuka) that takes place directly after the Teshigawara arc.\n\nAfter Eikichi Onizuka was shot by former teacher Teshigawara, he was sent to the hospital. Shortly afterwards, he escaped and spent 14 days that no one knew about. Strangely enough, when he returned, a wanted poster appeared with a man that resembled Onizuka. What exactly did he do during these 14 days?\n\n(Source: MU)",
+    "background": "GTO: Shonan 14 Days was published physically in English as GTO: 14 Days in Shonan by Vertical Inc. from January 31, 2012 to May 28, 2013. Kodansha USA published the digital version of all 9 volumes on February 1, 2022.",
+    "authors": [
+        {
+            "mal_id": 2318,
+            "type": "people",
+            "name": "Fujisawa, Tooru",
+            "url": "https://myanimelist.net/people/2318/Tooru_Fujisawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 336,
+                    "type": "manga",
+                    "name": "GTO",
+                    "url": "https://myanimelist.net/manga/336/GTO"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/gto-14-days-in-shonan/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/GTO_%28%E6%BC%AB%E7%94%BB%29"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Great_Teacher_Onizuka"
+        }
+    ]
+}

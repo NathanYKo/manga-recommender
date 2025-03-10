@@ -1,0 +1,123 @@
+{
+    "mal_id": 48621,
+    "url": "https://myanimelist.net/manga/48621/Koe_no_Katachi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/86737.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/86737t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/86737l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/86737.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/86737t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/86737l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koe no Katachi"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Silent Voice"
+        },
+        {
+            "type": "Japanese",
+            "title": "聲の形"
+        }
+    ],
+    "title": "Koe no Katachi",
+    "title_english": null,
+    "title_japanese": "聲の形",
+    "title_synonyms": [
+        "A Silent Voice"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-01-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 8, 2011"
+    },
+    "score": 8.38,
+    "scored": 8.38,
+    "scored_by": 35496,
+    "rank": 236,
+    "popularity": 271,
+    "members": 62161,
+    "favorites": 691,
+    "synopsis": "Elementary school student Shouya Ishida is creeped out when Shouko Nishimiya, a meek girl born with impaired hearing, transfers into his class. Following her arrival, Shouya and his friends begin to torment Shouko, making her the hapless target of ridicule and assault. The constant bullying turns school into a living hell for Shouko, where even the teachers remain indifferent to the situation.\n\nKoe no Katachi tells the heartbreaking story of Shouko falling victim to bullying, but also one of hope, remorse, and redemption.\n\n[Written by MAL Rewrite]",
+    "background": "Although Koe no Katachi won the 80th Weekly Shounen Magazine Newbie Best Mangaka Award in 2008, its content made it difficult for publication in any manga magazine. It was published—after months of legal dispute—in the February issue of Bessatsu Shounen Magazine in 2011, where it got first place in the questionnaires. As a result, Yoshitoki Ooima's debut became the manga version of Mardock Scramble. The one-shot was re-published in the 12th issue of the 2013 Weekly Shounen Magazine.",
+    "authors": [
+        {
+            "mal_id": 10951,
+            "type": "people",
+            "name": "Ooima, Yoshitoki",
+            "url": "https://myanimelist.net/people/10951/Yoshitoki_Ooima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 450,
+            "type": "manga",
+            "name": "Bessatsu Shounen Magazine",
+            "url": "https://myanimelist.net/manga/magazine/450/Bessatsu_Shounen_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 56805,
+                    "type": "manga",
+                    "name": "Koe no Katachi",
+                    "url": "https://myanimelist.net/manga/56805/Koe_no_Katachi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

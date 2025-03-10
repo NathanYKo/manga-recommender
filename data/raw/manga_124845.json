@@ -1,0 +1,151 @@
+{
+    "mal_id": 124845,
+    "url": "https://myanimelist.net/manga/124845/Sweet_Home",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/227600.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/227600t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/227600l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/227600.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/227600t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/227600l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sweet Home"
+        },
+        {
+            "type": "Japanese",
+            "title": "스위트 홈"
+        },
+        {
+            "type": "English",
+            "title": "Sweet Home"
+        }
+    ],
+    "title": "Sweet Home",
+    "title_english": "Sweet Home",
+    "title_japanese": "스위트 홈",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": 141,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-10-12T00:00:00+00:00",
+        "to": "2020-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 2,
+                "month": 7,
+                "year": 2020
+            }
+        },
+        "string": "Oct 12, 2017 to Jul 2, 2020"
+    },
+    "score": 8.27,
+    "scored": 8.27,
+    "scored_by": 43022,
+    "rank": 353,
+    "popularity": 191,
+    "members": 84214,
+    "favorites": 2936,
+    "synopsis": "Cha Hyun is a reclusive high school student who spends his days holed up in his room playing video games. But when he loses his entire family in a tragic car accident, he is forced to leave his home and carefree lifestyle behind and move into a new apartment all by himself. However, his pesky neighbors and lack of money soon become the least of his worries as people around him suddenly begin turning into horrifying monsters, plunging the world into apocalyptic chaos.\n\nThe situation takes a turn for the worse when Hyun realizes that he himself is slowly turning into a monster, while a mysterious voice in his head grows louder and louder. With his time running out, Hyun must work together with his fellow tenants to uncover the cause of the outbreak and find a way to survive in this hopeless new world, all the while fighting to retain his humanity.\n\n[Written by MAL Rewrite]",
+    "background": "Sweet Home was published digitally in English by LINE Webtoon from January 14, 2018 to August 30, 2020.",
+    "authors": [
+        {
+            "mal_id": 47383,
+            "type": "people",
+            "name": "Kim, Carnby",
+            "url": "https://myanimelist.net/people/47383/Carnby_Kim"
+        },
+        {
+            "mal_id": 47384,
+            "type": "people",
+            "name": "Hwang, Young-chan",
+            "url": "https://myanimelist.net/people/47384/Young-chan_Hwang"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 146751,
+                    "type": "manga",
+                    "name": "Shotgun Boy",
+                    "url": "https://myanimelist.net/manga/146751/Shotgun_Boy"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.naver.com/webtoon/list.nhn?titleId=701081"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%9C%84%ED%8A%B8%ED%99%88_(%EC%9B%B9%ED%88%B0)"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EC%8A%A4%EC%9C%84%ED%8A%B8%ED%99%88?from=%EC%8A%A4%EC%9C%84%ED%8A%B8%20%ED%99%88%28%EC%9B%B9%ED%88%B0%29"
+        }
+    ]
+}

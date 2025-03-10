@@ -1,0 +1,142 @@
+{
+    "mal_id": 8158,
+    "url": "https://myanimelist.net/manga/8158/L_Change_the_WorLd",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/11590.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/11590t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/11590l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/11590.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/11590t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/11590l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "L Change the WorLd"
+        },
+        {
+            "type": "Synonym",
+            "title": "Death Note: L Change the WorLd"
+        },
+        {
+            "type": "Japanese",
+            "title": "L Change the WorLd"
+        }
+    ],
+    "title": "L Change the WorLd",
+    "title_english": null,
+    "title_japanese": "L Change the WorLd",
+    "title_synonyms": [
+        "Death Note: L Change the WorLd"
+    ],
+    "type": "Light Novel",
+    "chapters": 38,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-12-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 12,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 25, 2007"
+    },
+    "score": 7.92,
+    "scored": 7.92,
+    "scored_by": 7780,
+    "rank": 938,
+    "popularity": 907,
+    "members": 21710,
+    "favorites": 326,
+    "synopsis": "L Change the WorLd is a sequel to the Death Note movie based on the popular anime. This movie is entirely dedicated to L, and his last 23 days on Earth after having caught Kira. This is a novel version of that movie and contains many events that do not take place in the film.",
+    "background": "L Change the WorLd was published in English by VIZ Media on October 20, 2009. It was also released in Brazilian Portuguese by Editora JBC in September 2011.",
+    "authors": [
+        {
+            "mal_id": 1888,
+            "type": "people",
+            "name": "Obata, Takeshi",
+            "url": "https://myanimelist.net/people/1888/Takeshi_Obata"
+        },
+        {
+            "mal_id": 36692,
+            "type": "people",
+            "name": "M",
+            "url": "https://myanimelist.net/people/36692/M"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 21,
+                    "type": "manga",
+                    "name": "Death Note",
+                    "url": "https://myanimelist.net/manga/21/Death_Note"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/DEATH_NOTE"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/L:_Change_the_World"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "mal_id": 610,
+    "url": "https://myanimelist.net/manga/610/Skip_Beat",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/255389.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/255389t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/255389l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/255389.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/255389t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/255389l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Skip Beat!"
+        },
+        {
+            "type": "Japanese",
+            "title": "スキップ・ビート!"
+        },
+        {
+            "type": "English",
+            "title": "Skip Beat!"
+        }
+    ],
+    "title": "Skip Beat!",
+    "title_english": "Skip Beat!",
+    "title_japanese": "スキップ・ビート!",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2002-02-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 2,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 15, 2002 to ?"
+    },
+    "score": 8.55,
+    "scored": 8.55,
+    "scored_by": 39764,
+    "rank": 118,
+    "popularity": 163,
+    "members": 93534,
+    "favorites": 9152,
+    "synopsis": "Sixteen-year-old Kyouko Mogami followed her childhood friend and love interest Shoutarou \"Shou\" Fuwa to Tokyo to support him while he works toward his dream of becoming a top idol in the entertainment industry. But after finding out that Shou considers her as little more than a mere housekeeper, she swears to enact revenge by entering the entertainment industry herself and beating him at his own game!\n\nHowever, Kyouko's revenge plan suffers a setback almost immediately when she is rejected by the talent agency of her choice. Fortunately, the president of the agency gives her a second chance, and places her in the newly made \"Love Me\" section. Kyouko then begins her long journey to stardom, cultivating her skills as an actress and forming relationships with new friends along the way.\n\n[Written by MAL Rewrite]",
+    "background": "Skip Beat! has been published in English by VIZ Media under the Shojo Beat imprint since July 5, 2006, and a 3-in-1 omnibus edition since March 6, 2012.",
+    "authors": [
+        {
+            "mal_id": 2536,
+            "type": "people",
+            "name": "Nakamura, Yoshiki",
+            "url": "https://myanimelist.net/people/2536/Yoshiki_Nakamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/21/Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 64,
+            "type": "manga",
+            "name": "Love Polygon",
+            "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+        },
+        {
+            "mal_id": 76,
+            "type": "manga",
+            "name": "Showbiz",
+            "url": "https://myanimelist.net/manga/genre/76/Showbiz"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 4722,
+                    "type": "anime",
+                    "name": "Skip Beat!",
+                    "url": "https://myanimelist.net/anime/4722/Skip_Beat"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 101854,
+                    "type": "manga",
+                    "name": "Shousetsu Skip Beat!: Kyouko no Zenryoku Full Course!",
+                    "url": "https://myanimelist.net/manga/101854/Shousetsu_Skip_Beat__Kyouko_no_Zenryoku_Full_Course"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.hanayume.com/sakuhin/?id=5"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%83%BB%E3%83%93%E3%83%BC%E3%83%88!"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Skip_Beat!"
+        }
+    ]
+}

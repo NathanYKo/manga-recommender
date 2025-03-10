@@ -1,0 +1,125 @@
+{
+    "mal_id": 5744,
+    "url": "https://myanimelist.net/manga/5744/Ping_Pong",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/151416.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/151416t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/151416l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/151416.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/151416t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/151416l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ping Pong"
+        },
+        {
+            "type": "Japanese",
+            "title": "ピンポン"
+        }
+    ],
+    "title": "Ping Pong",
+    "title_english": null,
+    "title_japanese": "ピンポン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 55,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-01-01T00:00:00+00:00",
+        "to": "1997-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1996
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            }
+        },
+        "string": "1996 to 1997"
+    },
+    "score": 8.53,
+    "scored": 8.53,
+    "scored_by": 7425,
+    "rank": 138,
+    "popularity": 853,
+    "members": 22976,
+    "favorites": 744,
+    "synopsis": "Makoto Tsukimoto (nicknamed Smile) is a quiet high schooler who's been friends with the loud and energetic Yutaka Hoshino (nicknamed Peco) since childhood. They're both in the local table tennis club and both have a natural talent for it, although Smile's personality always prevents him from winning against Peco. The club teacher, however, notices Smile's talent and tries to make him gain some sportive tenacity.\n\n(Source: ANN, edited)",
+    "background": "Ping Pong was published in English by VIZ Media under the VIZ Signature imprint as two omnibus volumes from May 19, 2020, to September 15, 2020. It was released in French by Delcourt from November 2003 to November 2004 and in Spanish by ECC Ediciones from July 29, 2016, to November 30, 2016. The manga was adapted into a live-action film that was released in Japan on July 20, 2002.",
+    "authors": [
+        {
+            "mal_id": 2409,
+            "type": "people",
+            "name": "Matsumoto, Taiyou",
+            "url": "https://myanimelist.net/people/2409/Taiyou_Matsumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 22135,
+                    "type": "anime",
+                    "name": "Ping Pong the Animation",
+                    "url": "https://myanimelist.net/anime/22135/Ping_Pong_the_Animation"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ping_Pong_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%B3%E3%83%9D%E3%83%B3_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

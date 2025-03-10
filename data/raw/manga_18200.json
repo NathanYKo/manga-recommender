@@ -1,0 +1,163 @@
+{
+    "mal_id": 18200,
+    "url": "https://myanimelist.net/manga/18200/Sotsugyousei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/256465.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/256465t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/256465l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/256465.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/256465t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/256465l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sotsugyousei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sotsugyosei: 2nd Season"
+        },
+        {
+            "type": "Synonym",
+            "title": "3rd Season"
+        },
+        {
+            "type": "Synonym",
+            "title": "Graduate"
+        },
+        {
+            "type": "Japanese",
+            "title": "卒業生"
+        },
+        {
+            "type": "English",
+            "title": "Classmates: Sotsu gyo sei"
+        }
+    ],
+    "title": "Sotsugyousei",
+    "title_english": "Classmates: Sotsu gyo sei",
+    "title_japanese": "卒業生",
+    "title_synonyms": [
+        "Sotsugyosei: 2nd Season",
+        "3rd Season",
+        "Graduate"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-25T00:00:00+00:00",
+        "to": "2009-08-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 28,
+                "month": 8,
+                "year": 2009
+            }
+        },
+        "string": "Jan 25, 2008 to Aug 28, 2009"
+    },
+    "score": 8.5,
+    "scored": 8.5,
+    "scored_by": 9460,
+    "rank": null,
+    "popularity": 972,
+    "members": 20375,
+    "favorites": 364,
+    "synopsis": "A deep love bubbles beneath the surface, and a gentle touch is all Hikaru Kusakabe and Rihito Sajou need to release it. Sajou, studious and reserved, is yet to be accustomed to such strong feelings for Kusakabe, making him overthink and insecure. In contrast, Kusakabe, straightforward and bold, does not restrain himself from showing intimate affection.\n\nWhile Kusakabe reveals his dream to one day become a professional musician, Sajou is tirelessly preparing for college. Their differing goals bring an unspoken, heavy cloud over their relationship: as the boys approach their graduation, it is unclear what awaits their romance. Nevertheless, their love warms them in the coldest winter and brings hope that, eventually, they will find the answer to their uncertain future together.\n\n[Written by MAL Rewrite]",
+    "background": "Sotsugyousei was published in English as Classmates: Sotsu gyo sei by Seven Seas Entertainment from August 13, 2019, to November 12, 2019. It was also published in French by Boy's Love IDP from September 9, 2016, to November 3, 2016; in German by Manga Cult from February 6, 2020, to March 18, 2020; in Italian by Magic Press from June 28, 2018, to September 27, 2018; in Polish by Waneko in a single omnibus on November 21, 2016; and in Spanish by Tomodomo Ediciones from February 16, 2015, to May 4, 2015. An audio drama adapting the manga was produced by Japanese label A+ and released on April 2, 2010.",
+    "authors": [
+        {
+            "mal_id": 5583,
+            "type": "people",
+            "name": "Nakamura, Asumiko",
+            "url": "https://myanimelist.net/people/5583/Asumiko_Nakamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 394,
+            "type": "manga",
+            "name": "Opera",
+            "url": "https://myanimelist.net/manga/magazine/394/Opera"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 9699,
+                    "type": "manga",
+                    "name": "Doukyuusei",
+                    "url": "https://myanimelist.net/manga/9699/Doukyuusei"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 39565,
+                    "type": "manga",
+                    "name": "O.B.",
+                    "url": "https://myanimelist.net/manga/39565/OB"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 19570,
+                    "type": "manga",
+                    "name": "Sora to Hara",
+                    "url": "https://myanimelist.net/manga/19570/Sora_to_Hara"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -3,7 +3,7 @@
     <h3 class="font-bold text-lg">Rate "{{ manga.title }}"</h3>
     
     <div class="flex items-center space-x-4 my-4">
-      <img src="{{ manga.image_url }}" alt="{{ manga.title }}" class="w-24 h-auto rounded" onerror="this.src='{{ url_for('static', filename='img/no-cover.jpg') }}'">
+      <img src="{{ manga.image_url }}" alt="{{ manga.title }}" class="w-24 h-auto rounded" onerror="this.onerror=null; this.src='/static/img/no-cover.jpg'">
       <div>
         <p class="text-lg font-medium">{{ manga.title }}</p>
         <p class="text-sm opacity-75">Your rating will help improve recommendations</p>

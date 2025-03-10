@@ -1,0 +1,142 @@
+{
+    "mal_id": 1155,
+    "url": "https://myanimelist.net/manga/1155/Yesterday_wo_Utatte",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/154193.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/154193t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/154193l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/154193.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/154193t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/154193l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yesterday wo Utatte"
+        },
+        {
+            "type": "Japanese",
+            "title": "イエスタデイをうたって"
+        },
+        {
+            "type": "English",
+            "title": "Sing \"Yesterday\" for Me"
+        }
+    ],
+    "title": "Yesterday wo Utatte",
+    "title_english": "Sing \"Yesterday\" for Me",
+    "title_japanese": "イエスタデイをうたって",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 113,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-12-15T00:00:00+00:00",
+        "to": "2015-06-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 12,
+                "year": 1997
+            },
+            "to": {
+                "day": 3,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Dec 15, 1997 to Jun 3, 2015"
+    },
+    "score": 7.5,
+    "scored": 7.5,
+    "scored_by": 5233,
+    "rank": 2980,
+    "popularity": 975,
+    "members": 20335,
+    "favorites": 503,
+    "synopsis": "Fresh out of college, Rikuo Uozumi sees little point in pursuing any particular career. Instead, he works part-time in a convenience store while struggling to pay his bills. But his humdrum routine soon changes with the unexpected appearance of two women: Shinako Morinome, a former classmate that Rikuo is still in love with, and Haru Nonaka, an odd high school dropout with a crow as her pet.\n\nThough Rikuo hopes that his genuine feelings will reach Shinako, she herself battles a personal matter that has closed off her heart to love. Meanwhile, the bright and lively Haru is upfront about her growing infatuation with Rikuo. Despite everything, Rikuo tries to maintain the flow of his slow days; however, with Haru around, peace and quiet is never an option—and he might just start to enjoy the change in pace.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2379,
+            "type": "people",
+            "name": "Toume, Kei",
+            "url": "https://myanimelist.net/people/2379/Kei_Toume"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 947,
+            "type": "manga",
+            "name": "Grand Jump",
+            "url": "https://myanimelist.net/manga/magazine/947/Grand_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 64,
+            "type": "manga",
+            "name": "Love Polygon",
+            "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 39710,
+                    "type": "anime",
+                    "name": "Yesterday wo Utatte",
+                    "url": "https://myanimelist.net/anime/39710/Yesterday_wo_Utatte"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://grandjump.shueisha.co.jp/manga/yesterday.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A4%E3%82%92%E3%81%86%E3%81%9F%E3%81%A3%E3%81%A6"
+        }
+    ]
+}

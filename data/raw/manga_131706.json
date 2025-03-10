@@ -1,0 +1,143 @@
+{
+    "mal_id": 131706,
+    "url": "https://myanimelist.net/manga/131706/Kimetsu_no_Yaiba_Gaiden",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/238006.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/238006t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/238006l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/238006.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/238006t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/238006l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimetsu no Yaiba Gaiden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimetsu no Yaiba: Tomioka Giyuu Gaiden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimetsu no Aima!"
+        },
+        {
+            "type": "Japanese",
+            "title": "鬼滅の刃 外伝"
+        },
+        {
+            "type": "English",
+            "title": "Demon Slayer: Kimetsu no Yaiba - Stories of Water and Flame"
+        }
+    ],
+    "title": "Kimetsu no Yaiba Gaiden",
+    "title_english": "Demon Slayer: Kimetsu no Yaiba - Stories of Water and Flame",
+    "title_japanese": "鬼滅の刃 外伝",
+    "title_synonyms": [
+        "Kimetsu no Yaiba: Tomioka Giyuu Gaiden",
+        "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
+        "Kimetsu no Aima!"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-04-01T00:00:00+00:00",
+        "to": "2020-10-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "to": {
+                "day": 17,
+                "month": 10,
+                "year": 2020
+            }
+        },
+        "string": "Apr 1, 2019 to Oct 17, 2020"
+    },
+    "score": 7.68,
+    "scored": 7.68,
+    "scored_by": 14782,
+    "rank": 1841,
+    "popularity": 731,
+    "members": 26474,
+    "favorites": 244,
+    "synopsis": "1-2. Kimetsu no Yaiba: Tomioka Giyuu Gaiden\n3-4. Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden\n5. Kimetsu no Aima!",
+    "background": "Kimetsu no Yaiba Gaiden was published in English as Demon Slayer: Kimetsu no Yaiba - Stories of Water and Flame by Viz Media on January 4, 2022.",
+    "authors": [
+        {
+            "mal_id": 41813,
+            "type": "people",
+            "name": "Hirano, Ryouji",
+            "url": "https://myanimelist.net/people/41813/Ryouji_Hirano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 96792,
+                    "type": "manga",
+                    "name": "Kimetsu no Yaiba",
+                    "url": "https://myanimelist.net/manga/96792/Kimetsu_no_Yaiba"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

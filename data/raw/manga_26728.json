@@ -1,0 +1,145 @@
+{
+    "mal_id": 26728,
+    "url": "https://myanimelist.net/manga/26728/No6",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/129825.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/129825t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/129825l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/129825.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/129825t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/129825l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "No.6"
+        },
+        {
+            "type": "Synonym",
+            "title": "Number Six"
+        },
+        {
+            "type": "Synonym",
+            "title": "Number 6"
+        },
+        {
+            "type": "Japanese",
+            "title": "NO.6 (ナンバー・シックス)"
+        }
+    ],
+    "title": "No.6",
+    "title_english": null,
+    "title_japanese": "NO.6 (ナンバー・シックス)",
+    "title_synonyms": [
+        "Number Six",
+        "Number 6"
+    ],
+    "type": "Novel",
+    "chapters": 43,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-10-10T00:00:00+00:00",
+        "to": "2011-06-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 2003
+            },
+            "to": {
+                "day": 14,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "Oct 10, 2003 to Jun 14, 2011"
+    },
+    "score": 8.38,
+    "scored": 8.38,
+    "scored_by": 5697,
+    "rank": 235,
+    "popularity": 900,
+    "members": 21925,
+    "favorites": 975,
+    "synopsis": "The year is 2013 in the city of No. 6, the city that embodies the highest ideals of humankind. Shion has been raised here as a high-ranking elite since the age of two, but on the night of his twelfth birthday his fate is turned upside-down when he meets a boy who calls himself Nezumi.\n\n\"Why did I open the window that night? If I had not, I'd never have needed to know what it is like to fight, starve, or suffer in anguish....\"\n\n(Source: Nostalgia on 9th Avenue)",
+    "background": "No.6 has been published in Brazil by NewPOP since July 2015.",
+    "authors": [
+        {
+            "mal_id": 7008,
+            "type": "people",
+            "name": "Asano, Atsuko",
+            "url": "https://myanimelist.net/people/7008/Atsuko_Asano"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 24308,
+                    "type": "manga",
+                    "name": "No.6",
+                    "url": "https://myanimelist.net/manga/24308/No6"
+                },
+                {
+                    "mal_id": 10161,
+                    "type": "anime",
+                    "name": "No.6",
+                    "url": "https://myanimelist.net/anime/10161/No6"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 45885,
+                    "type": "manga",
+                    "name": "No.6 Beyond",
+                    "url": "https://myanimelist.net/manga/45885/No6_Beyond"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/No._6"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/NO.6"
+        }
+    ]
+}

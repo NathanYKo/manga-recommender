@@ -1,0 +1,169 @@
+{
+    "mal_id": 877,
+    "url": "https://myanimelist.net/manga/877/Hana_yori_Dango",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27280.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/27280t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/27280l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27280.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/27280t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/27280l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hana yori Dango"
+        },
+        {
+            "type": "Synonym",
+            "title": "HYD"
+        },
+        {
+            "type": "Synonym",
+            "title": "Boys Over Flowers: Jewelry Box"
+        },
+        {
+            "type": "Synonym",
+            "title": "End of the Century"
+        },
+        {
+            "type": "Japanese",
+            "title": "花より男子"
+        },
+        {
+            "type": "English",
+            "title": "Boys Over Flowers"
+        }
+    ],
+    "title": "Hana yori Dango",
+    "title_english": "Boys Over Flowers",
+    "title_japanese": "花より男子",
+    "title_synonyms": [
+        "HYD",
+        "Boys Over Flowers: Jewelry Box",
+        "End of the Century"
+    ],
+    "type": "Manga",
+    "chapters": 244,
+    "volumes": 37,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1992-10-01T00:00:00+00:00",
+        "to": "2008-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 1992
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2008
+            }
+        },
+        "string": "Oct 1992 to Apr 2008"
+    },
+    "score": 7.9,
+    "scored": 7.9,
+    "scored_by": 11839,
+    "rank": 996,
+    "popularity": 732,
+    "members": 26442,
+    "favorites": 1176,
+    "synopsis": "Tsukushi Makino, a working-class girl, attends an elite elevator school called Eitoku Academy, populated by children from rich, high-society families. She is the \"weed\" of the school surrounded by all the rich kids including the \"Flower\" Four (F4). The F4 leader and son of the wealthiest, most powerful family in Japan, Tsukasa Domyoji, takes an interest in Tsukushi, because she is the only girl at Eitoku who doesn't fawn over him. However, his hot-headed nature and bullying ways are originally a major turn-off for Tsukushi, who has her sights set on someone else.\n\n(Source: Wikipedia)\n\nIncluded one-shot:\nVolume 1: End of the Century",
+    "background": "Hana yori Dango won the 41st Shogakukan Manga Award for best shoujo manga in 1995. The series was published in English as Boys Over Flowers by VIZ Media from August 6, 2003 to June 9, 2009. It was also published in Spanish by Planeta Cómic as No me lo digas con flores from 2004 to 2010. The same publisher is releasing the kanzenban edition on September 17, 2017.",
+    "authors": [
+        {
+            "mal_id": 2571,
+            "type": "people",
+            "name": "Kamio, Yoko",
+            "url": "https://myanimelist.net/people/2571/Yoko_Kamio"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Margaret",
+            "url": "https://myanimelist.net/manga/magazine/17/Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 86325,
+                    "type": "manga",
+                    "name": "Hana Nochi Hare: HanaDan Next Season",
+                    "url": "https://myanimelist.net/manga/86325/Hana_Nochi_Hare__HanaDan_Next_Season"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 106,
+                    "type": "anime",
+                    "name": "Hana yori Dango",
+                    "url": "https://myanimelist.net/anime/106/Hana_yori_Dango"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E8%8A%B1%E3%82%88%E3%82%8A%E7%94%B7%E5%AD%90"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Boys_Over_Flowers"
+        }
+    ]
+}

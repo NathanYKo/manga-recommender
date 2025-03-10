@@ -1,0 +1,123 @@
+{
+    "mal_id": 93530,
+    "url": "https://myanimelist.net/manga/93530/Komi-san_wa_Comyushou_desu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/165402.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/165402t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/165402l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/165402.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/165402t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/165402l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Komi-san wa Comyushou desu."
+        },
+        {
+            "type": "Synonym",
+            "title": "Komi-san wa Communication Shougai desu."
+        },
+        {
+            "type": "Japanese",
+            "title": "古見さんはコミュ症です。"
+        }
+    ],
+    "title": "Komi-san wa Comyushou desu.",
+    "title_english": null,
+    "title_japanese": "古見さんはコミュ症です。",
+    "title_synonyms": [
+        "Komi-san wa Communication Shougai desu."
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-09-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 9,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 16, 2015"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 11624,
+    "rank": 4361,
+    "popularity": 869,
+    "members": 22589,
+    "favorites": 1091,
+    "synopsis": "Tall, slender, and elegant, Shouko Komi is admired as a refined beauty within her school, alluring anyone who crosses her path. However, beyond her graceful appearance lies a shy and timid girl who is terrible at communicating with others. Due to her poor social skills, Komi finds it challenging to make friends and has been left all alone her entire life.\n\nAfter a bizarre first encounter, high school student Shigeo Tadano deduces that Komi struggles with talking to people; however, she is determined to change. Seeing Komi's resolved and genuine nature, Tadano decides to help her achieve this goal. With Tadano lending her a hand, will Komi finally learn how to communicate?\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 39281,
+            "type": "people",
+            "name": "Oda, Tomohito",
+            "url": "https://myanimelist.net/people/39281/Tomohito_Oda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 99007,
+                    "type": "manga",
+                    "name": "Komi-san wa, Comyushou desu.",
+                    "url": "https://myanimelist.net/manga/99007/Komi-san_wa_Comyushou_desu"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

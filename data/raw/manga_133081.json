@@ -1,0 +1,147 @@
+{
+    "mal_id": 133081,
+    "url": "https://myanimelist.net/manga/133081/Wind_Breaker",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/244074.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/244074t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/244074l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/244074.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/244074t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/244074l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Wind Breaker"
+        },
+        {
+            "type": "Japanese",
+            "title": "WIND BREAKER"
+        },
+        {
+            "type": "English",
+            "title": "Wind Breaker"
+        }
+    ],
+    "title": "Wind Breaker",
+    "title_english": "Wind Breaker",
+    "title_japanese": "WIND BREAKER",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2021-01-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 1,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 13, 2021 to ?"
+    },
+    "score": 8.02,
+    "scored": 8.02,
+    "scored_by": 6275,
+    "rank": 740,
+    "popularity": 857,
+    "members": 22937,
+    "favorites": 697,
+    "synopsis": "Haruka Sakura wants nothing to do with weaklings—he's only interested in the strongest of the strong. He's just started at Furin High School, a school of degenerates known only for their brawling strength—strength they use to protect their town from anyone who wishes it ill. But Haruka's not interested in being a hero or being part of any sort of team—he just wants to fight his way to the top!\n\n(Source: Kodansha USA)",
+    "background": "Wind Breaker has been published digitally in English by Kodansha USA since April 26, 2022, and in print since August 1, 2023. The series has also been simulpub through K Manga.",
+    "authors": [
+        {
+            "mal_id": 43596,
+            "type": "people",
+            "name": "Nii, Satoru",
+            "url": "https://myanimelist.net/people/43596/Satoru_Nii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1335,
+            "type": "manga",
+            "name": "Magazine pocket",
+            "url": "https://myanimelist.net/manga/magazine/1335/Magazine_pocket"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 54900,
+                    "type": "anime",
+                    "name": "Wind Breaker",
+                    "url": "https://myanimelist.net/anime/54900/Wind_Breaker"
+                },
+                {
+                    "mal_id": 59160,
+                    "type": "anime",
+                    "name": "Wind Breaker Season 2",
+                    "url": "https://myanimelist.net/anime/59160/Wind_Breaker_Season_2"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/wind-breaker/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://shonenmagazine.com/special_page/windbreaker"
+        },
+        {
+            "name": "@winbre_sakura",
+            "url": "https://twitter.com/winbre_sakura"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wind_Breaker"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/WIND_BREAKER_(漫画)"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "mal_id": 17465,
+    "url": "https://myanimelist.net/manga/17465/Omoide_Emanon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260654.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260654t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260654l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260654.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260654t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260654l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Omoide Emanon"
+        },
+        {
+            "type": "Japanese",
+            "title": "おもいでエマノン"
+        },
+        {
+            "type": "English",
+            "title": "Emanon: Memories of Emanon"
+        }
+    ],
+    "title": "Omoide Emanon",
+    "title_english": "Emanon: Memories of Emanon",
+    "title_japanese": "おもいでエマノン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-09-19T00:00:00+00:00",
+        "to": "2008-01-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 9,
+                "year": 2006
+            },
+            "to": {
+                "day": 19,
+                "month": 1,
+                "year": 2008
+            }
+        },
+        "string": "Sep 19, 2006 to Jan 19, 2008"
+    },
+    "score": 8.01,
+    "scored": 8.01,
+    "scored_by": 27927,
+    "rank": 755,
+    "popularity": 250,
+    "members": 67355,
+    "favorites": 2344,
+    "synopsis": "In the winter of 1967, a 20-year-old man returns home from his travels aboard a ferry, where a chance encounter forever alters his perception of the world around him. While relaxing in the cabin, he is approached by a beautiful yet enigmatic girl who introduces herself as Emanon; later that evening, the pair accompany each other to dinner. \n\nAfter seeing the man read a science fiction novel, Emanon offers to tell him her life story, saying that he doesn't have to believe it unless he wants to. And much to the man's surprise, she proceeds to inform him that her memory dates back over three billion years, to the very moment when life first appeared on Earth.\n\nOmoide Emanon tells the extraordinary tale of a girl who serves as the planet's witness—an inheritor of genetic memory that has been passed down her maternal line since the beginning of life itself.\n\n[Written by MAL Rewrite]",
+    "background": "Omoide Emanon is based on Shinji Kajio's award-winning novel of the same title, which was first released in 1983. It was published in English as Emanon: Memories of Emanon by Dark Horse on May 8, 2022, and in French by Ki-oon on January 25, 2018.",
+    "authors": [
+        {
+            "mal_id": 1931,
+            "type": "people",
+            "name": "Tsuruta, Kenji",
+            "url": "https://myanimelist.net/people/1931/Kenji_Tsuruta"
+        },
+        {
+            "mal_id": 10363,
+            "type": "people",
+            "name": "Kajio, Shinji",
+            "url": "https://myanimelist.net/people/10363/Shinji_Kajio"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 410,
+            "type": "manga",
+            "name": "Comic Ryu",
+            "url": "https://myanimelist.net/manga/magazine/410/Comic_Ryu"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 36903,
+                    "type": "manga",
+                    "name": "Sasurai Emanon",
+                    "url": "https://myanimelist.net/manga/36903/Sasurai_Emanon"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emanon_(manga)"
+        }
+    ]
+}

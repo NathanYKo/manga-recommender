@@ -1,0 +1,156 @@
+{
+    "mal_id": 89594,
+    "url": "https://myanimelist.net/manga/89594/Himekishi_ga_Classmate_The_Comic",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/188903.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/188903t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/188903l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/188903.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/188903t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/188903l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Himekishi ga Classmate! The Comic"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Princess Knight Is a Classmate!"
+        },
+        {
+            "type": "Japanese",
+            "title": "姫騎士がクラスメート！ THE COMIC"
+        }
+    ],
+    "title": "Himekishi ga Classmate! The Comic",
+    "title_english": null,
+    "title_japanese": "姫騎士がクラスメート！ THE COMIC",
+    "title_synonyms": [
+        "The Princess Knight Is a Classmate!"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-05-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 1, 2015 to ?"
+    },
+    "score": 6.15,
+    "scored": 6.15,
+    "scored_by": 4391,
+    "rank": null,
+    "popularity": 1235,
+    "members": 16602,
+    "favorites": 53,
+    "synopsis": "After he and his entire class die on a field trip, Odamori accepts an offer from a mysterious man to be reincarnated. However his new job turns out to be that of a 'Slavemancer' with the power to dominate the minds of others and turn them into his toys, which he happily takes on. Soon however his evil actions lead to a Princess Knight (who turns out to be one of his previous, more popular classmates) being dispatched to apprehend him, but Odamori of course has something different planned for their reunion.\n\n(Source: Rapeman Scans)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 17557,
+            "type": "people",
+            "name": "NO.Gomes",
+            "url": "https://myanimelist.net/people/17557/NOGomes"
+        },
+        {
+            "mal_id": 38054,
+            "type": "people",
+            "name": "EKZ",
+            "url": "https://myanimelist.net/people/38054/EKZ"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 234,
+            "type": "manga",
+            "name": "Comic Valkyrie",
+            "url": "https://myanimelist.net/manga/magazine/234/Comic_Valkyrie"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 89598,
+                    "type": "manga",
+                    "name": "Himekishi ga Classmate!",
+                    "url": "https://myanimelist.net/manga/89598/Himekishi_ga_Classmate"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.comic-valkyrie.com/modules/web_valkyrie/classmate/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%A7%AB%E9%A8%8E%E5%A3%AB%E3%81%8C%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%A1%E3%83%BC%E3%83%88!"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "mal_id": 79085,
+    "url": "https://myanimelist.net/manga/79085/Given",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/172497.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/172497t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/172497l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/172497.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/172497t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/172497l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Given"
+        },
+        {
+            "type": "Japanese",
+            "title": "ギヴン"
+        },
+        {
+            "type": "English",
+            "title": "Given"
+        }
+    ],
+    "title": "Given",
+    "title_english": "Given",
+    "title_japanese": "ギヴン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 58,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-04-30T00:00:00+00:00",
+        "to": "2023-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2023
+            }
+        },
+        "string": "Apr 30, 2013 to Mar 30, 2023"
+    },
+    "score": 8.5,
+    "scored": 8.5,
+    "scored_by": 25852,
+    "rank": 149,
+    "popularity": 256,
+    "members": 66135,
+    "favorites": 4518,
+    "synopsis": "There is a tune stuck in Mafuyu Satou's head. As he clutches the guitar in his hands, this melody swirls around and around, screaming words of regret, longing, and loss. But with his careless expression that always seems to be up in the clouds, no one knows his true feelings. However, a chance encounter with classmate Ritsuka Uenoyama may finally give Mafuyu the push to let his voice be heard.\n\nUenoyama is the guitarist of a band, whose fellow members include the kindhearted bassist Haruki Nakayama and rough-looking drummer Akihiko Kaji. Even without a vocalist, their ragtag group has done well as an instrumental-only band. However, their chance to reach even greater heights may have arrived when Uenoyama hears Mafuyu's voice—Uenoyama is enchanted, inviting the reluctant Mafuyu to join.\n\nWorking in a band is a difficult task; often, emotions threaten to break it apart, but they can also bring its members closer together. With Uenoyama's help, Mafuyu may finally be able to express the feelings that fight to break free from within his heart.\n\n[Written by MAL Rewrite]",
+    "background": "Given was published in English by VIZ Media under its SuBLime imprint from February 11, 2020, to August 13, 2024. It was released in Polish by Kotori from April 20, 2018, to June 17, 2024; in Spanish by Milky Way Ediciones from June 19, 2019, to December 4, 2023; and in Brazilian Portuguese by NewPOP Editora from May 29, 2020, to December 10, 2024. The series was adapted into a Japanese live-action drama that was released on the streaming platform FOD from July 17, 2021, to August 21, 2021.",
+    "authors": [
+        {
+            "mal_id": 21915,
+            "type": "people",
+            "name": "Kizu, Natsuki",
+            "url": "https://myanimelist.net/people/21915/Natsuki_Kizu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1001,
+            "type": "manga",
+            "name": "Cheri+",
+            "url": "https://myanimelist.net/manga/magazine/1001/Cheri_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 39533,
+                    "type": "anime",
+                    "name": "Given",
+                    "url": "https://myanimelist.net/anime/39533/Given"
+                },
+                {
+                    "mal_id": 40421,
+                    "type": "anime",
+                    "name": "Given Movie 1",
+                    "url": "https://myanimelist.net/anime/40421/Given_Movie_1"
+                },
+                {
+                    "mal_id": 49053,
+                    "type": "anime",
+                    "name": "Given: Uragawa no Sonzai",
+                    "url": "https://myanimelist.net/anime/49053/Given__Uragawa_no_Sonzai"
+                },
+                {
+                    "mal_id": 54791,
+                    "type": "anime",
+                    "name": "Given Movie 2: Hiiragi Mix",
+                    "url": "https://myanimelist.net/anime/54791/Given_Movie_2__Hiiragi_Mix"
+                },
+                {
+                    "mal_id": 58222,
+                    "type": "anime",
+                    "name": "Given Movie 3: Umi e",
+                    "url": "https://myanimelist.net/anime/58222/Given_Movie_3__Umi_e"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Given_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%B4%E3%83%B3"
+        }
+    ]
+}

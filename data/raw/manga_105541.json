@@ -1,0 +1,132 @@
+{
+    "mal_id": 105541,
+    "url": "https://myanimelist.net/manga/105541/Shokuryou_Jinrui",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/193329.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/193329t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/193329l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/193329.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/193329t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/193329l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shokuryou Jinrui"
+        },
+        {
+            "type": "Synonym",
+            "title": "Human Race for Food"
+        },
+        {
+            "type": "Japanese",
+            "title": "食糧人類-Starving Anonymous-"
+        },
+        {
+            "type": "English",
+            "title": "Starving Anonymous"
+        }
+    ],
+    "title": "Shokuryou Jinrui",
+    "title_english": "Starving Anonymous",
+    "title_japanese": "食糧人類-Starving Anonymous-",
+    "title_synonyms": [
+        "Human Race for Food"
+    ],
+    "type": "Manga",
+    "chapters": 64,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-04-28T00:00:00+00:00",
+        "to": "2018-11-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 5,
+                "month": 11,
+                "year": 2018
+            }
+        },
+        "string": "Apr 28, 2014 to Nov 5, 2018"
+    },
+    "score": 7.06,
+    "scored": 7.06,
+    "scored_by": 8814,
+    "rank": 8100,
+    "popularity": 769,
+    "members": 25227,
+    "favorites": 354,
+    "synopsis": "It's a day like any other, and high school students Ie and Kazu are on the bus home from school when, suddenly, it floods with a mysterious gas. The pair pass out and wake up to find themselves aboard a truck packed full of human bodies. They're surrounded by rows of frozen corpses... and a staff of living human beings sawing them into pieces. Where are they... and how can they escape from this nightmare?\n\n(Source: Kodansha Comics USA)",
+    "background": "Shokuryou Jinrui was published digitally in English as Starving Anonymous by Kodansha Comics USA from March 13, 2018 to June 18, 2019.",
+    "authors": [
+        {
+            "mal_id": 17577,
+            "type": "people",
+            "name": "Kuraishi, Yuu",
+            "url": "https://myanimelist.net/people/17577/Yuu_Kuraishi"
+        },
+        {
+            "mal_id": 17579,
+            "type": "people",
+            "name": "Inabe, Kazu",
+            "url": "https://myanimelist.net/people/17579/Kazu_Inabe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1268,
+            "type": "manga",
+            "name": "e Young Magazine",
+            "url": "https://myanimelist.net/manga/magazine/1268/e_Young_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 139693,
+                    "type": "manga",
+                    "name": "Shokuryou Jinrui Re",
+                    "url": "https://myanimelist.net/manga/139693/Shokuryou_Jinrui_Re"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/starving-anonymous/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Starving_Anonymous"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%A3%9F%E7%B3%A7%E4%BA%BA%E9%A1%9E-Starving_Anonymous-"
+        }
+    ]
+}

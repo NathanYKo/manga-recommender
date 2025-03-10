@@ -1,0 +1,206 @@
+{
+    "mal_id": 81117,
+    "url": "https://myanimelist.net/manga/81117/Tokyo_Ghoul_re",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/145997.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/145997t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/145997l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/145997.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/145997t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/145997l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tokyo Ghoul:re"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tokyo Kushu:re"
+        },
+        {
+            "type": "Synonym",
+            "title": "Toukyou Kuushu:re"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tokyo Ghoul: \"Joker\""
+        },
+        {
+            "type": "Japanese",
+            "title": "東京喰種-トーキョーグール-:re"
+        },
+        {
+            "type": "English",
+            "title": "Tokyo Ghoul:re"
+        },
+        {
+            "type": "French",
+            "title": "Tokyo Ghoul : Re"
+        }
+    ],
+    "title": "Tokyo Ghoul:re",
+    "title_english": "Tokyo Ghoul:re",
+    "title_japanese": "東京喰種-トーキョーグール-:re",
+    "title_synonyms": [
+        "Tokyo Kushu:re",
+        "Toukyou Kuushu:re",
+        "Tokyo Ghoul: \"Joker\""
+    ],
+    "type": "Manga",
+    "chapters": 181,
+    "volumes": 16,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-10-16T00:00:00+00:00",
+        "to": "2018-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 5,
+                "month": 7,
+                "year": 2018
+            }
+        },
+        "string": "Oct 16, 2014 to Jul 5, 2018"
+    },
+    "score": 8.3,
+    "scored": 8.3,
+    "scored_by": 156596,
+    "rank": 313,
+    "popularity": 21,
+    "members": 300808,
+    "favorites": 21292,
+    "synopsis": "Two years have passed since the CCG's raid on Anteiku. Although the atmosphere in Tokyo has changed drastically due to the increased influence of the CCG, ghouls continue to pose a problem as they have begun taking caution, especially the terrorist organization Aogiri Tree, who acknowledge the CCG's growing threat to their existence.\n\nThe creation of a special team, known as the Quinx Squad, may provide the CCG with the push they need to exterminate Tokyo's unwanted residents. As humans who have undergone surgery in order to make use of the special abilities of ghouls, they participate in operations to eradicate the dangerous creatures. The leader of this group, Haise Sasaki, is a half-ghoul, half-human who has been trained by famed special class investigator, Kishou Arima. However, there's more to this young man than meets the eye, as unknown memories claw at his mind, slowly reminding him of the person he used to be.\n\n[Written by MAL Rewrite]",
+    "background": "Tokyo Ghoul:re was the 10th best-selling manga series in Japan in 2015 with an estimated sales of 3,758,541 copies sold. The series was published in English by VIZ Media from October 17, 2017 to April 21, 2020. It is also published in Spanish by Norma Editorial since June 23, 2016; in German by Kazé since September 1, 2016; in Polish by Waneko since August 14, 2017; and in Portuguese by Panini Editorial since December 15, 2017.",
+    "authors": [
+        {
+            "mal_id": 15753,
+            "type": "people",
+            "name": "Ishida, Sui",
+            "url": "https://myanimelist.net/people/15753/Sui_Ishida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 33327,
+                    "type": "manga",
+                    "name": "Tokyo Ghoul",
+                    "url": "https://myanimelist.net/manga/33327/Tokyo_Ghoul"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 36511,
+                    "type": "anime",
+                    "name": "Tokyo Ghoul:re",
+                    "url": "https://myanimelist.net/anime/36511/Tokyo_Ghoul_re"
+                },
+                {
+                    "mal_id": 37799,
+                    "type": "anime",
+                    "name": "Tokyo Ghoul:re 2nd Season",
+                    "url": "https://myanimelist.net/anime/37799/Tokyo_Ghoul_re_2nd_Season"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 115800,
+                    "type": "manga",
+                    "name": "Tokyo Ghoul:re: Quest",
+                    "url": "https://myanimelist.net/manga/115800/Tokyo_Ghoul_re__Quest"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://youngjump.jp/manga/tokyoghoul_re/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%96%B0%E7%A8%AE%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%82%B0%E3%83%BC%E3%83%AB"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tokyo_Ghoul"
+        }
+    ]
+}

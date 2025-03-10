@@ -1,0 +1,154 @@
+{
+    "mal_id": 52277,
+    "url": "https://myanimelist.net/manga/52277/Sword_Art_Online__Progressive",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/164933.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/164933t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/164933l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/164933.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/164933t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/164933l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sword Art Online: Progressive"
+        },
+        {
+            "type": "Synonym",
+            "title": "SAO Progressive"
+        },
+        {
+            "type": "Japanese",
+            "title": "ソードアート・オンライン プログレッシブ"
+        },
+        {
+            "type": "English",
+            "title": "Sword Art Online: Progressive"
+        }
+    ],
+    "title": "Sword Art Online: Progressive",
+    "title_english": "Sword Art Online: Progressive",
+    "title_japanese": "ソードアート・オンライン プログレッシブ",
+    "title_synonyms": [
+        "SAO Progressive"
+    ],
+    "type": "Manga",
+    "chapters": 47,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-06-29T00:00:00+00:00",
+        "to": "2018-02-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 6,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 2,
+                "year": 2018
+            }
+        },
+        "string": "Jun 29, 2013 to Feb 28, 2018"
+    },
+    "score": 7.92,
+    "scored": 7.92,
+    "scored_by": 9313,
+    "rank": 944,
+    "popularity": 904,
+    "members": 21785,
+    "favorites": 893,
+    "synopsis": "\"This game is impossible to clear. It's just a matter of when, where and how you die.\"\n\nKayaba Akihiko's death game has been up for one month. This incredibly difficult VRMMO has already claimed 2000 victims. It's the day of the 1st floor boss strategy meeting. The solo player Kirito, who's decided to only strengthen himself, meets a rare female player on the current front lines, while heading to the meeting around noon. Fighting alone against the strong monsters, she was like a meteor cutting the night sky.",
+    "background": "Sword Art Online: Progressive was published in English by Yen Press from January 5, 2015, to December 11, 2018. It was also released in Spanish by Planeta Cómic from June 23, 2020, to March 23, 2022.",
+    "authors": [
+        {
+            "mal_id": 11466,
+            "type": "people",
+            "name": "Kawahara, Reki",
+            "url": "https://myanimelist.net/people/11466/Reki_Kawahara"
+        },
+        {
+            "mal_id": 22709,
+            "type": "people",
+            "name": "Himura, Kiseki",
+            "url": "https://myanimelist.net/people/22709/Kiseki_Himura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 198,
+            "type": "manga",
+            "name": "Dengeki G's magazine",
+            "url": "https://myanimelist.net/manga/magazine/198/Dengeki_G_039_s_magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 80,
+            "type": "manga",
+            "name": "Video Game",
+            "url": "https://myanimelist.net/manga/genre/80/Video_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 125770,
+                    "type": "manga",
+                    "name": "Sword Art Online: Progressive - Houei no Barcarolle",
+                    "url": "https://myanimelist.net/manga/125770/Sword_Art_Online__Progressive_-_Houei_no_Barcarolle"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 43921,
+                    "type": "manga",
+                    "name": "Sword Art Online: Progressive",
+                    "url": "https://myanimelist.net/manga/43921/Sword_Art_Online__Progressive"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3"
+        }
+    ]
+}

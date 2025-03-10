@@ -1,0 +1,142 @@
+{
+    "mal_id": 17915,
+    "url": "https://myanimelist.net/manga/17915/Judge",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/184476.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/184476t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/184476l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/184476.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/184476t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/184476l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Judge"
+        },
+        {
+            "type": "Japanese",
+            "title": "JUDGE"
+        },
+        {
+            "type": "English",
+            "title": "Judge"
+        }
+    ],
+    "title": "Judge",
+    "title_english": "Judge",
+    "title_japanese": "JUDGE",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 32,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-01-12T00:00:00+00:00",
+        "to": "2012-08-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": 11,
+                "month": 8,
+                "year": 2012
+            }
+        },
+        "string": "Jan 12, 2010 to Aug 11, 2012"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 16781,
+    "rank": 8559,
+    "popularity": 442,
+    "members": 41677,
+    "favorites": 548,
+    "synopsis": "Hiroyuki \"Hiro\" Sakurai is jealous that his brother Atsuya is dating his childhood crush, Hikari. However, his envious ways lead to the unintentional killing of his brother. Two years later, Hiro finds himself handcuffed in a pitch-black room, wearing a rabbit mask, and unsure of his captor's identity. Suddenly, eight other people in animal masks enter the room, and \"Judge\" commences: a twisted game where nine participants must judge each other's sins and decide who will be spared from death—and only four can leave. Aside from his own survival, Hiro needs to figure out who he can trust, why he was chosen to participate, and how his actions impact those around him.\n\n[Written by MAL Rewrite]",
+    "background": "Judge was published in English by Yen Press from August 20, 2013 to February 24, 2015 and digitally from April 8, 2014 to February 24, 2015.",
+    "authors": [
+        {
+            "mal_id": 2918,
+            "type": "people",
+            "name": "Tonogai, Yoshiki",
+            "url": "https://myanimelist.net/people/2918/Yoshiki_Tonogai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Shounen Gangan",
+            "url": "https://myanimelist.net/manga/magazine/13/Shounen_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 5293,
+                    "type": "manga",
+                    "name": "Doubt",
+                    "url": "https://myanimelist.net/manga/5293/Doubt"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://gangan.square-enix.co.jp/introduction/judge/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/JUDGE"
+        }
+    ]
+}

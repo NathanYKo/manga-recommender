@@ -36,7 +36,7 @@
                             <div class="card h-100 mb-3">
                                 <div class="row g-0">
                                     <div class="col-md-4">
-                                        <img src="{{ manga.image_url }}" class="img-fluid rounded-start h-100" alt="{{ manga.title }}" onerror="this.src='{{ url_for('static', filename='img/no-cover.jpg') }}'">
+                                        <img src="{{ manga.image_url }}" class="img-fluid rounded-start h-100" alt="{{ manga.title }}" onerror="this.onerror=null; this.src='/static/img/no-cover.jpg'">
                                     </div>
                                     <div class="col-md-8">
                                         <div class="card-body">
@@ -65,7 +65,7 @@
                         <div class="col">
                             <div class="card h-100">
                                 <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}">
-                                    <img src="{{ manga.image_url }}" class="card-img-top" alt="{{ manga.title }}" onerror="this.src='{{ url_for('static', filename='img/no-cover.jpg') }}'">
+                                    <img src="{{ manga.image_url }}" class="card-img-top" alt="{{ manga.title }}" onerror="this.onerror=null; this.src='/static/img/no-cover.jpg'">
                                 </a>
                                 <div class="card-body">
                                     <h5 class="card-title"><a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="text-decoration-none text-dark">{{ manga.title }}</a></h5>

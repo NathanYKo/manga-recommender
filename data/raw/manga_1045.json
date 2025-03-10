@@ -1,0 +1,268 @@
+{
+    "mal_id": 1045,
+    "url": "https://myanimelist.net/manga/1045/Saint_Seiya",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/252107.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/252107t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/252107l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/252107.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/252107t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/252107l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Saint Seiya"
+        },
+        {
+            "type": "Synonym",
+            "title": "Zodiac Knights"
+        },
+        {
+            "type": "Japanese",
+            "title": "聖闘士星矢"
+        },
+        {
+            "type": "English",
+            "title": "Knights of the Zodiac"
+        }
+    ],
+    "title": "Saint Seiya",
+    "title_english": "Knights of the Zodiac",
+    "title_japanese": "聖闘士星矢",
+    "title_synonyms": [
+        "Zodiac Knights"
+    ],
+    "type": "Manga",
+    "chapters": 110,
+    "volumes": 28,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1985-12-03T00:00:00+00:00",
+        "to": "1990-11-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 12,
+                "year": 1985
+            },
+            "to": {
+                "day": 6,
+                "month": 11,
+                "year": 1990
+            }
+        },
+        "string": "Dec 3, 1985 to Nov 6, 1990"
+    },
+    "score": 7.51,
+    "scored": 7.51,
+    "scored_by": 9874,
+    "rank": 2903,
+    "popularity": 961,
+    "members": 20561,
+    "favorites": 909,
+    "synopsis": "Ages ago, the goddess Athena was served by fighters called Saints who channeled the power of the Cosmos within them. Now a youth named Seiya has trained to become a Saint himself by earning the mystical Cloth of Pegasus. He is joined by other Saints with Cloths of their own to fight for Athena.\n\n(Source: ANN)",
+    "background": "As of 2022, over 50 million copies of Saint Seiya are in circulation. The series was published in English by VIZ Media as Knights of the Zodiac from January 21, 2004, to February 2, 2010. It was published in French by Kana from March 8, 1997, to December 9, 2000; in Italian by Granata Press from July 1, 1992, to June 15, 1994; in Spanish by Panini Comics; in German by Panini Comics; in Brazilian Portuguese by Conrad Editora from November 2000 to January 2004.",
+    "authors": [
+        {
+            "mal_id": 1999,
+            "type": "people",
+            "name": "Kurumada, Masami",
+            "url": "https://myanimelist.net/people/1999/Masami_Kurumada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1046,
+                    "type": "manga",
+                    "name": "Saint Seiya Episode G",
+                    "url": "https://myanimelist.net/manga/1046/Saint_Seiya_Episode_G"
+                },
+                {
+                    "mal_id": 1047,
+                    "type": "manga",
+                    "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+                    "url": "https://myanimelist.net/manga/1047/Saint_Seiya__The_Lost_Canvas_-_Meiou_Shinwa"
+                },
+                {
+                    "mal_id": 110898,
+                    "type": "manga",
+                    "name": "Saint Seiya: Episode Zero",
+                    "url": "https://myanimelist.net/manga/110898/Saint_Seiya__Episode_Zero"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1322,
+                    "type": "manga",
+                    "name": "Saint Seiya: Next Dimension - Meiou Shinwa",
+                    "url": "https://myanimelist.net/manga/1322/Saint_Seiya__Next_Dimension_-_Meiou_Shinwa"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1254,
+                    "type": "anime",
+                    "name": "Saint Seiya",
+                    "url": "https://myanimelist.net/anime/1254/Saint_Seiya"
+                },
+                {
+                    "mal_id": 1257,
+                    "type": "anime",
+                    "name": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+                    "url": "https://myanimelist.net/anime/1257/Saint_Seiya__Meiou_Hades_Juuni_Kyuu-hen"
+                },
+                {
+                    "mal_id": 1253,
+                    "type": "anime",
+                    "name": "Saint Seiya: Meiou Hades Meikai-hen",
+                    "url": "https://myanimelist.net/anime/1253/Saint_Seiya__Meiou_Hades_Meikai-hen"
+                },
+                {
+                    "mal_id": 3515,
+                    "type": "anime",
+                    "name": "Saint Seiya: Meiou Hades Elysion-hen",
+                    "url": "https://myanimelist.net/anime/3515/Saint_Seiya__Meiou_Hades_Elysion-hen"
+                },
+                {
+                    "mal_id": 36040,
+                    "type": "anime",
+                    "name": "Saint Seiya: Knights of the Zodiac",
+                    "url": "https://myanimelist.net/anime/36040/Saint_Seiya__Knights_of_the_Zodiac"
+                },
+                {
+                    "mal_id": 52273,
+                    "type": "anime",
+                    "name": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary",
+                    "url": "https://myanimelist.net/anime/52273/Saint_Seiya__Knights_of_the_Zodiac_-_Battle_Sanctuary"
+                },
+                {
+                    "mal_id": 53748,
+                    "type": "anime",
+                    "name": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
+                    "url": "https://myanimelist.net/anime/53748/Saint_Seiya__Knights_of_the_Zodiac_-_Battle_Sanctuary_Part_2"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 39875,
+                    "type": "manga",
+                    "name": "Saint Seiya: Gigantomachia",
+                    "url": "https://myanimelist.net/manga/39875/Saint_Seiya__Gigantomachia"
+                },
+                {
+                    "mal_id": 117130,
+                    "type": "manga",
+                    "name": "Saint Seiya: Origin",
+                    "url": "https://myanimelist.net/manga/117130/Saint_Seiya__Origin"
+                },
+                {
+                    "mal_id": 123901,
+                    "type": "manga",
+                    "name": "Saint Seiya: Destiny",
+                    "url": "https://myanimelist.net/manga/123901/Saint_Seiya__Destiny"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 49551,
+                    "type": "manga",
+                    "name": "Saint Seiya Omega: New Cross Tanjou-hen",
+                    "url": "https://myanimelist.net/manga/49551/Saint_Seiya_Omega__New_Cross_Tanjou-hen"
+                },
+                {
+                    "mal_id": 54761,
+                    "type": "manga",
+                    "name": "Saint Seiya: Saintia Shou",
+                    "url": "https://myanimelist.net/manga/54761/Saint_Seiya__Saintia_Shou"
+                },
+                {
+                    "mal_id": 133521,
+                    "type": "manga",
+                    "name": "Saint Seiya: Meiou Iden - Dark Wing",
+                    "url": "https://myanimelist.net/manga/133521/Saint_Seiya__Meiou_Iden_-_Dark_Wing"
+                },
+                {
+                    "mal_id": 152326,
+                    "type": "manga",
+                    "name": "Saint Seiya: Kaiou Saiki - Rerise of Poseidon",
+                    "url": "https://myanimelist.net/manga/152326/Saint_Seiya__Kaiou_Saiki_-_Rerise_of_Poseidon"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 65169,
+                    "type": "manga",
+                    "name": "Kurumada Suikoden: Hero of Heroes",
+                    "url": "https://myanimelist.net/manga/65169/Kurumada_Suikoden__Hero_of_Heroes"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Saint_Seiya"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E8%81%96%E9%97%98%E5%A3%AB%E6%98%9F%E7%9F%A2"
+        }
+    ]
+}

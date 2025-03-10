@@ -1,0 +1,146 @@
+{
+    "mal_id": 99314,
+    "url": "https://myanimelist.net/manga/99314/Kimi_no_Na_wa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/182270.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/182270t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/182270l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/182270.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/182270t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/182270l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi no Na wa."
+        },
+        {
+            "type": "Japanese",
+            "title": "君の名は。"
+        },
+        {
+            "type": "English",
+            "title": "Your Name."
+        }
+    ],
+    "title": "Kimi no Na wa.",
+    "title_english": "Your Name.",
+    "title_japanese": "君の名は。",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-05-27T00:00:00+00:00",
+        "to": "2017-01-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 5,
+                "year": 2016
+            },
+            "to": {
+                "day": 27,
+                "month": 1,
+                "year": 2017
+            }
+        },
+        "string": "May 27, 2016 to Jan 27, 2017"
+    },
+    "score": 8.39,
+    "scored": 8.39,
+    "scored_by": 36776,
+    "rank": 224,
+    "popularity": 166,
+    "members": 93250,
+    "favorites": 1620,
+    "synopsis": "Mitsuha Miyamizu is a high school girl living in the countryside town of Itomori. She yearns for a life in Tokyo, as she is sick of living in the countryside. At the same time, Taki Tachibana, a high school student, lives in Tokyo and has a great interest in architecture, aiming to become an urban planner in the near future.\n\nOne day, Mitsuha dreams of herself as a boy living a life in the dense capital, while Taki dreams of living as a girl in the rural town of Itomori. As time passes by, the two discover that these are not just dreams, but that they actually swap bodies upon falling asleep! Kimi no Na wa. revolves around Mitsuha and Taki as they experience the supernatural. With both of them working together to deal with the strange phenomenon, how will this impact their everyday life?\n\n[Written by MAL Rewrite]",
+    "background": "Kimi no Na wa. was published in English as Your Name. by Yen Press from June 20, 2017, to April 10, 2018. It was also released in Brazilian Portuguese by Editora JBC from August 2017 to January 2018.",
+    "authors": [
+        {
+            "mal_id": 1117,
+            "type": "people",
+            "name": "Shinkai, Makoto",
+            "url": "https://myanimelist.net/people/1117/Makoto_Shinkai"
+        },
+        {
+            "mal_id": 12086,
+            "type": "people",
+            "name": "Kotone, Ranmaru",
+            "url": "https://myanimelist.net/people/12086/Ranmaru_Kotone"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 137,
+            "type": "manga",
+            "name": "Comic Alive",
+            "url": "https://myanimelist.net/manga/magazine/137/Comic_Alive"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 121781,
+                    "type": "manga",
+                    "name": "Shousetsu Kimi no Na wa.",
+                    "url": "https://myanimelist.net/manga/121781/Shousetsu_Kimi_no_Na_wa"
+                },
+                {
+                    "mal_id": 32281,
+                    "type": "anime",
+                    "name": "Kimi no Na wa.",
+                    "url": "https://myanimelist.net/anime/32281/Kimi_no_Na_wa"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 100051,
+                    "type": "manga",
+                    "name": "Kimi no Na wa. Another Side: Earthbound",
+                    "url": "https://myanimelist.net/manga/100051/Kimi_no_Na_wa_Another_Side__Earthbound"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Your_Name"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%E3%80%82"
+        }
+    ]
+}

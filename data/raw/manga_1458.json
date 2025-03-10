@@ -1,0 +1,169 @@
+{
+    "mal_id": 1458,
+    "url": "https://myanimelist.net/manga/1458/Golden_Boy",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/265316.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/265316t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/265316l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/265316.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/265316t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/265316l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Golden Boy"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゴールデンボーイ"
+        }
+    ],
+    "title": "Golden Boy",
+    "title_english": null,
+    "title_japanese": "ゴールデンボーイ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 104,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-06-01T00:00:00+00:00",
+        "to": "1998-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 6,
+                "year": 1993
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            }
+        },
+        "string": "Jun 1993 to Jan 1998"
+    },
+    "score": 6.99,
+    "scored": 6.99,
+    "scored_by": 6462,
+    "rank": 9183,
+    "popularity": 914,
+    "members": 21584,
+    "favorites": 329,
+    "synopsis": "Ooe Kintarou is a Tokyo University Law School dropout. However, he had completed all the course work needed to graduate before leaving school. Since then, he has wandered through many jobs all over Japan as a student of life with little more than a journal, a pen, and his trusty mountain bike (the Mikazuki 5). On his journeys, he runs into various compromising situations with beautiful women, and he must use his unique talents as a jack-of-all-trades to survive, let alone have a chance to find his true calling in life. But he is far more skilled than he appears, and he is determined to succeed no matter what he does. He could be the man who will save Japan—no, the world... or maybe not. Packed with hilarious hi-jinks, lots of ecchi, ramen noodles, gracious kindness, and even some toilet hugging, Golden Boy is full of non-stop fun.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3034,
+            "type": "people",
+            "name": "Egawa, Tatsuya",
+            "url": "https://myanimelist.net/people/3034/Tatsuya_Egawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 85,
+            "type": "manga",
+            "name": "Super Jump",
+            "url": "https://myanimelist.net/manga/magazine/85/Super_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        },
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 21697,
+                    "type": "manga",
+                    "name": "Golden Boy II: Sasurai no Obenkyou Yarou Geinoukai Ooabare-hen",
+                    "url": "https://myanimelist.net/manga/21697/Golden_Boy_II__Sasurai_no_Obenkyou_Yarou_Geinoukai_Ooabare-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 268,
+                    "type": "anime",
+                    "name": "Golden Boy",
+                    "url": "https://myanimelist.net/anime/268/Golden_Boy"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/GOLDEN_BOY"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "mal_id": 1721,
+    "url": "https://myanimelist.net/manga/1721/Nabari_no_Ou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/251337.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/251337t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/251337l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/251337.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/251337t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/251337l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nabari no Ou"
+        },
+        {
+            "type": "Japanese",
+            "title": "隠の王"
+        },
+        {
+            "type": "English",
+            "title": "Nabari no Ou"
+        }
+    ],
+    "title": "Nabari no Ou",
+    "title_english": "Nabari no Ou",
+    "title_japanese": "隠の王",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 72,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-05-18T00:00:00+00:00",
+        "to": "2010-08-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 5,
+                "year": 2004
+            },
+            "to": {
+                "day": 18,
+                "month": 8,
+                "year": 2010
+            }
+        },
+        "string": "May 18, 2004 to Aug 18, 2010"
+    },
+    "score": 7.9,
+    "scored": 7.9,
+    "scored_by": 7323,
+    "rank": 1001,
+    "popularity": 836,
+    "members": 23362,
+    "favorites": 852,
+    "synopsis": "All Miharu Rokujou wishes for is a simple life.  Unfortunately, he soon learns that he is in possession of a sacred and secret ninja art, the \"Shinra Banshou.\"  With this ability, Miharu is more likely to become the king of the hidden world, Nabari, than remain a normal high school student! He must also deal with daily attempts against his life and, ironically, his sensei's efforts to convince him to join the nindo club.\n\nHaving this \"omnipotent\" ability will test Miharu's chances of survival, and the world of Nabari is his only hope.\n\n[Written by MAL Rewrite]",
+    "background": "Nabari no Ou was published in English by Yen Press from May 12, 2009 to July 23, 2013.",
+    "authors": [
+        {
+            "mal_id": 3154,
+            "type": "people",
+            "name": "Kamatani, Yuuki",
+            "url": "https://myanimelist.net/people/3154/Yuuki_Kamatani"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "GFantasy",
+            "url": "https://myanimelist.net/manga/magazine/35/GFantasy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3655,
+                    "type": "anime",
+                    "name": "Nabari no Ou",
+                    "url": "https://myanimelist.net/anime/3655/Nabari_no_Ou"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 91703,
+                    "type": "manga",
+                    "name": "Nabari no Ou dj - Osanagokoro no Niwa",
+                    "url": "https://myanimelist.net/manga/91703/Nabari_no_Ou_dj_-_Osanagokoro_no_Niwa"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.co.jp/magazine/gfantasy/story/nabari/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%9A%A0%E3%81%AE%E7%8E%8B"
+        }
+    ]
+}

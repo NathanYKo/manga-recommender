@@ -1,0 +1,150 @@
+{
+    "mal_id": 116790,
+    "url": "https://myanimelist.net/manga/116790/Mieruko-chan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/217799.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/217799t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/217799l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/217799.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/217799t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/217799l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mieruko-chan"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Girl That Sees \"Them\""
+        },
+        {
+            "type": "Synonym",
+            "title": "Girl That Can See It"
+        },
+        {
+            "type": "Japanese",
+            "title": "見える子ちゃん"
+        },
+        {
+            "type": "English",
+            "title": "Mieruko-chan"
+        }
+    ],
+    "title": "Mieruko-chan",
+    "title_english": "Mieruko-chan",
+    "title_japanese": "見える子ちゃん",
+    "title_synonyms": [
+        "The Girl That Sees \"Them\"",
+        "Girl That Can See It"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2018-11-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 11,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 2, 2018 to ?"
+    },
+    "score": 7.87,
+    "scored": 7.87,
+    "scored_by": 29902,
+    "rank": 1096,
+    "popularity": 169,
+    "members": 92445,
+    "favorites": 2282,
+    "synopsis": "Miko Yotsuya is a typical high school student whose life turns upside down when she suddenly starts to see gruesome and hideous monsters. Despite being completely terrified, Miko carries on with her daily life, pretending not to notice the horrors that surround her. She must endure the fear in order to keep herself and her friend Hana Yurikawa out of danger, even if that means coming face to face with the absolute worst. Blending both comedy and horror, Mieruko-chan tells the story of a girl who tries to deal with the paranormal by acting indifferent toward it.\n\n[Written by MAL Rewrite]",
+    "background": "Mieruko-chan has been published in English by Yen Press since November 17, 2020.",
+    "authors": [
+        {
+            "mal_id": 49039,
+            "type": "people",
+            "name": "Izumi, Tomoki",
+            "url": "https://myanimelist.net/people/49039/Tomoki_Izumi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1635,
+            "type": "manga",
+            "name": "Web Comic Apanta",
+            "url": "https://myanimelist.net/manga/magazine/1635/Web_Comic_Apanta"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 48483,
+                    "type": "anime",
+                    "name": "Mieruko-chan",
+                    "url": "https://myanimelist.net/anime/48483/Mieruko-chan"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 142637,
+                    "type": "manga",
+                    "name": "Mieruko-chan: Koushiki Anthology Comic",
+                    "url": "https://myanimelist.net/manga/142637/Mieruko-chan__Koushiki_Anthology_Comic"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-walker.com/contents/detail/KDCW_MF00000090010000_68/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E8%A6%8B%E3%81%88%E3%82%8B%E5%AD%90%E3%81%A1%E3%82%83%E3%82%93"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "mal_id": 123699,
+    "url": "https://myanimelist.net/manga/123699/Death_Note__Tokubetsu_Yomikiri",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/226633.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/226633t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/226633l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/226633.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/226633t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/226633l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Death Note: Tokubetsu Yomikiri"
+        },
+        {
+            "type": "Japanese",
+            "title": "DEATH NOTE 特別読切"
+        },
+        {
+            "type": "English",
+            "title": "Death Note: Special One-Shot"
+        }
+    ],
+    "title": "Death Note: Tokubetsu Yomikiri",
+    "title_english": "Death Note: Special One-Shot",
+    "title_japanese": "DEATH NOTE 特別読切",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-02-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 2,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 4, 2020"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 48596,
+    "rank": 3269,
+    "popularity": 235,
+    "members": 70338,
+    "favorites": 751,
+    "synopsis": "To alleviate his crippling boredom and indulge in the tasty pleasure of apples, shinigami Ryuk enters the human realm once more. The year is 2017, and Ryuk deems that high school student Minoru Tanaka may have the brains to continue what Kira had started, or at least he will provide him with some decent entertainment.\n\nRevealing himself to Minoru, Ryuk offers the Death Note to him and explains its rules. However, after long and careful deliberation, Minoru proposes a counter-offer: he will decline the Death Note for now, but should Ryuk return in two years, Minoru will surely grant his wish.\n\nIn 2019, Ryuk returns to Minoru, who gladly accepts the notebook and sets his scheme in motion. The Japanese police, the mysterious detective L, and the entire world soon come to witness Minoru's meticulous plan: one that makes unprecedented use of the Death Note's devastating powers.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1888,
+            "type": "people",
+            "name": "Obata, Takeshi",
+            "url": "https://myanimelist.net/people/1888/Takeshi_Obata"
+        },
+        {
+            "mal_id": 2111,
+            "type": "people",
+            "name": "Ohba, Tsugumi",
+            "url": "https://myanimelist.net/people/2111/Tsugumi_Ohba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 4941,
+                    "type": "manga",
+                    "name": "Death Note: Tokubetsu-hen",
+                    "url": "https://myanimelist.net/manga/4941/Death_Note__Tokubetsu-hen"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,191 @@
+{
+    "mal_id": 114745,
+    "url": "https://myanimelist.net/manga/114745/Blue_Lock",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/213340.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/213340t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/213340l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/213340.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/213340t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/213340l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Blue Lock"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブルーロック"
+        },
+        {
+            "type": "English",
+            "title": "Blue Lock"
+        }
+    ],
+    "title": "Blue Lock",
+    "title_english": "Blue Lock",
+    "title_japanese": "ブルーロック",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2018-08-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 1, 2018 to ?"
+    },
+    "score": 8.48,
+    "scored": 8.48,
+    "scored_by": 89061,
+    "rank": 165,
+    "popularity": 45,
+    "members": 194106,
+    "favorites": 14395,
+    "synopsis": "After reflecting on the current state of Japanese soccer, the Japanese Football Association decides to hire the enigmatic and eccentric coach Jinpachi Ego to achieve their dream of winning the World Cup. Believing that Japan has lacked an egoistic striker hungry for goals, Jinpachi initiates the Blue Lock—a prison-like facility where three hundred talented strikers from high schools all over Japan are isolated and pitted against each other. The sole survivor of Blue Lock will earn the right to become the national team's striker, and those who are defeated shall be banned from joining the team forever. \n\nSelected to join this risky project is Yoichi Isagi, a striker who failed to bring his high school soccer team to the national tournament. After choosing to pass to a teammate who missed instead of scoring on his own, he could not help but wonder if the results would have been different had he been more selfish. Using this golden opportunity given by the Blue Lock Project, Yoichi aims to clear his doubts and chase his ultimate desire—to become the greatest striker in the world and lead Japan to World Cup glory.\n\n[Written by MAL Rewrite]",
+    "background": "Blue Lock won the 45th Kodansha Manga Awards in the Shounen category in 2021. The series has been published digitally in English by Kodansha Comics USA since March 16, 2021, and in print since June 21, 2022. The series has also been simulpub through K Manga. It has also been released in French by Pika Édition since June 2, 2021; in Italian by Panini Comics since July 29, 2021; and in Polish by Waneko since August 5, 2022.",
+    "authors": [
+        {
+            "mal_id": 19049,
+            "type": "people",
+            "name": "Kaneshiro, Muneyuki",
+            "url": "https://myanimelist.net/people/19049/Muneyuki_Kaneshiro"
+        },
+        {
+            "mal_id": 33833,
+            "type": "people",
+            "name": "Nomura, Yuusuke",
+            "url": "https://myanimelist.net/people/33833/Yuusuke_Nomura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 154487,
+                    "type": "manga",
+                    "name": "Shousetsu Blue Lock",
+                    "url": "https://myanimelist.net/manga/154487/Shousetsu_Blue_Lock"
+                },
+                {
+                    "mal_id": 49596,
+                    "type": "anime",
+                    "name": "Blue Lock",
+                    "url": "https://myanimelist.net/anime/49596/Blue_Lock"
+                },
+                {
+                    "mal_id": 54865,
+                    "type": "anime",
+                    "name": "Blue Lock vs. U-20 Japan",
+                    "url": "https://myanimelist.net/anime/54865/Blue_Lock_vs_U-20_Japan"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 144695,
+                    "type": "manga",
+                    "name": "Blue Lock: Episode Nagi",
+                    "url": "https://myanimelist.net/manga/144695/Blue_Lock__Episode_Nagi"
+                },
+                {
+                    "mal_id": 153082,
+                    "type": "manga",
+                    "name": "Shousetsu Blue Lock: Tatakai no Mae, Bokura wa.",
+                    "url": "https://myanimelist.net/manga/153082/Shousetsu_Blue_Lock__Tatakai_no_Mae_Bokura_wa"
+                },
+                {
+                    "mal_id": 174418,
+                    "type": "manga",
+                    "name": "Another Blue Lock: Episode Harajuku",
+                    "url": "https://myanimelist.net/manga/174418/Another_Blue_Lock__Episode_Harajuku"
+                },
+                {
+                    "mal_id": 174341,
+                    "type": "manga",
+                    "name": "Another Blue Lock: Episode Omotesando",
+                    "url": "https://myanimelist.net/manga/174341/Another_Blue_Lock__Episode_Omotesando"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/blue-lock/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://shonenmagazine.com/special_page/bluelock"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Blue_Lock"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF"
+        }
+    ]
+}

@@ -1,0 +1,228 @@
+{
+    "mal_id": 5911,
+    "url": "https://myanimelist.net/manga/5911/Freezing",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/281008.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/281008t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/281008l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/281008.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/281008t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/281008l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Freezing"
+        },
+        {
+            "type": "Synonym",
+            "title": "Freezing Second Season"
+        },
+        {
+            "type": "Japanese",
+            "title": "フリージング"
+        },
+        {
+            "type": "English",
+            "title": "Freezing"
+        }
+    ],
+    "title": "Freezing",
+    "title_english": "Freezing",
+    "title_japanese": "フリージング",
+    "title_synonyms": [
+        "Freezing Second Season"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2007-01-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 27, 2007 to ?"
+    },
+    "score": 7.3,
+    "scored": 7.3,
+    "scored_by": 16745,
+    "rank": 4893,
+    "popularity": 449,
+    "members": 41443,
+    "favorites": 1220,
+    "synopsis": "Set in a slightly futuristic world where Earth has been invaded and is at war with aliens from another dimension called the Nova, the story follows the adventures of a Japanese boy named Kazuya Aoi who enrolls for training at a special school for genetically modified girls called Pandoras who battle the aliens, and their male partners, called Limiters, who use a special power called \"freezing\" to limit their opponent's mobility. The protagonist makes the acquaintance of an unusual older girl named Satellizer el Bridget who appears to be the most powerful Pandora in her class, but has not yet chosen a male partner to be her Limiter, and in spite of the warnings of all his friends, he decides to be her Limiter.",
+    "background": "Freezing has been published in English by Seven Seas Entertainment in 2-in-1 omnibuses since June 23, 2015. An artbook titled Reminiscence (レミニッセンス), which collects illustrations from 2006-2014, was released in Japan on March 3, 2015.",
+    "authors": [
+        {
+            "mal_id": 2827,
+            "type": "people",
+            "name": "Im, Dal Young",
+            "url": "https://myanimelist.net/people/2827/Dal_Young_Im"
+        },
+        {
+            "mal_id": 4800,
+            "type": "people",
+            "name": "Kim, Kwang Hyun",
+            "url": "https://myanimelist.net/people/4800/Kwang_Hyun_Kim"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 234,
+            "type": "manga",
+            "name": "Comic Valkyrie",
+            "url": "https://myanimelist.net/manga/magazine/234/Comic_Valkyrie"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 30125,
+                    "type": "manga",
+                    "name": "Freezing: First Chronicle",
+                    "url": "https://myanimelist.net/manga/30125/Freezing__First_Chronicle"
+                },
+                {
+                    "mal_id": 35879,
+                    "type": "manga",
+                    "name": "Freezing Zero",
+                    "url": "https://myanimelist.net/manga/35879/Freezing_Zero"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9367,
+                    "type": "anime",
+                    "name": "Freezing",
+                    "url": "https://myanimelist.net/anime/9367/Freezing"
+                },
+                {
+                    "mal_id": 18001,
+                    "type": "anime",
+                    "name": "Freezing Vibration",
+                    "url": "https://myanimelist.net/anime/18001/Freezing_Vibration"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 106481,
+                    "type": "manga",
+                    "name": "Freezing Tokuten Manga",
+                    "url": "https://myanimelist.net/manga/106481/Freezing_Tokuten_Manga"
+                },
+                {
+                    "mal_id": 92372,
+                    "type": "manga",
+                    "name": "Freezing: Extra Story",
+                    "url": "https://myanimelist.net/manga/92372/Freezing__Extra_Story"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 50329,
+                    "type": "manga",
+                    "name": "Freezing: Pair Love Stories",
+                    "url": "https://myanimelist.net/manga/50329/Freezing__Pair_Love_Stories"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 30847,
+                    "type": "manga",
+                    "name": "Cross Make",
+                    "url": "https://myanimelist.net/manga/30847/Cross_Make"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.comic-valkyrie.com/modules/contents/freezing.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}
