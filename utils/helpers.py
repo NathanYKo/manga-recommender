@@ -159,5 +159,25 @@ def standardize_manga_fields(manga_data):
         # Handle genre_list from our aggregation query
         if 'genre_list' in manga_data and 'genres' not in manga_data:
             manga_data['genres'] = manga_data['genre_list']
+            
+        # Add default fields if not present
+        if 'type' not in manga_data:
+            manga_data['type'] = 'Manga'
+            
+        if 'status' not in manga_data:
+            manga_data['status'] = manga_data.get('publishing', 'Unknown')
+            
+        if 'published' not in manga_data:
+            # Try to construct published date range if available
+            if 'published_from' in manga_data and manga_data['published_from']:
+                published_str = str(manga_data['published_from'])
+                if 'published_to' in manga_data and manga_data['published_to']:
+                    published_str += " to " + str(manga_data['published_to'])
+                manga_data['published'] = published_str
+            else:
+                manga_data['published'] = 'Unknown'
+                
+        if 'authors' not in manga_data:
+            manga_data['authors'] = 'Unknown'
     
     return manga_data
