@@ -50,16 +50,14 @@ def get_recommender():
         try:
             logger.info("Initializing recommender system...")
             recommender = HybridRecommender(
-                content_weight=0.5,
-                collab_weight=0.5
+                content_weight=0.7,
+                collab_weight=0.3
             )
             recommender.fit()
             logger.info("Recommender system initialized successfully")
         except Exception as e:
-            logger.error(f"Error initializing recommender system: {e}")
-            logger.warning("Using a fallback minimal recommender")
-            # Return None to indicate the recommender couldn't be initialized
-            return None
+            logger.error(f"Error initializing recommender: {e}")
+            recommender = None  # Reset to None so we can try again next time
     return recommender
 
 # Import and register routes

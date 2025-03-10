@@ -8,7 +8,7 @@ from models.collaborative import CollaborativeFilteringRecommender
 logger = logging.getLogger('manga_recommender.hybrid')
 
 class HybridRecommender:
-    def __init__(self, content_weight=0.5, collab_weight=0.5):
+    def __init__(self, content_weight=0.7, collab_weight=0.3):
         """
         Initialize the hybrid recommender
         
@@ -19,15 +19,14 @@ class HybridRecommender:
         collab_weight : float
             Weight for collaborative filtering recommendations (0-1)
         """
-        self.content_based = ContentBasedRecommender()
-        self.collaborative = CollaborativeFilteringRecommender()
         self.content_weight = content_weight
         self.collab_weight = collab_weight
         
-        # Normalize weights
-        total_weight = content_weight + collab_weight
-        self.content_weight = content_weight / total_weight
-        self.collab_weight = collab_weight / total_weight
+        # Initialize recommenders
+        self.content_based = ContentBasedRecommender()
+        self.collaborative = CollaborativeFilteringRecommender()
+        
+        logger.info(f"Initialized HybridRecommender with content_weight={content_weight}, collab_weight={collab_weight}")
     
     def fit(self):
         """Fit both recommendation models"""

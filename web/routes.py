@@ -686,8 +686,11 @@ def register_routes(app, get_recommender):
                     similarity_dict = {row['manga_id']: row['hybrid_score'] if 'hybrid_score' in row else row['similarity'] 
                                       for _, row in recommendations.iterrows()}
                     
-                    for i, rec in enumerate(similar_manga):
-                        rec['similarity_score'] = similarity_dict.get(rec['manga_id'], 0)
+                    for rec in similar_manga:
+                        # Apply a square root transformation to boost lower similarity scores
+                        raw_score = similarity_dict.get(rec['manga_id'], 0)
+                        # Boost the similarity scores with square root scaling (emphasizes higher values)
+                        rec['similarity_score'] = min(1.0, raw_score ** 0.5)
             except Exception as e:
                 logger.warning(f"Error getting recommendations with recommender system: {e}")
                 # Fallback - get recommendations based on genres
@@ -804,7 +807,10 @@ def register_routes(app, get_recommender):
                                     for _, row in recommendations.iterrows()}
                     
                     for rec in similar_manga:
-                        rec['similarity_score'] = similarity_dict.get(rec['manga_id'], 0)
+                        # Apply a square root transformation to boost lower similarity scores
+                        raw_score = similarity_dict.get(rec['manga_id'], 0)
+                        # Boost the similarity scores with square root scaling (emphasizes higher values)
+                        rec['similarity_score'] = min(1.0, raw_score ** 0.5)
                 
                 # Standardize fields
                 standardize_manga_fields(target_manga)

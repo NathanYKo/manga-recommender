@@ -73,7 +73,7 @@
                             
                             <div class="mb-2">
                                 <span class="badge bg-primary">Score: {{ rec.score|default('N/A') }}</span>
-                                <span class="badge bg-success">Similarity: {{ "%.2f"|format(rec.similarity_score * 100) }}%</span>
+                                <span class="badge bg-success">Similarity: {{ "%.0f"|format(min(rec.similarity_score * 100, 100)) }}%</span>
                             </div>
                             
                             {% if rec.genre_list %}
