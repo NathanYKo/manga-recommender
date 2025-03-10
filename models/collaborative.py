@@ -9,22 +9,31 @@ from utils.helpers import execute_query
 logger = logging.getLogger('manga_recommender.collaborative')
 
 class CollaborativeFilteringRecommender:
-    def __init__(self, min_ratings=5):
-        self.user_manga_matrix = None
-        self.manga_user_matrix = None
-        self.model = None
-        self.min_ratings = min_ratings  # Minimum number of ratings for a manga to be considered
+    def __init__(self, min_ratings=0):
+        """Initialize collaborative filtering recommender
+        
+        Args:
+            min_ratings: Minimum number of ratings a manga must have to be included (default: 0 to include all manga)
+        """
+        self.min_ratings = min_ratings
         self.manga_df = None
         self.ratings_df = None
+        self.model = None
+        self.user_manga_matrix = None
+        self.manga_user_matrix = None
         self.manga_indices = None
     
     def _load_data(self):
-        """Load ratings data from database"""
+        """Load manga and user ratings data from database"""
         # Load manga data
         manga_query = """
-        SELECT manga_id, title, score, popularity 
-        FROM manga
+        SELECT manga_id, title, score
+        FROM manga 
+        WHERE score IS NOT NULL
+        ORDER BY score DESC
+        LIMIT 2000
         """
+        
         manga_result = execute_query(manga_query)
         self.manga_df = pd.DataFrame(manga_result)
         
@@ -33,6 +42,7 @@ class CollaborativeFilteringRecommender:
         SELECT user_id, manga_id, rating
         FROM user_ratings
         """
+        
         ratings_result = execute_query(ratings_query)
         self.ratings_df = pd.DataFrame(ratings_result)
         
@@ -68,12 +78,16 @@ class CollaborativeFilteringRecommender:
     
     def _create_matrix(self):
         """Create user-manga and manga-user matrices"""
-        # Filter out manga with too few ratings
-        manga_rating_counts = self.ratings_df['manga_id'].value_counts()
-        qualified_manga = manga_rating_counts[manga_rating_counts >= self.min_ratings].index
-        
-        qualified_ratings = self.ratings_df[self.ratings_df['manga_id'].isin(qualified_manga)]
-        logger.info(f"Using {len(qualified_ratings)} ratings for {len(qualified_manga)} manga after filtering")
+        # If min_ratings > 0, filter out manga with too few ratings
+        if self.min_ratings > 0:
+            manga_rating_counts = self.ratings_df['manga_id'].value_counts()
+            qualified_manga = manga_rating_counts[manga_rating_counts >= self.min_ratings].index
+            qualified_ratings = self.ratings_df[self.ratings_df['manga_id'].isin(qualified_manga)]
+        else:
+            # Use all ratings without filtering
+            qualified_ratings = self.ratings_df
+            
+        logger.info(f"Using {len(qualified_ratings)} ratings for {len(qualified_ratings['manga_id'].unique())} manga after filtering")
         
         # Create user-manga matrix (pivot table)
         user_manga_df = qualified_ratings.pivot(index='user_id', columns='manga_id', values='rating').fillna(0)
@@ -119,7 +133,7 @@ class CollaborativeFilteringRecommender:
         
         # Check if manga_id exists in our model
         if manga_id not in self.manga_indices:
-            logger.warning(f"Manga ID {manga_id} not found in collaborative model")
+            logger.debug(f"Manga ID {manga_id} not found in collaborative model")
             return pd.DataFrame()
         
         # Get the manga index

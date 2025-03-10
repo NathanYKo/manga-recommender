@@ -24,7 +24,7 @@ class HybridRecommender:
         
         # Initialize recommenders
         self.content_based = ContentBasedRecommender()
-        self.collaborative = CollaborativeFilteringRecommender()
+        self.collaborative = CollaborativeFilteringRecommender(min_ratings=0)
         
         logger.info(f"Initialized HybridRecommender with content_weight={content_weight}, collab_weight={collab_weight}")
     
@@ -69,7 +69,7 @@ class HybridRecommender:
             logger.warning(f"Content-based recommendations failed for manga ID {manga_id}, using only collaborative")
             return collab_recommendations.head(top_n)
         elif collab_recommendations.empty:
-            logger.warning(f"Collaborative recommendations failed for manga ID {manga_id}, using only content-based")
+            logger.debug(f"Collaborative recommendations failed for manga ID {manga_id}, using only content-based")
             return content_recommendations.head(top_n)
         
         # Scale similarity scores to 0-1 range for each method
@@ -258,7 +258,7 @@ class HybridRecommender:
                 collab_recs = collab_recs.rename(columns={'similarity': 'hybrid_score'})
                 return collab_recs[['manga_id', 'title', 'hybrid_score']].head(top_n)
             elif collab_recs.empty:
-                logger.warning(f"Collaborative recommendations failed for manga ID {manga_id}, using only content-based")
+                logger.debug(f"Collaborative recommendations failed for manga ID {manga_id}, using only content-based")
                 content_recs = content_recs.rename(columns={'similarity': 'hybrid_score'})
                 return content_recs[['manga_id', 'title', 'hybrid_score']].head(top_n)
             
