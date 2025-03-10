@@ -1,0 +1,125 @@
+{
+    "mal_id": 34627,
+    "url": "https://myanimelist.net/manga/34627/Yumekuri",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/161441.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/161441t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/161441l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/161441.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/161441t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/161441l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yumekuri"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゆめくり"
+        }
+    ],
+    "title": "Yumekuri",
+    "title_english": null,
+    "title_japanese": "ゆめくり",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 41,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-01-27T00:00:00+00:00",
+        "to": "2016-12-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Jan 27, 2012 to Dec 27, 2016"
+    },
+    "score": 6.89,
+    "scored": 6.89,
+    "scored_by": 989,
+    "rank": 10777,
+    "popularity": 6113,
+    "members": 3510,
+    "favorites": 14,
+    "synopsis": "Yugami Makoto likes to travel to different Hot Springs. On his 100th visit to a Hot Spring he meets a beautiful foreign girl in the bath. Stunned by her beauty, he immediately falls for her. But there is more to the girl than meets the eye. And why is Makoto forced to work at the Inn afterwards?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 15359,
+            "type": "people",
+            "name": "Hiro",
+            "url": "https://myanimelist.net/people/15359/Hiro"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 137,
+            "type": "manga",
+            "name": "Comic Alive",
+            "url": "https://myanimelist.net/manga/magazine/137/Comic_Alive"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 15535,
+                    "type": "anime",
+                    "name": "Yumekuri",
+                    "url": "https://myanimelist.net/anime/15535/Yumekuri"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.mediafactory.co.jp/comic-alive/yumekuri/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%81%E3%81%8F%E3%82%8A"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "mal_id": 27047,
+    "url": "https://myanimelist.net/manga/27047/Ikumen☆After",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/71155.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/71155t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/71155l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/71155.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/71155t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/71155l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ikumen☆After"
+        },
+        {
+            "type": "Japanese",
+            "title": "イクメン☆アフター"
+        }
+    ],
+    "title": "Ikumen☆After",
+    "title_english": null,
+    "title_japanese": "イクメン☆アフター",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-11-30T00:00:00+00:00",
+        "to": "2014-04-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 11,
+                "year": 2010
+            },
+            "to": {
+                "day": 10,
+                "month": 4,
+                "year": 2014
+            }
+        },
+        "string": "Nov 30, 2010 to Apr 10, 2014"
+    },
+    "score": 7.67,
+    "scored": 7.67,
+    "scored_by": 1117,
+    "rank": 1898,
+    "popularity": 8588,
+    "members": 2342,
+    "favorites": 18,
+    "synopsis": "This is a really cute, sweet story about two single dads Asakura and Kentarou, whose young sons happen to go to the same daycare.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2842,
+            "type": "people",
+            "name": "Kodaka, Kazuma",
+            "url": "https://myanimelist.net/people/2842/Kazuma_Kodaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 529,
+            "type": "manga",
+            "name": "b-Boy Honey",
+            "url": "https://myanimelist.net/manga/magazine/529/b-Boy_Honey"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Childcare",
+            "url": "https://myanimelist.net/manga/genre/53/Childcare"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 139791,
+                    "type": "manga",
+                    "name": "Ikumen☆After +a",
+                    "url": "https://myanimelist.net/manga/139791/Ikumen☆After__a"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

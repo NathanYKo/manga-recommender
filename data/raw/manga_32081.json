@@ -1,0 +1,136 @@
+{
+    "mal_id": 32081,
+    "url": "https://myanimelist.net/manga/32081/Aoi_Hikaru_ga_Chikyuu_ni_Ita_Koro",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/111511.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/111511t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/111511l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/111511.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/111511t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/111511l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "\"Aoi\" Hikaru ga Chikyuu ni Ita Koro......"
+        },
+        {
+            "type": "Japanese",
+            "title": "\"葵\" ヒカルが地球にいたころ……"
+        },
+        {
+            "type": "English",
+            "title": "\"Aoi\" When Hikaru was on the earth"
+        }
+    ],
+    "title": "\"Aoi\" Hikaru ga Chikyuu ni Ita Koro......",
+    "title_english": "\"Aoi\" When Hikaru was on the earth",
+    "title_japanese": "\"葵\" ヒカルが地球にいたころ……",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-10-20T00:00:00+00:00",
+        "to": "2012-12-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Oct 20, 2011 to Dec 20, 2012"
+    },
+    "score": 7.22,
+    "scored": 7.22,
+    "scored_by": 2784,
+    "rank": 5848,
+    "popularity": 3838,
+    "members": 5843,
+    "favorites": 39,
+    "synopsis": "His whole life, Koremitsu Akagi has been labeled a delinquent by his classmates owing to his angry expression, bright red hair, and violent tendencies. These rumors continue on in high school, isolating him once more. Even so, the school's famed playboy, Hikaru Mikado, kindly greets Koremitsu and even insists that they talk again. Unfortunately, this remains the only interaction the two boys would ever have before Hikaru's untimely death.\n\nAfter reluctantly attending Hikaru's funeral, Koremitsu finds the ghost of Hikaru following him. Realizing that Koremitsu alone can see him, Hikaru decides to enlist his help. In order for his soul to pass on, Hikaru must fulfill his promise to his fiancée, Aoi Saotome. Although Aoi seems to be carrying unresolved resentment toward Hikaru, Koremitsu agrees to help his ghost companion with his last wish.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7606,
+            "type": "people",
+            "name": "Nomura, Mizuki",
+            "url": "https://myanimelist.net/people/7606/Mizuki_Nomura"
+        },
+        {
+            "mal_id": 15271,
+            "type": "people",
+            "name": "CHuN",
+            "url": "https://myanimelist.net/people/15271/CHuN"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 419,
+            "type": "manga",
+            "name": "Gangan Online",
+            "url": "https://myanimelist.net/manga/magazine/419/Gangan_Online"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 26201,
+                    "type": "manga",
+                    "name": "Hikaru ga Chikyuu ni Ita Koro......",
+                    "url": "https://myanimelist.net/manga/26201/Hikaru_ga_Chikyuu_ni_Ita_Koro"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.com/jp/magazine/ganganonline/comic/aoi/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%92%E3%82%AB%E3%83%AB%E3%81%8C%E5%9C%B0%E7%90%83%E3%81%AB%E3%81%84%E3%81%9F%E3%81%93%E3%82%8D%E2%80%A6%E2%80%A6"
+        }
+    ]
+}

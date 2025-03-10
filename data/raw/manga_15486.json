@@ -1,0 +1,125 @@
+{
+    "mal_id": 15486,
+    "url": "https://myanimelist.net/manga/15486/Decoration_Disorder_Disconnection",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/22535.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/22535t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/22535l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/22535.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/22535t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/22535l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Decoration Disorder Disconnection"
+        },
+        {
+            "type": "Synonym",
+            "title": "DDD"
+        },
+        {
+            "type": "Japanese",
+            "title": "デコレーション・ディスオーダー・ディスコネクション"
+        },
+        {
+            "type": "English",
+            "title": "Decoration Disorder Disconnection"
+        }
+    ],
+    "title": "Decoration Disorder Disconnection",
+    "title_english": "Decoration Disorder Disconnection",
+    "title_japanese": "デコレーション・ディスオーダー・ディスコネクション",
+    "title_synonyms": [
+        "DDD"
+    ],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2007-01-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 10, 2007 to ?"
+    },
+    "score": 7.91,
+    "scored": 7.91,
+    "scored_by": 283,
+    "rank": 966,
+    "popularity": 7670,
+    "members": 2688,
+    "favorites": 33,
+    "synopsis": "In a certain part of Japan, there is a syndrome known as Abnormal Agonist Syndrome. A bizarre illness that blurs the line between physical and mental, it primarily affects people who are already in a debilitated state—those who are suicidal, paranoid, abused, and so on. Anyone with the syndrome faces incomprehensible conditions and, even worse, undergo horrifying changes.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3250,
+            "type": "people",
+            "name": "Nasu, Kinoko",
+            "url": "https://myanimelist.net/people/3250/Kinoko_Nasu"
+        },
+        {
+            "mal_id": 6450,
+            "type": "people",
+            "name": "Koyama, Hirokazu",
+            "url": "https://myanimelist.net/people/6450/Hirokazu_Koyama"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 92801,
+                    "type": "manga",
+                    "name": "3/16 Jiken",
+                    "url": "https://myanimelist.net/manga/92801/3_16_Jiken"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

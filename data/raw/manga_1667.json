@@ -1,0 +1,165 @@
+{
+    "mal_id": 1667,
+    "url": "https://myanimelist.net/manga/1667/Joshikousei__Girls-High",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/152461.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/152461t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/152461l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/152461.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/152461t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/152461l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Joshikousei: Girls-High"
+        },
+        {
+            "type": "Synonym",
+            "title": "Girl's High"
+        },
+        {
+            "type": "Synonym",
+            "title": "Joshi Kousei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Joshikousei: Girls-High 2nd Season"
+        },
+        {
+            "type": "Japanese",
+            "title": "女子高生Girls-High"
+        },
+        {
+            "type": "English",
+            "title": "High School Girls"
+        }
+    ],
+    "title": "Joshikousei: Girls-High",
+    "title_english": "High School Girls",
+    "title_japanese": "女子高生Girls-High",
+    "title_synonyms": [
+        "Girl's High",
+        "Joshi Kousei",
+        "Joshikousei: Girls-High 2nd Season"
+    ],
+    "type": "Manga",
+    "chapters": 106,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-01-01T00:00:00+00:00",
+        "to": "2016-06-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 2016
+            }
+        },
+        "string": "2000 to Jun 25, 2016"
+    },
+    "score": 7.43,
+    "scored": 7.43,
+    "scored_by": 867,
+    "rank": 3505,
+    "popularity": 6842,
+    "members": 3094,
+    "favorites": 36,
+    "synopsis": "High school is a time of new opportunity, new adventures... and the same old silliness that you thought you grew out of. Yuma, Eriko, and Ayano are three friends starting their years at an all-girls high school, and are forced to learn just how things run in this new crazy world. Classes, cliques, and even sex... nothing is avoided when high school girls are let loose!",
+    "background": "Joshikousei: Girls-High had nine volumes published in English as High School Girls by Dr. Master Productions from March 22, 2005 to March 28, 2008, corresponding to the first season of the series. Volume 10 onwards indicates the 2nd season, which started in 2014 after the series took a seven-year hiatus.",
+    "authors": [
+        {
+            "mal_id": 2740,
+            "type": "people",
+            "name": "Oshima, Towa",
+            "url": "https://myanimelist.net/people/2740/Towa_Oshima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 122,
+            "type": "manga",
+            "name": "Comic High!",
+            "url": "https://myanimelist.net/manga/magazine/122/Comic_High"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 22957,
+                    "type": "manga",
+                    "name": "Joshikousei: Girls-Live",
+                    "url": "https://myanimelist.net/manga/22957/Joshikousei__Girls-Live"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 863,
+                    "type": "anime",
+                    "name": "Joshikousei: Girl's High",
+                    "url": "https://myanimelist.net/anime/863/Joshikousei__Girls_High"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "mal_id": 148859,
+    "url": "https://myanimelist.net/manga/148859/Dr_Stone__Terraforming",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/264204.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/264204t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/264204l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/264204.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/264204t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/264204l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dr. Stone: Terraforming"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dr. Stone Special One-shot"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dr. Stone Epilogue"
+        },
+        {
+            "type": "Japanese",
+            "title": "Dr.STONE TERRAFORMING"
+        },
+        {
+            "type": "English",
+            "title": "Dr. Stone: Terraforming"
+        }
+    ],
+    "title": "Dr. Stone: Terraforming",
+    "title_english": "Dr. Stone: Terraforming",
+    "title_japanese": "Dr.STONE TERRAFORMING",
+    "title_synonyms": [
+        "Dr. Stone Special One-shot",
+        "Dr. Stone Epilogue"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2022-07-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2022
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 4, 2022"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 2806,
+    "rank": 2434,
+    "popularity": 4532,
+    "members": 4893,
+    "favorites": 11,
+    "synopsis": "Epilogue chapter of Dr. Stone.",
+    "background": "Dr. Stone: Terraforming was published digitally as an English simulpub through MANGA Plus.",
+    "authors": [
+        {
+            "mal_id": 1902,
+            "type": "people",
+            "name": "Inagaki, Riichiro",
+            "url": "https://myanimelist.net/people/1902/Riichiro_Inagaki"
+        },
+        {
+            "mal_id": 3537,
+            "type": "people",
+            "name": "Boichi",
+            "url": "https://myanimelist.net/people/3537/Boichi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 77,
+            "type": "manga",
+            "name": "Survival",
+            "url": "https://myanimelist.net/manga/genre/77/Survival"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 103897,
+                    "type": "manga",
+                    "name": "Dr. Stone",
+                    "url": "https://myanimelist.net/manga/103897/Dr_Stone"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 164276,
+                    "type": "manga",
+                    "name": "Dr. Stone: 4D Science",
+                    "url": "https://myanimelist.net/manga/164276/Dr_Stone__4D_Science"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

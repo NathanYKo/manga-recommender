@@ -1,0 +1,114 @@
+{
+    "mal_id": 2807,
+    "url": "https://myanimelist.net/manga/2807/Wild_Fangs",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/3016.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/3016t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/3016l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/3016.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/3016t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/3016l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Wild Fangs"
+        },
+        {
+            "type": "Japanese",
+            "title": "ワイルドファングス"
+        }
+    ],
+    "title": "Wild Fangs",
+    "title_english": null,
+    "title_japanese": "ワイルドファングス",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2006 to ?"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 1528,
+    "rank": null,
+    "popularity": 7617,
+    "members": 2712,
+    "favorites": 19,
+    "synopsis": "Mao, who has a rare bloodline of a beast, has gone on a journey to find the \"Master\" he has never seen . He then mets Syon, a bounty hunter...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3137,
+            "type": "people",
+            "name": "Yamagishi, Hokuto",
+            "url": "https://myanimelist.net/people/3137/Hokuto_Yamagishi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 2808,
+                    "type": "manga",
+                    "name": "Wild Rose",
+                    "url": "https://myanimelist.net/manga/2808/Wild_Rose"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

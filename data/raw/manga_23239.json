@@ -1,0 +1,115 @@
+{
+    "mal_id": 23239,
+    "url": "https://myanimelist.net/manga/23239/Himawari-san",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/167463.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/167463t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/167463l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/167463.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/167463t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/167463l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Himawari-san"
+        },
+        {
+            "type": "Synonym",
+            "title": "Miss Sunflower"
+        },
+        {
+            "type": "Japanese",
+            "title": "ひまわりさん"
+        }
+    ],
+    "title": "Himawari-san",
+    "title_english": null,
+    "title_japanese": "ひまわりさん",
+    "title_synonyms": [
+        "Miss Sunflower"
+    ],
+    "type": "Manga",
+    "chapters": 109,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-08-27T00:00:00+00:00",
+        "to": "2022-07-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 8,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 7,
+                "year": 2022
+            }
+        },
+        "string": "Aug 27, 2009 to Jul 27, 2022"
+    },
+    "score": 7.63,
+    "scored": 7.63,
+    "scored_by": 1616,
+    "rank": 2100,
+    "popularity": 3451,
+    "members": 6474,
+    "favorites": 114,
+    "synopsis": "Himawari-san is the current owner of an old bookstore, when a high school girl named Matsuri comes in and asks for a job. Their friendship begin from there.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6845,
+            "type": "people",
+            "name": "Sugano, Manami",
+            "url": "https://myanimelist.net/people/6845/Manami_Sugano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 137,
+            "type": "manga",
+            "name": "Comic Alive",
+            "url": "https://myanimelist.net/manga/magazine/137/Comic_Alive"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%81%95%E3%82%93"
+        }
+    ]
+}

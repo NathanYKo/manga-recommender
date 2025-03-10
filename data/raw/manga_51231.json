@@ -1,0 +1,105 @@
+{
+    "mal_id": 51231,
+    "url": "https://myanimelist.net/manga/51231/Hiren_Trip",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/99411.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/99411t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/99411l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/99411.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/99411t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/99411l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hiren Trip"
+        },
+        {
+            "type": "Japanese",
+            "title": "ヒレントリップ"
+        }
+    ],
+    "title": "Hiren Trip",
+    "title_english": null,
+    "title_japanese": "ヒレントリップ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-02-23T00:00:00+00:00",
+        "to": "2013-10-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 2,
+                "year": 2013
+            },
+            "to": {
+                "day": 24,
+                "month": 10,
+                "year": 2013
+            }
+        },
+        "string": "Feb 23, 2013 to Oct 24, 2013"
+    },
+    "score": 7.06,
+    "scored": 7.06,
+    "scored_by": 4426,
+    "rank": 8049,
+    "popularity": 2226,
+    "members": 9753,
+    "favorites": 26,
+    "synopsis": "Miyu, an ordinary new first-year student who hopes to become a mangaka meets the school's class president who seems to have a hidden side to him. While being pushed around by the cool but private class president, the curtain on Miyu's stormy school life is raised.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 18107,
+            "type": "people",
+            "name": "Anashin",
+            "url": "https://myanimelist.net/people/18107/Anashin"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 95,
+            "type": "manga",
+            "name": "Dessert",
+            "url": "https://myanimelist.net/manga/magazine/95/Dessert"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

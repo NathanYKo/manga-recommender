@@ -1,0 +1,153 @@
+{
+    "mal_id": 46258,
+    "url": "https://myanimelist.net/manga/46258/Flying_Witch",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/116515.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/116515t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/116515l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/116515.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/116515t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/116515l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Flying Witch"
+        },
+        {
+            "type": "Japanese",
+            "title": "ふらいんぐうぃっち"
+        },
+        {
+            "type": "English",
+            "title": "Flying Witch"
+        }
+    ],
+    "title": "Flying Witch",
+    "title_english": "Flying Witch",
+    "title_japanese": "ふらいんぐうぃっち",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2012-08-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 8,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 9, 2012 to ?"
+    },
+    "score": 7.87,
+    "scored": 7.87,
+    "scored_by": 4313,
+    "rank": 1088,
+    "popularity": 1070,
+    "members": 18867,
+    "favorites": 456,
+    "synopsis": "Makoto Kowata, a novice witch, packs up her belongings (including her black cat familiar) and moves in with her distant cousins in rural Aomori Prefecture, in the far north reaches of Japan, to complete her training and become a full-fledged witch.\n\n(Source: Kodansha USA)",
+    "background": "Flying Witch has been published in English by Kodansha USA under the Vertical Comics imprint since March 28, 2017.",
+    "authors": [
+        {
+            "mal_id": 11320,
+            "type": "people",
+            "name": "Ishizuka, Chihiro",
+            "url": "https://myanimelist.net/people/11320/Chihiro_Ishizuka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 450,
+            "type": "manga",
+            "name": "Bessatsu Shounen Magazine",
+            "url": "https://myanimelist.net/manga/magazine/450/Bessatsu_Shounen_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        },
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 31376,
+                    "type": "anime",
+                    "name": "Flying Witch",
+                    "url": "https://myanimelist.net/anime/31376/Flying_Witch"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 22589,
+                    "type": "manga",
+                    "name": "Flying☆Witch",
+                    "url": "https://myanimelist.net/manga/22589/Flying☆Witch"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/flying-witch/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%82%89%E3%81%84%E3%82%93%E3%81%90%E3%81%86%E3%81%83%E3%81%A3%E3%81%A1"
+        }
+    ]
+}

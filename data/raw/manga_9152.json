@@ -1,0 +1,160 @@
+{
+    "mal_id": 9152,
+    "url": "https://myanimelist.net/manga/9152/Thomas_no_Shinzou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/262219.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/262219t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/262219l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/262219.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/262219t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/262219l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Thomas no Shinzou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tooma no Shinzou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Thomas' Heart"
+        },
+        {
+            "type": "Japanese",
+            "title": "トーマの心臓"
+        },
+        {
+            "type": "English",
+            "title": "The Heart of Thomas"
+        }
+    ],
+    "title": "Thomas no Shinzou",
+    "title_english": "The Heart of Thomas",
+    "title_japanese": "トーマの心臓",
+    "title_synonyms": [
+        "Tooma no Shinzou",
+        "Thomas' Heart"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1974-05-01T00:00:00+00:00",
+        "to": "1974-11-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 5,
+                "year": 1974
+            },
+            "to": {
+                "day": 1,
+                "month": 11,
+                "year": 1974
+            }
+        },
+        "string": "May 1974 to Nov 1974"
+    },
+    "score": 7.85,
+    "scored": 7.85,
+    "scored_by": 1903,
+    "rank": 1173,
+    "popularity": 3711,
+    "members": 6086,
+    "favorites": 220,
+    "synopsis": "As winter draws to a close, German boarding school student Thomas Werner dies one morning. He leaves behind a single letter addressed to his fellow student Juli that reads \"Here is my love. Here is the sound of my heart.\"\n\nWith his faith shaken to the core by the words, the scholarly Juli sinks to the depths of despair. His cynical roommate Oscar finds himself watching over Juli's fragile mental state while keeping his own feelings for Juli under wraps. Then new student Eric enters the school - and he has an uncanny resemblance to the deceased Thomas...",
+    "background": "Thomas no Shinzou was published as The Heart of Thomas by Fantagraphics Books in one hardcover omnibus on January 18, 2013. The series was adapted into a 1988 live-action film and a 1995 stage production.",
+    "authors": [
+        {
+            "mal_id": 3052,
+            "type": "people",
+            "name": "Hagio, Moto",
+            "url": "https://myanimelist.net/people/3052/Moto_Hagio"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Sho-Comi",
+            "url": "https://myanimelist.net/manga/magazine/22/Sho-Comi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 9178,
+                    "type": "manga",
+                    "name": "Houmonsha",
+                    "url": "https://myanimelist.net/manga/9178/Houmonsha"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 9231,
+                    "type": "manga",
+                    "name": "11-gatsu no Gymnasium",
+                    "url": "https://myanimelist.net/manga/9231/11-gatsu_no_Gymnasium"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Heart_of_Thomas"
+        }
+    ]
+}

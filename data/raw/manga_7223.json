@@ -1,0 +1,167 @@
+{
+    "mal_id": 7223,
+    "url": "https://myanimelist.net/manga/7223/Bus_Gamer",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/160475.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/160475t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/160475l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/160475.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/160475t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/160475l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bus Gamer"
+        },
+        {
+            "type": "Japanese",
+            "title": "BUS GAMER"
+        },
+        {
+            "type": "English",
+            "title": "Bus Gamer"
+        }
+    ],
+    "title": "Bus Gamer",
+    "title_english": "Bus Gamer",
+    "title_japanese": "BUS GAMER",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 1,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "2006-03-09T00:00:00+00:00",
+        "to": "2009-04-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 3,
+                "year": 2006
+            },
+            "to": {
+                "day": 9,
+                "month": 4,
+                "year": 2009
+            }
+        },
+        "string": "Mar 9, 2006 to Apr 9, 2009"
+    },
+    "score": 7.09,
+    "scored": 7.09,
+    "scored_by": 557,
+    "rank": 7648,
+    "popularity": 8608,
+    "members": 2335,
+    "favorites": 11,
+    "synopsis": "This is a re-write of the original Bus Gamer manga.\n\nToki Mishiba, Nobuto Nakajo, and Kazuo Saitou are hired to play the Biz Game, a game much like capture the flag, only with company secrets and insane amounts of money involved. At first they think it's a crazy but fun way to get some money, but as the game goes on, they hear stories about mysterious deaths on the news, and recognize the victims as members of the teams they've beaten in the game. When one of the losers of a game dies right in front of them, they realize what is really at stake—their very lives!\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2182,
+            "type": "people",
+            "name": "Minekura, Kazuya",
+            "url": "https://myanimelist.net/people/2182/Kazuya_Minekura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 93,
+            "type": "manga",
+            "name": "Comic REX",
+            "url": "https://myanimelist.net/manga/magazine/93/Comic_REX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 59,
+            "type": "manga",
+            "name": "High Stakes Game",
+            "url": "https://myanimelist.net/manga/genre/59/High_Stakes_Game"
+        },
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3389,
+                    "type": "anime",
+                    "name": "Bus Gamer",
+                    "url": "https://myanimelist.net/anime/3389/Bus_Gamer"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 162,
+                    "type": "manga",
+                    "name": "Bus Gamer",
+                    "url": "https://myanimelist.net/manga/162/Bus_Gamer"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/BUS_GAMER"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "mal_id": 112116,
+    "url": "https://myanimelist.net/manga/112116/Monster_no_Goshujinsama",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/207163.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/207163t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/207163l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/207163.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/207163t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/207163l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Monster no Goshujinsama"
+        },
+        {
+            "type": "Synonym",
+            "title": "Master of Monsters"
+        },
+        {
+            "type": "Synonym",
+            "title": "Monster Tamer"
+        },
+        {
+            "type": "Japanese",
+            "title": "モンスターのご主人様"
+        }
+    ],
+    "title": "Monster no Goshujinsama",
+    "title_english": null,
+    "title_japanese": "モンスターのご主人様",
+    "title_synonyms": [
+        "Master of Monsters",
+        "Monster Tamer"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-10-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 27, 2017 to ?"
+    },
+    "score": 6.09,
+    "scored": 6.09,
+    "scored_by": 1764,
+    "rank": 19494,
+    "popularity": 3180,
+    "members": 7068,
+    "favorites": 2,
+    "synopsis": "Everyone in a certain high school is suddenly transported to another world. As they are attacked by monsters they find that some of the students now have superpowers. They organize themselves into two groups. Those without powers are called the Stay Home group and those with are called the Exploration group. On a day where most of the Exploration group is out, the remaining ones that stay behind start the slaughtering and raping of the Stay Home group.\n\nHere we meet our protagonist, an average guy with no abilities who had just barely escaped death at the hands of his schoolmates. He ends up far away in a cave on the verge of death, exhausted and wounded when a slime enters the cave and starts eating away at his hand...\n\n(Source: Batoto)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 47634,
+            "type": "people",
+            "name": "Higure, Minto",
+            "url": "https://myanimelist.net/people/47634/Minto_Higure"
+        },
+        {
+            "mal_id": 47636,
+            "type": "people",
+            "name": "Sakura, Souichirou",
+            "url": "https://myanimelist.net/people/47636/Souichirou_Sakura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 305,
+            "type": "manga",
+            "name": "Web Comic Action",
+            "url": "https://myanimelist.net/manga/magazine/305/Web_Comic_Action"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 103135,
+                    "type": "manga",
+                    "name": "Monster no Goshujinsama",
+                    "url": "https://myanimelist.net/manga/103135/Monster_no_Goshujinsama"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

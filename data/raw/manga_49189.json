@@ -1,0 +1,122 @@
+{
+    "mal_id": 49189,
+    "url": "https://myanimelist.net/manga/49189/Akaiito",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/87333.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/87333t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/87333l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/87333.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/87333t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/87333l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Akaiito"
+        },
+        {
+            "type": "Synonym",
+            "title": "Akai Ito"
+        },
+        {
+            "type": "Japanese",
+            "title": "あかいいと"
+        }
+    ],
+    "title": "Akaiito",
+    "title_english": null,
+    "title_japanese": "あかいいと",
+    "title_synonyms": [
+        "Akai Ito"
+    ],
+    "type": "Manga",
+    "chapters": 39,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-08-24T00:00:00+00:00",
+        "to": "2015-07-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 8,
+                "year": 2012
+            },
+            "to": {
+                "day": 24,
+                "month": 7,
+                "year": 2015
+            }
+        },
+        "string": "Aug 24, 2012 to Jul 24, 2015"
+    },
+    "score": 7.37,
+    "scored": 7.37,
+    "scored_by": 3285,
+    "rank": 4112,
+    "popularity": 2380,
+    "members": 9211,
+    "favorites": 49,
+    "synopsis": "Despite her beautiful looks, Chihiro Tachibana's brusque and upfront attitude gives her a strict reputation. However, even with her prickly exterior, she does harbor soft, romantic feelings for a member of the kendo club, which she manages alongside her best friend Rino Sakuragi.\n\nChihiro's ordinary days are forever changed when she meets a certain someone—the flirty and handsome Shou Hinase, who is a kendoist from another school. Though their relationship starts off rocky, they enter high school and discover that they are in the same class. This unlikely pair is bound together by the strings of fate; thus, their turbulent but exhilarating romance linked by a red thread begins.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2558,
+            "type": "people",
+            "name": "Miyasaka, Kaho",
+            "url": "https://myanimelist.net/people/2558/Kaho_Miyasaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 124,
+            "type": "manga",
+            "name": "Cheese!",
+            "url": "https://myanimelist.net/manga/magazine/124/Cheese"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 95578,
+                    "type": "manga",
+                    "name": "10-manbun no 1",
+                    "url": "https://myanimelist.net/manga/95578/10-manbun_no_1"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

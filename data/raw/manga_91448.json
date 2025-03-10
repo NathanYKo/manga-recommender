@@ -1,0 +1,125 @@
+{
+    "mal_id": 91448,
+    "url": "https://myanimelist.net/manga/91448/Yamete_kudasai_Mabushii_desu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/160702.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/160702t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/160702l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/160702.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/160702t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/160702l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yamete kudasai, Mabushii desu."
+        },
+        {
+            "type": "Synonym",
+            "title": "Please Stop"
+        },
+        {
+            "type": "Synonym",
+            "title": "You're Dazzling."
+        },
+        {
+            "type": "Japanese",
+            "title": "やめてください、まぶしいです。"
+        },
+        {
+            "type": "English",
+            "title": "Don't close, you are dazzling."
+        }
+    ],
+    "title": "Yamete kudasai, Mabushii desu.",
+    "title_english": "Don't close, you are dazzling.",
+    "title_japanese": "やめてください、まぶしいです。",
+    "title_synonyms": [
+        "Please Stop",
+        "You're Dazzling."
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-02-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 2,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 25, 2015"
+    },
+    "score": 7.4,
+    "scored": 7.4,
+    "scored_by": 2659,
+    "rank": 3784,
+    "popularity": 4050,
+    "members": 5562,
+    "favorites": 34,
+    "synopsis": "Glasses-wearing Sasano, raised by his two older sisters, has always been into girly things like shojo manga and soft toys. When he starts to develop a crush on a popular classmate named Koga, Sasano wonders if his affections for cute things relate to his romantic orientation.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 38565,
+            "type": "people",
+            "name": "Hiwatari, Haruki",
+            "url": "https://myanimelist.net/people/38565/Haruki_Hiwatari"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 553,
+            "type": "manga",
+            "name": "BLink",
+            "url": "https://myanimelist.net/manga/magazine/553/BLink"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 93929,
+                    "type": "manga",
+                    "name": "Yamete kudasai, Koishii desu.",
+                    "url": "https://myanimelist.net/manga/93929/Yamete_kudasai_Koishii_desu"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

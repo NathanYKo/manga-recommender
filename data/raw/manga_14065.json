@@ -1,0 +1,153 @@
+{
+    "mal_id": 14065,
+    "url": "https://myanimelist.net/manga/14065/Yumekui_Merry",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/20001.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/20001t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/20001l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/20001.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/20001t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/20001l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yumekui Merry"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dream Eater Merry"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yume Kui Merry"
+        },
+        {
+            "type": "Japanese",
+            "title": "夢喰いメリー"
+        }
+    ],
+    "title": "Yumekui Merry",
+    "title_english": null,
+    "title_japanese": "夢喰いメリー",
+    "title_synonyms": [
+        "Dream Eater Merry",
+        "Yume Kui Merry"
+    ],
+    "type": "Manga",
+    "chapters": 142,
+    "volumes": 24,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-03-24T00:00:00+00:00",
+        "to": "2020-11-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 3,
+                "year": 2008
+            },
+            "to": {
+                "day": 24,
+                "month": 11,
+                "year": 2020
+            }
+        },
+        "string": "Mar 24, 2008 to Nov 24, 2020"
+    },
+    "score": 7.77,
+    "scored": 7.77,
+    "scored_by": 4687,
+    "rank": 1466,
+    "popularity": 1277,
+    "members": 16128,
+    "favorites": 501,
+    "synopsis": "Ten years ago Fujiwara noticed he had a power to see multicolored auras surrounding people's bodies. Ever since then he's been having a weird dream about a war with cats. One day he meets a mysterious girl, that, after being picked on by crows and fallen from a tree, goes to search for her lost hat. Later that day, Fujiwara finds himself in a daydream, being attacked by the same cats he fights at night.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7706,
+            "type": "people",
+            "name": "Ushiki, Yoshitaka",
+            "url": "https://myanimelist.net/people/7706/Yoshitaka_Ushiki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 365,
+            "type": "manga",
+            "name": "Manga Time Kirara Forward",
+            "url": "https://myanimelist.net/manga/magazine/365/Manga_Time_Kirara_Forward"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9331,
+                    "type": "anime",
+                    "name": "Yumekui Merry",
+                    "url": "https://myanimelist.net/anime/9331/Yumekui_Merry"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 90965,
+                    "type": "manga",
+                    "name": "Kagefumi Merry",
+                    "url": "https://myanimelist.net/manga/90965/Kagefumi_Merry"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 25574,
+                    "type": "manga",
+                    "name": "Yumekui Merry 4-koma Anthology Comic",
+                    "url": "https://myanimelist.net/manga/25574/Yumekui_Merry_4-koma_Anthology_Comic"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%A4%A2%E5%96%B0%E3%81%84%E3%83%A1%E3%83%AA%E3%83%BC"
+        }
+    ]
+}

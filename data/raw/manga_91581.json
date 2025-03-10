@@ -1,0 +1,110 @@
+{
+    "mal_id": 91581,
+    "url": "https://myanimelist.net/manga/91581/Wakabaryou_de_Kimi_to",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/161100.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/161100t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/161100l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/161100.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/161100t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/161100l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Wakabaryou de, Kimi to"
+        },
+        {
+            "type": "Japanese",
+            "title": "若葉寮で、君と"
+        }
+    ],
+    "title": "Wakabaryou de, Kimi to",
+    "title_english": null,
+    "title_japanese": "若葉寮で、君と",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-02-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 2,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 14, 2015"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 2206,
+    "rank": 5030,
+    "popularity": 4979,
+    "members": 4407,
+    "favorites": 9,
+    "synopsis": "Higuchi is a student dorming at an all-boys school. He's at the age where he wants a girlfriend, but every time he gets one, he gets dumped soon after. The one to console him is his straight-laced roommate, Hidaka. However, once an underclassman from the track team, Kousaka, appears, how will their relationship change!?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 38583,
+            "type": "people",
+            "name": "Sakumoto, Ayu",
+            "url": "https://myanimelist.net/people/38583/Ayu_Sakumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1025,
+            "type": "manga",
+            "name": "B's-LOVEY recottia",
+            "url": "https://myanimelist.net/manga/magazine/1025/B_039_s-LOVEY_recottia"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 170666,
+                    "type": "manga",
+                    "name": "Kyou mo Ashita mo, Kimi to",
+                    "url": "https://myanimelist.net/manga/170666/Kyou_mo_Ashita_mo_Kimi_to"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

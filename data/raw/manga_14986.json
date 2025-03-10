@@ -1,0 +1,134 @@
+{
+    "mal_id": 14986,
+    "url": "https://myanimelist.net/manga/14986/Gantz_Minus",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/203694.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/203694t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/203694l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/203694.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/203694t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/203694l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gantz/Minus"
+        },
+        {
+            "type": "Japanese",
+            "title": "GANTZ/MINUS"
+        }
+    ],
+    "title": "Gantz/Minus",
+    "title_english": null,
+    "title_japanese": "GANTZ/MINUS",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-07-26T00:00:00+00:00",
+        "to": "2009-09-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 7,
+                "year": 2009
+            },
+            "to": {
+                "day": 18,
+                "month": 9,
+                "year": 2009
+            }
+        },
+        "string": "Jul 26, 2009 to Sep 18, 2009"
+    },
+    "score": 7.2,
+    "scored": 7.2,
+    "scored_by": 771,
+    "rank": 6078,
+    "popularity": 5495,
+    "members": 3959,
+    "favorites": 24,
+    "synopsis": "The story of Nishi and Izumi, before the events of GANTZ.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2718,
+            "type": "people",
+            "name": "Oku, Hiroya",
+            "url": "https://myanimelist.net/people/2718/Hiroya_Oku"
+        },
+        {
+            "mal_id": 2832,
+            "type": "people",
+            "name": "Kozaki, Yuusuke",
+            "url": "https://myanimelist.net/people/2832/Yuusuke_Kozaki"
+        },
+        {
+            "mal_id": 4853,
+            "type": "people",
+            "name": "Kusakabe, Masatoshi",
+            "url": "https://myanimelist.net/people/4853/Masatoshi_Kusakabe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 564,
+                    "type": "manga",
+                    "name": "Gantz",
+                    "url": "https://myanimelist.net/manga/564/Gantz"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

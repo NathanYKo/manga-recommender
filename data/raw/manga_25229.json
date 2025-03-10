@@ -1,0 +1,111 @@
+{
+    "mal_id": 25229,
+    "url": "https://myanimelist.net/manga/25229/Sugars",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/131015.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/131015t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/131015l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/131015.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/131015t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/131015l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sugars"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sweet Sweets Stories"
+        },
+        {
+            "type": "Japanese",
+            "title": "シュガーズ"
+        }
+    ],
+    "title": "Sugars",
+    "title_english": null,
+    "title_japanese": "シュガーズ",
+    "title_synonyms": [
+        "Sweet Sweets Stories"
+    ],
+    "type": "Manga",
+    "chapters": 34,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": "2011-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            }
+        },
+        "string": "2008 to 2011"
+    },
+    "score": 7.6,
+    "scored": 7.6,
+    "scored_by": 1544,
+    "rank": 2313,
+    "popularity": 4505,
+    "members": 4926,
+    "favorites": 34,
+    "synopsis": "A collection of short stories that revolve around a chain of people.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 12254,
+            "type": "people",
+            "name": "Yamamori, Mika",
+            "url": "https://myanimelist.net/people/12254/Mika_Yamamori"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Margaret",
+            "url": "https://myanimelist.net/manga/magazine/17/Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

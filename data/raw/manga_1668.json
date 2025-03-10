@@ -1,0 +1,148 @@
+{
+    "mal_id": 1668,
+    "url": "https://myanimelist.net/manga/1668/Black_Jack_ni_Yoroshiku",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/176844.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/176844t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/176844l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/176844.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/176844t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/176844l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Black Jack ni Yoroshiku"
+        },
+        {
+            "type": "Synonym",
+            "title": "Say Hello to Black Jack"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブラックジャックによろしく"
+        },
+        {
+            "type": "English",
+            "title": "Give My Regards to Black Jack"
+        }
+    ],
+    "title": "Black Jack ni Yoroshiku",
+    "title_english": "Give My Regards to Black Jack",
+    "title_japanese": "ブラックジャックによろしく",
+    "title_synonyms": [
+        "Say Hello to Black Jack"
+    ],
+    "type": "Manga",
+    "chapters": 127,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-01-01T00:00:00+00:00",
+        "to": "2006-01-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": 26,
+                "month": 1,
+                "year": 2006
+            }
+        },
+        "string": "Jan 2002 to Jan 26, 2006"
+    },
+    "score": 7.94,
+    "scored": 7.94,
+    "scored_by": 1581,
+    "rank": 900,
+    "popularity": 3634,
+    "members": 6194,
+    "favorites": 129,
+    "synopsis": "Saitou Eijirou is a newly established intern doctor, who is forced to take on a second night job at another, much smaller hospital because of the extremely low pay he receives. As he bounces between the two different hospitals, he is forced to dig deeper and deeper into Japan's largely corrupted medical society and starts to question even his own initial beliefs, as he asks himself just what being a doctor means.\n\n(Source: ANN)",
+    "background": "In 2002, Black Jack ni Yoroshiku received Award of Excellence in manga category at the 6th Japan Media Arts Festival. Black Jack ni Yoroshiku was published digitally in English as Give My Regards To Black Jack by Digital Manga Guild from June 30 to August 15, 2013.",
+    "authors": [
+        {
+            "mal_id": 3139,
+            "type": "people",
+            "name": "Sato, Shuho",
+            "url": "https://myanimelist.net/people/3139/Shuho_Sato"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Morning",
+            "url": "https://myanimelist.net/manga/magazine/72/Morning"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 67,
+            "type": "manga",
+            "name": "Medical",
+            "url": "https://myanimelist.net/manga/genre/67/Medical"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 20894,
+                    "type": "manga",
+                    "name": "Shin Black Jack ni Yoroshiku",
+                    "url": "https://myanimelist.net/manga/20894/Shin_Black_Jack_ni_Yoroshiku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%81%AB%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Say_Hello_to_Black_Jack"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "mal_id": 119282,
+    "url": "https://myanimelist.net/manga/119282/NHK_ni_Youkoso",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/248549.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/248549t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/248549l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/248549.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/248549t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/248549l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "NHK ni Youkoso!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Welcome to the NHK"
+        },
+        {
+            "type": "Japanese",
+            "title": "NHKにようこそ!"
+        },
+        {
+            "type": "English",
+            "title": "Welcome to the N.H.K."
+        }
+    ],
+    "title": "NHK ni Youkoso!",
+    "title_english": "Welcome to the N.H.K.",
+    "title_japanese": "NHKにようこそ!",
+    "title_synonyms": [
+        "Welcome to the NHK"
+    ],
+    "type": "Novel",
+    "chapters": 12,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-01-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 28, 2002"
+    },
+    "score": 8.31,
+    "scored": 8.31,
+    "scored_by": 1800,
+    "rank": 300,
+    "popularity": 3784,
+    "members": 5949,
+    "favorites": 274,
+    "synopsis": "Tatsuhiro Satou, a university dropout entering his fourth year of unemployment. He leads a reclusive life as a hikikomori, ultimately coming to the bizarre conclusion that this happened due to some sort of conspiracy. One day just when his life seems entirely unchanging, he meets Misaki Nakahara, a mysterious girl who claims to be able to cure Tatsuhiro of his hikikomori ways. She presents him with a contract basically outlining that once a day they would meet in the evening in a local park where Misaki would lecture to Tatsuhiro in an effort to rid him of his lifestyle. During these outings, many subjects are discussed, though they almost always pertain in some way to psychology or psychoanalysis.",
+    "background": "NHK ni Youkoso! began as a web novel serialized on Boiled Eggs Online from January 29, 2001 to April 16, 2001, and was published in print by Kadokawa on January 28, 2002. The series was published in English as Welcome to the N.H.K. by Tokyopop on October 9, 2007, and in Italian by Edizioni BD under the J-Pop Romanzi imprint on November 17, 2011.",
+    "authors": [
+        {
+            "mal_id": 2429,
+            "type": "people",
+            "name": "Takimoto, Tatsuhiko",
+            "url": "https://myanimelist.net/people/2429/Tatsuhiko_Takimoto"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 463,
+                    "type": "manga",
+                    "name": "NHK ni Youkoso!",
+                    "url": "https://myanimelist.net/manga/463/NHK_ni_Youkoso"
+                },
+                {
+                    "mal_id": 1210,
+                    "type": "anime",
+                    "name": "NHK ni Youkoso!",
+                    "url": "https://myanimelist.net/anime/1210/NHK_ni_Youkoso"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/NHK%E3%81%AB%E3%82%88%E3%81%86%E3%81%93%E3%81%9D!"
+        }
+    ]
+}

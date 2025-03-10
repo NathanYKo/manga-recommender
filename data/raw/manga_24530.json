@@ -1,0 +1,116 @@
+{
+    "mal_id": 24530,
+    "url": "https://myanimelist.net/manga/24530/Gantz_no_Moto__Oku_Hiroya_to_SF_Eiga_Monogatari",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/39512.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/39512t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/39512l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/39512.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/39512t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/39512l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gantz no Moto: Oku Hiroya to SF Eiga Monogatari"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gantz Origins: Oku Hiroya and SF Movie Stories"
+        },
+        {
+            "type": "Japanese",
+            "title": "GANTZの素 -奥浩哉とSF映画物語-"
+        }
+    ],
+    "title": "Gantz no Moto: Oku Hiroya to SF Eiga Monogatari",
+    "title_english": null,
+    "title_japanese": "GANTZの素 -奥浩哉とSF映画物語-",
+    "title_synonyms": [
+        "Gantz Origins: Oku Hiroya and SF Movie Stories"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 2011"
+    },
+    "score": 6.08,
+    "scored": 6.08,
+    "scored_by": 1659,
+    "rank": 19535,
+    "popularity": 6242,
+    "members": 3427,
+    "favorites": 9,
+    "synopsis": "Oku Hiroya tells in this manga what inspired him to draw GANTZ, and his love of Sci-Fi movies.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2718,
+            "type": "people",
+            "name": "Oku, Hiroya",
+            "url": "https://myanimelist.net/people/2718/Hiroya_Oku"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 691,
+            "type": "manga",
+            "name": "Miracle Jump",
+            "url": "https://myanimelist.net/manga/magazine/691/Miracle_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 564,
+                    "type": "manga",
+                    "name": "Gantz",
+                    "url": "https://myanimelist.net/manga/564/Gantz"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

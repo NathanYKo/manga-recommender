@@ -1,0 +1,120 @@
+{
+    "mal_id": 70815,
+    "url": "https://myanimelist.net/manga/70815/Death_Note__L_FILE_No_15",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/121579.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/121579t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/121579l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/121579.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/121579t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/121579l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Death Note: L FILE No. 15"
+        },
+        {
+            "type": "Synonym",
+            "title": "L: The Wammy's House"
+        },
+        {
+            "type": "Synonym",
+            "title": "L: Day One"
+        },
+        {
+            "type": "Japanese",
+            "title": "L FILE No. 15"
+        }
+    ],
+    "title": "Death Note: L FILE No. 15",
+    "title_english": null,
+    "title_japanese": "L FILE No. 15",
+    "title_synonyms": [
+        "L: The Wammy's House",
+        "L: Day One"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 25, 2008"
+    },
+    "score": 6.9,
+    "scored": 6.9,
+    "scored_by": 2861,
+    "rank": 10648,
+    "popularity": 3026,
+    "members": 7409,
+    "favorites": 34,
+    "synopsis": "To the wider world, L is a renowned detective, famed for his high success rate and genius intellect. Awe surrounds this figure, but despite people's admiration, L is human much like everyone else. Giving a rare glimpse into the detective's life, Death Note: L FILE No. 15 details L's origin at the Wammy's House orphanage, and outlines what a typical day looks like for the detective.\n\n[Written by MAL Rewrite]",
+    "background": "Death Note: L FILE No. 15 is a book that was released alongside the film L: Change the WorLd.",
+    "authors": [
+        {
+            "mal_id": 1888,
+            "type": "people",
+            "name": "Obata, Takeshi",
+            "url": "https://myanimelist.net/people/1888/Takeshi_Obata"
+        },
+        {
+            "mal_id": 2111,
+            "type": "people",
+            "name": "Ohba, Tsugumi",
+            "url": "https://myanimelist.net/people/2111/Tsugumi_Ohba"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 21,
+                    "type": "manga",
+                    "name": "Death Note",
+                    "url": "https://myanimelist.net/manga/21/Death_Note"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

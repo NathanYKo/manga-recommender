@@ -1,0 +1,119 @@
+{
+    "mal_id": 100249,
+    "url": "https://myanimelist.net/manga/100249/Hatsukoi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/202524.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/202524t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/202524l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/202524.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/202524t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/202524l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hatsukoi"
+        },
+        {
+            "type": "Synonym",
+            "title": "First Love"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yorimichi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Detour"
+        },
+        {
+            "type": "Japanese",
+            "title": "初恋"
+        }
+    ],
+    "title": "Hatsukoi",
+    "title_english": null,
+    "title_japanese": "初恋",
+    "title_synonyms": [
+        "First Love",
+        "Yorimichi",
+        "Detour"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-07-22T00:00:00+00:00",
+        "to": "2017-07-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 22,
+                "month": 7,
+                "year": 2017
+            }
+        },
+        "string": "Jul 22, 2016 to Jul 22, 2017"
+    },
+    "score": 7.67,
+    "scored": 7.67,
+    "scored_by": 2494,
+    "rank": 1901,
+    "popularity": 4180,
+    "members": 5382,
+    "favorites": 48,
+    "synopsis": "Yuusa Hirono always believed he was special and destined for greatness...until tragedy struck in his final year of middle school. Now, jaded and disillusioned, he's completely given up on ever trying to be anything more than ordinary. But when he starts to notice classmate Ichigo Himekawa struggling to do his best against all odds, he can't help but want to cheer him on.\n\n(Source: September Scanlations)\n\nIncluded one-shot: Yorimichi (Detour)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 39920,
+            "type": "people",
+            "name": "Kazuki, Rai",
+            "url": "https://myanimelist.net/people/39920/Rai_Kazuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 159,
+            "type": "manga",
+            "name": "RuTile",
+            "url": "https://myanimelist.net/manga/magazine/159/RuTile"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 143809,
+                    "type": "manga",
+                    "name": "Hatsukoi dj - Hatsu Yoru",
+                    "url": "https://myanimelist.net/manga/143809/Hatsukoi_dj_-_Hatsu_Yoru"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

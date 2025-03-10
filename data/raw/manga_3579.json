@@ -1,0 +1,172 @@
+{
+    "mal_id": 3579,
+    "url": "https://myanimelist.net/manga/3579/Mashounen_BT",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/131177.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/131177t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/131177l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/131177.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/131177t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/131177l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mashounen B.T."
+        },
+        {
+            "type": "Japanese",
+            "title": "魔少年ビーティー"
+        },
+        {
+            "type": "English",
+            "title": "Cool Shock B.T."
+        }
+    ],
+    "title": "Mashounen B.T.",
+    "title_english": "Cool Shock B.T.",
+    "title_japanese": "魔少年ビーティー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1983-09-20T00:00:00+00:00",
+        "to": "1983-11-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 9,
+                "year": 1983
+            },
+            "to": {
+                "day": 22,
+                "month": 11,
+                "year": 1983
+            }
+        },
+        "string": "Sep 20, 1983 to Nov 22, 1983"
+    },
+    "score": 6.14,
+    "scored": 6.14,
+    "scored_by": 1418,
+    "rank": 19335,
+    "popularity": 7208,
+    "members": 2898,
+    "favorites": 16,
+    "synopsis": "The creator of Baoh and JoJo no Kimyou na Bouken presents a manga about magic and mysteries! You'll meet him at 13:13 pm, on Friday the 13th. He'll do an uncanny intro where he plays a trick on you! And wherever he goes, trouble seems to always follow. Who is this person who creates such incidents? None other than Cool Shock BT!\n\n(Source: Project Bite Me! Scanlations)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2619,
+            "type": "people",
+            "name": "Araki, Hirohiko",
+            "url": "https://myanimelist.net/people/2619/Hirohiko_Araki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 179057,
+                    "type": "manga",
+                    "name": "Makouseinen B.T.: \"Busou Smoker\" Jiken",
+                    "url": "https://myanimelist.net/manga/179057/Makouseinen_BT__Busou_Smoker_Jiken"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 169040,
+                    "type": "manga",
+                    "name": "Mashounen B.T.",
+                    "url": "https://myanimelist.net/manga/169040/Mashounen_BT"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 3580,
+                    "type": "manga",
+                    "name": "Gorgeous☆Irene",
+                    "url": "https://myanimelist.net/manga/3580/Gorgeous☆Irene"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%AD%94%E5%B0%91%E5%B9%B4%E3%83%93%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC"
+        }
+    ]
+}

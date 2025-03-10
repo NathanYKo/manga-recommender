@@ -1,0 +1,125 @@
+{
+    "mal_id": 32975,
+    "url": "https://myanimelist.net/manga/32975/Bouken_Elektriciteit-tou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/65313.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/65313t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/65313l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/65313.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/65313t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/65313l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bouken Elektriciteit-tou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bouken Erekitetou"
+        },
+        {
+            "type": "Japanese",
+            "title": "冒険エレキテ島"
+        },
+        {
+            "type": "English",
+            "title": "Wandering Island"
+        }
+    ],
+    "title": "Bouken Elektriciteit-tou",
+    "title_english": "Wandering Island",
+    "title_japanese": "冒険エレキテ島",
+    "title_synonyms": [
+        "Bouken Erekitetou"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2010-07-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 13, 2010 to ?"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 1271,
+    "rank": 3654,
+    "popularity": 3001,
+    "members": 7487,
+    "favorites": 49,
+    "synopsis": "After her grandfather's death, Mikura chose to continue their island express courier service. With her seaplane and her adventurous cat, Endeavor, she lives life as she chooses.\n\nSoon, Mikura becomes very interested in a mysterious island that seems to move around, according to local legend. After some extensive effort to determine the island's whereabouts, she manages to get a brief glimpse of it from the sky. Now that she knows it's real, she's determined to find the island again, no matter what it takes!\n\n(Source: MangaHelpers)",
+    "background": "Bouken Elektriciteit-tou has been published in English as Wandering Island by Dark Horse Comics since July 26, 2016.",
+    "authors": [
+        {
+            "mal_id": 1931,
+            "type": "people",
+            "name": "Tsuruta, Kenji",
+            "url": "https://myanimelist.net/people/1931/Kenji_Tsuruta"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 169471,
+                    "type": "manga",
+                    "name": "Sora wa Sekai no Hitotsu Yane",
+                    "url": "https://myanimelist.net/manga/169471/Sora_wa_Sekai_no_Hitotsu_Yane"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://afternoon.moae.jp/lineup/237"
+        }
+    ]
+}

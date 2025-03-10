@@ -1,0 +1,150 @@
+{
+    "mal_id": 16061,
+    "url": "https://myanimelist.net/manga/16061/NightS",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/263650.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/263650t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/263650l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/263650.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/263650t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/263650l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "NightS"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kanjou Spectrum"
+        },
+        {
+            "type": "Synonym",
+            "title": "Reply"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Spectrum of Emotions"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sankagetsu Go no Reply"
+        },
+        {
+            "type": "Synonym",
+            "title": "Night one month after"
+        },
+        {
+            "type": "Japanese",
+            "title": "NightS"
+        },
+        {
+            "type": "English",
+            "title": "NightS"
+        }
+    ],
+    "title": "NightS",
+    "title_english": "NightS",
+    "title_japanese": "NightS",
+    "title_synonyms": [
+        "Kanjou Spectrum",
+        "Reply",
+        "A Spectrum of Emotions",
+        "Sankagetsu Go no Reply",
+        "Night one month after"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-07-01T00:00:00+00:00",
+        "to": "2012-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 2008
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            }
+        },
+        "string": "Jul 2008 to 2012"
+    },
+    "score": 7.77,
+    "scored": 7.77,
+    "scored_by": 4737,
+    "rank": null,
+    "popularity": 2369,
+    "members": 9239,
+    "favorites": 59,
+    "synopsis": "1. NightS\n2. Kanjou Spectrum\n3-4. Reply\n5. Sankagetsu Go no Reply\n6. Night one month after",
+    "background": "NightS was published in English by SuBLime on January 14, 2014 and in Polish by Kotori in May 2015.",
+    "authors": [
+        {
+            "mal_id": 6257,
+            "type": "people",
+            "name": "Yoneda, Kou",
+            "url": "https://myanimelist.net/people/6257/Kou_Yoneda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 126,
+            "type": "manga",
+            "name": "Magazine Be x Boy",
+            "url": "https://myanimelist.net/manga/magazine/126/Magazine_Be_x_Boy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 54625,
+                    "type": "manga",
+                    "name": "Aru Yoru.",
+                    "url": "https://myanimelist.net/manga/54625/Aru_Yoru"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.libre-pub.co.jp/nights/"
+        }
+    ]
+}

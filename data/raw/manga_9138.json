@@ -1,0 +1,126 @@
+{
+    "mal_id": 9138,
+    "url": "https://myanimelist.net/manga/9138/Sekishoku_Elegy",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180926.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180926t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180926l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180926.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180926t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180926l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sekishoku Elegy"
+        },
+        {
+            "type": "Synonym",
+            "title": "Akairo Elegy"
+        },
+        {
+            "type": "Japanese",
+            "title": "赤色エレジー"
+        },
+        {
+            "type": "English",
+            "title": "Red Colored Elegy"
+        }
+    ],
+    "title": "Sekishoku Elegy",
+    "title_english": "Red Colored Elegy",
+    "title_japanese": "赤色エレジー",
+    "title_synonyms": [
+        "Akairo Elegy"
+    ],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1969-11-22T00:00:00+00:00",
+        "to": "1970-11-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 11,
+                "year": 1969
+            },
+            "to": {
+                "day": 24,
+                "month": 11,
+                "year": 1970
+            }
+        },
+        "string": "Nov 22, 1969 to Nov 24, 1970"
+    },
+    "score": 7.24,
+    "scored": 7.24,
+    "scored_by": 1013,
+    "rank": 5583,
+    "popularity": 5160,
+    "members": 4223,
+    "favorites": 106,
+    "synopsis": "Seiichi Hayashi produced Sekishoku Elegy between 1969 and 1970, in the aftermath of a politically turbulent and culturally vibrant decade that promised but failed to deliver new possibilities. With a combination of sparse line work and visual codes borrowed from animation and film, the quiet melancholy lives of a young couple struggling to make ends meet are beautifully captured in this poetic masterpiece.\n\nUninvolved with the political movements of the time, Ichirou and Sachiko hope for something better, but they're no revolutionaries; their spare time is spent drinking, smoking, daydreaming, and sleeping—together and at times with others. While Ichirou attempts to make a living from his comics, Sachiko's parents are eager to arrange a marriage for her, but Ichirou doesn't seem interested. Both in their relationship and at work, Ichirou and Sachiko are unable to say the things they need to say, and like any couple, at times say things to each other that they do not mean, ultimately communicating as much with their body language and what remains unsaid as with words.\n\n(Source: Drawn and Quaterly)",
+    "background": "Sekishoku Elegy was published in English as Red Colored Elegy by Drawn and Quarterly on July 22, 2008.",
+    "authors": [
+        {
+            "mal_id": 5926,
+            "type": "people",
+            "name": "Hayashi, Seiichi",
+            "url": "https://myanimelist.net/people/5926/Seiichi_Hayashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 250,
+            "type": "manga",
+            "name": "Garo",
+            "url": "https://myanimelist.net/manga/magazine/250/Garo"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 6268,
+                    "type": "anime",
+                    "name": "Sekishoku Elegy",
+                    "url": "https://myanimelist.net/anime/6268/Sekishoku_Elegy"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

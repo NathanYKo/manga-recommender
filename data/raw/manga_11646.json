@@ -1,0 +1,136 @@
+{
+    "mal_id": 11646,
+    "url": "https://myanimelist.net/manga/11646/Kirai_ja_Nai_kedo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/137691.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/137691t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/137691l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/137691.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/137691t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/137691l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kirai ja Nai kedo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kirai ja Naikedo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kiraijya Naikedo"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Don't Dislike You"
+        },
+        {
+            "type": "Japanese",
+            "title": "嫌いじゃないけど"
+        }
+    ],
+    "title": "Kirai ja Nai kedo",
+    "title_english": null,
+    "title_japanese": "嫌いじゃないけど",
+    "title_synonyms": [
+        "Kirai ja Naikedo",
+        "Kiraijya Naikedo",
+        "I Don't Dislike You"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-07-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 7,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 29, 2008"
+    },
+    "score": 7.92,
+    "scored": 7.92,
+    "scored_by": 4935,
+    "rank": null,
+    "popularity": 2327,
+    "members": 9388,
+    "favorites": 71,
+    "synopsis": "Yukimura is the formidable VP of the student body. However, he has a past which he doesn't want to be discovered. The only person who knows about his secret is his childhood friend, Shinonome, the number-one problem student in the school! How far would Yukimura go to silence Shinonome!?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3272,
+            "type": "people",
+            "name": "Sakuraga, Mei",
+            "url": "https://myanimelist.net/people/3272/Mei_Sakuraga"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 2214,
+                    "type": "manga",
+                    "name": "Warui Koto Shitai",
+                    "url": "https://myanimelist.net/manga/2214/Warui_Koto_Shitai"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 17890,
+                    "type": "manga",
+                    "name": "Koi ja Nai kedo",
+                    "url": "https://myanimelist.net/manga/17890/Koi_ja_Nai_kedo"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

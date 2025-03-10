@@ -1,0 +1,120 @@
+{
+    "mal_id": 69415,
+    "url": "https://myanimelist.net/manga/69415/Fairy_Tail_",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/118931.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/118931t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/118931l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/118931.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/118931t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/118931l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fairy Tail+"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail Plus"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Megane"
+        },
+        {
+            "type": "Japanese",
+            "title": "FAIRY TAIL+"
+        }
+    ],
+    "title": "Fairy Tail+",
+    "title_english": null,
+    "title_japanese": "FAIRY TAIL+",
+    "title_synonyms": [
+        "Fairy Tail Plus",
+        "Fairy Megane"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-05-17T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 5,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 17, 2010"
+    },
+    "score": 7.16,
+    "scored": 7.16,
+    "scored_by": 1745,
+    "rank": 6694,
+    "popularity": 4344,
+    "members": 5148,
+    "favorites": 25,
+    "synopsis": "This artbook contains 3 side stories that were not included in the main volumes.\n\n1. Mira-sensei no Henshin Mahou Lesson (Mira-Sensei's Transforming Magic Class)\n2. Yousei no Izumi e Youkoso! (Welcome to Fairy Fountain)\n3. Nagagutsu wo Haita Happy (Happy in Boots)\n\nAlso contains \"Fairy Megane\" (crossover one-shot between \"Fairy Tail\" and \"Yankee-kun to Megane-chan\").\n\n\nNote: Chapter count is 3 and does not include Fairy Megane. Please don't change it.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1882,
+            "type": "people",
+            "name": "Mashima, Hiro",
+            "url": "https://myanimelist.net/people/1882/Hiro_Mashima"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 598,
+                    "type": "manga",
+                    "name": "Fairy Tail",
+                    "url": "https://myanimelist.net/manga/598/Fairy_Tail"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

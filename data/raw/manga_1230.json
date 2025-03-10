@@ -1,0 +1,131 @@
+{
+    "mal_id": 1230,
+    "url": "https://myanimelist.net/manga/1230/Tokyo_Akazukin",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/255705.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/255705t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/255705l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/255705.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/255705t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/255705l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tokyo Akazukin"
+        },
+        {
+            "type": "Synonym",
+            "title": "Toukyou Akazukin"
+        },
+        {
+            "type": "Japanese",
+            "title": "東京赤ずきん"
+        },
+        {
+            "type": "English",
+            "title": "Tokyo Red Hood"
+        }
+    ],
+    "title": "Tokyo Akazukin",
+    "title_english": "Tokyo Red Hood",
+    "title_japanese": "東京赤ずきん",
+    "title_synonyms": [
+        "Toukyou Akazukin"
+    ],
+    "type": "Manga",
+    "chapters": 27,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-07-15T00:00:00+00:00",
+        "to": "2006-08-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 7,
+                "year": 2003
+            },
+            "to": {
+                "day": 30,
+                "month": 8,
+                "year": 2006
+            }
+        },
+        "string": "Jul 15, 2003 to Aug 30, 2006"
+    },
+    "score": 6.39,
+    "scored": 6.39,
+    "scored_by": 4262,
+    "rank": 17746,
+    "popularity": 1875,
+    "members": 11565,
+    "favorites": 191,
+    "synopsis": "Tokyo Akazukin is about an 11-year-old girl who usually just goes by the name of Akazukin (Little Red Riding Hood). She has a sick obsession with a being known only as Mr. Wolf, and wants nothing more than to be eaten by him to end her \"immortal\" life. Akazukin has lost all of her memories and doesn't even know who she really is. Her reason to want to be eaten by Mr. Wolf is not even known to her, instead it's a desire that is locked deep within her consciousness.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2892,
+            "type": "people",
+            "name": "Tamaoki, Benkyou",
+            "url": "https://myanimelist.net/people/2892/Benkyou_Tamaoki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 91,
+            "type": "manga",
+            "name": "Comic Birz",
+            "url": "https://myanimelist.net/manga/magazine/91/Comic_Birz"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E8%B5%A4%E3%81%9A%E3%81%8D%E3%82%93"
+        }
+    ]
+}

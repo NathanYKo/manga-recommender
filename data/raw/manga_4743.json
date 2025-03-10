@@ -1,0 +1,94 @@
+{
+    "mal_id": 4743,
+    "url": "https://myanimelist.net/manga/4743/Die",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/11775.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/11775t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/11775l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/11775.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/11775t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/11775l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Die"
+        }
+    ],
+    "title": "Die",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [],
+    "type": "Doujinshi",
+    "chapters": null,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1995-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1995
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1995"
+    },
+    "score": 6.51,
+    "scored": 6.51,
+    "scored_by": 2456,
+    "rank": 16420,
+    "popularity": 5000,
+    "members": 4389,
+    "favorites": 12,
+    "synopsis": "A young man reads the suicide note from his deceased sister...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2039,
+            "type": "people",
+            "name": "Yuki, Kaori",
+            "url": "https://myanimelist.net/people/2039/Kaori_Yuki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

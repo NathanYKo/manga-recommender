@@ -1,0 +1,177 @@
+{
+    "mal_id": 2214,
+    "url": "https://myanimelist.net/manga/2214/Warui_Koto_Shitai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/186969.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/186969t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/186969l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/186969.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/186969t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/186969l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Warui Koto Shitai"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Want To Be Naughty!"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Want To Bully You"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Want Your Attention"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Can't Resist You"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sono Te ni wa Kanawanai"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Love His Light"
+        },
+        {
+            "type": "Synonym",
+            "title": "I'm No Match Against Those Hands"
+        },
+        {
+            "type": "Japanese",
+            "title": "ワルイコトシタイ"
+        },
+        {
+            "type": "English",
+            "title": "I Want to Be Naughty"
+        }
+    ],
+    "title": "Warui Koto Shitai",
+    "title_english": "I Want to Be Naughty",
+    "title_japanese": "ワルイコトシタイ",
+    "title_synonyms": [
+        "I Want To Be Naughty!",
+        "I Want To Bully You",
+        "I Want Your Attention",
+        "I Can't Resist You",
+        "Sono Te ni wa Kanawanai",
+        "I Love His Light",
+        "I'm No Match Against Those Hands"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-08-12T00:00:00+00:00",
+        "to": "2006-09-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 8,
+                "year": 2004
+            },
+            "to": {
+                "day": 14,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Aug 12, 2004 to Sep 14, 2006"
+    },
+    "score": 7.59,
+    "scored": 7.59,
+    "scored_by": 5553,
+    "rank": null,
+    "popularity": 2040,
+    "members": 10525,
+    "favorites": 85,
+    "synopsis": "1-3. Warui Koto Shitai\n4. Sonogo no Warui Koto\n5. Kamatte Hoshi no (I Want Your Attention)\n6. Sono Te ni wa Kanawanai (I'm No Match Against Those Hands)\n7. Boku wa Hikari wo Aisu (I Love His Light)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3272,
+            "type": "people",
+            "name": "Sakuraga, Mei",
+            "url": "https://myanimelist.net/people/3272/Mei_Sakuraga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 17862,
+                    "type": "manga",
+                    "name": "Warui Ko Demo Ii?",
+                    "url": "https://myanimelist.net/manga/17862/Warui_Ko_Demo_Ii"
+                },
+                {
+                    "mal_id": 11646,
+                    "type": "manga",
+                    "name": "Kirai ja Nai kedo",
+                    "url": "https://myanimelist.net/manga/11646/Kirai_ja_Nai_kedo"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 87937,
+                    "type": "manga",
+                    "name": "Aikawa-ke no Kontontaru Mirai",
+                    "url": "https://myanimelist.net/manga/87937/Aikawa-ke_no_Kontontaru_Mirai"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 17892,
+                    "type": "manga",
+                    "name": "Mujihi na Otoko",
+                    "url": "https://myanimelist.net/manga/17892/Mujihi_na_Otoko"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

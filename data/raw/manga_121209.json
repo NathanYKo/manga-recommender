@@ -1,0 +1,156 @@
+{
+    "mal_id": 121209,
+    "url": "https://myanimelist.net/manga/121209/Houkago_Shounen_Hanako-kun",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/222371.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/222371t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/222371l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/222371.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/222371t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/222371l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Houkago Shounen Hanako-kun"
+        },
+        {
+            "type": "Japanese",
+            "title": "放課後少年花子くん"
+        },
+        {
+            "type": "English",
+            "title": "After-School Hanako-kun"
+        }
+    ],
+    "title": "Houkago Shounen Hanako-kun",
+    "title_english": "After-School Hanako-kun",
+    "title_japanese": "放課後少年花子くん",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2018-02-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 2,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 22, 2018 to ?"
+    },
+    "score": 8.05,
+    "scored": 8.05,
+    "scored_by": 2405,
+    "rank": 674,
+    "popularity": 2824,
+    "members": 7921,
+    "favorites": 157,
+    "synopsis": "The ghostly Hanako-kun and his mortal assistant, Nene Yashiro, usually have their hands full resolving various supernatural incidents in Kamome Academy, but how do they spend their time when they get a break from all that? Come and watch the characters of Toilet-bound Hanako-kun play games, get sick, change genders, and discover world-shaking secrets during their laid-back after-school hours!\n\n(Source: Yen Press)",
+    "background": "Houkago Shounen Hanako-kun has been published in English as After-School Hanako-kun by Yen Press since April 27, 2021.",
+    "authors": [
+        {
+            "mal_id": 21071,
+            "type": "people",
+            "name": "Aida, Iro",
+            "url": "https://myanimelist.net/people/21071/Iro_Aida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1556,
+            "type": "manga",
+            "name": "PFantapy",
+            "url": "https://myanimelist.net/manga/magazine/1556/PFantapy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 56425,
+                    "type": "anime",
+                    "name": "Houkago Shounen Hanako-kun",
+                    "url": "https://myanimelist.net/anime/56425/Houkago_Shounen_Hanako-kun"
+                },
+                {
+                    "mal_id": 57102,
+                    "type": "anime",
+                    "name": "Houkago Shounen Hanako-kun Part 2",
+                    "url": "https://myanimelist.net/anime/57102/Houkago_Shounen_Hanako-kun_Part_2"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 105084,
+                    "type": "manga",
+                    "name": "Jibaku Shounen Hanako-kun",
+                    "url": "https://myanimelist.net/manga/105084/Jibaku_Shounen_Hanako-kun"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.pixiv.net/works/4488"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Toilet-Bound_Hanako-kun"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%B8%9B%E5%B0%91%E5%B9%B4%E8%8A%B1%E5%AD%90%E3%81%8F%E3%82%93"
+        }
+    ]
+}

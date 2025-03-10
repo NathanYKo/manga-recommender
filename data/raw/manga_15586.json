@@ -1,0 +1,132 @@
+{
+    "mal_id": 15586,
+    "url": "https://myanimelist.net/manga/15586/Vampire_Crisis",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/22713.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/22713t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/22713l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/22713.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/22713t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/22713l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Vampire Crisis"
+        },
+        {
+            "type": "Synonym",
+            "title": "Vampire Emotion"
+        },
+        {
+            "type": "Synonym",
+            "title": "100 no Inori to 1 no Negai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimi ja Nakya Dame nan desu!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "10-nengoshi no Angel"
+        },
+        {
+            "type": "Japanese",
+            "title": "バンパイア クライシス"
+        }
+    ],
+    "title": "Vampire Crisis",
+    "title_english": null,
+    "title_japanese": "バンパイア クライシス",
+    "title_synonyms": [
+        "Vampire Emotion",
+        "100 no Inori to 1 no Negai",
+        "Kimi ja Nakya Dame nan desu!!",
+        "10-nengoshi no Angel"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-05-15T00:00:00+00:00",
+        "to": "2009-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 5,
+                "year": 2006
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            }
+        },
+        "string": "May 15, 2006 to 2009"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 1693,
+    "rank": 8571,
+    "popularity": 6784,
+    "members": 3125,
+    "favorites": 8,
+    "synopsis": "1. Vampire Crisis\n2. Vampire Emotion\n3. 100 no Inori to 1 no Negai\n4. Kimi ja Nakya Dame nan desu!!\n5. 10-nengoshi no Angel",
+    "background": "Vampire Crisis was released in Spanish by Editorial Ivrea on March 26, 2010.",
+    "authors": [
+        {
+            "mal_id": 3895,
+            "type": "people",
+            "name": "Ibuki, Kaede",
+            "url": "https://myanimelist.net/people/3895/Kaede_Ibuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 433,
+            "type": "manga",
+            "name": "Mobile Flower",
+            "url": "https://myanimelist.net/manga/magazine/433/Mobile_Flower"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

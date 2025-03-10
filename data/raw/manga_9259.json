@@ -1,0 +1,127 @@
+{
+    "mal_id": 9259,
+    "url": "https://myanimelist.net/manga/9259/School_Rumble_Z",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/22036.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/22036t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/22036l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/22036.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/22036t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/22036l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "School Rumble Z"
+        },
+        {
+            "type": "Synonym",
+            "title": "School Rumble 2"
+        },
+        {
+            "type": "Japanese",
+            "title": "スクールランブル Z"
+        }
+    ],
+    "title": "School Rumble Z",
+    "title_english": null,
+    "title_japanese": "スクールランブル Z",
+    "title_synonyms": [
+        "School Rumble 2"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-08-20T00:00:00+00:00",
+        "to": "2009-05-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 8,
+                "year": 2008
+            },
+            "to": {
+                "day": 20,
+                "month": 5,
+                "year": 2009
+            }
+        },
+        "string": "Aug 20, 2008 to May 20, 2009"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 4665,
+    "rank": 5193,
+    "popularity": 2833,
+    "members": 7896,
+    "favorites": 127,
+    "synopsis": "A collection of comedic short stories that focus on a single male lead. Many of the characters in these stories look the same as the characters from school rumble, although every short story is very different, and these characters take on a number of very different roles.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2135,
+            "type": "people",
+            "name": "Kobayashi, Jin",
+            "url": "https://myanimelist.net/people/2135/Jin_Kobayashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 128,
+            "type": "manga",
+            "name": "Magazine Special",
+            "url": "https://myanimelist.net/manga/magazine/128/Magazine_Special"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 160,
+                    "type": "manga",
+                    "name": "School Rumble",
+                    "url": "https://myanimelist.net/manga/160/School_Rumble"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/School_rumble#Manga"
+        }
+    ]
+}

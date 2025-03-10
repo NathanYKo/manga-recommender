@@ -1,0 +1,155 @@
+{
+    "mal_id": 17311,
+    "url": "https://myanimelist.net/manga/17311/Code_Geass__Shikkoku_no_Renya",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/118883.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/118883t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/118883l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/118883.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/118883t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/118883l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Code Geass: Shikkoku no Renya"
+        },
+        {
+            "type": "Synonym",
+            "title": "Code Geass: Renya of the Darkness"
+        },
+        {
+            "type": "Synonym",
+            "title": "Code Geass: Renya of the Blackness"
+        },
+        {
+            "type": "Japanese",
+            "title": "コードギアス 漆黒の蓮夜"
+        }
+    ],
+    "title": "Code Geass: Shikkoku no Renya",
+    "title_english": null,
+    "title_japanese": "コードギアス 漆黒の蓮夜",
+    "title_synonyms": [
+        "Code Geass: Renya of the Darkness",
+        "Code Geass: Renya of the Blackness"
+    ],
+    "type": "Manga",
+    "chapters": 40,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-05-26T00:00:00+00:00",
+        "to": "2013-09-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 2010
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "May 26, 2010 to Sep 26, 2013"
+    },
+    "score": 6.79,
+    "scored": 6.79,
+    "scored_by": 2445,
+    "rank": 12348,
+    "popularity": 3007,
+    "members": 7477,
+    "favorites": 48,
+    "synopsis": "The story takes place in the same official Code Geass history as the anime, but in a different era. The title character, Renya, is a 17-year-old boy with a mechanical left arm and shuriken throwing stars as his weapons of choice. The story begins when Renya encounters a mysterious, perpetually young witch named \"Reifū C.C.\" C.C. has appeared in Japan's historical Edo era to seek a new partner for a covenant. Meanwhile, a mysterious man, with a striking resemblance to the character Lelouch of the original anime, also appears with unknown intentions.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3066,
+            "type": "people",
+            "name": "Taniguchi, Gorou",
+            "url": "https://myanimelist.net/people/3066/Gorou_Taniguchi"
+        },
+        {
+            "mal_id": 3075,
+            "type": "people",
+            "name": "Takuma, Tomomasa",
+            "url": "https://myanimelist.net/people/3075/Tomomasa_Takuma"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1528,
+                    "type": "manga",
+                    "name": "Code Geass: Hangyaku no Lelouch",
+                    "url": "https://myanimelist.net/manga/1528/Code_Geass__Hangyaku_no_Lelouch"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.geass.jp/renya/index.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%AE%E3%82%A2%E3%82%B9_%E6%BC%86%E9%BB%92%E3%81%AE%E8%93%AE%E5%A4%9C"
+        }
+    ]
+}

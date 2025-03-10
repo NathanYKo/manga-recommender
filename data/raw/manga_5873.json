@@ -1,0 +1,114 @@
+{
+    "mal_id": 5873,
+    "url": "https://myanimelist.net/manga/5873/Full_Moon_Joker",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/29703.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/29703t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/29703l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/29703.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/29703t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/29703l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Full Moon Joker"
+        },
+        {
+            "type": "Synonym",
+            "title": "Furu Muun Joker"
+        },
+        {
+            "type": "Japanese",
+            "title": "フルムーンジョーカー"
+        },
+        {
+            "type": "English",
+            "title": "Full Moon Joker"
+        }
+    ],
+    "title": "Full Moon Joker",
+    "title_english": "Full Moon Joker",
+    "title_japanese": "フルムーンジョーカー",
+    "title_synonyms": [
+        "Furu Muun Joker"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2008 to ?"
+    },
+    "score": 7.24,
+    "scored": 7.24,
+    "scored_by": 2225,
+    "rank": 5578,
+    "popularity": 5057,
+    "members": 4336,
+    "favorites": 23,
+    "synopsis": "Yukihara Mutsuki has a strange ability: the ability to understand peoples' feelings. However, usually she acts like a normal girl who is looking for love. One day, Mutsuki meets a boy who sat beside her on a train. Could this be the fateful encounter she was looking for?\n\n(Source: Shoujo Crusade)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3355,
+            "type": "people",
+            "name": "Takamiya, Satoru",
+            "url": "https://myanimelist.net/people/3355/Satoru_Takamiya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 170,
+            "type": "manga",
+            "name": "ChuChu",
+            "url": "https://myanimelist.net/manga/magazine/170/ChuChu"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

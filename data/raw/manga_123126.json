@@ -1,0 +1,115 @@
+{
+    "mal_id": 123126,
+    "url": "https://myanimelist.net/manga/123126/By_Spring",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/234164.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/234164t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/234164l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/234164.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/234164t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/234164l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "By Spring"
+        },
+        {
+            "type": "Japanese",
+            "title": "バイ・スプリング"
+        }
+    ],
+    "title": "By Spring",
+    "title_english": null,
+    "title_japanese": "バイ・スプリング",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 23,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-10-25T00:00:00+00:00",
+        "to": "2020-11-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 10,
+                "year": 2019
+            },
+            "to": {
+                "day": 27,
+                "month": 11,
+                "year": 2020
+            }
+        },
+        "string": "Oct 25, 2019 to Nov 27, 2020"
+    },
+    "score": 6.63,
+    "scored": 6.63,
+    "scored_by": 3339,
+    "rank": 14713,
+    "popularity": 3584,
+    "members": 6280,
+    "favorites": 60,
+    "synopsis": "Souta, a penniless, phoneless, destitute middle schooler, met a high school girl with a stray cat underneath a bridge. The girl laughed at his minuscule remaining change, and made a surprising proposal with \"For this 24 yen of yours, I'll let you buy me,\" and then...!?\n\n(Source: MangaDex)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 49073,
+            "type": "people",
+            "name": "Hayashi, Maki",
+            "url": "https://myanimelist.net/people/49073/Maki_Hayashi"
+        },
+        {
+            "mal_id": 50030,
+            "type": "people",
+            "name": "Yuzuki, Ei",
+            "url": "https://myanimelist.net/people/50030/Ei_Yuzuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 264,
+            "type": "manga",
+            "name": "Big Comic Superior",
+            "url": "https://myanimelist.net/manga/magazine/264/Big_Comic_Superior"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://bigcomicbros.net/comic/byspring/"
+        }
+    ]
+}

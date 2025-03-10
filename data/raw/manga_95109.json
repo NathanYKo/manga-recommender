@@ -1,0 +1,130 @@
+{
+    "mal_id": 95109,
+    "url": "https://myanimelist.net/manga/95109/7th",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/169375.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/169375t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/169375l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/169375.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/169375t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/169375l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "7th"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sevens"
+        },
+        {
+            "type": "Japanese",
+            "title": "セブンス"
+        },
+        {
+            "type": "English",
+            "title": "Seventh"
+        }
+    ],
+    "title": "7th",
+    "title_english": "Seventh",
+    "title_japanese": "セブンス",
+    "title_synonyms": [
+        "Sevens"
+    ],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-12-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 12,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 28, 2015 to ?"
+    },
+    "score": 7.79,
+    "scored": 7.79,
+    "scored_by": 710,
+    "rank": 1355,
+    "popularity": 6634,
+    "members": 3202,
+    "favorites": 83,
+    "synopsis": "In a world of swords and magic, where the Goddess is revered, Lyell Walt was fortunate enough to be born the first son and heir to an earldom. That is, until his parents disown him for losing pitifully in a fight with his younger sister, Ceres. Lyell had once been hailed as a prodigy—a wonder child—but the birth of his sister changed everything. After Ceres wounds him in their duel, an enigmatic old man swoops in to rescue Lyell and bestows upon him a necklace containing a jewel that has been blessed by the goddesses and passed down through the last seven generations of Walt leaders. As Lyell sets out, necklace in hand, will he be able to prove himself despite his humiliating loss to his sister? And moreover, will he be able to solve the mystery behind Ceres's monstrous strength and the strange sway she seems to hold over his entire family?\n\n(Source: J-Novel Club)",
+    "background": "7th has been published digitally in English as Seventh by J-Novel Club since since October 7, 2022.",
+    "authors": [
+        {
+            "mal_id": 4582,
+            "type": "people",
+            "name": "Tomozo",
+            "url": "https://myanimelist.net/people/4582/Tomozo"
+        },
+        {
+            "mal_id": 39774,
+            "type": "people",
+            "name": "Mishima, Yomu",
+            "url": "https://myanimelist.net/people/39774/Yomu_Mishima"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 170671,
+                    "type": "manga",
+                    "name": "7th",
+                    "url": "https://myanimelist.net/manga/170671/7th"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

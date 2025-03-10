@@ -1,0 +1,136 @@
+{
+    "mal_id": 1735,
+    "url": "https://myanimelist.net/manga/1735/Detroit_Metal_City",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/207424.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/207424t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/207424l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/207424.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/207424t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/207424l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Detroit Metal City"
+        },
+        {
+            "type": "Japanese",
+            "title": "デトロイト・メタル・シティ"
+        },
+        {
+            "type": "English",
+            "title": "DMC: Detroit Metal City"
+        }
+    ],
+    "title": "Detroit Metal City",
+    "title_english": "DMC: Detroit Metal City",
+    "title_japanese": "デトロイト・メタル・シティ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 114,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-04-22T00:00:00+00:00",
+        "to": "2010-04-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 23,
+                "month": 4,
+                "year": 2010
+            }
+        },
+        "string": "Apr 22, 2005 to Apr 23, 2010"
+    },
+    "score": 8.01,
+    "scored": 8.01,
+    "scored_by": 6143,
+    "rank": 753,
+    "popularity": 1316,
+    "members": 15758,
+    "favorites": 447,
+    "synopsis": "Souichi Negishi is a common boy, timid, quiet. He loves flowers, walking and musical hits like the ones that radios play. But he is also Krauzer II, leader of Detroy Metal City (DMC), the most popular underground metal band of Japan! Souichi would like to change his life and start to play Swedish pop songs with peaceful and loving lyrics instead of the violent and vulgar ones of DMC, but when he is playing with his band he completely changes his attitude and behavior...",
+    "background": "Detroit Metal City was published in English by VIZ Media under the VIZ Signature imprint from June 9, 2009 to September 13, 2011.",
+    "authors": [
+        {
+            "mal_id": 3157,
+            "type": "people",
+            "name": "Wakasugi, Kiminori",
+            "url": "https://myanimelist.net/people/3157/Kiminori_Wakasugi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Young Animal",
+            "url": "https://myanimelist.net/manga/magazine/2/Young_Animal"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        },
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3702,
+                    "type": "anime",
+                    "name": "Detroit Metal City",
+                    "url": "https://myanimelist.net/anime/3702/Detroit_Metal_City"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.younganimal.com/dmc/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%88%E3%83%AD%E3%82%A4%E3%83%88%E3%83%BB%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%86%E3%82%A3"
+        }
+    ]
+}

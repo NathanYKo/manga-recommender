@@ -1,0 +1,142 @@
+{
+    "mal_id": 60881,
+    "url": "https://myanimelist.net/manga/60881/Hamatora_The_Comic",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/133589.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/133589t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/133589l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/133589.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/133589t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/133589l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hamatora The Comic"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハマトラ THE COMIC"
+        }
+    ],
+    "title": "Hamatora The Comic",
+    "title_english": null,
+    "title_japanese": "ハマトラ THE COMIC",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 20,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-11-21T00:00:00+00:00",
+        "to": "2014-12-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 11,
+                "year": 2013
+            },
+            "to": {
+                "day": 11,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Nov 21, 2013 to Dec 11, 2014"
+    },
+    "score": 7.33,
+    "scored": 7.33,
+    "scored_by": 1557,
+    "rank": 4545,
+    "popularity": 4216,
+    "members": 5316,
+    "favorites": 48,
+    "synopsis": "In this world, there are people known as \"Minimum Holders\" who are capable of specific \"small miracles.\" A government funded elite academy trains these Minimum Holders in order for them to reach their maximum potential and serve national interests. Once, a student, of great potential named Nice, dropped out. He started a private investigator team with an assistant named Hajime and seemed content solving cases for his clients (which often involve Minimum Holders). A top student of the academy, Murasaki, has been tasked with bringing Nice back. Murasaki bristles at the claim that Nice has a higher potential than he does, but he ends up involved in Nice's detective activities...\n\n(Source: MangaHelpers)",
+    "background": "Hamatora, short for \"Yokohama Troubleshooter,\" is a mixed-media project which was inspired by superhero comics from Marvel and DC. The project began with a manga series, which was followed by a TV anime series. The franchise also contains a stage play, a novel, and a video game adaptation for the Nintendo 3DS.",
+    "authors": [
+        {
+            "mal_id": 11214,
+            "type": "people",
+            "name": "Kodama, Yuuki",
+            "url": "https://myanimelist.net/people/11214/Yuuki_Kodama"
+        },
+        {
+            "mal_id": 26633,
+            "type": "people",
+            "name": "Kitajima, Yukinori",
+            "url": "https://myanimelist.net/people/26633/Yukinori_Kitajima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 20689,
+                    "type": "anime",
+                    "name": "Hamatora The Animation",
+                    "url": "https://myanimelist.net/anime/20689/Hamatora_The_Animation"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 112960,
+                    "type": "manga",
+                    "name": "Hamatora: The Novel",
+                    "url": "https://myanimelist.net/manga/112960/Hamatora__The_Novel"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://youngjump.jp/manga/hamatora/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%83%88%E3%83%A9_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
+        }
+    ]
+}

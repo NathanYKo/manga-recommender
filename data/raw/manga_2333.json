@@ -1,0 +1,139 @@
+{
+    "mal_id": 2333,
+    "url": "https://myanimelist.net/manga/2333/Rurouni_Kenshin__Yahiko_no_Sakabatou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/5666.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/5666t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/5666l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/5666.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/5666t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/5666l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rurouni Kenshin: Yahiko no Sakabatou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rurouni Kenshin: Yahiko's Sakabatou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rurouni Kenshin: Yahiko's Reversed-Edge Sword"
+        },
+        {
+            "type": "Japanese",
+            "title": "るろうに剣心 弥彦の逆刃刀"
+        }
+    ],
+    "title": "Rurouni Kenshin: Yahiko no Sakabatou",
+    "title_english": null,
+    "title_japanese": "るろうに剣心 弥彦の逆刃刀",
+    "title_synonyms": [
+        "Rurouni Kenshin: Yahiko's Sakabatou",
+        "Rurouni Kenshin: Yahiko's Reversed-Edge Sword"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-12-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 12,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 21, 1999"
+    },
+    "score": 7.5,
+    "scored": 7.5,
+    "scored_by": 4144,
+    "rank": 2952,
+    "popularity": 3045,
+    "members": 7359,
+    "favorites": 32,
+    "synopsis": "It's been a few years after Kenshin gave Yahiko his sakabato. Kaoru sends Yahiko off to another dojo to look after the master's daughter while he's away. But when Yahiko arrives, the place has been already taken over by extremists and Yahiko is taken hostage as well. Now it's up to him to save the day.",
+    "background": "Rurouni Kenshin: Yahiko no Sakabatou was published in Brazilian Portuguese by Editora JBC in July 2004.",
+    "authors": [
+        {
+            "mal_id": 1890,
+            "type": "people",
+            "name": "Watsuki, Nobuhiro",
+            "url": "https://myanimelist.net/people/1890/Nobuhiro_Watsuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+                    "url": "https://myanimelist.net/manga/22/Rurouni_Kenshin__Meiji_Kenkaku_Romantan"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 9271,
+                    "type": "manga",
+                    "name": "Rurouni Kenshin: Haru ni Sakura",
+                    "url": "https://myanimelist.net/manga/9271/Rurouni_Kenshin__Haru_ni_Sakura"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

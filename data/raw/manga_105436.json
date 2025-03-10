@@ -1,0 +1,109 @@
+{
+    "mal_id": 105436,
+    "url": "https://myanimelist.net/manga/105436/Mado_kara_Madoka-chan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/196588.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/196588t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/196588l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/196588.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/196588t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/196588l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mado kara Madoka-chan"
+        },
+        {
+            "type": "Japanese",
+            "title": "まどからマドカちゃん"
+        }
+    ],
+    "title": "Mado kara Madoka-chan",
+    "title_english": null,
+    "title_japanese": "まどからマドカちゃん",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 75,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-03-16T00:00:00+00:00",
+        "to": "2018-10-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 3,
+                "year": 2017
+            },
+            "to": {
+                "day": 11,
+                "month": 10,
+                "year": 2018
+            }
+        },
+        "string": "Mar 16, 2017 to Oct 11, 2018"
+    },
+    "score": 7.28,
+    "scored": 7.28,
+    "scored_by": 1697,
+    "rank": 5048,
+    "popularity": 4907,
+    "members": 4478,
+    "favorites": 36,
+    "synopsis": "The mostly quiet Madoka-chan likes to hang out at her window, where some salary man tends to pass by, leading to Madoka doing all kinds of activities.\n\n(Souce: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 44592,
+            "type": "people",
+            "name": "Fukuda, Yasuhiro",
+            "url": "https://myanimelist.net/people/44592/Yasuhiro_Fukuda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Morning",
+            "url": "https://myanimelist.net/manga/magazine/72/Morning"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://morning.moae.jp/lineup/774"
+        }
+    ]
+}

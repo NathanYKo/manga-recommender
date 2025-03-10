@@ -1,0 +1,123 @@
+{
+    "mal_id": 99982,
+    "url": "https://myanimelist.net/manga/99982/Hanazamurai_no_Sahara",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186433.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186433t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186433l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186433.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186433t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186433l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hanazamurai no Sahara"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sahara the Flower Samurai"
+        },
+        {
+            "type": "Japanese",
+            "title": "花侍のサハラ"
+        }
+    ],
+    "title": "Hanazamurai no Sahara",
+    "title_english": null,
+    "title_japanese": "花侍のサハラ",
+    "title_synonyms": [
+        "Sahara the Flower Samurai"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-07-20T00:00:00+00:00",
+        "to": "2016-10-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 20,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "Jul 20, 2016 to Oct 20, 2016"
+    },
+    "score": 7.02,
+    "scored": 7.02,
+    "scored_by": 1715,
+    "rank": 8698,
+    "popularity": 6473,
+    "members": 3290,
+    "favorites": 20,
+    "synopsis": "The world was devastated after Great war. All kinds of plants became very rare and there are giants humanoid machines wandering through wastelands. Sahara is a mysterious samurai wielding flower sword who travels to find place which will be able to return the world back to how it was.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 12002,
+            "type": "people",
+            "name": "Shibata, Yuusaku",
+            "url": "https://myanimelist.net/people/12002/Yuusaku_Shibata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1366,
+            "type": "manga",
+            "name": "Jump GIGA",
+            "url": "https://myanimelist.net/manga/magazine/1366/Jump_GIGA"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Samurai",
+            "url": "https://myanimelist.net/manga/genre/21/Samurai"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

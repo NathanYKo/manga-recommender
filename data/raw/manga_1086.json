@@ -1,0 +1,164 @@
+{
+    "mal_id": 1086,
+    "url": "https://myanimelist.net/manga/1086/Nagasarete_Airantou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/51755.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/51755t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/51755l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/51755.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/51755t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/51755l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nagasarete Airantou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Cast Away... Airan Island"
+        },
+        {
+            "type": "Japanese",
+            "title": "ながされて藍蘭島"
+        }
+    ],
+    "title": "Nagasarete Airantou",
+    "title_english": null,
+    "title_japanese": "ながされて藍蘭島",
+    "title_synonyms": [
+        "Cast Away... Airan Island"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2001-12-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 12,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 12, 2001 to ?"
+    },
+    "score": 7.55,
+    "scored": 7.55,
+    "scored_by": 3086,
+    "rank": 2609,
+    "popularity": 2407,
+    "members": 9110,
+    "favorites": 185,
+    "synopsis": "Ikuto Touhouin is a 14-year-old boy, who had a fight with his father and ran away from home. He later boards a ship overseas, but a huge storm hits and sinks the ship. After spending a week drifting in the ocean, he arrives in an island, with the only exception that all the people there act like people from the Meiji era, and that they are all actually females! The girls were unable to come into contact with other people, let alone males, as there were whirlpools surrounding the island, making it impossible to leave. Now that these love-starved women finally come into contact with a male, what will happen now?\n\n(Source: ANN, edited)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6883,
+            "type": "people",
+            "name": "Fujishiro, Takeshi",
+            "url": "https://myanimelist.net/people/6883/Takeshi_Fujishiro"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Shounen Gangan",
+            "url": "https://myanimelist.net/manga/magazine/13/Shounen_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1722,
+                    "type": "anime",
+                    "name": "Nagasarete Airantou",
+                    "url": "https://myanimelist.net/anime/1722/Nagasarete_Airantou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%8C%E3%81%95%E3%82%8C%E3%81%A6%E8%97%8D%E8%98%AD%E5%B3%B6"
+        }
+    ]
+}

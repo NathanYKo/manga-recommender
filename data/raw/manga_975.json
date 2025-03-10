@@ -1,0 +1,162 @@
+{
+    "mal_id": 975,
+    "url": "https://myanimelist.net/manga/975/Ludwig_Kakumei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/198404.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/198404t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/198404l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/198404.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/198404t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/198404l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ludwig Kakumei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ludwig Revolution"
+        },
+        {
+            "type": "Japanese",
+            "title": "ルードヴィッヒ革命"
+        }
+    ],
+    "title": "Ludwig Kakumei",
+    "title_english": null,
+    "title_japanese": "ルードヴィッヒ革命",
+    "title_synonyms": [
+        "Ludwig Revolution"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-11-01T00:00:00+00:00",
+        "to": "2007-07-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 11,
+                "year": 1998
+            },
+            "to": {
+                "day": 26,
+                "month": 7,
+                "year": 2007
+            }
+        },
+        "string": "Nov 1998 to Jul 26, 2007"
+    },
+    "score": 7.93,
+    "scored": 7.93,
+    "scored_by": 5370,
+    "rank": 907,
+    "popularity": 1645,
+    "members": 13108,
+    "favorites": 396,
+    "synopsis": "In this grim and realistic take on classic fairy tales, Prince Ludwig, a female corpse collector, is ordered by his father to find himself a wife more suitable than the women he often brings into the castle. Along with his servant Wilhelm, they travel across the land in search of fair maidens from classic stories in hopes of finding Ludwig a wife.\n\n(Source: Aerandria Scans)",
+    "background": "Ludwig Kakumei was published in Polish by J.P Fantastica from April 25, 2014 to April 13, 2015.",
+    "authors": [
+        {
+            "mal_id": 2039,
+            "type": "people",
+            "name": "Yuki, Kaori",
+            "url": "https://myanimelist.net/people/2039/Kaori_Yuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 176,
+            "type": "manga",
+            "name": "Bessatsu Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/176/Bessatsu_Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 50845,
+                    "type": "manga",
+                    "name": "Ludwig Gensoukyoku",
+                    "url": "https://myanimelist.net/manga/50845/Ludwig_Gensoukyoku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ludwig_Kakumei"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%89%E3%83%B4%E3%82%A3%E3%83%83%E3%83%92%E9%9D%A9%E5%91%BD"
+        }
+    ]
+}

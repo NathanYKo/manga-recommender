@@ -1,0 +1,119 @@
+{
+    "mal_id": 18114,
+    "url": "https://myanimelist.net/manga/18114/Shinigami_Alice",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/38581.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/38581t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/38581l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/38581.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/38581t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/38581l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shinigami Alice"
+        },
+        {
+            "type": "Synonym",
+            "title": "Death Spirit Alice"
+        },
+        {
+            "type": "Japanese",
+            "title": "死神アリス"
+        },
+        {
+            "type": "English",
+            "title": "Alice in Death World"
+        }
+    ],
+    "title": "Shinigami Alice",
+    "title_english": "Alice in Death World",
+    "title_japanese": "死神アリス",
+    "title_synonyms": [
+        "Death Spirit Alice"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-06-18T00:00:00+00:00",
+        "to": "2010-09-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 6,
+                "year": 2007
+            },
+            "to": {
+                "day": 18,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Jun 18, 2007 to Sep 18, 2010"
+    },
+    "score": 6.9,
+    "scored": 6.9,
+    "scored_by": 1216,
+    "rank": 10564,
+    "popularity": 7036,
+    "members": 2985,
+    "favorites": 22,
+    "synopsis": "Returning home late in the evening, Kanogawa Masaki is attacked by a murderer! Just in time to save her, a cute doll-like girl with deadly scissors kills the attacker, with the explanation that she is just doing her job. Unfortunately, part of this strange girl's job is also killing any witnesses. For reasons unknown, she allows Masaki to run away. Now Masaki can't stop thinking about her, and about finding a way to see her again...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9836,
+            "type": "people",
+            "name": "Tokitsukaze, Otoha",
+            "url": "https://myanimelist.net/people/9836/Otoha_Tokitsukaze"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 417,
+            "type": "manga",
+            "name": "Comic Yuri Hime S",
+            "url": "https://myanimelist.net/manga/magazine/417/Comic_Yuri_Hime_S"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 13770,
+                    "type": "manga",
+                    "name": "Shinigami Alice",
+                    "url": "https://myanimelist.net/manga/13770/Shinigami_Alice"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

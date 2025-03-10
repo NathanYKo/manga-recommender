@@ -1,0 +1,152 @@
+{
+    "mal_id": 143425,
+    "url": "https://myanimelist.net/manga/143425/Hikikomari_Kyuuketsuki_no_Monmon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/263063.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/263063t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/263063l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/263063.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/263063t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/263063l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hikikomari Kyuuketsuki no Monmon"
+        },
+        {
+            "type": "Japanese",
+            "title": "ひきこまり吸血姫の悶々"
+        },
+        {
+            "type": "English",
+            "title": "The Vexations of a Shut-in Vampire Princess"
+        }
+    ],
+    "title": "Hikikomari Kyuuketsuki no Monmon",
+    "title_english": "The Vexations of a Shut-in Vampire Princess",
+    "title_japanese": "ひきこまり吸血姫の悶々",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2021-12-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 12,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 25, 2021 to ?"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 504,
+    "rank": 5275,
+    "popularity": 7989,
+    "members": 2558,
+    "favorites": 29,
+    "synopsis": "Three years into her life as a shut-in, vampire Terakomari Gandesblood (Komari for short), awakens to find she's been appointed as a commander in the Mulnite Imperial Army! The thing is, her new unit consists solely of belligerent ruffians who revolt against their superiors at the slightest hint of weakness. Although Komari hails from a line of vampires as powerful as they are prestigious, her refusal to drink blood has made her the picture of mediocrity—scrawny, un-coordinated, and inept at magic. With the odds stacked against her, will the help of her trusty (and slightly infatuated) maid Vill be enough for this recluse to blunder her way to success? Or will Komari rue the day she ever left the safety of her room?\n\n(Source: Yen Press)",
+    "background": "Hikikomari Kyuuketsuki no Monmon has been published digitally in English as The Vexations of a Shut-in Vampire Princess by Square Enix through Manga UP! and through Comikey since November 2, 2023.",
+    "authors": [
+        {
+            "mal_id": 28399,
+            "type": "people",
+            "name": "Riichu",
+            "url": "https://myanimelist.net/people/28399/Riichu"
+        },
+        {
+            "mal_id": 54898,
+            "type": "people",
+            "name": "Kobayashi, Kotei",
+            "url": "https://myanimelist.net/people/54898/Kotei_Kobayashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 705,
+            "type": "manga",
+            "name": "Big Gangan",
+            "url": "https://myanimelist.net/manga/magazine/705/Big_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 138763,
+                    "type": "manga",
+                    "name": "Hikikomari Kyuuketsuki no Monmon",
+                    "url": "https://myanimelist.net/manga/138763/Hikikomari_Kyuuketsuki_no_Monmon"
+                },
+                {
+                    "mal_id": 54103,
+                    "type": "anime",
+                    "name": "Hikikomari Kyuuketsuki no Monmon",
+                    "url": "https://myanimelist.net/anime/54103/Hikikomari_Kyuuketsuki_no_Monmon"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.jp.square-enix.com/biggangan/introduction/hikikomari/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Vexations_of_a_Shut-In_Vampire_Princess"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%8D%E3%81%93%E3%81%BE%E3%82%8A%E5%90%B8%E8%A1%80%E5%A7%AB%E3%81%AE%E6%82%B6%E3%80%85"
+        }
+    ]
+}

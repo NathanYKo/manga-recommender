@@ -1,0 +1,116 @@
+{
+    "mal_id": 118497,
+    "url": "https://myanimelist.net/manga/118497/Killing_Me_Killing_You",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/234628.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/234628t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/234628l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/234628.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/234628t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/234628l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Killing Me/Killing You"
+        },
+        {
+            "type": "Japanese",
+            "title": "KILLING ME / KILLING YOU"
+        }
+    ],
+    "title": "Killing Me/Killing You",
+    "title_english": null,
+    "title_japanese": "KILLING ME / KILLING YOU",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 23,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-09-25T00:00:00+00:00",
+        "to": "2023-08-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 9,
+                "year": 2017
+            },
+            "to": {
+                "day": 28,
+                "month": 8,
+                "year": 2023
+            }
+        },
+        "string": "Sep 25, 2017 to Aug 28, 2023"
+    },
+    "score": 7.64,
+    "scored": 7.64,
+    "scored_by": 903,
+    "rank": 2077,
+    "popularity": 5801,
+    "members": 3717,
+    "favorites": 69,
+    "synopsis": "Ever since a meteorite fell, the world has become strange. Two young immortals, Mithia and Youthanasia, are traveling through this crazy world in hopes of finding a way to die.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 37830,
+            "type": "people",
+            "name": "Narita, Imomushi",
+            "url": "https://myanimelist.net/people/37830/Imomushi_Narita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1426,
+            "type": "manga",
+            "name": "Dragon Age Extra",
+            "url": "https://myanimelist.net/manga/magazine/1426/Dragon_Age_Extra"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 52824,
+                    "type": "anime",
+                    "name": "Killing Me/Killing You PVs",
+                    "url": "https://myanimelist.net/anime/52824/Killing_Me_Killing_You_PVs"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

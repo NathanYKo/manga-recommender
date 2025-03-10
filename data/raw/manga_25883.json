@@ -1,0 +1,151 @@
+{
+    "mal_id": 25883,
+    "url": "https://myanimelist.net/manga/25883/Boku_wa_Tomodachi_ga_Sukunai_",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/64267.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/64267t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/64267l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/64267.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/64267t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/64267l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boku wa Tomodachi ga Sukunai+"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Don't Have Many Friends +"
+        },
+        {
+            "type": "Synonym",
+            "title": "Boku wa Tomodachi ga Sukunai Plus"
+        },
+        {
+            "type": "Japanese",
+            "title": "僕は友達が少ない+"
+        }
+    ],
+    "title": "Boku wa Tomodachi ga Sukunai+",
+    "title_english": null,
+    "title_japanese": "僕は友達が少ない+",
+    "title_synonyms": [
+        "I Don't Have Many Friends +",
+        "Boku wa Tomodachi ga Sukunai Plus"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-11-19T00:00:00+00:00",
+        "to": "2012-06-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 11,
+                "year": 2010
+            },
+            "to": {
+                "day": 19,
+                "month": 6,
+                "year": 2012
+            }
+        },
+        "string": "Nov 19, 2010 to Jun 19, 2012"
+    },
+    "score": 7.12,
+    "scored": 7.12,
+    "scored_by": 1578,
+    "rank": 7235,
+    "popularity": 5349,
+    "members": 4071,
+    "favorites": 18,
+    "synopsis": "A \"what if\" alternative version of the original story, on which the cast gets acquainted in a different manner.\nThe basic premise is that Kodaka, a rude looking and easily misunderstood transfer student catches a glimpse from a conversation between Sena (the most popular girl on school) and \"her friend\" Renka (a character from a visual novel); after a short discussion followed, Sena decides to give it a try and make some friends with Kodaka's help.\nThis is a tweak from the original premise, on which Kodaka catches Yozora speaking to her \"air friend\", and is Yozora the one who decides to start practicing how to make friends with Kodaka's help.\n\n(Source: MangaHelpers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11054,
+            "type": "people",
+            "name": "Hirasaka, Yomi",
+            "url": "https://myanimelist.net/people/11054/Yomi_Hirasaka"
+        },
+        {
+            "mal_id": 17059,
+            "type": "people",
+            "name": "Taguchi, Shouichi",
+            "url": "https://myanimelist.net/people/17059/Shouichi_Taguchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 484,
+            "type": "manga",
+            "name": "Jump SQ.19",
+            "url": "https://myanimelist.net/manga/magazine/484/Jump_SQ19"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 21621,
+                    "type": "manga",
+                    "name": "Boku wa Tomodachi ga Sukunai",
+                    "url": "https://myanimelist.net/manga/21621/Boku_wa_Tomodachi_ga_Sukunai"
+                },
+                {
+                    "mal_id": 19087,
+                    "type": "manga",
+                    "name": "Boku wa Tomodachi ga Sukunai",
+                    "url": "https://myanimelist.net/manga/19087/Boku_wa_Tomodachi_ga_Sukunai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://jumpsq.shueisha.co.jp/contents/bokuhatomodachigasukunai/index.html"
+        }
+    ]
+}

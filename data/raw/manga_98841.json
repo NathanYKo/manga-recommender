@@ -1,0 +1,115 @@
+{
+    "mal_id": 98841,
+    "url": "https://myanimelist.net/manga/98841/Dousoukai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/178382.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/178382t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/178382l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/178382.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/178382t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/178382l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dousoukai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Class Reunion"
+        },
+        {
+            "type": "Japanese",
+            "title": "同窓会"
+        }
+    ],
+    "title": "Dousoukai",
+    "title_english": null,
+    "title_japanese": "同窓会",
+    "title_synonyms": [
+        "Class Reunion"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-04-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 28, 2015"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 1347,
+    "rank": 3652,
+    "popularity": 6195,
+    "members": 3462,
+    "favorites": 6,
+    "synopsis": "The former Touichi High School, where Manabu Hara still works as a music teacher, merges with another school to form Wakaba High. Given the news, Hikaru Kusakabe makes one last visit to the hallways full of warm memories he once made with Rihito Sajou. Meanwhile, Hara seems to have long moved on from Sajou—now living together with Aoto Sorano, his beloved boyfriend.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5583,
+            "type": "people",
+            "name": "Nakamura, Asumiko",
+            "url": "https://myanimelist.net/people/5583/Asumiko_Nakamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 394,
+            "type": "manga",
+            "name": "Opera",
+            "url": "https://myanimelist.net/manga/magazine/394/Opera"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 39565,
+                    "type": "manga",
+                    "name": "O.B.",
+                    "url": "https://myanimelist.net/manga/39565/OB"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

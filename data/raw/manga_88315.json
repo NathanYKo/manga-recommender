@@ -1,0 +1,113 @@
+{
+    "mal_id": 88315,
+    "url": "https://myanimelist.net/manga/88315/Sick",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/155646.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/155646t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/155646l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/155646.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/155646t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/155646l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sick"
+        },
+        {
+            "type": "Japanese",
+            "title": "sick"
+        },
+        {
+            "type": "English",
+            "title": "Sick"
+        }
+    ],
+    "title": "Sick",
+    "title_english": "Sick",
+    "title_japanese": "sick",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-12-24T00:00:00+00:00",
+        "to": "2014-12-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 12,
+                "year": 2013
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Dec 24, 2013 to Dec 24, 2014"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 7722,
+    "rank": null,
+    "popularity": 1318,
+    "members": 15754,
+    "favorites": 64,
+    "synopsis": "He's good-looking, he's suave and he comes from a rich family. Everything is all smooth-sailing in Sudou's life. Not to mention, he doesn’t have a girl tying him down. He's got drama-free friends and a blossoming campus life. At least, that's how it was supposed to be. The highlight of his day is always teasing socially crippled Kishi, who shares the same seminar as him.\n\n\"What in the world am I doing!?\"",
+    "background": "Sick was published in English by Denpa under the KUMA imprint on April 26, 2022.",
+    "authors": [
+        {
+            "mal_id": 34105,
+            "type": "people",
+            "name": "Kurahashi, Tomo",
+            "url": "https://myanimelist.net/people/34105/Tomo_Kurahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1307,
+            "type": "manga",
+            "name": "Qpa",
+            "url": "https://myanimelist.net/manga/magazine/1307/Qpa"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 98988,
+                    "type": "manga",
+                    "name": "Sick Resume:Extra",
+                    "url": "https://myanimelist.net/manga/98988/Sick_Resume_Extra"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

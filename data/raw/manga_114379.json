@@ -1,0 +1,148 @@
+{
+    "mal_id": 114379,
+    "url": "https://myanimelist.net/manga/114379/Meitantei_Conan__Zero_no_Tea_Time",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/211287.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/211287t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/211287l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/211287.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/211287t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/211287l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Meitantei Conan: Zero no Tea Time"
+        },
+        {
+            "type": "Synonym",
+            "title": "Meitantei Conan: Zero no Nichijou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Zero's Daily Life"
+        },
+        {
+            "type": "Japanese",
+            "title": "名探偵コナン ゼロの日常〈ティータイム〉"
+        },
+        {
+            "type": "English",
+            "title": "Detective Conan: Zero's Tea Time"
+        }
+    ],
+    "title": "Meitantei Conan: Zero no Tea Time",
+    "title_english": "Detective Conan: Zero's Tea Time",
+    "title_japanese": "名探偵コナン ゼロの日常〈ティータイム〉",
+    "title_synonyms": [
+        "Meitantei Conan: Zero no Nichijou",
+        "Zero's Daily Life"
+    ],
+    "type": "Manga",
+    "chapters": 60,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-05-09T00:00:00+00:00",
+        "to": "2022-05-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 5,
+                "year": 2018
+            },
+            "to": {
+                "day": 25,
+                "month": 5,
+                "year": 2022
+            }
+        },
+        "string": "May 9, 2018 to May 25, 2022"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 948,
+    "rank": 3349,
+    "popularity": 8195,
+    "members": 2485,
+    "favorites": 52,
+    "synopsis": "The manga focuses on the life of the triple agent as he attempts to keep all his different roles in check.\n\n(Source: Crunchyroll)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4888,
+            "type": "people",
+            "name": "Arai, Takahiro",
+            "url": "https://myanimelist.net/people/4888/Takahiro_Arai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 50012,
+                    "type": "anime",
+                    "name": "Meitantei Conan: Zero no Tea Time",
+                    "url": "https://myanimelist.net/anime/50012/Meitantei_Conan__Zero_no_Tea_Time"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 1061,
+                    "type": "manga",
+                    "name": "Meitantei Conan",
+                    "url": "https://myanimelist.net/manga/1061/Meitantei_Conan"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3#%E7%8A%AF%E4%BA%BA%E3%81%AE%E7%8A%AF%E6%B2%A2%E3%81%95%E3%82%93"
+        }
+    ]
+}

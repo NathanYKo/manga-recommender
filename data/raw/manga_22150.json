@@ -1,0 +1,110 @@
+{
+    "mal_id": 22150,
+    "url": "https://myanimelist.net/manga/22150/Magnolia",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/153311.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/153311t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/153311l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/153311.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/153311t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/153311l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Magnolia"
+        },
+        {
+            "type": "Synonym",
+            "title": "Lily"
+        },
+        {
+            "type": "Japanese",
+            "title": "Magnolia"
+        }
+    ],
+    "title": "Magnolia",
+    "title_english": null,
+    "title_japanese": "Magnolia",
+    "title_synonyms": [
+        "Lily"
+    ],
+    "type": "Manga",
+    "chapters": 45,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-07-28T00:00:00+00:00",
+        "to": "2013-11-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 28,
+                "month": 11,
+                "year": 2013
+            }
+        },
+        "string": "Jul 28, 2010 to Nov 28, 2013"
+    },
+    "score": 7.17,
+    "scored": 7.17,
+    "scored_by": 1262,
+    "rank": 6535,
+    "popularity": 5944,
+    "members": 3618,
+    "favorites": 20,
+    "synopsis": "Crown \"Prince\" Ayato has neither the body of a boy nor the body of a girl. What Ayato does have is a pair on \"wings\" located on \"his\" back, that he'll lose when he falls in love.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2970,
+            "type": "people",
+            "name": "naked ape",
+            "url": "https://myanimelist.net/people/2970/naked_ape"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 499,
+            "type": "manga",
+            "name": "ARIA",
+            "url": "https://myanimelist.net/manga/magazine/499/ARIA"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,116 @@
+{
+    "mal_id": 88641,
+    "url": "https://myanimelist.net/manga/88641/Coffee___Vanilla",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/171393.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/171393t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/171393l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/171393.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/171393t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/171393l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Coffee & Vanilla"
+        },
+        {
+            "type": "Synonym",
+            "title": "Coffee and Vanilla"
+        },
+        {
+            "type": "Japanese",
+            "title": "コーヒー＆バニラ"
+        }
+    ],
+    "title": "Coffee & Vanilla",
+    "title_english": null,
+    "title_japanese": "コーヒー＆バニラ",
+    "title_synonyms": [
+        "Coffee and Vanilla"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-04-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 24, 2015 to ?"
+    },
+    "score": 7.15,
+    "scored": 7.15,
+    "scored_by": 3069,
+    "rank": 6847,
+    "popularity": 2067,
+    "members": 10404,
+    "favorites": 165,
+    "synopsis": "Risa is a woman who looks flashy at a glance, but the truth is that she's not used to men. This is a love story that begins when she meets a handsome salary man.\n\n(Source: Clairparfait)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10281,
+            "type": "people",
+            "name": "Akegami, Takara",
+            "url": "https://myanimelist.net/people/10281/Takara_Akegami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 124,
+            "type": "manga",
+            "name": "Cheese!",
+            "url": "https://myanimelist.net/manga/magazine/124/Cheese"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 129571,
+                    "type": "manga",
+                    "name": "Coffee & Vanilla Black",
+                    "url": "https://myanimelist.net/manga/129571/Coffee___Vanilla_Black"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

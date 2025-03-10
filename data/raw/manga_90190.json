@@ -1,0 +1,162 @@
+{
+    "mal_id": 90190,
+    "url": "https://myanimelist.net/manga/90190/Isekai_Izakaya_Nobu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/170880.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/170880t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/170880l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/170880.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/170880t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/170880l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Isekai Izakaya \"Nobu\""
+        },
+        {
+            "type": "Japanese",
+            "title": "異世界居酒屋「のぶ」"
+        },
+        {
+            "type": "English",
+            "title": "Otherworldly Izakaya Nobu"
+        }
+    ],
+    "title": "Isekai Izakaya \"Nobu\"",
+    "title_english": "Otherworldly Izakaya Nobu",
+    "title_japanese": "異世界居酒屋「のぶ」",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-07-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 4, 2015 to ?"
+    },
+    "score": 7.63,
+    "scored": 7.63,
+    "scored_by": 2044,
+    "rank": 2147,
+    "popularity": 2856,
+    "members": 7832,
+    "favorites": 53,
+    "synopsis": "Nobu is a modern Japanese izakaya, a type of bar, that exists in another world. Located in the medieval capital Aitheria, head chef Nobuyuki Yazawa and friendly waitress Shinobu Senke serve unique menus every day. Aitherian people from all social backgrounds are drawn in, settling down after a hard day of work to enjoy foreign Japanese-style food and drink. Bringing their everyday experiences with them, customers flock to Nobu, where delicious and unique food brings people together.\n\n[Written by MAL Rewrite]",
+    "background": "Isekai Izakaya \"Nobu\" has been published in English as Otherworldly Izakaya Nobu by Udon Entertainment since September 18, 2018.",
+    "authors": [
+        {
+            "mal_id": 32681,
+            "type": "people",
+            "name": "Semikawa, Natsuya",
+            "url": "https://myanimelist.net/people/32681/Natsuya_Semikawa"
+        },
+        {
+            "mal_id": 38240,
+            "type": "people",
+            "name": "Virginia Nitouhei",
+            "url": "https://myanimelist.net/people/38240/Virginia_Nitouhei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 403,
+            "type": "manga",
+            "name": "Young Ace",
+            "url": "https://myanimelist.net/manga/magazine/403/Young_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        },
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        },
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 90191,
+                    "type": "manga",
+                    "name": "Isekai Izakaya \"Nobu\"",
+                    "url": "https://myanimelist.net/manga/90191/Isekai_Izakaya_Nobu"
+                },
+                {
+                    "mal_id": 34420,
+                    "type": "anime",
+                    "name": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu",
+                    "url": "https://myanimelist.net/anime/34420/Isekai_Izakaya__Koto_Aitheria_no_Izakaya_Nobu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%95%B0%E4%B8%96%E7%95%8C%E5%B1%85%E9%85%92%E5%B1%8B%E3%80%8C%E3%81%AE%E3%81%B6%E3%80%8D"
+        }
+    ]
+}

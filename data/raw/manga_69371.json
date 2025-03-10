@@ -1,0 +1,154 @@
+{
+    "mal_id": 69371,
+    "url": "https://myanimelist.net/manga/69371/Psycho-Pass",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/118865.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/118865t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/118865l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/118865.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/118865t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/118865l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Psycho-Pass"
+        },
+        {
+            "type": "Japanese",
+            "title": "PSYCHO-PASS サイコパス"
+        }
+    ],
+    "title": "Psycho-Pass",
+    "title_english": null,
+    "title_japanese": "PSYCHO-PASS サイコパス",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-02-04T00:00:00+00:00",
+        "to": "2013-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 2,
+                "year": 2013
+            },
+            "to": {
+                "day": 4,
+                "month": 4,
+                "year": 2013
+            }
+        },
+        "string": "Feb 4, 2013 to Apr 4, 2013"
+    },
+    "score": 7.66,
+    "scored": 7.66,
+    "scored_by": 390,
+    "rank": 1934,
+    "popularity": 8498,
+    "members": 2375,
+    "favorites": 48,
+    "synopsis": "Novelization of the anime.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4169,
+            "type": "people",
+            "name": "Fukami, Makoto",
+            "url": "https://myanimelist.net/people/4169/Makoto_Fukami"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 69375,
+                    "type": "manga",
+                    "name": "Psycho-Pass Zero: Namae no Nai Kaibutsu",
+                    "url": "https://myanimelist.net/manga/69375/Psycho-Pass_Zero__Namae_no_Nai_Kaibutsu"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 81157,
+                    "type": "manga",
+                    "name": "Psycho-Pass Legend: Tsuisekisha Kagari Shuusei",
+                    "url": "https://myanimelist.net/manga/81157/Psycho-Pass_Legend__Tsuisekisha_Kagari_Shuusei"
+                },
+                {
+                    "mal_id": 88478,
+                    "type": "manga",
+                    "name": "Psycho-Pass Legend: Shikkoukan Kougami Shinya - Utopia Hound",
+                    "url": "https://myanimelist.net/manga/88478/Psycho-Pass_Legend__Shikkoukan_Kougami_Shinya_-_Utopia_Hound"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 44933,
+                    "type": "manga",
+                    "name": "Kanshikan Tsunemori Akane",
+                    "url": "https://myanimelist.net/manga/44933/Kanshikan_Tsunemori_Akane"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/PSYCHO-PASS"
+        }
+    ]
+}

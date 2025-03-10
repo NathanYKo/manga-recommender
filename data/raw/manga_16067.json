@@ -1,0 +1,115 @@
+{
+    "mal_id": 16067,
+    "url": "https://myanimelist.net/manga/16067/Shounen_Shoujo_Hyouryuuki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/23431.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/23431t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/23431l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/23431.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/23431t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/23431l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shounen Shoujo Hyouryuuki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shounenshoujo Ryouryuuki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chronicle of the Clueless Age"
+        },
+        {
+            "type": "Japanese",
+            "title": "少年少女漂流記"
+        }
+    ],
+    "title": "Shounen Shoujo Hyouryuuki",
+    "title_english": null,
+    "title_japanese": "少年少女漂流記",
+    "title_synonyms": [
+        "Shounenshoujo Ryouryuuki",
+        "Chronicle of the Clueless Age"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-02-01T00:00:00+00:00",
+        "to": "2007-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 2,
+                "year": 2006
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "Feb 2006 to Jan 2007"
+    },
+    "score": 7.31,
+    "scored": 7.31,
+    "scored_by": 994,
+    "rank": 4800,
+    "popularity": 7794,
+    "members": 2640,
+    "favorites": 20,
+    "synopsis": "A collection of standalone stories written by both Furuya Usamaru and Otsuichi. The stories all revolve around the common troubles that teenagers go through, whether it be falling out with a friend, being bullied, or dieting. \n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1919,
+            "type": "people",
+            "name": "Furuya, Usamaru",
+            "url": "https://myanimelist.net/people/1919/Usamaru_Furuya"
+        },
+        {
+            "mal_id": 2765,
+            "type": "people",
+            "name": "Otsuichi",
+            "url": "https://myanimelist.net/people/2765/Otsuichi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

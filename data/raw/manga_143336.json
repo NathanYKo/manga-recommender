@@ -1,0 +1,122 @@
+{
+    "mal_id": 143336,
+    "url": "https://myanimelist.net/manga/143336/Among_Us",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/256571.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/256571t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/256571l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/256571.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/256571t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/256571l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Among Us"
+        },
+        {
+            "type": "Synonym",
+            "title": "Uchuu Jinrou Among Us"
+        },
+        {
+            "type": "Japanese",
+            "title": "アモングアス"
+        }
+    ],
+    "title": "Among Us",
+    "title_english": null,
+    "title_japanese": "アモングアス",
+    "title_synonyms": [
+        "Uchuu Jinrou Among Us"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2022-02-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 2,
+                "year": 2022
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 28, 2022"
+    },
+    "score": 6.99,
+    "scored": 6.99,
+    "scored_by": 3977,
+    "rank": 9147,
+    "popularity": 3464,
+    "members": 6443,
+    "favorites": 298,
+    "synopsis": "Inside a spaceship, a group of five crewmates—Tamago, King, Megane, Yankee, and Cap—has gathered to play a game of Among Us. They all have victory in mind, but only one person plans to win at the others' expense: the impostor, Tamago. With Tamago aiming to eliminate everyone but himself, the other crewmates must suss him out as quickly as possible. However, their absurd deductive skills prove ineffective in spotting the suspect amid the crew, as they poorly attempt to identify the impostor among them.\n\n[Written by MAL Rewrite]",
+    "background": "Among Us is an adaptation of InnerSloth's 2018 video game for mobile.",
+    "authors": [
+        {
+            "mal_id": 56843,
+            "type": "people",
+            "name": "Berabou",
+            "url": "https://myanimelist.net/people/56843/Berabou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 831,
+            "type": "manga",
+            "name": "Bessatsu CoroCoro Comic",
+            "url": "https://myanimelist.net/manga/magazine/831/Bessatsu_CoroCoro_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 29,
+            "type": "manga",
+            "name": "Space",
+            "url": "https://myanimelist.net/manga/genre/29/Space"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 15,
+            "type": "manga",
+            "name": "Kids",
+            "url": "https://myanimelist.net/manga/genre/15/Kids"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/Among_Us"
+        }
+    ]
+}

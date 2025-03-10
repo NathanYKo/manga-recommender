@@ -1,0 +1,148 @@
+{
+    "mal_id": 19672,
+    "url": "https://myanimelist.net/manga/19672/Angel_Beats_The_4-koma__Bokura_no_Sensen_Koushinkyoku♪",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/176837.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/176837t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/176837l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/176837.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/176837t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/176837l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Angel Beats! The 4-koma: Bokura no Sensen Koushinkyoku♪"
+        },
+        {
+            "type": "Synonym",
+            "title": "Angel Beats! The 4-koma: Our War Front March Song"
+        },
+        {
+            "type": "Japanese",
+            "title": "Angel Beats! The4コマ 僕らの戦線行進曲♪"
+        }
+    ],
+    "title": "Angel Beats! The 4-koma: Bokura no Sensen Koushinkyoku♪",
+    "title_english": null,
+    "title_japanese": "Angel Beats! The4コマ 僕らの戦線行進曲♪",
+    "title_synonyms": [
+        "Angel Beats! The 4-koma: Our War Front March Song"
+    ],
+    "type": "Manga",
+    "chapters": 52,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-10-30T00:00:00+00:00",
+        "to": "2013-08-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 30,
+                "month": 8,
+                "year": 2013
+            }
+        },
+        "string": "Oct 30, 2009 to Aug 30, 2013"
+    },
+    "score": 7.25,
+    "scored": 7.25,
+    "scored_by": 825,
+    "rank": 5494,
+    "popularity": 5475,
+    "members": 3982,
+    "favorites": 31,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 28587,
+            "type": "people",
+            "name": "Komowata, Haruka",
+            "url": "https://myanimelist.net/people/28587/Haruka_Komowata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 198,
+            "type": "manga",
+            "name": "Dengeki G's magazine",
+            "url": "https://myanimelist.net/manga/magazine/198/Dengeki_G_039_s_magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 65497,
+                    "type": "manga",
+                    "name": "Angel Beats! The 4-koma: Osora no Shinda Sekai kara",
+                    "url": "https://myanimelist.net/manga/65497/Angel_Beats_The_4-koma__Osora_no_Shinda_Sekai_kara"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 6547,
+                    "type": "anime",
+                    "name": "Angel Beats!",
+                    "url": "https://myanimelist.net/anime/6547/Angel_Beats"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 16648,
+                    "type": "manga",
+                    "name": "Angel Beats!: Track Zero",
+                    "url": "https://myanimelist.net/manga/16648/Angel_Beats__Track_Zero"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/Angel_Beats!"
+        }
+    ]
+}

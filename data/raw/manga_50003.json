@@ -1,0 +1,118 @@
+{
+    "mal_id": 50003,
+    "url": "https://myanimelist.net/manga/50003/The_Stories_of_Those_Around_Me",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/90983.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/90983t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/90983l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/90983.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/90983t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/90983l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "The Stories of Those Around Me"
+        },
+        {
+            "type": "Synonym",
+            "title": "Story of Someone We Know"
+        },
+        {
+            "type": "Japanese",
+            "title": "아는사람 이야기"
+        }
+    ],
+    "title": "The Stories of Those Around Me",
+    "title_english": null,
+    "title_japanese": "아는사람 이야기",
+    "title_synonyms": [
+        "Story of Someone We Know"
+    ],
+    "type": "Manhwa",
+    "chapters": 60,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-04-20T00:00:00+00:00",
+        "to": "2013-06-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 6,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Apr 20, 2012 to Jun 6, 2013"
+    },
+    "score": 7.89,
+    "scored": 7.89,
+    "scored_by": 2257,
+    "rank": 1033,
+    "popularity": 3912,
+    "members": 5734,
+    "favorites": 106,
+    "synopsis": "The story of three average women, and their not-so-common everyday life.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9426,
+            "type": "people",
+            "name": "Omyo",
+            "url": "https://myanimelist.net/people/9426/Omyo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic.naver.com/webtoon/list.nhn?titleId=460686"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EC%95%84%EB%8A%94%EC%82%AC%EB%9E%8C%20%EC%9D%B4%EC%95%BC%EA%B8%B0(%EC%9B%B9%ED%88%B0)"
+        }
+    ]
+}

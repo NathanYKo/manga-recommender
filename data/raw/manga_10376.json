@@ -1,0 +1,132 @@
+{
+    "mal_id": 10376,
+    "url": "https://myanimelist.net/manga/10376/Cavalier_of_the_Abyss",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/202184.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/202184t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/202184l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/202184.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/202184t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/202184l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Cavalier of the Abyss"
+        },
+        {
+            "type": "Japanese",
+            "title": "심연의 카발리어"
+        }
+    ],
+    "title": "Cavalier of the Abyss",
+    "title_english": null,
+    "title_japanese": "심연의 카발리어",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": 144,
+    "volumes": 24,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": "2018-12-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 15,
+                "month": 12,
+                "year": 2018
+            }
+        },
+        "string": "2008 to Dec 15, 2018"
+    },
+    "score": 7.53,
+    "scored": 7.53,
+    "scored_by": 4618,
+    "rank": 2758,
+    "popularity": 1625,
+    "members": 13283,
+    "favorites": 202,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 4996,
+            "type": "people",
+            "name": "Juder",
+            "url": "https://myanimelist.net/people/4996/Juder"
+        },
+        {
+            "mal_id": 6304,
+            "type": "people",
+            "name": "Deo, JYU",
+            "url": "https://myanimelist.net/people/6304/JYU_Deo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 562,
+            "type": "manga",
+            "name": "Comic Champ",
+            "url": "https://myanimelist.net/manga/magazine/562/Comic_Champ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 3194,
+                    "type": "manga",
+                    "name": "Immortal Regis",
+                    "url": "https://myanimelist.net/manga/3194/Immortal_Regis"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EC%8B%AC%EC%97%B0%EC%9D%98%20%EC%B9%B4%EB%B0%9C%EB%A6%AC%EC%96%B4"
+        }
+    ]
+}

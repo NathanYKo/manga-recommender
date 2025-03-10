@@ -1,0 +1,118 @@
+{
+    "mal_id": 6604,
+    "url": "https://myanimelist.net/manga/6604/Try_Try_Try",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165888.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165888t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165888l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165888.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165888t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165888l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Try! Try! Try!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yotsuba&! Pilot"
+        },
+        {
+            "type": "Japanese",
+            "title": "Try! Try! Try!"
+        }
+    ],
+    "title": "Try! Try! Try!",
+    "title_english": null,
+    "title_japanese": "Try! Try! Try!",
+    "title_synonyms": [
+        "Yotsuba&! Pilot"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2001"
+    },
+    "score": 7.14,
+    "scored": 7.14,
+    "scored_by": 3811,
+    "rank": 6980,
+    "popularity": 3119,
+    "members": 7199,
+    "favorites": 29,
+    "synopsis": "Kiyohiko Azuma's Try! Try! Try! follows the adventures of a weird girl named Yotsuba whose bizarre antics baffle her friends and her father. The characters in this comic later went on to appear in the monthly Yotsubato! serial manga currently running in Dengeki Daioh magazine. (Source: M-U)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1939,
+            "type": "people",
+            "name": "Azuma, Kiyohiko",
+            "url": "https://myanimelist.net/people/1939/Kiyohiko_Azuma"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 10690,
+                    "type": "manga",
+                    "name": "Try! Try! Try! Webcomics",
+                    "url": "https://myanimelist.net/manga/10690/Try_Try_Try_Webcomics"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 104,
+                    "type": "manga",
+                    "name": "Yotsuba to!",
+                    "url": "https://myanimelist.net/manga/104/Yotsuba_to"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Yotsuba%26%21"
+        }
+    ]
+}

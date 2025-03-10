@@ -1,0 +1,122 @@
+{
+    "mal_id": 111721,
+    "url": "https://myanimelist.net/manga/111721/Gensou_Gourmet",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/205071.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/205071t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/205071l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/205071.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/205071t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/205071l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gensou Gourmet"
+        },
+        {
+            "type": "Japanese",
+            "title": "幻想グルメ"
+        },
+        {
+            "type": "English",
+            "title": "Gourmet in Different World."
+        }
+    ],
+    "title": "Gensou Gourmet",
+    "title_english": "Gourmet in Different World.",
+    "title_japanese": "幻想グルメ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 42,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-11-21T00:00:00+00:00",
+        "to": "2020-05-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 11,
+                "year": 2016
+            },
+            "to": {
+                "day": 4,
+                "month": 5,
+                "year": 2020
+            }
+        },
+        "string": "Nov 21, 2016 to May 4, 2020"
+    },
+    "score": 7.16,
+    "scored": 7.16,
+    "scored_by": 812,
+    "rank": 6641,
+    "popularity": 7390,
+    "members": 2811,
+    "favorites": 11,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 41212,
+            "type": "people",
+            "name": "Amana, Kouta",
+            "url": "https://myanimelist.net/people/41212/Kouta_Amana"
+        },
+        {
+            "mal_id": 47528,
+            "type": "people",
+            "name": "Otsuji",
+            "url": "https://myanimelist.net/people/47528/Otsuji"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 419,
+            "type": "manga",
+            "name": "Gangan Online",
+            "url": "https://myanimelist.net/manga/magazine/419/Gangan_Online"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.ganganonline.com/contents/gensou/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%B9%BB%E6%83%B3%E3%82%B0%E3%83%AB%E3%83%A1"
+        }
+    ]
+}

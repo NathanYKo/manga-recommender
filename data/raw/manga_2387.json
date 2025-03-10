@@ -1,0 +1,181 @@
+{
+    "mal_id": 2387,
+    "url": "https://myanimelist.net/manga/2387/Digimon_Adventure",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/152276.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/152276t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/152276l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/152276.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/152276t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/152276l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Digimon Adventure"
+        },
+        {
+            "type": "Japanese",
+            "title": "數碼暴龍"
+        },
+        {
+            "type": "English",
+            "title": "Digimon"
+        }
+    ],
+    "title": "Digimon Adventure",
+    "title_english": "Digimon",
+    "title_japanese": "數碼暴龍",
+    "title_synonyms": [],
+    "type": "Manhua",
+    "chapters": 35,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2001"
+    },
+    "score": 7.18,
+    "scored": 7.18,
+    "scored_by": 915,
+    "rank": 6392,
+    "popularity": 7349,
+    "members": 2825,
+    "favorites": 48,
+    "synopsis": "Seven kids at summer camp are unexpectedly transported by 'digi-vices' to a colorful and enigmatic world. Lost and alone, they are befriended by small digital monsters, Digimons. The kids and their Digimon partners quickly become inseparable, and the strange creatures guide their human friends through the wondrous DigiWorld, protecting them from the hordes of evil Digimons. The group soon discovers that some of the giant Digimons they encounter are not evil Digimons but good Digimons gone bad. A dark power is corrupting even the most gentle of Digimons by embedding Black Gears into them, turning them into vicious monsters. Creating chaos and destruction wherever it goes, the evil power threatens all of DigiWorld.\n\nAs they try to find their way back home, the seven kids are drawn further and further into the mystery. Through teamwork and trust, they help their newfound Digimon friends digivolve from 'monsters in training' to giant champions that must save the DigiWorld from the powerful evil intent on destroying it.\n\n(Source: Tokyopop)",
+    "background": "Digimon Adventure was published in English as Digimon by Tokyopop from March 11, 2003 to August 12, 2003.",
+    "authors": [
+        {
+            "mal_id": 3637,
+            "type": "people",
+            "name": "Yu, Yuen Wong",
+            "url": "https://myanimelist.net/people/3637/Yuen_Wong_Yu"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 15,
+            "type": "manga",
+            "name": "Kids",
+            "url": "https://myanimelist.net/manga/genre/15/Kids"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 2389,
+                    "type": "manga",
+                    "name": "Digimon Tamers",
+                    "url": "https://myanimelist.net/manga/2389/Digimon_Tamers"
+                },
+                {
+                    "mal_id": 1750,
+                    "type": "manga",
+                    "name": "Digimon D-Cyber",
+                    "url": "https://myanimelist.net/manga/1750/Digimon_D-Cyber"
+                },
+                {
+                    "mal_id": 2388,
+                    "type": "manga",
+                    "name": "Digimon Zero Two",
+                    "url": "https://myanimelist.net/manga/2388/Digimon_Zero_Two"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 552,
+                    "type": "anime",
+                    "name": "Digimon Adventure",
+                    "url": "https://myanimelist.net/anime/552/Digimon_Adventure"
+                },
+                {
+                    "mal_id": 38088,
+                    "type": "anime",
+                    "name": "Digimon Adventure: Last Evolution Kizuna",
+                    "url": "https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 1750,
+                    "type": "manga",
+                    "name": "Digimon D-Cyber",
+                    "url": "https://myanimelist.net/manga/1750/Digimon_D-Cyber"
+                },
+                {
+                    "mal_id": 1749,
+                    "type": "manga",
+                    "name": "Digimon Next",
+                    "url": "https://myanimelist.net/manga/1749/Digimon_Next"
+                },
+                {
+                    "mal_id": 140782,
+                    "type": "manga",
+                    "name": "Digimon Dreamers",
+                    "url": "https://myanimelist.net/manga/140782/Digimon_Dreamers"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 6774,
+                    "type": "manga",
+                    "name": "Digimon Adventure: V-Tamer 01",
+                    "url": "https://myanimelist.net/manga/6774/Digimon_Adventure__V-Tamer_01"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Digimon#Yuen_Wong_Yu_.28Chuang_Yi.2FTOKYOPOP.29_manhua"
+        }
+    ]
+}

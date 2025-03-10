@@ -1,0 +1,140 @@
+{
+    "mal_id": 1096,
+    "url": "https://myanimelist.net/manga/1096/Girls_Saurus_DX",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/274669.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/274669t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/274669l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/274669.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/274669t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/274669l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Girls Saurus DX"
+        },
+        {
+            "type": "Synonym",
+            "title": "Girls Saurus Deluxe"
+        },
+        {
+            "type": "Japanese",
+            "title": "ガールズザウルスDX"
+        }
+    ],
+    "title": "Girls Saurus DX",
+    "title_english": null,
+    "title_japanese": "ガールズザウルスDX",
+    "title_synonyms": [
+        "Girls Saurus Deluxe"
+    ],
+    "type": "Manga",
+    "chapters": 66,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-12-19T00:00:00+00:00",
+        "to": "2008-10-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 12,
+                "year": 2002
+            },
+            "to": {
+                "day": 18,
+                "month": 10,
+                "year": 2008
+            }
+        },
+        "string": "Dec 19, 2002 to Oct 18, 2008"
+    },
+    "score": 7.21,
+    "scored": 7.21,
+    "scored_by": 3584,
+    "rank": 5930,
+    "popularity": 3427,
+    "members": 6517,
+    "favorites": 48,
+    "synopsis": "Shingo Chiryuu isn't much different than any other guy except for one thing... He's afraid of girls. Now he finds himself surrounded by girls, including the one whose attack originally instilled the fear in him, as he attempts to cure himself of his gynophobia.\n\n(Source: Solaris-SVU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2279,
+            "type": "people",
+            "name": "Kusunoki, Kei",
+            "url": "https://myanimelist.net/people/2279/Kei_Kusunoki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Sunday Gene-X",
+            "url": "https://myanimelist.net/manga/magazine/40/Sunday_Gene-X"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1088,
+                    "type": "manga",
+                    "name": "Girls Saurus",
+                    "url": "https://myanimelist.net/manga/1088/Girls_Saurus"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/ガールズザウルス"
+        }
+    ]
+}

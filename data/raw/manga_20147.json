@@ -1,0 +1,183 @@
+{
+    "mal_id": 20147,
+    "url": "https://myanimelist.net/manga/20147/Dantalian_no_Shoka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/154266.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/154266t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/154266l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/154266.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/154266t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/154266l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dantalian no Shoka"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bibliotheca Mystica de Dantalian"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dantalian's Bookshelf"
+        },
+        {
+            "type": "Japanese",
+            "title": "ダンタリアンの書架"
+        }
+    ],
+    "title": "Dantalian no Shoka",
+    "title_english": null,
+    "title_japanese": "ダンタリアンの書架",
+    "title_synonyms": [
+        "Bibliotheca Mystica de Dantalian",
+        "Dantalian's Bookshelf"
+    ],
+    "type": "Light Novel",
+    "chapters": 50,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-02-29T00:00:00+00:00",
+        "to": "2011-02-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 2,
+                "year": 2008
+            },
+            "to": {
+                "day": 28,
+                "month": 2,
+                "year": 2011
+            }
+        },
+        "string": "Feb 29, 2008 to Feb 28, 2011"
+    },
+    "score": 7.4,
+    "scored": 7.4,
+    "scored_by": 429,
+    "rank": 3786,
+    "popularity": 8175,
+    "members": 2492,
+    "favorites": 22,
+    "synopsis": "Hugh Anthony Disward inherits an old mansion and a personal library from his grandfather. In the basement of the mansion, he meets a mysterious girl Dalian. She is a Dantalian and a gateway to \"Dantalian's bookshelf,\" which stores the prohibited books of the demons.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7622,
+            "type": "people",
+            "name": "Mikumo, Gakuto",
+            "url": "https://myanimelist.net/people/7622/Gakuto_Mikumo"
+        },
+        {
+            "mal_id": 19968,
+            "type": "people",
+            "name": "G-Yuusuke",
+            "url": "https://myanimelist.net/people/19968/G-Yuusuke"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 329,
+            "type": "manga",
+            "name": "The Sneaker",
+            "url": "https://myanimelist.net/manga/magazine/329/The_Sneaker"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        },
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 22191,
+                    "type": "manga",
+                    "name": "Dantalian no Shoka",
+                    "url": "https://myanimelist.net/manga/22191/Dantalian_no_Shoka"
+                },
+                {
+                    "mal_id": 8915,
+                    "type": "anime",
+                    "name": "Dantalian no Shoka",
+                    "url": "https://myanimelist.net/anime/8915/Dantalian_no_Shoka"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 22192,
+                    "type": "manga",
+                    "name": "Dantalian no Shoka: Dalian Days",
+                    "url": "https://myanimelist.net/manga/22192/Dantalian_no_Shoka__Dalian_Days"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.kadokawa.co.jp/dantalian/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/ダンタリアンの書架"
+        }
+    ]
+}

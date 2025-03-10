@@ -1,0 +1,114 @@
+{
+    "mal_id": 119534,
+    "url": "https://myanimelist.net/manga/119534/Uzumaki_Tokubetsu-hen__Ginga",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/234226.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/234226t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/234226l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/234226.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/234226t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/234226l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Uzumaki Tokubetsu-hen: Ginga"
+        },
+        {
+            "type": "Japanese",
+            "title": "うずまき特別編 銀河"
+        },
+        {
+            "type": "English",
+            "title": "Uzumaki Lost Chapter: Galaxies"
+        }
+    ],
+    "title": "Uzumaki Tokubetsu-hen: Ginga",
+    "title_english": "Uzumaki Lost Chapter: Galaxies",
+    "title_japanese": "うずまき特別編 銀河",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-01-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 1,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 31, 2000"
+    },
+    "score": 6.59,
+    "scored": 6.59,
+    "scored_by": 7617,
+    "rank": 15383,
+    "popularity": 1904,
+    "members": 11341,
+    "favorites": 9,
+    "synopsis": "One night, Shuuichi Saitou reveals something incredible to his girlfriend, Kirie Goshima: he has recently discovered a new spiral-shaped galaxy. Filled with excitement, Kirie shares the news with her teacher, who invites his astronomer friend to confirm the discovery. The astronomer, Mr. Torino, is shocked at the existence of the galaxy and realizes that it will bring Shuuichi endless fame. The envious Torino, soon corrupted by the spiral, goes to great lengths to steal credit for Shuuichi's work. But this is not the only new finding in Kurouzu-cho.\n\n[Written by MAL Rewrite]",
+    "background": "Uzumaki Tokubetsu-hen: Ginga was published in English as Uzumaki Lost Chapter: Galaxies by VIZ Media as part of the third volume of Uzumaki.",
+    "authors": [
+        {
+            "mal_id": 2410,
+            "type": "people",
+            "name": "Itou, Junji",
+            "url": "https://myanimelist.net/people/2410/Junji_Itou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 436,
+                    "type": "manga",
+                    "name": "Uzumaki",
+                    "url": "https://myanimelist.net/manga/436/Uzumaki"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

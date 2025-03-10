@@ -1,0 +1,137 @@
+{
+    "mal_id": 982,
+    "url": "https://myanimelist.net/manga/982/Kurokami",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/196144.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/196144t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/196144l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/196144.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/196144t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/196144l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kurokami"
+        },
+        {
+            "type": "Japanese",
+            "title": "黒神"
+        },
+        {
+            "type": "English",
+            "title": "Black God"
+        }
+    ],
+    "title": "Kurokami",
+    "title_english": "Black God",
+    "title_japanese": "黒神",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 159,
+    "volumes": 19,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-12-03T00:00:00+00:00",
+        "to": "2012-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 12,
+                "year": 2004
+            },
+            "to": {
+                "day": 6,
+                "month": 4,
+                "year": 2012
+            }
+        },
+        "string": "Dec 3, 2004 to Apr 6, 2012"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 4311,
+    "rank": 3622,
+    "popularity": 1370,
+    "members": 15341,
+    "favorites": 220,
+    "synopsis": "Wending his way home after a bender one evening, master moocher and game programmer Keita Ibuki decides to satisfy a craving for ramen at a noodle stand. Instead of slurping soup, though, he surrenders his meal to a manic girl who, unbeknownst to Keita, is a Mototsumitama, a guardian of the coexistence equilibrium. When his new acquaintance is attacked, Keita gets caught in the crossfire and loses an arm. Awakening from the shock of his injury, Keita finds himself back in his apartment... arm intact! But just whose arm is it?! Asking the strange girl raiding his refrigerator reveals only that Keita's life has become a great deal more complicated.\n\n(Source: Yen Press)",
+    "background": "Kurokami was published in English as Black God by Yen Press from October 17, 2007 to May 28, 2013.",
+    "authors": [
+        {
+            "mal_id": 2259,
+            "type": "people",
+            "name": "Park, Sung-Woo",
+            "url": "https://myanimelist.net/people/2259/Sung-Woo_Park"
+        },
+        {
+            "mal_id": 2827,
+            "type": "people",
+            "name": "Im, Dal Young",
+            "url": "https://myanimelist.net/people/2827/Dal_Young_Im"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 5079,
+                    "type": "anime",
+                    "name": "Kurokami The Animation",
+                    "url": "https://myanimelist.net/anime/5079/Kurokami_The_Animation"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%A5%9E"
+        }
+    ]
+}

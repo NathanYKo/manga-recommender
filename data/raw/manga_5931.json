@@ -1,0 +1,130 @@
+{
+    "mal_id": 5931,
+    "url": "https://myanimelist.net/manga/5931/Love_Hina",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185606.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185606t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185606l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185606.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185606t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185606l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Love Hina"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラブひな"
+        },
+        {
+            "type": "English",
+            "title": "Love Hina the Novel"
+        }
+    ],
+    "title": "Love Hina",
+    "title_english": "Love Hina the Novel",
+    "title_japanese": "ラブひな",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 6,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-05-17T00:00:00+00:00",
+        "to": "2002-02-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 5,
+                "year": 2001
+            },
+            "to": {
+                "day": 15,
+                "month": 2,
+                "year": 2002
+            }
+        },
+        "string": "May 17, 2001 to Feb 15, 2002"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 897,
+    "rank": 3268,
+    "popularity": 8667,
+    "members": 2313,
+    "favorites": 86,
+    "synopsis": "Volume 1: \"Konyoku Genkin\"\nUrashima Keitarou is the only boy living at the Hinata House, an all-girl dorm. Despite the fact that he's kind of a screw-up, the girls are climbing all over each other in an effort to tear his clothes off. But it's not what he thinks! Supposedly somewhere on his body is a map to Hinata's secret treasure!\n\nVolume 2: \"Hitou Kaikin\"\nWhen a crazy robot that looks exactly like Keitarou appears out of the blue at the Hinata House, the tenants of the all-girl dorm band together to fend off the out-of-control \"Mecha-Keitarou.\"",
+    "background": "Love Hina was published in English as Love Hina the Novel by Tokyopop in 2006.",
+    "authors": [
+        {
+            "mal_id": 1883,
+            "type": "people",
+            "name": "Akamatsu, Ken",
+            "url": "https://myanimelist.net/people/1883/Ken_Akamatsu"
+        },
+        {
+            "mal_id": 4801,
+            "type": "people",
+            "name": "Kawasaki, Hiroyuki",
+            "url": "https://myanimelist.net/people/4801/Hiroyuki_Kawasaki"
+        },
+        {
+            "mal_id": 6490,
+            "type": "people",
+            "name": "Aikawa, Shou",
+            "url": "https://myanimelist.net/people/6490/Shou_Aikawa"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 16,
+                    "type": "manga",
+                    "name": "Love Hina",
+                    "url": "https://myanimelist.net/manga/16/Love_Hina"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E3%81%B2%E3%81%AA"
+        }
+    ]
+}

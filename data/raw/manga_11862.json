@@ -1,0 +1,103 @@
+{
+    "mal_id": 11862,
+    "url": "https://myanimelist.net/manga/11862/Clover",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/27265.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/27265t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/27265l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/27265.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/27265t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/27265l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Clover"
+        },
+        {
+            "type": "Japanese",
+            "title": "クローバー"
+        }
+    ],
+    "title": "Clover",
+    "title_english": null,
+    "title_japanese": "クローバー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-10-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 18, 2008"
+    },
+    "score": 7.2,
+    "scored": 7.2,
+    "scored_by": 1798,
+    "rank": 6070,
+    "popularity": 5748,
+    "members": 3746,
+    "favorites": 23,
+    "synopsis": "The Tachibana family has four sisters, each of whom have had at least one relationship that involves falling for another woman, or having one fall for them.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6262,
+            "type": "people",
+            "name": "Otsu, Hiyori",
+            "url": "https://myanimelist.net/people/6262/Hiyori_Otsu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 423,
+            "type": "manga",
+            "name": "Comic Yuri Hime",
+            "url": "https://myanimelist.net/manga/magazine/423/Comic_Yuri_Hime"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

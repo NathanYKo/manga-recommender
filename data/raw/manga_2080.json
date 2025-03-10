@@ -1,0 +1,100 @@
+{
+    "mal_id": 2080,
+    "url": "https://myanimelist.net/manga/2080/Reset",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/36329.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/36329t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/36329l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/36329.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/36329t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/36329l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Reset"
+        }
+    ],
+    "title": "Reset",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2005"
+    },
+    "score": 6.81,
+    "scored": 6.81,
+    "scored_by": 2933,
+    "rank": 12015,
+    "popularity": 4266,
+    "members": 5244,
+    "favorites": 27,
+    "synopsis": "An online game is causing players to commit suicide. One hacker rises to solve the mystery.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2761,
+            "type": "people",
+            "name": "Tsutsui, Tetsuya",
+            "url": "https://myanimelist.net/people/2761/Tetsuya_Tsutsui"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,173 @@
+{
+    "mal_id": 62023,
+    "url": "https://myanimelist.net/manga/62023/Mushishi_Tokubetsu-hen__Hihamukage",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/123403.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/123403t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/123403l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/123403.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/123403t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/123403l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mushishi Tokubetsu-hen: Hihamukage"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mushishi Special: Sun-Eating Shade"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mushishi Special: Hihamukage"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mushi-shi Tokubetsu-hen: Hihamu Kage"
+        },
+        {
+            "type": "Japanese",
+            "title": "蟲師 特別篇「日蝕む翳」"
+        }
+    ],
+    "title": "Mushishi Tokubetsu-hen: Hihamukage",
+    "title_english": null,
+    "title_japanese": "蟲師 特別篇「日蝕む翳」",
+    "title_synonyms": [
+        "Mushishi Special: Sun-Eating Shade",
+        "Mushishi Special: Hihamukage",
+        "Mushi-shi Tokubetsu-hen: Hihamu Kage"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-11-25T00:00:00+00:00",
+        "to": "2013-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 11,
+                "year": 2013
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Nov 25, 2013 to Dec 25, 2013"
+    },
+    "score": 8.32,
+    "scored": 8.32,
+    "scored_by": 1416,
+    "rank": 286,
+    "popularity": 3716,
+    "members": 6077,
+    "favorites": 17,
+    "synopsis": "When an eclipse occurs, the sun remains dark in one area. The mushi expert Ginko must come and determine how to return the sun to the village before their crops die. The secret seems connected to twin girls who live nearby.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2394,
+            "type": "people",
+            "name": "Urushibara, Yuki",
+            "url": "https://myanimelist.net/people/2394/Yuki_Urushibara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 418,
+                    "type": "manga",
+                    "name": "Mushishi",
+                    "url": "https://myanimelist.net/manga/418/Mushishi"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 136884,
+                    "type": "manga",
+                    "name": "Mushishi Bangai Tanpen: Chi Kakeru Kage",
+                    "url": "https://myanimelist.net/manga/136884/Mushishi_Bangai_Tanpen__Chi_Kakeru_Kage"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 21329,
+                    "type": "anime",
+                    "name": "Mushishi: Hihamukage",
+                    "url": "https://myanimelist.net/anime/21329/Mushishi__Hihamukage"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

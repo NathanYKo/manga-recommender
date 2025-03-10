@@ -1,0 +1,116 @@
+{
+    "mal_id": 95449,
+    "url": "https://myanimelist.net/manga/95449/Air_Gear_-_Trick_358",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/170169.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/170169t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/170169l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/170169.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/170169t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/170169l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Air Gear - Trick:358"
+        },
+        {
+            "type": "Japanese",
+            "title": "エア・ギア TRICK：358"
+        }
+    ],
+    "title": "Air Gear - Trick:358",
+    "title_english": null,
+    "title_japanese": "エア・ギア TRICK：358",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-12-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 12,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 22, 2015"
+    },
+    "score": 7.37,
+    "scored": 7.37,
+    "scored_by": 1340,
+    "rank": 4100,
+    "popularity": 7222,
+    "members": 2890,
+    "favorites": 16,
+    "synopsis": "Special one-shot introducing the main characters six months after the battle of Tropaion Tower.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1932,
+            "type": "people",
+            "name": "Oh! Great",
+            "url": "https://myanimelist.net/people/1932/Oh_Great"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 74,
+                    "type": "manga",
+                    "name": "Air Gear",
+                    "url": "https://myanimelist.net/manga/74/Air_Gear"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

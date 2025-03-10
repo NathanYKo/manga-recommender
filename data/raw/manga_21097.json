@@ -1,0 +1,153 @@
+{
+    "mal_id": 21097,
+    "url": "https://myanimelist.net/manga/21097/Mikakunin_de_Shinkoukei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/292066.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/292066t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/292066l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/292066.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/292066t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/292066l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mikakunin de Shinkoukei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Engaged to the Unidentified"
+        },
+        {
+            "type": "Japanese",
+            "title": "未確認で進行形"
+        }
+    ],
+    "title": "Mikakunin de Shinkoukei",
+    "title_english": null,
+    "title_japanese": "未確認で進行形",
+    "title_synonyms": [
+        "Engaged to the Unidentified"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 16,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-04-22T00:00:00+00:00",
+        "to": "2024-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2024
+            }
+        },
+        "string": "Apr 22, 2009 to Mar 27, 2024"
+    },
+    "score": 7.54,
+    "scored": 7.54,
+    "scored_by": 1772,
+    "rank": 2720,
+    "popularity": 2345,
+    "members": 9318,
+    "favorites": 92,
+    "synopsis": "The story is about an ordinary girl named Yonomori Kobeni who suddenly heard that she is betrothed to a boy named Mitsumine Hakuya. Somehow Hakuya moved in from the countryside and started to live with her, bringing his younger sister with him. Added Kobeni's elder sister who already lives with Kobeni and is crazy about her, the story revolves around these four people and their identities as \"couple\" and \"family.\"\n\n(Source: MAL)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10812,
+            "type": "people",
+            "name": "Arai, Cherry",
+            "url": "https://myanimelist.net/people/10812/Cherry_Arai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1033,
+            "type": "manga",
+            "name": "Manga 4-koma Palette",
+            "url": "https://myanimelist.net/manga/magazine/1033/Manga_4-koma_Palette"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 20541,
+                    "type": "anime",
+                    "name": "Mikakunin de Shinkoukei",
+                    "url": "https://myanimelist.net/anime/20541/Mikakunin_de_Shinkoukei"
+                },
+                {
+                    "mal_id": 23227,
+                    "type": "anime",
+                    "name": "Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne.",
+                    "url": "https://myanimelist.net/anime/23227/Mikakunin_de_Shinkoukei__Kamoniku_tte_Midori-ppoi_Aji_ga_Suru_no_ne"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://online.ichijinsha.co.jp/palette/comic/mikakunin"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%9C%AA%E7%A2%BA%E8%AA%8D%E3%81%A7%E9%80%B2%E8%A1%8C%E5%BD%A2"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Engaged_to_the_Unidentified"
+        }
+    ]
+}

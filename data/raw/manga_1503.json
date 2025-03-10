@@ -1,0 +1,162 @@
+{
+    "mal_id": 1503,
+    "url": "https://myanimelist.net/manga/1503/Arms",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/147805.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/147805t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/147805l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/147805.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/147805t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/147805l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Arms"
+        },
+        {
+            "type": "Japanese",
+            "title": "ARMS"
+        },
+        {
+            "type": "English",
+            "title": "Project ARMS"
+        }
+    ],
+    "title": "Arms",
+    "title_english": "Project ARMS",
+    "title_japanese": "ARMS",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 241,
+    "volumes": 22,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-01-01T00:00:00+00:00",
+        "to": "2002-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            }
+        },
+        "string": "1997 to 2002"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 1016,
+    "rank": 4454,
+    "popularity": 5971,
+    "members": 3605,
+    "favorites": 60,
+    "synopsis": "From Ryoji Minagawa and Kyoichi Nanatsuki comes a world of nano-machines, cybernetic assassins, powerful telekinetic opponents, and secret organization dedicated to bringing forth the next evolution of humankind. Containing all the best elements of sci-fi, spy fiction, and conspiracy theory stories, Project Arms is about kids whose arms transform into grotesquely deformed super weapons.\n\n(Source: Viz)",
+    "background": "Arms was published in English as Project ARMS by VIZ Media from July 30, 2003 to May 12, 2009.",
+    "authors": [
+        {
+            "mal_id": 3032,
+            "type": "people",
+            "name": "Nanatsuki, Kyoichi",
+            "url": "https://myanimelist.net/people/3032/Kyoichi_Nanatsuki"
+        },
+        {
+            "mal_id": 3033,
+            "type": "people",
+            "name": "Minagawa, Ryouji",
+            "url": "https://myanimelist.net/people/3033/Ryouji_Minagawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 40341,
+                    "type": "anime",
+                    "name": "Shounen Sunday CM: ARMS",
+                    "url": "https://myanimelist.net/anime/40341/Shounen_Sunday_CM__ARMS"
+                },
+                {
+                    "mal_id": 1492,
+                    "type": "anime",
+                    "name": "Project ARMS",
+                    "url": "https://myanimelist.net/anime/1492/Project_ARMS"
+                },
+                {
+                    "mal_id": 1493,
+                    "type": "anime",
+                    "name": "Project ARMS: The 2nd Chapter",
+                    "url": "https://myanimelist.net/anime/1493/Project_ARMS__The_2nd_Chapter"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/ARMS"
+        }
+    ]
+}

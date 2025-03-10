@@ -1,0 +1,135 @@
+{
+    "mal_id": 90423,
+    "url": "https://myanimelist.net/manga/90423/No_Guns_Life",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/161444.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/161444t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/161444l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/161444.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/161444t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/161444l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "No Guns Life"
+        },
+        {
+            "type": "Japanese",
+            "title": "ノー・ガンズ・ライフ"
+        },
+        {
+            "type": "English",
+            "title": "No Guns Life"
+        }
+    ],
+    "title": "No Guns Life",
+    "title_english": "No Guns Life",
+    "title_japanese": "ノー・ガンズ・ライフ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 84,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-09-19T00:00:00+00:00",
+        "to": "2021-09-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 9,
+                "year": 2014
+            },
+            "to": {
+                "day": 18,
+                "month": 9,
+                "year": 2021
+            }
+        },
+        "string": "Sep 19, 2014 to Sep 18, 2021"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 2827,
+    "rank": 4637,
+    "popularity": 1425,
+    "members": 14817,
+    "favorites": 170,
+    "synopsis": "After the war, there are many \"Extends\" in the city, people whose bodies were modified to make them into dangerous weapons. Inui Juuzou is one of them, and he has no memories of his life and body before his head was transformed into a gun. Strangely enough, his head-gun is designed so that only someone behind him can pull the trigger. Juuzou makes a living by taking on cases involving Extends in the city, and he is assisted by Mary, an intelligent young woman that he has taken under his protection.\n\n(Source: MU)",
+    "background": "No Guns Life was published in English by VIZ Media under the VIZ Signature imprint from September 17, 2019, to December 20, 2022. It was also released in Spanish by Norma Editorial from April 28, 2017, to February 3, 2023.",
+    "authors": [
+        {
+            "mal_id": 11023,
+            "type": "people",
+            "name": "Karasuma, Tasuku",
+            "url": "https://myanimelist.net/people/11023/Tasuku_Karasuma"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 39539,
+                    "type": "anime",
+                    "name": "No Guns Life",
+                    "url": "https://myanimelist.net/anime/39539/No_Guns_Life"
+                },
+                {
+                    "mal_id": 40529,
+                    "type": "anime",
+                    "name": "No Guns Life 2nd Season",
+                    "url": "https://myanimelist.net/anime/40529/No_Guns_Life_2nd_Season"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://ultra.shueisha.co.jp/manga/manga-195"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%BB%E3%82%AC%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%95"
+        }
+    ]
+}

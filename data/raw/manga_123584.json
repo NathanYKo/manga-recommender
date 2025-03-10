@@ -1,0 +1,122 @@
+{
+    "mal_id": 123584,
+    "url": "https://myanimelist.net/manga/123584/High_Score_Girl_Dash",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/241381.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/241381t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/241381l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/241381.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/241381t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/241381l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "High Score Girl Dash"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハイスコアガールDASH"
+        }
+    ],
+    "title": "High Score Girl Dash",
+    "title_english": null,
+    "title_japanese": "ハイスコアガールDASH",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-12-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 12,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 25, 2019 to ?"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 886,
+    "rank": 4213,
+    "popularity": 6028,
+    "members": 3564,
+    "favorites": 41,
+    "synopsis": "The manga will focus on the character Koharu Hidaka, who is a middle school teacher close to 30 years old in 2007.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 13877,
+            "type": "people",
+            "name": "Oshikiri, Rensuke",
+            "url": "https://myanimelist.net/people/13877/Rensuke_Oshikiri"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 705,
+            "type": "manga",
+            "name": "Big Gangan",
+            "url": "https://myanimelist.net/manga/magazine/705/Big_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 44501,
+                    "type": "manga",
+                    "name": "High Score Girl",
+                    "url": "https://myanimelist.net/manga/44501/High_Score_Girl"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.jp.square-enix.com/biggangan/introduction/highscoregirl_dash/"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "mal_id": 101637,
+    "url": "https://myanimelist.net/manga/101637/Irony_Dress_ni_Sayonara",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/193453.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/193453t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/193453l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/193453.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/193453t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/193453l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Irony Dress ni Sayonara"
+        },
+        {
+            "type": "Synonym",
+            "title": "Goodbye to Irony Dress"
+        },
+        {
+            "type": "Japanese",
+            "title": "アイロニードレスにさよなら"
+        }
+    ],
+    "title": "Irony Dress ni Sayonara",
+    "title_english": null,
+    "title_japanese": "アイロニードレスにさよなら",
+    "title_synonyms": [
+        "Goodbye to Irony Dress"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-01-30T00:00:00+00:00",
+        "to": "2014-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jan 30, 2014 to Sep 30, 2014"
+    },
+    "score": 7.19,
+    "scored": 7.19,
+    "scored_by": 1383,
+    "rank": null,
+    "popularity": 7566,
+    "members": 2738,
+    "favorites": 12,
+    "synopsis": "When 29-year-old Meguru moves into his deceased mother's home, he meets a high school boy wearing... a skirt. Meguru, who happens to be his neighbor and a friend of his mother, is trying to discover himself and help his own mother accept him for what he really is, feeling glad there is someone finally who can support him.\n\nDuring this phase of self-discovery, they start getting closer as both of them slowly deal with their own problems.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 24193,
+            "type": "people",
+            "name": "Miyoshi, Ayato",
+            "url": "https://myanimelist.net/people/24193/Ayato_Miyoshi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 516,
+            "type": "manga",
+            "name": "gateau",
+            "url": "https://myanimelist.net/manga/magazine/516/gateau"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 104303,
+                    "type": "manga",
+                    "name": "Irony Dress ni Sayonara dj - Sayonara made no et cetera",
+                    "url": "https://myanimelist.net/manga/104303/Irony_Dress_ni_Sayonara_dj_-_Sayonara_made_no_et_cetera"
+                },
+                {
+                    "mal_id": 107733,
+                    "type": "manga",
+                    "name": "Irony Dress ni Sayonara dj - Koromogae",
+                    "url": "https://myanimelist.net/manga/107733/Irony_Dress_ni_Sayonara_dj_-_Koromogae"
+                },
+                {
+                    "mal_id": 113687,
+                    "type": "manga",
+                    "name": "Irony Dress ni Sayonara dj – Honto wa Chotto ne",
+                    "url": "https://myanimelist.net/manga/113687/Irony_Dress_ni_Sayonara_dj_–_Honto_wa_Chotto_ne"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

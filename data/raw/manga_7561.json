@@ -1,0 +1,144 @@
+{
+    "mal_id": 7561,
+    "url": "https://myanimelist.net/manga/7561/Ai_no_Kotoba_mo_Shiranaide",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/10326.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/10326t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/10326l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/10326.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/10326t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/10326l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ai no Kotoba mo Shiranaide"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ai no Kotoba mo Shiranai de"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Don't Even Know the Word of Love"
+        },
+        {
+            "type": "Japanese",
+            "title": "愛の言葉も知らないで"
+        }
+    ],
+    "title": "Ai no Kotoba mo Shiranaide",
+    "title_english": null,
+    "title_japanese": "愛の言葉も知らないで",
+    "title_synonyms": [
+        "Ai no Kotoba mo Shiranai de",
+        "I Don't Even Know the Word of Love"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-04-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 30, 2008"
+    },
+    "score": 7.3,
+    "scored": 7.3,
+    "scored_by": 2705,
+    "rank": null,
+    "popularity": 4246,
+    "members": 5268,
+    "favorites": 11,
+    "synopsis": "Kojima, the Vice President of the Student Body, always strives to be on the #1 spot in school. He normally gets along with the carefree Kurata… until one day Kojima snaps and forces Kurata to have sex with him. So starts their S&amp;M relationship or is it love…?\n\n(Source: Fantasy Shrine)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2250,
+            "type": "people",
+            "name": "Honjou, Rie",
+            "url": "https://myanimelist.net/people/2250/Rie_Honjou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 2260,
+                    "type": "manga",
+                    "name": "Konna Otoko wa Aisareru",
+                    "url": "https://myanimelist.net/manga/2260/Konna_Otoko_wa_Aisareru"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 23188,
+                    "type": "manga",
+                    "name": "Himitsu no Yoasobi",
+                    "url": "https://myanimelist.net/manga/23188/Himitsu_no_Yoasobi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

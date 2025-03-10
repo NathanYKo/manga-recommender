@@ -1,0 +1,127 @@
+{
+    "mal_id": 35207,
+    "url": "https://myanimelist.net/manga/35207/Katekyo_Special_Booklets",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/64245.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/64245t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/64245l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/64245.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/64245t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/64245l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Katekyo! Special Booklets"
+        },
+        {
+            "type": "Synonym",
+            "title": "Katekyo! Special Booklet #2"
+        },
+        {
+            "type": "Japanese",
+            "title": "カテキョ！ SPECIAL BOOK"
+        }
+    ],
+    "title": "Katekyo! Special Booklets",
+    "title_english": null,
+    "title_japanese": "カテキョ！ SPECIAL BOOK",
+    "title_synonyms": [
+        "Katekyo! Special Booklet #2"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-04-01T00:00:00+00:00",
+        "to": "2011-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2010
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            }
+        },
+        "string": "Apr 2010 to Jan 2011"
+    },
+    "score": 7.79,
+    "scored": 7.79,
+    "scored_by": 1232,
+    "rank": null,
+    "popularity": 8187,
+    "members": 2488,
+    "favorites": 3,
+    "synopsis": "Special booklets released featuring side stories with the characters from Moegi Yuu's Katekyo! series.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6862,
+            "type": "people",
+            "name": "Moegi, Yuu",
+            "url": "https://myanimelist.net/people/6862/Yuu_Moegi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 156,
+            "type": "manga",
+            "name": "drap",
+            "url": "https://myanimelist.net/manga/magazine/156/drap"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 11716,
+                    "type": "manga",
+                    "name": "Katekyo!",
+                    "url": "https://myanimelist.net/manga/11716/Katekyo"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

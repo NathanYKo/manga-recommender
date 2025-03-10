@@ -1,0 +1,124 @@
+{
+    "mal_id": 113835,
+    "url": "https://myanimelist.net/manga/113835/Biao_Ren",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/225139.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/225139t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/225139l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/225139.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/225139t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/225139l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Biao Ren"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blades of the Guardians"
+        },
+        {
+            "type": "Japanese",
+            "title": "镖人"
+        }
+    ],
+    "title": "Biao Ren",
+    "title_english": null,
+    "title_japanese": "镖人",
+    "title_synonyms": [
+        "Blades of the Guardians"
+    ],
+    "type": "Manhua",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-07-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 1, 2015 to ?"
+    },
+    "score": 7.68,
+    "scored": 7.68,
+    "scored_by": 525,
+    "rank": 1880,
+    "popularity": 6040,
+    "members": 3559,
+    "favorites": 42,
+    "synopsis": "\"Escorts\" are warriors paid to take out the targets wanted by the government. Dao Ma is one traveling warrior trying to repay the debt he owes to a man named Mo, who took care of Dao Ma and his child, Xiao Qi. But on the way back to Mo's town, they encounter a victim of the \"rakshasa\"—man-eating demons. Between the rise of rakshasa victims, bloodshed, slavery, and ruthless warriors, Dao Ma becomes caught up in the terror sweeping through the country during the last years of the Sui dynasty.\n\n(Source: Manga Rock)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 50096,
+            "type": "people",
+            "name": "Xu, Xianzhe",
+            "url": "https://myanimelist.net/people/50096/Xianzhe_Xu"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 44388,
+                    "type": "anime",
+                    "name": "Biao Ren: Blades of the Guardians",
+                    "url": "https://myanimelist.net/anime/44388/Biao_Ren__Blades_of_the_Guardians"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://m.xinmanhua.net/work/273042737"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Biao_Ren"
+        }
+    ]
+}

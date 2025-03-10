@@ -1,0 +1,132 @@
+{
+    "mal_id": 49609,
+    "url": "https://myanimelist.net/manga/49609/Warui_Ouji_demo_Suki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/136007.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/136007t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/136007l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/136007.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/136007t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/136007l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Warui Ouji demo Suki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nonfiction"
+        },
+        {
+            "type": "Synonym",
+            "title": "Non Fiction"
+        },
+        {
+            "type": "Japanese",
+            "title": "ワルイ王子でもスキ"
+        }
+    ],
+    "title": "Warui Ouji demo Suki",
+    "title_english": null,
+    "title_japanese": "ワルイ王子でもスキ",
+    "title_synonyms": [
+        "Nonfiction",
+        "Non Fiction"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-03-14T00:00:00+00:00",
+        "to": "2013-06-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 3,
+                "year": 2013
+            },
+            "to": {
+                "day": 14,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Mar 14, 2013 to Jun 14, 2013"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 2043,
+    "rank": null,
+    "popularity": 5372,
+    "members": 4056,
+    "favorites": 1,
+    "synopsis": "Volume 12 of the Warui series focusing on Towa and Mikado.\n\nIncluded one-shot: Non Fiction",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3272,
+            "type": "people",
+            "name": "Sakuraga, Mei",
+            "url": "https://myanimelist.net/people/3272/Mei_Sakuraga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 19253,
+                    "type": "manga",
+                    "name": "Warui Koibito ja Dame?",
+                    "url": "https://myanimelist.net/manga/19253/Warui_Koibito_ja_Dame"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

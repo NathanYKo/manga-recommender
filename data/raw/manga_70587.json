@@ -1,0 +1,158 @@
+{
+    "mal_id": 70587,
+    "url": "https://myanimelist.net/manga/70587/Owaranai_Fukou_ni_Tsuite_no_Hanashi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165102.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165102t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165102l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165102.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165102t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165102l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Owaranai Fukou ni Tsuite no Hanashi"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Story Which Misery Does Not End"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gosan no Heart"
+        },
+        {
+            "type": "Japanese",
+            "title": "終わらない不幸についての話"
+        },
+        {
+            "type": "English",
+            "title": "The Story of Never Ending Unhappiness"
+        }
+    ],
+    "title": "Owaranai Fukou ni Tsuite no Hanashi",
+    "title_english": "The Story of Never Ending Unhappiness",
+    "title_japanese": "終わらない不幸についての話",
+    "title_synonyms": [
+        "The Story Which Misery Does Not End",
+        "Gosan no Heart"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-01-07T00:00:00+00:00",
+        "to": "2015-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 7,
+                "month": 4,
+                "year": 2015
+            }
+        },
+        "string": "Jan 7, 2013 to Apr 7, 2015"
+    },
+    "score": 7.55,
+    "scored": 7.55,
+    "scored_by": 2939,
+    "rank": null,
+    "popularity": 3723,
+    "members": 6059,
+    "favorites": 31,
+    "synopsis": "This is the story of Udou's brother, Takayuki from Gosan no Heart.\n\nOne day, at the party Takayuki attends, he meets Kiyotake—his old classmate from high school 8 years ago. Kiyotake's girlfriend in high school was stolen by Takayuki. What will happen when the two meet? What will happen when one of them is drunk? Will Takayuki's painful feelings of unrequited love come to an end or will there be a happy ending?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5471,
+            "type": "people",
+            "name": "Takagi, Shigeyoshi",
+            "url": "https://myanimelist.net/people/5471/Shigeyoshi_Takagi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 131,
+            "type": "manga",
+            "name": "GUSH",
+            "url": "https://myanimelist.net/manga/magazine/131/GUSH"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 139443,
+                    "type": "manga",
+                    "name": "Yamanai Fukou no Owarasekata",
+                    "url": "https://myanimelist.net/manga/139443/Yamanai_Fukou_no_Owarasekata"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 94711,
+                    "type": "manga",
+                    "name": "Gosan de Fukou na Koibana",
+                    "url": "https://myanimelist.net/manga/94711/Gosan_de_Fukou_na_Koibana"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 46646,
+                    "type": "manga",
+                    "name": "Gosan no Heart",
+                    "url": "https://myanimelist.net/manga/46646/Gosan_no_Heart"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

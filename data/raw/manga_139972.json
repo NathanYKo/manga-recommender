@@ -1,0 +1,149 @@
+{
+    "mal_id": 139972,
+    "url": "https://myanimelist.net/manga/139972/One_Piece__Vivi_no_Bouken",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/249763.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/249763t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/249763l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/249763.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/249763t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/249763l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "One Piece: Vivi no Bouken"
+        },
+        {
+            "type": "Japanese",
+            "title": "ONE PIECE ビビの冒険"
+        },
+        {
+            "type": "English",
+            "title": "One Piece: Vivi's Adventure"
+        }
+    ],
+    "title": "One Piece: Vivi no Bouken",
+    "title_english": "One Piece: Vivi's Adventure",
+    "title_japanese": "ONE PIECE ビビの冒険",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2021-08-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 8,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 30, 2021"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 1713,
+    "rank": 4245,
+    "popularity": 6774,
+    "members": 3131,
+    "favorites": 7,
+    "synopsis": "A remake of chapter 216 of One Piece, drawn by Naoshi Komi.",
+    "background": "One Piece: Vivi no Bouken is part of the One Piece Comic Cover Project. The one-shot was simulpub in English as One Piece: Vivi's Adventure through MANGA Plus service.",
+    "authors": [
+        {
+            "mal_id": 1881,
+            "type": "people",
+            "name": "Oda, Eiichiro",
+            "url": "https://myanimelist.net/people/1881/Eiichiro_Oda"
+        },
+        {
+            "mal_id": 4766,
+            "type": "people",
+            "name": "Komi, Naoshi",
+            "url": "https://myanimelist.net/people/4766/Naoshi_Komi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 13,
+                    "type": "manga",
+                    "name": "One Piece",
+                    "url": "https://myanimelist.net/manga/13/One_Piece"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ONE_PIECE"
+        }
+    ]
+}

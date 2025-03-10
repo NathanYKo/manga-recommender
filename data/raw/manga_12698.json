@@ -1,0 +1,116 @@
+{
+    "mal_id": 12698,
+    "url": "https://myanimelist.net/manga/12698/Gakkou_Hotel",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/270464.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/270464t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/270464l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/270464.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/270464t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/270464l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gakkou Hotel"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gakkou Hoteru"
+        },
+        {
+            "type": "Synonym",
+            "title": "School Hotel"
+        },
+        {
+            "type": "Japanese",
+            "title": "学校ホテル"
+        }
+    ],
+    "title": "Gakkou Hotel",
+    "title_english": null,
+    "title_japanese": "学校ホテル",
+    "title_synonyms": [
+        "Gakkou Hoteru",
+        "School Hotel"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2008"
+    },
+    "score": 7,
+    "scored": 7,
+    "scored_by": 1139,
+    "rank": 9074,
+    "popularity": 7708,
+    "members": 2672,
+    "favorites": 5,
+    "synopsis": "Welcome to the School Hotel, where the people who can’t show their true self at the afternoon school, can be themselves. One day, Tenno Toriko, a highly intelligent student at Kenrin High School was invited to the School Hotel…?   \n\n(Source: Midnight Scans)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3561,
+            "type": "people",
+            "name": "Morie, Satoshi",
+            "url": "https://myanimelist.net/people/3561/Satoshi_Morie"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/21/Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

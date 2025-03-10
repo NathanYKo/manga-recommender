@@ -1,0 +1,155 @@
+{
+    "mal_id": 19980,
+    "url": "https://myanimelist.net/manga/19980/Koi_dano_Ai_dano",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/164400.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/164400t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/164400l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/164400.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/164400t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/164400l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koi dano Ai dano"
+        },
+        {
+            "type": "Synonym",
+            "title": "Like and Love and"
+        },
+        {
+            "type": "Synonym",
+            "title": "Koi da no Ai da no"
+        },
+        {
+            "type": "Synonym",
+            "title": "Futsuu Hyakkei"
+        },
+        {
+            "type": "Japanese",
+            "title": "恋だの愛だの"
+        }
+    ],
+    "title": "Koi dano Ai dano",
+    "title_english": null,
+    "title_japanese": "恋だの愛だの",
+    "title_synonyms": [
+        "Like and Love and",
+        "Koi da no Ai da no",
+        "Futsuu Hyakkei"
+    ],
+    "type": "Manga",
+    "chapters": 46,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-10-10T00:00:00+00:00",
+        "to": "2016-04-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 9,
+                "month": 4,
+                "year": 2016
+            }
+        },
+        "string": "Oct 10, 2009 to Apr 9, 2016"
+    },
+    "score": 8.05,
+    "scored": 8.05,
+    "scored_by": 4350,
+    "rank": 675,
+    "popularity": 1774,
+    "members": 12222,
+    "favorites": 222,
+    "synopsis": "Aside from being transferred from school to school during her middle school years, Kanoko has entered Takara no Tani High School with Tsubaki. For some reason, she becomes the \"Strategist\" for Cultural Affairs Department in reference to the Three Kingdoms and ends up joining the Newspaper Club...\n\n(Source: Chibi Manga)\n\nIncluded one-shot:\nVolume 10: Futsuu Hyakkei",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 8234,
+            "type": "people",
+            "name": "Tsujita, Ririko",
+            "url": "https://myanimelist.net/people/8234/Ririko_Tsujita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 135,
+            "type": "manga",
+            "name": "LaLa DX",
+            "url": "https://myanimelist.net/manga/magazine/135/LaLa_DX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 10412,
+                    "type": "manga",
+                    "name": "Warau Kanoko-sama",
+                    "url": "https://myanimelist.net/manga/10412/Warau_Kanoko-sama"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 63905,
+                    "type": "manga",
+                    "name": "Koinashi Ainashi",
+                    "url": "https://myanimelist.net/manga/63905/Koinashi_Ainashi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E3%81%A0%E3%81%AE%E6%84%9B%E3%81%A0%E3%81%AE"
+        }
+    ]
+}

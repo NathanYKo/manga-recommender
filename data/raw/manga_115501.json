@@ -1,0 +1,156 @@
+{
+    "mal_id": 115501,
+    "url": "https://myanimelist.net/manga/115501/Yuusha_Yamemasu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/212662.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/212662t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/212662l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/212662.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/212662t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/212662l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yuusha, Yamemasu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dropout Braver"
+        },
+        {
+            "type": "Japanese",
+            "title": "勇者、辞めます"
+        },
+        {
+            "type": "English",
+            "title": "I'm Quitting Heroing"
+        }
+    ],
+    "title": "Yuusha, Yamemasu",
+    "title_english": "I'm Quitting Heroing",
+    "title_japanese": "勇者、辞めます",
+    "title_synonyms": [
+        "Dropout Braver"
+    ],
+    "type": "Manga",
+    "chapters": 47,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-05-31T00:00:00+00:00",
+        "to": "2023-06-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 5,
+                "year": 2018
+            },
+            "to": {
+                "day": 2,
+                "month": 6,
+                "year": 2023
+            }
+        },
+        "string": "May 31, 2018 to Jun 2, 2023"
+    },
+    "score": 6.77,
+    "scored": 6.77,
+    "scored_by": 3021,
+    "rank": 12625,
+    "popularity": 1809,
+    "members": 12014,
+    "favorites": 52,
+    "synopsis": "After saving the world, the strongest hero Leo became someone who is not wanted in the peaceful human world. He was too strong. Exiled, he seeks a job at the Demon King's Army, which he had defeated and needs to be rebuilt.\n\nThe Army had many problems: too much work, financial troubles, etc. Leo starts to make things better using his power. Leo encounters Echidna again, and asks her why she invaded the human world. There was an unexpected story...!\n\n(Source: Kadokawa)",
+    "background": "Yuusha, Yamemasu is published digitally as an English simulpub as I'm Quitting Heroing by Kadokawa. The volumes have been published by Yen Press since January 17, 2023.",
+    "authors": [
+        {
+            "mal_id": 4894,
+            "type": "people",
+            "name": "Kazato, Nori",
+            "url": "https://myanimelist.net/people/4894/Nori_Kazato"
+        },
+        {
+            "mal_id": 48277,
+            "type": "people",
+            "name": "Quantum",
+            "url": "https://myanimelist.net/people/48277/Quantum"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1340,
+            "type": "manga",
+            "name": "Young Ace UP",
+            "url": "https://myanimelist.net/manga/magazine/1340/Young_Ace_UP"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 115500,
+                    "type": "manga",
+                    "name": "Yuusha, Yamemasu: Tsugi no Shokuba wa Maoujou",
+                    "url": "https://myanimelist.net/manga/115500/Yuusha_Yamemasu__Tsugi_no_Shokuba_wa_Maoujou"
+                },
+                {
+                    "mal_id": 50175,
+                    "type": "anime",
+                    "name": "Yuusha, Yamemasu",
+                    "url": "https://myanimelist.net/anime/50175/Yuusha_Yamemasu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://web-ace.jp/youngaceup/contents/1000091/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/I%27m_Quitting_Heroing"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/勇者、辞めます〜次の職場は魔王城〜"
+        }
+    ]
+}

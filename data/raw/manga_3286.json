@@ -1,0 +1,169 @@
+{
+    "mal_id": 3286,
+    "url": "https://myanimelist.net/manga/3286/Koukou_Tekkenden_Tough",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/75339.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/75339t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/75339l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/75339.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/75339t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/75339l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koukou Tekkenden Tough"
+        },
+        {
+            "type": "Japanese",
+            "title": "高校鉄拳伝タフ"
+        },
+        {
+            "type": "English",
+            "title": "Tough"
+        }
+    ],
+    "title": "Koukou Tekkenden Tough",
+    "title_english": "Tough",
+    "title_japanese": "高校鉄拳伝タフ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 474,
+    "volumes": 42,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-07-22T00:00:00+00:00",
+        "to": "2003-06-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 7,
+                "year": 1993
+            },
+            "to": {
+                "day": 19,
+                "month": 6,
+                "year": 2003
+            }
+        },
+        "string": "Jul 22, 1993 to Jun 19, 2003"
+    },
+    "score": 7.5,
+    "scored": 7.5,
+    "scored_by": 1093,
+    "rank": 2958,
+    "popularity": 4942,
+    "members": 4436,
+    "favorites": 42,
+    "synopsis": "Nobody enjoys a good fight more than \"Kiibo\" Miyazawa, a high school student whose father is training him in the family's secret martial art. Kiibo dreams of becoming the next Bruce Lee, but his awesome fighting skills may soon surpass his idol's!",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7363,
+            "type": "people",
+            "name": "Saruwatari, Tetsuya",
+            "url": "https://myanimelist.net/people/7363/Tetsuya_Saruwatari"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 3287,
+                    "type": "manga",
+                    "name": "Tough",
+                    "url": "https://myanimelist.net/manga/3287/Tough"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2797,
+                    "type": "anime",
+                    "name": "Koukou Tekken-den Tough",
+                    "url": "https://myanimelist.net/anime/2797/Koukou_Tekken-den_Tough"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 12037,
+                    "type": "manga",
+                    "name": "Tough Gaiden: Oton",
+                    "url": "https://myanimelist.net/manga/12037/Tough_Gaiden__Oton"
+                },
+                {
+                    "mal_id": 104601,
+                    "type": "manga",
+                    "name": "Tough: Ryuu wo Tsugu Otoko",
+                    "url": "https://myanimelist.net/manga/104601/Tough__Ryuu_wo_Tsugu_Otoko"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 161154,
+                    "type": "manga",
+                    "name": "Tough Bangai-hen: Yawara no Shou",
+                    "url": "https://myanimelist.net/manga/161154/Tough_Bangai-hen__Yawara_no_Shou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tough_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A0%A1%E9%89%84%E6%8B%B3%E4%BC%9D%E3%82%BF%E3%83%95"
+        }
+    ]
+}

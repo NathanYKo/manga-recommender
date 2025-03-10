@@ -1,0 +1,129 @@
+{
+    "mal_id": 145004,
+    "url": "https://myanimelist.net/manga/145004/Meisou_Senshi_Nagata_Kabi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/257320.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/257320t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/257320l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/257320.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/257320t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/257320l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Meisou Senshi Nagata Kabi"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Wandering Warrior Nagata Kabi"
+        },
+        {
+            "type": "Japanese",
+            "title": "迷走戦士・永田カビ"
+        },
+        {
+            "type": "English",
+            "title": "My Wandering Warrior Existence"
+        }
+    ],
+    "title": "Meisou Senshi Nagata Kabi",
+    "title_english": "My Wandering Warrior Existence",
+    "title_japanese": "迷走戦士・永田カビ",
+    "title_synonyms": [
+        "The Wandering Warrior Nagata Kabi"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-03-27T00:00:00+00:00",
+        "to": "2020-11-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 3,
+                "year": 2020
+            },
+            "to": {
+                "day": 27,
+                "month": 11,
+                "year": 2020
+            }
+        },
+        "string": "Mar 27, 2020 to Nov 27, 2020"
+    },
+    "score": 7.49,
+    "scored": 7.49,
+    "scored_by": 1514,
+    "rank": 3053,
+    "popularity": 5687,
+    "members": 3788,
+    "favorites": 23,
+    "synopsis": "After attending a friend’s wedding, Nagata Kabi decides she wants one of her own. That’s not the only thing she wants—she longs to love and be loved. But she has three major problems: she has no partner, no dating experience, and her only sexual encounters are limited to a lesbian escort service. With the help of a photoshoot, a dating app, and more, the author embarks on a journey to seek the love and happiness she so desperately desires.\n\n(Source: Seven Seas Entertainment)",
+    "background": "Meisou Senshi Nagata Kabi was published in English as My Wandering Warrior Existence by Seven Seas Entertainment on March 15, 2022.",
+    "authors": [
+        {
+            "mal_id": 41713,
+            "type": "people",
+            "name": "Nagata, Kabi",
+            "url": "https://myanimelist.net/people/41713/Kabi_Nagata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1510,
+            "type": "manga",
+            "name": "Web Action",
+            "url": "https://myanimelist.net/manga/magazine/1510/Web_Action"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 122691,
+                    "type": "manga",
+                    "name": "Genjitsu Touhi shitetara Boroboro ni Natta Hanashi",
+                    "url": "https://myanimelist.net/manga/122691/Genjitsu_Touhi_shitetara_Boroboro_ni_Natta_Hanashi"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 133773,
+                    "type": "manga",
+                    "name": "Meisou Senshi Nagata Kabi: Gourmet de Go!",
+                    "url": "https://myanimelist.net/manga/133773/Meisou_Senshi_Nagata_Kabi__Gourmet_de_Go"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-action.com/episode/13933686331606211381"
+        }
+    ]
+}

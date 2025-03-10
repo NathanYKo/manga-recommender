@@ -1,0 +1,144 @@
+{
+    "mal_id": 94110,
+    "url": "https://myanimelist.net/manga/94110/Boku_no_Hero_Academia_Smash",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/175313.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/175313t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/175313l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/175313.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/175313t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/175313l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boku no Hero Academia Smash!"
+        },
+        {
+            "type": "Japanese",
+            "title": "僕のヒーローアカデミアすまっしゅ!!"
+        },
+        {
+            "type": "English",
+            "title": "My Hero Academia: Smash!!"
+        }
+    ],
+    "title": "Boku no Hero Academia Smash!",
+    "title_english": "My Hero Academia: Smash!!",
+    "title_japanese": "僕のヒーローアカデミアすまっしゅ!!",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 104,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-11-02T00:00:00+00:00",
+        "to": "2017-11-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 11,
+                "year": 2015
+            },
+            "to": {
+                "day": 2,
+                "month": 11,
+                "year": 2017
+            }
+        },
+        "string": "Nov 2, 2015 to Nov 2, 2017"
+    },
+    "score": 6.87,
+    "scored": 6.87,
+    "scored_by": 3065,
+    "rank": 11119,
+    "popularity": 2206,
+    "members": 9806,
+    "favorites": 115,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 39516,
+            "type": "people",
+            "name": "Neda, Hirofumi",
+            "url": "https://myanimelist.net/people/39516/Hirofumi_Neda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1209,
+            "type": "manga",
+            "name": "Shounen Jump+",
+            "url": "https://myanimelist.net/manga/magazine/1209/Shounen_Jump_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 75989,
+                    "type": "manga",
+                    "name": "Boku no Hero Academia",
+                    "url": "https://myanimelist.net/manga/75989/Boku_no_Hero_Academia"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2"
+        }
+    ]
+}

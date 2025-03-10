@@ -1,0 +1,121 @@
+{
+    "mal_id": 46326,
+    "url": "https://myanimelist.net/manga/46326/Bokura_no_Negai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/190413.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/190413t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/190413l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/190413.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/190413t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/190413l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bokura no Negai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Our Wish"
+        },
+        {
+            "type": "Japanese",
+            "title": "ぼくらのねがい"
+        }
+    ],
+    "title": "Bokura no Negai",
+    "title_english": null,
+    "title_japanese": "ぼくらのねがい",
+    "title_synonyms": [
+        "Our Wish"
+    ],
+    "type": "Manga",
+    "chapters": 21,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-04-20T00:00:00+00:00",
+        "to": "2016-10-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 19,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "Apr 20, 2012 to Oct 19, 2016"
+    },
+    "score": 7.65,
+    "scored": 7.65,
+    "scored_by": 3324,
+    "rank": null,
+    "popularity": 2927,
+    "members": 7665,
+    "favorites": 73,
+    "synopsis": "After Ryou's father remarries, he's not sure what to do with three new brothers and a stepmother at the age of 19. As he comes to appreciate his happy new home and family the glue holding them together starts to come undone. How will these four brothers weather tragedy after tragedy and stay together?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3240,
+            "type": "people",
+            "name": "Yamamoto, Kotetsuko",
+            "url": "https://myanimelist.net/people/3240/Kotetsuko_Yamamoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 188,
+            "type": "manga",
+            "name": "Craft",
+            "url": "https://myanimelist.net/manga/magazine/188/Craft"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 17760,
+                    "type": "manga",
+                    "name": "Mankai Darling",
+                    "url": "https://myanimelist.net/manga/17760/Mankai_Darling"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

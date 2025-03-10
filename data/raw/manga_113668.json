@@ -1,0 +1,153 @@
+{
+    "mal_id": 113668,
+    "url": "https://myanimelist.net/manga/113668/Tobaku_Datenroku_Kaiji__24-oku_Dasshutsu-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/210356.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/210356t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/210356l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/210356.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/210356t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/210356l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tobaku Datenroku Kaiji: 24-oku Dasshutsu-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kaiji Part 6"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tobaku Datenroku Kaiji: The 2.4 Billion Yen Escape Arc"
+        },
+        {
+            "type": "Japanese",
+            "title": "賭博堕天録カイジ 24億脱出編"
+        }
+    ],
+    "title": "Tobaku Datenroku Kaiji: 24-oku Dasshutsu-hen",
+    "title_english": null,
+    "title_japanese": "賭博堕天録カイジ 24億脱出編",
+    "title_synonyms": [
+        "Kaiji Part 6",
+        "Tobaku Datenroku Kaiji: The 2.4 Billion Yen Escape Arc"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-08-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 8,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 28, 2017 to ?"
+    },
+    "score": 7.73,
+    "scored": 7.73,
+    "scored_by": 1489,
+    "rank": 1625,
+    "popularity": 4460,
+    "members": 4993,
+    "favorites": 51,
+    "synopsis": "The 6th part of the Kaiji series.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2539,
+            "type": "people",
+            "name": "Fukumoto, Nobuyuki",
+            "url": "https://myanimelist.net/people/2539/Nobuyuki_Fukumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 61579,
+                    "type": "manga",
+                    "name": "Tobaku Datenroku Kaiji: One Poker-hen",
+                    "url": "https://myanimelist.net/manga/61579/Tobaku_Datenroku_Kaiji__One_Poker-hen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/tobakudatenrokukaiji_24oku/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kaiji_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E8%B3%AD%E5%8D%9A%E9%BB%99%E7%A4%BA%E9%8C%B2%E3%82%AB%E3%82%A4%E3%82%B8"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "mal_id": 117179,
+    "url": "https://myanimelist.net/manga/117179/Tensura_Nikki__Tensei_shitara_Slime_Datta_Ken",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/220263.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/220263t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/220263l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/220263.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/220263t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/220263l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tensura Nikki: Tensei shitara Slime Datta Ken"
+        },
+        {
+            "type": "Japanese",
+            "title": "転スラ日記 転生したらスライムだった件"
+        },
+        {
+            "type": "English",
+            "title": "The Slime Diaries: That Time I Got Reincarnated as a Slime"
+        }
+    ],
+    "title": "Tensura Nikki: Tensei shitara Slime Datta Ken",
+    "title_english": "The Slime Diaries: That Time I Got Reincarnated as a Slime",
+    "title_japanese": "転スラ日記 転生したらスライムだった件",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2018-04-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 26, 2018 to ?"
+    },
+    "score": 7.76,
+    "scored": 7.76,
+    "scored_by": 1635,
+    "rank": 1479,
+    "popularity": 3528,
+    "members": 6360,
+    "favorites": 87,
+    "synopsis": "Gag manga set in the world of isekai megahit That Time I Got Reincarnated as a Slime! You'll get the lowdown on the everyday lives of Rimuru and other characters in this hilarious spinoff series.\n\n(Source: Kodansha Comics)",
+    "background": "Tensura Nikki: Tensei shitara Slime Datta Ken has been published digitally in English as The Slime Diaries: That Time I Got Reincarnated as a Slime by Kodansha Comics since July 30, 2019.",
+    "authors": [
+        {
+            "mal_id": 49313,
+            "type": "people",
+            "name": "Shiba",
+            "url": "https://myanimelist.net/people/49313/Shiba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 100,
+            "type": "manga",
+            "name": "Shounen Sirius",
+            "url": "https://myanimelist.net/manga/magazine/100/Shounen_Sirius"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        },
+        {
+            "mal_id": 73,
+            "type": "manga",
+            "name": "Reincarnation",
+            "url": "https://myanimelist.net/manga/genre/73/Reincarnation"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 41488,
+                    "type": "anime",
+                    "name": "Tensura Nikki: Tensei shitara Slime Datta Ken",
+                    "url": "https://myanimelist.net/anime/41488/Tensura_Nikki__Tensei_shitara_Slime_Datta_Ken"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 87610,
+                    "type": "manga",
+                    "name": "Tensei shitara Slime Datta Ken",
+                    "url": "https://myanimelist.net/manga/87610/Tensei_shitara_Slime_Datta_Ken"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/the-slime-diaries/"
+        },
+        {
+            "name": "Official Site",
+            "url": "http://shonen-sirius.com/series/sirius/tensla-nikki/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/転生したらスライムだった件"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "mal_id": 34905,
+    "url": "https://myanimelist.net/manga/34905/Photokano__Sweet_Snap",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/88649.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/88649t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/88649l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/88649.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/88649t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/88649l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Photokano: Sweet Snap"
+        },
+        {
+            "type": "Synonym",
+            "title": "Photo Kano: Sweet Snap"
+        },
+        {
+            "type": "Synonym",
+            "title": "Picture Girlfriend"
+        },
+        {
+            "type": "Japanese",
+            "title": "フォトカノ Sweet Snap"
+        }
+    ],
+    "title": "Photokano: Sweet Snap",
+    "title_english": null,
+    "title_japanese": "フォトカノ Sweet Snap",
+    "title_synonyms": [
+        "Photo Kano: Sweet Snap",
+        "Picture Girlfriend"
+    ],
+    "type": "Manga",
+    "chapters": 20,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-11-26T00:00:00+00:00",
+        "to": "2013-07-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 11,
+                "year": 2011
+            },
+            "to": {
+                "day": 27,
+                "month": 7,
+                "year": 2013
+            }
+        },
+        "string": "Nov 26, 2011 to Jul 27, 2013"
+    },
+    "score": 7.13,
+    "scored": 7.13,
+    "scored_by": 829,
+    "rank": 7020,
+    "popularity": 8192,
+    "members": 2486,
+    "favorites": 11,
+    "synopsis": "Based off the popular Japanese PSP game, Photo Kano, is about a boy, his interest in photography, and the harem that grows out of it.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9057,
+            "type": "people",
+            "name": "Yuzuki N'",
+            "url": "https://myanimelist.net/people/9057/Yuzuki_N"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 163,
+            "type": "manga",
+            "name": "Dengeki Maoh",
+            "url": "https://myanimelist.net/manga/magazine/163/Dengeki_Maoh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 35349,
+                    "type": "manga",
+                    "name": "Photokano: Your Eyes Only",
+                    "url": "https://myanimelist.net/manga/35349/Photokano__Your_Eyes_Only"
+                },
+                {
+                    "mal_id": 93802,
+                    "type": "manga",
+                    "name": "Photokano: Memorial Pictures",
+                    "url": "https://myanimelist.net/manga/93802/Photokano__Memorial_Pictures"
+                },
+                {
+                    "mal_id": 67551,
+                    "type": "manga",
+                    "name": "Photokano: Happy Album",
+                    "url": "https://myanimelist.net/manga/67551/Photokano__Happy_Album"
+                },
+                {
+                    "mal_id": 58443,
+                    "type": "manga",
+                    "name": "Photokano: Penta Prism Memories",
+                    "url": "https://myanimelist.net/manga/58443/Photokano__Penta_Prism_Memories"
+                },
+                {
+                    "mal_id": 67547,
+                    "type": "manga",
+                    "name": "Photokano: Love Album",
+                    "url": "https://myanimelist.net/manga/67547/Photokano__Love_Album"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%88%E3%82%AB%E3%83%8E"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "mal_id": 5356,
+    "url": "https://myanimelist.net/manga/5356/Old_Home_no_Haibane-tachi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6747.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6747t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6747l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6747.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6747t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6747l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Old Home no Haibane-tachi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ailes Grises"
+        },
+        {
+            "type": "Synonym",
+            "title": "Charcoal Feathers in Old Home"
+        },
+        {
+            "type": "Synonym",
+            "title": "Haibane Renmei"
+        },
+        {
+            "type": "Japanese",
+            "title": "オールドホームの灰羽達"
+        },
+        {
+            "type": "English",
+            "title": "The Haibanes of Old Home"
+        }
+    ],
+    "title": "Old Home no Haibane-tachi",
+    "title_english": "The Haibanes of Old Home",
+    "title_japanese": "オールドホームの灰羽達",
+    "title_synonyms": [
+        "Ailes Grises",
+        "Charcoal Feathers in Old Home",
+        "Haibane Renmei"
+    ],
+    "type": "Doujinshi",
+    "chapters": null,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-08-12T00:00:00+00:00",
+        "to": "2001-12-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 8,
+                "year": 2001
+            },
+            "to": {
+                "day": 30,
+                "month": 12,
+                "year": 2001
+            }
+        },
+        "string": "Aug 12, 2001 to Dec 30, 2001"
+    },
+    "score": 7.23,
+    "scored": 7.23,
+    "scored_by": 1715,
+    "rank": 5663,
+    "popularity": 3963,
+    "members": 5668,
+    "favorites": 58,
+    "synopsis": "The series follow a young girl named Rakka, a newly arrived haibane (an angelic-looking being), and other characters in the city of Glie, a walled city with one entrance where no one is allowed to leave.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1991,
+            "type": "people",
+            "name": "ABe, Yoshitoshi",
+            "url": "https://myanimelist.net/people/1991/Yoshitoshi_ABe"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 387,
+                    "type": "anime",
+                    "name": "Haibane Renmei",
+                    "url": "https://myanimelist.net/anime/387/Haibane_Renmei"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 34211,
+                    "type": "manga",
+                    "name": "Old Home no Haibane-tachi: Bangai-hen",
+                    "url": "https://myanimelist.net/manga/34211/Old_Home_no_Haibane-tachi__Bangai-hen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%81%B0%E7%BE%BD%E9%80%A3%E7%9B%9F"
+        }
+    ]
+}

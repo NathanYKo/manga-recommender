@@ -1,0 +1,132 @@
+{
+    "mal_id": 20383,
+    "url": "https://myanimelist.net/manga/20383/Jin_to_Neko_wa_Yobu_to_Konai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/32226.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/32226t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/32226l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/32226.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/32226t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/32226l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Jin to Neko wa Yobu to Konai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Neither Jin nor a Cat Come when Calling"
+        },
+        {
+            "type": "Japanese",
+            "title": "ジンと猫は呼ぶと来ない"
+        }
+    ],
+    "title": "Jin to Neko wa Yobu to Konai",
+    "title_english": null,
+    "title_japanese": "ジンと猫は呼ぶと来ない",
+    "title_synonyms": [
+        "Neither Jin nor a Cat Come when Calling"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-01-01T00:00:00+00:00",
+        "to": "2010-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            }
+        },
+        "string": "2007 to 2010"
+    },
+    "score": 7.24,
+    "scored": 7.24,
+    "scored_by": 1204,
+    "rank": null,
+    "popularity": 8612,
+    "members": 2334,
+    "favorites": 14,
+    "synopsis": "In the gritty backstreets of Paris, Jin ekes out a living as an informant while his buddy, Mari, does business as a hitman. They‘ve been friends since they were brats, but Jin’s demanding behavior has Mari growing increasingly resentful. Even so, Mari can’t seem to cut his ties to Jin.\n\nHas their friendship lasted so long it’s become impossible to break? What will happen when Jin’s new live-in boyfriend ignores Mari’s warning about Jin’s carefree lifestyle…?\n\n(Source: Dangerous Pleasure)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9617,
+            "type": "people",
+            "name": "SHOOWA",
+            "url": "https://myanimelist.net/people/9617/SHOOWA"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Full Story",
+            "entry": [
+                {
+                    "mal_id": 17666,
+                    "type": "manga",
+                    "name": "NON Tea Room",
+                    "url": "https://myanimelist.net/manga/17666/NON_Tea_Room"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 17668,
+                    "type": "manga",
+                    "name": "Koujitsusei no Tobira",
+                    "url": "https://myanimelist.net/manga/17668/Koujitsusei_no_Tobira"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

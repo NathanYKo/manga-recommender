@@ -1,0 +1,130 @@
+{
+    "mal_id": 624,
+    "url": "https://myanimelist.net/manga/624/Cipher",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/269054.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/269054t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/269054l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/269054.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/269054t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/269054l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Cipher"
+        },
+        {
+            "type": "Japanese",
+            "title": "CIPHER サイファ"
+        },
+        {
+            "type": "English",
+            "title": "Cipher"
+        }
+    ],
+    "title": "Cipher",
+    "title_english": "Cipher",
+    "title_japanese": "CIPHER サイファ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 65,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1985-07-01T00:00:00+00:00",
+        "to": "1990-12-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 1985
+            },
+            "to": {
+                "day": 1,
+                "month": 12,
+                "year": 1990
+            }
+        },
+        "string": "Jul 1985 to Dec 1990"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 625,
+    "rank": 4170,
+    "popularity": 6962,
+    "members": 3026,
+    "favorites": 52,
+    "synopsis": "Anise can't believe her luck when she finds herself in the same high school as famous former child star Siva. Although the cool and handsome Siva seems unapproachable, Anise manages to become his friend. But her happiness turns to surprise when she discovers Siva's secret: for years, he's been switching identities with his twin brother, Cipher!\n\n(Source: CMX)",
+    "background": "Cipher had eleven volumes published in English by CMX Manga from October 5, 2005 to April 30, 2008, before the publisher went defunct.",
+    "authors": [
+        {
+            "mal_id": 2547,
+            "type": "people",
+            "name": "Narita, Minako",
+            "url": "https://myanimelist.net/people/2547/Minako_Narita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "LaLa",
+            "url": "https://myanimelist.net/manga/magazine/11/LaLa"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 11867,
+                    "type": "anime",
+                    "name": "Cipher",
+                    "url": "https://myanimelist.net/anime/11867/Cipher"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 12385,
+                    "type": "manga",
+                    "name": "Alexandrite",
+                    "url": "https://myanimelist.net/manga/12385/Alexandrite"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/CIPHER"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "mal_id": 103047,
+    "url": "https://myanimelist.net/manga/103047/Dragon_Ball_Gaiden__Tensei_shitara_Yamcha_Datta_Ken",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/202580.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/202580t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/202580l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/202580.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/202580t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/202580l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dragon Ball Gaiden: Tensei shitara Yamcha Datta Ken"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dragon Ball Side Story: The Case of Being Reincarnated as Yamcha"
+        },
+        {
+            "type": "Japanese",
+            "title": "DRAGON BALL外伝 転生したらヤムチャだった件"
+        },
+        {
+            "type": "English",
+            "title": "Dragon Ball: That Time I Got Reincarnated as Yamcha!"
+        }
+    ],
+    "title": "Dragon Ball Gaiden: Tensei shitara Yamcha Datta Ken",
+    "title_english": "Dragon Ball: That Time I Got Reincarnated as Yamcha!",
+    "title_japanese": "DRAGON BALL外伝 転生したらヤムチャだった件",
+    "title_synonyms": [
+        "Dragon Ball Side Story: The Case of Being Reincarnated as Yamcha"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-12-12T00:00:00+00:00",
+        "to": "2017-08-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 12,
+                "year": 2016
+            },
+            "to": {
+                "day": 14,
+                "month": 8,
+                "year": 2017
+            }
+        },
+        "string": "Dec 12, 2016 to Aug 14, 2017"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 6930,
+    "rank": 8481,
+    "popularity": 1979,
+    "members": 10910,
+    "favorites": 69,
+    "synopsis": "When a typical high school student attempts to sprint down a set of stairs to get a glimpse up a girl's skirt, he slips and hits his head. The boy wakes up to find that he now inhabits the body of Yamcha within the world of the manga Dragon Ball. Quickly recalling Yamcha's multiple deaths throughout the series and his status as a joke in the real world, the student must now utilize his extensive knowledge of the manga to avoid suffering the original Yamcha's unfortunate fate.\n\n[Written by MAL Rewrite]",
+    "background": "Dragon Ball Gaiden: Tensei shitara Yamcha Datta Ken was published in English as Dragon Ball: That Time I Got Reincarnated as Yamcha! by VIZ Media on November 6, 2018. It was also released in Spanish by Planeta Cómic on October 15, 2019.",
+    "authors": [
+        {
+            "mal_id": 44501,
+            "type": "people",
+            "name": "Dragon Garow Lee",
+            "url": "https://myanimelist.net/people/44501/Dragon_Garow_Lee"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1209,
+            "type": "manga",
+            "name": "Shounen Jump+",
+            "url": "https://myanimelist.net/manga/magazine/1209/Shounen_Jump_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        },
+        {
+            "mal_id": 73,
+            "type": "manga",
+            "name": "Reincarnation",
+            "url": "https://myanimelist.net/manga/genre/73/Reincarnation"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 42,
+                    "type": "manga",
+                    "name": "Dragon Ball",
+                    "url": "https://myanimelist.net/manga/42/Dragon_Ball"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

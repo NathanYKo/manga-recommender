@@ -1,0 +1,133 @@
+{
+    "mal_id": 66509,
+    "url": "https://myanimelist.net/manga/66509/Yuki_wa_Jigoku_ni_Ochiru_no_ka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/174136.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/174136t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/174136l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/174136.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/174136t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/174136l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yuki wa Jigoku ni Ochiru no ka"
+        },
+        {
+            "type": "Synonym",
+            "title": "Will Yuki Fall into Hell?"
+        },
+        {
+            "type": "Japanese",
+            "title": "ユキは地獄に堕ちるのか"
+        },
+        {
+            "type": "English",
+            "title": "Does Yuki Fall to Hell?"
+        }
+    ],
+    "title": "Yuki wa Jigoku ni Ochiru no ka",
+    "title_english": "Does Yuki Fall to Hell?",
+    "title_japanese": "ユキは地獄に堕ちるのか",
+    "title_synonyms": [
+        "Will Yuki Fall into Hell?"
+    ],
+    "type": "Manga",
+    "chapters": 29,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-02-24T00:00:00+00:00",
+        "to": "2016-09-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 2,
+                "year": 2014
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Feb 24, 2014 to Sep 24, 2016"
+    },
+    "score": 7.17,
+    "scored": 7.17,
+    "scored_by": 929,
+    "rank": 6507,
+    "popularity": 6100,
+    "members": 3521,
+    "favorites": 26,
+    "synopsis": "The \"military history story concerning boys and girls\" revolves around Yuki, a girl who has lived in the rural area of Kyoto with her six childhood friends who all share a secret that they cannot tell anyone. On her 16th birthday, Yuki's fate begins to change.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3446,
+            "type": "people",
+            "name": "Fujiwara, Hiro",
+            "url": "https://myanimelist.net/people/3446/Hiro_Fujiwara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "LaLa",
+            "url": "https://myanimelist.net/manga/magazine/11/LaLa"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 103989,
+                    "type": "manga",
+                    "name": "Kaichou wa Maid-sama!: Marriage",
+                    "url": "https://myanimelist.net/manga/103989/Kaichou_wa_Maid-sama__Marriage"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

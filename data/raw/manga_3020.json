@@ -1,0 +1,119 @@
+{
+    "mal_id": 3020,
+    "url": "https://myanimelist.net/manga/3020/Ai_no_Tame_ni",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/315515.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/315515t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/315515l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/315515.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/315515t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/315515l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ai no Tame ni"
+        },
+        {
+            "type": "Synonym",
+            "title": "Everything for the Sake of Love"
+        },
+        {
+            "type": "Synonym",
+            "title": "If Someone like Me will do"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chocolate Contest"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chocolate Stakes"
+        },
+        {
+            "type": "Japanese",
+            "title": "愛のために"
+        }
+    ],
+    "title": "Ai no Tame ni",
+    "title_english": null,
+    "title_japanese": "愛のために",
+    "title_synonyms": [
+        "Everything for the Sake of Love",
+        "If Someone like Me will do",
+        "Chocolate Contest",
+        "Chocolate Stakes"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-07-13T00:00:00+00:00",
+        "to": "2002-08-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 7,
+                "year": 2001
+            },
+            "to": {
+                "day": 10,
+                "month": 8,
+                "year": 2002
+            }
+        },
+        "string": "Jul 13, 2001 to Aug 10, 2002"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 2597,
+    "rank": 4233,
+    "popularity": 4806,
+    "members": 4576,
+    "favorites": 8,
+    "synopsis": "1. Ai no Tame ni (Everything for the Sake of Love)\n2. Konna Watashi de Yokattara (If Someone like Me will do)\n3. Chocolate Stakes",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2522,
+            "type": "people",
+            "name": "Kawahara, Kazune",
+            "url": "https://myanimelist.net/people/2522/Kazune_Kawahara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Bessatsu Margaret",
+            "url": "https://myanimelist.net/manga/magazine/53/Bessatsu_Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

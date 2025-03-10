@@ -1,0 +1,156 @@
+{
+    "mal_id": 73145,
+    "url": "https://myanimelist.net/manga/73145/Kamigami_no_Asobi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/129173.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/129173t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/129173l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/129173.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/129173t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/129173l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kamigami no Asobi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ludere deorum"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kamigami no Akugi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kamigami no Itazura"
+        },
+        {
+            "type": "Japanese",
+            "title": "神々の悪戯"
+        }
+    ],
+    "title": "Kamigami no Asobi",
+    "title_english": null,
+    "title_japanese": "神々の悪戯",
+    "title_synonyms": [
+        "Ludere deorum",
+        "Kamigami no Akugi",
+        "Kamigami no Itazura"
+    ],
+    "type": "Manga",
+    "chapters": 17,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-12-22T00:00:00+00:00",
+        "to": "2014-08-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": 22,
+                "month": 8,
+                "year": 2014
+            }
+        },
+        "string": "Dec 22, 2012 to Aug 22, 2014"
+    },
+    "score": 6.87,
+    "scored": 6.87,
+    "scored_by": 705,
+    "rank": 10982,
+    "popularity": 8578,
+    "members": 2346,
+    "favorites": 15,
+    "synopsis": "Yui Kusanagi, is the daughter of a Shinto shrine. She discovers a mysterious sword, which transports her to a different world where she meets the Greek god Zeus. He invites her to attend a school in a separate world that he created. Zeus intends to teach the meaning of love to the various young divine beings who also attend the school, in an attempt to reverse the weakening bond between humans and the gods.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 32133,
+            "type": "people",
+            "name": "Sumida, Moto",
+            "url": "https://myanimelist.net/people/32133/Moto_Sumida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 421,
+            "type": "manga",
+            "name": "Sylph",
+            "url": "https://myanimelist.net/manga/magazine/421/Sylph"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        },
+        {
+            "mal_id": 74,
+            "type": "manga",
+            "name": "Reverse Harem",
+            "url": "https://myanimelist.net/manga/genre/74/Reverse_Harem"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 21563,
+                    "type": "anime",
+                    "name": "Kamigami no Asobi",
+                    "url": "https://myanimelist.net/anime/21563/Kamigami_no_Asobi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%A5%9E%E3%80%85%E3%81%AE%E6%82%AA%E6%88%AF"
+        }
+    ]
+}

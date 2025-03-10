@@ -1,0 +1,115 @@
+{
+    "mal_id": 10831,
+    "url": "https://myanimelist.net/manga/10831/Shiranai_Kao",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/14579.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/14579t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/14579l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/14579.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/14579t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/14579l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shiranai Kao"
+        },
+        {
+            "type": "Synonym",
+            "title": "Unknown Face"
+        },
+        {
+            "type": "Japanese",
+            "title": "知らない顔"
+        }
+    ],
+    "title": "Shiranai Kao",
+    "title_english": null,
+    "title_japanese": "知らない顔",
+    "title_synonyms": [
+        "Unknown Face"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-09-01T00:00:00+00:00",
+        "to": "2008-03-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 9,
+                "year": 2006
+            },
+            "to": {
+                "day": 1,
+                "month": 3,
+                "year": 2008
+            }
+        },
+        "string": "Sep 2006 to Mar 2008"
+    },
+    "score": 7.08,
+    "scored": 7.08,
+    "scored_by": 1544,
+    "rank": null,
+    "popularity": 7458,
+    "members": 2781,
+    "favorites": 4,
+    "synopsis": "As a child Tanabe was always tagging behind Haruyama, but in high school after he became a ping pong ace their\n relationship is gradually getting worse. Who is the one tagging along for real and why is Tanabe always so quiet? A touching and yet funny story with ping pong as it's background. This volume also contains a one-shot about one very interesting hairdresser and\n a two-chapter story about a dentist and his fated client.\n\n(from Wasurenagusa Scanlations)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2276,
+            "type": "people",
+            "name": "Hidaka, Shoko",
+            "url": "https://myanimelist.net/people/2276/Shoko_Hidaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 400,
+            "type": "manga",
+            "name": "b-Boy Phoenix",
+            "url": "https://myanimelist.net/manga/magazine/400/b-Boy_Phoenix"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 49509,
+                    "type": "manga",
+                    "name": "Nidome no Koi",
+                    "url": "https://myanimelist.net/manga/49509/Nidome_no_Koi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

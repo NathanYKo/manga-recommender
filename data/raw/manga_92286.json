@@ -1,0 +1,124 @@
+{
+    "mal_id": 92286,
+    "url": "https://myanimelist.net/manga/92286/Boruto__Naruto_the_Movie_Tokubetsu_Bangai-hen_-_Naruto_ga_Hokage_ni_Natta_Hi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/171855.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/171855t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/171855l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/171855.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/171855t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/171855l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boruto: Naruto the Movie Tokubetsu Bangai-hen - Naruto ga Hokage ni Natta Hi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Naruto Special Gaiden"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Day Naruto Became Hokage"
+        },
+        {
+            "type": "Japanese",
+            "title": "BORUTO -NARUTO THE MOVIE- 特別番外編 ナルトが火影になった日"
+        }
+    ],
+    "title": "Boruto: Naruto the Movie Tokubetsu Bangai-hen - Naruto ga Hokage ni Natta Hi",
+    "title_english": null,
+    "title_japanese": "BORUTO -NARUTO THE MOVIE- 特別番外編 ナルトが火影になった日",
+    "title_synonyms": [
+        "Naruto Special Gaiden",
+        "The Day Naruto Became Hokage"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-08-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 8,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 7, 2015"
+    },
+    "score": 7.05,
+    "scored": 7.05,
+    "scored_by": 2836,
+    "rank": 8218,
+    "popularity": 4148,
+    "members": 5434,
+    "favorites": 33,
+    "synopsis": "The story shows Naruto Uzumaki's Hokage inauguration day.",
+    "background": "Special one-shot included in the Naruto: Hiden - Zai no Sho - Official Movie Book (NARUTO 秘伝・在の書 オフィシャルムービーBOOK) guidebook, which was distributed exclusively at the screening of the movie.",
+    "authors": [
+        {
+            "mal_id": 1879,
+            "type": "people",
+            "name": "Kishimoto, Masashi",
+            "url": "https://myanimelist.net/people/1879/Masashi_Kishimoto"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 32365,
+                    "type": "anime",
+                    "name": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+                    "url": "https://myanimelist.net/anime/32365/Boruto__Naruto_the_Movie_-_Naruto_ga_Hokage_ni_Natta_Hi"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 11,
+                    "type": "manga",
+                    "name": "Naruto",
+                    "url": "https://myanimelist.net/manga/11/Naruto"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

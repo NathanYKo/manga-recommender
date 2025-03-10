@@ -1,0 +1,137 @@
+{
+    "mal_id": 45885,
+    "url": "https://myanimelist.net/manga/45885/No6_Beyond",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/81189.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/81189t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/81189l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/81189.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/81189t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/81189l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "No.6 Beyond"
+        },
+        {
+            "type": "Synonym",
+            "title": "Number Six Beyond"
+        },
+        {
+            "type": "Synonym",
+            "title": "Number 6 Beyond"
+        },
+        {
+            "type": "Japanese",
+            "title": "NO.6 ナンバーシックス beyond"
+        }
+    ],
+    "title": "No.6 Beyond",
+    "title_english": null,
+    "title_japanese": "NO.6 ナンバーシックス beyond",
+    "title_synonyms": [
+        "Number Six Beyond",
+        "Number 6 Beyond"
+    ],
+    "type": "Novel",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-11-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 11,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 22, 2012"
+    },
+    "score": 8.14,
+    "scored": 8.14,
+    "scored_by": 946,
+    "rank": 522,
+    "popularity": 4520,
+    "members": 4910,
+    "favorites": 31,
+    "synopsis": "This time, subsequent to the story that wrapped up in Volume 9, is the release of a wondrous \"side story\"! In response to the many sorrowed voices, the author Asano Atsuko proclaimed, \"Then I'll write a supplementary story!\" The author herself, recalling her love for the characters, is blazing with ambition at being able to give further life to Shion and Nezumi, who hold such complexity and unfathomable fascination. Cutting out moments from the lives of Nezumi and Shion that she hadn't been able to touch on before, she starts to unravel their secrets...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7008,
+            "type": "people",
+            "name": "Asano, Atsuko",
+            "url": "https://myanimelist.net/people/7008/Atsuko_Asano"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 26728,
+                    "type": "manga",
+                    "name": "No.6",
+                    "url": "https://myanimelist.net/manga/26728/No6"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/NO.6"
+        }
+    ]
+}

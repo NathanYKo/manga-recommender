@@ -1,0 +1,159 @@
+{
+    "mal_id": 40051,
+    "url": "https://myanimelist.net/manga/40051/Caterpillar",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/137585.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/137585t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/137585l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/137585.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/137585t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/137585l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Caterpillar"
+        },
+        {
+            "type": "Synonym",
+            "title": "Imomushi"
+        },
+        {
+            "type": "Synonym",
+            "title": "After School"
+        },
+        {
+            "type": "Japanese",
+            "title": "キャタピラー"
+        },
+        {
+            "type": "English",
+            "title": "Caterpillar"
+        }
+    ],
+    "title": "Caterpillar",
+    "title_english": "Caterpillar",
+    "title_japanese": "キャタピラー",
+    "title_synonyms": [
+        "Imomushi",
+        "After School"
+    ],
+    "type": "Manga",
+    "chapters": 98,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-03-02T00:00:00+00:00",
+        "to": "2018-04-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 3,
+                "year": 2012
+            },
+            "to": {
+                "day": 20,
+                "month": 4,
+                "year": 2018
+            }
+        },
+        "string": "Mar 2, 2012 to Apr 20, 2018"
+    },
+    "score": 6.75,
+    "scored": 6.75,
+    "scored_by": 883,
+    "rank": 13008,
+    "popularity": 5722,
+    "members": 3763,
+    "favorites": 21,
+    "synopsis": "Possessing both flexibility and tenacity, Imomushi (Japanese for Caterpillar) is an assassin that does not kill anyone but those who are assigned to her. She seems to have had something happen to her and her older sister in the past, however.\n\nA new spin-off story from the same author of Arachnid, this story looks at the inner workings of a top assassin within The Organization itself.\n\n(Source: Kirei Cake)\n\nIncluded one-shot:\nVolume 3: After School",
+    "background": "Starting from the 29th chapter, Caterpillar was drawn by Tokisada Hayami after the death of the original artist, Isuka Hakozaki. The series has been published digitally in English by Square Enix through Manga UP!",
+    "authors": [
+        {
+            "mal_id": 3140,
+            "type": "people",
+            "name": "Murata, Shinya",
+            "url": "https://myanimelist.net/people/3140/Shinya_Murata"
+        },
+        {
+            "mal_id": 18191,
+            "type": "people",
+            "name": "Hakozaki, Isuka",
+            "url": "https://myanimelist.net/people/18191/Isuka_Hakozaki"
+        },
+        {
+            "mal_id": 39631,
+            "type": "people",
+            "name": "Hayami, Tokisada",
+            "url": "https://myanimelist.net/people/39631/Tokisada_Hayami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 21111,
+                    "type": "manga",
+                    "name": "Arachnid",
+                    "url": "https://myanimelist.net/manga/21111/Arachnid"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 87083,
+                    "type": "manga",
+                    "name": "Arachnid x Caterpillar x Killing Bites: Onna 6-nin (?) Onsen Monogatari",
+                    "url": "https://myanimelist.net/manga/87083/Arachnid_x_Caterpillar_x_Killing_Bites__Onna_6-nin__Onsen_Monogatari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%AF%E3%83%8B%E3%83%89"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "mal_id": 14368,
+    "url": "https://myanimelist.net/manga/14368/Shiritsu_Horitsuba_Gakuen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/22065.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/22065t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/22065l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/22065.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/22065t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/22065l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shiritsu Horitsuba Gakuen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Private Institute Horitsuba"
+        },
+        {
+            "type": "Synonym",
+            "title": "Holitsuba"
+        },
+        {
+            "type": "Japanese",
+            "title": "私立堀鐔学園"
+        }
+    ],
+    "title": "Shiritsu Horitsuba Gakuen",
+    "title_english": null,
+    "title_japanese": "私立堀鐔学園",
+    "title_synonyms": [
+        "Private Institute Horitsuba",
+        "Holitsuba"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2006-04-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 26, 2006 to ?"
+    },
+    "score": 7.57,
+    "scored": 7.57,
+    "scored_by": 1129,
+    "rank": 2514,
+    "popularity": 6047,
+    "members": 3555,
+    "favorites": 12,
+    "synopsis": "Horitsuba Private Academy. Early Childhood division, Elementary school Division, Junior high school division, High school division, University, Graduate School. On an enormous campus, these individuals make up a huge, complete city built entirely on private property. Dormitories, Laboratories, movie theaters, hospitals, banks and so on; every possible institution is available in this campus-city, running in perfect order. Over 10,000 people attend school and live here, including, students, staff members, authorized persons, other family members, and the like. Exactly. since Horitsuba Academy is somewhat well-known all over, there are also lots of exchange students from foreign countries...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1877,
+            "type": "people",
+            "name": "CLAMP",
+            "url": "https://myanimelist.net/people/1877/CLAMP"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 10,
+                    "type": "manga",
+                    "name": "xxxHOLiC",
+                    "url": "https://myanimelist.net/manga/10/xxxHOLiC"
+                },
+                {
+                    "mal_id": 9,
+                    "type": "manga",
+                    "name": "Tsubasa: RESERVoir CHRoNiCLE",
+                    "url": "https://myanimelist.net/manga/9/Tsubasa__RESERVoir_CHRoNiCLE"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%A7%81%E7%AB%8B%E5%A0%80%E9%90%94%E5%AD%A6%E5%9C%92"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "mal_id": 23779,
+    "url": "https://myanimelist.net/manga/23779/Kamisama_no_Memochou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/82624.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/82624t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/82624l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/82624.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/82624t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/82624l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kamisama no Memochou"
+        },
+        {
+            "type": "Synonym",
+            "title": "It's the Only NEET Thing to Do"
+        },
+        {
+            "type": "Synonym",
+            "title": "KamiMemo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kami-sama no Memo-chou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Heaven's Memo Pad"
+        },
+        {
+            "type": "Synonym",
+            "title": "God's Notebook"
+        },
+        {
+            "type": "Japanese",
+            "title": "神様のメモ帳"
+        }
+    ],
+    "title": "Kamisama no Memochou",
+    "title_english": null,
+    "title_japanese": "神様のメモ帳",
+    "title_synonyms": [
+        "It's the Only NEET Thing to Do",
+        "KamiMemo",
+        "Kami-sama no Memo-chou",
+        "Heaven's Memo Pad",
+        "God's Notebook"
+    ],
+    "type": "Manga",
+    "chapters": 23,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-06-26T00:00:00+00:00",
+        "to": "2012-07-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 6,
+                "year": 2010
+            },
+            "to": {
+                "day": 27,
+                "month": 7,
+                "year": 2012
+            }
+        },
+        "string": "Jun 26, 2010 to Jul 27, 2012"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 448,
+    "rank": 5243,
+    "popularity": 8567,
+    "members": 2349,
+    "favorites": 8,
+    "synopsis": "Adaptation from the light novel of the same name-a heartfelt series that revolves around a student who happens to intrude upon a NEET detective and became her assistant.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11752,
+            "type": "people",
+            "name": "Sugii, Hikaru",
+            "url": "https://myanimelist.net/people/11752/Hikaru_Sugii"
+        },
+        {
+            "mal_id": 12593,
+            "type": "people",
+            "name": "Tiv",
+            "url": "https://myanimelist.net/people/12593/Tiv"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 24563,
+                    "type": "manga",
+                    "name": "Kamisama no Memochou",
+                    "url": "https://myanimelist.net/manga/24563/Kamisama_no_Memochou"
+                },
+                {
+                    "mal_id": 10568,
+                    "type": "anime",
+                    "name": "Kamisama no Memochou",
+                    "url": "https://myanimelist.net/anime/10568/Kamisama_no_Memochou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%A5%9E%E6%A7%98%E3%81%AE%E3%83%A1%E3%83%A2%E5%B8%B3"
+        }
+    ]
+}

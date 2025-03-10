@@ -1,0 +1,139 @@
+{
+    "mal_id": 4270,
+    "url": "https://myanimelist.net/manga/4270/Hotaru_no_Hikari",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/195176.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/195176t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/195176l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/195176.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/195176t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/195176l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hotaru no Hikari"
+        },
+        {
+            "type": "Synonym",
+            "title": "Light of the Firefly"
+        },
+        {
+            "type": "Japanese",
+            "title": "ホタルノヒカリ"
+        },
+        {
+            "type": "English",
+            "title": "Hotaru's Way"
+        }
+    ],
+    "title": "Hotaru no Hikari",
+    "title_english": "Hotaru's Way",
+    "title_japanese": "ホタルノヒカリ",
+    "title_synonyms": [
+        "Light of the Firefly"
+    ],
+    "type": "Manga",
+    "chapters": 90,
+    "volumes": 15,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-08-10T00:00:00+00:00",
+        "to": "2009-08-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 8,
+                "year": 2004
+            },
+            "to": {
+                "day": 10,
+                "month": 8,
+                "year": 2009
+            }
+        },
+        "string": "Aug 10, 2004 to Aug 10, 2009"
+    },
+    "score": 7.25,
+    "scored": 7.25,
+    "scored_by": 1054,
+    "rank": 5406,
+    "popularity": 4363,
+    "members": 5125,
+    "favorites": 29,
+    "synopsis": "27-year-old Hotaru would rather sleep at home than seek romance, but due to unforeseen circumstances, suddenly she's living with her boss, Takano. What's more is that she now has a budding relationship with Makoto, who's younger than she is. Like a dried fish thrown back into the ocean, can she learn to swim again and rediscover the ways of romance?",
+    "background": "Hotaru no Hikari was adapted into a live-action TV drama by NTV which aired in 2007 and 2010. The series was published digitally in English as Hotaru's Way by Kodansha Comics USA from July 18, 2017 to August 25, 2020.",
+    "authors": [
+        {
+            "mal_id": 3716,
+            "type": "people",
+            "name": "Hiura, Satoru",
+            "url": "https://myanimelist.net/people/3716/Satoru_Hiura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 113,
+            "type": "manga",
+            "name": "Kiss",
+            "url": "https://myanimelist.net/manga/magazine/113/Kiss"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 110194,
+                    "type": "manga",
+                    "name": "Hotaru no Hikari SP",
+                    "url": "https://myanimelist.net/manga/110194/Hotaru_no_Hikari_SP"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/hotarus-way/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hotaru_no_Hikari_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BF%E3%83%AB%E3%83%8E%E3%83%92%E3%82%AB%E3%83%AA_(%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

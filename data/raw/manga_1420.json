@@ -1,0 +1,134 @@
+{
+    "mal_id": 1420,
+    "url": "https://myanimelist.net/manga/1420/Zelda_no_Densetsu__Fushigi_no_Kinomi_-_Daichi_no_Shou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/126019.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/126019t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/126019l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/126019.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/126019t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/126019l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zelda no Densetsu: Fushigi no Kinomi - Daichi no Shou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Legend of Zelda: Mysterious Nuts - Chapter of Earth"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Legend of Zelda: Legendary Edition"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゼルダの伝説 ふしぎの木の実 大地の章"
+        },
+        {
+            "type": "English",
+            "title": "The Legend of Zelda: Oracle of Seasons"
+        }
+    ],
+    "title": "Zelda no Densetsu: Fushigi no Kinomi - Daichi no Shou",
+    "title_english": "The Legend of Zelda: Oracle of Seasons",
+    "title_japanese": "ゼルダの伝説 ふしぎの木の実 大地の章",
+    "title_synonyms": [
+        "Legend of Zelda: Mysterious Nuts - Chapter of Earth",
+        "The Legend of Zelda: Legendary Edition"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-12-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 2001"
+    },
+    "score": 7.18,
+    "scored": 7.18,
+    "scored_by": 5058,
+    "rank": 6390,
+    "popularity": 2335,
+    "members": 9361,
+    "favorites": 67,
+    "synopsis": "Link is a countryside boy who prefers taking care of a newborn chick named Piyoko to sword-fighting lessons with his grandfather. However, fate goes against his desires, for through his bloodline runs the legacy of many great knights who served the land of Hyrule. In addition, his left hand bears the mark of the sacred Triforce—a symbol of his destiny to protect the kingdom. With Piyoko in tow, Link leaves his grandparents' home one autumn morning and heads to the annual knights' trial at Hyrule Castle.\n\nAlthough his path has been predetermined, Link gets sidetracked inside the castle and encounters the Triforce artifact, which whisks him to the fields just outside the village of Holodrum. There, he meets Din, a beautiful dancer who is part of a traveling troupe. Beyond being a performer, Din holds another role that is far more important to Link's fate: the mythical Oracle of Seasons.\n\n[Written by MAL Rewrite]",
+    "background": "Zelda no Densetsu: Fushigi no Kinomi - Daichi no Shou adapts the 2001 Game Boy Color game The Legend of Zelda: Oracle of Seasons. The series was published in English as The Legend of Zelda: Oracle of Seasons by VIZ Media under the VIZ Kids imprint on April 7, 2009. It was included in the complete The Legend of Zelda 10-volume box set published on October 25, 2011. The manga rereleased with Zelda no Densetsu: Fushigi no Kinomi - Jikuu no Shou as the second volume of VIZ Media's The Legend of Zelda: Legendary Edition on January 10, 2017.",
+    "authors": [
+        {
+            "mal_id": 2564,
+            "type": "people",
+            "name": "Himekawa, Akira",
+            "url": "https://myanimelist.net/people/2564/Akira_Himekawa"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1422,
+                    "type": "manga",
+                    "name": "Zelda no Densetsu: Fushigi no Kinomi - Jikuu no Shou",
+                    "url": "https://myanimelist.net/manga/1422/Zelda_no_Densetsu__Fushigi_no_Kinomi_-_Jikuu_no_Shou"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 726,
+                    "type": "manga",
+                    "name": "Zelda no Densetsu: Toki no Ocarina",
+                    "url": "https://myanimelist.net/manga/726/Zelda_no_Densetsu__Toki_no_Ocarina"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

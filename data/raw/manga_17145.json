@@ -1,0 +1,151 @@
+{
+    "mal_id": 17145,
+    "url": "https://myanimelist.net/manga/17145/QP",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/223375.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/223375t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/223375l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/223375.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/223375t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/223375l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "QP"
+        },
+        {
+            "type": "Synonym",
+            "title": "QP: Soul of Violence"
+        },
+        {
+            "type": "Japanese",
+            "title": "QP キューピー"
+        }
+    ],
+    "title": "QP",
+    "title_english": null,
+    "title_japanese": "QP キューピー",
+    "title_synonyms": [
+        "QP: Soul of Violence"
+    ],
+    "type": "Manga",
+    "chapters": 54,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-01-01T00:00:00+00:00",
+        "to": "2001-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            }
+        },
+        "string": "1999 to 2001"
+    },
+    "score": 7.51,
+    "scored": 7.51,
+    "scored_by": 1274,
+    "rank": 2938,
+    "popularity": 7076,
+    "members": 2967,
+    "favorites": 24,
+    "synopsis": "After a four-year absence, Ishida Kotori (QP) returns to the city where even his face instills fear amongst the locals. Trying desperately to move away from his once violent past and live an honest life, former classmate and now high profile gang member, Azuma Ryou, has other plans for QP's future...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3160,
+            "type": "people",
+            "name": "Takahashi, Hiroshi",
+            "url": "https://myanimelist.net/people/3160/Hiroshi_Takahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 575,
+            "type": "manga",
+            "name": "Young King",
+            "url": "https://myanimelist.net/manga/magazine/575/Young_King"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 24878,
+                    "type": "manga",
+                    "name": "QP Gaiden",
+                    "url": "https://myanimelist.net/manga/24878/QP_Gaiden"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 119013,
+                    "type": "manga",
+                    "name": "QP Gaiden: Azuma Ryou",
+                    "url": "https://myanimelist.net/manga/119013/QP_Gaiden__Azuma_Ryou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/QP_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

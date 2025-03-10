@@ -1,0 +1,168 @@
+{
+    "mal_id": 142224,
+    "url": "https://myanimelist.net/manga/142224/Kabushikigaisha_Magi-Lumière",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/255293.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/255293t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/255293l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/255293.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/255293t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/255293l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kabushikigaisha Magi-Lumière"
+        },
+        {
+            "type": "Synonym",
+            "title": "Magilumiere Co. Ltd."
+        },
+        {
+            "type": "Japanese",
+            "title": "株式会社マジルミエ"
+        },
+        {
+            "type": "English",
+            "title": "Magilumiere Magical Girls Inc."
+        }
+    ],
+    "title": "Kabushikigaisha Magi-Lumière",
+    "title_english": "Magilumiere Magical Girls Inc.",
+    "title_japanese": "株式会社マジルミエ",
+    "title_synonyms": [
+        "Magilumiere Co. Ltd."
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2021-10-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 10,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 20, 2021 to ?"
+    },
+    "score": 7.41,
+    "scored": 7.41,
+    "scored_by": 2127,
+    "rank": 3744,
+    "popularity": 2055,
+    "members": 10463,
+    "favorites": 78,
+    "synopsis": "\"Magical Girl\"—A profession that undertakes the work of exterminating a kind of natural disaster called \"Kaii.\" Kana Sakuragi, a female college student who struggles with job hunting, is picked up by a magical girl startup company and...?! Magical Girl work-life starts now!\n\n(Source: MANGA Plus)",
+    "background": "Kabushikigaisha Magi-Lumière has been published digitally in English as Magilumiere Co. Ltd. through MANGA Plus. The volumes have been published as Magilumiere Magical Girls Inc. by VIZ Media under the VIZ Signature imprint since March 19, 2024.",
+    "authors": [
+        {
+            "mal_id": 44021,
+            "type": "people",
+            "name": "Aoki, Yuu",
+            "url": "https://myanimelist.net/people/44021/Yuu_Aoki"
+        },
+        {
+            "mal_id": 55973,
+            "type": "people",
+            "name": "Iwata, Sekka",
+            "url": "https://myanimelist.net/people/55973/Sekka_Iwata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1209,
+            "type": "manga",
+            "name": "Shounen Jump+",
+            "url": "https://myanimelist.net/manga/magazine/1209/Shounen_Jump_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 66,
+            "type": "manga",
+            "name": "Mahou Shoujo",
+            "url": "https://myanimelist.net/manga/genre/66/Mahou_Shoujo"
+        },
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 57360,
+                    "type": "anime",
+                    "name": "Kabushikigaisha Magi-Lumière",
+                    "url": "https://myanimelist.net/anime/57360/Kabushikigaisha_Magi-Lumière"
+                },
+                {
+                    "mal_id": 60552,
+                    "type": "anime",
+                    "name": "Kabushikigaisha Magi-Lumière 2nd Season",
+                    "url": "https://myanimelist.net/anime/60552/Kabushikigaisha_Magi-Lumière_2nd_Season"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://shonenjumpplus.com/episode/3269754496555043141"
+        },
+        {
+            "name": "@MagilumiereLtd",
+            "url": "https://twitter.com/MagilumiereLtd"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Magilumiere_Co._Ltd."
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/株式会社マジルミエ"
+        }
+    ]
+}

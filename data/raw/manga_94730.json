@@ -1,0 +1,116 @@
+{
+    "mal_id": 94730,
+    "url": "https://myanimelist.net/manga/94730/Okosama_Box",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/168528.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/168528t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/168528l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/168528.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/168528t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/168528l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Okosama Box"
+        },
+        {
+            "type": "Japanese",
+            "title": "おこさまボックス"
+        }
+    ],
+    "title": "Okosama Box",
+    "title_english": null,
+    "title_japanese": "おこさまボックス",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-03-30T00:00:00+00:00",
+        "to": "2015-08-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 3,
+                "year": 2015
+            },
+            "to": {
+                "day": 29,
+                "month": 8,
+                "year": 2015
+            }
+        },
+        "string": "Mar 30, 2015 to Aug 29, 2015"
+    },
+    "score": 7.11,
+    "scored": 7.11,
+    "scored_by": 1012,
+    "rank": 7298,
+    "popularity": 8487,
+    "members": 2377,
+    "favorites": 3,
+    "synopsis": "Kawasaki and Fujita have been best friends since early childhood. Kawasaki has secretly been carrying a torch for his cheerful buddy, but Fujita only has eyes for the girls around him. The delicate balance of their relationship gets shaken when Fujita gets himself a girlfriend in high school. What is Kawasaki supposed to do with his feelings now?\n\n(Source: Mangago)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 38830,
+            "type": "people",
+            "name": "Aomiya, Kara",
+            "url": "https://myanimelist.net/people/38830/Kara_Aomiya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 516,
+            "type": "manga",
+            "name": "gateau",
+            "url": "https://myanimelist.net/manga/magazine/516/gateau"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 92582,
+                    "type": "manga",
+                    "name": "Okosama Star",
+                    "url": "https://myanimelist.net/manga/92582/Okosama_Star"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

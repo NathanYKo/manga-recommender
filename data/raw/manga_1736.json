@@ -1,0 +1,127 @@
+{
+    "mal_id": 1736,
+    "url": "https://myanimelist.net/manga/1736/Route_20",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/1846.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/1846t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/1846l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/1846.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/1846t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/1846l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Route 20"
+        },
+        {
+            "type": "Synonym",
+            "title": "R20"
+        },
+        {
+            "type": "Synonym",
+            "title": "Route 20 - Town With Gears"
+        },
+        {
+            "type": "Japanese",
+            "title": "R20"
+        }
+    ],
+    "title": "Route 20",
+    "title_english": null,
+    "title_japanese": "R20",
+    "title_synonyms": [
+        "R20",
+        "Route 20 - Town With Gears"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1993"
+    },
+    "score": 6.56,
+    "scored": 6.56,
+    "scored_by": 1472,
+    "rank": 15706,
+    "popularity": 6053,
+    "members": 3551,
+    "favorites": 22,
+    "synopsis": "In Route 20 people live in a metal city surrounded by a glass dome, that protects its inhabitants from the polluted air of the outside, and controlled by a paranoic and oppressive police state. They feel free and sure, albeit they are like imprisoned. But some \"rebel\" boys have different feelings. Ushiji is one of them, a boy that follows his dream... or, better, rides his dream: his motorcycle and its metaphoric meaning of freedom, with the memories of his grandfather's tales about the absence of rules and hypocrisies of the outer world.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3158,
+            "type": "people",
+            "name": "Sadamoto, Yoshiyuki",
+            "url": "https://myanimelist.net/people/3158/Yoshiyuki_Sadamoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Newtype",
+            "url": "https://myanimelist.net/manga/magazine/31/Newtype"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 6390,
+                    "type": "anime",
+                    "name": "R20: Ginga Kuukou",
+                    "url": "https://myanimelist.net/anime/6390/R20__Ginga_Kuukou"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

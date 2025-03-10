@@ -1,0 +1,126 @@
+{
+    "mal_id": 78959,
+    "url": "https://myanimelist.net/manga/78959/Online__The_Comic",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/136597.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/136597t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/136597l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/136597.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/136597t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/136597l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Online: The Comic"
+        },
+        {
+            "type": "Japanese",
+            "title": "オンライン The Comic"
+        },
+        {
+            "type": "English",
+            "title": "Online"
+        }
+    ],
+    "title": "Online: The Comic",
+    "title_english": "Online",
+    "title_japanese": "オンライン The Comic",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2013-08-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 8,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 23, 2013 to ?"
+    },
+    "score": 7.06,
+    "scored": 7.06,
+    "scored_by": 1694,
+    "rank": 8045,
+    "popularity": 3044,
+    "members": 7361,
+    "favorites": 64,
+    "synopsis": "Mai Yashiro (22) was an average office worker until the day a video game console arrived in her mailbox. The game she is forced to play, \"Nightmare,\" is a dangerous game in which one risks both the lives of the ones they love and their own body!! If you refuse to play, those dear to you die. If you lose battles in the game, parts of your body (your arms or legs, your voice, etc.) cease functioning. The horror of this game spreads throughout society in a flash, and, to fight it, Mai's company creates a \"Nightmare\" Strategy Team. After being assigned to this team, Mai and her dependable comrades boldly rise up against this hellish game. Adapted from the super-popular novel which has received over 40,000,000 hits online!!\n\n(Source: MangaBox)",
+    "background": "Online: The Comic is based on the novel series Online. The series has been simultaneously published in Japanese, Chinese and English on DeNA's app since August 29, 2014.",
+    "authors": [
+        {
+            "mal_id": 34051,
+            "type": "people",
+            "name": "Kyouka, Tsukasa",
+            "url": "https://myanimelist.net/people/34051/Tsukasa_Kyouka"
+        },
+        {
+            "mal_id": 34053,
+            "type": "people",
+            "name": "Amagaeru, Midori",
+            "url": "https://myanimelist.net/people/34053/Midori_Amagaeru"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 214,
+            "type": "manga",
+            "name": "E★Everystar",
+            "url": "https://myanimelist.net/manga/magazine/214/E%E2%98%85Everystar"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 80,
+            "type": "manga",
+            "name": "Video Game",
+            "url": "https://myanimelist.net/manga/genre/80/Video_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 159625,
+                    "type": "manga",
+                    "name": "Online!",
+                    "url": "https://myanimelist.net/manga/159625/Online"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,113 @@
+{
+    "mal_id": 88588,
+    "url": "https://myanimelist.net/manga/88588/Shigatsu_wa_Kimi_no_Uso__Coda",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/182483.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/182483t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/182483l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/182483.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/182483t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/182483l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shigatsu wa Kimi no Uso: Coda"
+        },
+        {
+            "type": "Synonym",
+            "title": "Your Lie in April: Coda"
+        },
+        {
+            "type": "Japanese",
+            "title": "四月は君の嘘 Coda"
+        },
+        {
+            "type": "Spanish",
+            "title": "Your Lie in April Coda"
+        }
+    ],
+    "title": "Shigatsu wa Kimi no Uso: Coda",
+    "title_english": null,
+    "title_japanese": "四月は君の嘘 Coda",
+    "title_synonyms": [
+        "Your Lie in April: Coda"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-02-25T00:00:00+00:00",
+        "to": "2015-10-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 2,
+                "year": 2015
+            },
+            "to": {
+                "day": 28,
+                "month": 10,
+                "year": 2015
+            }
+        },
+        "string": "Feb 25, 2015 to Oct 28, 2015"
+    },
+    "score": 7.68,
+    "scored": 7.68,
+    "scored_by": 1551,
+    "rank": 1852,
+    "popularity": 5857,
+    "members": 3685,
+    "favorites": 18,
+    "synopsis": "A collection of side stories bundled with the DVD/Blu-ray releases of the anime.\n\n1. Natsu no Yuugure\n2. Natsu no Maboroshi\n3. Himitsu Kessha KKE\n4. 2-nengo\n5. Natsu no Nagori",
+    "background": "Shigatsu wa Kimi no Uso: Coda was published in French by Éditions Ki-oon on March 9, 2017; and in Spanish by Milky Way Ediciones on January 11, 2017.",
+    "authors": [
+        {
+            "mal_id": 12781,
+            "type": "people",
+            "name": "Arakawa, Naoshi",
+            "url": "https://myanimelist.net/people/12781/Naoshi_Arakawa"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 37707,
+                    "type": "manga",
+                    "name": "Shigatsu wa Kimi no Uso",
+                    "url": "https://myanimelist.net/manga/37707/Shigatsu_wa_Kimi_no_Uso"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

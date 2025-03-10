@@ -1,0 +1,133 @@
+{
+    "mal_id": 45980,
+    "url": "https://myanimelist.net/manga/45980/Aiura",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/139507.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/139507t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/139507l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/139507.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/139507t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/139507l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Aiura"
+        },
+        {
+            "type": "Japanese",
+            "title": "あいうら"
+        }
+    ],
+    "title": "Aiura",
+    "title_english": null,
+    "title_japanese": "あいうら",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 109,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-03-02T00:00:00+00:00",
+        "to": "2014-04-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 3,
+                "year": 2011
+            },
+            "to": {
+                "day": 26,
+                "month": 4,
+                "year": 2014
+            }
+        },
+        "string": "Mar 2, 2011 to Apr 26, 2014"
+    },
+    "score": 7.05,
+    "scored": 7.05,
+    "scored_by": 955,
+    "rank": 8235,
+    "popularity": 5680,
+    "members": 3794,
+    "favorites": 35,
+    "synopsis": "The story centers around Amaya, Iwasawa, and Uehara—three \"annoying, spirited high school girls with zero motivation\"—and their classmates. Their daily life is \"what happens when there is nothing happening.\"\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 20611,
+            "type": "people",
+            "name": "Chama",
+            "url": "https://myanimelist.net/people/20611/Chama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 556,
+            "type": "manga",
+            "name": "4-koma Nano Ace",
+            "url": "https://myanimelist.net/manga/magazine/556/4-koma_Nano_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 17082,
+                    "type": "anime",
+                    "name": "Aiura",
+                    "url": "https://myanimelist.net/anime/17082/Aiura"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/あいうら"
+        }
+    ]
+}

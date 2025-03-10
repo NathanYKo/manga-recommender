@@ -1,0 +1,121 @@
+{
+    "mal_id": 98407,
+    "url": "https://myanimelist.net/manga/98407/Life_So_Happy",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/187386.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/187386t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/187386l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/187386.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/187386t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/187386l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Life So Happy"
+        },
+        {
+            "type": "Japanese",
+            "title": "LIFE SO HAPPY"
+        }
+    ],
+    "title": "Life So Happy",
+    "title_english": null,
+    "title_japanese": "LIFE SO HAPPY",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 22,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-04-05T00:00:00+00:00",
+        "to": "2023-04-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 26,
+                "month": 4,
+                "year": 2023
+            }
+        },
+        "string": "Apr 5, 2016 to Apr 26, 2023"
+    },
+    "score": 7.75,
+    "scored": 7.75,
+    "scored_by": 2291,
+    "rank": 1512,
+    "popularity": 3285,
+    "members": 6846,
+    "favorites": 31,
+    "synopsis": "The twins, Aoi and Akane, have been living with their grandparents from their late mother's side and their father. They are now fifth graders and are about to start taking steps towards life while embracing new encounters and new experiences on their own. As they grow up, they do so by remembering the teachings of the person they still hold the dearest—Shiharu.\n\nThis is the continuation of a story of growing up while holding on to small things that bring happiness in life no matter what life may throw at you.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9633,
+            "type": "people",
+            "name": "Kouchi, Kaede",
+            "url": "https://myanimelist.net/people/9633/Kaede_Kouchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 395,
+            "type": "manga",
+            "name": "The Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/395/The_Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 14236,
+                    "type": "manga",
+                    "name": "Love So Life",
+                    "url": "https://myanimelist.net/manga/14236/Love_So_Life"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/LOVE_SO_LIFE"
+        }
+    ]
+}

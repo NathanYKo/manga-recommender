@@ -1,0 +1,114 @@
+{
+    "mal_id": 5502,
+    "url": "https://myanimelist.net/manga/5502/Devils_Kiss",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/267927.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/267927t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/267927l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/267927.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/267927t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/267927l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Devil's Kiss"
+        },
+        {
+            "type": "Synonym",
+            "title": "Akuma no Kuchizuke"
+        },
+        {
+            "type": "Japanese",
+            "title": "悪魔のくちづけ"
+        },
+        {
+            "type": "English",
+            "title": "Devil's Kiss"
+        }
+    ],
+    "title": "Devil's Kiss",
+    "title_english": "Devil's Kiss",
+    "title_japanese": "悪魔のくちづけ",
+    "title_synonyms": [
+        "Akuma no Kuchizuke"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-03-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 3,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 2005"
+    },
+    "score": 6.77,
+    "scored": 6.77,
+    "scored_by": 1323,
+    "rank": 12689,
+    "popularity": 7171,
+    "members": 2920,
+    "favorites": 1,
+    "synopsis": "Sara is a member of the Heaven Expedition Team, and her job is to hunt devils, but she hasn't caught even one devil yet and if she doesn't catch one she will be expelled! She decides to summon a devil so she can catch him, but what will happen when she meets the charming devil Rembrandt?\n\n(Source: Aka Roze Tenshi)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3355,
+            "type": "people",
+            "name": "Takamiya, Satoru",
+            "url": "https://myanimelist.net/people/3355/Satoru_Takamiya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 59,
+            "type": "manga",
+            "name": "Ciao",
+            "url": "https://myanimelist.net/manga/magazine/59/Ciao"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

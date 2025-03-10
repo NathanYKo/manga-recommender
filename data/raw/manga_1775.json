@@ -1,0 +1,119 @@
+{
+    "mal_id": 1775,
+    "url": "https://myanimelist.net/manga/1775/Good_Morning_Kiss",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/172511.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/172511t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/172511l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/172511.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/172511t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/172511l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Good Morning Kiss"
+        },
+        {
+            "type": "Japanese",
+            "title": "グッドモーニング・キス"
+        }
+    ],
+    "title": "Good Morning Kiss",
+    "title_english": null,
+    "title_japanese": "グッドモーニング・キス",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2006-05-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 5,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 9, 2006 to ?"
+    },
+    "score": 7.47,
+    "scored": 7.47,
+    "scored_by": 669,
+    "rank": 3206,
+    "popularity": 8190,
+    "members": 2487,
+    "favorites": 6,
+    "synopsis": "The series takes place a few years after GMC. Nao and Hisashi are in college and are living in across from each other in an apartment complex. When Nao's father pays a visit and learns of Hisashi he takes Nao back to her family. Hisashi realizes how much he hates being away from her and proposes.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2795,
+            "type": "people",
+            "name": "Takasuka, Yue",
+            "url": "https://myanimelist.net/people/2795/Yue_Takasuka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 15,
+            "type": "manga",
+            "name": "Cookie",
+            "url": "https://myanimelist.net/manga/magazine/15/Cookie"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1242,
+                    "type": "manga",
+                    "name": "Good Morning Call",
+                    "url": "https://myanimelist.net/manga/1242/Good_Morning_Call"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://cookie.shueisha.co.jp/story/03.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%83%E3%83%89%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%AB"
+        }
+    ]
+}

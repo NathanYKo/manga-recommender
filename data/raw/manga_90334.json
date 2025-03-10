@@ -1,0 +1,131 @@
+{
+    "mal_id": 90334,
+    "url": "https://myanimelist.net/manga/90334/Queens_Quality",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/172099.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/172099t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/172099l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/172099.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/172099t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/172099l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Queen's Quality"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Mind Sweeper"
+        },
+        {
+            "type": "Japanese",
+            "title": "クイーンズ・クオリティ"
+        },
+        {
+            "type": "English",
+            "title": "Queen's Quality"
+        }
+    ],
+    "title": "Queen's Quality",
+    "title_english": "Queen's Quality",
+    "title_japanese": "クイーンズ・クオリティ",
+    "title_synonyms": [
+        "The Mind Sweeper"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-07-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 13, 2015 to ?"
+    },
+    "score": 7.94,
+    "scored": 7.94,
+    "scored_by": 1583,
+    "rank": 898,
+    "popularity": 1703,
+    "members": 12716,
+    "favorites": 163,
+    "synopsis": "Fumi Nishioka is an apprentice \"Sweeper,\" a person who cleanses negative emotions from human hearts, who works together with fellow Sweeper Kyuutarou Horikita and his family. Before meeting them, she was homeless, and everywhere she went, people treated her like she was cursed. But the Horikitas—especially Kyuutarou—changed that, and gave her a place where she truly belongs.\n\nHowever, as the Horikitas are shocked to realize, a great yet terrible power lies dormant within Fumi's body, which can be used either for good or evil. Can Fumi control it, or will it end up controlling her?\n\n[Written by MAL Rewrite]",
+    "background": "Queen's Quality has been published in English by VIZ Media under the Shojo Beat imprint since September 5, 2017. The series has also been simulpub through VIZ Manga.",
+    "authors": [
+        {
+            "mal_id": 3218,
+            "type": "people",
+            "name": "Motomi, Kyousuke",
+            "url": "https://myanimelist.net/people/3218/Kyousuke_Motomi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 67397,
+                    "type": "manga",
+                    "name": "QQ Sweeper",
+                    "url": "https://myanimelist.net/manga/67397/QQ_Sweeper"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/QQ_Sweeper"
+        }
+    ]
+}

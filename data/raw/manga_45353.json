@@ -1,0 +1,145 @@
+{
+    "mal_id": 45353,
+    "url": "https://myanimelist.net/manga/45353/Yuyushiki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/168064.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/168064t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/168064l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/168064.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/168064t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/168064l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yuyushiki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yuyu-shiki"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゆゆ式"
+        }
+    ],
+    "title": "Yuyushiki",
+    "title_english": null,
+    "title_japanese": "ゆゆ式",
+    "title_synonyms": [
+        "Yuyu-shiki"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2008-01-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 9, 2008 to ?"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 511,
+    "rank": 3136,
+    "popularity": 7043,
+    "members": 2983,
+    "favorites": 42,
+    "synopsis": "This 4-koma style manga features 3 school girls as they hang out and chat. Friendly, clueless Yukari, enthusiastic, childish Yuzuko, and the more level-headed Yui hang out and talk about various subjects, like ketchup and mayonnaise, hands, the sun and more.\n\n(Source: MangaHelpers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 19671,
+            "type": "people",
+            "name": "Mikami, Komata",
+            "url": "https://myanimelist.net/people/19671/Komata_Mikami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 182,
+            "type": "manga",
+            "name": "Manga Time Kirara",
+            "url": "https://myanimelist.net/manga/magazine/182/Manga_Time_Kirara"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 15911,
+                    "type": "anime",
+                    "name": "Yuyushiki",
+                    "url": "https://myanimelist.net/anime/15911/Yuyushiki"
+                },
+                {
+                    "mal_id": 33035,
+                    "type": "anime",
+                    "name": "Yuyushiki: Komarasetari, Komarasaretari",
+                    "url": "https://myanimelist.net/anime/33035/Yuyushiki__Komarasetari_Komarasaretari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%86%E3%82%86%E5%BC%8F"
+        }
+    ]
+}

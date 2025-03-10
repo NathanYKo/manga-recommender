@@ -1,0 +1,129 @@
+{
+    "mal_id": 12151,
+    "url": "https://myanimelist.net/manga/12151/Filament",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/164487.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/164487t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/164487l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/164487.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/164487t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/164487l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Filament"
+        },
+        {
+            "type": "Synonym",
+            "title": "Misaki de Bus wo Orita Hito"
+        },
+        {
+            "type": "Synonym",
+            "title": "She Got Off the Bus At the Peninsula"
+        },
+        {
+            "type": "Synonym",
+            "title": "Labyrinth Cat"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bio Luminescence"
+        },
+        {
+            "type": "Synonym",
+            "title": "Urushibara Yuki Sakuhinshuu"
+        },
+        {
+            "type": "Japanese",
+            "title": "フィラメント～漆原友紀作品集～"
+        }
+    ],
+    "title": "Filament",
+    "title_english": null,
+    "title_japanese": "フィラメント～漆原友紀作品集～",
+    "title_synonyms": [
+        "Misaki de Bus wo Orita Hito",
+        "She Got Off the Bus At the Peninsula",
+        "Labyrinth Cat",
+        "Bio Luminescence",
+        "Urushibara Yuki Sakuhinshuu"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-09-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 9,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 22, 2004"
+    },
+    "score": 7.01,
+    "scored": 7.01,
+    "scored_by": 1226,
+    "rank": 8882,
+    "popularity": 6683,
+    "members": 3172,
+    "favorites": 7,
+    "synopsis": "Filament is an omnibus volume that includes short stories previously published as Bio Luminescence with two new ones. The one-shot \"Kusahibari\" was ommitted in this release.\n\nThis entry includes only two never collected before into books one-shots:\n1. Misaki de Bus wo Orita Hito (She Got Off the Bus At the Peninsula)\n2. Meikyuu Neko (Labyrinth Cat)",
+    "background": "The series has been published in Spanish by Milky Way Ediciones as Filamentos on March 24, 2016.",
+    "authors": [
+        {
+            "mal_id": 2394,
+            "type": "people",
+            "name": "Urushibara, Yuki",
+            "url": "https://myanimelist.net/people/2394/Yuki_Urushibara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 93157,
+                    "type": "manga",
+                    "name": "Bio Luminescence",
+                    "url": "https://myanimelist.net/manga/93157/Bio_Luminescence"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

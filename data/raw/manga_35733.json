@@ -1,0 +1,137 @@
+{
+    "mal_id": 35733,
+    "url": "https://myanimelist.net/manga/35733/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/208751.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/208751t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/208751l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/208751.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/208751t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/208751l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai."
+        },
+        {
+            "type": "Synonym",
+            "title": "AnoHana"
+        },
+        {
+            "type": "Synonym",
+            "title": "We Still Don't Know the Name of the Flower We Saw That Day"
+        },
+        {
+            "type": "Japanese",
+            "title": "あの日見た花の名前を僕達はまだ知らない。"
+        }
+    ],
+    "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+    "title_english": null,
+    "title_japanese": "あの日見た花の名前を僕達はまだ知らない。",
+    "title_synonyms": [
+        "AnoHana",
+        "We Still Don't Know the Name of the Flower We Saw That Day"
+    ],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-04-04T00:00:00+00:00",
+        "to": "2013-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 4,
+                "month": 4,
+                "year": 2013
+            }
+        },
+        "string": "Apr 4, 2012 to Apr 4, 2013"
+    },
+    "score": 8.15,
+    "scored": 8.15,
+    "scored_by": 6355,
+    "rank": 512,
+    "popularity": 1263,
+    "members": 16285,
+    "favorites": 280,
+    "synopsis": "Jinta Yadomi spends most of his days at home, indifferent to his school and social life after a tragic accident tore his childhood friendship group apart. Years later, Jinta is confronted by his past in the form of a ghost—Meiko \"Menma\" Honma—which forces him to face the guilt he has been shouldering since her death.\n\nMenma reveals that she has a wish that may help her move on; however, she has forgotten what it was and insists that she needs the whole group back together to remember. Will Jinta be able to reunite his estranged friends and convince them that what he is saying is true?\n\n[Written by MAL Rewrite]",
+    "background": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. was published in Spanish by Editorial Ivrea from September 22, 2016, to December 22, 2016; and in Brazilian Portuguese by Editora JBC from June 18, 2016, to October 11, 2016.",
+    "authors": [
+        {
+            "mal_id": 16387,
+            "type": "people",
+            "name": "Izumi, Mitsu",
+            "url": "https://myanimelist.net/people/16387/Mitsu_Izumi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9989,
+                    "type": "anime",
+                    "name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+                    "url": "https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 47957,
+                    "type": "manga",
+                    "name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+                    "url": "https://myanimelist.net/manga/47957/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%AE%E6%97%A5%E8%A6%8B%E3%81%9F%E8%8A%B1%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E5%83%95%E9%81%94%E3%81%AF%E3%81%BE%E3%81%A0%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E3%80%82"
+        }
+    ]
+}

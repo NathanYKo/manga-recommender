@@ -1,0 +1,132 @@
+{
+    "mal_id": 11187,
+    "url": "https://myanimelist.net/manga/11187/Gokujou♥Drops",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/285519.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/285519t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/285519l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/285519.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/285519t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/285519l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gokujou♥Drops"
+        },
+        {
+            "type": "Synonym",
+            "title": "Finest Drops"
+        },
+        {
+            "type": "Synonym",
+            "title": "First-Rate Drops"
+        },
+        {
+            "type": "Synonym",
+            "title": "Petit Wildrose"
+        },
+        {
+            "type": "Japanese",
+            "title": "極上♥ドロップス"
+        }
+    ],
+    "title": "Gokujou♥Drops",
+    "title_english": null,
+    "title_japanese": "極上♥ドロップス",
+    "title_synonyms": [
+        "Finest Drops",
+        "First-Rate Drops",
+        "Petit Wildrose"
+    ],
+    "type": "Manga",
+    "chapters": 25,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": "2010-04-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 2,
+                "month": 4,
+                "year": 2010
+            }
+        },
+        "string": "2008 to Apr 2, 2010"
+    },
+    "score": 7.2,
+    "scored": 7.2,
+    "scored_by": 4876,
+    "rank": null,
+    "popularity": 2268,
+    "members": 9613,
+    "favorites": 144,
+    "synopsis": "High-school freshman Komari needs to find a dorm to stay in and ends up living at the prestigious Paraso no Yakata, but only because she agreed to be Himemiya Yukio’s servant! \n\n(Source: Wings of Yuri)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4860,
+            "type": "people",
+            "name": "Mikuni, Hajime",
+            "url": "https://myanimelist.net/people/4860/Hajime_Mikuni"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 471,
+            "type": "manga",
+            "name": "Ichijinsha Mobile",
+            "url": "https://myanimelist.net/manga/magazine/471/Ichijinsha_Mobile"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 14457,
+                    "type": "manga",
+                    "name": "Petit Wildrose",
+                    "url": "https://myanimelist.net/manga/14457/Petit_Wildrose"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,137 @@
+{
+    "mal_id": 28899,
+    "url": "https://myanimelist.net/manga/28899/Steins_Gate__Onshuu_no_Brownian_Motion",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/149165.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/149165t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/149165l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/149165.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/149165t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/149165l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Steins;Gate: Onshuu no Brownian Motion"
+        },
+        {
+            "type": "Synonym",
+            "title": "Steins,Gate: Braunian Motion of Love and Hate"
+        },
+        {
+            "type": "Japanese",
+            "title": "STEINS;GATE恩讐のブラウニアンモーション"
+        }
+    ],
+    "title": "Steins;Gate: Onshuu no Brownian Motion",
+    "title_english": null,
+    "title_japanese": "STEINS;GATE恩讐のブラウニアンモーション",
+    "title_synonyms": [
+        "Steins,Gate: Braunian Motion of Love and Hate"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-07-30T00:00:00+00:00",
+        "to": "2012-04-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 27,
+                "month": 4,
+                "year": 2012
+            }
+        },
+        "string": "Jul 30, 2010 to Apr 27, 2012"
+    },
+    "score": 7.98,
+    "scored": 7.98,
+    "scored_by": 1899,
+    "rank": 794,
+    "popularity": 4140,
+    "members": 5441,
+    "favorites": 77,
+    "synopsis": "A spin-off from the Steins;Gate game, showing the past of the CRT store owner Tennouji Yuugo, also known as Mr. Braun.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4960,
+            "type": "people",
+            "name": "Nitroplus",
+            "url": "https://myanimelist.net/people/4960/Nitroplus"
+        },
+        {
+            "mal_id": 17653,
+            "type": "people",
+            "name": "Mizoguchi, Takeshi",
+            "url": "https://myanimelist.net/people/17653/Takeshi_Mizoguchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 532,
+            "type": "manga",
+            "name": "Famitsu Comic Clear",
+            "url": "https://myanimelist.net/manga/magazine/532/Famitsu_Comic_Clear"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 17517,
+                    "type": "manga",
+                    "name": "Steins;Gate",
+                    "url": "https://myanimelist.net/manga/17517/Steins_Gate"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Steins;Gate#Manga"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/STEINS;GATE"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "mal_id": 1436,
+    "url": "https://myanimelist.net/manga/1436/Metropolis",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260803.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260803t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260803l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260803.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260803t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260803l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Metropolis"
+        },
+        {
+            "type": "Japanese",
+            "title": "メトロポリス"
+        },
+        {
+            "type": "English",
+            "title": "Metropolis"
+        }
+    ],
+    "title": "Metropolis",
+    "title_english": "Metropolis",
+    "title_japanese": "メトロポリス",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1949-09-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 9,
+                "year": 1949
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 15, 1949"
+    },
+    "score": 6.47,
+    "scored": 6.47,
+    "scored_by": 1815,
+    "rank": 16862,
+    "popularity": 5731,
+    "members": 3759,
+    "favorites": 10,
+    "synopsis": "In a super-advanced city in the near future where humanoid robot technology is very sophisticated, the boy detective Kenichi is caught up in the conflict as the powerful politician Duke Red, distraught over his child's death, hires a scientist to create a replacement, an exquisitely beautiful sex-changing robot child named Mitchy. Note that this original 1949 manga supplies only part of the plot for the recent Metropolis movie, and does not feature Rock, whose role in the film was adapted from Phoenix, Nextworld and other Tezuka manga.\n\n(Source: ANN)",
+    "background": "Metropolis was published in English by Dark Horse Comics on April 22, 2003. It was also released in French by Taifu Comics in 2005; in Spanish by Ediciones Glénat on May 31, 2004; and in Brazilian Portuguese by NewPOP Editora in August 2010.",
+    "authors": [
+        {
+            "mal_id": 1938,
+            "type": "people",
+            "name": "Tezuka, Osamu",
+            "url": "https://myanimelist.net/people/1938/Osamu_Tezuka"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 522,
+                    "type": "anime",
+                    "name": "Metropolis",
+                    "url": "https://myanimelist.net/anime/522/Metropolis"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 9371,
+                    "type": "manga",
+                    "name": "Daiou",
+                    "url": "https://myanimelist.net/manga/9371/Daiou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

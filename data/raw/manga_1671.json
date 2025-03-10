@@ -1,0 +1,120 @@
+{
+    "mal_id": 1671,
+    "url": "https://myanimelist.net/manga/1671/Believers",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/1763.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/1763t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/1763l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/1763.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/1763t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/1763l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Believers"
+        },
+        {
+            "type": "Japanese",
+            "title": "ビリーバーズ"
+        }
+    ],
+    "title": "Believers",
+    "title_english": null,
+    "title_japanese": "ビリーバーズ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 22,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-05-01T00:00:00+00:00",
+        "to": "1999-11-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 5,
+                "year": 1999
+            },
+            "to": {
+                "day": 1,
+                "month": 11,
+                "year": 1999
+            }
+        },
+        "string": "May 1999 to Nov 1999"
+    },
+    "score": 6.64,
+    "scored": 6.64,
+    "scored_by": 2837,
+    "rank": 14646,
+    "popularity": 3062,
+    "members": 7321,
+    "favorites": 37,
+    "synopsis": "On a small island somewhere near Japan, three cult members have devoted themselves to the \"Deserted Island Program\". Calling each other by rank, these people-two men and one women-have been chosen by their superiors to throw off the corrupt influence of modern society and \"purify\" themselves. But as time passes two of the members begin to give into human desire...\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1875,
+            "type": "people",
+            "name": "Yamamoto, Naoki",
+            "url": "https://myanimelist.net/people/1875/Naoki_Yamamoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.yamamotonaoki.com/list/beli.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Believers"
+        }
+    ]
+}

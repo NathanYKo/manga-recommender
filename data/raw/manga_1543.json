@@ -1,0 +1,153 @@
+{
+    "mal_id": 1543,
+    "url": "https://myanimelist.net/manga/1543/Mirai_Nikki__Mosaic",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/307343.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/307343t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/307343l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/307343.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/307343t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/307343l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mirai Nikki: Mosaic"
+        },
+        {
+            "type": "Synonym",
+            "title": "Future Diary: Mosaic"
+        },
+        {
+            "type": "Japanese",
+            "title": "未来日記モザイク"
+        }
+    ],
+    "title": "Mirai Nikki: Mosaic",
+    "title_english": null,
+    "title_japanese": "未来日記モザイク",
+    "title_synonyms": [
+        "Future Diary: Mosaic"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-11-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 11,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 26, 2008"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 9317,
+    "rank": 4398,
+    "popularity": 1131,
+    "members": 17817,
+    "favorites": 88,
+    "synopsis": "Minene Uryuu is a wanted terrorist who has resented organized religion ever since the demise of her parents. Blaming God for her misfortune, Minene vows to destroy anyone and anything related to the deity. The delinquent decides to disguise herself as a recently deceased detective in order to get closer to her targets. However, Minene is soon found out and flees.\n\nJust when she is at her wits' end, a godlike creature grants her the ability to foresee the future on her cellphone—a Future Diary. Will Minene be able to achieve her ambitious goals with this newfound power?\n\n[Written by MAL Rewrite]",
+    "background": "Mirai Nikki: Mosaic was published in French by Casterman on June 30, 2010; in Italian by Edizioni Star Comics on October 12, 2013; and in Brazilian Portuguese by Editora JBC in March 2014.",
+    "authors": [
+        {
+            "mal_id": 2518,
+            "type": "people",
+            "name": "Esuno, Sakae",
+            "url": "https://myanimelist.net/people/2518/Sakae_Esuno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 503,
+            "type": "manga",
+            "name": "Ace Assault",
+            "url": "https://myanimelist.net/manga/magazine/503/Ace_Assault"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 59,
+            "type": "manga",
+            "name": "High Stakes Game",
+            "url": "https://myanimelist.net/manga/genre/59/High_Stakes_Game"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 77,
+            "type": "manga",
+            "name": "Survival",
+            "url": "https://myanimelist.net/manga/genre/77/Survival"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 584,
+                    "type": "manga",
+                    "name": "Mirai Nikki",
+                    "url": "https://myanimelist.net/manga/584/Mirai_Nikki"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

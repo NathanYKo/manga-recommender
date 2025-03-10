@@ -1,0 +1,151 @@
+{
+    "mal_id": 80909,
+    "url": "https://myanimelist.net/manga/80909/Tokyo_Ghoul",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/140109.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/140109t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/140109l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/140109.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/140109t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/140109l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tokyo Ghoul"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tokyo Ghoul 0"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tokyo Ghoul Pilot"
+        },
+        {
+            "type": "Synonym",
+            "title": "Toukyou Kuushu"
+        },
+        {
+            "type": "Japanese",
+            "title": "東京喰種－トーキョーグール－"
+        }
+    ],
+    "title": "Tokyo Ghoul",
+    "title_english": null,
+    "title_japanese": "東京喰種－トーキョーグール－",
+    "title_synonyms": [
+        "Tokyo Ghoul 0",
+        "Tokyo Ghoul Pilot",
+        "Toukyou Kuushu"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-03-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 3,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 15, 2011"
+    },
+    "score": 6.99,
+    "scored": 6.99,
+    "scored_by": 9743,
+    "rank": 9233,
+    "popularity": 1110,
+    "members": 18097,
+    "favorites": 3411,
+    "synopsis": "The prototype of the series prior to its serialization.",
+    "background": "Tokyo Ghoul won the Excellence Award in the 113th Manga Grand Prix.",
+    "authors": [
+        {
+            "mal_id": 15753,
+            "type": "people",
+            "name": "Ishida, Sui",
+            "url": "https://myanimelist.net/people/15753/Sui_Ishida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 691,
+            "type": "manga",
+            "name": "Miracle Jump",
+            "url": "https://myanimelist.net/manga/magazine/691/Miracle_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 33327,
+                    "type": "manga",
+                    "name": "Tokyo Ghoul",
+                    "url": "https://myanimelist.net/manga/33327/Tokyo_Ghoul"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

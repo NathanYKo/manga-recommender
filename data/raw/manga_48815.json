@@ -1,0 +1,120 @@
+{
+    "mal_id": 48815,
+    "url": "https://myanimelist.net/manga/48815/Love_Kids",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/116795.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/116795t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/116795l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/116795.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/116795t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/116795l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Love Kids!!"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラブキッズ!!"
+        }
+    ],
+    "title": "Love Kids!!",
+    "title_english": null,
+    "title_japanese": "ラブキッズ!!",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-02-22T00:00:00+00:00",
+        "to": "2013-02-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 2,
+                "year": 2012
+            },
+            "to": {
+                "day": 22,
+                "month": 2,
+                "year": 2013
+            }
+        },
+        "string": "Feb 22, 2012 to Feb 22, 2013"
+    },
+    "score": 7.12,
+    "scored": 7.12,
+    "scored_by": 2581,
+    "rank": null,
+    "popularity": 4416,
+    "members": 5054,
+    "favorites": 13,
+    "synopsis": "A sequel to Koishite Daddy that revolves around Satou's son, Rintarou, and his relationship with Kyo.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4480,
+            "type": "people",
+            "name": "Kitazawa, Kyou",
+            "url": "https://myanimelist.net/people/4480/Kyou_Kitazawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 192,
+            "type": "manga",
+            "name": "Daria",
+            "url": "https://myanimelist.net/manga/magazine/192/Daria"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 25302,
+                    "type": "manga",
+                    "name": "Koishite Daddy",
+                    "url": "https://myanimelist.net/manga/25302/Koishite_Daddy"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 127159,
+                    "type": "manga",
+                    "name": "Koisuru Daigo-sensei",
+                    "url": "https://myanimelist.net/manga/127159/Koisuru_Daigo-sensei"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

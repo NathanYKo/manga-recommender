@@ -1,0 +1,116 @@
+{
+    "mal_id": 25824,
+    "url": "https://myanimelist.net/manga/25824/Gantz_Nishi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/41908.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/41908t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/41908l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/41908.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/41908t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/41908l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gantz/Nishi"
+        },
+        {
+            "type": "Japanese",
+            "title": "GANTZ/NISHI"
+        }
+    ],
+    "title": "Gantz/Nishi",
+    "title_english": null,
+    "title_japanese": "GANTZ/NISHI",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-05-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 5,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 11, 2011"
+    },
+    "score": 6.41,
+    "scored": 6.41,
+    "scored_by": 3085,
+    "rank": 17549,
+    "popularity": 3453,
+    "members": 6463,
+    "favorites": 27,
+    "synopsis": "A special one-shot that shows what Nishi does in his spare time.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2718,
+            "type": "people",
+            "name": "Oku, Hiroya",
+            "url": "https://myanimelist.net/people/2718/Hiroya_Oku"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 564,
+                    "type": "manga",
+                    "name": "Gantz",
+                    "url": "https://myanimelist.net/manga/564/Gantz"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

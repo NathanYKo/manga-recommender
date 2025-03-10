@@ -1,0 +1,143 @@
+{
+    "mal_id": 123502,
+    "url": "https://myanimelist.net/manga/123502/Koisuru_Kiseichuu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/229078.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/229078t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/229078l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/229078.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/229078t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/229078l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koisuru Kiseichuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Parasite in Love"
+        },
+        {
+            "type": "Japanese",
+            "title": "恋する寄生虫"
+        }
+    ],
+    "title": "Koisuru Kiseichuu",
+    "title_english": null,
+    "title_japanese": "恋する寄生虫",
+    "title_synonyms": [
+        "Parasite in Love"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-07-26T00:00:00+00:00",
+        "to": "2019-12-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2019
+            }
+        },
+        "string": "Jul 26, 2018 to Dec 26, 2019"
+    },
+    "score": 7.53,
+    "scored": 7.53,
+    "scored_by": 4407,
+    "rank": 2766,
+    "popularity": 1851,
+    "members": 11775,
+    "favorites": 289,
+    "synopsis": "The story is about a man whose compulsive tendencies make it impossible for him to keep a job, and a young girl who skips school and loves insects. The two meet, come to support each other in reintegrating into society, and fall in love. There's a problem, however: namely, the parasites in their heads.\n\n(Source: vgperson)",
+    "background": "Koisuru Kiseichuu was published in French by Delcourt from February 19, 2020 to June 16, 2021, in German by Egmont Manga from April 1, 2021 to June 2, 2021, and in Italian by Edizioni BD under the J-Pop imprint on April 21, 2021.",
+    "authors": [
+        {
+            "mal_id": 41857,
+            "type": "people",
+            "name": "Miaki, Sugaru",
+            "url": "https://myanimelist.net/people/41857/Sugaru_Miaki"
+        },
+        {
+            "mal_id": 51135,
+            "type": "people",
+            "name": "Hotate, Yuuki",
+            "url": "https://myanimelist.net/people/51135/Yuuki_Hotate"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 125842,
+                    "type": "manga",
+                    "name": "Koisuru Kiseichuu",
+                    "url": "https://myanimelist.net/manga/125842/Koisuru_Kiseichuu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://web-ace.jp/shonenace/contents/337/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E3%81%99%E3%82%8B%E5%AF%84%E7%94%9F%E8%99%AB"
+        }
+    ]
+}

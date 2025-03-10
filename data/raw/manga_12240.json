@@ -1,0 +1,162 @@
+{
+    "mal_id": 12240,
+    "url": "https://myanimelist.net/manga/12240/Seiken_no_Blacksmith",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/188847.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/188847t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/188847l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/188847.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/188847t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/188847l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Seiken no Blacksmith"
+        },
+        {
+            "type": "Synonym",
+            "title": "Seiken no Katanakaji"
+        },
+        {
+            "type": "Japanese",
+            "title": "聖剣の刀鍛冶〈ブラックスミス〉"
+        },
+        {
+            "type": "English",
+            "title": "The Sacred Sword Blacksmith"
+        }
+    ],
+    "title": "Seiken no Blacksmith",
+    "title_english": "The Sacred Sword Blacksmith",
+    "title_japanese": "聖剣の刀鍛冶〈ブラックスミス〉",
+    "title_synonyms": [
+        "Seiken no Katanakaji"
+    ],
+    "type": "Manga",
+    "chapters": 62,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-03-27T00:00:00+00:00",
+        "to": "2017-01-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 3,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 1,
+                "year": 2017
+            }
+        },
+        "string": "Mar 27, 2009 to Jan 27, 2017"
+    },
+    "score": 7.18,
+    "scored": 7.18,
+    "scored_by": 3478,
+    "rank": 6364,
+    "popularity": 2043,
+    "members": 10515,
+    "favorites": 63,
+    "synopsis": "Once upon a time, there was a tragic war, in which the power of the devils was involved. After the war, the devils' power was banned and the world was restored to peace. Cecily Campbell is a knight, who has been looking for a blacksmith to repair her old sword given by her father. One day, she saw a man fighting with a ruffian who used the tabooed devil's power. The man defeated him with one blow of his weirdly shaped sword. The man turned out to be a blacksmith called Luke. The fateful encounter was the beginning of the adventure.",
+    "background": "Seiken no Blacksmith was published in English as The Sacred Blacksmith by Seven Seas Entertainment from May 21, 2013 to July 11, 2017.",
+    "authors": [
+        {
+            "mal_id": 5945,
+            "type": "people",
+            "name": "Yamada, Koutarou",
+            "url": "https://myanimelist.net/people/5945/Koutarou_Yamada"
+        },
+        {
+            "mal_id": 7077,
+            "type": "people",
+            "name": "Miura, Isao",
+            "url": "https://myanimelist.net/people/7077/Isao_Miura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 137,
+            "type": "manga",
+            "name": "Comic Alive",
+            "url": "https://myanimelist.net/manga/magazine/137/Comic_Alive"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 12239,
+                    "type": "manga",
+                    "name": "Seiken no Blacksmith",
+                    "url": "https://myanimelist.net/manga/12239/Seiken_no_Blacksmith"
+                },
+                {
+                    "mal_id": 5940,
+                    "type": "anime",
+                    "name": "Seiken no Blacksmith",
+                    "url": "https://myanimelist.net/anime/5940/Seiken_no_Blacksmith"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E8%81%96%E5%89%A3%E3%81%AE%E5%88%80%E9%8D%9B%E5%86%B6"
+        }
+    ]
+}

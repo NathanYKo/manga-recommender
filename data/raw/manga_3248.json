@@ -1,0 +1,97 @@
+{
+    "mal_id": 3248,
+    "url": "https://myanimelist.net/manga/3248/100_Days_Dream",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/112515.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/112515t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/112515l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/112515.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/112515t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/112515l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "100 Days Dream"
+        },
+        {
+            "type": "Synonym",
+            "title": "One Hundred Days of Dream"
+        },
+        {
+            "type": "Japanese",
+            "title": "백일몽"
+        }
+    ],
+    "title": "100 Days Dream",
+    "title_english": null,
+    "title_japanese": "백일몽",
+    "title_synonyms": [
+        "One Hundred Days of Dream"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-07-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 7,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 15, 2005"
+    },
+    "score": 6.49,
+    "scored": 6.49,
+    "scored_by": 1589,
+    "rank": 16669,
+    "popularity": 8144,
+    "members": 2504,
+    "favorites": 5,
+    "synopsis": "\"Even though I don't have wings, I can fly.\"",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4621,
+            "type": "people",
+            "name": "Sa-Sook",
+            "url": "https://myanimelist.net/people/4621/Sa-Sook"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 134,
+            "type": "manga",
+            "name": "Wink",
+            "url": "https://myanimelist.net/manga/magazine/134/Wink"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

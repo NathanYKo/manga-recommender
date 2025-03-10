@@ -1,0 +1,161 @@
+{
+    "mal_id": 99377,
+    "url": "https://myanimelist.net/manga/99377/Kenja_no_Mago",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/186273.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/186273t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/186273l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/186273.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/186273t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/186273l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kenja no Mago"
+        },
+        {
+            "type": "Synonym",
+            "title": "Philosopher's Grandson"
+        },
+        {
+            "type": "Synonym",
+            "title": "Magi's Grandson"
+        },
+        {
+            "type": "Synonym",
+            "title": "Wise Man's Grandchild"
+        },
+        {
+            "type": "Japanese",
+            "title": "賢者の孫"
+        }
+    ],
+    "title": "Kenja no Mago",
+    "title_english": null,
+    "title_japanese": "賢者の孫",
+    "title_synonyms": [
+        "Philosopher's Grandson",
+        "Magi's Grandson",
+        "Wise Man's Grandchild"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-03-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 3,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 1, 2016 to ?"
+    },
+    "score": 6.92,
+    "scored": 6.92,
+    "scored_by": 11526,
+    "rank": 10297,
+    "popularity": 557,
+    "members": 33806,
+    "favorites": 327,
+    "synopsis": "A young man who had surely died in an accident, was reborn in another world as a baby! After that, he was picked up by the patriot hero \"Sage\" Merlin Wolford and was given the name Shin. He was raised as a grandson by Merlin and soaked up Merlin's teachings earning him some shocking power however, when he became 15 his grandfather Merlin said: \"I forgot to teach him common sense\"!\n\nAn \"abnormal\" boy's unconventional other world fantasy life starts here!!\n\n(Source: Kadokawa, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 36527,
+            "type": "people",
+            "name": "Yoshioka, Tsuyoshi",
+            "url": "https://myanimelist.net/people/36527/Tsuyoshi_Yoshioka"
+        },
+        {
+            "mal_id": 39441,
+            "type": "people",
+            "name": "Shunsuke, Ogata",
+            "url": "https://myanimelist.net/people/39441/Ogata_Shunsuke"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1340,
+            "type": "manga",
+            "name": "Young Ace UP",
+            "url": "https://myanimelist.net/manga/magazine/1340/Young_Ace_UP"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        },
+        {
+            "mal_id": 73,
+            "type": "manga",
+            "name": "Reincarnation",
+            "url": "https://myanimelist.net/manga/genre/73/Reincarnation"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 90561,
+                    "type": "manga",
+                    "name": "Kenja no Mago",
+                    "url": "https://myanimelist.net/manga/90561/Kenja_no_Mago"
+                },
+                {
+                    "mal_id": 36407,
+                    "type": "anime",
+                    "name": "Kenja no Mago",
+                    "url": "https://myanimelist.net/anime/36407/Kenja_no_Mago"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://web-ace.jp/youngaceup/contents/1000015/"
+        }
+    ]
+}

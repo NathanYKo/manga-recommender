@@ -1,0 +1,158 @@
+{
+    "mal_id": 108495,
+    "url": "https://myanimelist.net/manga/108495/NieR_Automata",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/243834.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/243834t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/243834l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/243834.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/243834t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/243834l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "NieR:Automata"
+        },
+        {
+            "type": "Synonym",
+            "title": "NieR:Automata: Nagai Hanashi"
+        },
+        {
+            "type": "Synonym",
+            "title": "NieR:Automata: Long Story Short"
+        },
+        {
+            "type": "Synonym",
+            "title": "NieR:Automata: Mijikai Hanashi"
+        },
+        {
+            "type": "Synonym",
+            "title": "NieR:Automata: Short Story Long"
+        },
+        {
+            "type": "Synonym",
+            "title": "NieR:Automata: Shounen YoRHa"
+        },
+        {
+            "type": "Synonym",
+            "title": "NieR:Automata: YoRHa Boys"
+        },
+        {
+            "type": "Japanese",
+            "title": "NieR：Automata"
+        },
+        {
+            "type": "English",
+            "title": "NieR:Automata"
+        }
+    ],
+    "title": "NieR:Automata",
+    "title_english": "NieR:Automata",
+    "title_japanese": "NieR：Automata",
+    "title_synonyms": [
+        "NieR:Automata: Nagai Hanashi",
+        "NieR:Automata: Long Story Short",
+        "NieR:Automata: Mijikai Hanashi",
+        "NieR:Automata: Short Story Long",
+        "NieR:Automata: Shounen YoRHa",
+        "NieR:Automata: YoRHa Boys"
+    ],
+    "type": "Novel",
+    "chapters": 30,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-08-05T00:00:00+00:00",
+        "to": "2018-07-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 8,
+                "year": 2017
+            },
+            "to": {
+                "day": 27,
+                "month": 7,
+                "year": 2018
+            }
+        },
+        "string": "Aug 5, 2017 to Jul 27, 2018"
+    },
+    "score": 8.21,
+    "scored": 8.21,
+    "scored_by": 2154,
+    "rank": 426,
+    "popularity": 1742,
+    "members": 12424,
+    "favorites": 259,
+    "synopsis": "In the NieR:Automata series:\n\n1. Nagai Hanashi (Long Story Short)\n2. Mijikai Hanashi (Short Story Long)\n3. Shounen YoRHa (YoRHa Boys)",
+    "background": "The first two volumes of NieR:Automata were published in English by VIZ Media from October 9, 2018 to April 9, 2019, and the third volume was published by Square Enix on October 27, 2020.",
+    "authors": [
+        {
+            "mal_id": 16027,
+            "type": "people",
+            "name": "Eishima, Jun",
+            "url": "https://myanimelist.net/people/16027/Jun_Eishima"
+        },
+        {
+            "mal_id": 29087,
+            "type": "people",
+            "name": "Yoko, Taro",
+            "url": "https://myanimelist.net/people/29087/Taro_Yoko"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 133622,
+                    "type": "manga",
+                    "name": "YoRHa: Shinjuwan Kouka Sakusen Kiroku",
+                    "url": "https://myanimelist.net/manga/133622/YoRHa__Shinjuwan_Kouka_Sakusen_Kiroku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nier:_Automata"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ニーア_オートマタ"
+        }
+    ]
+}

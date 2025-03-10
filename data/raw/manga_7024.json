@@ -1,0 +1,127 @@
+{
+    "mal_id": 7024,
+    "url": "https://myanimelist.net/manga/7024/Kouya_no_Tenshidomo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/279886.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/279886t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/279886l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/279886.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/279886t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/279886l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kouya no Tenshidomo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Miriam"
+        },
+        {
+            "type": "Japanese",
+            "title": "荒野の天使ども"
+        }
+    ],
+    "title": "Kouya no Tenshidomo",
+    "title_english": null,
+    "title_japanese": "荒野の天使ども",
+    "title_synonyms": [
+        "Miriam"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1983-03-24T00:00:00+00:00",
+        "to": "1984-06-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 3,
+                "year": 1983
+            },
+            "to": {
+                "day": 24,
+                "month": 6,
+                "year": 1984
+            }
+        },
+        "string": "Mar 24, 1983 to Jun 24, 1984"
+    },
+    "score": 7.89,
+    "scored": 7.89,
+    "scored_by": 1065,
+    "rank": 1030,
+    "popularity": 7700,
+    "members": 2676,
+    "favorites": 36,
+    "synopsis": "This is a cowboy shoujo manga set in the Wild West. Miriam is an orphan. Her father was a drunken gambler; she only had a dress and they moved from place to place, until one day her father died and Grace took her in. The series follows Miriam's life, growing up, and falling in love with her life-long friend, the skillful sharpshooter Douglas.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2671,
+            "type": "people",
+            "name": "Hikawa, Kyouko",
+            "url": "https://myanimelist.net/people/2671/Kyouko_Hikawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "LaLa",
+            "url": "https://myanimelist.net/manga/magazine/11/LaLa"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 119685,
+                    "type": "manga",
+                    "name": "Jikan wo Tomete Matteite",
+                    "url": "https://myanimelist.net/manga/119685/Jikan_wo_Tomete_Matteite"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E8%8D%92%E9%87%8E%E3%81%AE%E5%A4%A9%E4%BD%BF%E3%81%A9%E3%82%82"
+        }
+    ]
+}

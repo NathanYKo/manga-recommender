@@ -1,0 +1,113 @@
+{
+    "mal_id": 91946,
+    "url": "https://myanimelist.net/manga/91946/Mushihime",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166267.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166267t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166267l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166267.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166267t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166267l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mushihime"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mushi-hime"
+        },
+        {
+            "type": "Synonym",
+            "title": "Insect Princess"
+        },
+        {
+            "type": "Japanese",
+            "title": "蟲姫"
+        }
+    ],
+    "title": "Mushihime",
+    "title_english": null,
+    "title_japanese": "蟲姫",
+    "title_synonyms": [
+        "Mushi-hime",
+        "Insect Princess"
+    ],
+    "type": "Manga",
+    "chapters": 24,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-05-07T00:00:00+00:00",
+        "to": "2015-07-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 5,
+                "year": 2013
+            },
+            "to": {
+                "day": 7,
+                "month": 7,
+                "year": 2015
+            }
+        },
+        "string": "May 7, 2013 to Jul 7, 2015"
+    },
+    "score": 6.23,
+    "scored": 6.23,
+    "scored_by": 4635,
+    "rank": 18861,
+    "popularity": 2068,
+    "members": 10401,
+    "favorites": 53,
+    "synopsis": "An incomparably beautiful transfer student... Kikuko Munakata emits pheromones that attract men, women, and insects alike! There is evil in the air, and death that festers like worms, threatening to take over everyday life. What will come to be...?!\n\n(Source: Home-sha, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2896,
+            "type": "people",
+            "name": "Hokazono, Masaya",
+            "url": "https://myanimelist.net/people/2896/Masaya_Hokazono"
+        },
+        {
+            "mal_id": 38667,
+            "type": "people",
+            "name": "Satomi, Yuu",
+            "url": "https://myanimelist.net/people/38667/Yuu_Satomi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1324,
+            "type": "manga",
+            "name": "Garaku no Mori",
+            "url": "https://myanimelist.net/manga/magazine/1324/Garaku_no_Mori"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.garakunomori.com/?manga=mushihime"
+        }
+    ]
+}

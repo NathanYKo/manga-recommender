@@ -1,0 +1,140 @@
+{
+    "mal_id": 6853,
+    "url": "https://myanimelist.net/manga/6853/Kamen_Teacher",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/199197.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/199197t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/199197l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/199197.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/199197t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/199197l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kamen Teacher"
+        },
+        {
+            "type": "Synonym",
+            "title": "Masked Teacher"
+        },
+        {
+            "type": "Japanese",
+            "title": "仮面ティーチャー"
+        }
+    ],
+    "title": "Kamen Teacher",
+    "title_english": null,
+    "title_japanese": "仮面ティーチャー",
+    "title_synonyms": [
+        "Masked Teacher"
+    ],
+    "type": "Manga",
+    "chapters": 39,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-08-24T00:00:00+00:00",
+        "to": "2007-11-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 8,
+                "year": 2006
+            },
+            "to": {
+                "day": 1,
+                "month": 11,
+                "year": 2007
+            }
+        },
+        "string": "Aug 24, 2006 to Nov 1, 2007"
+    },
+    "score": 7.13,
+    "scored": 7.13,
+    "scored_by": 4006,
+    "rank": 7028,
+    "popularity": 2673,
+    "members": 8327,
+    "favorites": 23,
+    "synopsis": "This man's name is Gouta Araki. Today he begins working as a teacher at Kyokuran High School in the city of Tachibana. His hobbies are fitness and clipping pictures from adult magazines. But another man has been sent to teach at this high school and that man's name is...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2318,
+            "type": "people",
+            "name": "Fujisawa, Tooru",
+            "url": "https://myanimelist.net/people/2318/Tooru_Fujisawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 83083,
+                    "type": "manga",
+                    "name": "Kamen Teacher Black",
+                    "url": "https://myanimelist.net/manga/83083/Kamen_Teacher_Black"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E4%BB%AE%E9%9D%A2%E3%83%86%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC"
+        }
+    ]
+}

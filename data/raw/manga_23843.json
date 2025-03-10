@@ -1,0 +1,114 @@
+{
+    "mal_id": 23843,
+    "url": "https://myanimelist.net/manga/23843/Totsugami",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/152910.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/152910t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/152910l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/152910.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/152910t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/152910l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Totsugami"
+        },
+        {
+            "type": "Synonym",
+            "title": "Totsu Gami"
+        },
+        {
+            "type": "Synonym",
+            "title": "Foreign Gods"
+        },
+        {
+            "type": "Japanese",
+            "title": "外つ神 ～トツガミ～"
+        }
+    ],
+    "title": "Totsugami",
+    "title_english": null,
+    "title_japanese": "外つ神 ～トツガミ～",
+    "title_synonyms": [
+        "Totsu Gami",
+        "Foreign Gods"
+    ],
+    "type": "Manga",
+    "chapters": 60,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-03-30T00:00:00+00:00",
+        "to": "2014-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 3,
+                "year": 2009
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Mar 30, 2009 to Mar 28, 2014"
+    },
+    "score": 6.89,
+    "scored": 6.89,
+    "scored_by": 767,
+    "rank": 10803,
+    "popularity": 7322,
+    "members": 2841,
+    "favorites": 10,
+    "synopsis": "Tasuku can see ghosts, although he'd be happier if he didn't have this ability, especially since it comes with heavy responsibilities.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5554,
+            "type": "people",
+            "name": "Saitou, Misaki",
+            "url": "https://myanimelist.net/people/5554/Misaki_Saitou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 91,
+            "type": "manga",
+            "name": "Comic Birz",
+            "url": "https://myanimelist.net/manga/magazine/91/Comic_Birz"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.gentosha-comics.net/story/cat1482_1.html"
+        }
+    ]
+}

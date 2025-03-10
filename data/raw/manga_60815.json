@@ -1,0 +1,141 @@
+{
+    "mal_id": 60815,
+    "url": "https://myanimelist.net/manga/60815/Joshikausei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/121107.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/121107t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/121107l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/121107.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/121107t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/121107l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Joshikausei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Jyoshi Kausei"
+        },
+        {
+            "type": "Japanese",
+            "title": "女子かう生"
+        },
+        {
+            "type": "English",
+            "title": "Joshi Kausei"
+        }
+    ],
+    "title": "Joshikausei",
+    "title_english": "Joshi Kausei",
+    "title_japanese": "女子かう生",
+    "title_synonyms": [
+        "Jyoshi Kausei"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2013-09-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 9,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 27, 2013 to ?"
+    },
+    "score": 7.22,
+    "scored": 7.22,
+    "scored_by": 2221,
+    "rank": 5802,
+    "popularity": 1938,
+    "members": 11200,
+    "favorites": 73,
+    "synopsis": "Who needs dialog when you're this cute? The beautiful (but unlucky) Momoko, the cool, collected Shibumi, and the refreshingly innocent Mayumi star in a \"silent manga.\" No speeches, no dialog! Just pictures, sound effects, and three high school girls living their daily lives.\n\n(Source: Crunchyroll)",
+    "background": "Joshikausei has been simulpub digitally in English by Crunchyroll.",
+    "authors": [
+        {
+            "mal_id": 15075,
+            "type": "people",
+            "name": "Wakai, Ken",
+            "url": "https://myanimelist.net/people/15075/Ken_Wakai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 305,
+            "type": "manga",
+            "name": "Web Comic Action",
+            "url": "https://myanimelist.net/manga/magazine/305/Web_Comic_Action"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38295,
+                    "type": "anime",
+                    "name": "Joshikausei",
+                    "url": "https://myanimelist.net/anime/38295/Joshikausei"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://webaction.jp/webcomic/joshikausei/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%A5%B3%E5%AD%90%E3%81%8B%E3%81%86%E7%94%9F"
+        }
+    ]
+}

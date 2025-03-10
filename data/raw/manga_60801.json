@@ -1,0 +1,151 @@
+{
+    "mal_id": 60801,
+    "url": "https://myanimelist.net/manga/60801/Handa-kun",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/137793.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/137793t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/137793l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/137793.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/137793t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/137793l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Handa-kun"
+        },
+        {
+            "type": "Japanese",
+            "title": "はんだくん"
+        },
+        {
+            "type": "English",
+            "title": "Handa-kun"
+        }
+    ],
+    "title": "Handa-kun",
+    "title_english": "Handa-kun",
+    "title_japanese": "はんだくん",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 34,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-10-12T00:00:00+00:00",
+        "to": "2016-09-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 12,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Oct 12, 2013 to Sep 12, 2016"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 5614,
+    "rank": 2407,
+    "popularity": 1187,
+    "members": 17090,
+    "favorites": 163,
+    "synopsis": "Seishuu Handa is everything a high school boy could hope to be: handsome, smart, and a calligraphy genius. Though he is revered by the whole school, Handa is completely unaware of his popularity. Much to his best friend Takao Kawafuji's amusement, Handa is convinced that the admiration of his classmates is actually bullying. Unfortunately for him, every action he takes in order to avoid being \"bullied\" results in another student, be they model or delinquent, joining the ranks of the Handa worshippers.\n\nHanda-kun illustrates the hilarious high school days of the young calligrapher and his ever-growing fanbase, even though all he wants is a quiet life.\n\n[Written by MAL Rewrite]",
+    "background": "Handa-kun was published in English by Yen Press; digitally since July 21, 2015 and physically from February 23, 2016 to September 19, 2017.",
+    "authors": [
+        {
+            "mal_id": 9848,
+            "type": "people",
+            "name": "Yoshino, Satsuki",
+            "url": "https://myanimelist.net/people/9848/Satsuki_Yoshino"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Shounen Gangan",
+            "url": "https://myanimelist.net/manga/magazine/13/Shounen_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 17051,
+                    "type": "manga",
+                    "name": "Barakamon",
+                    "url": "https://myanimelist.net/manga/17051/Barakamon"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 32648,
+                    "type": "anime",
+                    "name": "Handa-kun",
+                    "url": "https://myanimelist.net/anime/32648/Handa-kun"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://gangan.square-enix.co.jp/introduction/handakun/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Barakamon"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%B0%E3%82%89%E3%81%8B%E3%82%82%E3%82%93"
+        }
+    ]
+}

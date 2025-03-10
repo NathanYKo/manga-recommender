@@ -1,0 +1,127 @@
+{
+    "mal_id": 54325,
+    "url": "https://myanimelist.net/manga/54325/Wallman",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165375.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165375t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165375l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165375.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165375t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165375l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Wallman"
+        },
+        {
+            "type": "Japanese",
+            "title": "Wallman-ウォールマン-"
+        }
+    ],
+    "title": "Wallman",
+    "title_english": null,
+    "title_japanese": "Wallman-ウォールマン-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 22,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-06-19T00:00:00+00:00",
+        "to": "2015-01-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 6,
+                "year": 2013
+            },
+            "to": {
+                "day": 21,
+                "month": 1,
+                "year": 2015
+            }
+        },
+        "string": "Jun 19, 2013 to Jan 21, 2015"
+    },
+    "score": 6.81,
+    "scored": 6.81,
+    "scored_by": 4234,
+    "rank": 12000,
+    "popularity": 2071,
+    "members": 10393,
+    "favorites": 32,
+    "synopsis": "After being betrayed by his country, Jirou left his past as a hitman behind and came back to Japan where nothing mattered anymore in his eyes. But that's before he met Nami, an active hitman seeking vengeance for her father's death. But not any hitman, a wallman! Jirou is then brought back into this world and teams up with her.\n\n(Source: Japanzai)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3537,
+            "type": "people",
+            "name": "Boichi",
+            "url": "https://myanimelist.net/people/3537/Boichi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 947,
+            "type": "manga",
+            "name": "Grand Jump",
+            "url": "https://myanimelist.net/manga/magazine/947/Grand_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 8848,
+                    "type": "manga",
+                    "name": "Sun-Ken Rock",
+                    "url": "https://myanimelist.net/manga/8848/Sun-Ken_Rock"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://grandjump.shueisha.co.jp/manga/wallman.html"
+        }
+    ]
+}

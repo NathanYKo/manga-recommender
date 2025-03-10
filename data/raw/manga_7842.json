@@ -1,0 +1,146 @@
+{
+    "mal_id": 7842,
+    "url": "https://myanimelist.net/manga/7842/Azumi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/75047.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/75047t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/75047l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/75047.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/75047t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/75047l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Azumi"
+        },
+        {
+            "type": "Japanese",
+            "title": "あずみ"
+        }
+    ],
+    "title": "Azumi",
+    "title_english": null,
+    "title_japanese": "あずみ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 350,
+    "volumes": 48,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1994-01-01T00:00:00+00:00",
+        "to": "2008-11-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1994
+            },
+            "to": {
+                "day": 14,
+                "month": 11,
+                "year": 2008
+            }
+        },
+        "string": "1994 to Nov 14, 2008"
+    },
+    "score": 7.72,
+    "scored": 7.72,
+    "scored_by": 1248,
+    "rank": 1641,
+    "popularity": 4199,
+    "members": 5341,
+    "favorites": 90,
+    "synopsis": "Azumi focuses upon the life of the female assassin Azumi. The manga begins an indeterminate number of years after the Battle of Sekigahara, but as the Azumi begins her assassination missions, the manga introduces the characters into mainstream history. Many of the early assassination missions that Azumi undertakes are the assassinations of the prominent supporters and generals of the Toyotomi Clan, against whom the Toyotomi Clan expected to again go to war.\n\n(Source: Wikipedia)",
+    "background": "Azumi won the 43rd Shogakukan Manga Award in the General category in 1997.",
+    "authors": [
+        {
+            "mal_id": 3534,
+            "type": "people",
+            "name": "Koyama, Yuu",
+            "url": "https://myanimelist.net/people/3534/Yuu_Koyama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 264,
+            "type": "manga",
+            "name": "Big Comic Superior",
+            "url": "https://myanimelist.net/manga/magazine/264/Big_Comic_Superior"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Samurai",
+            "url": "https://myanimelist.net/manga/genre/21/Samurai"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 67943,
+                    "type": "manga",
+                    "name": "Azumi (2008)",
+                    "url": "https://myanimelist.net/manga/67943/Azumi_2008"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%82%E3%81%9A%E3%81%BF"
+        }
+    ]
+}

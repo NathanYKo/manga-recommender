@@ -1,0 +1,135 @@
+{
+    "mal_id": 1853,
+    "url": "https://myanimelist.net/manga/1853/Hells_Angels",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/74619.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/74619t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/74619l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/74619.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/74619t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/74619l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hells Angels"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hell's Angels"
+        },
+        {
+            "type": "Japanese",
+            "title": "HELLS ANGELS"
+        }
+    ],
+    "title": "Hells Angels",
+    "title_english": null,
+    "title_japanese": "HELLS ANGELS",
+    "title_synonyms": [
+        "Hell's Angels"
+    ],
+    "type": "Manga",
+    "chapters": 21,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-08-19T00:00:00+00:00",
+        "to": "2004-04-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 8,
+                "year": 2002
+            },
+            "to": {
+                "day": 19,
+                "month": 4,
+                "year": 2004
+            }
+        },
+        "string": "Aug 19, 2002 to Apr 19, 2004"
+    },
+    "score": 6.87,
+    "scored": 6.87,
+    "scored_by": 930,
+    "rank": 11076,
+    "popularity": 5642,
+    "members": 3831,
+    "favorites": 45,
+    "synopsis": "Amagane Rinne, an up-beat schoolgirl, has died. Even though she is dead, she still has to go to school. But if she's dead, where would she go to school? In Hell, of course! But making friends in a school filled with demons isn't as easy as it sounds....which it doesn't sound...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2486,
+            "type": "people",
+            "name": "Hiromoto, Shinichi",
+            "url": "https://myanimelist.net/people/2486/Shinichi_Hiromoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 4983,
+                    "type": "anime",
+                    "name": "Hells",
+                    "url": "https://myanimelist.net/anime/4983/Hells"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

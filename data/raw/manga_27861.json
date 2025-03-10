@@ -1,0 +1,149 @@
+{
+    "mal_id": 27861,
+    "url": "https://myanimelist.net/manga/27861/Mahou_Shoujo_Madoka★Magica",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/44827.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/44827t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/44827l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/44827.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/44827t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/44827l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mahou Shoujo Madoka★Magica"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mahou Shoujo Madoka Magica NitroPlus"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mahou Shoujo Madoka Magica: The Novel"
+        },
+        {
+            "type": "Synonym",
+            "title": "Puella Magi Madoka★Magica: The Novel"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔法少女まどか★マギカ"
+        }
+    ],
+    "title": "Mahou Shoujo Madoka★Magica",
+    "title_english": null,
+    "title_japanese": "魔法少女まどか★マギカ",
+    "title_synonyms": [
+        "Mahou Shoujo Madoka Magica NitroPlus",
+        "Mahou Shoujo Madoka Magica: The Novel",
+        "Puella Magi Madoka★Magica: The Novel"
+    ],
+    "type": "Light Novel",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-08-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 8,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 14, 2011"
+    },
+    "score": 8,
+    "scored": 8,
+    "scored_by": 893,
+    "rank": 765,
+    "popularity": 5585,
+    "members": 3878,
+    "favorites": 57,
+    "synopsis": "Nitro+ will be releasing a novel of Mahou Shoujo Madoka☆Magica, using the original animation's series composition/script written by Gen Urobuchi. Nitro+'s Hajime Ninomae (一 肇), active in Kadokawa Sneaker Bunko and Shogakukan Gagaga Bunko, will be the novel writer. Yuupon (ゆーぽん), from the Nitro+Chiral shounen-ai branch, will be doing the illustrations.\nThe novel is split into two volumes of 304 pages and 328 pages length. It will be officially released as a limited edition with a third volume of 32 full-color pages on August 14, 2011. A prerelease will be held at Comiket 80 between August 12 and August 14, 2011.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 19719,
+            "type": "people",
+            "name": "Ninomae, Hajime",
+            "url": "https://myanimelist.net/people/19719/Hajime_Ninomae"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 66,
+            "type": "manga",
+            "name": "Mahou Shoujo",
+            "url": "https://myanimelist.net/manga/genre/66/Mahou_Shoujo"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9756,
+                    "type": "anime",
+                    "name": "Mahou Shoujo Madoka★Magica",
+                    "url": "https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka★Magica"
+                },
+                {
+                    "mal_id": 35300,
+                    "type": "anime",
+                    "name": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden PVs",
+                    "url": "https://myanimelist.net/anime/35300/Magia_Record__Mahou_Shoujo_Madoka☆Magica_Gaiden_PVs"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 24457,
+                    "type": "manga",
+                    "name": "Mahou Shoujo Madoka★Magica",
+                    "url": "https://myanimelist.net/manga/24457/Mahou_Shoujo_Madoka★Magica"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

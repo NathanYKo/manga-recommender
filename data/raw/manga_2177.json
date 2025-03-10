@@ -1,0 +1,135 @@
+{
+    "mal_id": 2177,
+    "url": "https://myanimelist.net/manga/2177/Battle_Royale_II__Blitz_Royale",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/200210.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/200210t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/200210l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/200210.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/200210t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/200210l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Battle Royale II: Blitz Royale"
+        },
+        {
+            "type": "Japanese",
+            "title": "BRII／ブリッツ・ロワイアル"
+        }
+    ],
+    "title": "Battle Royale II: Blitz Royale",
+    "title_english": null,
+    "title_japanese": "BRII／ブリッツ・ロワイアル",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 19,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-06-11T00:00:00+00:00",
+        "to": "2004-03-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 6,
+                "year": 2003
+            },
+            "to": {
+                "day": 9,
+                "month": 3,
+                "year": 2004
+            }
+        },
+        "string": "Jun 11, 2003 to Mar 9, 2004"
+    },
+    "score": 4.42,
+    "scored": 4.42,
+    "scored_by": 1811,
+    "rank": 20474,
+    "popularity": 5485,
+    "members": 3978,
+    "favorites": 12,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 1973,
+            "type": "people",
+            "name": "Takami, Koushun",
+            "url": "https://myanimelist.net/people/1973/Koushun_Takami"
+        },
+        {
+            "mal_id": 2664,
+            "type": "people",
+            "name": "Tomizawa, Hitoshi",
+            "url": "https://myanimelist.net/people/2664/Hitoshi_Tomizawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Young Champion",
+            "url": "https://myanimelist.net/manga/magazine/47/Young_Champion"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 77,
+            "type": "manga",
+            "name": "Survival",
+            "url": "https://myanimelist.net/manga/genre/77/Survival"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 142,
+                    "type": "manga",
+                    "name": "Battle Royale",
+                    "url": "https://myanimelist.net/manga/142/Battle_Royale"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

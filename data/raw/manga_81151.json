@@ -1,0 +1,172 @@
+{
+    "mal_id": 81151,
+    "url": "https://myanimelist.net/manga/81151/Psycho-Pass_2",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190624.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190624t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190624l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190624.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190624t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190624l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Psycho-Pass 2"
+        },
+        {
+            "type": "Japanese",
+            "title": "PSYCHO-PASS 2"
+        }
+    ],
+    "title": "Psycho-Pass 2",
+    "title_english": null,
+    "title_japanese": "PSYCHO-PASS 2",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 27,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-11-05T00:00:00+00:00",
+        "to": "2017-02-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 11,
+                "year": 2014
+            },
+            "to": {
+                "day": 3,
+                "month": 2,
+                "year": 2017
+            }
+        },
+        "string": "Nov 5, 2014 to Feb 3, 2017"
+    },
+    "score": 7.38,
+    "scored": 7.38,
+    "scored_by": 799,
+    "rank": 3983,
+    "popularity": 5872,
+    "members": 3674,
+    "favorites": 21,
+    "synopsis": "With the conclusion of the Makishima case, Shinya Kougami is a wanted fugitive, Nobuchika Ginoza has become a potential criminal, and two Enforcers are gone. The Ministry of Welfare's Public Safety Bureau is desperately in need of new personnel, leading the organization to bring in 17-year-old novice Inspector Mika Shimotsuki to join Inspector Akane Tsunemori's Division 01.\n\nWhile Tsunemori now questions and even challenges the Sibyl System, Shimotsuki unconditionally believes in its judgment. However, her first case urges her to see the opposite: a new criminal emerges, an individual who has the power to lower one's Psycho-Pass enough for the System to overlook them as convicts and even humans.\n\nWhen a felon with hard evidence against him walks free with a clear Psycho-Pass, immediate action becomes imperative. Now Inspectors and Enforcers must work together to decipher an unsettling message left behind and trace the guilty criminal who, in the eyes of the System, does not exist.\n\n[Written by MAL Rewrite]",
+    "background": "Psycho-Pass 2 was published in French by Kana and in Italian by Planet Manga.",
+    "authors": [
+        {
+            "mal_id": 4931,
+            "type": "people",
+            "name": "Hashino, Saru",
+            "url": "https://myanimelist.net/people/4931/Saru_Hashino"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1217,
+            "type": "manga",
+            "name": "Comic Garden",
+            "url": "https://myanimelist.net/manga/magazine/1217/Comic_Garden"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 44933,
+                    "type": "manga",
+                    "name": "Kanshikan Tsunemori Akane",
+                    "url": "https://myanimelist.net/manga/44933/Kanshikan_Tsunemori_Akane"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 160723,
+                    "type": "manga",
+                    "name": "Gekijouban Psycho-Pass",
+                    "url": "https://myanimelist.net/manga/160723/Gekijouban_Psycho-Pass"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 23281,
+                    "type": "anime",
+                    "name": "Psycho-Pass 2",
+                    "url": "https://myanimelist.net/anime/23281/Psycho-Pass_2"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic.mag-garden.co.jp/psycho2/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/PSYCHO-PASS"
+        }
+    ]
+}

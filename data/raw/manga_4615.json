@@ -1,0 +1,126 @@
+{
+    "mal_id": 4615,
+    "url": "https://myanimelist.net/manga/4615/Kodoku_no_Gourmet",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/207579.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/207579t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/207579l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/207579.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/207579t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/207579l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kodoku no Gourmet"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Solitary Gourmet"
+        },
+        {
+            "type": "Japanese",
+            "title": "孤独のグルメ"
+        }
+    ],
+    "title": "Kodoku no Gourmet",
+    "title_english": null,
+    "title_japanese": "孤独のグルメ",
+    "title_synonyms": [
+        "A Solitary Gourmet"
+    ],
+    "type": "Manga",
+    "chapters": 31,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1994-06-01T00:00:00+00:00",
+        "to": "2015-05-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 6,
+                "year": 1994
+            },
+            "to": {
+                "day": 12,
+                "month": 5,
+                "year": 2015
+            }
+        },
+        "string": "Jun 1994 to May 12, 2015"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 1323,
+    "rank": 3089,
+    "popularity": 5247,
+    "members": 4150,
+    "favorites": 64,
+    "synopsis": "This manga simply describes how Gorou Inogashira, the main character, chooses and takes a meal. Unlike other gourmet manga, Gorou likes to eat at cheap restaurants and no trivia on cuisine is given. The authors are trying to depict the essentials of the act of \"eating\" by Gorou's monologue, which comprises most of the lines of this manga.",
+    "background": "Kodoku no Gourmet was published in Polish by Hanami in 2014.",
+    "authors": [
+        {
+            "mal_id": 3025,
+            "type": "people",
+            "name": "Taniguchi, Jiro",
+            "url": "https://myanimelist.net/people/3025/Jiro_Taniguchi"
+        },
+        {
+            "mal_id": 4090,
+            "type": "people",
+            "name": "Kusumi, Masayuki",
+            "url": "https://myanimelist.net/people/4090/Masayuki_Kusumi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1287,
+            "type": "manga",
+            "name": "SPA!",
+            "url": "https://myanimelist.net/manga/magazine/1287/SPA"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35284,
+                    "type": "anime",
+                    "name": "Kodoku no Gourmet",
+                    "url": "https://myanimelist.net/anime/35284/Kodoku_no_Gourmet"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%AD%A4%E7%8B%AC%E3%81%AE%E3%82%B0%E3%83%AB%E3%83%A1"
+        }
+    ]
+}

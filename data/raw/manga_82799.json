@@ -1,0 +1,132 @@
+{
+    "mal_id": 82799,
+    "url": "https://myanimelist.net/manga/82799/Shingeki_no_Kyojin__Lost_Girls",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/143495.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/143495t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/143495l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/143495.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/143495t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/143495l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shingeki no Kyojin: Lost Girls"
+        },
+        {
+            "type": "Japanese",
+            "title": "小説 進撃の巨人 LOST GIRLS"
+        },
+        {
+            "type": "English",
+            "title": "Attack on Titan: Lost Girls"
+        }
+    ],
+    "title": "Shingeki no Kyojin: Lost Girls",
+    "title_english": "Attack on Titan: Lost Girls",
+    "title_japanese": "小説 進撃の巨人 LOST GIRLS",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-12-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 12,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 9, 2014"
+    },
+    "score": 7.81,
+    "scored": 7.81,
+    "scored_by": 2741,
+    "rank": 1319,
+    "popularity": 3034,
+    "members": 7386,
+    "favorites": 75,
+    "synopsis": "Spin-off novel consisting of 3 stories about Mikasa and Annie.\n\n1. Lost in the Cruel World\n2. Wall Sina, Goodbye\n3. Lost Girls",
+    "background": "Shingeki no Kyojin: Lost Girls adapts the visual novels and . The former was bundled with the first press release of the third Blu-ray volume of Shingeki no Kyojin, while the latter was bundled with the sixth volume. The visual novels were supervised by series creator Hajime Isayama. The novel was published in English by Vertical Inc. on June 28, 2016.",
+    "authors": [
+        {
+            "mal_id": 4012,
+            "type": "people",
+            "name": "Seko, Hiroshi",
+            "url": "https://myanimelist.net/people/4012/Hiroshi_Seko"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 91047,
+                    "type": "manga",
+                    "name": "Shingeki no Kyojin: Lost Girls",
+                    "url": "https://myanimelist.net/manga/91047/Shingeki_no_Kyojin__Lost_Girls"
+                },
+                {
+                    "mal_id": 36106,
+                    "type": "anime",
+                    "name": "Shingeki no Kyojin: Lost Girls",
+                    "url": "https://myanimelist.net/anime/36106/Shingeki_no_Kyojin__Lost_Girls"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 23390,
+                    "type": "manga",
+                    "name": "Shingeki no Kyojin",
+                    "url": "https://myanimelist.net/manga/23390/Shingeki_no_Kyojin"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Attack_on_Titan:_Lost_Girls"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA"
+        }
+    ]
+}

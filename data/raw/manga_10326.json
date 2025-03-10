@@ -1,0 +1,115 @@
+{
+    "mal_id": 10326,
+    "url": "https://myanimelist.net/manga/10326/Kao_no_Nai_Otoko",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/13853.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/13853t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/13853l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/13853.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/13853t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/13853l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kao no Nai Otoko"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Man Without a Face"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Man with No Face"
+        },
+        {
+            "type": "Japanese",
+            "title": "顔のない男"
+        }
+    ],
+    "title": "Kao no Nai Otoko",
+    "title_english": null,
+    "title_japanese": "顔のない男",
+    "title_synonyms": [
+        "The Man Without a Face",
+        "The Man with No Face"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2006"
+    },
+    "score": 7.11,
+    "scored": 7.11,
+    "scored_by": 1453,
+    "rank": 7335,
+    "popularity": 8595,
+    "members": 2340,
+    "favorites": 1,
+    "synopsis": "Separated by war, a pair of lovers seek to be united once more...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5736,
+            "type": "people",
+            "name": "Yokobaba, Ryo",
+            "url": "https://myanimelist.net/people/5736/Ryo_Yokobaba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 71,
+            "type": "manga",
+            "name": "Melody",
+            "url": "https://myanimelist.net/manga/magazine/71/Melody"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

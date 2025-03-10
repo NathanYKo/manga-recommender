@@ -1,0 +1,120 @@
+{
+    "mal_id": 140316,
+    "url": "https://myanimelist.net/manga/140316/Otaku_ni_Otoku_na_Gal_Gurashi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/259021.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/259021t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/259021l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/259021.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/259021t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/259021l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Otaku ni Otoku na Gal Gurashi"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Gal’s Guide to Budget Living for an Otaku"
+        },
+        {
+            "type": "Synonym",
+            "title": "Otaku ni Otoku na Gyaru Gurashi"
+        },
+        {
+            "type": "Japanese",
+            "title": "オタクにオトクなギャルぐらし"
+        }
+    ],
+    "title": "Otaku ni Otoku na Gal Gurashi",
+    "title_english": null,
+    "title_japanese": "オタクにオトクなギャルぐらし",
+    "title_synonyms": [
+        "A Gal’s Guide to Budget Living for an Otaku",
+        "Otaku ni Otoku na Gyaru Gurashi"
+    ],
+    "type": "Manga",
+    "chapters": 20,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2021-08-26T00:00:00+00:00",
+        "to": "2023-07-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 8,
+                "year": 2021
+            },
+            "to": {
+                "day": 26,
+                "month": 7,
+                "year": 2023
+            }
+        },
+        "string": "Aug 26, 2021 to Jul 26, 2023"
+    },
+    "score": 6.68,
+    "scored": 6.68,
+    "scored_by": 695,
+    "rank": 13992,
+    "popularity": 5733,
+    "members": 3755,
+    "favorites": 6,
+    "synopsis": "The story of a gloomy otaku and a cheerful gal living in the same apartment complex.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 46426,
+            "type": "people",
+            "name": "Hino, Haruto",
+            "url": "https://myanimelist.net/people/46426/Haruto_Hino"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://web-ace.jp/shonenace/contents/544/"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "mal_id": 30777,
+    "url": "https://myanimelist.net/manga/30777/Ben-To_Zero__Road_to_Witch",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/173159.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/173159t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/173159l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/173159.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/173159t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/173159l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ben-To Zero: Road to Witch"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bentou Zero: Road to Witch"
+        },
+        {
+            "type": "Japanese",
+            "title": "ベン・トー zero Road to witch"
+        }
+    ],
+    "title": "Ben-To Zero: Road to Witch",
+    "title_english": null,
+    "title_japanese": "ベン・トー zero Road to witch",
+    "title_synonyms": [
+        "Bentou Zero: Road to Witch"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-04-21T00:00:00+00:00",
+        "to": "2011-09-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 3,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Apr 21, 2011 to Sep 3, 2011"
+    },
+    "score": 6.89,
+    "scored": 6.89,
+    "scored_by": 1099,
+    "rank": 10728,
+    "popularity": 8355,
+    "members": 2424,
+    "favorites": 12,
+    "synopsis": "Sen is a first year student in Karasuda Private High-school. In this high-school, in-dorm students aren't provided any lunch or dinner supposedly to make them take care of themselves better. As a result, a group of students and random youngsters with poor allowances decided to fight with each other in various supermarkets in order to get half-priced ben-to; and the most renowned of these fighters are known as \"Wolves.\" One night, Sen entered one of these supermarkets and unwillingly got dragged into a fight with them until she is saved by a very famous one: the \"Wizard\" Kaneshiro Yu. The later proposed her to enter in the world of the ben-to fighting and this where her formidable adventure begins.\n\n(Source: MU)",
+    "background": "Ben-To Zero: Road to Witch is a spin-off based off original light novel series, that focuses on Yarizui Sen.",
+    "authors": [
+        {
+            "mal_id": 13869,
+            "type": "people",
+            "name": "Asaura",
+            "url": "https://myanimelist.net/people/13869/Asaura"
+        },
+        {
+            "mal_id": 13871,
+            "type": "people",
+            "name": "Shibano, Kaito",
+            "url": "https://myanimelist.net/people/13871/Kaito_Shibano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 29725,
+                    "type": "manga",
+                    "name": "Ben-To",
+                    "url": "https://myanimelist.net/manga/29725/Ben-To"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%83%BB%E3%83%88%E3%83%BC"
+        }
+    ]
+}

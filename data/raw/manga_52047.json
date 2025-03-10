@@ -1,0 +1,132 @@
+{
+    "mal_id": 52047,
+    "url": "https://myanimelist.net/manga/52047/Kuroneko_Kareshi_no_Amaekata",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/100763.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/100763t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/100763l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/100763.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/100763t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/100763l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kuroneko Kareshi no Amaekata"
+        },
+        {
+            "type": "Japanese",
+            "title": "クロネコ彼氏の甘え方"
+        }
+    ],
+    "title": "Kuroneko Kareshi no Amaekata",
+    "title_english": null,
+    "title_japanese": "クロネコ彼氏の甘え方",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-03-14T00:00:00+00:00",
+        "to": "2013-07-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 3,
+                "year": 2013
+            },
+            "to": {
+                "day": 14,
+                "month": 7,
+                "year": 2013
+            }
+        },
+        "string": "Mar 14, 2013 to Jul 14, 2013"
+    },
+    "score": 7.78,
+    "scored": 7.78,
+    "scored_by": 4772,
+    "rank": null,
+    "popularity": 2310,
+    "members": 9474,
+    "favorites": 48,
+    "synopsis": "Part 2 of the Kuroneko Kareshi series.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2812,
+            "type": "people",
+            "name": "Ukyou, Ayane",
+            "url": "https://myanimelist.net/people/2812/Ayane_Ukyou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 99,
+            "type": "manga",
+            "name": "Dear+",
+            "url": "https://myanimelist.net/manga/magazine/99/Dear_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 45335,
+                    "type": "manga",
+                    "name": "Kuroneko Kareshi no Asobikata",
+                    "url": "https://myanimelist.net/manga/45335/Kuroneko_Kareshi_no_Asobikata"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 66001,
+                    "type": "manga",
+                    "name": "Kuroneko Kareshi no Aishikata",
+                    "url": "https://myanimelist.net/manga/66001/Kuroneko_Kareshi_no_Aishikata"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

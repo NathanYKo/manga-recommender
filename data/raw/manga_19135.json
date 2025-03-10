@@ -1,0 +1,128 @@
+{
+    "mal_id": 19135,
+    "url": "https://myanimelist.net/manga/19135/Legend_of_Tyr",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/73217.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/73217t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/73217l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/73217.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/73217t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/73217l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Legend of Tyr"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Tyr Chronicles"
+        },
+        {
+            "type": "Japanese",
+            "title": "티르전기"
+        }
+    ],
+    "title": "Legend of Tyr",
+    "title_english": null,
+    "title_japanese": "티르전기",
+    "title_synonyms": [
+        "The Tyr Chronicles"
+    ],
+    "type": "Manhwa",
+    "chapters": 66,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": "2010-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            }
+        },
+        "string": "2008 to 2010"
+    },
+    "score": 7.11,
+    "scored": 7.11,
+    "scored_by": 1598,
+    "rank": 7323,
+    "popularity": 6229,
+    "members": 3435,
+    "favorites": 14,
+    "synopsis": "Fantasy Action Legend that follows his brother's diary!!\n\nAfter his brother Loki's death, on Tyr's 17th birthday,  Loki's diary is delivered to Tyr. When following the diary step by step, Tyr realizes that everything that's happening around him is already recorded within the diary.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2266,
+            "type": "people",
+            "name": "Na, In-Soo",
+            "url": "https://myanimelist.net/people/2266/In-Soo_Na"
+        },
+        {
+            "mal_id": 22861,
+            "type": "people",
+            "name": "Son, Chang-ho",
+            "url": "https://myanimelist.net/people/22861/Chang-ho_Son"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 562,
+            "type": "manga",
+            "name": "Comic Champ",
+            "url": "https://myanimelist.net/manga/magazine/562/Comic_Champ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

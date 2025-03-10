@@ -1,0 +1,113 @@
+{
+    "mal_id": 125237,
+    "url": "https://myanimelist.net/manga/125237/Therapy_Game__Restart",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/239827.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/239827t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/239827l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/239827.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/239827t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/239827l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Therapy Game: Restart"
+        },
+        {
+            "type": "Japanese",
+            "title": "セラピーゲーム リスタート"
+        },
+        {
+            "type": "English",
+            "title": "Therapy Game Restart"
+        }
+    ],
+    "title": "Therapy Game: Restart",
+    "title_english": "Therapy Game Restart",
+    "title_japanese": "セラピーゲーム リスタート",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-10-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 10,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 12, 2019 to ?"
+    },
+    "score": 8.29,
+    "scored": 8.29,
+    "scored_by": 1221,
+    "rank": null,
+    "popularity": 5440,
+    "members": 4006,
+    "favorites": 74,
+    "synopsis": "Shizuma and Minato are officially a couple. But Shizuma—now a resident veterinarian—is so busy he barely has time to catch his breath, let alone go on a date. When he finally manages to find time for Minato, the universe intervenes once again, and he learns quickly that his feisty new beau is not to be ignored!\n\n(Source: SuBLime)",
+    "background": "Therapy Game: Restart has been published in English by SuBLime since December 14, 2021. It has also been published in Polish by Waneko since August 15, 2023.",
+    "authors": [
+        {
+            "mal_id": 41845,
+            "type": "people",
+            "name": "Hinohara, Meguru",
+            "url": "https://myanimelist.net/people/41845/Meguru_Hinohara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 99,
+            "type": "manga",
+            "name": "Dear+",
+            "url": "https://myanimelist.net/manga/magazine/99/Dear_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 111532,
+                    "type": "manga",
+                    "name": "Therapy Game",
+                    "url": "https://myanimelist.net/manga/111532/Therapy_Game"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

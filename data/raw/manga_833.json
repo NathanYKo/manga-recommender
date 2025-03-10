@@ -1,0 +1,127 @@
+{
+    "mal_id": 833,
+    "url": "https://myanimelist.net/manga/833/Baby★Love",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/19225.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/19225t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/19225l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/19225.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/19225t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/19225l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Baby★Love"
+        },
+        {
+            "type": "Japanese",
+            "title": "ベイビィ★LOVE"
+        }
+    ],
+    "title": "Baby★Love",
+    "title_english": null,
+    "title_japanese": "ベイビィ★LOVE",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 44,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1995-09-01T00:00:00+00:00",
+        "to": "1999-05-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 9,
+                "year": 1995
+            },
+            "to": {
+                "day": 1,
+                "month": 5,
+                "year": 1999
+            }
+        },
+        "string": "Sep 1995 to May 1999"
+    },
+    "score": 7.38,
+    "scored": 7.38,
+    "scored_by": 955,
+    "rank": 4028,
+    "popularity": 8401,
+    "members": 2406,
+    "favorites": 15,
+    "synopsis": "As a little girl, Seara fell in love with Shuuhei, an older boy, but he looked down on her. Years later, when her parents temporarily relocate to the US, Seara takes the opportunity to move into the same house as him. Since Seara looks alot older than she actually is, Shuuhei doesn't recognize her right away. Will he ever recognize her? Will they ever find true love?\n\n(Source: Solaris-SVU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2642,
+            "type": "people",
+            "name": "Shiina, Ayumi",
+            "url": "https://myanimelist.net/people/2642/Ayumi_Shiina"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ribon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 722,
+                    "type": "anime",
+                    "name": "Baby☆Love",
+                    "url": "https://myanimelist.net/anime/722/Baby☆Love"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%83%93%E3%82%A3%E2%98%85LOVE"
+        }
+    ]
+}

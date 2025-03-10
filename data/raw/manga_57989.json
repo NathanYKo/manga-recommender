@@ -1,0 +1,178 @@
+{
+    "mal_id": 57989,
+    "url": "https://myanimelist.net/manga/57989/Toaru_Majutsu_no_Index_Gaiden__Toaru_Kagaku_no_Accelerator",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/251278.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/251278t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/251278l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/251278.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/251278t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/251278l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Toaru Majutsu no Index Gaiden: Toaru Kagaku no Accelerator"
+        },
+        {
+            "type": "Synonym",
+            "title": "To Aru Majutsu no Index Gaiden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Toaru Kagaku no Ippou Tsuukou"
+        },
+        {
+            "type": "Japanese",
+            "title": "とある魔術の禁書目録外伝 とある科学の一方通行〈アクセラレータ〉"
+        },
+        {
+            "type": "English",
+            "title": "A Certain Scientific Accelerator"
+        }
+    ],
+    "title": "Toaru Majutsu no Index Gaiden: Toaru Kagaku no Accelerator",
+    "title_english": "A Certain Scientific Accelerator",
+    "title_japanese": "とある魔術の禁書目録外伝 とある科学の一方通行〈アクセラレータ〉",
+    "title_synonyms": [
+        "To Aru Majutsu no Index Gaiden",
+        "Toaru Kagaku no Ippou Tsuukou"
+    ],
+    "type": "Manga",
+    "chapters": 64,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-12-27T00:00:00+00:00",
+        "to": "2020-07-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 12,
+                "year": 2013
+            },
+            "to": {
+                "day": 27,
+                "month": 7,
+                "year": 2020
+            }
+        },
+        "string": "Dec 27, 2013 to Jul 27, 2020"
+    },
+    "score": 7.38,
+    "scored": 7.38,
+    "scored_by": 3771,
+    "rank": 3979,
+    "popularity": 1923,
+    "members": 11270,
+    "favorites": 261,
+    "synopsis": "The espers of Academy City are classified into six levels, where \"Level 0\" lacks power while \"Level 5\" possesses an overwhelming amount. Of the several million espers residing in Academy City, only seven of them have attained Level 5, and ranked highest among them is the one known as Accelerator.\n\nToaru Kagaku no Accelerator focuses on the strongest Level 5 after he protects the cheerful Last Order at the price of much of his power. Recovering at the hospital, Accelerator has led a relatively quiet life until he ends up saving the life of Estelle Rosenthal, a mysterious girl carrying a photo of Last Order. Unfortunately, Accelerator now finds himself dragged into a new conflict in the form of a sinister organization called Disciplinary Action which plots to use Last Order for a dangerous mission. Now that they have set their plan into motion and are in pursuit of the young girl, it's up to the world's most powerful esper and his newfound companion to protect Last Order and defend Academy City in the process.\n\n[Written by MAL Rewrite]",
+    "background": "Toaru Kagaku no Accelerator was published in English as A Certain Scientific Accelerator by Seven Seas Entertainment from October 27, 2015 to June 8, 2021.",
+    "authors": [
+        {
+            "mal_id": 5389,
+            "type": "people",
+            "name": "Kamachi, Kazuma",
+            "url": "https://myanimelist.net/people/5389/Kazuma_Kamachi"
+        },
+        {
+            "mal_id": 25237,
+            "type": "people",
+            "name": "Yamaji, Arata",
+            "url": "https://myanimelist.net/people/25237/Arata_Yamaji"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38480,
+                    "type": "anime",
+                    "name": "Toaru Kagaku no Accelerator",
+                    "url": "https://myanimelist.net/anime/38480/Toaru_Kagaku_no_Accelerator"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 93892,
+                    "type": "manga",
+                    "name": "Toaru Idol no Accelerator-sama",
+                    "url": "https://myanimelist.net/manga/93892/Toaru_Idol_no_Accelerator-sama"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 12854,
+                    "type": "manga",
+                    "name": "Toaru Majutsu no Index",
+                    "url": "https://myanimelist.net/manga/12854/Toaru_Majutsu_no_Index"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://daioh.dengeki.com/contents/accelerator/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/A_Certain_Scientific_Accelerator"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%82%E3%82%8B%E9%AD%94%E8%A1%93%E3%81%AE%E7%A6%81%E6%9B%B8%E7%9B%AE%E9%8C%B2"
+        }
+    ]
+}

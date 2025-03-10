@@ -1,0 +1,142 @@
+{
+    "mal_id": 4036,
+    "url": "https://myanimelist.net/manga/4036/Skyhigh__Karma",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/133015.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/133015t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/133015l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/133015.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/133015t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/133015l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Skyhigh: Karma"
+        },
+        {
+            "type": "Japanese",
+            "title": "スカイハイ カルマ"
+        }
+    ],
+    "title": "Skyhigh: Karma",
+    "title_english": null,
+    "title_japanese": "スカイハイ カルマ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 21,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-01-23T00:00:00+00:00",
+        "to": "2003-06-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 1,
+                "year": 2003
+            },
+            "to": {
+                "day": 26,
+                "month": 6,
+                "year": 2003
+            }
+        },
+        "string": "Jan 23, 2003 to Jun 26, 2003"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 1746,
+    "rank": 5299,
+    "popularity": 5865,
+    "members": 3680,
+    "favorites": 6,
+    "synopsis": "Takamaru Mai has been having continuous dreams of seeing a dark, deep pit, snakes, and blood. After being in a car accident and only suffering from a mild concussion, her x-ray results showed a strange image—a hand was grabbing her skull. Mai then begins to believe that she was seeing things that she shouldn't be seeing.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2360,
+            "type": "people",
+            "name": "Takahashi, Tsutomu",
+            "url": "https://myanimelist.net/people/2360/Tsutomu_Takahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1450,
+                    "type": "manga",
+                    "name": "Skyhigh",
+                    "url": "https://myanimelist.net/manga/1450/Skyhigh"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 7067,
+                    "type": "manga",
+                    "name": "Skyhigh: Shinshou",
+                    "url": "https://myanimelist.net/manga/7067/Skyhigh__Shinshou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4_%28%E6%BC%AB%E7%94%BB%29"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Skyhigh_(manga)"
+        }
+    ]
+}

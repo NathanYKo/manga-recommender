@@ -1,0 +1,151 @@
+{
+    "mal_id": 17233,
+    "url": "https://myanimelist.net/manga/17233/Kentou_Ankokuden_Cestvs",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185196.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185196t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185196l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185196.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185196t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185196l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kentou Ankokuden Cestvs"
+        },
+        {
+            "type": "Synonym",
+            "title": "Cestus: The Legend of Boxing in the Dark Ages"
+        },
+        {
+            "type": "Japanese",
+            "title": "拳闘暗黒伝セスタス"
+        }
+    ],
+    "title": "Kentou Ankokuden Cestvs",
+    "title_english": null,
+    "title_japanese": "拳闘暗黒伝セスタス",
+    "title_synonyms": [
+        "Cestus: The Legend of Boxing in the Dark Ages"
+    ],
+    "type": "Manga",
+    "chapters": 154,
+    "volumes": 15,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-11-28T00:00:00+00:00",
+        "to": "2009-03-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 11,
+                "year": 1997
+            },
+            "to": {
+                "day": 13,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Nov 28, 1997 to Mar 13, 2009"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 802,
+    "rank": 3690,
+    "popularity": 6703,
+    "members": 3164,
+    "favorites": 26,
+    "synopsis": "Cestus, a young slave, fighting for his freedom as a bare knuckle gladiator studying under a legendary gladiator who fought and drawed with the head of the imperial guards in the Roman era.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2759,
+            "type": "people",
+            "name": "Wazarai, Shizuya",
+            "url": "https://myanimelist.net/people/2759/Shizuya_Wazarai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Young Animal",
+            "url": "https://myanimelist.net/manga/magazine/2/Young_Animal"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/manga/genre/54/Combat_Sports"
+        },
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 47296,
+                    "type": "manga",
+                    "name": "Kendo Shitouden Cestvs",
+                    "url": "https://myanimelist.net/manga/47296/Kendo_Shitouden_Cestvs"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 43763,
+                    "type": "anime",
+                    "name": "Cestvs: The Roman Fighter",
+                    "url": "https://myanimelist.net/anime/43763/Cestvs__The_Roman_Fighter"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%8B%B3%E9%97%98%E6%9A%97%E9%BB%92%E4%BC%9D%E3%82%BB%E3%82%B9%E3%82%BF%E3%82%B9"
+        }
+    ]
+}

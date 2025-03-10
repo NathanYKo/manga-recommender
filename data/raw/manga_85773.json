@@ -1,0 +1,102 @@
+{
+    "mal_id": 85773,
+    "url": "https://myanimelist.net/manga/85773/Fate_stay_night__Garden_of_Avalon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/298135.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/298135t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/298135l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/298135.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/298135t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/298135l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fate/stay night: Garden of Avalon"
+        },
+        {
+            "type": "Japanese",
+            "title": "Fate/stay night Garden of Avalon"
+        }
+    ],
+    "title": "Fate/stay night: Garden of Avalon",
+    "title_english": null,
+    "title_japanese": "Fate/stay night Garden of Avalon",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-03-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 3,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 25, 2015"
+    },
+    "score": 8.12,
+    "scored": 8.12,
+    "scored_by": 1195,
+    "rank": 547,
+    "popularity": 5091,
+    "members": 4304,
+    "favorites": 115,
+    "synopsis": "Garden of Avalon retells the events of Arthurian legend through various characters.",
+    "background": "Fate/stay night: Garden of Avalon was bundled with the first Blu-ray box set of Fate/stay night: Unlimited Blade Works.",
+    "authors": [
+        {
+            "mal_id": 3250,
+            "type": "people",
+            "name": "Nasu, Kinoko",
+            "url": "https://myanimelist.net/people/3250/Kinoko_Nasu"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 715,
+                    "type": "manga",
+                    "name": "Fate/stay night",
+                    "url": "https://myanimelist.net/manga/715/Fate_stay_night"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

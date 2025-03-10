@@ -1,0 +1,306 @@
+{
+    "mal_id": 1528,
+    "url": "https://myanimelist.net/manga/1528/Code_Geass__Hangyaku_no_Lelouch",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/121659.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/121659t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/121659l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/121659.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/121659t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/121659l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Code Geass: Hangyaku no Lelouch"
+        },
+        {
+            "type": "Japanese",
+            "title": "コードギアス 反逆のルルーシュ"
+        },
+        {
+            "type": "English",
+            "title": "Code Geass: Lelouch of the Rebellion"
+        }
+    ],
+    "title": "Code Geass: Hangyaku no Lelouch",
+    "title_english": "Code Geass: Lelouch of the Rebellion",
+    "title_japanese": "コードギアス 反逆のルルーシュ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 40,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-08-24T00:00:00+00:00",
+        "to": "2010-02-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 8,
+                "year": 2006
+            },
+            "to": {
+                "day": 24,
+                "month": 2,
+                "year": 2010
+            }
+        },
+        "string": "Aug 24, 2006 to Feb 24, 2010"
+    },
+    "score": 7.62,
+    "scored": 7.62,
+    "scored_by": 7860,
+    "rank": 2211,
+    "popularity": 981,
+    "members": 20255,
+    "favorites": 569,
+    "synopsis": "Lelouch Lamperouge is a Britannian student living in Area 11, the land that was once known as the country of Japan. In 2010, the small island nation was invaded and stripped of its identity by the powerful Holy Britannian Empire. \n\nAfter witnessing the crash of a military transport plane, Lelouch wanders into the midst of a restricted area in order to investigate the wreckage. His journey is cut short when patrolling Britannian soldiers threaten to execute him for trespassing. Fortunately, he is saved by the sole survivor of the crash: a mysterious woman named C.C. who he found confined in the plane's cargo. She grants Lelouch the power of Geass, a supernatural ability that demands the absolute obedience of those it is used upon, making his commands undefiable. \n\nNow armed with devastating power, Lelouch assumes the persona of the revolutionary figure Zero, vowing to obliterate the accursed Britannian Empire and those who once wronged him many years ago.\n\n[Written by MAL Rewrite]",
+    "background": "Code Geass: Hangyaku no Lelouch was published in English as Code Geass: Lelouch of the Rebellion by Bandai Entertainment from July 28, 2008, to February 15, 2011. It was also released in Brazilian Portuguese by Editora JBC from January 2011 to August 2011.",
+    "authors": [
+        {
+            "mal_id": 3066,
+            "type": "people",
+            "name": "Taniguchi, Gorou",
+            "url": "https://myanimelist.net/people/3066/Gorou_Taniguchi"
+        },
+        {
+            "mal_id": 3067,
+            "type": "people",
+            "name": "Ookouchi, Ichirou",
+            "url": "https://myanimelist.net/people/3067/Ichirou_Ookouchi"
+        },
+        {
+            "mal_id": 3081,
+            "type": "people",
+            "name": "Majiko!",
+            "url": "https://myanimelist.net/people/3081/Majiko"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Asuka",
+            "url": "https://myanimelist.net/manga/magazine/14/Asuka"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 17311,
+                    "type": "manga",
+                    "name": "Code Geass: Shikkoku no Renya",
+                    "url": "https://myanimelist.net/manga/17311/Code_Geass__Shikkoku_no_Renya"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1575,
+                    "type": "anime",
+                    "name": "Code Geass: Hangyaku no Lelouch",
+                    "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch"
+                },
+                {
+                    "mal_id": 2904,
+                    "type": "anime",
+                    "name": "Code Geass: Hangyaku no Lelouch R2",
+                    "url": "https://myanimelist.net/anime/2904/Code_Geass__Hangyaku_no_Lelouch_R2"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 117661,
+                    "type": "manga",
+                    "name": "Code Geass: Hangyaku no Lelouch Gaiden - Shiro no Kishi Kurenai no Yasha",
+                    "url": "https://myanimelist.net/manga/117661/Code_Geass__Hangyaku_no_Lelouch_Gaiden_-_Shiro_no_Kishi_Kurenai_no_Yasha"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 10822,
+                    "type": "manga",
+                    "name": "Chibi Geass: 4-koma no Lelouch",
+                    "url": "https://myanimelist.net/manga/10822/Chibi_Geass__4-koma_no_Lelouch"
+                },
+                {
+                    "mal_id": 107648,
+                    "type": "manga",
+                    "name": "Code Geass: Hangyaku no Lelouch - Seitokai Jikenbo",
+                    "url": "https://myanimelist.net/manga/107648/Code_Geass__Hangyaku_no_Lelouch_-_Seitokai_Jikenbo"
+                },
+                {
+                    "mal_id": 25854,
+                    "type": "manga",
+                    "name": "Barcode Geass: Hanbai no Lelouch",
+                    "url": "https://myanimelist.net/manga/25854/Barcode_Geass__Hanbai_no_Lelouch"
+                },
+                {
+                    "mal_id": 42381,
+                    "type": "manga",
+                    "name": "Code Geass: Soubou no Oz",
+                    "url": "https://myanimelist.net/manga/42381/Code_Geass__Soubou_no_Oz"
+                },
+                {
+                    "mal_id": 81535,
+                    "type": "manga",
+                    "name": "Code Black: Hayabiki no Lelouch",
+                    "url": "https://myanimelist.net/manga/81535/Code_Black__Hayabiki_no_Lelouch"
+                },
+                {
+                    "mal_id": 115979,
+                    "type": "manga",
+                    "name": "Kateikyoushi no Lelouch-san",
+                    "url": "https://myanimelist.net/manga/115979/Kateikyoushi_no_Lelouch-san"
+                },
+                {
+                    "mal_id": 167202,
+                    "type": "manga",
+                    "name": "Code Geass: Mukei no Arthur Case File - Beginning",
+                    "url": "https://myanimelist.net/manga/167202/Code_Geass__Mukei_no_Arthur_Case_File_-_Beginning"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 1530,
+                    "type": "manga",
+                    "name": "Code Geass: Hankou no Suzaku",
+                    "url": "https://myanimelist.net/manga/1530/Code_Geass__Hankou_no_Suzaku"
+                },
+                {
+                    "mal_id": 11496,
+                    "type": "manga",
+                    "name": "Code Geass: Hangyaku no Lelouch",
+                    "url": "https://myanimelist.net/manga/11496/Code_Geass__Hangyaku_no_Lelouch"
+                },
+                {
+                    "mal_id": 1547,
+                    "type": "manga",
+                    "name": "Code Geass: Nightmare of Nunnally",
+                    "url": "https://myanimelist.net/manga/1547/Code_Geass__Nightmare_of_Nunnally"
+                },
+                {
+                    "mal_id": 107645,
+                    "type": "manga",
+                    "name": "Code Geass: Hangyaku no Lelouch R2",
+                    "url": "https://myanimelist.net/manga/107645/Code_Geass__Hangyaku_no_Lelouch_R2"
+                },
+                {
+                    "mal_id": 117984,
+                    "type": "manga",
+                    "name": "Code Geass: Hangyaku no Lelouch Re;",
+                    "url": "https://myanimelist.net/manga/117984/Code_Geass__Hangyaku_no_Lelouch_Re_"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 10167,
+                    "type": "manga",
+                    "name": "Bakumatsu Ibunroku: Code Geass - Hangyaku no Lelouch",
+                    "url": "https://myanimelist.net/manga/10167/Bakumatsu_Ibunroku__Code_Geass_-_Hangyaku_no_Lelouch"
+                },
+                {
+                    "mal_id": 95655,
+                    "type": "manga",
+                    "name": "Code Geass: Boukoku no Akito",
+                    "url": "https://myanimelist.net/manga/95655/Code_Geass__Boukoku_no_Akito"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 11968,
+                    "type": "manga",
+                    "name": "Code Geass: Hangyaku no Lelouch Koushiki Comic Anthology For Boys - Queen",
+                    "url": "https://myanimelist.net/manga/11968/Code_Geass__Hangyaku_no_Lelouch_Koushiki_Comic_Anthology_For_Boys_-_Queen"
+                },
+                {
+                    "mal_id": 12042,
+                    "type": "manga",
+                    "name": "Code Geass: Hangyaku no Lelouch Koushiki Comic Anthology For Girls - Knight",
+                    "url": "https://myanimelist.net/manga/12042/Code_Geass__Hangyaku_no_Lelouch_Koushiki_Comic_Anthology_For_Girls_-_Knight"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Code_Geass"
+        }
+    ]
+}

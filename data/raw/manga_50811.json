@@ -1,0 +1,110 @@
+{
+    "mal_id": 50811,
+    "url": "https://myanimelist.net/manga/50811/Mario",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/262159.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/262159t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/262159l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/262159.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/262159t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/262159l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mario"
+        },
+        {
+            "type": "Japanese",
+            "title": "マリオ"
+        }
+    ],
+    "title": "Mario",
+    "title_english": null,
+    "title_japanese": "マリオ",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-05-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 5,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 2, 2013"
+    },
+    "score": 6.78,
+    "scored": 6.78,
+    "scored_by": 3322,
+    "rank": 12513,
+    "popularity": 4113,
+    "members": 5467,
+    "favorites": 15,
+    "synopsis": "Mario, half-Japanese and half-Italian born in the US, works as a hitman. One day he meets a female colleague, Saori, who does not talk to men and is asked to work together with her.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1879,
+            "type": "people",
+            "name": "Kishimoto, Masashi",
+            "url": "https://myanimelist.net/people/1879/Masashi_Kishimoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

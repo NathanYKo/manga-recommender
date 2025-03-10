@@ -1,0 +1,140 @@
+{
+    "mal_id": 26973,
+    "url": "https://myanimelist.net/manga/26973/Helvetica_Standard",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190967.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190967t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190967l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190967.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190967t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190967l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Helvetica Standard"
+        },
+        {
+            "type": "Japanese",
+            "title": "Helvetica Standard"
+        },
+        {
+            "type": "English",
+            "title": "Helvetica Standard"
+        }
+    ],
+    "title": "Helvetica Standard",
+    "title_english": "Helvetica Standard",
+    "title_japanese": "Helvetica Standard",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-10-09T00:00:00+00:00",
+        "to": "2014-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            }
+        },
+        "string": "Oct 9, 2007 to 2014"
+    },
+    "score": 7.23,
+    "scored": 7.23,
+    "scored_by": 1200,
+    "rank": 5646,
+    "popularity": 5344,
+    "members": 4074,
+    "favorites": 65,
+    "synopsis": "Ever wondered about the manga Yuria Sekiguchi is often seen reading? This absurd, full-color 4-koma series provides a brief glimpse into the mind of the series' creator. With rich watercolor drawings and humorous takes on modern comic design, Helvetica Standard exposes and dismantles the world of Nichijou as imagined by Keiichi Arawi.\n\n[Written by MAL Rewrite]",
+    "background": "Helvetica Standard was published in English by Vertical Inc. on October 17, 2017.",
+    "authors": [
+        {
+            "mal_id": 3504,
+            "type": "people",
+            "name": "Arawi, Keiichi",
+            "url": "https://myanimelist.net/people/3504/Keiichi_Arawi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Newtype",
+            "url": "https://myanimelist.net/manga/magazine/31/Newtype"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 53010,
+                    "type": "anime",
+                    "name": "Ekaki Uta",
+                    "url": "https://myanimelist.net/anime/53010/Ekaki_Uta"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 3082,
+                    "type": "manga",
+                    "name": "Nichijou",
+                    "url": "https://myanimelist.net/manga/3082/Nichijou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/helvetica-standard/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E5%B8%B8_(%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

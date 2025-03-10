@@ -1,0 +1,121 @@
+{
+    "mal_id": 52343,
+    "url": "https://myanimelist.net/manga/52343/Jun__Shoutarou_no_Fantasy_World",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/141577.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/141577t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/141577l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/141577.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/141577t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/141577l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Jun: Shoutarou no Fantasy World"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shoutarou's Fantasy World Jun"
+        },
+        {
+            "type": "Japanese",
+            "title": "ジュン - 章太郎のファンタジーワールド"
+        }
+    ],
+    "title": "Jun: Shoutarou no Fantasy World",
+    "title_english": null,
+    "title_japanese": "ジュン - 章太郎のファンタジーワールド",
+    "title_synonyms": [
+        "Shoutarou's Fantasy World Jun"
+    ],
+    "type": "Manga",
+    "chapters": 34,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1966-12-20T00:00:00+00:00",
+        "to": "1971-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 12,
+                "year": 1966
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1971
+            }
+        },
+        "string": "Dec 20, 1966 to 1971"
+    },
+    "score": 7.66,
+    "scored": 7.66,
+    "scored_by": 842,
+    "rank": 1992,
+    "popularity": 7442,
+    "members": 2791,
+    "favorites": 110,
+    "synopsis": "A experimental manga series about a boy named Jun and his surreal voyages. The character is a alter-ego of Ishinomori himself.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2478,
+            "type": "people",
+            "name": "Ishinomori, Shoutarou",
+            "url": "https://myanimelist.net/people/2478/Shoutarou_Ishinomori"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1519,
+            "type": "manga",
+            "name": "COM",
+            "url": "https://myanimelist.net/manga/magazine/1519/COM"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 5,
+            "type": "manga",
+            "name": "Avant Garde",
+            "url": "https://myanimelist.net/manga/genre/5/Avant_Garde"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%B3_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

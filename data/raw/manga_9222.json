@@ -1,0 +1,122 @@
+{
+    "mal_id": 9222,
+    "url": "https://myanimelist.net/manga/9222/Heart",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/27073.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/27073t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/27073l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/27073.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/27073t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/27073l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Heart"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハート"
+        }
+    ],
+    "title": "Heart",
+    "title_english": null,
+    "title_japanese": "ハート",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 58,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-01T00:00:00+00:00",
+        "to": "2003-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            }
+        },
+        "string": "2001 to 2003"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 1328,
+    "rank": 3088,
+    "popularity": 7545,
+    "members": 2746,
+    "favorites": 38,
+    "synopsis": "The story revolves around a innocent naive schoolgirl, Yume, who falls in love with a gorgeous ex-Yankee, Shoubu. Meanwhile, Yume's best friend, Roko, falls for Shoubu's best friend, Yuuji who is a playboy.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2509,
+            "type": "people",
+            "name": "Takada, Rie",
+            "url": "https://myanimelist.net/people/2509/Rie_Takada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Sho-Comi",
+            "url": "https://myanimelist.net/manga/magazine/22/Sho-Comi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/HEART_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

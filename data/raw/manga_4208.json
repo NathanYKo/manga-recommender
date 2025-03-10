@@ -1,0 +1,144 @@
+{
+    "mal_id": 4208,
+    "url": "https://myanimelist.net/manga/4208/Muv-Luv",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/135017.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/135017t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/135017l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/135017.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/135017t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/135017l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Muv-Luv"
+        },
+        {
+            "type": "Synonym",
+            "title": "MuvLuv Extra"
+        },
+        {
+            "type": "Japanese",
+            "title": "マブラヴ"
+        }
+    ],
+    "title": "Muv-Luv",
+    "title_english": null,
+    "title_japanese": "マブラヴ",
+    "title_synonyms": [
+        "MuvLuv Extra"
+    ],
+    "type": "Manga",
+    "chapters": 20,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-01-01T00:00:00+00:00",
+        "to": "2004-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            }
+        },
+        "string": "2003 to 2004"
+    },
+    "score": 6.39,
+    "scored": 6.39,
+    "scored_by": 479,
+    "rank": 17716,
+    "popularity": 7628,
+    "members": 2705,
+    "favorites": 7,
+    "synopsis": "Takeru and Sumika have been neighbors and friends since they were little, but when a mysterious girl arrives, and is found in bed with Takeru, their daily lives will be thrown into chaos. \n\n(Source: solaris-svu)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3092,
+            "type": "people",
+            "name": "Takao, Ukyou",
+            "url": "https://myanimelist.net/people/3092/Ukyou_Takao"
+        },
+        {
+            "mal_id": 17889,
+            "type": "people",
+            "name": "Age",
+            "url": "https://myanimelist.net/people/17889/Age"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 8235,
+                    "type": "manga",
+                    "name": "Muv-Luv Unlimited",
+                    "url": "https://myanimelist.net/manga/8235/Muv-Luv_Unlimited"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 78337,
+                    "type": "manga",
+                    "name": "Muv-Luv",
+                    "url": "https://myanimelist.net/manga/78337/Muv-Luv"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.muvluv.com/"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "mal_id": 104234,
+    "url": "https://myanimelist.net/manga/104234/Mahouka_Koukou_no_Rettousei__Natsuyasumi-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190955.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190955t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190955l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190955.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190955t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190955l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mahouka Koukou no Rettousei: Natsuyasumi-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Irregular at Magic High School: Summer Vacation"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔法科高校の劣等生 夏休み編"
+        }
+    ],
+    "title": "Mahouka Koukou no Rettousei: Natsuyasumi-hen",
+    "title_english": null,
+    "title_japanese": "魔法科高校の劣等生 夏休み編",
+    "title_synonyms": [
+        "The Irregular at Magic High School: Summer Vacation"
+    ],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-10-27T00:00:00+00:00",
+        "to": "2017-12-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 27, 2016 to Dec 27, 2017"
+    },
+    "score": 7.09,
+    "scored": 7.09,
+    "scored_by": 908,
+    "rank": 7652,
+    "popularity": 7415,
+    "members": 2802,
+    "favorites": 9,
+    "synopsis": "Summer Vacation arc follows a variety of characters over their summer break between the Nine School Competition arc and the Yokohama Disturbance arc.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9057,
+            "type": "people",
+            "name": "Yuzuki N'",
+            "url": "https://myanimelist.net/people/9057/Yuzuki_N"
+        },
+        {
+            "mal_id": 15613,
+            "type": "people",
+            "name": "Satou, Tsutomu",
+            "url": "https://myanimelist.net/people/15613/Tsutomu_Satou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 60973,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei: Kyuukousen-hen",
+                    "url": "https://myanimelist.net/manga/60973/Mahouka_Koukou_no_Rettousei__Kyuukousen-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 115017,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei: Kaichou Senkyo-hen",
+                    "url": "https://myanimelist.net/manga/115017/Mahouka_Koukou_no_Rettousei__Kaichou_Senkyo-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 34127,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei",
+                    "url": "https://myanimelist.net/manga/34127/Mahouka_Koukou_no_Rettousei"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E7%A7%91%E9%AB%98%E6%A0%A1%E3%81%AE%E5%8A%A3%E7%AD%89%E7%94%9F"
+        }
+    ]
+}

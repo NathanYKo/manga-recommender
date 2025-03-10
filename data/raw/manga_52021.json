@@ -1,0 +1,125 @@
+{
+    "mal_id": 52021,
+    "url": "https://myanimelist.net/manga/52021/Tokimekigokoro",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/118411.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/118411t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/118411l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/118411.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/118411t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/118411l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tokimekigokoro"
+        },
+        {
+            "type": "Synonym",
+            "title": "Amaamagokoro"
+        },
+        {
+            "type": "Synonym",
+            "title": "Meromerogokoro"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tokimeki Kokoro"
+        },
+        {
+            "type": "Japanese",
+            "title": "トキメキ心"
+        }
+    ],
+    "title": "Tokimekigokoro",
+    "title_english": null,
+    "title_japanese": "トキメキ心",
+    "title_synonyms": [
+        "Amaamagokoro",
+        "Meromerogokoro",
+        "Tokimeki Kokoro"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-07-31T00:00:00+00:00",
+        "to": "2013-07-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 31,
+                "month": 7,
+                "year": 2013
+            }
+        },
+        "string": "Jul 31, 2012 to Jul 31, 2013"
+    },
+    "score": 7.92,
+    "scored": 7.92,
+    "scored_by": 1995,
+    "rank": null,
+    "popularity": 5459,
+    "members": 3993,
+    "favorites": 10,
+    "synopsis": "Continuation of Saki and Jun's story.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 14801,
+            "type": "people",
+            "name": "Kanda, Neko",
+            "url": "https://myanimelist.net/people/14801/Neko_Kanda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 156,
+            "type": "manga",
+            "name": "drap",
+            "url": "https://myanimelist.net/manga/magazine/156/drap"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 49463,
+                    "type": "manga",
+                    "name": "Koigokoro",
+                    "url": "https://myanimelist.net/manga/49463/Koigokoro"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,184 @@
+{
+    "mal_id": 1069,
+    "url": "https://myanimelist.net/manga/1069/Mai-Otome",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/260849.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/260849t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/260849l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/260849.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/260849t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/260849l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mai-Otome"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mai Otome"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mai Z-HiME"
+        },
+        {
+            "type": "Synonym",
+            "title": "My-Otome"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mai~Otsu Hime"
+        },
+        {
+            "type": "Synonym",
+            "title": "My~ZHiME"
+        },
+        {
+            "type": "Japanese",
+            "title": "舞-乙HiME"
+        },
+        {
+            "type": "English",
+            "title": "My-Otome"
+        }
+    ],
+    "title": "Mai-Otome",
+    "title_english": "My-Otome",
+    "title_japanese": "舞-乙HiME",
+    "title_synonyms": [
+        "Mai Otome",
+        "Mai Z-HiME",
+        "My-Otome",
+        "Mai~Otsu Hime",
+        "My~ZHiME"
+    ],
+    "type": "Manga",
+    "chapters": 44,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-08-01T00:00:00+00:00",
+        "to": "2006-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 2005
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            }
+        },
+        "string": "Aug 2005 to 2006"
+    },
+    "score": 7.21,
+    "scored": 7.21,
+    "scored_by": 1654,
+    "rank": 5955,
+    "popularity": 5850,
+    "members": 3687,
+    "favorites": 61,
+    "synopsis": "Mashiro-hime has just transferred to the all-girls school, Garderobe...but little do the other students know, she's actually a boy. Desperate to escape an all-boys school where he was looked down upon, he disguised himself as the late Mashiro-hime to get in. Unfortunately, due to \"her\" royal status, members of an organization known as Shwarz are trying to assassinate him, and all the while, he's trying to break his Contract with Arika Yumemiya, who unexpectedly became his Otome to protect him from a member of Shwarz. (Source: M-U)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2416,
+            "type": "people",
+            "name": "Satou, Kenetsu",
+            "url": "https://myanimelist.net/people/2416/Kenetsu_Satou"
+        },
+        {
+            "mal_id": 10817,
+            "type": "people",
+            "name": "Yoshino, Hiroyuki",
+            "url": "https://myanimelist.net/people/10817/Hiroyuki_Yoshino"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1254,
+                    "type": "manga",
+                    "name": "Mai-Otome Arashi",
+                    "url": "https://myanimelist.net/manga/1254/Mai-Otome_Arashi"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 99,
+                    "type": "anime",
+                    "name": "Mai-Otome",
+                    "url": "https://myanimelist.net/anime/99/Mai-Otome"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 441,
+                    "type": "manga",
+                    "name": "Mai-HiME",
+                    "url": "https://myanimelist.net/manga/441/Mai-HiME"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/My-Otome_%28manga%29"
+        }
+    ]
+}

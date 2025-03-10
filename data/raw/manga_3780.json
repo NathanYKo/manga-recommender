@@ -1,0 +1,133 @@
+{
+    "mal_id": 3780,
+    "url": "https://myanimelist.net/manga/3780/Forget_Me_Not",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/64987.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/64987t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/64987l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/64987.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/64987t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/64987l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Forget Me Not"
+        },
+        {
+            "type": "Synonym",
+            "title": "Forget-me-not"
+        },
+        {
+            "type": "Japanese",
+            "title": "フォゲットミーナット"
+        }
+    ],
+    "title": "Forget Me Not",
+    "title_english": null,
+    "title_japanese": "フォゲットミーナット",
+    "title_synonyms": [
+        "Forget-me-not"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-09-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 9,
+                "year": 2003
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 22, 2003"
+    },
+    "score": 6.31,
+    "scored": 6.31,
+    "scored_by": 2687,
+    "rank": 18350,
+    "popularity": 2977,
+    "members": 7549,
+    "favorites": 32,
+    "synopsis": "Mariel Imari is a private eye trying to become a first-rate detective to be able inherit her late father's estate. For some strange reason, the mysterious thief Vecchio is taking an interest in her. As if that wasn't enough, her old friends at Interpol and her siblings make life more troubling for her.\n\n(Source: MU)",
+    "background": "Forget Me Not was published in Italian by Dynit on November 28, 2019.",
+    "authors": [
+        {
+            "mal_id": 1931,
+            "type": "people",
+            "name": "Tsuruta, Kenji",
+            "url": "https://myanimelist.net/people/1931/Kenji_Tsuruta"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Morning",
+            "url": "https://myanimelist.net/manga/magazine/72/Morning"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 45495,
+                    "type": "manga",
+                    "name": "La Pomme Prisonnière",
+                    "url": "https://myanimelist.net/manga/45495/La_Pomme_Prisonnière"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 169471,
+                    "type": "manga",
+                    "name": "Sora wa Sekai no Hitotsu Yane",
+                    "url": "https://myanimelist.net/manga/169471/Sora_wa_Sekai_no_Hitotsu_Yane"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,115 @@
+{
+    "mal_id": 1796,
+    "url": "https://myanimelist.net/manga/1796/Dawn__Tsumetai_Te",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/150345.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/150345t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/150345l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/150345.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/150345t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/150345l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dawn: Tsumetai Te"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dawn: Chilly Hands"
+        },
+        {
+            "type": "Japanese",
+            "title": "DAWN ～冷たい手"
+        }
+    ],
+    "title": "Dawn: Tsumetai Te",
+    "title_english": null,
+    "title_japanese": "DAWN ～冷たい手",
+    "title_synonyms": [
+        "Dawn: Chilly Hands"
+    ],
+    "type": "Manga",
+    "chapters": 37,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-04-27T00:00:00+00:00",
+        "to": "2007-08-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 4,
+                "year": 2002
+            },
+            "to": {
+                "day": 28,
+                "month": 8,
+                "year": 2007
+            }
+        },
+        "string": "Apr 27, 2002 to Aug 28, 2007"
+    },
+    "score": 7.02,
+    "scored": 7.02,
+    "scored_by": 2019,
+    "rank": 8735,
+    "popularity": 3459,
+    "members": 6457,
+    "favorites": 39,
+    "synopsis": "Remember that plague you learned about in history class? Well, it's back, ready to infect hordes of people! Follow Nagasawa, a melodramic student caught in the middle of this horrid epidemic, with absolutely no idea what's going on, trying to get through life with infected people all about. Can you say creepy?\n\n(Source: MU)",
+    "background": "Dawn: Tsumetai Te was published in Brazilian Portuguese by Nova Sampa from October 2014 to August 2015.",
+    "authors": [
+        {
+            "mal_id": 3184,
+            "type": "people",
+            "name": "Ueda, Shinshu",
+            "url": "https://myanimelist.net/people/3184/Shinshu_Ueda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 110,
+            "type": "manga",
+            "name": "Comic ZERO-SUM",
+            "url": "https://myanimelist.net/manga/magazine/110/Comic_ZERO-SUM"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/DAWN_%E3%80%9C%E5%86%B7%E3%81%9F%E3%81%84%E6%89%8B"
+        }
+    ]
+}

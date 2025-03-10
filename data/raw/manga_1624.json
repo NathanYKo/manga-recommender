@@ -1,0 +1,138 @@
+{
+    "mal_id": 1624,
+    "url": "https://myanimelist.net/manga/1624/Watashi_no_Ookami-san",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/181071.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/181071t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/181071l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/181071.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/181071t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/181071l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Watashi no Ookami-san."
+        },
+        {
+            "type": "Synonym",
+            "title": "Watashi no Ookami-san. The Other Side of Lycanthrope"
+        },
+        {
+            "type": "Synonym",
+            "title": "Calling"
+        },
+        {
+            "type": "Synonym",
+            "title": "Stray Doll"
+        },
+        {
+            "type": "Japanese",
+            "title": "わたしの狼さん。"
+        }
+    ],
+    "title": "Watashi no Ookami-san.",
+    "title_english": null,
+    "title_japanese": "わたしの狼さん。",
+    "title_synonyms": [
+        "Watashi no Ookami-san. The Other Side of Lycanthrope",
+        "Calling",
+        "Stray Doll"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-02-26T00:00:00+00:00",
+        "to": "2001-12-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 2,
+                "year": 2001
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2001
+            }
+        },
+        "string": "Feb 26, 2001 to Dec 26, 2001"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 1835,
+    "rank": 8460,
+    "popularity": 4996,
+    "members": 4391,
+    "favorites": 20,
+    "synopsis": "Bored of sitting around holding a wine glass all day, the Demon Lord is looking for something new. Something cute. Someone like Komomo, the level 0 heroine who has just appeared before him, ready to vanquish him like all heroes (or heroines) do. Faced with a demon king who'd rather watch TV under a kotatsu and make out with her than spread evil over the land, what will Komomo do?\n\n(Source: vimanga.ru)\n\nIncluded one-shots:\nVolume 1: Watashi no Ookami-san. (pilot)\nVolume 2: Calling, Stray Doll",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3118,
+            "type": "people",
+            "name": "Fujiwara, Cocoa",
+            "url": "https://myanimelist.net/people/3118/Cocoa_Fujiwara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 939,
+            "type": "manga",
+            "name": "Gangan Wing",
+            "url": "https://myanimelist.net/manga/magazine/939/Gangan_Wing"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 3485,
+                    "type": "manga",
+                    "name": "Dear",
+                    "url": "https://myanimelist.net/manga/3485/Dear"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

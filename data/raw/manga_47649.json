@@ -1,0 +1,114 @@
+{
+    "mal_id": 47649,
+    "url": "https://myanimelist.net/manga/47649/Kaichou-kun_no_Shimobe",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/185352.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/185352t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/185352l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/185352.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/185352t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/185352l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kaichou-kun no Shimobe"
+        },
+        {
+            "type": "Japanese",
+            "title": "会長クンのしもべ"
+        }
+    ],
+    "title": "Kaichou-kun no Shimobe",
+    "title_english": null,
+    "title_japanese": "会長クンのしもべ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 24,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-10-25T00:00:00+00:00",
+        "to": "2016-10-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 13,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "Oct 25, 2012 to Oct 13, 2016"
+    },
+    "score": 6.9,
+    "scored": 6.9,
+    "scored_by": 2379,
+    "rank": 10514,
+    "popularity": 3665,
+    "members": 6150,
+    "favorites": 21,
+    "synopsis": "Closet otaku girl, Hirayama, lives a peaceful and normal school life...that is until she meets the smart, handsome and popular high school president and discovers his secret. Her peaceful and quiet world is now starting to fall apart.\n\n(Source: AQUA Scans)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 15889,
+            "type": "people",
+            "name": "Hozuno, Miyako",
+            "url": "https://myanimelist.net/people/15889/Miyako_Hozuno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 943,
+            "type": "manga",
+            "name": "Comic Polaris",
+            "url": "https://myanimelist.net/manga/magazine/943/Comic_Polaris"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 34349,
+                    "type": "manga",
+                    "name": "Tonari no Gokudou-kun",
+                    "url": "https://myanimelist.net/manga/34349/Tonari_no_Gokudou-kun"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic-polaris.jp/kaichokun/"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "mal_id": 8104,
+    "url": "https://myanimelist.net/manga/8104/Love_Knife",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/11081.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/11081t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/11081l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/11081.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/11081t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/11081l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Love Knife"
+        },
+        {
+            "type": "Synonym",
+            "title": "Love Knife"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rabu Naifu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Antique Girl"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tea Time wa Mayonaka ni"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラブナイフ"
+        },
+        {
+            "type": "English",
+            "title": "Love Knife"
+        }
+    ],
+    "title": "Love Knife",
+    "title_english": "Love Knife",
+    "title_japanese": "ラブナイフ",
+    "title_synonyms": [
+        "Love Knife",
+        "Rabu Naifu",
+        "Antique Girl",
+        "Tea Time wa Mayonaka ni"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2008"
+    },
+    "score": 7.15,
+    "scored": 7.15,
+    "scored_by": 1332,
+    "rank": 6802,
+    "popularity": 7870,
+    "members": 2609,
+    "favorites": 2,
+    "synopsis": "Compilation of short stories:\n\n• Love Knife (Chp 1-3)\n• Antique Girl (Chp 4)\n• Tea Time wa Mayonaka ni (Chp 5)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5498,
+            "type": "people",
+            "name": "Mitsuki, Miko",
+            "url": "https://myanimelist.net/people/5498/Miko_Mitsuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Sho-Comi",
+            "url": "https://myanimelist.net/manga/magazine/22/Sho-Comi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

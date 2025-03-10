@@ -1,0 +1,167 @@
+{
+    "mal_id": 3395,
+    "url": "https://myanimelist.net/manga/3395/Dominion",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/167654.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/167654t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/167654l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/167654.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/167654t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/167654l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dominion"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dominion F"
+        },
+        {
+            "type": "Japanese",
+            "title": "DOMINION"
+        },
+        {
+            "type": "English",
+            "title": "Dominion"
+        }
+    ],
+    "title": "Dominion",
+    "title_english": "Dominion",
+    "title_japanese": "DOMINION",
+    "title_synonyms": [
+        "Dominion F"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1985-01-01T00:00:00+00:00",
+        "to": "1986-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1985
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1986
+            }
+        },
+        "string": "1985 to 1986"
+    },
+    "score": 6.79,
+    "scored": 6.79,
+    "scored_by": 955,
+    "rank": 12368,
+    "popularity": 7431,
+    "members": 2795,
+    "favorites": 27,
+    "synopsis": "Set in the fictional city of Newport, Japan, in a future in which bacterial air pollution has become so severe that people must wear gas masks when outdoors, the series follows a police squadron that uses tanks.\n\n(Source: Wikipedia)",
+    "background": "Dominion has been republished as Dominion F in January 27, 1993. The series has been first published in English in 6 issues by Dark Horse Comics in December 1989. Dark Horse later republished Dominion as trade paperback in 1993, 1996, 2000, and 2007.",
+    "authors": [
+        {
+            "mal_id": 2609,
+            "type": "people",
+            "name": "Shirow, Masamune",
+            "url": "https://myanimelist.net/people/2609/Masamune_Shirow"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1280,
+            "type": "manga",
+            "name": "Comicomi",
+            "url": "https://myanimelist.net/manga/magazine/1280/Comicomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        },
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1151,
+                    "type": "anime",
+                    "name": "Dominion",
+                    "url": "https://myanimelist.net/anime/1151/Dominion"
+                },
+                {
+                    "mal_id": 1152,
+                    "type": "anime",
+                    "name": "Tokusou Senshatai Dominion",
+                    "url": "https://myanimelist.net/anime/1152/Tokusou_Senshatai_Dominion"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 8350,
+                    "type": "manga",
+                    "name": "Dominion C1 Conflict",
+                    "url": "https://myanimelist.net/manga/8350/Dominion_C1_Conflict"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AA%E3%83%B3_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

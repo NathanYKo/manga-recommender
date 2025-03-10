@@ -1,0 +1,120 @@
+{
+    "mal_id": 5373,
+    "url": "https://myanimelist.net/manga/5373/Touhou_Bougetsushou__Cage_in_Lunatic_Runagate",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/248835.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/248835t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/248835l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/248835.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/248835t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/248835l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Touhou Bougetsushou: Cage in Lunatic Runagate."
+        },
+        {
+            "type": "Japanese",
+            "title": "東方儚月抄 Cage in Lunatic Runagate."
+        }
+    ],
+    "title": "Touhou Bougetsushou: Cage in Lunatic Runagate.",
+    "title_english": null,
+    "title_japanese": "東方儚月抄 Cage in Lunatic Runagate.",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-06-25T00:00:00+00:00",
+        "to": "2009-06-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 2007
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 2009
+            }
+        },
+        "string": "Jun 25, 2007 to Jun 25, 2009"
+    },
+    "score": 7.77,
+    "scored": 7.77,
+    "scored_by": 727,
+    "rank": 1451,
+    "popularity": 8365,
+    "members": 2420,
+    "favorites": 37,
+    "synopsis": "A series of side stories that complement Touhou Bougetsushou: Silent Sinner in Blue.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2003,
+            "type": "people",
+            "name": "ZUN",
+            "url": "https://myanimelist.net/people/2003/ZUN"
+        },
+        {
+            "mal_id": 4568,
+            "type": "people",
+            "name": "Tokiame",
+            "url": "https://myanimelist.net/people/4568/Tokiame"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 3014,
+                    "type": "manga",
+                    "name": "Touhou Bougetsushou: Silent Sinner in Blue.",
+                    "url": "https://myanimelist.net/manga/3014/Touhou_Bougetsushou__Silent_Sinner_in_Blue"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.ichijinsha.co.jp/special/toho/charamel/index.html"
+        }
+    ]
+}

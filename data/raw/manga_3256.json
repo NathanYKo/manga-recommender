@@ -1,0 +1,127 @@
+{
+    "mal_id": 3256,
+    "url": "https://myanimelist.net/manga/3256/Fuan_no_Tane",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/8840.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/8840t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/8840l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/8840.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/8840t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/8840l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fuan no Tane"
+        },
+        {
+            "type": "Synonym",
+            "title": "Seeds of Anxiety"
+        },
+        {
+            "type": "Japanese",
+            "title": "不安の種"
+        }
+    ],
+    "title": "Fuan no Tane",
+    "title_english": null,
+    "title_japanese": "不安の種",
+    "title_synonyms": [
+        "Seeds of Anxiety"
+    ],
+    "type": "Manga",
+    "chapters": 72,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-10-19T00:00:00+00:00",
+        "to": "2005-03-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 10,
+                "year": 2002
+            },
+            "to": {
+                "day": 19,
+                "month": 3,
+                "year": 2005
+            }
+        },
+        "string": "Oct 19, 2002 to Mar 19, 2005"
+    },
+    "score": 6.88,
+    "scored": 6.88,
+    "scored_by": 7249,
+    "rank": 10949,
+    "popularity": 1099,
+    "members": 18343,
+    "favorites": 252,
+    "synopsis": "It's a collection of very short and mostly atmospheric stories dealing with urban legends, ghosts and superstitions all organized around a specific theme (school, visitors etc.). Some are just two pages long.",
+    "background": "Fuan no Tane has been published in Spanish by ECC Ediciones since March 30, 2016.",
+    "authors": [
+        {
+            "mal_id": 3581,
+            "type": "people",
+            "name": "Nakayama, Masaaki",
+            "url": "https://myanimelist.net/people/3581/Masaaki_Nakayama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 186,
+            "type": "manga",
+            "name": "Champion RED",
+            "url": "https://myanimelist.net/manga/magazine/186/Champion_RED"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 8872,
+                    "type": "manga",
+                    "name": "Fuan no Tane+",
+                    "url": "https://myanimelist.net/manga/8872/Fuan_no_Tane_"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%AE%89%E3%81%AE%E7%A8%AE"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "mal_id": 121294,
+    "url": "https://myanimelist.net/manga/121294/Hello_World",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/222144.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/222144t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/222144l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/222144.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/222144t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/222144l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hello World"
+        },
+        {
+            "type": "Japanese",
+            "title": "HELLO WORLD"
+        },
+        {
+            "type": "English",
+            "title": "Hello World"
+        }
+    ],
+    "title": "Hello World",
+    "title_english": "Hello World",
+    "title_japanese": "HELLO WORLD",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-07-19T00:00:00+00:00",
+        "to": "2020-03-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 7,
+                "year": 2019
+            },
+            "to": {
+                "day": 19,
+                "month": 3,
+                "year": 2020
+            }
+        },
+        "string": "Jul 19, 2019 to Mar 19, 2020"
+    },
+    "score": 7.1,
+    "scored": 7.1,
+    "scored_by": 1055,
+    "rank": 7514,
+    "popularity": 6145,
+    "members": 3498,
+    "favorites": 30,
+    "synopsis": "Naomi is a shy teenage boy living an ordinary life until the day a mysterious man appears–himself, ten years in the future. Future Naomi brings a dire warning: Naomi's soon-to-be girlfriend Ruri will be in a tragic accident not long after they start dating. Can they change the past and build a better future...or is there something more to Naomi's mission than saving one girl's life?\n\n(Source: Seven Seas Entertainment)",
+    "background": "Hello World was published in English by Seven Seas Entertainment as a 2-in-1 omnibus volume on September 28, 2021.",
+    "authors": [
+        {
+            "mal_id": 29007,
+            "type": "people",
+            "name": "Suzuki, Manatsu",
+            "url": "https://myanimelist.net/people/29007/Manatsu_Suzuki"
+        },
+        {
+            "mal_id": 36335,
+            "type": "people",
+            "name": "Sono, Yoshihiro",
+            "url": "https://myanimelist.net/people/36335/Yoshihiro_Sono"
+        },
+        {
+            "mal_id": 37142,
+            "type": "people",
+            "name": "Nozaki, Mado",
+            "url": "https://myanimelist.net/people/37142/Mado_Nozaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 158230,
+                    "type": "manga",
+                    "name": "Hello World",
+                    "url": "https://myanimelist.net/manga/158230/Hello_World"
+                },
+                {
+                    "mal_id": 38816,
+                    "type": "anime",
+                    "name": "Hello World",
+                    "url": "https://myanimelist.net/anime/38816/Hello_World"
+                },
+                {
+                    "mal_id": 38816,
+                    "type": "anime",
+                    "name": "Hello World",
+                    "url": "https://myanimelist.net/anime/38816/Hello_World"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://ultra.shueisha.co.jp/manga/hello-world/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hello_World_(film)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/HELLO_WORLD_(%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB)"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "mal_id": 13988,
+    "url": "https://myanimelist.net/manga/13988/Kizu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260801.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260801t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260801l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260801.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260801t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260801l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kizu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Wounds"
+        },
+        {
+            "type": "Japanese",
+            "title": "傷"
+        }
+    ],
+    "title": "Kizu",
+    "title_english": null,
+    "title_japanese": "傷",
+    "title_synonyms": [
+        "Wounds"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-07-10T00:00:00+00:00",
+        "to": "2007-12-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 7,
+                "year": 2007
+            },
+            "to": {
+                "day": 10,
+                "month": 12,
+                "year": 2007
+            }
+        },
+        "string": "Jul 10, 2007 to Dec 10, 2007"
+    },
+    "score": 7.41,
+    "scored": 7.41,
+    "scored_by": 3024,
+    "rank": 3724,
+    "popularity": 4086,
+    "members": 5518,
+    "favorites": 49,
+    "synopsis": "In Keigo's school, all the troubled kids are grouped into one class -- the troublemakers, the abused kids, and the scarred ones. There's a quiet kid in his class named Asato who never talks to anyone, and like Keigo, doesn't want to go home after school. One day after class Keigo cuts himself, and the two of them discover that Asato has the ability to absorb the wounds of others. What wounds will Asato heal, and what scars does he himself carry...?\n\n(Source: Storm in Heaven)",
+    "background": "Kizu was published in Brazilian Portuguese by Editora JBC in January 2013.",
+    "authors": [
+        {
+            "mal_id": 2765,
+            "type": "people",
+            "name": "Otsuichi",
+            "url": "https://myanimelist.net/people/2765/Otsuichi"
+        },
+        {
+            "mal_id": 5524,
+            "type": "people",
+            "name": "Kiyohara, Hiro",
+            "url": "https://myanimelist.net/people/5524/Hiro_Kiyohara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 1406,
+                    "type": "manga",
+                    "name": "Kimi ni shika Kikoenai: Calling You",
+                    "url": "https://myanimelist.net/manga/1406/Kimi_ni_shika_Kikoenai__Calling_You"
+                },
+                {
+                    "mal_id": 163,
+                    "type": "manga",
+                    "name": "Kimi ni shika Kikoenai",
+                    "url": "https://myanimelist.net/manga/163/Kimi_ni_shika_Kikoenai"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

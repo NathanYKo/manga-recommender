@@ -1,0 +1,148 @@
+{
+    "mal_id": 30987,
+    "url": "https://myanimelist.net/manga/30987/Haikyuu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/275330.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/275330t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/275330l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/275330.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/275330t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/275330l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Haikyuu!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "High Kyuu!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "HQ!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Haikyuu!! Prototype"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハイキュー!!"
+        }
+    ],
+    "title": "Haikyuu!!",
+    "title_english": null,
+    "title_japanese": "ハイキュー!!",
+    "title_synonyms": [
+        "High Kyuu!!",
+        "HQ!!",
+        "Haikyuu!! Prototype"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-04-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 25, 2011"
+    },
+    "score": 7.43,
+    "scored": 7.43,
+    "scored_by": 5559,
+    "rank": 3507,
+    "popularity": 1823,
+    "members": 11923,
+    "favorites": 2243,
+    "synopsis": "After watching the largely unknown Karasuno High School overwhelmingly win a volleyball practice match, soon-to-be first-year high school student Shouyou Hinata aspires to join their team as the ace. Unfortunately, his short stature and lack of experience in playing any sort of official game earns him the ire of Karasuno's current members, including the team's famous setter Tobio Kageyama. Determined to prove that he has what it takes—and with a strong desire to show Kageyama he is wrong—Hinata begins to train and hone his skills in order to soar above them all.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 8260,
+            "type": "people",
+            "name": "Furudate, Haruichi",
+            "url": "https://myanimelist.net/people/8260/Haruichi_Furudate"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 35243,
+                    "type": "manga",
+                    "name": "Haikyuu!!",
+                    "url": "https://myanimelist.net/manga/35243/Haikyuu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%A5%E3%83%BC!!"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Haikyu!!"
+        }
+    ]
+}

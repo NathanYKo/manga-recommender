@@ -1,0 +1,130 @@
+{
+    "mal_id": 107982,
+    "url": "https://myanimelist.net/manga/107982/RWBY__Official_Manga_Anthology",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/197717.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/197717t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/197717l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/197717.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/197717t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/197717l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "RWBY: Official Manga Anthology"
+        },
+        {
+            "type": "Japanese",
+            "title": "RWBY OFFICIAL MANGA ANTHOLOGY"
+        },
+        {
+            "type": "English",
+            "title": "RWBY: Official Manga Anthology"
+        }
+    ],
+    "title": "RWBY: Official Manga Anthology",
+    "title_english": "RWBY: Official Manga Anthology",
+    "title_japanese": "RWBY OFFICIAL MANGA ANTHOLOGY",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 78,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-05-19T00:00:00+00:00",
+        "to": "2017-10-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 5,
+                "year": 2017
+            },
+            "to": {
+                "day": 19,
+                "month": 10,
+                "year": 2017
+            }
+        },
+        "string": "May 19, 2017 to Oct 19, 2017"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 1541,
+    "rank": 5034,
+    "popularity": 5025,
+    "members": 4369,
+    "favorites": 115,
+    "synopsis": "An anthology comic of RWBY by various mangaka.",
+    "background": "RWBY: Official Manga Anthology was published in English by VIZ Media from May 15, 2018 to February 19, 2019.",
+    "authors": [
+        {
+            "mal_id": 44712,
+            "type": "people",
+            "name": "Mikanuji",
+            "url": "https://myanimelist.net/people/44712/Mikanuji"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 93675,
+                    "type": "manga",
+                    "name": "RWBY",
+                    "url": "https://myanimelist.net/manga/93675/RWBY"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.homesha.jp/p/RWBY_1/"
+        }
+    ]
+}

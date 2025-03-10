@@ -1,0 +1,131 @@
+{
+    "mal_id": 81467,
+    "url": "https://myanimelist.net/manga/81467/Mitsuboshi_Colors",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/155669.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/155669t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/155669l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/155669.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/155669t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/155669l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mitsuboshi Colors"
+        },
+        {
+            "type": "Japanese",
+            "title": "三ツ星カラーズ"
+        }
+    ],
+    "title": "Mitsuboshi Colors",
+    "title_english": null,
+    "title_japanese": "三ツ星カラーズ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 72,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-07-26T00:00:00+00:00",
+        "to": "2020-06-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2020
+            }
+        },
+        "string": "Jul 26, 2014 to Jun 27, 2020"
+    },
+    "score": 7.65,
+    "scored": 7.65,
+    "scored_by": 1293,
+    "rank": 2038,
+    "popularity": 3948,
+    "members": 5694,
+    "favorites": 101,
+    "synopsis": "The \"Colors\" are three cute little girls who hang out together and say they're protecting the peace of their city. They have lots of fun together, doing stuff like playing games, solving puzzles, and going to the zoo. This manga follows their largely happy daily life.\n\n(Source: MangaHelpers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 21151,
+            "type": "people",
+            "name": "Katsuwo",
+            "url": "https://myanimelist.net/people/21151/Katsuwo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35078,
+                    "type": "anime",
+                    "name": "Mitsuboshi Colors",
+                    "url": "https://myanimelist.net/anime/35078/Mitsuboshi_Colors"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://daioh.dengeki.com/contents/mitsuboshi/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E3%83%84%E6%98%9F%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%BA"
+        }
+    ]
+}

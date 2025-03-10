@@ -1,0 +1,104 @@
+{
+    "mal_id": 18091,
+    "url": "https://myanimelist.net/manga/18091/Hiki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/27686.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/27686t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/27686l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/27686.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/27686t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/27686l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hiki"
+        },
+        {
+            "type": "Japanese",
+            "title": "ヒキ"
+        }
+    ],
+    "title": "Hiki",
+    "title_english": null,
+    "title_japanese": "ヒキ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2007"
+    },
+    "score": 6.09,
+    "scored": 6.09,
+    "scored_by": 1207,
+    "rank": 19503,
+    "popularity": 8047,
+    "members": 2539,
+    "favorites": 9,
+    "synopsis": "While searching behind his desk drawer, Rin finds a hand drawn map of his neighborhood with a big X marking a specific spot. He doesn't recognize it, because he must have drawn it a long time ago, but he's curious to see what he marked with that X. Three childhood friends join him, and they discover an abandoned chest of drawers at the X location. Wondering if there might be something inside, Rin pulls open the drawers and unknowingly unleashes a horrific chain of events... \n\n(MAL)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3412,
+            "type": "people",
+            "name": "Nangoku, Banana",
+            "url": "https://myanimelist.net/people/3412/Banana_Nangoku"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Wings",
+            "url": "https://myanimelist.net/manga/magazine/45/Wings"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

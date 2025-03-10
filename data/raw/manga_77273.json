@@ -1,0 +1,139 @@
+{
+    "mal_id": 77273,
+    "url": "https://myanimelist.net/manga/77273/Uchiha_Sasuke_no_Sharingan_Den",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/181265.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/181265t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/181265l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/181265.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/181265t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/181265l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Uchiha Sasuke no Sharingan Den"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sasuke Uchiha's Sharingan Legend"
+        },
+        {
+            "type": "Japanese",
+            "title": "うちはサスケの写輪眼伝"
+        },
+        {
+            "type": "English",
+            "title": "Naruto: Chibi Sasuke's Sharingan Legend"
+        }
+    ],
+    "title": "Uchiha Sasuke no Sharingan Den",
+    "title_english": "Naruto: Chibi Sasuke's Sharingan Legend",
+    "title_japanese": "うちはサスケの写輪眼伝",
+    "title_synonyms": [
+        "Sasuke Uchiha's Sharingan Legend"
+    ],
+    "type": "Manga",
+    "chapters": 26,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-10-03T00:00:00+00:00",
+        "to": "2017-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            }
+        },
+        "string": "Oct 3, 2014 to Apr 1, 2017"
+    },
+    "score": 6.98,
+    "scored": 6.98,
+    "scored_by": 1346,
+    "rank": 9329,
+    "popularity": 6093,
+    "members": 3524,
+    "favorites": 37,
+    "synopsis": "A spin-off manga series about the character Uchiha Sasuke from the series Naruto. The series shows a more humorous side to the normally cool and aloof Sasuke.\n\n(Source: Saiyan Island)",
+    "background": "Uchiha Sasuke no Sharingan Den has been published in English by VIZ media; digitally since June 28, 2016 as Naruto: Chibi Sasuke's Sharingan Legend, as part of their Weekly Shonen Jump free chapters, and physically since September 5, 2017.",
+    "authors": [
+        {
+            "mal_id": 13163,
+            "type": "people",
+            "name": "Taira, Kenji",
+            "url": "https://myanimelist.net/people/13163/Kenji_Taira"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 697,
+            "type": "manga",
+            "name": "Saikyou Jump",
+            "url": "https://myanimelist.net/manga/magazine/697/Saikyou_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 11,
+                    "type": "manga",
+                    "name": "Naruto",
+                    "url": "https://myanimelist.net/manga/11/Naruto"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,128 @@
+{
+    "mal_id": 83683,
+    "url": "https://myanimelist.net/manga/83683/Hana_to_Alice__Satsujin_Jiken",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/165436.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/165436t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/165436l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/165436.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/165436t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/165436l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hana to Alice: Satsujin Jiken"
+        },
+        {
+            "type": "Japanese",
+            "title": "花とアリス 殺人事件"
+        },
+        {
+            "type": "English",
+            "title": "The Case of Hana & Alice"
+        }
+    ],
+    "title": "Hana to Alice: Satsujin Jiken",
+    "title_english": "The Case of Hana & Alice",
+    "title_japanese": "花とアリス 殺人事件",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-02-16T00:00:00+00:00",
+        "to": "2015-07-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 2,
+                "year": 2015
+            },
+            "to": {
+                "day": 27,
+                "month": 7,
+                "year": 2015
+            }
+        },
+        "string": "Feb 16, 2015 to Jul 27, 2015"
+    },
+    "score": 6.76,
+    "scored": 6.76,
+    "scored_by": 962,
+    "rank": 12897,
+    "popularity": 8349,
+    "members": 2425,
+    "favorites": 4,
+    "synopsis": "A manga adaption of Shunji Iwai's eponym anime which is a prequel to the Hana &amp; Alice 2004 live-action film.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 12266,
+            "type": "people",
+            "name": "Dowman, Sayman",
+            "url": "https://myanimelist.net/people/12266/Sayman_Dowman"
+        },
+        {
+            "mal_id": 21489,
+            "type": "people",
+            "name": "Iwai, Shunji",
+            "url": "https://myanimelist.net/people/21489/Shunji_Iwai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1097,
+            "type": "manga",
+            "name": "Yawaraka Spirits",
+            "url": "https://myanimelist.net/manga/magazine/1097/Yawaraka_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 27969,
+                    "type": "anime",
+                    "name": "Hana to Alice: Satsujin Jiken",
+                    "url": "https://myanimelist.net/anime/27969/Hana_to_Alice__Satsujin_Jiken"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://yawaspi.com/hana_alice/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E8%8A%B1%E3%81%A8%E3%82%A2%E3%83%AA%E3%82%B9"
+        }
+    ]
+}

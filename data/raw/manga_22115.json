@@ -1,0 +1,134 @@
+{
+    "mal_id": 22115,
+    "url": "https://myanimelist.net/manga/22115/A-bout",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/74997.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/74997t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/74997l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/74997.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/74997t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/74997l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "A-bout!"
+        },
+        {
+            "type": "Synonym",
+            "title": "About!"
+        },
+        {
+            "type": "Japanese",
+            "title": "アバウト"
+        }
+    ],
+    "title": "A-bout!",
+    "title_english": null,
+    "title_japanese": "アバウト",
+    "title_synonyms": [
+        "About!"
+    ],
+    "type": "Manga",
+    "chapters": 165,
+    "volumes": 19,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-11-25T00:00:00+00:00",
+        "to": "2013-05-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 11,
+                "year": 2009
+            },
+            "to": {
+                "day": 15,
+                "month": 5,
+                "year": 2013
+            }
+        },
+        "string": "Nov 25, 2009 to May 15, 2013"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 1723,
+    "rank": 3106,
+    "popularity": 3874,
+    "members": 5799,
+    "favorites": 81,
+    "synopsis": "Mitsumine High School is known as the school with the most juvenile delinquents in the country. The students are so violent that even the teachers are scared for their lives. Sunahara is the leader of the first years and is the strongest dude of his class. But when the transfer student Asagiri Shinnosuke makes an appearance at the school, he starts taking down names and kicking up dust like a tornado. If the students thought things were violent and unpredictable at Mitsumine, they haven’t seen anything yet since Asagiri is here to become the champion of the school.\n\n(Source: MangaHelpers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 18811,
+            "type": "people",
+            "name": "Ichikawa, Masa",
+            "url": "https://myanimelist.net/people/18811/Masa_Ichikawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 68691,
+                    "type": "manga",
+                    "name": "A-bout!!: Asagiri Daikatsuyaku-hen",
+                    "url": "https://myanimelist.net/manga/68691/A-bout__Asagiri_Daikatsuyaku-hen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/A-BOUT!"
+        }
+    ]
+}

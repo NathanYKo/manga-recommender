@@ -1,0 +1,137 @@
+{
+    "mal_id": 6025,
+    "url": "https://myanimelist.net/manga/6025/24-jikan_Kiss_Dekinai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/7715.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/7715t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/7715l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/7715.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/7715t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/7715l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "24-jikan Kiss Dekinai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Even if You are Not Here"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimi sae Inakereba"
+        },
+        {
+            "type": "Japanese",
+            "title": "24時間KISSできない"
+        },
+        {
+            "type": "English",
+            "title": "Cannot Kiss for 24hours"
+        }
+    ],
+    "title": "24-jikan Kiss Dekinai",
+    "title_english": "Cannot Kiss for 24hours",
+    "title_japanese": "24時間KISSできない",
+    "title_synonyms": [
+        "Even if You are Not Here",
+        "Kimi sae Inakereba"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-03-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 3,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 24, 2007"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 2029,
+    "rank": null,
+    "popularity": 5310,
+    "members": 4098,
+    "favorites": 7,
+    "synopsis": "A math teacher who has an intense relationship with the problem student, Kikusui Kiyoya. Even though they were a couple in love, one day, Sensei suddenly wants to break up...?\n\n(Source: MU)\n\nIncluded one-shot: Kimi sae Inakereba (If I Didn't Have You)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2647,
+            "type": "people",
+            "name": "Umezawa, Hana",
+            "url": "https://myanimelist.net/people/2647/Hana_Umezawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 126,
+            "type": "manga",
+            "name": "Magazine Be x Boy",
+            "url": "https://myanimelist.net/manga/magazine/126/Magazine_Be_x_Boy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 37435,
+                    "type": "manga",
+                    "name": "Kimi sae Inakereba",
+                    "url": "https://myanimelist.net/manga/37435/Kimi_sae_Inakereba"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,108 @@
+{
+    "mal_id": 10875,
+    "url": "https://myanimelist.net/manga/10875/Papa★I_Love_You",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/14643.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/14643t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/14643l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/14643.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/14643t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/14643l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Papa★I Love You"
+        },
+        {
+            "type": "Synonym",
+            "title": "True Love at Prep School!"
+        },
+        {
+            "type": "Japanese",
+            "title": "パパ★アイラブユー"
+        }
+    ],
+    "title": "Papa★I Love You",
+    "title_english": null,
+    "title_japanese": "パパ★アイラブユー",
+    "title_synonyms": [
+        "True Love at Prep School!"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-07-01T00:00:00+00:00",
+        "to": "2008-05-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 5,
+                "year": 2008
+            }
+        },
+        "string": "Jul 2007 to May 2008"
+    },
+    "score": 7.2,
+    "scored": 7.2,
+    "scored_by": 3501,
+    "rank": null,
+    "popularity": 3240,
+    "members": 6938,
+    "favorites": 28,
+    "synopsis": "The businessman Mayama Karou's life changes drastically when his two nephews show up on his doorstep. Keigo (16) and Akio (5) were abandoned by their father and driven out of their apartment. Despite the fact Kaoru has had no contact with their family, he's too kind-hearted to say no and takes them in. Soon the three of them start leading a warm, happy family life. However, Keigo suddenly kisses him one day. Was it a sign of family affection or something more?\n\n[Written by shinkeikaku]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2959,
+            "type": "people",
+            "name": "Mishima, Kazuhiko",
+            "url": "https://myanimelist.net/people/2959/Kazuhiko_Mishima"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 15492,
+                    "type": "manga",
+                    "name": "Baby★I Love You",
+                    "url": "https://myanimelist.net/manga/15492/Baby★I_Love_You"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

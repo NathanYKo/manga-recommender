@@ -1,0 +1,121 @@
+{
+    "mal_id": 149871,
+    "url": "https://myanimelist.net/manga/149871/Player",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/265799.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/265799t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/265799l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/265799.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/265799t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/265799l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Player"
+        },
+        {
+            "type": "Japanese",
+            "title": "플레이어"
+        }
+    ],
+    "title": "Player",
+    "title_english": null,
+    "title_japanese": "플레이어",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-05-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 5,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 7, 2020 to ?"
+    },
+    "score": 7.83,
+    "scored": 7.83,
+    "scored_by": 2905,
+    "rank": 1227,
+    "popularity": 2342,
+    "members": 9325,
+    "favorites": 156,
+    "synopsis": "Through posting a \"Best Comment,\" I somehow became the main character of a webtoon!\n\n(Source: Naver Corporation, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 60173,
+            "type": "people",
+            "name": "Park, Jongseok",
+            "url": "https://myanimelist.net/people/60173/Jongseok_Park"
+        },
+        {
+            "mal_id": 60174,
+            "type": "people",
+            "name": "Oh, Hyeonjun",
+            "url": "https://myanimelist.net/people/60174/Hyeonjun_Oh"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.naver.com/webtoon/list?titleId=745876"
+        }
+    ]
+}

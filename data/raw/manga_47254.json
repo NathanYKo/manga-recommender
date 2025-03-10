@@ -1,0 +1,123 @@
+{
+    "mal_id": 47254,
+    "url": "https://myanimelist.net/manga/47254/Aka_no_Haikyo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/127593.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/127593t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/127593l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/127593.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/127593t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/127593l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Aka no Haikyo"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Crimson Ruins"
+        },
+        {
+            "type": "Japanese",
+            "title": "赫の廃墟"
+        }
+    ],
+    "title": "Aka no Haikyo",
+    "title_english": null,
+    "title_japanese": "赫の廃墟",
+    "title_synonyms": [
+        "The Crimson Ruins"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-08-14T00:00:00+00:00",
+        "to": "2010-12-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 8,
+                "year": 2009
+            },
+            "to": {
+                "day": 10,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Aug 14, 2009 to Dec 10, 2010"
+    },
+    "score": 6.04,
+    "scored": 6.04,
+    "scored_by": 1012,
+    "rank": 19671,
+    "popularity": 8725,
+    "members": 2296,
+    "favorites": 2,
+    "synopsis": "Minato Yuzuriha suddenly lost her parents. Without a single relative, she must return to her father's birthplace, a village, where she can finish school. But she still can't recover from the sadness. And then, on a mountain road, she meets a boy in a garden of roses with an aroma as of blood.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6752,
+            "type": "people",
+            "name": "Ooki, Bonta",
+            "url": "https://myanimelist.net/people/6752/Bonta_Ooki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 559,
+            "type": "manga",
+            "name": "Comic B's-LOG Air Raid",
+            "url": "https://myanimelist.net/manga/magazine/559/Comic_B_039_s-LOG_Air_Raid"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

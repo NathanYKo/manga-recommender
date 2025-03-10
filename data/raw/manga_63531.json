@@ -1,0 +1,133 @@
+{
+    "mal_id": 63531,
+    "url": "https://myanimelist.net/manga/63531/Palace_Meidi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/195235.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/195235t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/195235l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/195235.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/195235t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/195235l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Palace Meidi"
+        },
+        {
+            "type": "Japanese",
+            "title": "パレス・メイヂ"
+        }
+    ],
+    "title": "Palace Meidi",
+    "title_english": null,
+    "title_japanese": "パレス・メイヂ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 28,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-01-20T00:00:00+00:00",
+        "to": "2017-04-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": 26,
+                "month": 4,
+                "year": 2017
+            }
+        },
+        "string": "Jan 20, 2012 to Apr 26, 2017"
+    },
+    "score": 7.52,
+    "scored": 7.52,
+    "scored_by": 955,
+    "rank": 2863,
+    "popularity": 8019,
+    "members": 2547,
+    "favorites": 30,
+    "synopsis": "In an alternate-universe Meiji era Japan, Misono Kimiyori, a fourteen-year-old boy from an impoverished noble family, begins to work in the Palace to alleviate his family's debts. There, he encounters the Girl Emperor, Akiko. This meeting is the start of an interesting new relationship.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 27813,
+            "type": "people",
+            "name": "Kuze, Banko",
+            "url": "https://myanimelist.net/people/27813/Banko_Kuze"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 176,
+            "type": "manga",
+            "name": "Bessatsu Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/176/Bessatsu_Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 162561,
+                    "type": "manga",
+                    "name": "Palace Meidi Bangai-hen: Heika no Protocol",
+                    "url": "https://myanimelist.net/manga/162561/Palace_Meidi_Bangai-hen__Heika_no_Protocol"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 151217,
+                    "type": "manga",
+                    "name": "Kin no Button Gin no Eri: Palace Meidi Sokubun",
+                    "url": "https://myanimelist.net/manga/151217/Kin_no_Button_Gin_no_Eri__Palace_Meidi_Sokubun"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AC%E3%82%B9%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%82"
+        }
+    ]
+}

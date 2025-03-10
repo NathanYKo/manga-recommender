@@ -1,0 +1,125 @@
+{
+    "mal_id": 156673,
+    "url": "https://myanimelist.net/manga/156673/Wolf-chan_wa_Sumashitai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/315268.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/315268t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/315268l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/315268.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/315268t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/315268l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Wolf-chan wa Sumashitai"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Wolf Girl is Trying to Feign Indifference"
+        },
+        {
+            "type": "Japanese",
+            "title": "ウルフちゃんは澄ましたい"
+        },
+        {
+            "type": "English",
+            "title": "Wolf-chan Wants to Be Clear"
+        }
+    ],
+    "title": "Wolf-chan wa Sumashitai",
+    "title_english": "Wolf-chan Wants to Be Clear",
+    "title_japanese": "ウルフちゃんは澄ましたい",
+    "title_synonyms": [
+        "The Wolf Girl is Trying to Feign Indifference"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2023-02-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 2,
+                "year": 2023
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 28, 2023 to ?"
+    },
+    "score": 7.18,
+    "scored": 7.18,
+    "scored_by": 1106,
+    "rank": 6328,
+    "popularity": 4652,
+    "members": 4751,
+    "favorites": 22,
+    "synopsis": "The story of a cool lone wolf and her unrequited crush.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 49491,
+            "type": "people",
+            "name": "Honno, Shiori",
+            "url": "https://myanimelist.net/people/49491/Shiori_Honno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1339,
+            "type": "manga",
+            "name": "Ganma!",
+            "url": "https://myanimelist.net/manga/magazine/1339/Ganma"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 75,
+            "type": "manga",
+            "name": "Love Status Quo",
+            "url": "https://myanimelist.net/manga/genre/75/Love_Status_Quo"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://ganma.jp/wolfchan"
+        }
+    ]
+}

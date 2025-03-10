@@ -1,0 +1,102 @@
+{
+    "mal_id": 143339,
+    "url": "https://myanimelist.net/manga/143339/Aekanaru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/254641.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/254641t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/254641l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/254641.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/254641t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/254641l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Aekanaru"
+        },
+        {
+            "type": "Japanese",
+            "title": "アエカナル"
+        }
+    ],
+    "title": "Aekanaru",
+    "title_english": null,
+    "title_japanese": "アエカナル",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 44,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-06-30T00:00:00+00:00",
+        "to": "2022-07-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 6,
+                "year": 2020
+            },
+            "to": {
+                "day": 30,
+                "month": 7,
+                "year": 2022
+            }
+        },
+        "string": "Jun 30, 2020 to Jul 30, 2022"
+    },
+    "score": 7.74,
+    "scored": 7.74,
+    "scored_by": 1308,
+    "rank": 1573,
+    "popularity": 6573,
+    "members": 3233,
+    "favorites": 47,
+    "synopsis": "The manga's story centers on Sadai, a person who heads into the mountains with the intent of taking his own life, but instead encounters a mysterious gentle girl.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3497,
+            "type": "people",
+            "name": "Sasakura, Ayato",
+            "url": "https://myanimelist.net/people/3497/Ayato_Sasakura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1157,
+            "type": "manga",
+            "name": "Dengeki G's Comic",
+            "url": "https://myanimelist.net/manga/magazine/1157/Dengeki_G_039_s_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-walker.com/contents/detail/KDCW_AM09201754010000_68/"
+        }
+    ]
+}

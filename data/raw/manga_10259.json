@@ -1,0 +1,133 @@
+{
+    "mal_id": 10259,
+    "url": "https://myanimelist.net/manga/10259/Fantasista",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/163618.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/163618t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/163618l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/163618.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/163618t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/163618l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fantasista"
+        },
+        {
+            "type": "Japanese",
+            "title": "ファンタジスタ"
+        }
+    ],
+    "title": "Fantasista",
+    "title_english": null,
+    "title_japanese": "ファンタジスタ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 223,
+    "volumes": 25,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-07-28T00:00:00+00:00",
+        "to": "2004-03-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 7,
+                "year": 1999
+            },
+            "to": {
+                "day": 3,
+                "month": 3,
+                "year": 2004
+            }
+        },
+        "string": "Jul 28, 1999 to Mar 3, 2004"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 1285,
+    "rank": 2446,
+    "popularity": 6664,
+    "members": 3178,
+    "favorites": 32,
+    "synopsis": "Teppei Sakamoto is a boy at the country-side. He was a soccer lover and all his soccer skills are taught by his sister. Finally his sister wants him to join in Mizumoto High School Soccer team. Teppei's life turn has come!! How will this soccer newbie fare in the new environment?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6092,
+            "type": "people",
+            "name": "Kusaba, Michiteru",
+            "url": "https://myanimelist.net/people/6092/Michiteru_Kusaba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 72121,
+                    "type": "manga",
+                    "name": "Fantasista Stella",
+                    "url": "https://myanimelist.net/manga/72121/Fantasista_Stella"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 52622,
+                    "type": "anime",
+                    "name": "Shounen Sunday CM: Fantasista",
+                    "url": "https://myanimelist.net/anime/52622/Shounen_Sunday_CM__Fantasista"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%B9%E3%82%BF_(%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

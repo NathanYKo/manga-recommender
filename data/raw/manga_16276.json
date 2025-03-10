@@ -1,0 +1,143 @@
+{
+    "mal_id": 16276,
+    "url": "https://myanimelist.net/manga/16276/J_no_Subete",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/72231.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/72231t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/72231l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/72231.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/72231t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/72231l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "J no Subete"
+        },
+        {
+            "type": "Synonym",
+            "title": "J's Story"
+        },
+        {
+            "type": "Japanese",
+            "title": "Jの総て"
+        },
+        {
+            "type": "English",
+            "title": "All about J"
+        }
+    ],
+    "title": "J no Subete",
+    "title_english": "All about J",
+    "title_japanese": "Jの総て",
+    "title_synonyms": [
+        "J's Story"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-01-01T00:00:00+00:00",
+        "to": "2006-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            }
+        },
+        "string": "2004 to 2006"
+    },
+    "score": 8.07,
+    "scored": 8.07,
+    "scored_by": 2569,
+    "rank": null,
+    "popularity": 3252,
+    "members": 6916,
+    "favorites": 237,
+    "synopsis": "The story of J, a beautiful teenager with a twisted past and the face of Marilyn Monroe.",
+    "background": "J no Subete has been licensed in Spanish by Milky Way Ediciones.",
+    "authors": [
+        {
+            "mal_id": 5583,
+            "type": "people",
+            "name": "Nakamura, Asumiko",
+            "url": "https://myanimelist.net/people/5583/Asumiko_Nakamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 408,
+            "type": "manga",
+            "name": "Manga Erotics F",
+            "url": "https://myanimelist.net/manga/magazine/408/Manga_Erotics_F"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 44,
+            "type": "manga",
+            "name": "Crossdressing",
+            "url": "https://myanimelist.net/manga/genre/44/Crossdressing"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 13759,
+                    "type": "manga",
+                    "name": "Barairo no Hoho no Koro",
+                    "url": "https://myanimelist.net/manga/13759/Barairo_no_Hoho_no_Koro"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/J%E3%81%AE%E7%B7%8F%E3%81%A6"
+        }
+    ]
+}

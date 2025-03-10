@@ -1,0 +1,161 @@
+{
+    "mal_id": 2694,
+    "url": "https://myanimelist.net/manga/2694/Blue_Drop__Tenshi_no_Bokura",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/54123.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/54123t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/54123l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/54123.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/54123t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/54123l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Blue Drop: Tenshi no Bokura"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blue Drop: Our Angel"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blue Drop: Tenshi no Itazura"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブルー ドロップ～天使の僕ら～"
+        }
+    ],
+    "title": "Blue Drop: Tenshi no Bokura",
+    "title_english": null,
+    "title_japanese": "ブルー ドロップ～天使の僕ら～",
+    "title_synonyms": [
+        "Blue Drop: Our Angel",
+        "Blue Drop: Tenshi no Itazura"
+    ],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-02-19T00:00:00+00:00",
+        "to": "2008-01-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 2,
+                "year": 2007
+            },
+            "to": {
+                "day": 19,
+                "month": 1,
+                "year": 2008
+            }
+        },
+        "string": "Feb 19, 2007 to Jan 19, 2008"
+    },
+    "score": 6.26,
+    "scored": 6.26,
+    "scored_by": 1288,
+    "rank": null,
+    "popularity": 7769,
+    "members": 2650,
+    "favorites": 5,
+    "synopsis": "Blue Drop: Tenshi no Bokura's main protagonist is Shouta, a regular high-school student. At the beginning of the story, Shōta is met by a girl who asks him to have sex with her. Not much time passes until Shouta finds out this girl is actually Kenzou, his former-male best friend, who has been transgendered by the Arume and commanded to get pregnant.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2054,
+            "type": "people",
+            "name": "Yoshitomi, Akihito",
+            "url": "https://myanimelist.net/people/2054/Akihito_Yoshitomi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 186,
+            "type": "manga",
+            "name": "Champion RED",
+            "url": "https://myanimelist.net/manga/magazine/186/Champion_RED"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1324,
+                    "type": "manga",
+                    "name": "Blue Drop",
+                    "url": "https://myanimelist.net/manga/1324/Blue_Drop"
+                },
+                {
+                    "mal_id": 6896,
+                    "type": "manga",
+                    "name": "Blue Drop: Maiorita Tenshi",
+                    "url": "https://myanimelist.net/manga/6896/Blue_Drop__Maiorita_Tenshi"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 16344,
+                    "type": "manga",
+                    "name": "Blue Drop: Tenshi no Itazura",
+                    "url": "https://myanimelist.net/manga/16344/Blue_Drop__Tenshi_no_Itazura"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Blue_Drop"
+        }
+    ]
+}

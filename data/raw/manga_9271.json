@@ -1,0 +1,140 @@
+{
+    "mal_id": 9271,
+    "url": "https://myanimelist.net/manga/9271/Rurouni_Kenshin__Haru_ni_Sakura",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/15811.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/15811t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/15811l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/15811.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/15811t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/15811l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rurouni Kenshin: Haru ni Sakura"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rurouni Kenshin: Cherry Blossoms in the Spring"
+        },
+        {
+            "type": "Japanese",
+            "title": "るろうに剣心 春に桜"
+        }
+    ],
+    "title": "Rurouni Kenshin: Haru ni Sakura",
+    "title_english": null,
+    "title_japanese": "るろうに剣心 春に桜",
+    "title_synonyms": [
+        "Rurouni Kenshin: Cherry Blossoms in the Spring"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-12-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 1999"
+    },
+    "score": 7.43,
+    "scored": 7.43,
+    "scored_by": 2914,
+    "rank": 3564,
+    "popularity": 4158,
+    "members": 5422,
+    "favorites": 36,
+    "synopsis": "The \"Kenshin Kaden\" basically refers to the last extra chapter (comes after the end of the manga and after Yahiko no Sakabatou) of Rurouni Kenshin entitled \"Cherry Blossoms in the Spring Time.\"\n\nIt was published in the Kenshin Kaden Artbook.\n\n(Source: The-OrO.com)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1890,
+            "type": "people",
+            "name": "Watsuki, Nobuhiro",
+            "url": "https://myanimelist.net/people/1890/Nobuhiro_Watsuki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Samurai",
+            "url": "https://myanimelist.net/manga/genre/21/Samurai"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+                    "url": "https://myanimelist.net/manga/22/Rurouni_Kenshin__Meiji_Kenkaku_Romantan"
+                },
+                {
+                    "mal_id": 2333,
+                    "type": "manga",
+                    "name": "Rurouni Kenshin: Yahiko no Sakabatou",
+                    "url": "https://myanimelist.net/manga/2333/Rurouni_Kenshin__Yahiko_no_Sakabatou"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

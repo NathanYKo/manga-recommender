@@ -1,0 +1,177 @@
+{
+    "mal_id": 4218,
+    "url": "https://myanimelist.net/manga/4218/Megami_Ibunroku__Persona",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/258997.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/258997t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/258997l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/258997.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/258997t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/258997l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Megami Ibunroku: Persona"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shin Megami Tensei: Persona"
+        },
+        {
+            "type": "Synonym",
+            "title": "Megami Inbun Roku Persona"
+        },
+        {
+            "type": "Synonym",
+            "title": "Persona: Be Your True Mind"
+        },
+        {
+            "type": "Japanese",
+            "title": "女神異聞録 ～ペルソナ～"
+        }
+    ],
+    "title": "Megami Ibunroku: Persona",
+    "title_english": null,
+    "title_japanese": "女神異聞録 ～ペルソナ～",
+    "title_synonyms": [
+        "Shin Megami Tensei: Persona",
+        "Megami Inbun Roku Persona",
+        "Persona: Be Your True Mind"
+    ],
+    "type": "Manga",
+    "chapters": 45,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-10-18T00:00:00+00:00",
+        "to": "2000-02-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 10,
+                "year": 1996
+            },
+            "to": {
+                "day": 18,
+                "month": 2,
+                "year": 2000
+            }
+        },
+        "string": "Oct 18, 1996 to Feb 18, 2000"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 1449,
+    "rank": 3923,
+    "popularity": 4800,
+    "members": 4583,
+    "favorites": 108,
+    "synopsis": "When Naoya Toudou is goaded into playing a childish fortune-telling game called \"Persona,\" the last thing he expected was to summon a girl pleading for help. The girl's wails overwhelm Naoya's senses, leading him to awaken in a strange place that exists between consciousness and unconsciousness where a mysterious entity resides. Introducing themselves as Philemon, they grant him the ability to wield a \"Persona\"—a being that exists as an \"other self\"—before he wakes up in the school's infirmary.\n\nThough Naoya's friends also recall meeting the same entity, they think nothing of it as they head to the hospital to see their sick friend, Maki Sonomura. During their visit, Sonomura disappears in the middle of her surgery and the patients within the hospital suddenly become hostile. Cornered, the group members each call forth their Personas, who fend off the rest of the assailants much to their surprise.\n\nConcerned for their friend, the group sets out to find Sonomura all while gathering more information about the ominous situation they are in.\n\n[Written by MAL Rewrite]",
+    "background": "Megami Ibunroku: Persona is based on Atlus' 1996 Playstation video game of the same title (known as Revelations: Persona in the West).",
+    "authors": [
+        {
+            "mal_id": 3184,
+            "type": "people",
+            "name": "Ueda, Shinshu",
+            "url": "https://myanimelist.net/people/3184/Shinshu_Ueda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "GFantasy",
+            "url": "https://myanimelist.net/manga/magazine/35/GFantasy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 73181,
+                    "type": "manga",
+                    "name": "Megami Ibunroku Persona: Shadow Maze",
+                    "url": "https://myanimelist.net/manga/73181/Megami_Ibunroku_Persona__Shadow_Maze"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 4574,
+                    "type": "manga",
+                    "name": "Persona: Tsumi to Batsu",
+                    "url": "https://myanimelist.net/manga/4574/Persona__Tsumi_to_Batsu"
+                },
+                {
+                    "mal_id": 2566,
+                    "type": "manga",
+                    "name": "Persona 3",
+                    "url": "https://myanimelist.net/manga/2566/Persona_3"
+                },
+                {
+                    "mal_id": 10580,
+                    "type": "manga",
+                    "name": "Persona 4",
+                    "url": "https://myanimelist.net/manga/10580/Persona_4"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 87245,
+                    "type": "manga",
+                    "name": "Super Comic Gekijou: Megami Ibunroku Persona",
+                    "url": "https://myanimelist.net/manga/87245/Super_Comic_Gekijou__Megami_Ibunroku_Persona"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%B2%E3%83%9A%E3%83%AB%E3%82%BD%E3%83%8A"
+        }
+    ]
+}

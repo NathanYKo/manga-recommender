@@ -1,0 +1,166 @@
+{
+    "mal_id": 43913,
+    "url": "https://myanimelist.net/manga/43913/Feng_Shen_Ji",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/177765.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/177765t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/177765l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/177765.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/177765t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/177765l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Feng Shen Ji"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Legend and the Hero"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chronicles of the God's Order"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Legend and the Hero"
+        },
+        {
+            "type": "Japanese",
+            "title": "封神記"
+        }
+    ],
+    "title": "Feng Shen Ji",
+    "title_english": null,
+    "title_japanese": "封神記",
+    "title_synonyms": [
+        "The Legend and the Hero",
+        "Chronicles of the God's Order",
+        "The Legend and the Hero"
+    ],
+    "type": "Manhua",
+    "chapters": 38,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-01-01T00:00:00+00:00",
+        "to": "2011-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            }
+        },
+        "string": "2010 to 2011"
+    },
+    "score": 8.16,
+    "scored": 8.16,
+    "scored_by": 9983,
+    "rank": 490,
+    "popularity": 692,
+    "members": 27563,
+    "favorites": 565,
+    "synopsis": "A messenger of the Heavens has arrived in Zhao Ge, which has been ruled by the Shang dynasty for generations. The current emperor, Zi Zhou, refuses to bow his head before the gods, and declares to the messenger that he will no longer accept the tyranny of the Heavens. The gods do not take this kindly; and soon, the emperor of a neighboring land, Wu Jifa, leads a crusade against the rebelling Shang.\n\nDuring the battle, the Shang forces are vastly overwhelmed, and just when the capital is inches away from being taken, Zhou joins the fight. Although he breaks through the enemy ranks and makes his way toward Jifa, out of nowhere a god falls from the sky, landing right before him, prepared to personally deal with the troublemaker.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 13385,
+            "type": "people",
+            "name": "Deng, Zhi Hui",
+            "url": "https://myanimelist.net/people/13385/Zhi_Hui_Deng"
+        },
+        {
+            "mal_id": 19235,
+            "type": "people",
+            "name": "Zheng, Jian He",
+            "url": "https://myanimelist.net/people/19235/Jian_He_Zheng"
+        },
+        {
+            "mal_id": 19237,
+            "type": "people",
+            "name": "Cheng, Kin Wo",
+            "url": "https://myanimelist.net/people/19237/Kin_Wo_Cheng"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 43915,
+                    "type": "manga",
+                    "name": "Feng Shen Ji II",
+                    "url": "https://myanimelist.net/manga/43915/Feng_Shen_Ji_II"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 33758,
+                    "type": "anime",
+                    "name": "Wu Geng Ji",
+                    "url": "https://myanimelist.net/anime/33758/Wu_Geng_Ji"
+                },
+                {
+                    "mal_id": 36910,
+                    "type": "anime",
+                    "name": "Wu Geng Ji Zhi Tianqi",
+                    "url": "https://myanimelist.net/anime/36910/Wu_Geng_Ji_Zhi_Tianqi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

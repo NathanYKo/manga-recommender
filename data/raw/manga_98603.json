@@ -1,0 +1,125 @@
+{
+    "mal_id": 98603,
+    "url": "https://myanimelist.net/manga/98603/Ningyou_no_Kuni",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/178594.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/178594t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/178594l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/178594.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/178594t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/178594l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ningyou no Kuni"
+        },
+        {
+            "type": "Synonym",
+            "title": "Country of the Dolls"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bullet Project"
+        },
+        {
+            "type": "Japanese",
+            "title": "人形の国"
+        },
+        {
+            "type": "English",
+            "title": "Aposimz Prologue"
+        }
+    ],
+    "title": "Ningyou no Kuni",
+    "title_english": "Aposimz Prologue",
+    "title_japanese": "人形の国",
+    "title_synonyms": [
+        "Country of the Dolls",
+        "Bullet Project"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-05-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 5,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 9, 2016"
+    },
+    "score": 6.55,
+    "scored": 6.55,
+    "scored_by": 1557,
+    "rank": 15959,
+    "popularity": 5994,
+    "members": 3589,
+    "favorites": 4,
+    "synopsis": "Set on a frozen planet littered with alien artifacts, Ningyou no Kuni weaves a tale of a young man and small but fateful encounter.\n\n(Source: Crunchyroll)",
+    "background": "Ningyou no Kuni was the 15th one-shot in Young Magazine's 35th anniversary \"BULLET\" project. The one-shot was published in English as Aposimz Prologue digitally by Kodansha USA.",
+    "authors": [
+        {
+            "mal_id": 2000,
+            "type": "people",
+            "name": "Nihei, Tsutomu",
+            "url": "https://myanimelist.net/people/2000/Tsutomu_Nihei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 102785,
+                    "type": "manga",
+                    "name": "Ningyou no Kuni",
+                    "url": "https://myanimelist.net/manga/102785/Ningyou_no_Kuni"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

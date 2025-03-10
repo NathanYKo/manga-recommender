@@ -1,0 +1,116 @@
+{
+    "mal_id": 9057,
+    "url": "https://myanimelist.net/manga/9057/Shoujo_Tsubaki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/176724.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/176724t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/176724l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/176724.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/176724t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/176724l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shoujo Tsubaki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Midori"
+        },
+        {
+            "type": "Synonym",
+            "title": "Camelia Girl"
+        },
+        {
+            "type": "Japanese",
+            "title": "少女椿"
+        },
+        {
+            "type": "English",
+            "title": "Mr. Arashi's Amazing Freak Show"
+        }
+    ],
+    "title": "Shoujo Tsubaki",
+    "title_english": "Mr. Arashi's Amazing Freak Show",
+    "title_japanese": "少女椿",
+    "title_synonyms": [
+        "Midori",
+        "Camelia Girl"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1984-09-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 9,
+                "year": 1984
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 13, 1984"
+    },
+    "score": 5.91,
+    "scored": 5.91,
+    "scored_by": 5651,
+    "rank": 19941,
+    "popularity": 1601,
+    "members": 13494,
+    "favorites": 197,
+    "synopsis": "The series is about an orphan girl named Midori, whom is taken in (enslaved) by a traveling freak show. The freak show includes such unsavory characters as a mummyman, a snake woman, and a drooling man with no limbs. The owner of the freak show, the eponymous Mr. Arashi, is a strict man who allows his freaks very little freedom or joy in life. He is especially cruel to Midori. Midori works, not as a freak since she is normal, but as a sort of caretaker of the freaks.\n\n(Source: everything2)",
+    "background": "Shoujo Tsubaki was published in English as Mr. Arashi's Amazing Freak Show by Blast Books on January 14, 1993. The manga was adapted into a Japanese live-action film directed by TORICO that was screened on May 21, 2016.",
+    "authors": [
+        {
+            "mal_id": 2764,
+            "type": "people",
+            "name": "Maruo, Suehiro",
+            "url": "https://myanimelist.net/people/2764/Suehiro_Maruo"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2981,
+                    "type": "anime",
+                    "name": "Chika Gentou Gekiga: Shoujo Tsubaki",
+                    "url": "https://myanimelist.net/anime/2981/Chika_Gentou_Gekiga__Shoujo_Tsubaki"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%B0%91%E5%A5%B3%E6%A4%BF"
+        }
+    ]
+}

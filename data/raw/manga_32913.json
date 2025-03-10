@@ -1,0 +1,172 @@
+{
+    "mal_id": 32913,
+    "url": "https://myanimelist.net/manga/32913/Ultraman",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/149472.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/149472t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/149472l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/149472.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/149472t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/149472l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ultraman"
+        },
+        {
+            "type": "Japanese",
+            "title": "ULTRAMAN"
+        }
+    ],
+    "title": "Ultraman",
+    "title_english": null,
+    "title_japanese": "ULTRAMAN",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2011-11-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 11,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 1, 2011 to ?"
+    },
+    "score": 7.16,
+    "scored": 7.16,
+    "scored_by": 1460,
+    "rank": 6623,
+    "popularity": 3827,
+    "members": 5869,
+    "favorites": 95,
+    "synopsis": "Shinjirou is an ordinary teenager, but his father is the legendary Shin Hayata. When he learns that his father passed on the \"Ultraman Factor\" to him and that he possesses incredible powers, nothing will ever be the same again.\n\n(Source: VIZ Media)",
+    "background": "Ultraman has been published in English by VIZ Media under the VIZ Signature imprint since August 18, 2015 and it has also been simulpub through VIZ Manga. The series has been published in Brazil by Jbc since September 2015.",
+    "authors": [
+        {
+            "mal_id": 6632,
+            "type": "people",
+            "name": "Shimizu, Eiichi",
+            "url": "https://myanimelist.net/people/6632/Eiichi_Shimizu"
+        },
+        {
+            "mal_id": 7634,
+            "type": "people",
+            "name": "Shimoguchi, Tomohiro",
+            "url": "https://myanimelist.net/people/7634/Tomohiro_Shimoguchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 881,
+            "type": "manga",
+            "name": "Monthly Hero's",
+            "url": "https://myanimelist.net/manga/magazine/881/Monthly_Hero_039_s"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 36871,
+                    "type": "anime",
+                    "name": "Ultraman",
+                    "url": "https://myanimelist.net/anime/36871/Ultraman"
+                },
+                {
+                    "mal_id": 39935,
+                    "type": "anime",
+                    "name": "Ultraman Season 2",
+                    "url": "https://myanimelist.net/anime/39935/Ultraman_Season_2"
+                },
+                {
+                    "mal_id": 51653,
+                    "type": "anime",
+                    "name": "Ultraman Final",
+                    "url": "https://myanimelist.net/anime/51653/Ultraman_Final"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 141885,
+                    "type": "manga",
+                    "name": "Darkness Heels: Lili",
+                    "url": "https://myanimelist.net/manga/141885/Darkness_Heels__Lili"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 133638,
+                    "type": "manga",
+                    "name": "Ulmatsu-san",
+                    "url": "https://myanimelist.net/manga/133638/Ulmatsu-san"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://heros-ultraman.com/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/ULTRAMAN_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

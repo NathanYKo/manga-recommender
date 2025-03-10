@@ -1,0 +1,106 @@
+<!-- templates/index.html -->
+{% extends "base.html" %}
+
+{% block title %}Manga Recommender - Home{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <div class="jumbotron bg-light p-5 rounded mb-4">
+        <h1 class="display-4">Welcome to Manga Recommender!</h1>
+        <p class="lead">Discover new manga titles based on your preferences and what you already love.</p>
+        <hr class="my-4">
+        <p>Search for your favorite manga or browse our recommendations to find your next obsession.</p>
+        <a class="btn btn-primary btn-lg" href="{{ url_for('search') }}" role="button">Start Exploring</a>
+    </div>
+
+    {% if not session.get('user_id') %}
+    <div class="alert alert-info p-4 mb-4 shadow-sm">
+        <div class="row align-items-center">
+            <div class="col-md-8">
+                <h4><i class="fas fa-user-plus me-2"></i>Get Personalized Recommendations!</h4>
+                <p class="mb-md-0">Create an account to rate manga, build your reading list, and receive tailored recommendations based on your taste.</p>
+            </div>
+            <div class="col-md-4 text-md-end mt-3 mt-md-0">
+                <a href="{{ url_for('register') }}" class="btn btn-success me-2">Sign Up Now</a>
+                <a href="{{ url_for('login') }}" class="btn btn-outline-secondary">Login</a>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    {% if personalized_recs %}
+    <div class="mb-4">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+            <h2>Recommended for You</h2>
+            <a href="{{ url_for('recommend_manga') }}" class="btn btn-outline-primary">More Recommendations</a>
+        </div>
+        <p class="text-muted">Personalized picks based on your ratings and interests.</p>
+        <div class="row row-cols-1 row-cols-md-3 row-cols-lg-6 g-4 mb-5">
+            {% for manga in personalized_recs %}
+            <div class="col">
+                <div class="card h-100">
+                    <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}">
+                        <img src="{{ manga.image_url }}" class="card-img-top" alt="{{ manga.title }}" onerror="this.onerror=null; this.src='/static/img/no-cover.jpg'">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="text-decoration-none text-dark">{{ manga.title }}</a></h5>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <span class="badge bg-primary">Score: {% if manga.score is not none %}{{ manga.score|round(1) }}{% else %}N/A{% endif %}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+    <div class="mb-4">
+        <h2 class="mb-3">Popular Manga</h2>
+        <p class="text-muted">Highly rated titles that manga readers love.</p>
+        <div class="row row-cols-1 row-cols-md-3 row-cols-lg-6 g-4">
+            {% for manga in popular_manga %}
+            <div class="col">
+                <div class="card h-100">
+                    <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}">
+                        <img src="{{ manga.image_url }}" class="card-img-top" alt="{{ manga.title }}" onerror="this.onerror=null; this.src='/static/img/no-cover.jpg'">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="text-decoration-none text-dark">{{ manga.title }}</a></h5>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <span class="badge bg-primary">Score: {% if manga.score is not none %}{{ manga.score|round(1) }}{% else %}N/A{% endif %}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <div class="card shadow-sm h-100">
+                <div class="card-header bg-primary text-white">
+                    <h3 class="mb-0">Discover Top Manga</h3>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Browse our list of the highest-rated manga titles, ranked by user scores.</p>
+                    <a href="{{ url_for('top_manga') }}" class="btn btn-primary">Browse Top Manga</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <div class="card shadow-sm h-100">
+                <div class="card-header bg-primary text-white">
+                    <h3 class="mb-0">Need Help Finding Manga?</h3>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Use our recommendation tool to find manga similar to ones you already enjoy!</p>
+                    <a href="{{ url_for('recommend_manga') }}" class="btn btn-primary">Get Recommendations</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,113 @@
+{
+    "mal_id": 12549,
+    "url": "https://myanimelist.net/manga/12549/Fourteen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/34143.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/34143t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/34143l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/34143.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/34143t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/34143l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fourteen"
+        },
+        {
+            "type": "Synonym",
+            "title": "14 Sai"
+        },
+        {
+            "type": "Synonym",
+            "title": "14 Years Old"
+        },
+        {
+            "type": "Japanese",
+            "title": "14 歳"
+        }
+    ],
+    "title": "Fourteen",
+    "title_english": null,
+    "title_japanese": "14 歳",
+    "title_synonyms": [
+        "14 Sai",
+        "14 Years Old"
+    ],
+    "type": "Manga",
+    "chapters": 260,
+    "volumes": 20,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1990-01-01T00:00:00+00:00",
+        "to": "1995-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1990
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1995
+            }
+        },
+        "string": "1990 to 1995"
+    },
+    "score": 6.91,
+    "scored": 6.91,
+    "scored_by": 1621,
+    "rank": 10397,
+    "popularity": 2916,
+    "members": 7693,
+    "favorites": 108,
+    "synopsis": "A SF/horror manga that takes place in 2200. At a chicken manufacturing company, a certain chicken transforms into a supermutant named Chicken George. And so, a nightmarish journey through a twisted version of the future unfolds.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2777,
+            "type": "people",
+            "name": "Umezu, Kazuo",
+            "url": "https://myanimelist.net/people/2777/Kazuo_Umezu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/14%E6%AD%B3_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

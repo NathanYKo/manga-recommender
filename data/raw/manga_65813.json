@@ -1,0 +1,97 @@
+{
+    "mal_id": 65813,
+    "url": "https://myanimelist.net/manga/65813/Suicide_Parabellum",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/173039.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/173039t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/173039l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/173039.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/173039t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/173039l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Suicide Parabellum"
+        },
+        {
+            "type": "Japanese",
+            "title": "スーサイド・パラベラム"
+        }
+    ],
+    "title": "Suicide Parabellum",
+    "title_english": null,
+    "title_japanese": "スーサイド・パラベラム",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-04-03T00:00:00+00:00",
+        "to": "2016-12-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 8,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Apr 3, 2013 to Dec 8, 2016"
+    },
+    "score": 7.22,
+    "scored": 7.22,
+    "scored_by": 1049,
+    "rank": 5803,
+    "popularity": 8251,
+    "members": 2465,
+    "favorites": 28,
+    "synopsis": "From the creator of Voynich Hotel, the plot involves the main character chasing down a mysterious girl through various levels.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 12266,
+            "type": "people",
+            "name": "Dowman, Sayman",
+            "url": "https://myanimelist.net/people/12266/Sayman_Dowman"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 498,
+            "type": "manga",
+            "name": "Mephisto",
+            "url": "https://myanimelist.net/manga/magazine/498/Mephisto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

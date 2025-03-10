@@ -1,0 +1,108 @@
+{
+    "mal_id": 2584,
+    "url": "https://myanimelist.net/manga/2584/Mamacolle",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/19669.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/19669t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/19669l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/19669.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/19669t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/19669l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mamacolle"
+        },
+        {
+            "type": "Japanese",
+            "title": "ママコレ"
+        },
+        {
+            "type": "English",
+            "title": "Mamacolle"
+        }
+    ],
+    "title": "Mamacolle",
+    "title_english": "Mamacolle",
+    "title_japanese": "ママコレ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 18,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": "2008-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            }
+        },
+        "string": "2005 to 2008"
+    },
+    "score": 7.23,
+    "scored": 7.23,
+    "scored_by": 1370,
+    "rank": 5727,
+    "popularity": 7081,
+    "members": 2966,
+    "favorites": 23,
+    "synopsis": "There's a new pet that has been found! It's called a baby, and Asahina Tamae is the only one in her class that doesn't have one. She finds three babies one day that seem to be special. They can do things that other babies can't! But before Tamae can keep them--she has to prove herself to her mother. Out of all her siblings, she gets the worst test scores, and the last thing she needs is another distraction.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2312,
+            "type": "people",
+            "name": "Tooyama, Ema",
+            "url": "https://myanimelist.net/people/2312/Ema_Tooyama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Nakayoshi",
+            "url": "https://myanimelist.net/manga/magazine/20/Nakayoshi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

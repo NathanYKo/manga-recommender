@@ -1,0 +1,144 @@
+{
+    "mal_id": 158849,
+    "url": "https://myanimelist.net/manga/158849/Nue_no_Onmyouji",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/289660.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/289660t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/289660l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/289660.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/289660t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/289660l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nue no Onmyouji"
+        },
+        {
+            "type": "Japanese",
+            "title": "鵺の陰陽師"
+        },
+        {
+            "type": "English",
+            "title": "Nue's Exorcist"
+        }
+    ],
+    "title": "Nue no Onmyouji",
+    "title_english": "Nue's Exorcist",
+    "title_japanese": "鵺の陰陽師",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2023-05-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 5,
+                "year": 2023
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 15, 2023 to ?"
+    },
+    "score": 5.91,
+    "scored": 5.91,
+    "scored_by": 1670,
+    "rank": 19956,
+    "popularity": 4262,
+    "members": 5247,
+    "favorites": 28,
+    "synopsis": "Yajima has been able to see spirits since he was small. At his new school is a room that nobody else can see. And inside is a spirit who loves playing video games. A new modern exorcist saga now begins!\n\n(Source: MANGA Plus)",
+    "background": "Nue no Onmyouji has been published digitally as an English simulpub as Nue's Exorcist through MANGA Plus. The volumes have been published by VIZ Media under the Shonen Jump imprint since June 25, 2024.",
+    "authors": [
+        {
+            "mal_id": 54916,
+            "type": "people",
+            "name": "Kawae, Kouta",
+            "url": "https://myanimelist.net/people/54916/Kouta_Kawae"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 149819,
+                    "type": "manga",
+                    "name": "Nuenchi",
+                    "url": "https://myanimelist.net/manga/149819/Nuenchi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.shonenjump.com/j/rensai/nueno.html"
+        },
+        {
+            "name": "@NueNo_official",
+            "url": "https://twitter.com/NueNo_official"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nue%27s_Exorcist"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/鵺の陰陽師"
+        }
+    ]
+}

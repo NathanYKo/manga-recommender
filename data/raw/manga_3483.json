@@ -1,0 +1,114 @@
+{
+    "mal_id": 3483,
+    "url": "https://myanimelist.net/manga/3483/Sangokushi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/270688.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/270688t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/270688l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/270688.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/270688t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/270688l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sangokushi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Romance of the Three Kingdoms"
+        },
+        {
+            "type": "Japanese",
+            "title": "三国志"
+        }
+    ],
+    "title": "Sangokushi",
+    "title_english": null,
+    "title_japanese": "三国志",
+    "title_synonyms": [
+        "Romance of the Three Kingdoms"
+    ],
+    "type": "Manga",
+    "chapters": 438,
+    "volumes": 60,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1971-01-01T00:00:00+00:00",
+        "to": "1986-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1971
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1986
+            }
+        },
+        "string": "1971 to 1986"
+    },
+    "score": 7.74,
+    "scored": 7.74,
+    "scored_by": 630,
+    "rank": 1573,
+    "popularity": 6566,
+    "members": 3238,
+    "favorites": 66,
+    "synopsis": "Romance of the Three Kingdoms, written by Luo Guanzhong in the 14th century, is a Chinese historical novel based upon events in the turbulent years near the end of the Han Dynasty and the Three Kingdoms era, starting in 168 AD and ending with the reunification of the land in 280 AD.\n\nYokoyama Mitsuteru's adaption begins from the decline of the Han Dynasty until the fall of Shu-Han.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3679,
+            "type": "people",
+            "name": "Yokoyama, Mitsuteru",
+            "url": "https://myanimelist.net/people/3679/Mitsuteru_Yokoyama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 520,
+            "type": "manga",
+            "name": "Comic Tom (Monthly)",
+            "url": "https://myanimelist.net/manga/magazine/520/Comic_Tom_Monthly"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 970,
+                    "type": "anime",
+                    "name": "Yokoyama Mitsuteru Sangokushi",
+                    "url": "https://myanimelist.net/anime/970/Yokoyama_Mitsuteru_Sangokushi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E5%BF%97_(%E6%A8%AA%E5%B1%B1%E5%85%89%E8%BC%9D%E3%81%AE%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

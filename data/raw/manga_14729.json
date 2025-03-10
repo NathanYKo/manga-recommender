@@ -1,0 +1,161 @@
+{
+    "mal_id": 14729,
+    "url": "https://myanimelist.net/manga/14729/Coppelion",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/167792.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/167792t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/167792l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/167792.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/167792t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/167792l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Coppelion"
+        },
+        {
+            "type": "Japanese",
+            "title": "COPPELION"
+        },
+        {
+            "type": "English",
+            "title": "Coppelion"
+        }
+    ],
+    "title": "Coppelion",
+    "title_english": "Coppelion",
+    "title_japanese": "COPPELION",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 226,
+    "volumes": 26,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-06-09T00:00:00+00:00",
+        "to": "2016-02-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 6,
+                "year": 2008
+            },
+            "to": {
+                "day": 20,
+                "month": 2,
+                "year": 2016
+            }
+        },
+        "string": "Jun 9, 2008 to Feb 20, 2016"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 2217,
+    "rank": 3919,
+    "popularity": 2198,
+    "members": 9821,
+    "favorites": 155,
+    "synopsis": "In 2016, a meltdown of a nuclear power plant creates a big catastrophe in Tokyo. 20 years later, the city has become a ghost town due to the high levels of radiation. From that area, a distress signal is received. The Self-Defense Forces dispatch three girls from the special unit \"Coppelion\" to search for survivors. But why aren't they wearing any protection against radiation?\n\n(Source: MU)",
+    "background": "Coppelion was digitally published in English by Kodansha Comics USA from December 1, 2015 to December 8, 2016. Crunchyroll digitally simulpublished the series from chapter 193 () onwards. Their simulpub however numbered chapter 193 as the 200th, leading to an incorrect total chapter count of 233.",
+    "authors": [
+        {
+            "mal_id": 11068,
+            "type": "people",
+            "name": "Inoue, Tomonori",
+            "url": "https://myanimelist.net/people/11068/Tomonori_Inoue"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 80243,
+                    "type": "manga",
+                    "name": "Coppelion Site Story",
+                    "url": "https://myanimelist.net/manga/80243/Coppelion_Site_Story"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9479,
+                    "type": "anime",
+                    "name": "Coppelion",
+                    "url": "https://myanimelist.net/anime/9479/Coppelion"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/coppelion/"
+        },
+        {
+            "name": "Official Site",
+            "url": "http://yanmaga.jp/contents/coppelion"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/COPPELION"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Coppelion"
+        }
+    ]
+}

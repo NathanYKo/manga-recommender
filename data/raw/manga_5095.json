@@ -1,0 +1,117 @@
+{
+    "mal_id": 5095,
+    "url": "https://myanimelist.net/manga/5095/Akanai_Tobira",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/81906.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/81906t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/81906l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/81906.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/81906t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/81906l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Akanai Tobira"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Ugly Duckling and the Prince"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Prince's Sweetheart"
+        },
+        {
+            "type": "Synonym",
+            "title": "It's Lonely When You're Cold"
+        },
+        {
+            "type": "Japanese",
+            "title": "あかないとびら"
+        },
+        {
+            "type": "English",
+            "title": "The Door to the Closed Mind"
+        }
+    ],
+    "title": "Akanai Tobira",
+    "title_english": "The Door to the Closed Mind",
+    "title_japanese": "あかないとびら",
+    "title_synonyms": [
+        "The Ugly Duckling and the Prince",
+        "The Prince's Sweetheart",
+        "It's Lonely When You're Cold"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-06-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 6,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 27, 2007"
+    },
+    "score": 7.23,
+    "scored": 7.23,
+    "scored_by": 3126,
+    "rank": null,
+    "popularity": 3900,
+    "members": 5752,
+    "favorites": 12,
+    "synopsis": "1-2. The Door to the Closed Mind\n3. The Ugly Duckling and the Prince\n4. The Prince's Sweetheart\n5. It's Lonely When You're Cold",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4645,
+            "type": "people",
+            "name": "Suzuki, Tsuta",
+            "url": "https://myanimelist.net/people/4645/Tsuta_Suzuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 184,
+            "type": "manga",
+            "name": "Reijin",
+            "url": "https://myanimelist.net/manga/magazine/184/Reijin"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

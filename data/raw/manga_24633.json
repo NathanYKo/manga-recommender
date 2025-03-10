@@ -1,0 +1,139 @@
+{
+    "mal_id": 24633,
+    "url": "https://myanimelist.net/manga/24633/Furou_Kyoudai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/270292.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/270292t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/270292l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/270292.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/270292t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/270292l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Furou Kyoudai"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Furou Siblings"
+        },
+        {
+            "type": "Japanese",
+            "title": "不老姉弟"
+        }
+    ],
+    "title": "Furou Kyoudai",
+    "title_english": null,
+    "title_japanese": "不老姉弟",
+    "title_synonyms": [
+        "The Furou Siblings"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-07-05T00:00:00+00:00",
+        "to": "2011-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 5,
+                "month": 4,
+                "year": 2011
+            }
+        },
+        "string": "Jul 5, 2010 to Apr 5, 2011"
+    },
+    "score": 7.01,
+    "scored": 7.01,
+    "scored_by": 2159,
+    "rank": 8809,
+    "popularity": 5150,
+    "members": 4231,
+    "favorites": 18,
+    "synopsis": "The Furou siblings are well known for being extremely close. In the bathtub together, in the restroom together... what is the reason these twins can't be separated even for a moment...? Don't miss out on this hilarious horror comedy!\n\n(Source: MU)",
+    "background": "Furou Kyoudai was published in Russian by Istari Comics in June 2017.",
+    "authors": [
+        {
+            "mal_id": 10666,
+            "type": "people",
+            "name": "Shiwasu, Yuki",
+            "url": "https://myanimelist.net/people/10666/Yuki_Shiwasu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/21/Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 24632,
+                    "type": "manga",
+                    "name": "Furou Kyoudai",
+                    "url": "https://myanimelist.net/manga/24632/Furou_Kyoudai"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 58183,
+                    "type": "manga",
+                    "name": "Unknown no Madousho",
+                    "url": "https://myanimelist.net/manga/58183/Unknown_no_Madousho"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

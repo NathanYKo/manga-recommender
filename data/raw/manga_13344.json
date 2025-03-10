@@ -1,0 +1,155 @@
+{
+    "mal_id": 13344,
+    "url": "https://myanimelist.net/manga/13344/Hishoka_Drop",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/158746.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/158746t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/158746l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/158746.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/158746t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/158746l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hishoka Drop"
+        },
+        {
+            "type": "Japanese",
+            "title": "秘書課ドロップ"
+        },
+        {
+            "type": "English",
+            "title": "Secretarial section Drop"
+        }
+    ],
+    "title": "Hishoka Drop",
+    "title_english": "Secretarial section Drop",
+    "title_japanese": "秘書課ドロップ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 25,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-09-14T00:00:00+00:00",
+        "to": "2007-11-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 9,
+                "year": 2005
+            },
+            "to": {
+                "day": 14,
+                "month": 11,
+                "year": 2007
+            }
+        },
+        "string": "Sep 14, 2005 to Nov 14, 2007"
+    },
+    "score": 7.07,
+    "scored": 7.07,
+    "scored_by": 1045,
+    "rank": 8016,
+    "popularity": 6910,
+    "members": 3058,
+    "favorites": 12,
+    "synopsis": "Protagonist gets a job at an important company—purely by mistake. Unqualified, but unwilling to admit they made a mistake, they tell him instead to go help out the women...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9056,
+            "type": "people",
+            "name": "Haruki",
+            "url": "https://myanimelist.net/people/9056/Haruki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 351,
+            "type": "manga",
+            "name": "Doki~!",
+            "url": "https://myanimelist.net/manga/magazine/351/Doki"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 21639,
+                    "type": "manga",
+                    "name": "Houkago Drop",
+                    "url": "https://myanimelist.net/manga/21639/Houkago_Drop"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 13217,
+                    "type": "anime",
+                    "name": "Hishoka Drop The Animation",
+                    "url": "https://myanimelist.net/anime/13217/Hishoka_Drop_The_Animation"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 21637,
+                    "type": "manga",
+                    "name": "Hishoka Drop Mix",
+                    "url": "https://myanimelist.net/manga/21637/Hishoka_Drop_Mix"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,103 @@
+{
+    "mal_id": 62195,
+    "url": "https://myanimelist.net/manga/62195/TSF_Monogatari_Append",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/106895.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/106895t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/106895l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/106895.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/106895t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/106895l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "TSF Monogatari Append"
+        },
+        {
+            "type": "Japanese",
+            "title": "TSF物語アペンド"
+        }
+    ],
+    "title": "TSF Monogatari Append",
+    "title_english": null,
+    "title_japanese": "TSF物語アペンド",
+    "title_synonyms": [],
+    "type": "Doujinshi",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2013-08-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 8,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 11, 2013 to ?"
+    },
+    "score": 7.16,
+    "scored": 7.16,
+    "scored_by": 731,
+    "rank": null,
+    "popularity": 8649,
+    "members": 2322,
+    "favorites": 20,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 8880,
+            "type": "people",
+            "name": "Shindo, L",
+            "url": "https://myanimelist.net/people/8880/L_Shindo"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 12,
+            "type": "manga",
+            "name": "Hentai",
+            "url": "https://myanimelist.net/manga/genre/12/Hentai"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 65,
+            "type": "manga",
+            "name": "Magical Sex Shift",
+            "url": "https://myanimelist.net/manga/genre/65/Magical_Sex_Shift"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 27713,
+                    "type": "manga",
+                    "name": "TSF Monogatari",
+                    "url": "https://myanimelist.net/manga/27713/TSF_Monogatari"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

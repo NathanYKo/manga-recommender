@@ -1,0 +1,132 @@
+{
+    "mal_id": 12386,
+    "url": "https://myanimelist.net/manga/12386/Ristorante_Paradiso",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/205426.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/205426t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/205426l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/205426.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/205426t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/205426l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ristorante Paradiso"
+        },
+        {
+            "type": "Japanese",
+            "title": "リストランテ・パラディーゾ"
+        }
+    ],
+    "title": "Ristorante Paradiso",
+    "title_english": null,
+    "title_japanese": "リストランテ・パラディーゾ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-05-07T00:00:00+00:00",
+        "to": "2006-03-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 5,
+                "year": 2005
+            },
+            "to": {
+                "day": 7,
+                "month": 3,
+                "year": 2006
+            }
+        },
+        "string": "May 7, 2005 to Mar 7, 2006"
+    },
+    "score": 7.09,
+    "scored": 7.09,
+    "scored_by": 1269,
+    "rank": 7687,
+    "popularity": 6488,
+    "members": 3278,
+    "favorites": 28,
+    "synopsis": "21-year-old Nicoletta leaves her grandparents' home in the countryside to work in Rome at a restaurant owned by her estranged mother's lover. But something sets the popular and elegant Casetta Dell'orso apart from its rivals: the entire restaurant is staffed by older gentlemen wearing glasses (as per her mother's preference). Thrown into this adult world, Nicoletta must try to find personal and professional stability—things that become increasingly difficult to achieve as she falls under the spell of Casetta Dell'orso.",
+    "background": "Ristorante Paradiso was published in English by VIZ Media under the VIZ Signature imprint on March 16, 2010 and in Polish by Hanami on July 8, 2009.",
+    "authors": [
+        {
+            "mal_id": 4031,
+            "type": "people",
+            "name": "Ono, Natsume",
+            "url": "https://myanimelist.net/people/4031/Natsume_Ono"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 408,
+            "type": "manga",
+            "name": "Manga Erotics F",
+            "url": "https://myanimelist.net/manga/magazine/408/Manga_Erotics_F"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 12400,
+                    "type": "manga",
+                    "name": "Gente: Ristorante no Hitobito",
+                    "url": "https://myanimelist.net/manga/12400/Gente__Ristorante_no_Hitobito"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 5984,
+                    "type": "anime",
+                    "name": "Ristorante Paradiso",
+                    "url": "https://myanimelist.net/anime/5984/Ristorante_Paradiso"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%83%86%E3%83%BB%E3%83%91%E3%83%A9%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BE"
+        }
+    ]
+}

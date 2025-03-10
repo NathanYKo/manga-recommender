@@ -1,0 +1,172 @@
+{
+    "mal_id": 556,
+    "url": "https://myanimelist.net/manga/556/Trinity_Blood",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/164661.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/164661t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/164661l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/164661.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/164661t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/164661l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Trinity Blood"
+        },
+        {
+            "type": "Japanese",
+            "title": "トリニティ・ブラッド"
+        },
+        {
+            "type": "English",
+            "title": "Trinity Blood"
+        }
+    ],
+    "title": "Trinity Blood",
+    "title_english": "Trinity Blood",
+    "title_japanese": "トリニティ・ブラッド",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 89,
+    "volumes": 21,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-08-23T00:00:00+00:00",
+        "to": "2018-04-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 8,
+                "year": 2003
+            },
+            "to": {
+                "day": 24,
+                "month": 4,
+                "year": 2018
+            }
+        },
+        "string": "Aug 23, 2003 to Apr 24, 2018"
+    },
+    "score": 7.79,
+    "scored": 7.79,
+    "scored_by": 5512,
+    "rank": 1373,
+    "popularity": 1037,
+    "members": 19346,
+    "favorites": 564,
+    "synopsis": "In the distant future, Armageddon has caused the appearance of a second \"Vampire's\" moon. This sparks the beginning of a war between humans and \"Methuselah,\" the vampires that feed on their blood.\n\nEsther Blanchett is an orphan who was raised in the Church of St. Matthias in the city of Istvan. One day, she meets Abel Nightroad, a priest sent to subdue any threats to the Vatican, an organization allied with humanity. Beneath Abel's meek facade hides his real identity as \"The Crusnik\": vampire who preys on the blood of his own kind and the Vatican's greatest weapon.\n\nEsther's peaceful times are cut short when the church is bombed and she is betrayed by her only friend Dietrich. With nowhere else to go, she teams up with Abel and Tres Iqus, a machine disguised as a human, to travel to Rome and look for answers behind the devastation of her home. However, their journey will not be easy, as they will have to battle various obstacles as well as discover the secrets of Abel's past.\n\n[Written by MAL Rewrite]",
+    "background": "Trinity Blood had twelve volumes published in English by Tokyopop from November 7, 2006 to March 30, 2010, which were republished digitally by VIZ Media from June 24 to December 30, 2014.",
+    "authors": [
+        {
+            "mal_id": 2494,
+            "type": "people",
+            "name": "Sunao, Yoshida",
+            "url": "https://myanimelist.net/people/2494/Yoshida_Sunao"
+        },
+        {
+            "mal_id": 2496,
+            "type": "people",
+            "name": "Kyuujou, Kiyo",
+            "url": "https://myanimelist.net/people/2496/Kiyo_Kyuujou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Asuka",
+            "url": "https://myanimelist.net/manga/magazine/14/Asuka"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 114227,
+                    "type": "manga",
+                    "name": "Trinity Blood: Reborn on the Mars",
+                    "url": "https://myanimelist.net/manga/114227/Trinity_Blood__Reborn_on_the_Mars"
+                },
+                {
+                    "mal_id": 557,
+                    "type": "manga",
+                    "name": "Trinity Blood: Rage Against the Moons",
+                    "url": "https://myanimelist.net/manga/557/Trinity_Blood__Rage_Against_the_Moons"
+                },
+                {
+                    "mal_id": 27,
+                    "type": "anime",
+                    "name": "Trinity Blood",
+                    "url": "https://myanimelist.net/anime/27/Trinity_Blood"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Trinity_Blood"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%83%89"
+        }
+    ]
+}

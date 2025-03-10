@@ -1,0 +1,103 @@
+{
+    "mal_id": 131768,
+    "url": "https://myanimelist.net/manga/131768/Love_Score",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/238299.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/238299t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/238299l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/238299.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/238299t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/238299l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Love Score"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラブスコア"
+        }
+    ],
+    "title": "Love Score",
+    "title_english": null,
+    "title_japanese": "ラブスコア",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-04-07T00:00:00+00:00",
+        "to": "2021-02-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2020
+            },
+            "to": {
+                "day": 5,
+                "month": 2,
+                "year": 2021
+            }
+        },
+        "string": "Apr 7, 2020 to Feb 5, 2021"
+    },
+    "score": 6.8,
+    "scored": 6.8,
+    "scored_by": 1814,
+    "rank": 12217,
+    "popularity": 5669,
+    "members": 3803,
+    "favorites": 28,
+    "synopsis": "All answers to romantic troubles are but a click away with the mobile application, Wiss. Utilizing the personal information given by its users, Wiss can simulate romantic relationships and provide scores indicating a couple’s potential compatibility. Curious about the application’s growing popularity, Yuuji Kawasaki decides to test his affinity with his college underclassman, Chise Amamiya. When confronted with the scores, he soon realizes that the results may be more accurate than he could have ever imagined.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 53107,
+            "type": "people",
+            "name": "LEN[A-7]",
+            "url": "https://myanimelist.net/people/53107/LENA-7"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 316,
+            "type": "manga",
+            "name": "good! Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/316/good_Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://afternoon.kodansha.co.jp/c/lovescore/"
+        }
+    ]
+}

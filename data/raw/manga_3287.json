@@ -1,0 +1,148 @@
+{
+    "mal_id": 3287,
+    "url": "https://myanimelist.net/manga/3287/Tough",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/75357.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/75357t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/75357l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/75357.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/75357t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/75357l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tough"
+        },
+        {
+            "type": "Japanese",
+            "title": "TOUGH－タフ－"
+        }
+    ],
+    "title": "Tough",
+    "title_english": null,
+    "title_japanese": "TOUGH－タフ－",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 426,
+    "volumes": 39,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-07-31T00:00:00+00:00",
+        "to": "2012-07-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 7,
+                "year": 2003
+            },
+            "to": {
+                "day": 19,
+                "month": 7,
+                "year": 2012
+            }
+        },
+        "string": "Jul 31, 2003 to Jul 19, 2012"
+    },
+    "score": 7.54,
+    "scored": 7.54,
+    "scored_by": 2826,
+    "rank": 2707,
+    "popularity": 2713,
+    "members": 8208,
+    "favorites": 106,
+    "synopsis": "This is a continuation of Koko Tekken-den Tough which ran for 42 volumes and followed the main character, Kiichi, when he was younger and was training under his father Seiko Miyazawa. This is a mixed martial arts fighter manga about the Miyazawa school of martial arts. Initially, it is about Kiichi trying to heal his father after he was nearly killed by his brother Kiryu but it then goes on to be less about that as his father recovers and some tournament style fighting begins.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7363,
+            "type": "people",
+            "name": "Saruwatari, Tetsuya",
+            "url": "https://myanimelist.net/people/7363/Tetsuya_Saruwatari"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 3286,
+                    "type": "manga",
+                    "name": "Koukou Tekkenden Tough",
+                    "url": "https://myanimelist.net/manga/3286/Koukou_Tekkenden_Tough"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 12037,
+                    "type": "manga",
+                    "name": "Tough Gaiden: Oton",
+                    "url": "https://myanimelist.net/manga/12037/Tough_Gaiden__Oton"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 167077,
+                    "type": "manga",
+                    "name": "Devils x Devil: Saruwatari Tetsuya Tanpenshuu",
+                    "url": "https://myanimelist.net/manga/167077/Devils_x_Devil__Saruwatari_Tetsuya_Tanpenshuu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://youngjump.jp/manga/tough/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/TOUGH"
+        }
+    ]
+}

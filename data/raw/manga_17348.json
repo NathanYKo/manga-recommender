@@ -1,0 +1,114 @@
+{
+    "mal_id": 17348,
+    "url": "https://myanimelist.net/manga/17348/Wa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/51523.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/51523t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/51523l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/51523.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/51523t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/51523l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Wa!"
+        },
+        {
+            "type": "Japanese",
+            "title": "わ!;哇！"
+        },
+        {
+            "type": "English",
+            "title": "Wa!"
+        }
+    ],
+    "title": "Wa!",
+    "title_english": "Wa!",
+    "title_japanese": "わ!;哇！",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 25,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-10-02T00:00:00+00:00",
+        "to": "2011-03-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 2011
+            }
+        },
+        "string": "Oct 2, 2008 to Mar 22, 2011"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 1574,
+    "rank": 3347,
+    "popularity": 6003,
+    "members": 3585,
+    "favorites": 44,
+    "synopsis": "At Takamanohara School, lots of the students have crushes, but all on different people. In fact, if you trace out who likes who, it makes a full circle! This is the story of that circle of crushes.\n\n(Source: Mangaupdates)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2572,
+            "type": "people",
+            "name": "Kojima, Akira",
+            "url": "https://myanimelist.net/people/2572/Akira_Kojima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 412,
+            "type": "manga",
+            "name": "Gangan Joker",
+            "url": "https://myanimelist.net/manga/magazine/412/Gangan_Joker"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 13774,
+                    "type": "manga",
+                    "name": "Manabiya",
+                    "url": "https://myanimelist.net/manga/13774/Manabiya"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,141 @@
+{
+    "mal_id": 15116,
+    "url": "https://myanimelist.net/manga/15116/Shugo_Chara-chan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/22219.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/22219t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/22219l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/22219.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/22219t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/22219l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shugo Chara-chan!"
+        },
+        {
+            "type": "Japanese",
+            "title": "しゅごキャラちゃん!"
+        },
+        {
+            "type": "English",
+            "title": "Shugo Chara Chan!"
+        }
+    ],
+    "title": "Shugo Chara-chan!",
+    "title_english": "Shugo Chara Chan!",
+    "title_japanese": "しゅごキャラちゃん!",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 79,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-03-03T00:00:00+00:00",
+        "to": "2010-12-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 3,
+                "year": 2008
+            },
+            "to": {
+                "day": 1,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Mar 3, 2008 to Dec 1, 2010"
+    },
+    "score": 7.05,
+    "scored": 7.05,
+    "scored_by": 1242,
+    "rank": 8244,
+    "popularity": 6351,
+    "members": 3356,
+    "favorites": 32,
+    "synopsis": "The outgoing and athletic Ran, mellow and artistic Miki, and sweet and motherly Su are more than just Amu Hinamori's \"Guardian Characters.\" They keep themselves busy trying to understand human concepts, from the changing seasons to forging friendships with the other Guardian Characters. Shugo Chara-chan! explores the not-so-mundane life of the trio when they are not fighting off the Easter Corporation with their human partners!\n\n[Written by MAL Rewrite]",
+    "background": "Shugo Chara-chan! was published in English as Shugo Chara Chan! by Kodansha Comics USA from November 29, 2011 to July 10, 2012.",
+    "authors": [
+        {
+            "mal_id": 2312,
+            "type": "people",
+            "name": "Tooyama, Ema",
+            "url": "https://myanimelist.net/people/2312/Ema_Tooyama"
+        },
+        {
+            "mal_id": 3576,
+            "type": "people",
+            "name": "Etou, Miyuki",
+            "url": "https://myanimelist.net/people/3576/Miyuki_Etou"
+        },
+        {
+            "mal_id": 39659,
+            "type": "people",
+            "name": "Mizushima, Naphthalin",
+            "url": "https://myanimelist.net/people/39659/Naphthalin_Mizushima"
+        },
+        {
+            "mal_id": 71397,
+            "type": "people",
+            "name": "Abe, Yuriko",
+            "url": "https://myanimelist.net/people/71397/Yuriko_Abe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Nakayoshi",
+            "url": "https://myanimelist.net/manga/magazine/20/Nakayoshi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 101,
+                    "type": "manga",
+                    "name": "Shugo Chara!",
+                    "url": "https://myanimelist.net/manga/101/Shugo_Chara"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/shugo-chara-chan/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%97%E3%82%85%E3%81%94%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%A1%E3%82%83%E3%82%93!"
+        }
+    ]
+}

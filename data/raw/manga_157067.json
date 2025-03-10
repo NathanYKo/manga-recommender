@@ -1,0 +1,125 @@
+{
+    "mal_id": 157067,
+    "url": "https://myanimelist.net/manga/157067/Oujisama_no_Tomodachi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/293031.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/293031t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/293031l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/293031.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/293031t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/293031l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Oujisama no Tomodachi"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Story About Hugging the School Prince"
+        },
+        {
+            "type": "Japanese",
+            "title": "王子様の友達"
+        },
+        {
+            "type": "English",
+            "title": "A Prince of a Friend"
+        }
+    ],
+    "title": "Oujisama no Tomodachi",
+    "title_english": "A Prince of a Friend",
+    "title_japanese": "王子様の友達",
+    "title_synonyms": [
+        "The Story About Hugging the School Prince"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2022-10-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 10,
+                "year": 2022
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 28, 2022 to ?"
+    },
+    "score": 6.73,
+    "scored": 6.73,
+    "scored_by": 618,
+    "rank": 13344,
+    "popularity": 6439,
+    "members": 3309,
+    "favorites": 5,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 64761,
+            "type": "people",
+            "name": "Sukeroku",
+            "url": "https://myanimelist.net/people/64761/Sukeroku"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1468,
+            "type": "manga",
+            "name": "Dra-Dra Sharp#",
+            "url": "https://myanimelist.net/manga/magazine/1468/Dra-Dra_Sharp"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 75,
+            "type": "manga",
+            "name": "Love Status Quo",
+            "url": "https://myanimelist.net/manga/genre/75/Love_Status_Quo"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://seiga.nicovideo.jp/comic/60961"
+        }
+    ]
+}

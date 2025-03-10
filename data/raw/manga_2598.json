@@ -1,0 +1,200 @@
+{
+    "mal_id": 2598,
+    "url": "https://myanimelist.net/manga/2598/Clannad",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/6142.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/6142t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/6142l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/6142.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/6142t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/6142l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Clannad"
+        },
+        {
+            "type": "Synonym",
+            "title": "CLANNAD Original Comic"
+        },
+        {
+            "type": "Synonym",
+            "title": "For You Not"
+        },
+        {
+            "type": "Japanese",
+            "title": "クラナド"
+        },
+        {
+            "type": "English",
+            "title": "Clannad"
+        }
+    ],
+    "title": "Clannad",
+    "title_english": "Clannad",
+    "title_japanese": "クラナド",
+    "title_synonyms": [
+        "CLANNAD Original Comic",
+        "For You Not"
+    ],
+    "type": "Manga",
+    "chapters": 45,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-05-07T00:00:00+00:00",
+        "to": "2009-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 5,
+                "year": 2005
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2009
+            }
+        },
+        "string": "May 7, 2005 to Apr 2009"
+    },
+    "score": 7.88,
+    "scored": 7.88,
+    "scored_by": 3846,
+    "rank": 1055,
+    "popularity": 1793,
+    "members": 12091,
+    "favorites": 315,
+    "synopsis": "Okazaki Tomoya is a delinquent who finds life dull and believes he'll never amount to anything. Along with his friend Sunohara, he skips school and plans to waste his high school days away.\n\nOne day while walking to school, Tomoya passes a young girl muttering quietly to herself. Without warning she exclaims \"Anpan!\" (a popular Japanese food) which catches Tomoya's attention. He soon discovers the girl's name is Furukawa Nagisa and that she exclaims things she likes in order to motivate herself. Nagisa claims they are now friends, but Tomoya walks away passing the encounter off as nothing.\n\nHowever, Tomoya finds he is noticing Nagisa more and more around school. Eventually he concedes and befriends her. Tomoya learns Nagisa has been held back a year due to a severe illness and that her dream is to revive the school's drama club. Claiming he has nothing better to do, he decides to help her achieve this goal along with the help of four other girls.\n\nAs Tomoya spends more time with the girls, he learns more about them and their problems. As he attempts to help each girl overcome her respective obstacle, he begins to realise life isn't as dull as he once thought.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2347,
+            "type": "people",
+            "name": "Maeda, Jun",
+            "url": "https://myanimelist.net/people/2347/Jun_Maeda"
+        },
+        {
+            "mal_id": 2885,
+            "type": "people",
+            "name": "Key",
+            "url": "https://myanimelist.net/people/2885/Key"
+        },
+        {
+            "mal_id": 4410,
+            "type": "people",
+            "name": "Misaki, Juri",
+            "url": "https://myanimelist.net/people/4410/Juri_Misaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 175,
+            "type": "manga",
+            "name": "Comic Rush",
+            "url": "https://myanimelist.net/manga/magazine/175/Comic_Rush"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2167,
+                    "type": "anime",
+                    "name": "Clannad",
+                    "url": "https://myanimelist.net/anime/2167/Clannad"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 5390,
+                    "type": "manga",
+                    "name": "Clannad 4-koma Manga Gekijyou",
+                    "url": "https://myanimelist.net/manga/5390/Clannad_4-koma_Manga_Gekijyou"
+                },
+                {
+                    "mal_id": 3941,
+                    "type": "manga",
+                    "name": "Clannad: Tomoyo After",
+                    "url": "https://myanimelist.net/manga/3941/Clannad__Tomoyo_After"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 136594,
+                    "type": "manga",
+                    "name": "Clannad",
+                    "url": "https://myanimelist.net/manga/136594/Clannad"
+                },
+                {
+                    "mal_id": 6997,
+                    "type": "manga",
+                    "name": "Clannad: Hikaru Mimamoru Sakamichi de",
+                    "url": "https://myanimelist.net/manga/6997/Clannad__Hikaru_Mimamoru_Sakamichi_de"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 151379,
+                    "type": "manga",
+                    "name": "Kaginado: Comic Anthology",
+                    "url": "https://myanimelist.net/manga/151379/Kaginado__Comic_Anthology"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Clannad_(visual_novel)"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "mal_id": 10865,
+    "url": "https://myanimelist.net/manga/10865/Touhou_Shinigami__Meteor_Methuselah_Gaiden",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/14629.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/14629t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/14629l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/14629.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/14629t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/14629l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Touhou Shinigami: Meteor Methuselah Gaiden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Meteor Methuselah: Shinigami of the East"
+        },
+        {
+            "type": "Synonym",
+            "title": "Immortal Rain: Shinigami of the East"
+        },
+        {
+            "type": "Japanese",
+            "title": "東方死神 メテオ・メトセラ外伝"
+        }
+    ],
+    "title": "Touhou Shinigami: Meteor Methuselah Gaiden",
+    "title_english": null,
+    "title_japanese": "東方死神 メテオ・メトセラ外伝",
+    "title_synonyms": [
+        "Meteor Methuselah: Shinigami of the East",
+        "Immortal Rain: Shinigami of the East"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-10-20T00:00:00+00:00",
+        "to": "2007-06-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 10,
+                "year": 2004
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2007
+            }
+        },
+        "string": "Oct 20, 2004 to Jun 28, 2007"
+    },
+    "score": 8.16,
+    "scored": 8.16,
+    "scored_by": 2029,
+    "rank": 494,
+    "popularity": 4095,
+    "members": 5496,
+    "favorites": 52,
+    "synopsis": "A miniseries prequel about the encounter between Rain and Zol.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2356,
+            "type": "people",
+            "name": "Ozaki, Kaori",
+            "url": "https://myanimelist.net/people/2356/Kaori_Ozaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Wings",
+            "url": "https://myanimelist.net/manga/magazine/45/Wings"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 373,
+                    "type": "manga",
+                    "name": "Meteor Methuselah",
+                    "url": "https://myanimelist.net/manga/373/Meteor_Methuselah"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

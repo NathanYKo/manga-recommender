@@ -1,0 +1,130 @@
+{
+    "mal_id": 41957,
+    "url": "https://myanimelist.net/manga/41957/Tsuki_no_Sango",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/219399.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/219399t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/219399l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/219399.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/219399t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/219399l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tsuki no Sango"
+        },
+        {
+            "type": "Synonym",
+            "title": "Coral of the Moon"
+        },
+        {
+            "type": "Japanese",
+            "title": "月の珊瑚"
+        }
+    ],
+    "title": "Tsuki no Sango",
+    "title_english": null,
+    "title_japanese": "月の珊瑚",
+    "title_synonyms": [
+        "Coral of the Moon"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-07-07T00:00:00+00:00",
+        "to": "2019-01-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 22,
+                "month": 1,
+                "year": 2019
+            }
+        },
+        "string": "Jul 7, 2012 to Jan 22, 2019"
+    },
+    "score": 7.6,
+    "scored": 7.6,
+    "scored_by": 836,
+    "rank": 2328,
+    "popularity": 7931,
+    "members": 2587,
+    "favorites": 40,
+    "synopsis": "The story takes place in approximately the year 3000, when humankind arrived at the peak of its civilization, but is loosing it's will to keep living. It follows a girl, called \"princess\" by those around her, living on a small island with a fifty person colony and a shinning coral reef. She is descendant of Moon people, and it focuses upon how her ancestors supposedly came to Earth.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3250,
+            "type": "people",
+            "name": "Nasu, Kinoko",
+            "url": "https://myanimelist.net/people/3250/Kinoko_Nasu"
+        },
+        {
+            "mal_id": 4843,
+            "type": "people",
+            "name": "Sasaki, Shonen",
+            "url": "https://myanimelist.net/people/4843/Shonen_Sasaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 999,
+            "type": "manga",
+            "name": "Saizensen",
+            "url": "https://myanimelist.net/manga/magazine/999/Saizensen"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 34329,
+                    "type": "manga",
+                    "name": "Tsuki no Sango",
+                    "url": "https://myanimelist.net/manga/34329/Tsuki_no_Sango"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://sai-zen-sen.jp/comics/tsukinosango/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%9C%88%E3%81%AE%E7%8F%8A%E7%91%9A"
+        }
+    ]
+}

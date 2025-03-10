@@ -1,0 +1,130 @@
+{
+    "mal_id": 30545,
+    "url": "https://myanimelist.net/manga/30545/Endou-kun_no_Kansatsu_Nikki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/196127.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/196127t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/196127l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/196127.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/196127t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/196127l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Endou-kun no Kansatsu Nikki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tsuda Note"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tsuda Memo"
+        },
+        {
+            "type": "Japanese",
+            "title": "えんどうくんの観察日記"
+        }
+    ],
+    "title": "Endou-kun no Kansatsu Nikki",
+    "title_english": null,
+    "title_japanese": "えんどうくんの観察日記",
+    "title_synonyms": [
+        "Tsuda Note",
+        "Tsuda Memo"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-02-01T00:00:00+00:00",
+        "to": "2011-06-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 2,
+                "year": 2010
+            },
+            "to": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "Feb 1, 2010 to Jun 1, 2011"
+    },
+    "score": 7.51,
+    "scored": 7.51,
+    "scored_by": 4783,
+    "rank": 2895,
+    "popularity": 2101,
+    "members": 10250,
+    "favorites": 93,
+    "synopsis": "Because of changes in seating arrangements, high school student Tsuda ended up behind the quiet and expressionless Endou. Their interaction is born from a trivial incident, and he begins to see Endou who he has never gotten to know before. That mole, slender nape, and soft hair. The subtle faces that he makes and little changes in his attitude. But Tsuda, who used to be indifferent about others and never made any deep connections, now feels impatient about the distance between him and Endou, who he has been gradually getting closer to. What on earth is drawing these feelings?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 14181,
+            "type": "people",
+            "name": "Hayakawa, Nojiko",
+            "url": "https://myanimelist.net/people/14181/Nojiko_Hayakawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 219,
+            "type": "manga",
+            "name": "HertZ",
+            "url": "https://myanimelist.net/manga/magazine/219/HertZ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 59341,
+                    "type": "manga",
+                    "name": "Endou-kun no Jikken Note",
+                    "url": "https://myanimelist.net/manga/59341/Endou-kun_no_Jikken_Note"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 81071,
+                    "type": "manga",
+                    "name": "Imamade, Korekara",
+                    "url": "https://myanimelist.net/manga/81071/Imamade_Korekara"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.bs-garden.com/feature/endo/"
+        }
+    ]
+}

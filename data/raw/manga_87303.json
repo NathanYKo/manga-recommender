@@ -1,0 +1,152 @@
+{
+    "mal_id": 87303,
+    "url": "https://myanimelist.net/manga/87303/Gamers",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/176451.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/176451t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/176451l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/176451.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/176451t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/176451l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gamers!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gamers! Amano Keita to Seishun Continue"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gamers! Keita Amano and youth continue"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゲーマーズ!"
+        }
+    ],
+    "title": "Gamers!",
+    "title_english": null,
+    "title_japanese": "ゲーマーズ!",
+    "title_synonyms": [
+        "Gamers! Amano Keita to Seishun Continue",
+        "Gamers! Keita Amano and youth continue"
+    ],
+    "type": "Light Novel",
+    "chapters": 66,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-03-20T00:00:00+00:00",
+        "to": "2019-10-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 3,
+                "year": 2015
+            },
+            "to": {
+                "day": 19,
+                "month": 10,
+                "year": 2019
+            }
+        },
+        "string": "Mar 20, 2015 to Oct 19, 2019"
+    },
+    "score": 7.41,
+    "scored": 7.41,
+    "scored_by": 935,
+    "rank": 3778,
+    "popularity": 3764,
+    "members": 5971,
+    "favorites": 79,
+    "synopsis": "This is a story that revolves around certain students and one hobby. Amano Keita is our lonely protagonist who has a passion for gaming and is friends with Uehara Tasuku, who is secretly a fellow gamer and is someone who believes his life is perfect. We also have Karen Tendou, the club president of the video games club and Chiaki Hoshinomori, who constantly bickers with Keita. This is a story filled with a non-stop sequence of comedy scenes and misunderstandings. Our chaotic romantic comedy now begins!\n\n(Source: MAL News)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 8446,
+            "type": "people",
+            "name": "Aoi, Sekina",
+            "url": "https://myanimelist.net/people/8446/Sekina_Aoi"
+        },
+        {
+            "mal_id": 35993,
+            "type": "people",
+            "name": "Saboten",
+            "url": "https://myanimelist.net/people/35993/Saboten"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 102015,
+                    "type": "manga",
+                    "name": "Gamers!",
+                    "url": "https://myanimelist.net/manga/102015/Gamers"
+                },
+                {
+                    "mal_id": 34280,
+                    "type": "anime",
+                    "name": "Gamers!",
+                    "url": "https://myanimelist.net/anime/34280/Gamers"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 139474,
+                    "type": "manga",
+                    "name": "Gamers! DLC",
+                    "url": "https://myanimelist.net/manga/139474/Gamers_DLC"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.fujimishobo.co.jp/sp/201503gamers/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%BA!"
+        }
+    ]
+}

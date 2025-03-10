@@ -1,0 +1,144 @@
+{
+    "mal_id": 8826,
+    "url": "https://myanimelist.net/manga/8826/Kanojo_no_Omoide",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/88703.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/88703t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/88703l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/88703.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/88703t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/88703l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kanojo no Omoide..."
+        },
+        {
+            "type": "Synonym",
+            "title": "Her Memories..."
+        },
+        {
+            "type": "Japanese",
+            "title": "彼女の想いで・・・"
+        },
+        {
+            "type": "English",
+            "title": "Memories of Her..."
+        }
+    ],
+    "title": "Kanojo no Omoide...",
+    "title_english": "Memories of Her...",
+    "title_japanese": "彼女の想いで・・・",
+    "title_synonyms": [
+        "Her Memories..."
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1977-08-01T00:00:00+00:00",
+        "to": "1982-02-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 1977
+            },
+            "to": {
+                "day": 1,
+                "month": 2,
+                "year": 1982
+            }
+        },
+        "string": "Aug 1977 to Feb 1982"
+    },
+    "score": 6.75,
+    "scored": 6.75,
+    "scored_by": 563,
+    "rank": 12990,
+    "popularity": 8434,
+    "members": 2395,
+    "favorites": 6,
+    "synopsis": "Collection of short stories including:\n\n1. Flower (1979)\n2. Memories (1980)\n3. Farewell to Weapons (1981)\n4. Sound of Sand (1979)\n5. Electric Bird Land (1980)\n6. Hair (1979)\n7. That's Amazing World - Magic Pot of Aladdin (1981)\n8. That's Amazing World - Noah's Ark (1981)\n9. That's Amazing World - The Old Man and the Sea (1981)\n10. That's Amazing World - Knights of the Round Table (1981)\n11. Minor Swing (1977)\n12-13. Chronicle of the Planet TAKO, I-II (1981)\n14. Chronicle of The Planet TAKO, Chapter of Dawnlight (1982)\n15-16. Fire Ball, I-II (1979)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1872,
+            "type": "people",
+            "name": "Otomo, Katsuhiro",
+            "url": "https://myanimelist.net/people/1872/Katsuhiro_Otomo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1462,
+                    "type": "anime",
+                    "name": "Memories",
+                    "url": "https://myanimelist.net/anime/1462/Memories"
+                },
+                {
+                    "mal_id": 17677,
+                    "type": "anime",
+                    "name": "Buki yo Saraba",
+                    "url": "https://myanimelist.net/anime/17677/Buki_yo_Saraba"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Katsuhiro_Otomo#Short_story_collections"
+        }
+    ]
+}

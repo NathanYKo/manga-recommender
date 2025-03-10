@@ -1,0 +1,143 @@
+{
+    "mal_id": 32035,
+    "url": "https://myanimelist.net/manga/32035/Koibitogokoro",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/184259.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/184259t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/184259l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/184259.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/184259t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/184259l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koibitogokoro"
+        },
+        {
+            "type": "Synonym",
+            "title": "Heart of Lover"
+        },
+        {
+            "type": "Synonym",
+            "title": "Koibito Kokoro"
+        },
+        {
+            "type": "Japanese",
+            "title": "コイビト心"
+        }
+    ],
+    "title": "Koibitogokoro",
+    "title_english": null,
+    "title_japanese": "コイビト心",
+    "title_synonyms": [
+        "Heart of Lover",
+        "Koibito Kokoro"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-07-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 2, 2011"
+    },
+    "score": 7.88,
+    "scored": 7.88,
+    "scored_by": 3058,
+    "rank": null,
+    "popularity": 3670,
+    "members": 6143,
+    "favorites": 25,
+    "synopsis": "Ever since salary man Saki Hiroyasu passed out from fever and college student Shinomiya Jun nursed him back to health, they have only grown closer. Each time Saki frequently visits his favorite café, Jun rushes to his side to take his order, but ends up flushed in the face. No matter what he does to change things in his life, Jun always gets poked fun of by his coworkers and teased by his lover. Will this stop Jun and Saki from continuing to be lovey-dovey as they always are?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 14801,
+            "type": "people",
+            "name": "Kanda, Neko",
+            "url": "https://myanimelist.net/people/14801/Neko_Kanda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 156,
+            "type": "manga",
+            "name": "drap",
+            "url": "https://myanimelist.net/manga/magazine/156/drap"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 47953,
+                    "type": "manga",
+                    "name": "Otokogokoro",
+                    "url": "https://myanimelist.net/manga/47953/Otokogokoro"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 49463,
+                    "type": "manga",
+                    "name": "Koigokoro",
+                    "url": "https://myanimelist.net/manga/49463/Koigokoro"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

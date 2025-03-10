@@ -1,0 +1,139 @@
+{
+    "mal_id": 99391,
+    "url": "https://myanimelist.net/manga/99391/Doukyonin_wa_Hiza_Tokidoki_Atama_no_Ue",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/179355.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/179355t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/179355l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/179355.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/179355t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/179355l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Doukyonin wa Hiza, Tokidoki, Atama no Ue."
+        },
+        {
+            "type": "Synonym",
+            "title": "My Roommate is a Cat"
+        },
+        {
+            "type": "Japanese",
+            "title": "同居人はひざ、時々、頭のうえ。"
+        }
+    ],
+    "title": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+    "title_english": null,
+    "title_japanese": "同居人はひざ、時々、頭のうえ。",
+    "title_synonyms": [
+        "My Roommate is a Cat"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-06-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 6,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 4, 2015 to ?"
+    },
+    "score": 7.99,
+    "scored": 7.99,
+    "scored_by": 1987,
+    "rank": 788,
+    "popularity": 2234,
+    "members": 9739,
+    "favorites": 143,
+    "synopsis": "Mystery writer Mikazuki Subaru, who isn't good at dealing with people, finds them to be a disturbance when it comes to building his imaginary world. One day, he chances upon a stray cat and feels inspiration strike, so he brings the cat home as his muse.\n\nCan watching the inexplicable behaviors of a cat form material for a novel?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7294,
+            "type": "people",
+            "name": "Minatuki, Tunami",
+            "url": "https://myanimelist.net/people/7294/Tunami_Minatuki"
+        },
+        {
+            "mal_id": 41553,
+            "type": "people",
+            "name": "Futatsuya, As",
+            "url": "https://myanimelist.net/people/41553/As_Futatsuya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 943,
+            "type": "manga",
+            "name": "Comic Polaris",
+            "url": "https://myanimelist.net/manga/magazine/943/Comic_Polaris"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        },
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Pets",
+            "url": "https://myanimelist.net/manga/genre/72/Pets"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38145,
+                    "type": "anime",
+                    "name": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+                    "url": "https://myanimelist.net/anime/38145/Doukyonin_wa_Hiza_Tokidoki_Atama_no_Ue"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic-polaris.jp/doukyo/"
+        }
+    ]
+}

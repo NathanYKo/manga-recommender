@@ -1,0 +1,150 @@
+{
+    "mal_id": 107548,
+    "url": "https://myanimelist.net/manga/107548/Steins_Gate_0",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/208537.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/208537t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/208537l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/208537.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/208537t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/208537l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Steins;Gate 0"
+        },
+        {
+            "type": "Japanese",
+            "title": "STEINS;GATE 0"
+        },
+        {
+            "type": "English",
+            "title": "Steins;Gate 0"
+        }
+    ],
+    "title": "Steins;Gate 0",
+    "title_english": "Steins;Gate 0",
+    "title_japanese": "STEINS;GATE 0",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 41,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-07-04T00:00:00+00:00",
+        "to": "2020-02-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 4,
+                "month": 2,
+                "year": 2020
+            }
+        },
+        "string": "Jul 4, 2017 to Feb 4, 2020"
+    },
+    "score": 8.21,
+    "scored": 8.21,
+    "scored_by": 1602,
+    "rank": 425,
+    "popularity": 3971,
+    "members": 5662,
+    "favorites": 97,
+    "synopsis": "An alternate ending to Steins;Gate that leads with the eccentric mad scientist Okabe, struggling to recover from a failed attempt at rescuing Kurisu. He decides to give up and abandons his lively scientist alter ego, in pursuit to forget the past. When all seems to be normal, he is seemingly pulled back into the past by meeting an acquaintance of Kurisu, who tells him that they have begun testing a device that stores the memory of a human and creates a simulation of them with their characteristics and personalities. Okabe begins testing and finds out that the simulation of Kurisu has brought back anguish and some new unexpected tragedies...",
+    "background": "Steins;Gate 0 adapts the visual novel of the same name. The first four volumes adapt the Promised Rinascimento route, and the last two volumes adapt the Vega and Altair route. The series was published in English by Udon Entertainment as 2-in-1 omnibus volumes from September 21, 2021, to January 11, 2022.",
+    "authors": [
+        {
+            "mal_id": 30477,
+            "type": "people",
+            "name": "Himeno, Taka",
+            "url": "https://myanimelist.net/people/30477/Taka_Himeno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 403,
+            "type": "manga",
+            "name": "Young Ace",
+            "url": "https://myanimelist.net/manga/magazine/403/Young_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 17517,
+                    "type": "manga",
+                    "name": "Steins;Gate",
+                    "url": "https://myanimelist.net/manga/17517/Steins_Gate"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 30484,
+                    "type": "anime",
+                    "name": "Steins;Gate 0",
+                    "url": "https://myanimelist.net/anime/30484/Steins_Gate_0"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://web-ace.jp/youngace/contents/253/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Steins;Gate_0"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/STEINS;GATE"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "mal_id": 111323,
+    "url": "https://myanimelist.net/manga/111323/MagMell_Shinkai_Suizokukan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/204430.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/204430t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/204430l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/204430.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/204430t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/204430l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "MagMell Shinkai Suizokukan"
+        },
+        {
+            "type": "Japanese",
+            "title": "マグメル深海水族館"
+        },
+        {
+            "type": "English",
+            "title": "Deep Sea Aquarium MagMell"
+        }
+    ],
+    "title": "MagMell Shinkai Suizokukan",
+    "title_english": "Deep Sea Aquarium MagMell",
+    "title_japanese": "マグメル深海水族館",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-04-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 8, 2017 to ?"
+    },
+    "score": 7.8,
+    "scored": 7.8,
+    "scored_by": 628,
+    "rank": 1341,
+    "popularity": 6228,
+    "members": 3437,
+    "favorites": 67,
+    "synopsis": "A tale about a modern deep-sea aquarium employee in Tokyo! What's living in the overwhelming darkness deep within the sea? Take a glimpse into this strange world about a boy working at a deep sea aquarium.\n\n(Source: MU)",
+    "background": "MagMell Shinkai Suizokukan has been published in French by Vega Manga.",
+    "authors": [
+        {
+            "mal_id": 47361,
+            "type": "people",
+            "name": "Sugishita, Kiyomi",
+            "url": "https://myanimelist.net/people/47361/Kiyomi_Sugishita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 76,
+            "type": "manga",
+            "name": "Go Go Bunch",
+            "url": "https://myanimelist.net/manga/magazine/76/Go_Go_Bunch"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

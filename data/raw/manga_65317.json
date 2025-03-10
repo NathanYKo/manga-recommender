@@ -1,0 +1,124 @@
+{
+    "mal_id": 65317,
+    "url": "https://myanimelist.net/manga/65317/Komori-san_wa_Kotowarenai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/188964.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/188964t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/188964l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/188964.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/188964t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/188964l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Komori-san wa Kotowarenai!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Miss Komori can't decline!"
+        },
+        {
+            "type": "Japanese",
+            "title": "小森さんは断れない！"
+        }
+    ],
+    "title": "Komori-san wa Kotowarenai!",
+    "title_english": null,
+    "title_japanese": "小森さんは断れない！",
+    "title_synonyms": [
+        "Miss Komori can't decline!"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2012-02-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 2,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 27, 2012 to ?"
+    },
+    "score": 7.13,
+    "scored": 7.13,
+    "scored_by": 991,
+    "rank": 7027,
+    "popularity": 4196,
+    "members": 5356,
+    "favorites": 18,
+    "synopsis": "Fourteen-year-old Komori Shuri is a junior high school girl who is too nice to decline requests. Constantly doing favors for other people has given her incredible strength?! But even so, she is also an adolescent junior high school girl.\n\nA manga overflowing with the ups and downs of everyday life!\n\n(Source: Batoto)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 25227,
+            "type": "people",
+            "name": "Cool-kyou Shinja",
+            "url": "https://myanimelist.net/people/25227/Cool-kyou_Shinja"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 356,
+            "type": "manga",
+            "name": "Manga Time Original",
+            "url": "https://myanimelist.net/manga/magazine/356/Manga_Time_Original"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 31091,
+                    "type": "anime",
+                    "name": "Komori-san wa Kotowarenai!",
+                    "url": "https://myanimelist.net/anime/31091/Komori-san_wa_Kotowarenai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.manga-time.com/komorisan/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%A3%AE%E3%81%95%E3%82%93%E3%81%AF%E6%96%AD%E3%82%8C%E3%81%AA%E3%81%84!"
+        }
+    ]
+}

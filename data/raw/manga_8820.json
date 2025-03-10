@@ -1,0 +1,149 @@
+{
+    "mal_id": 8820,
+    "url": "https://myanimelist.net/manga/8820/Oishinbo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/75849.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/75849t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/75849l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/75849.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/75849t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/75849l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Oishinbo"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Gourmet"
+        },
+        {
+            "type": "Japanese",
+            "title": "美味しんぼ"
+        },
+        {
+            "type": "English",
+            "title": "Oishinbo: À la Carte"
+        }
+    ],
+    "title": "Oishinbo",
+    "title_english": "Oishinbo: À la Carte",
+    "title_japanese": "美味しんぼ",
+    "title_synonyms": [
+        "The Gourmet"
+    ],
+    "type": "Manga",
+    "chapters": 1039,
+    "volumes": 111,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "1983-09-30T00:00:00+00:00",
+        "to": "2014-05-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 9,
+                "year": 1983
+            },
+            "to": {
+                "day": 19,
+                "month": 5,
+                "year": 2014
+            }
+        },
+        "string": "Sep 30, 1983 to May 19, 2014"
+    },
+    "score": 7.33,
+    "scored": 7.33,
+    "scored_by": 442,
+    "rank": 4525,
+    "popularity": 8235,
+    "members": 2469,
+    "favorites": 39,
+    "synopsis": "Around the offices of Tozai News, Shiro Yamaoka has a reputation for being over-blunt, under-ambitious, and generally an all-around slacker. So why has he been given the important job of coming up with the \"Ultimate Menu\" to celebrate the newspaper's 100th anniversary? Because he possesses qualities his other colleagues don't: an exquisitely discerning palate, an encyclopedic knowledge of food and drink, and a masterful touch in the kitchen.\n\n(Source: VIZ Media)",
+    "background": "Oishinbo was published in English as Oishinbo: À la Carte by VIZ Media under the VIZ Signature imprint. 7 volumes were published from January 20, 2009 to January 19, 2010, with each volume being a thematic compilation of an area of Japanese cuisine.",
+    "authors": [
+        {
+            "mal_id": 5809,
+            "type": "people",
+            "name": "Kariya, Tetsu",
+            "url": "https://myanimelist.net/people/5809/Tetsu_Kariya"
+        },
+        {
+            "mal_id": 5810,
+            "type": "people",
+            "name": "Hanasaki, Akira",
+            "url": "https://myanimelist.net/people/5810/Akira_Hanasaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1093,
+                    "type": "anime",
+                    "name": "Oishinbo",
+                    "url": "https://myanimelist.net/anime/1093/Oishinbo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%BE%8E%E5%91%B3%E3%81%97%E3%82%93%E3%81%BC"
+        }
+    ]
+}

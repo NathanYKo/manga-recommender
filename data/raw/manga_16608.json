@@ -1,0 +1,121 @@
+{
+    "mal_id": 16608,
+    "url": "https://myanimelist.net/manga/16608/Fire_Fire_Fire",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/161268.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/161268t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/161268l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/161268.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/161268t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/161268l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fire Fire Fire"
+        },
+        {
+            "type": "Synonym",
+            "title": "Triple Fire"
+        },
+        {
+            "type": "Japanese",
+            "title": "FIRE FIRE FIRE トリプルファイヤー"
+        }
+    ],
+    "title": "Fire Fire Fire",
+    "title_english": null,
+    "title_japanese": "FIRE FIRE FIRE トリプルファイヤー",
+    "title_synonyms": [
+        "Triple Fire"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-12-19T00:00:00+00:00",
+        "to": "2010-10-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 12,
+                "year": 2008
+            },
+            "to": {
+                "day": 20,
+                "month": 10,
+                "year": 2010
+            }
+        },
+        "string": "Dec 19, 2008 to Oct 20, 2010"
+    },
+    "score": 6.57,
+    "scored": 6.57,
+    "scored_by": 1762,
+    "rank": 15594,
+    "popularity": 5611,
+    "members": 3854,
+    "favorites": 16,
+    "synopsis": "Fire Fire Fire is a lighthearted throwback to the classic shounen series of the '80s and '90s.\n\nJiga Kirishima lives in a time where the only sky the people know is the color gray and most of the world is wasteland and ruins, with a few people in power depriving resources from the disorganized weak and poor majority. With his father's sword, Jiga makes friends and enemies and goes on adventures while searching for others who share his bloodline.\n\nJiga's sword happens to be made of a rare material which a powerful organization known as Lost Eagle Nest claims to want in order to rebuild the world, but is that what they really want it for? They'll stop at nothing to take it from him, and Jiga and his friends now have a price on their heads.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2844,
+            "type": "people",
+            "name": "Satou, Shouji",
+            "url": "https://myanimelist.net/people/2844/Shouji_Satou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 524,
+            "type": "manga",
+            "name": "JC.COM",
+            "url": "https://myanimelist.net/manga/magazine/524/JCCOM"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 90587,
+                    "type": "manga",
+                    "name": "Fire Fire Fire: Black Sword",
+                    "url": "https://myanimelist.net/manga/90587/Fire_Fire_Fire__Black_Sword"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

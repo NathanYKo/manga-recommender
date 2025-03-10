@@ -1,0 +1,131 @@
+{
+    "mal_id": 1604,
+    "url": "https://myanimelist.net/manga/1604/Air",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/295873.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/295873t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/295873l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/295873.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/295873t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/295873l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Air"
+        },
+        {
+            "type": "Japanese",
+            "title": "AIR"
+        }
+    ],
+    "title": "Air",
+    "title_english": null,
+    "title_japanese": "AIR",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 18,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-08-10T00:00:00+00:00",
+        "to": "2006-02-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 8,
+                "year": 2004
+            },
+            "to": {
+                "day": 10,
+                "month": 2,
+                "year": 2006
+            }
+        },
+        "string": "Aug 10, 2004 to Feb 10, 2006"
+    },
+    "score": 7.04,
+    "scored": 7.04,
+    "scored_by": 2656,
+    "rank": 8317,
+    "popularity": 3907,
+    "members": 5741,
+    "favorites": 67,
+    "synopsis": "Yukito Kunisaki is a man traveling Japan in search of the \"girl in the sky.\" Eventually he makes his way to a sleepy seaside town where he meets a strange girl named Misuzu Kamio who has dreams of flying in the sky. During his stay in the town, Yukito meets other unique people and begins to learn more about Misuzu and the town she lives in.\n\n(Source: AnimeCouncil²)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2565,
+            "type": "people",
+            "name": "Katsura, Yukimaru",
+            "url": "https://myanimelist.net/people/2565/Yukimaru_Katsura"
+        },
+        {
+            "mal_id": 2885,
+            "type": "people",
+            "name": "Key",
+            "url": "https://myanimelist.net/people/2885/Key"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Comptiq",
+            "url": "https://myanimelist.net/manga/magazine/38/Comptiq"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 101,
+                    "type": "anime",
+                    "name": "Air",
+                    "url": "https://myanimelist.net/anime/101/Air"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 151379,
+                    "type": "manga",
+                    "name": "Kaginado: Comic Anthology",
+                    "url": "https://myanimelist.net/manga/151379/Kaginado__Comic_Anthology"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/AIR_%28%E3%82%B2%E3%83%BC%E3%83%A0%29"
+        }
+    ]
+}

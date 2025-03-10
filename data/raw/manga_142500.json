@@ -1,0 +1,151 @@
+{
+    "mal_id": 142500,
+    "url": "https://myanimelist.net/manga/142500/Zombie_no_Afureta_Sekai_de_Ore_dake_ga_Osowarenai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/256916.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/256916t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/256916l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/256916.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/256916t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/256916l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zombie no Afureta Sekai de Ore dake ga Osowarenai"
+        },
+        {
+            "type": "Synonym",
+            "title": "In a World Filled with Zombies"
+        },
+        {
+            "type": "Synonym",
+            "title": "I'm the Only One They Won't Attack"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゾンビのあふれた世界で俺だけが襲われない"
+        },
+        {
+            "type": "English",
+            "title": "In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked"
+        }
+    ],
+    "title": "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
+    "title_english": "In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked",
+    "title_japanese": "ゾンビのあふれた世界で俺だけが襲われない",
+    "title_synonyms": [
+        "In a World Filled with Zombies",
+        "I'm the Only One They Won't Attack"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2021-06-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 25, 2021 to ?"
+    },
+    "score": 6.44,
+    "scored": 6.44,
+    "scored_by": 678,
+    "rank": null,
+    "popularity": 7934,
+    "members": 2585,
+    "favorites": 16,
+    "synopsis": "Takemura wakes up after falling ill for 3 days and realizes the world has been overrun by zombies but for some strange reason he is not being attacked by them! What will he do now with this great power he has?\n\n(Source: MangaDex)",
+    "background": "Zombie no Afureta Sekai de Ore dake ga Osowarenai has been published digitally in English as In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked by Frontier Works through MangaPlaza.",
+    "authors": [
+        {
+            "mal_id": 56942,
+            "type": "people",
+            "name": "Uraji, Rokuro",
+            "url": "https://myanimelist.net/people/56942/Rokuro_Uraji"
+        },
+        {
+            "mal_id": 56943,
+            "type": "people",
+            "name": "Matsuda, Chihiro",
+            "url": "https://myanimelist.net/people/56943/Chihiro_Matsuda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1742,
+            "type": "manga",
+            "name": "Comic Ragchew",
+            "url": "https://myanimelist.net/manga/magazine/1742/Comic_Ragchew"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 159552,
+                    "type": "manga",
+                    "name": "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
+                    "url": "https://myanimelist.net/manga/159552/Zombie_no_Afureta_Sekai_de_Ore_dake_ga_Osowarenai"
+                },
+                {
+                    "mal_id": 57990,
+                    "type": "anime",
+                    "name": "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
+                    "url": "https://myanimelist.net/anime/57990/Zombie_no_Afureta_Sekai_de_Ore_dake_ga_Osowarenai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-ragchew.jp/comics/zombie/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ゾンビのあふれた世界で俺だけが襲われない"
+        }
+    ]
+}

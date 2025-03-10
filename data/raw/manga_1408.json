@@ -1,0 +1,109 @@
+{
+    "mal_id": 1408,
+    "url": "https://myanimelist.net/manga/1408/The_World_Is_Mine",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/1287.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/1287t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/1287l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/1287.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/1287t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/1287l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "The World Is Mine"
+        },
+        {
+            "type": "Synonym",
+            "title": "TWIM"
+        },
+        {
+            "type": "Japanese",
+            "title": "ザ・ワールド・イズ・マイン"
+        }
+    ],
+    "title": "The World Is Mine",
+    "title_english": null,
+    "title_japanese": "ザ・ワールド・イズ・マイン",
+    "title_synonyms": [
+        "TWIM"
+    ],
+    "type": "Manga",
+    "chapters": 163,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-01-23T00:00:00+00:00",
+        "to": "2001-03-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 1,
+                "year": 1997
+            },
+            "to": {
+                "day": 15,
+                "month": 3,
+                "year": 2001
+            }
+        },
+        "string": "Jan 23, 1997 to Mar 15, 2001"
+    },
+    "score": 7.85,
+    "scored": 7.85,
+    "scored_by": 2663,
+    "rank": 1158,
+    "popularity": 1173,
+    "members": 17257,
+    "favorites": 590,
+    "synopsis": "Meet Mon, a violent killer faithful only to his own eruptive desires, and his timid companion Toshi, a demolition-devil with a fanatical thirst for destruction. Their killing-spree across Japan is destined to intersect the path of the enormous \"Higumadon\", a mysterious beast on a Godzilla-like rampage from Hokkaido to Tokyo.\n\n(Source: KEFI)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3035,
+            "type": "people",
+            "name": "Arai, Hideki",
+            "url": "https://myanimelist.net/people/3035/Hideki_Arai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 89,
+            "type": "manga",
+            "name": "Young Sunday (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/89/Young_Sunday_Weekly"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%82%A4%E3%82%BA%E3%83%BB%E3%83%9E%E3%82%A4%E3%83%B3"
+        }
+    ]
+}

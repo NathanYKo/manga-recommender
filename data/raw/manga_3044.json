@@ -1,0 +1,166 @@
+{
+    "mal_id": 3044,
+    "url": "https://myanimelist.net/manga/3044/Working",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/3306.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/3306t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/3306l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/3306.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/3306t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/3306l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Working!!"
+        },
+        {
+            "type": "Japanese",
+            "title": "WORKING!!"
+        }
+    ],
+    "title": "Working!!",
+    "title_english": null,
+    "title_japanese": "WORKING!!",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 281,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-12-17T00:00:00+00:00",
+        "to": "2014-11-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 12,
+                "year": 2004
+            },
+            "to": {
+                "day": 7,
+                "month": 11,
+                "year": 2014
+            }
+        },
+        "string": "Dec 17, 2004 to Nov 7, 2014"
+    },
+    "score": 7.69,
+    "scored": 7.69,
+    "scored_by": 3033,
+    "rank": 1815,
+    "popularity": 1988,
+    "members": 10841,
+    "favorites": 113,
+    "synopsis": "Set in a family restaurant in Hokkaido, the northern prefecture of Japan, 16-year-old high school student Souta Takanashi works part-time along with his strange co-workers: Popura Taneshima, a high school girl who's a year older than Souta, yet easily mistaken for an elementary/middle schooler, and Kyoko Shirafuji, the 28-year-old store manager who doesn't bother to do any work at all.\n\n(Source: NIS America)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4590,
+            "type": "people",
+            "name": "Takatsu, Karino",
+            "url": "https://myanimelist.net/people/4590/Karino_Takatsu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 85325,
+                    "type": "manga",
+                    "name": "Working!!: Re:Order",
+                    "url": "https://myanimelist.net/manga/85325/Working__Re_Order"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 6956,
+                    "type": "anime",
+                    "name": "Working!!",
+                    "url": "https://myanimelist.net/anime/6956/Working"
+                },
+                {
+                    "mal_id": 10521,
+                    "type": "anime",
+                    "name": "Working'!!",
+                    "url": "https://myanimelist.net/anime/10521/Working"
+                },
+                {
+                    "mal_id": 25879,
+                    "type": "anime",
+                    "name": "Working!!!",
+                    "url": "https://myanimelist.net/anime/25879/Working"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 91866,
+                    "type": "manga",
+                    "name": "Working!! Web-ban",
+                    "url": "https://myanimelist.net/manga/91866/Working_Web-ban"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.co.jp/magazine/yg/introduction/working/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/WORKING!!"
+        }
+    ]
+}

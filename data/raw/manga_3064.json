@@ -1,0 +1,133 @@
+{
+    "mal_id": 3064,
+    "url": "https://myanimelist.net/manga/3064/Kiichi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/262849.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/262849t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/262849l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/262849.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/262849t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/262849l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kiichi!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ki-ichi!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fai One"
+        },
+        {
+            "type": "Japanese",
+            "title": "キーチ!!"
+        }
+    ],
+    "title": "Kiichi!!",
+    "title_english": null,
+    "title_japanese": "キーチ!!",
+    "title_synonyms": [
+        "Ki-ichi!!",
+        "Fai One"
+    ],
+    "type": "Manga",
+    "chapters": 87,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-01T00:00:00+00:00",
+        "to": "2006-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            }
+        },
+        "string": "2001 to 2006"
+    },
+    "score": 7.91,
+    "scored": 7.91,
+    "scored_by": 1830,
+    "rank": 970,
+    "popularity": 2556,
+    "members": 8658,
+    "favorites": 173,
+    "synopsis": "Left to himself at an early age in the slummiest parts of today’s Japan, Kiichi learns how to survive on his own. As a teenager, how can he adapt to a society whose rules he rejects? Unless he creates his own rules… Kiichi, a raw icon of strength and integrity, stands alone against the world’s injustice and becomes an unforgettable character.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3035,
+            "type": "people",
+            "name": "Arai, Hideki",
+            "url": "https://myanimelist.net/people/3035/Hideki_Arai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 264,
+            "type": "manga",
+            "name": "Big Comic Superior",
+            "url": "https://myanimelist.net/manga/magazine/264/Big_Comic_Superior"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 15547,
+                    "type": "manga",
+                    "name": "Kiichi VS",
+                    "url": "https://myanimelist.net/manga/15547/Kiichi_VS"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%83%81!!"
+        }
+    ]
+}

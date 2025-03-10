@@ -1,0 +1,144 @@
+{
+    "mal_id": 1250,
+    "url": "https://myanimelist.net/manga/1250/Deep_Love__Ayu_no_Monogatari",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/1007.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/1007t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/1007l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/1007.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/1007t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/1007l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Deep Love: Ayu no Monogatari"
+        },
+        {
+            "type": "Synonym",
+            "title": "Deep Love: The Story of Ayu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Deep Love: Ayu's Story"
+        },
+        {
+            "type": "Japanese",
+            "title": "Deep Love アユの物語"
+        }
+    ],
+    "title": "Deep Love: Ayu no Monogatari",
+    "title_english": null,
+    "title_japanese": "Deep Love アユの物語",
+    "title_synonyms": [
+        "Deep Love: The Story of Ayu",
+        "Deep Love: Ayu's Story"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-05-13T00:00:00+00:00",
+        "to": "2004-09-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 5,
+                "year": 2004
+            },
+            "to": {
+                "day": 13,
+                "month": 9,
+                "year": 2004
+            }
+        },
+        "string": "May 13, 2004 to Sep 13, 2004"
+    },
+    "score": 7.94,
+    "scored": 7.94,
+    "scored_by": 9716,
+    "rank": 898,
+    "popularity": 1086,
+    "members": 18531,
+    "favorites": 417,
+    "synopsis": "Based on Yoshi's hit novel series, \"Deep Love\" depicts the struggling life of Ayu, a 17-year-old high school girl who believes neither in a future nor the happiness it could bring her. By selling her body as a teenage prostitute, she's trying to justify her existence, which is as bleak as her heart: it's void of joy, sorrow, love. It's not until her encounter with a kind-hearted old lady that Ayu begins to realize the true meaning of happiness...\n\n(Source: manganews.net)",
+    "background": "Ayu no Monogatari was adapted by TV Tokyo into a live-action drama series in 2004.",
+    "authors": [
+        {
+            "mal_id": 2083,
+            "type": "people",
+            "name": "Yoshi",
+            "url": "https://myanimelist.net/people/2083/Yoshi"
+        },
+        {
+            "mal_id": 8642,
+            "type": "people",
+            "name": "Yoshii, Yuu",
+            "url": "https://myanimelist.net/people/8642/Yuu_Yoshii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 3101,
+                    "type": "manga",
+                    "name": "Deep Love: Pao no Monogatari",
+                    "url": "https://myanimelist.net/manga/3101/Deep_Love__Pao_no_Monogatari"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1848,
+                    "type": "manga",
+                    "name": "Deep Love: Host",
+                    "url": "https://myanimelist.net/manga/1848/Deep_Love__Host"
+                },
+                {
+                    "mal_id": 1975,
+                    "type": "manga",
+                    "name": "Deep Love: Reina no Unmei",
+                    "url": "https://myanimelist.net/manga/1975/Deep_Love__Reina_no_Unmei"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

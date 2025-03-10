@@ -1,0 +1,127 @@
+{
+    "mal_id": 36409,
+    "url": "https://myanimelist.net/manga/36409/Ouji_to_Hero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/195997.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/195997t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/195997l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/195997.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/195997t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/195997l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ouji to Hero"
+        },
+        {
+            "type": "Japanese",
+            "title": "王子とヒーロー"
+        },
+        {
+            "type": "English",
+            "title": "Prince & Hero"
+        }
+    ],
+    "title": "Ouji to Hero",
+    "title_english": "Prince & Hero",
+    "title_japanese": "王子とヒーロー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-11-02T00:00:00+00:00",
+        "to": "2012-12-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 11,
+                "year": 2012
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Nov 2, 2012 to Dec 28, 2012"
+    },
+    "score": 6.87,
+    "scored": 6.87,
+    "scored_by": 1923,
+    "rank": 10982,
+    "popularity": 4705,
+    "members": 4691,
+    "favorites": 16,
+    "synopsis": "Hana, a country girl, has to move to Tokyo because of her father's work, and what's this? Her school is like a castle, her classmates have their own chauffeurs, and everyone is all sparkly and beautiful?\n\n(Source: MU)\n\nIncluded one-shot:\nVolume 4: Innocent World: Yume",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5167,
+            "type": "people",
+            "name": "Yamada, Daisy",
+            "url": "https://myanimelist.net/people/5167/Daisy_Yamada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Nakayoshi",
+            "url": "https://myanimelist.net/manga/magazine/20/Nakayoshi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 7263,
+                    "type": "manga",
+                    "name": "Innocent World",
+                    "url": "https://myanimelist.net/manga/7263/Innocent_World"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

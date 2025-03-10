@@ -1,0 +1,135 @@
+{
+    "mal_id": 891,
+    "url": "https://myanimelist.net/manga/891/Shounen_Zanzou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/264682.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/264682t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/264682l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/264682.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/264682t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/264682l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shounen Zanzou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Devil Inside"
+        },
+        {
+            "type": "Synonym",
+            "title": "When A Heart Beats"
+        },
+        {
+            "type": "Synonym",
+            "title": "Boy's Next Door"
+        },
+        {
+            "type": "Synonym",
+            "title": "Boys Next Door"
+        },
+        {
+            "type": "Japanese",
+            "title": "少年残像"
+        }
+    ],
+    "title": "Shounen Zanzou",
+    "title_english": null,
+    "title_japanese": "少年残像",
+    "title_synonyms": [
+        "Devil Inside",
+        "When A Heart Beats",
+        "Boy's Next Door",
+        "Boys Next Door"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-03-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 3,
+                "year": 1998
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 1998"
+    },
+    "score": 7.44,
+    "scored": 7.44,
+    "scored_by": 5179,
+    "rank": 3478,
+    "popularity": 2288,
+    "members": 9561,
+    "favorites": 200,
+    "synopsis": "1. Boys Next Door\n2. Devil Inside\n3. When a Heart Beats",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2039,
+            "type": "people",
+            "name": "Yuki, Kaori",
+            "url": "https://myanimelist.net/people/2039/Kaori_Yuki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Boys_Next_Door_%28manga%29"
+        }
+    ]
+}

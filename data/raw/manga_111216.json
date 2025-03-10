@@ -1,0 +1,120 @@
+{
+    "mal_id": 111216,
+    "url": "https://myanimelist.net/manga/111216/Demon_Tune",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/209790.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/209790t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/209790l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/209790.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/209790t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/209790l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Demon Tune"
+        },
+        {
+            "type": "Japanese",
+            "title": "DEMON TUNE"
+        }
+    ],
+    "title": "Demon Tune",
+    "title_english": null,
+    "title_japanese": "DEMON TUNE",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-01-04T00:00:00+00:00",
+        "to": "2019-05-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 2,
+                "month": 5,
+                "year": 2019
+            }
+        },
+        "string": "Jan 4, 2018 to May 2, 2019"
+    },
+    "score": 6.72,
+    "scored": 6.72,
+    "scored_by": 653,
+    "rank": 13420,
+    "popularity": 8467,
+    "members": 2383,
+    "favorites": 12,
+    "synopsis": "In Wizard City, an encounter between a ninja and a fairy begins a new legend. Bloody fights, demons and fantasy creatures are just some of the things that await our two protagonists.\n\nA new and fantastic adventure begins!\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11214,
+            "type": "people",
+            "name": "Kodama, Yuuki",
+            "url": "https://myanimelist.net/people/11214/Yuuki_Kodama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://jumpsq.shueisha.co.jp/rensai/demontune/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/DEMON_TUNE"
+        }
+    ]
+}

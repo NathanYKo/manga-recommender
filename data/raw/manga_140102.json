@@ -1,0 +1,132 @@
+{
+    "mal_id": 140102,
+    "url": "https://myanimelist.net/manga/140102/Mishiranu_Joshikousei_ni_Kankin_sareta_Mangaka_no_Hanashi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/256442.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/256442t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/256442l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/256442.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/256442t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/256442l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mishiranu Joshikousei ni Kankin sareta Mangaka no Hanashi"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Story of a Manga Artist Confined by a Strange High School Girl"
+        },
+        {
+            "type": "Japanese",
+            "title": "見知らぬ女子高生に監禁された漫画家の話"
+        }
+    ],
+    "title": "Mishiranu Joshikousei ni Kankin sareta Mangaka no Hanashi",
+    "title_english": null,
+    "title_japanese": "見知らぬ女子高生に監禁された漫画家の話",
+    "title_synonyms": [
+        "The Story of a Manga Artist Confined by a Strange High School Girl"
+    ],
+    "type": "Manga",
+    "chapters": 48,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2021-09-03T00:00:00+00:00",
+        "to": "2022-08-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 9,
+                "year": 2021
+            },
+            "to": {
+                "day": 19,
+                "month": 8,
+                "year": 2022
+            }
+        },
+        "string": "Sep 3, 2021 to Aug 19, 2022"
+    },
+    "score": 6.8,
+    "scored": 6.8,
+    "scored_by": 4132,
+    "rank": 12156,
+    "popularity": 1785,
+    "members": 12121,
+    "favorites": 156,
+    "synopsis": "The story of a mangaka who becomes imprisoned by a mysterious high school girl.\n\nIncluded one-shot:\nVolume 2: Fetish Senpai@Kaihatsuchuu",
+    "background": "Mishiranu Joshikousei ni Kankin sareta Mangaka no Hanashi was originally a web manga released on the author's Twitter and pixiv accounts from July 13, 2021 to August 20, 2021. Official serialization started in Shounen Ace Plus on September 3, 2021.",
+    "authors": [
+        {
+            "mal_id": 33643,
+            "type": "people",
+            "name": "Kitada, Ryouma",
+            "url": "https://myanimelist.net/people/33643/Ryouma_Kitada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1537,
+            "type": "manga",
+            "name": "Shounen Ace Plus",
+            "url": "https://myanimelist.net/manga/magazine/1537/Shounen_Ace_Plus"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 174522,
+                    "type": "manga",
+                    "name": "Mishiranu Joshikousei ni Kankin sareta Toki no Hanashi: Rafu Dessin Route-hen",
+                    "url": "https://myanimelist.net/manga/174522/Mishiranu_Joshikousei_ni_Kankin_sareta_Toki_no_Hanashi__Rafu_Dessin_Route-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 143385,
+                    "type": "manga",
+                    "name": "Mishiranu Joshikousei ni Kankin sareta Mangaka no Hanashi",
+                    "url": "https://myanimelist.net/manga/143385/Mishiranu_Joshikousei_ni_Kankin_sareta_Mangaka_no_Hanashi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://web-ace.jp/shonenaceplus/contents/3000005/"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "mal_id": 4941,
+    "url": "https://myanimelist.net/manga/4941/Death_Note__Tokubetsu-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/226627.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/226627t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/226627l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/226627.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/226627t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/226627l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Death Note: Tokubetsu-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Death Note One Shot"
+        },
+        {
+            "type": "Synonym",
+            "title": "Death Note Special Chapter"
+        },
+        {
+            "type": "Japanese",
+            "title": "DEATH NOTE 特別編"
+        }
+    ],
+    "title": "Death Note: Tokubetsu-hen",
+    "title_english": null,
+    "title_japanese": "DEATH NOTE 特別編",
+    "title_synonyms": [
+        "Death Note One Shot",
+        "Death Note Special Chapter"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-02-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 2,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 9, 2008"
+    },
+    "score": 6.98,
+    "scored": 6.98,
+    "scored_by": 17599,
+    "rank": 9298,
+    "popularity": 598,
+    "members": 31593,
+    "favorites": 127,
+    "synopsis": "It has been three years since the \"Kira Killings\" came to a halt, but the world has not forgotten that godlike figure. While rumors circulate that Kira was killed, others claim that Kira is merely taking a break and that their rebirth is inevitable. Although this is nothing but gossip, soon enough, Japan falls under the Death Note's spell once again. \n\nWhen a spike in elderly deaths occurs, many believe that Kira is making a comeback. This time, however, those dying are publicly wishing for Kira to kill them, inspiring many other suicidal individuals to call upon Kira's powers. With both publicity and the number of deaths ramping up, the Japanese police and the anonymous detective L are drawn in to tackle the return of the Death Note.\n\n[Written by MAL Rewrite]",
+    "background": "Death Note: Tokubetsu-hen was drawn in commemoration of the screening of the live-action movie, L change the WorLd. The one-shot was published in English as a part of VIZ Media's Death Note All-in-One Edition, which was released on September 6, 2017.",
+    "authors": [
+        {
+            "mal_id": 1888,
+            "type": "people",
+            "name": "Obata, Takeshi",
+            "url": "https://myanimelist.net/people/1888/Takeshi_Obata"
+        },
+        {
+            "mal_id": 2111,
+            "type": "people",
+            "name": "Ohba, Tsugumi",
+            "url": "https://myanimelist.net/people/2111/Tsugumi_Ohba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 21,
+                    "type": "manga",
+                    "name": "Death Note",
+                    "url": "https://myanimelist.net/manga/21/Death_Note"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 123699,
+                    "type": "manga",
+                    "name": "Death Note: Tokubetsu Yomikiri",
+                    "url": "https://myanimelist.net/manga/123699/Death_Note__Tokubetsu_Yomikiri"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,127 @@
+{
+    "mal_id": 130388,
+    "url": "https://myanimelist.net/manga/130388/Kimetsu_no_Yaiba__Tokubetsu_Yomikiri",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/236795.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/236795t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/236795l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/236795.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/236795t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/236795l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimetsu no Yaiba: Tokubetsu Yomikiri"
+        },
+        {
+            "type": "Japanese",
+            "title": "鬼滅の刃 特別読切"
+        },
+        {
+            "type": "English",
+            "title": "Kimetsu no Yaiba: Special One-shot"
+        }
+    ],
+    "title": "Kimetsu no Yaiba: Tokubetsu Yomikiri",
+    "title_english": "Kimetsu no Yaiba: Special One-shot",
+    "title_japanese": "鬼滅の刃 特別読切",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-10-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 5, 2020"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 4995,
+    "rank": 4385,
+    "popularity": 2533,
+    "members": 8714,
+    "favorites": 58,
+    "synopsis": "Special one-shot about Rengoku's First Mission.",
+    "background": "Kimetsu no Yaiba: Tokubetsu Yomikiri was originally published in the Weekly Shounen Jump 2020 #44 issue on October 5, 2020. Later included in the Kimetsu no Yaiba Rengoku Reikan booklet given to people who viewed Kimetsu no Yaiba Movie: Mugen Ressha-hen in Japanese theaters, with only 4.5 Million Copies given out. The one-shot was also later included in the second Kimetsu no Yaiba Koushiki Fanbook: Kisatsutai Kenbunroku book.",
+    "authors": [
+        {
+            "mal_id": 40398,
+            "type": "people",
+            "name": "Gotouge, Koyoharu",
+            "url": "https://myanimelist.net/people/40398/Koyoharu_Gotouge"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 96792,
+                    "type": "manga",
+                    "name": "Kimetsu no Yaiba",
+                    "url": "https://myanimelist.net/manga/96792/Kimetsu_no_Yaiba"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

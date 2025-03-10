@@ -1,0 +1,127 @@
+{
+    "mal_id": 22597,
+    "url": "https://myanimelist.net/manga/22597/Gokicha",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/179815.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/179815t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/179815l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/179815.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/179815t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/179815l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gokicha"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gokiburi Gijinka"
+        },
+        {
+            "type": "Japanese",
+            "title": "ごきチャ"
+        }
+    ],
+    "title": "Gokicha",
+    "title_english": null,
+    "title_japanese": "ごきチャ",
+    "title_synonyms": [
+        "Gokiburi Gijinka"
+    ],
+    "type": "Manga",
+    "chapters": 70,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-01-28T00:00:00+00:00",
+        "to": "2016-06-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2016
+            }
+        },
+        "string": "Jan 28, 2011 to Jun 28, 2016"
+    },
+    "score": 7.28,
+    "scored": 7.28,
+    "scored_by": 1219,
+    "rank": 5120,
+    "popularity": 4978,
+    "members": 4408,
+    "favorites": 48,
+    "synopsis": "Behold the the struggle of the adorable little cockroach Gokicha-chan as she struggles to make friends with humans after moving to frigid Hokkaido to escape the unfortunate reputation her species enjoys in the Kanto region.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11323,
+            "type": "people",
+            "name": "Rui, Tamachi",
+            "url": "https://myanimelist.net/people/11323/Tamachi_Rui"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 361,
+            "type": "manga",
+            "name": "Manga Time Kirara Carat",
+            "url": "https://myanimelist.net/manga/magazine/361/Manga_Time_Kirara_Carat"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 51,
+            "type": "manga",
+            "name": "Anthropomorphic",
+            "url": "https://myanimelist.net/manga/genre/51/Anthropomorphic"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 10258,
+                    "type": "anime",
+                    "name": "Gokicha!!",
+                    "url": "https://myanimelist.net/anime/10258/Gokicha"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%94%E3%81%8D%E3%83%81%E3%83%A3"
+        }
+    ]
+}

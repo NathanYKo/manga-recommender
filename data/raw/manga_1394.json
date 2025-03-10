@@ -1,0 +1,150 @@
+{
+    "mal_id": 1394,
+    "url": "https://myanimelist.net/manga/1394/Shoujo_Sect",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/111587.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/111587t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/111587l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/111587.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/111587t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/111587l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shoujo Sect"
+        },
+        {
+            "type": "Japanese",
+            "title": "少女セクト"
+        }
+    ],
+    "title": "Shoujo Sect",
+    "title_english": null,
+    "title_japanese": "少女セクト",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-06-17T00:00:00+00:00",
+        "to": "2005-09-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 6,
+                "year": 2003
+            },
+            "to": {
+                "day": 17,
+                "month": 9,
+                "year": 2005
+            }
+        },
+        "string": "Jun 17, 2003 to Sep 17, 2005"
+    },
+    "score": 6.98,
+    "scored": 6.98,
+    "scored_by": 3799,
+    "rank": null,
+    "popularity": 2298,
+    "members": 9511,
+    "favorites": 120,
+    "synopsis": "A story about a group of girls and their relationships at an all-girls school.\n\nShinobu Handa and Momoko Naitou know each other since childhood. Shinobu fell in love with Momoko from the first day they met. Now in High School, Momoko has forgotten about the past, but Shinobu hasn't. Both follow their own ways but Shinobu still hopes for Momoko to remember their promise from long ago.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2987,
+            "type": "people",
+            "name": "Kurogane, Kenn",
+            "url": "https://myanimelist.net/people/2987/Kenn_Kurogane"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 404,
+            "type": "manga",
+            "name": "Comic Megastore",
+            "url": "https://myanimelist.net/manga/magazine/404/Comic_Megastore"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        },
+        {
+            "mal_id": 12,
+            "type": "manga",
+            "name": "Hentai",
+            "url": "https://myanimelist.net/manga/genre/12/Hentai"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 4473,
+                    "type": "anime",
+                    "name": "Shoujo Sect",
+                    "url": "https://myanimelist.net/anime/4473/Shoujo_Sect"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 10667,
+                    "type": "manga",
+                    "name": "Isuzu no Counter",
+                    "url": "https://myanimelist.net/manga/10667/Isuzu_no_Counter"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%B0%91%E5%A5%B3%E3%82%BB%E3%82%AF%E3%83%88"
+        }
+    ]
+}

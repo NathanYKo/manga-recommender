@@ -1,0 +1,151 @@
+{
+    "mal_id": 144695,
+    "url": "https://myanimelist.net/manga/144695/Blue_Lock__Episode_Nagi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/269866.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/269866t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/269866l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/269866.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/269866t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/269866l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Blue Lock: Episode Nagi"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブルーロック-EPISODE 凪-"
+        },
+        {
+            "type": "English",
+            "title": "Blue Lock: Episode Nagi"
+        }
+    ],
+    "title": "Blue Lock: Episode Nagi",
+    "title_english": "Blue Lock: Episode Nagi",
+    "title_japanese": "ブルーロック-EPISODE 凪-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2022-06-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 6,
+                "year": 2022
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 9, 2022 to ?"
+    },
+    "score": 7.94,
+    "scored": 7.94,
+    "scored_by": 4014,
+    "rank": 891,
+    "popularity": 1962,
+    "members": 11037,
+    "favorites": 155,
+    "synopsis": "A spin-off series of Blue Lock focusing on Seishirou Nagi and Reo Mikage.",
+    "background": "Blue Lock: Episode Nagi has been published digitally as an English simulpub through K Manga. The volumes have also been published by Kodansha USA since October 15, 2024.",
+    "authors": [
+        {
+            "mal_id": 19049,
+            "type": "people",
+            "name": "Kaneshiro, Muneyuki",
+            "url": "https://myanimelist.net/people/19049/Muneyuki_Kaneshiro"
+        },
+        {
+            "mal_id": 47372,
+            "type": "people",
+            "name": "Sannomiya, Kouta",
+            "url": "https://myanimelist.net/people/47372/Kouta_Sannomiya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 450,
+            "type": "manga",
+            "name": "Bessatsu Shounen Magazine",
+            "url": "https://myanimelist.net/manga/magazine/450/Bessatsu_Shounen_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 54866,
+                    "type": "anime",
+                    "name": "Blue Lock: Episode Nagi",
+                    "url": "https://myanimelist.net/anime/54866/Blue_Lock__Episode_Nagi"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 114745,
+                    "type": "manga",
+                    "name": "Blue Lock",
+                    "url": "https://myanimelist.net/manga/114745/Blue_Lock"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/blue-lock-episode-nagi"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Blue_Lock"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF"
+        }
+    ]
+}

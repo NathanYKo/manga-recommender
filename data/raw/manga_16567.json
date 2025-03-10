@@ -1,0 +1,149 @@
+{
+    "mal_id": 16567,
+    "url": "https://myanimelist.net/manga/16567/Superior_Cross",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/144349.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/144349t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/144349l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/144349.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/144349t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/144349l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Superior Cross"
+        },
+        {
+            "type": "Synonym",
+            "title": "Superior †"
+        },
+        {
+            "type": "Japanese",
+            "title": "シューピアリア・クロス"
+        }
+    ],
+    "title": "Superior Cross",
+    "title_english": null,
+    "title_japanese": "シューピアリア・クロス",
+    "title_synonyms": [
+        "Superior †"
+    ],
+    "type": "Manga",
+    "chapters": 28,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-04-18T00:00:00+00:00",
+        "to": "2011-07-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 18,
+                "month": 7,
+                "year": 2011
+            }
+        },
+        "string": "Apr 18, 2009 to Jul 18, 2011"
+    },
+    "score": 7.68,
+    "scored": 7.68,
+    "scored_by": 4496,
+    "rank": 1867,
+    "popularity": 2418,
+    "members": 9070,
+    "favorites": 102,
+    "synopsis": "Continues the story from Superior, about a hero who's aim is to defeat the demon queen while being accompanied by the demon queen herself...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6284,
+            "type": "people",
+            "name": "ichtys",
+            "url": "https://myanimelist.net/people/6284/ichtys"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "GFantasy",
+            "url": "https://myanimelist.net/manga/magazine/35/GFantasy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1533,
+                    "type": "manga",
+                    "name": "Superior",
+                    "url": "https://myanimelist.net/manga/1533/Superior"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.co.jp/magazine/gfantasy/story/superior/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%94%E3%82%A2%E3%83%AA%E3%82%A2"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "mal_id": 11942,
+    "url": "https://myanimelist.net/manga/11942/Sumire♡17-sai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/116283.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/116283t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/116283l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/116283.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/116283t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/116283l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sumire♡17-sai!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sumire 17sai!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sumire"
+        },
+        {
+            "type": "Synonym",
+            "title": "17 Years-Old!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sumire Seventeen"
+        },
+        {
+            "type": "Japanese",
+            "title": "スミレ♡17歳!!"
+        }
+    ],
+    "title": "Sumire♡17-sai!!",
+    "title_english": null,
+    "title_japanese": "スミレ♡17歳!!",
+    "title_synonyms": [
+        "Sumire 17sai!!",
+        "Sumire",
+        "17 Years-Old!!",
+        "Sumire Seventeen"
+    ],
+    "type": "Manga",
+    "chapters": 18,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-03-23T00:00:00+00:00",
+        "to": "2006-03-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 3,
+                "year": 2005
+            },
+            "to": {
+                "day": 20,
+                "month": 3,
+                "year": 2006
+            }
+        },
+        "string": "Mar 23, 2005 to Mar 20, 2006"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 1208,
+    "rank": 5197,
+    "popularity": 7948,
+    "members": 2579,
+    "favorites": 10,
+    "synopsis": "Sumire is a 17 year old high school girl who wants nothing more than to make friends with her new classmates. She's so dissappointed that they all seem to hate her, calling her a pervert, a dirty old man, creepy, weirdo... alas, what is a poor lifesized puppet to do in this cruel world.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4781,
+            "type": "people",
+            "name": "Nagayoshi, Takeru",
+            "url": "https://myanimelist.net/people/4781/Takeru_Nagayoshi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 5820,
+                    "type": "manga",
+                    "name": "Sumire♡16-sai!!",
+                    "url": "https://myanimelist.net/manga/5820/Sumire♡16-sai"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

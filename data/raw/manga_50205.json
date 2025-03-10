@@ -1,0 +1,140 @@
+{
+    "mal_id": 50205,
+    "url": "https://myanimelist.net/manga/50205/Mirai_Nikki__Redial",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/306883.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/306883t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/306883l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/306883.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/306883t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/306883l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mirai Nikki: Redial"
+        },
+        {
+            "type": "Synonym",
+            "title": "Future Diary: Redial"
+        },
+        {
+            "type": "Japanese",
+            "title": "未来日記リダイヤル"
+        }
+    ],
+    "title": "Mirai Nikki: Redial",
+    "title_english": null,
+    "title_japanese": "未来日記リダイヤル",
+    "title_synonyms": [
+        "Future Diary: Redial"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-03-26T00:00:00+00:00",
+        "to": "2013-07-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 3,
+                "year": 2013
+            },
+            "to": {
+                "day": 24,
+                "month": 7,
+                "year": 2013
+            }
+        },
+        "string": "Mar 26, 2013 to Jul 24, 2013"
+    },
+    "score": 7.07,
+    "scored": 7.07,
+    "scored_by": 5051,
+    "rank": 7927,
+    "popularity": 2010,
+    "members": 10681,
+    "favorites": 71,
+    "synopsis": "A story that picks up after the first story ends. It tells the tale of the 3rd Universe's Gasai Yuno after her encounter with the Yukiteru and Yuno of the other universes. Her life seems normal, but something feels like it is missing. She can't help being fascinated with the boy in her grade, Amano Yukiteru, because he keeps appearing in her dreams...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2518,
+            "type": "people",
+            "name": "Esuno, Sakae",
+            "url": "https://myanimelist.net/people/2518/Sakae_Esuno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 59,
+            "type": "manga",
+            "name": "High Stakes Game",
+            "url": "https://myanimelist.net/manga/genre/59/High_Stakes_Game"
+        },
+        {
+            "mal_id": 77,
+            "type": "manga",
+            "name": "Survival",
+            "url": "https://myanimelist.net/manga/genre/77/Survival"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 584,
+                    "type": "manga",
+                    "name": "Mirai Nikki",
+                    "url": "https://myanimelist.net/manga/584/Mirai_Nikki"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 16762,
+                    "type": "anime",
+                    "name": "Mirai Nikki: Redial",
+                    "url": "https://myanimelist.net/anime/16762/Mirai_Nikki__Redial"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,148 @@
+{
+    "mal_id": 91536,
+    "url": "https://myanimelist.net/manga/91536/Imawa_no_Michi_no_Alice",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/173026.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/173026t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/173026l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/173026.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/173026t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/173026l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Imawa no Michi no Alice"
+        },
+        {
+            "type": "Japanese",
+            "title": "今際の路のアリス"
+        },
+        {
+            "type": "English",
+            "title": "Alice on Border Road"
+        }
+    ],
+    "title": "Imawa no Michi no Alice",
+    "title_english": "Alice on Border Road",
+    "title_japanese": "今際の路のアリス",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 31,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-08-19T00:00:00+00:00",
+        "to": "2018-02-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 8,
+                "year": 2015
+            },
+            "to": {
+                "day": 19,
+                "month": 2,
+                "year": 2018
+            }
+        },
+        "string": "Aug 19, 2015 to Feb 19, 2018"
+    },
+    "score": 6.67,
+    "scored": 6.67,
+    "scored_by": 2053,
+    "rank": 14234,
+    "popularity": 4412,
+    "members": 5058,
+    "favorites": 12,
+    "synopsis": "The manga follows \"another Alice,\" a female high school student who curses her everyday life. When by chance she loses her way on the \"Borderroad,\" she is forced to participate in deadly survival games with other female high school students.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5606,
+            "type": "people",
+            "name": "Aso, Haro",
+            "url": "https://myanimelist.net/people/5606/Haro_Aso"
+        },
+        {
+            "mal_id": 16979,
+            "type": "people",
+            "name": "Kuroda, Takayoshi",
+            "url": "https://myanimelist.net/people/16979/Takayoshi_Kuroda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Sunday Gene-X",
+            "url": "https://myanimelist.net/manga/magazine/40/Sunday_Gene-X"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 33031,
+                    "type": "manga",
+                    "name": "Imawa no Kuni no Alice",
+                    "url": "https://myanimelist.net/manga/33031/Imawa_no_Kuni_no_Alice"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_in_Borderland"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E9%9A%9B%E3%81%AE%E5%9B%BD%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9"
+        }
+    ]
+}

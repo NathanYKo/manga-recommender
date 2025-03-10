@@ -1,0 +1,149 @@
+{
+    "mal_id": 90014,
+    "url": "https://myanimelist.net/manga/90014/Ex-Arm",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/163539.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/163539t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/163539l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/163539.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/163539t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/163539l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ex-Arm"
+        },
+        {
+            "type": "Japanese",
+            "title": "EX-ARM エクスアーム"
+        }
+    ],
+    "title": "Ex-Arm",
+    "title_english": null,
+    "title_japanese": "EX-ARM エクスアーム",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 98,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-02-18T00:00:00+00:00",
+        "to": "2019-06-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 2,
+                "year": 2015
+            },
+            "to": {
+                "day": 26,
+                "month": 6,
+                "year": 2019
+            }
+        },
+        "string": "Feb 18, 2015 to Jun 26, 2019"
+    },
+    "score": 6.35,
+    "scored": 6.35,
+    "scored_by": 959,
+    "rank": 18029,
+    "popularity": 4153,
+    "members": 5428,
+    "favorites": 23,
+    "synopsis": "Besides his extreme phobia of electronic devices, Akira Natsume lives his life as a completely ordinary teenager. In contrast, his brother Shuuichi is a university student who excels in many aspects of life. Wanting to follow in Shuuichi's footsteps, Akira becomes determined to better himself. But before he can accomplish this goal, he is hit by a truck while attempting to rescue a girl from delinquents.\n\nAfter regaining consciousness, Akira is astonished to find himself inside a machine; furthermore, 16 years have passed since the truck accident. Amid Akira's confusion, police officer Minami Uezono explains that Akira's brain resides inside an EX-ARM—a highly advanced weapon capable of causing immense destruction. Accompanied by an android named Alma, Minami is currently aboard an enemy smuggler ship to complete a crucial mission: retrieve Akira's EX-ARM.\n\nDespite initially being bewildered, Akira quickly learns to utilize the vast power of his EX-ARM and eventually meets the head of the EX-ARM Countermeasure Division, a police department that prevents crimes caused by the machines. Subsequently, Akira takes on the task of eradicating these heinous crimes—which may lead him to discover the reason behind his present state.\n\n[Written by MAL Rewrite]",
+    "background": "Ex-Arm was serialized in Grand Jump magazine until issue #1 2018, and then moved to Shueisha's digital platform magazine, Shounen Jump+ on December 20, 2017.",
+    "authors": [
+        {
+            "mal_id": 20420,
+            "type": "people",
+            "name": "Komi, Shinya",
+            "url": "https://myanimelist.net/people/20420/Shinya_Komi"
+        },
+        {
+            "mal_id": 33265,
+            "type": "people",
+            "name": "HiRock",
+            "url": "https://myanimelist.net/people/33265/HiRock"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1209,
+            "type": "manga",
+            "name": "Shounen Jump+",
+            "url": "https://myanimelist.net/manga/magazine/1209/Shounen_Jump_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 121599,
+                    "type": "manga",
+                    "name": "Ex-Arm Exa",
+                    "url": "https://myanimelist.net/manga/121599/Ex-Arm_Exa"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38853,
+                    "type": "anime",
+                    "name": "Ex-Arm",
+                    "url": "https://myanimelist.net/anime/38853/Ex-Arm"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 46600,
+                    "type": "manga",
+                    "name": "Ex-Vita",
+                    "url": "https://myanimelist.net/manga/46600/Ex-Vita"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/EX-ARM%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%A0"
+        }
+    ]
+}

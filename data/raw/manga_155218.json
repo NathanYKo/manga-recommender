@@ -1,0 +1,115 @@
+{
+    "mal_id": 155218,
+    "url": "https://myanimelist.net/manga/155218/Tokimori-san_ga_Muboubi_desu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/281536.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/281536t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/281536l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/281536.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/281536t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/281536l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tokimori-san ga Muboubi desu!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tokimori-san is Completely Defenseless!!"
+        },
+        {
+            "type": "Japanese",
+            "title": "時森さんが無防備です!!"
+        }
+    ],
+    "title": "Tokimori-san ga Muboubi desu!!",
+    "title_english": null,
+    "title_japanese": "時森さんが無防備です!!",
+    "title_synonyms": [
+        "Tokimori-san is Completely Defenseless!!"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2022-08-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 8,
+                "year": 2022
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 31, 2022 to ?"
+    },
+    "score": 6.8,
+    "scored": 6.8,
+    "scored_by": 1420,
+    "rank": 12128,
+    "popularity": 3916,
+    "members": 5724,
+    "favorites": 10,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 63841,
+            "type": "people",
+            "name": "Tazawa",
+            "url": "https://myanimelist.net/people/63841/Tazawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1339,
+            "type": "manga",
+            "name": "Ganma!",
+            "url": "https://myanimelist.net/manga/magazine/1339/Ganma"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://ganma.jp/tokimorisan"
+        }
+    ]
+}

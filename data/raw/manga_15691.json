@@ -1,0 +1,133 @@
+{
+    "mal_id": 15691,
+    "url": "https://myanimelist.net/manga/15691/20_Seiki_Shounen__Ujiko_Ujio_Sakuhinshuu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/54433.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/54433t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/54433l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/54433.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/54433t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/54433l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "20 Seiki Shounen: Ujiko Ujio Sakuhinshuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "20th Century Boys: Ujiko Ujio's Mangari Michi"
+        },
+        {
+            "type": "Synonym",
+            "title": "20th Century Boys Spinoff - Ujiko Ujio Sakuhinshu"
+        },
+        {
+            "type": "Japanese",
+            "title": "20世紀少年の脇役 ウジコウジオ作品集"
+        }
+    ],
+    "title": "20 Seiki Shounen: Ujiko Ujio Sakuhinshuu",
+    "title_english": null,
+    "title_japanese": "20世紀少年の脇役 ウジコウジオ作品集",
+    "title_synonyms": [
+        "20th Century Boys: Ujiko Ujio's Mangari Michi",
+        "20th Century Boys Spinoff - Ujiko Ujio Sakuhinshu"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2009"
+    },
+    "score": 6.51,
+    "scored": 6.51,
+    "scored_by": 704,
+    "rank": 16478,
+    "popularity": 8033,
+    "members": 2542,
+    "favorites": 19,
+    "synopsis": "Two manga artists are trying their best to have their work accepted by someone who appears to be their superior. However their latest work has been denied and their superior requests that they should write a manga about a drama where a man protects the peace of the world. The two get together and begin to write a manga about a boy who promises a girl protection!\n\n(Source: Mamo)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1867,
+            "type": "people",
+            "name": "Urasawa, Naoki",
+            "url": "https://myanimelist.net/people/1867/Naoki_Urasawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 3,
+                    "type": "manga",
+                    "name": "20th Century Boys",
+                    "url": "https://myanimelist.net/manga/3/20th_Century_Boys"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

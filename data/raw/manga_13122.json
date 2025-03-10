@@ -1,0 +1,149 @@
+{
+    "mal_id": 13122,
+    "url": "https://myanimelist.net/manga/13122/Baki_Gaiden__Scarface",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/128621.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/128621t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/128621l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/128621.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/128621t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/128621l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Baki Gaiden: Scarface"
+        },
+        {
+            "type": "Synonym",
+            "title": "Baki Scarface"
+        },
+        {
+            "type": "Synonym",
+            "title": "Baki Gaiden: Kizudzura"
+        },
+        {
+            "type": "Japanese",
+            "title": "バキ外伝 疵面 －スカーフェイス－"
+        },
+        {
+            "type": "English",
+            "title": "Scarface: Legend of the Invincible Fist"
+        }
+    ],
+    "title": "Baki Gaiden: Scarface",
+    "title_english": "Scarface: Legend of the Invincible Fist",
+    "title_japanese": "バキ外伝 疵面 －スカーフェイス－",
+    "title_synonyms": [
+        "Baki Scarface",
+        "Baki Gaiden: Kizudzura"
+    ],
+    "type": "Manga",
+    "chapters": 66,
+    "volumes": 8,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-19T00:00:00+00:00",
+        "to": "2018-05-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 10,
+                "month": 5,
+                "year": 2018
+            }
+        },
+        "string": "Jan 19, 2005 to May 10, 2018"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 1119,
+    "rank": 4354,
+    "popularity": 6735,
+    "members": 3149,
+    "favorites": 15,
+    "synopsis": "Another story in the Baki world. This series follows Kaoru Hanayama's story.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4488,
+            "type": "people",
+            "name": "Itagaki, Keisuke",
+            "url": "https://myanimelist.net/people/4488/Keisuke_Itagaki"
+        },
+        {
+            "mal_id": 31977,
+            "type": "people",
+            "name": "Yamauchi, Yukinao",
+            "url": "https://myanimelist.net/people/31977/Yukinao_Yamauchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 5157,
+                    "type": "manga",
+                    "name": "Baki: New Grappler Baki",
+                    "url": "https://myanimelist.net/manga/5157/Baki__New_Grappler_Baki"
+                },
+                {
+                    "mal_id": 7760,
+                    "type": "manga",
+                    "name": "Hanma Baki",
+                    "url": "https://myanimelist.net/manga/7760/Hanma_Baki"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%83%E3%83%97%E3%83%A9%E3%83%BC%E5%88%83%E7%89%99"
+        }
+    ]
+}

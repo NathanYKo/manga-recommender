@@ -1,0 +1,147 @@
+{
+    "mal_id": 55585,
+    "url": "https://myanimelist.net/manga/55585/Yoru_wo_Tomenaide",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/171830.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/171830t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/171830l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/171830.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/171830t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/171830l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yoru wo Tomenaide"
+        },
+        {
+            "type": "Synonym",
+            "title": "Don't Stop the Night"
+        },
+        {
+            "type": "Synonym",
+            "title": "Transient Flower"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hakanagoto"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tayuta"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shampoo Rinse Conditioner"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shiroi Himitsu"
+        },
+        {
+            "type": "Japanese",
+            "title": "夜をとめないで"
+        }
+    ],
+    "title": "Yoru wo Tomenaide",
+    "title_english": null,
+    "title_japanese": "夜をとめないで",
+    "title_synonyms": [
+        "Don't Stop the Night",
+        "Transient Flower",
+        "Hakanagoto",
+        "Tayuta",
+        "Shampoo Rinse Conditioner",
+        "Shiroi Himitsu"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-02-28T00:00:00+00:00",
+        "to": "2014-10-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 2,
+                "year": 2013
+            },
+            "to": {
+                "day": 31,
+                "month": 10,
+                "year": 2014
+            }
+        },
+        "string": "Feb 28, 2013 to Oct 31, 2014"
+    },
+    "score": 6.66,
+    "scored": 6.66,
+    "scored_by": 1572,
+    "rank": 14314,
+    "popularity": 6554,
+    "members": 3243,
+    "favorites": 4,
+    "synopsis": "1. Yoru wo Tomenaide (Don't Stop the Night)\n2. Karisome no Hana (Transient Flower)\n3. Hakanagoto\n4. Tayuta\n5. Shampoo Rinse Conditioner\n6. Shiroi Himitsu",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7652,
+            "type": "people",
+            "name": "Harumi, Chihiro",
+            "url": "https://myanimelist.net/people/7652/Chihiro_Harumi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 545,
+            "type": "manga",
+            "name": "Rakuen Le Paradis",
+            "url": "https://myanimelist.net/manga/magazine/545/Rakuen_Le_Paradis"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 135287,
+                    "type": "manga",
+                    "name": "Ani Imouto",
+                    "url": "https://myanimelist.net/manga/135287/Ani_Imouto"
+                },
+                {
+                    "mal_id": 132778,
+                    "type": "manga",
+                    "name": "Yawahada",
+                    "url": "https://myanimelist.net/manga/132778/Yawahada"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

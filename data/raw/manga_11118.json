@@ -1,0 +1,149 @@
+{
+    "mal_id": 11118,
+    "url": "https://myanimelist.net/manga/11118/Kamisama_Dolls",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/52325.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/52325t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/52325l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/52325.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/52325t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/52325l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kamisama Dolls"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kami-sama Dolls"
+        },
+        {
+            "type": "Synonym",
+            "title": "God Dolls"
+        },
+        {
+            "type": "Japanese",
+            "title": "神様ドォルズ"
+        }
+    ],
+    "title": "Kamisama Dolls",
+    "title_english": null,
+    "title_japanese": "神様ドォルズ",
+    "title_synonyms": [
+        "Kami-sama Dolls",
+        "God Dolls"
+    ],
+    "type": "Manga",
+    "chapters": 72,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-12-19T00:00:00+00:00",
+        "to": "2013-02-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 12,
+                "year": 2006
+            },
+            "to": {
+                "day": 19,
+                "month": 2,
+                "year": 2013
+            }
+        },
+        "string": "Dec 19, 2006 to Feb 19, 2013"
+    },
+    "score": 7.08,
+    "scored": 7.08,
+    "scored_by": 934,
+    "rank": 7827,
+    "popularity": 6224,
+    "members": 3439,
+    "favorites": 21,
+    "synopsis": "Kyouhei, after moving away to Tokyo from his old town to get away from the events that happened, is on a goukon with his friends, including his old neighbor, Shiba. After drinking for a whole night, he and Shiba discover a dead, bloody, body in the elevator. He is told by his younger sister, Utao with her Kami-sama Doll, that Aki, an old friend, and his Doll, are the culprits responsible.\n\n(Source: Fate)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3930,
+            "type": "people",
+            "name": "Yamamura, Hajime",
+            "url": "https://myanimelist.net/people/3930/Hajime_Yamamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Sunday Gene-X",
+            "url": "https://myanimelist.net/manga/magazine/40/Sunday_Gene-X"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 10372,
+                    "type": "anime",
+                    "name": "Kamisama Dolls",
+                    "url": "https://myanimelist.net/anime/10372/Kamisama_Dolls"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://sundaygx.com/kamisama/index.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%A5%9E%E6%A7%98%E3%83%89%E3%82%A9%E3%83%AB%E3%82%BA"
+        }
+    ]
+}

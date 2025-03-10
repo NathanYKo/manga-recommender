@@ -1,0 +1,137 @@
+{
+    "mal_id": 21274,
+    "url": "https://myanimelist.net/manga/21274/Rakko_11-gou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/34222.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/34222t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/34222l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/34222.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/34222t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/34222l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rakko 11-gou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rakko 11 Go"
+        },
+        {
+            "type": "Synonym",
+            "title": "Otters 11"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラッコ11号"
+        },
+        {
+            "type": "English",
+            "title": "Otter No. 11"
+        }
+    ],
+    "title": "Rakko 11-gou",
+    "title_english": "Otter No. 11",
+    "title_japanese": "ラッコ11号",
+    "title_synonyms": [
+        "Rakko 11 Go",
+        "Otters 11"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-08-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 8,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 9, 2010"
+    },
+    "score": 6.44,
+    "scored": 6.44,
+    "scored_by": 2898,
+    "rank": 17212,
+    "popularity": 4349,
+    "members": 5142,
+    "favorites": 19,
+    "synopsis": "A one-shot depicting chapter 75 of Otters 11, a fictional manga in Bakuman.\n\nOtters 11 is about an otter man trying to change the world. He has a human body and an otter face. His hands turn to rock when he has the urge to fight.",
+    "background": "Rakko 11-gou was published in English as Otter No. 11 by Viz Media on October 1, 2013, as part of the publisher's Bakuman. complete box set.",
+    "authors": [
+        {
+            "mal_id": 1888,
+            "type": "people",
+            "name": "Obata, Takeshi",
+            "url": "https://myanimelist.net/people/1888/Takeshi_Obata"
+        },
+        {
+            "mal_id": 2111,
+            "type": "people",
+            "name": "Ohba, Tsugumi",
+            "url": "https://myanimelist.net/people/2111/Tsugumi_Ohba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 9711,
+                    "type": "manga",
+                    "name": "Bakuman.",
+                    "url": "https://myanimelist.net/manga/9711/Bakuman"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

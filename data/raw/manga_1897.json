@@ -1,0 +1,123 @@
+{
+    "mal_id": 1897,
+    "url": "https://myanimelist.net/manga/1897/Purikyuu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/20710.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/20710t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/20710l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/20710.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/20710t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/20710l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Purikyuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Love Arrow"
+        },
+        {
+            "type": "Japanese",
+            "title": "プリキュウ"
+        }
+    ],
+    "title": "Purikyuu",
+    "title_english": null,
+    "title_japanese": "プリキュウ",
+    "title_synonyms": [
+        "Love Arrow"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2005"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 4997,
+    "rank": 3289,
+    "popularity": 2455,
+    "members": 8956,
+    "favorites": 30,
+    "synopsis": "Katsuragi Anna is a former ballerina who tries to find herself when her dreams of ballet stardom fall short. She is tricked into joining the archery club by her friend... only to find that the president is her childhood rival, Jinnai!?\n(Source: M-U)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3218,
+            "type": "people",
+            "name": "Motomi, Kyousuke",
+            "url": "https://myanimelist.net/people/3218/Kyousuke_Motomi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

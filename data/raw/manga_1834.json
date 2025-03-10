@@ -1,0 +1,120 @@
+{
+    "mal_id": 1834,
+    "url": "https://myanimelist.net/manga/1834/Kekkon_Shiyou_yo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/17075.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/17075t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/17075l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/17075.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/17075t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/17075l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kekkon Shiyou yo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kekkon Shiyouyo"
+        },
+        {
+            "type": "Japanese",
+            "title": "結婚しようよ"
+        },
+        {
+            "type": "English",
+            "title": "Let's Get Married!"
+        }
+    ],
+    "title": "Kekkon Shiyou yo",
+    "title_english": "Let's Get Married!",
+    "title_japanese": "結婚しようよ",
+    "title_synonyms": [
+        "Kekkon Shiyouyo"
+    ],
+    "type": "Manga",
+    "chapters": 20,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2002 to ?"
+    },
+    "score": 7.33,
+    "scored": 7.33,
+    "scored_by": 1091,
+    "rank": 4530,
+    "popularity": 8336,
+    "members": 2430,
+    "favorites": 9,
+    "synopsis": "From MangaArt:\nTouko has always heard stories about her dead grandfather and his lover and wishes to one day find a love like theirs. However, this dream is suddenly crushed as her grandfather's lover shows and forces Touko to take on her two grandsons as fiancés!",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4268,
+            "type": "people",
+            "name": "Mizukami, Wataru",
+            "url": "https://myanimelist.net/people/4268/Wataru_Mizukami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Nakayoshi",
+            "url": "https://myanimelist.net/manga/magazine/20/Nakayoshi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

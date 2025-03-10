@@ -1,0 +1,149 @@
+{
+    "mal_id": 23192,
+    "url": "https://myanimelist.net/manga/23192/Mayo_Chiki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/120467.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/120467t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/120467l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/120467.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/120467t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/120467l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mayo Chiki!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mayoeru Shitsuji to Chicken na Ore to"
+        },
+        {
+            "type": "Japanese",
+            "title": "まよチキ!"
+        }
+    ],
+    "title": "Mayo Chiki!",
+    "title_english": null,
+    "title_japanese": "まよチキ!",
+    "title_synonyms": [
+        "Mayoeru Shitsuji to Chicken na Ore to"
+    ],
+    "type": "Light Novel",
+    "chapters": 76,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-11-21T00:00:00+00:00",
+        "to": "2012-07-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 11,
+                "year": 2009
+            },
+            "to": {
+                "day": 23,
+                "month": 7,
+                "year": 2012
+            }
+        },
+        "string": "Nov 21, 2009 to Jul 23, 2012"
+    },
+    "score": 7.81,
+    "scored": 7.81,
+    "scored_by": 2341,
+    "rank": 1316,
+    "popularity": 2848,
+    "members": 7847,
+    "favorites": 147,
+    "synopsis": "Konoe Subaru, 17-years-old, has been serving as the butler of Suzutsuki Kanade in school, a classmate of Sakamachi Kinjirou. Due to an accident, Sakamachi discovers Konoe's secret... that he's actually a girl!? Apparently she will be removed from her position if anyone at school finds out. What will unfold from this chain of events?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 12969,
+            "type": "people",
+            "name": "Asano, Hajime",
+            "url": "https://myanimelist.net/people/12969/Hajime_Asano"
+        },
+        {
+            "mal_id": 22129,
+            "type": "people",
+            "name": "Kikuchi, Seiji",
+            "url": "https://myanimelist.net/people/22129/Seiji_Kikuchi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 44,
+            "type": "manga",
+            "name": "Crossdressing",
+            "url": "https://myanimelist.net/manga/genre/44/Crossdressing"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 21860,
+                    "type": "manga",
+                    "name": "Mayo Chiki!",
+                    "url": "https://myanimelist.net/manga/21860/Mayo_Chiki"
+                },
+                {
+                    "mal_id": 10110,
+                    "type": "anime",
+                    "name": "Mayo Chiki!",
+                    "url": "https://myanimelist.net/anime/10110/Mayo_Chiki"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 91066,
+                    "type": "manga",
+                    "name": "Mayo Mayo!",
+                    "url": "https://myanimelist.net/manga/91066/Mayo_Mayo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%BE%E3%82%88%E3%83%81%E3%82%AD!"
+        }
+    ]
+}

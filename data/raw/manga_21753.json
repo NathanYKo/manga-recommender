@@ -1,0 +1,157 @@
+{
+    "mal_id": 21753,
+    "url": "https://myanimelist.net/manga/21753/Shinseiki_Evangelion__Ikari_Shinji_Tantei_Nikki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/145055.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/145055t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/145055l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/145055.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/145055t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/145055l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shinseiki Evangelion: Ikari Shinji Tantei Nikki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Neon Genesis Evangelion: Ikari Shinji Tantei Nikki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shinji Ikari's Detective Journal"
+        },
+        {
+            "type": "Japanese",
+            "title": "新世紀エヴァンゲリオン 碇シンジ探偵日記"
+        },
+        {
+            "type": "English",
+            "title": "Neon Genesis Evangelion: The Shinji Ikari Detective Diary"
+        }
+    ],
+    "title": "Shinseiki Evangelion: Ikari Shinji Tantei Nikki",
+    "title_english": "Neon Genesis Evangelion: The Shinji Ikari Detective Diary",
+    "title_japanese": "新世紀エヴァンゲリオン 碇シンジ探偵日記",
+    "title_synonyms": [
+        "Neon Genesis Evangelion: Ikari Shinji Tantei Nikki",
+        "Shinji Ikari's Detective Journal"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-02-24T00:00:00+00:00",
+        "to": "2010-11-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 2,
+                "year": 2010
+            },
+            "to": {
+                "day": 24,
+                "month": 11,
+                "year": 2010
+            }
+        },
+        "string": "Feb 24, 2010 to Nov 24, 2010"
+    },
+    "score": 6.45,
+    "scored": 6.45,
+    "scored_by": 497,
+    "rank": 17108,
+    "popularity": 8752,
+    "members": 2286,
+    "favorites": 15,
+    "synopsis": "When even a tough dude like his school pal Toji is getting menaced by gangsters, a nice guy like Shinji Ikari feels obliged to seek out the local private eye, Ryoji Kaji, and his striking young assistant, Kaworu Nagisa. Somehow, though, Shinji gets drafted into solving the case himself, with Kaworu's help—although Kaworu quickly proves to be a mystery of his own...\n\n(Source: Dark Horse)",
+    "background": "Shinseiki Evangelion: Ikari Shinji Tantei Nikki was published in English as Neon Genesis Evangelion: The Shinji Ikari Detective Diary by Dark Horse from September 17, 2013 to May 27, 2014.",
+    "authors": [
+        {
+            "mal_id": 21131,
+            "type": "people",
+            "name": "Yoshimura, Takumi",
+            "url": "https://myanimelist.net/people/21131/Takumi_Yoshimura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Asuka",
+            "url": "https://myanimelist.net/manga/magazine/14/Asuka"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 698,
+                    "type": "manga",
+                    "name": "Shinseiki Evangelion",
+                    "url": "https://myanimelist.net/manga/698/Shinseiki_Evangelion"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://asuka-web.jp/work/eva.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_(manga)"
+        }
+    ]
+}

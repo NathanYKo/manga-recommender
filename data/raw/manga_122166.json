@@ -1,0 +1,115 @@
+{
+    "mal_id": 122166,
+    "url": "https://myanimelist.net/manga/122166/Shounen_no_Ato",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/225232.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/225232t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/225232l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/225232.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/225232t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/225232l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shounen no Ato"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Boy's Scar"
+        },
+        {
+            "type": "Japanese",
+            "title": "少年の痕"
+        }
+    ],
+    "title": "Shounen no Ato",
+    "title_english": null,
+    "title_japanese": "少年の痕",
+    "title_synonyms": [
+        "A Boy's Scar"
+    ],
+    "type": "Manga",
+    "chapters": 23,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-02-15T00:00:00+00:00",
+        "to": "2020-11-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 2,
+                "year": 2019
+            },
+            "to": {
+                "day": 15,
+                "month": 11,
+                "year": 2020
+            }
+        },
+        "string": "Feb 15, 2019 to Nov 15, 2020"
+    },
+    "score": 7.11,
+    "scored": 7.11,
+    "scored_by": 1160,
+    "rank": 7336,
+    "popularity": 6810,
+    "members": 3114,
+    "favorites": 36,
+    "synopsis": "Suzuka \"Suzu\" Kinomoto has been unable to return to her former job as a photographer, having lost the desire to hold a camera after Ruri Mino, her mentor and dear friend, passed away. As she tries to work out the next steps in her life, she reluctantly becomes the guardian of Ruri's child, eight-year-old Fuusuke. Though she is not the best with children, Suzu cannot find it in her to abandon the reclusive boy—even after discovering that he is a vampire.\n\nThe two attempt to work through the grief of losing someone they both loved; Suzu turns to alcohol to cope with her emotions, while Fuusuke struggles to open up to his new guardian and properly satiate his bloodlust. Despite their incompatibility, Suzu and Fuusuke soon find that they may have more in common than they initially thought.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 50109,
+            "type": "people",
+            "name": "Inaba, Hachi",
+            "url": "https://myanimelist.net/people/50109/Hachi_Inaba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1349,
+            "type": "manga",
+            "name": "MAGCOMI",
+            "url": "https://myanimelist.net/manga/magazine/1349/MAGCOMI"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.mag-garden.co.jp/shonennoato/"
+        }
+    ]
+}

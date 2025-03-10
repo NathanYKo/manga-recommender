@@ -1,0 +1,146 @@
+{
+    "mal_id": 4650,
+    "url": "https://myanimelist.net/manga/4650/XBlade",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/52625.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/52625t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/52625l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/52625.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/52625t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/52625l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "XBlade"
+        },
+        {
+            "type": "Synonym",
+            "title": "Cross Blade"
+        },
+        {
+            "type": "Japanese",
+            "title": "クロスブレイド"
+        }
+    ],
+    "title": "XBlade",
+    "title_english": null,
+    "title_japanese": "クロスブレイド",
+    "title_synonyms": [
+        "Cross Blade"
+    ],
+    "type": "Manga",
+    "chapters": 49,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-11-25T00:00:00+00:00",
+        "to": "2010-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 11,
+                "year": 2006
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Nov 25, 2006 to Dec 25, 2010"
+    },
+    "score": 7.15,
+    "scored": 7.15,
+    "scored_by": 2199,
+    "rank": 6773,
+    "popularity": 3978,
+    "members": 5652,
+    "favorites": 31,
+    "synopsis": "Four years ago, a large scale disaster in Tokyo claimed two million lives. The remaining thirteen districts of the city were isolated into the Tokyo Barricade Zone. Morisaki Harumi, an unruly kid with great fighting strength, is his family's sole survivor from the incident.\n\nOne day, in a traffic accident, Haru gets pulled into a world of violence and meets Mana, the girl who turned herself into an ancient sword.\n\n(Source: Mangaupdates)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2257,
+            "type": "people",
+            "name": "Shiki, Satoshi",
+            "url": "https://myanimelist.net/people/2257/Satoshi_Shiki"
+        },
+        {
+            "mal_id": 4112,
+            "type": "people",
+            "name": "Ida, Tatsuhiko",
+            "url": "https://myanimelist.net/people/4112/Tatsuhiko_Ida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 100,
+            "type": "manga",
+            "name": "Shounen Sirius",
+            "url": "https://myanimelist.net/manga/magazine/100/Shounen_Sirius"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 26579,
+                    "type": "manga",
+                    "name": "XBlade Cross",
+                    "url": "https://myanimelist.net/manga/26579/XBlade_Cross"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/XBLADE"
+        }
+    ]
+}

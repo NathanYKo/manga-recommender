@@ -1,0 +1,128 @@
+{
+    "mal_id": 72583,
+    "url": "https://myanimelist.net/manga/72583/Q",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/125681.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/125681t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/125681l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/125681.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/125681t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/125681l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Q"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dissimilar Girl Q"
+        },
+        {
+            "type": "Japanese",
+            "title": "Q[クー]"
+        }
+    ],
+    "title": "Q",
+    "title_english": null,
+    "title_japanese": "Q[クー]",
+    "title_synonyms": [
+        "Dissimilar Girl Q"
+    ],
+    "type": "Manga",
+    "chapters": 20,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-05-19T00:00:00+00:00",
+        "to": "2015-12-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 5,
+                "year": 2014
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "May 19, 2014 to Dec 19, 2015"
+    },
+    "score": 6.98,
+    "scored": 6.98,
+    "scored_by": 1407,
+    "rank": 9328,
+    "popularity": 4972,
+    "members": 4415,
+    "favorites": 34,
+    "synopsis": "Monsters and a post apocalyptic setting, a motorcycle riding MC and a weird young girl who likes donuts.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9683,
+            "type": "people",
+            "name": "Shihira, Tatsuya",
+            "url": "https://myanimelist.net/people/9683/Tatsuya_Shihira"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

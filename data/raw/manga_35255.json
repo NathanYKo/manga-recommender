@@ -1,0 +1,128 @@
+{
+    "mal_id": 35255,
+    "url": "https://myanimelist.net/manga/35255/SID",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/64025.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/64025t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/64025l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/64025.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/64025t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/64025l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "S.I.D."
+        },
+        {
+            "type": "Synonym",
+            "title": "Supernatural Investigation Department"
+        },
+        {
+            "type": "Japanese",
+            "title": "특영반"
+        },
+        {
+            "type": "English",
+            "title": "S.I.D."
+        }
+    ],
+    "title": "S.I.D.",
+    "title_english": "S.I.D.",
+    "title_japanese": "특영반",
+    "title_synonyms": [
+        "Supernatural Investigation Department"
+    ],
+    "type": "Manhwa",
+    "chapters": 376,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-05-12T00:00:00+00:00",
+        "to": "2020-08-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 5,
+                "year": 2010
+            },
+            "to": {
+                "day": 12,
+                "month": 8,
+                "year": 2020
+            }
+        },
+        "string": "May 12, 2010 to Aug 12, 2020"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 921,
+    "rank": 4424,
+    "popularity": 5725,
+    "members": 3762,
+    "favorites": 25,
+    "synopsis": "As a little boy, Si Mun, the grandson of a famous shaman, had the ability to see - and communicate with—ghosts. His grandmother gave him a talisman which temporarily rid him of this ability and erased his memories of any supernatural phenomena he had witnessed.\n\nYears later, Si Mun is working a hectic, yet ordinary, job as a homicide detective in the Korean police force. His grandmother has since passed on—and the powers she sealed away appear to be reawakening...",
+    "background": "S.I.D. was published digitally in English by Webtoon Entertainment.",
+    "authors": [
+        {
+            "mal_id": 22417,
+            "type": "people",
+            "name": "Da-Ham, Sa",
+            "url": "https://myanimelist.net/people/22417/Sa_Da-Ham"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic.naver.com/webtoon/list.nhn?titleId=160469&weekday=wed"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%ED%8A%B9%EC%88%98%20%EC%98%81%EB%8A%A5%EB%A0%A5%20%EC%88%98%EC%82%AC%EB%B0%98"
+        }
+    ]
+}

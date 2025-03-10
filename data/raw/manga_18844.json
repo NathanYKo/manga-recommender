@@ -1,0 +1,104 @@
+{
+    "mal_id": 18844,
+    "url": "https://myanimelist.net/manga/18844/Collectors",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/200756.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/200756t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/200756l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/200756.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/200756t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/200756l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Collectors"
+        },
+        {
+            "type": "Japanese",
+            "title": "コレクターズ"
+        }
+    ],
+    "title": "Collectors",
+    "title_english": null,
+    "title_japanese": "コレクターズ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 44,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-10-29T00:00:00+00:00",
+        "to": "2016-10-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 31,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "Oct 29, 2009 to Oct 31, 2016"
+    },
+    "score": 7.15,
+    "scored": 7.15,
+    "scored_by": 876,
+    "rank": 6828,
+    "popularity": 6573,
+    "members": 3233,
+    "favorites": 33,
+    "synopsis": "Shinobu Nitou and Takako Kanzaki share the issue of spending too much money. Shinobu buys more books than she could ever read, and Takako is constantly tempted into buying more clothes whenever she finds them on sale. Despite their different interests, they have incredibly similar personalities with equally similar justifications for their behavior.\n\nBeyond their spending habits, Shinobu and Takako are dating each other and do not wish to end their relationship any time soon. Though they argue over silly things, the two women continuously find themselves longing to become even closer and spend their days attempting to do just that.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11807,
+            "type": "people",
+            "name": "Nishi, Uko",
+            "url": "https://myanimelist.net/people/11807/Uko_Nishi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 545,
+            "type": "manga",
+            "name": "Rakuen Le Paradis",
+            "url": "https://myanimelist.net/manga/magazine/545/Rakuen_Le_Paradis"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

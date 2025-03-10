@@ -1,0 +1,133 @@
+{
+    "mal_id": 142310,
+    "url": "https://myanimelist.net/manga/142310/Amayo_no_Tsuki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/253111.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/253111t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/253111l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/253111.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/253111t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/253111l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Amayo no Tsuki"
+        },
+        {
+            "type": "Japanese",
+            "title": "雨夜の月"
+        },
+        {
+            "type": "English",
+            "title": "The Moon on a Rainy Night"
+        }
+    ],
+    "title": "Amayo no Tsuki",
+    "title_english": "The Moon on a Rainy Night",
+    "title_japanese": "雨夜の月",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2021-06-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 6,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 12, 2021 to ?"
+    },
+    "score": 8.32,
+    "scored": 8.32,
+    "scored_by": 1736,
+    "rank": 283,
+    "popularity": 3025,
+    "members": 7411,
+    "favorites": 209,
+    "synopsis": "One day, while rushing to a piano lesson, a girl named Saki collides with someone on the street. As Saki collects herself, the stranger picks up the sheet music Saki dropped, hands it to Saki together with a band-aid, and continues on her way—all without saying a word. Saki is left wondering about the identity of the tall, lovely stranger, only to discover the next day that she is one of her classmates at her new high school. The girl's name is Kanon, and though she is hearing impaired, she refuses any kind of support or \"special treatment\" from her teachers or classmates. Over the course of the year, Saki slowly grows closer to Kanon and begins to chip away at her cold exterior.\n\n(Source: Kodansha USA)",
+    "background": "Amayo no Tsuki has been published in English as The Moon on a Rainy Night by Kodansha USA since September 5, 2023.",
+    "authors": [
+        {
+            "mal_id": 10488,
+            "type": "people",
+            "name": "Kuzushiro",
+            "url": "https://myanimelist.net/people/10488/Kuzushiro"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1459,
+            "type": "manga",
+            "name": "Comic Days",
+            "url": "https://myanimelist.net/manga/magazine/1459/Comic_Days"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 60301,
+                    "type": "anime",
+                    "name": "Amayo no Tsuki",
+                    "url": "https://myanimelist.net/anime/60301/Amayo_no_Tsuki"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/the-moon-on-a-rainy-night/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://comic-days.com/episode/3269632237276869027"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Moon_on_a_Rainy_Night"
+        }
+    ]
+}

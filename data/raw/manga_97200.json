@@ -1,0 +1,141 @@
+{
+    "mal_id": 97200,
+    "url": "https://myanimelist.net/manga/97200/Kono_Subarashii_Sekai_ni_Shukufuku_wo_Spin-off__Kono_Kamen_no_Akuma_ni_Soudan_wo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/175150.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/175150t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/175150l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/175150.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/175150t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/175150l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Kamen no Akuma ni Soudan wo!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Consulting With This Masked Devil!"
+        },
+        {
+            "type": "Japanese",
+            "title": "この素晴らしい世界に祝福を！スピンオフ この仮面の悪魔に相談を！"
+        }
+    ],
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Kamen no Akuma ni Soudan wo!",
+    "title_english": null,
+    "title_japanese": "この素晴らしい世界に祝福を！スピンオフ この仮面の悪魔に相談を！",
+    "title_synonyms": [
+        "Consulting With This Masked Devil!"
+    ],
+    "type": "Light Novel",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-09-25T00:00:00+00:00",
+        "to": "2015-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 9,
+                "year": 2015
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Sep 25, 2015 to Dec 25, 2015"
+    },
+    "score": 8,
+    "scored": 8,
+    "scored_by": 1371,
+    "rank": 768,
+    "popularity": 5250,
+    "members": 4149,
+    "favorites": 25,
+    "synopsis": "A spin-off of Kono Subarashii Sekai ni Shukufuku wo! that focuses on Vanir and Wiz.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 19197,
+            "type": "people",
+            "name": "Mishima, Kurone",
+            "url": "https://myanimelist.net/people/19197/Kurone_Mishima"
+        },
+        {
+            "mal_id": 26303,
+            "type": "people",
+            "name": "Akatsuki, Natsume",
+            "url": "https://myanimelist.net/people/26303/Natsume_Akatsuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1346,
+            "type": "manga",
+            "name": "The Sneaker Web",
+            "url": "https://myanimelist.net/manga/magazine/1346/The_Sneaker_Web"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 114664,
+                    "type": "manga",
+                    "name": "Kono Kamen no Akuma ni Soudan wo!",
+                    "url": "https://myanimelist.net/manga/114664/Kono_Kamen_no_Akuma_ni_Soudan_wo"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 60553,
+                    "type": "manga",
+                    "name": "Kono Subarashii Sekai ni Shukufuku wo!",
+                    "url": "https://myanimelist.net/manga/60553/Kono_Subarashii_Sekai_ni_Shukufuku_wo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%93%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AB%E7%A5%9D%E7%A6%8F%E3%82%92!"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/KonoSuba"
+        }
+    ]
+}

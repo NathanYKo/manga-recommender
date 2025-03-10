@@ -1,0 +1,115 @@
+{
+    "mal_id": 93322,
+    "url": "https://myanimelist.net/manga/93322/Ultimate_Antihero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/178146.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/178146t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/178146l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/178146.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/178146t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/178146l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ultimate Antihero"
+        },
+        {
+            "type": "Japanese",
+            "title": "アルティメット・アンチヒーロー"
+        }
+    ],
+    "title": "Ultimate Antihero",
+    "title_english": null,
+    "title_japanese": "アルティメット・アンチヒーロー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-05-27T00:00:00+00:00",
+        "to": "2016-02-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 5,
+                "year": 2015
+            },
+            "to": {
+                "day": 10,
+                "month": 2,
+                "year": 2016
+            }
+        },
+        "string": "May 27, 2015 to Feb 10, 2016"
+    },
+    "score": 6.34,
+    "scored": 6.34,
+    "scored_by": 2945,
+    "rank": 18132,
+    "popularity": 3804,
+    "members": 5914,
+    "favorites": 15,
+    "synopsis": "When humanity was threatened 5 years ago, the boy who saved the world was driven to despair and became regarded as the enemy of all of mankind. And now a new crisis approaches humanity. The curtain rises on a gallant drama about a hero falsely charged.",
+    "background": "Ultimate Antihero is based on Riku Misora's light novel series of the same title.",
+    "authors": [
+        {
+            "mal_id": 24919,
+            "type": "people",
+            "name": "Misora, Riku",
+            "url": "https://myanimelist.net/people/24919/Riku_Misora"
+        },
+        {
+            "mal_id": 33059,
+            "type": "people",
+            "name": "Uonuma, Yuu",
+            "url": "https://myanimelist.net/people/33059/Yuu_Uonuma"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1135,
+            "type": "manga",
+            "name": "Suiyoubi no Sirius",
+            "url": "https://myanimelist.net/manga/magazine/1135/Suiyoubi_no_Sirius"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 81915,
+                    "type": "manga",
+                    "name": "Ultimate Antihero",
+                    "url": "https://myanimelist.net/manga/81915/Ultimate_Antihero"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

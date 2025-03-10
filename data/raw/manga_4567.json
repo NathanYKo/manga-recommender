@@ -1,0 +1,117 @@
+{
+    "mal_id": 4567,
+    "url": "https://myanimelist.net/manga/4567/Itoshi_no_Goshujinsama",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/5604.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/5604t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/5604l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/5604.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/5604t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/5604l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Itoshi no Goshujinsama"
+        },
+        {
+            "type": "Synonym",
+            "title": "Itoshi no Goshujin-sama"
+        },
+        {
+            "type": "Japanese",
+            "title": "いとしのご主人サマ"
+        }
+    ],
+    "title": "Itoshi no Goshujinsama",
+    "title_english": null,
+    "title_japanese": "いとしのご主人サマ",
+    "title_synonyms": [
+        "Itoshi no Goshujin-sama"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2005"
+    },
+    "score": 6.86,
+    "scored": 6.86,
+    "scored_by": 1443,
+    "rank": 11177,
+    "popularity": 7304,
+    "members": 2850,
+    "favorites": 1,
+    "synopsis": "Kurozawa Konomi is deeply in love with her boyfriend Hiro, and she's willing to do everything for him! But Hiro seems rather cold towards Konomi, which makes everyone say that their relationship is just like one of a puppy and his master! So are they really 'lovey dovey' as Konomi wants to believe? (Source: Aka Rose Tenshi)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3258,
+            "type": "people",
+            "name": "Haruta, Nana",
+            "url": "https://myanimelist.net/people/3258/Nana_Haruta"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ribon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

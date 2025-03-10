@@ -1,0 +1,157 @@
+{
+    "mal_id": 1001,
+    "url": "https://myanimelist.net/manga/1001/Kakugo_no_Susume",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/196756.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/196756t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/196756l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/196756.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/196756t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/196756l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kakugo no Susume"
+        },
+        {
+            "type": "Japanese",
+            "title": "覚悟のススメ"
+        },
+        {
+            "type": "English",
+            "title": "Apocalypse Zero"
+        }
+    ],
+    "title": "Kakugo no Susume",
+    "title_english": "Apocalypse Zero",
+    "title_japanese": "覚悟のススメ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 100,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1994-02-24T00:00:00+00:00",
+        "to": "1996-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 2,
+                "year": 1994
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 1996
+            }
+        },
+        "string": "Feb 24, 1994 to Mar 28, 1996"
+    },
+    "score": 6.92,
+    "scored": 6.92,
+    "scored_by": 653,
+    "rank": 10188,
+    "popularity": 6745,
+    "members": 3144,
+    "favorites": 82,
+    "synopsis": "Kakugo and Harara are two siblings who have been trained to fight demons, monsters, and other creatures that are now roaming about in the post-apocalyptic 21st century. Along with their superior fighting techniques and specialized skills, they were also given special suits called Zero armor, which were made from the souls of dead warriors. Unfortunately Harara succumbs to evil within the Zero armor, and Kakugo is the only human alive that has the skills and equipment to defeat his sibling.",
+    "background": "The first six volumes of Kakugo no Susume were published in English as Apocalypse Zero by Media Blasters from March 1, 2005, to October 3, 2006, before the publisher went defunct.",
+    "authors": [
+        {
+            "mal_id": 2635,
+            "type": "people",
+            "name": "Yamaguchi, Takayuki",
+            "url": "https://myanimelist.net/people/2635/Takayuki_Yamaguchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1647,
+                    "type": "anime",
+                    "name": "Kakugo no Susume",
+                    "url": "https://myanimelist.net/anime/1647/Kakugo_no_Susume"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 132490,
+                    "type": "manga",
+                    "name": "Kaika no Susume",
+                    "url": "https://myanimelist.net/manga/132490/Kaika_no_Susume"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 41305,
+                    "type": "manga",
+                    "name": "Exoskull Zero",
+                    "url": "https://myanimelist.net/manga/41305/Exoskull_Zero"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Apocalypse_Zero"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E8%A6%9A%E6%82%9F%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1"
+        }
+    ]
+}

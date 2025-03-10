@@ -1,0 +1,119 @@
+{
+    "mal_id": 167424,
+    "url": "https://myanimelist.net/manga/167424/Dear_Anemone",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/305563.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/305563t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/305563l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/305563.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/305563t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/305563l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dear Anemone"
+        },
+        {
+            "type": "Japanese",
+            "title": "Dear Anemone"
+        },
+        {
+            "type": "English",
+            "title": "Dear Anemone"
+        }
+    ],
+    "title": "Dear Anemone",
+    "title_english": "Dear Anemone",
+    "title_japanese": "Dear Anemone",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 17,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2024-02-19T00:00:00+00:00",
+        "to": "2024-06-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 2,
+                "year": 2024
+            },
+            "to": {
+                "day": 17,
+                "month": 6,
+                "year": 2024
+            }
+        },
+        "string": "Feb 19, 2024 to Jun 17, 2024"
+    },
+    "score": 5.67,
+    "scored": 5.67,
+    "scored_by": 1740,
+    "rank": 20234,
+    "popularity": 5547,
+    "members": 3909,
+    "favorites": 9,
+    "synopsis": "When Gaku lands on the Galapagos Islands, a paradise is the last thing he'll be experiencing. With creatures undergoing horrific evolutions, only one rule still stands—the survival of the fittest!\n\n(Source: MANGA Plus)",
+    "background": "Dear Anemone was published digitally as an English simulpub through MANGA Plus.",
+    "authors": [
+        {
+            "mal_id": 51319,
+            "type": "people",
+            "name": "Matsui, Rin",
+            "url": "https://myanimelist.net/people/51319/Rin_Matsui"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 151250,
+                    "type": "manga",
+                    "name": "Anemone",
+                    "url": "https://myanimelist.net/manga/151250/Anemone"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.shonenjump.com/j/rensai/anemone.html"
+        }
+    ]
+}

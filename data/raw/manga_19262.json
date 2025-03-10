@@ -1,0 +1,155 @@
+{
+    "mal_id": 19262,
+    "url": "https://myanimelist.net/manga/19262/Love_Plus__Rinko_Days",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/58649.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/58649t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/58649l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/58649.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/58649t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/58649l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Love Plus: Rinko Days"
+        },
+        {
+            "type": "Synonym",
+            "title": "LovePlus: Rinko Days"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラブプラス Rinko Days"
+        }
+    ],
+    "title": "Love Plus: Rinko Days",
+    "title_english": null,
+    "title_japanese": "ラブプラス Rinko Days",
+    "title_synonyms": [
+        "LovePlus: Rinko Days"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-04-09T00:00:00+00:00",
+        "to": "2011-12-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2010
+            },
+            "to": {
+                "day": 9,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Apr 9, 2010 to Dec 9, 2011"
+    },
+    "score": 7.43,
+    "scored": 7.43,
+    "scored_by": 3704,
+    "rank": 3581,
+    "popularity": 3287,
+    "members": 6836,
+    "favorites": 34,
+    "synopsis": "Aikawa Wataru's father is being transferred overseas. Seeing this as a perfect opportunity, Wataru decides to stay behind in Japan and live on his own. Even though he's a new transfer student, his teacher convinces him to become a Library Representative. A fellow Library Rep tells him they’re missing a member and asks Wataru to find her. Not knowing how she looks like, he wanders the school trying to find her only to notice two girls gossiping about her negatively. It turns out the person he's looking for isn't well liked, because of her bad personality.\n\nHer name is Kobayakawa Rinko, but what's the source of her bad attitude?\n\n(Manaka also makes an appearance)\n\n(Source: MU)",
+    "background": "Based on DS Dating Sim \"Love Plus\".",
+    "authors": [
+        {
+            "mal_id": 2405,
+            "type": "people",
+            "name": "Seo, Kouji",
+            "url": "https://myanimelist.net/people/2405/Kouji_Seo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 450,
+            "type": "manga",
+            "name": "Bessatsu Shounen Magazine",
+            "url": "https://myanimelist.net/manga/magazine/450/Bessatsu_Shounen_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 20365,
+                    "type": "manga",
+                    "name": "Love Plus: Kanojo no Kako",
+                    "url": "https://myanimelist.net/manga/20365/Love_Plus__Kanojo_no_Kako"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 19715,
+                    "type": "manga",
+                    "name": "Love Plus: Girls Talk",
+                    "url": "https://myanimelist.net/manga/19715/Love_Plus__Girls_Talk"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 19137,
+                    "type": "manga",
+                    "name": "Love Plus: Manaka Days",
+                    "url": "https://myanimelist.net/manga/19137/Love_Plus__Manaka_Days"
+                },
+                {
+                    "mal_id": 19295,
+                    "type": "manga",
+                    "name": "Love Plus: Nene Days",
+                    "url": "https://myanimelist.net/manga/19295/Love_Plus__Nene_Days"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Love_Plus"
+        }
+    ]
+}

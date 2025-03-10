@@ -1,0 +1,109 @@
+{
+    "mal_id": 75141,
+    "url": "https://myanimelist.net/manga/75141/Boku_wa_Mondai_Arimasen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/130247.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/130247t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/130247l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/130247.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/130247t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/130247l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boku wa Mondai Arimasen"
+        },
+        {
+            "type": "Synonym",
+            "title": "There's Nothing Wrong with Me"
+        },
+        {
+            "type": "Japanese",
+            "title": "僕は問題ありません"
+        }
+    ],
+    "title": "Boku wa Mondai Arimasen",
+    "title_english": null,
+    "title_japanese": "僕は問題ありません",
+    "title_synonyms": [
+        "There's Nothing Wrong with Me"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-10-22T00:00:00+00:00",
+        "to": "2013-05-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 22,
+                "month": 5,
+                "year": 2013
+            }
+        },
+        "string": "Oct 22, 2012 to May 22, 2013"
+    },
+    "score": 7.17,
+    "scored": 7.17,
+    "scored_by": 819,
+    "rank": 6443,
+    "popularity": 7759,
+    "members": 2655,
+    "favorites": 37,
+    "synopsis": "People differentiate between \"normal people\" and \"strange people.\" But who decides what can be considered the norm? This story emerged from our world. This story will send your common sense flying.\n\nThis new book by Miyazaki comes packed full of sensitivity and wonders. Eight short stories that will rise a rainbow in the heart of people who had lived a life of loneliness.\n\nCheck more info for details.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 32807,
+            "type": "people",
+            "name": "Miyazaki, Natsujikei",
+            "url": "https://myanimelist.net/people/32807/Natsujikei_Miyazaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 345,
+            "type": "manga",
+            "name": "Morning Two",
+            "url": "https://myanimelist.net/manga/magazine/345/Morning_Two"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://morning.moae.jp/lineup/135"
+        }
+    ]
+}

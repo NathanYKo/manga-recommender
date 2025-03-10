@@ -1,0 +1,149 @@
+{
+    "mal_id": 129418,
+    "url": "https://myanimelist.net/manga/129418/Ame_to_Kimi_to",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/241988.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/241988t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/241988l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/241988.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/241988t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/241988l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ame to Kimi to"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rain"
+        },
+        {
+            "type": "Synonym",
+            "title": "You"
+        },
+        {
+            "type": "Synonym",
+            "title": "and..."
+        },
+        {
+            "type": "Japanese",
+            "title": "雨と君と"
+        },
+        {
+            "type": "English",
+            "title": "With You and the Rain"
+        }
+    ],
+    "title": "Ame to Kimi to",
+    "title_english": "With You and the Rain",
+    "title_japanese": "雨と君と",
+    "title_synonyms": [
+        "Rain",
+        "You",
+        "and..."
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-08-17T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 8,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 17, 2020 to ?"
+    },
+    "score": 7.44,
+    "scored": 7.44,
+    "scored_by": 1403,
+    "rank": 3467,
+    "popularity": 3444,
+    "members": 6481,
+    "favorites": 45,
+    "synopsis": "During a rainy day, a woman comes across a strange animal waiting by the side of the road. Pleading to be taken in, the creature offers the woman an umbrella in an attempt to show off its appeal. Intrigued by its clever nature, she brings the dog-like creature home and thus begins their life together.\n\n[Written by MAL Rewrite]",
+    "background": "Ame to Kimi to is a web manga released on the author's Twitter account since May 10, 2020. Official serialization started in Weekly Young Magazine on August 17, 2020. The series has been published digitally in English as With You and the Rain by Kodansha USA since November 23, 2021.",
+    "authors": [
+        {
+            "mal_id": 41601,
+            "type": "people",
+            "name": "Nikaidou, Kou",
+            "url": "https://myanimelist.net/people/41601/Kou_Nikaidou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 59619,
+                    "type": "anime",
+                    "name": "Ame to Kimi to",
+                    "url": "https://myanimelist.net/anime/59619/Ame_to_Kimi_to"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/with-you-and-the-rain/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/amekimi/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/With_You_and_the_Rain"
+        }
+    ]
+}

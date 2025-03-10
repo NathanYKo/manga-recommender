@@ -1,0 +1,137 @@
+{
+    "mal_id": 103439,
+    "url": "https://myanimelist.net/manga/103439/Tanaka__Nenrei_Equal_Kanojo_Inaireki_no_Mahoutsukai_the_Comic",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/193591.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/193591t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/193591l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/193591.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/193591t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/193591l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tanaka: Nenrei Equal Kanojo Inaireki no Mahoutsukai the Comic"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tanaka The Wizard"
+        },
+        {
+            "type": "Japanese",
+            "title": "田中～年齢イコール彼女いない歴の魔法使い～ THE COMIC"
+        }
+    ],
+    "title": "Tanaka: Nenrei Equal Kanojo Inaireki no Mahoutsukai the Comic",
+    "title_english": null,
+    "title_japanese": "田中～年齢イコール彼女いない歴の魔法使い～ THE COMIC",
+    "title_synonyms": [
+        "Tanaka The Wizard"
+    ],
+    "type": "Manga",
+    "chapters": 21,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-07-28T00:00:00+00:00",
+        "to": "2018-05-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            }
+        },
+        "string": "Jul 28, 2016 to May 1, 2018"
+    },
+    "score": 6.09,
+    "scored": 6.09,
+    "scored_by": 2465,
+    "rank": 19516,
+    "popularity": 3558,
+    "members": 6319,
+    "favorites": 13,
+    "synopsis": "Yoshio Tanaka gets reincarnated into a fantasy game world, with healing magic as a \"cheat\" ability.\n\n(Source: Novel Updates)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 39491,
+            "type": "people",
+            "name": "Buncololi",
+            "url": "https://myanimelist.net/people/39491/Buncololi"
+        },
+        {
+            "mal_id": 43159,
+            "type": "people",
+            "name": "Tokita, Monta",
+            "url": "https://myanimelist.net/people/43159/Monta_Tokita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1373,
+            "type": "manga",
+            "name": "Comic Ride",
+            "url": "https://myanimelist.net/manga/magazine/1373/Comic_Ride"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 94009,
+                    "type": "manga",
+                    "name": "Tanaka: Nenrei Equal Kanojo Inaireki no Mahoutsukai",
+                    "url": "https://myanimelist.net/manga/94009/Tanaka__Nenrei_Equal_Kanojo_Inaireki_no_Mahoutsukai"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 126982,
+                    "type": "manga",
+                    "name": "Tanaka no Atelier: Nenrei=Kanojo Inai Reki no Mahoutsukai",
+                    "url": "https://myanimelist.net/manga/126982/Tanaka_no_Atelier__Nenrei_Kanojo_Inai_Reki_no_Mahoutsukai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E3%80%9C%E5%B9%B4%E9%BD%A2%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E5%BD%BC%E5%A5%B3%E3%81%84%E3%81%AA%E3%81%84%E6%AD%B4%E3%81%AE%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%80%9C"
+        }
+    ]
+}

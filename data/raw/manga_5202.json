@@ -1,0 +1,184 @@
+{
+    "mal_id": 5202,
+    "url": "https://myanimelist.net/manga/5202/Kidou_Senshi_Crossbone_Gundam",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/157503.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/157503t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/157503l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/157503.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/157503t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/157503l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kidou Senshi Crossbone Gundam"
+        },
+        {
+            "type": "Japanese",
+            "title": "機動戦士クロスボーン・ガンダム"
+        },
+        {
+            "type": "English",
+            "title": "Mobile Suit Cross Bone Gundam"
+        }
+    ],
+    "title": "Kidou Senshi Crossbone Gundam",
+    "title_english": "Mobile Suit Cross Bone Gundam",
+    "title_japanese": "機動戦士クロスボーン・ガンダム",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 27,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1994-10-26T00:00:00+00:00",
+        "to": "1997-01-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 10,
+                "year": 1994
+            },
+            "to": {
+                "day": 25,
+                "month": 1,
+                "year": 1997
+            }
+        },
+        "string": "Oct 26, 1994 to Jan 25, 1997"
+    },
+    "score": 7.64,
+    "scored": 7.64,
+    "scored_by": 1718,
+    "rank": 2056,
+    "popularity": 5468,
+    "members": 3986,
+    "favorites": 154,
+    "synopsis": "The story takes place 10 years after the end of Gundam F91. The movie's heroes, Seabook Arno and Cecily Fairchild, discover that Crux Dogatie of the Jupiter Energy Fleet is plotting to conquer Earth with the forces of his Jupiter Empire. In response, Cecily takes up her birth name \"Berah Ronah\" and recreates the Crossbone Vanguard, who disguise themselves as pirates attacking the Jupiter Energy Fleet. Seabook, under the alias \"Kinkedo Nau,\" is one of the new Vanguard's top pilots. The other is Zabine Chareux, a veteran of the original Crossbone Vanguard. The main character of Crossbone Gundam is a teenage Newtype named Tobia Arronax, who gets swept up in the war between the Crossbone Vanguard and Jupiter Empire.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2337,
+            "type": "people",
+            "name": "Tomino, Yoshiyuki",
+            "url": "https://myanimelist.net/people/2337/Yoshiyuki_Tomino"
+        },
+        {
+            "mal_id": 3161,
+            "type": "people",
+            "name": "Hasegawa, Yuuichi",
+            "url": "https://myanimelist.net/people/3161/Yuuichi_Hasegawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        },
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        },
+        {
+            "mal_id": 29,
+            "type": "manga",
+            "name": "Space",
+            "url": "https://myanimelist.net/manga/genre/29/Space"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 16456,
+                    "type": "manga",
+                    "name": "Kidou Senshi Gundam F91",
+                    "url": "https://myanimelist.net/manga/16456/Kidou_Senshi_Gundam_F91"
+                },
+                {
+                    "mal_id": 1873,
+                    "type": "manga",
+                    "name": "Kidou Senshi Gundam: Silhouette Formula 91",
+                    "url": "https://myanimelist.net/manga/1873/Kidou_Senshi_Gundam__Silhouette_Formula_91"
+                },
+                {
+                    "mal_id": 176063,
+                    "type": "manga",
+                    "name": "Kidou Senshi Crossbone Gundam: Saisho no Cross",
+                    "url": "https://myanimelist.net/manga/176063/Kidou_Senshi_Crossbone_Gundam__Saisho_no_Cross"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 5203,
+                    "type": "manga",
+                    "name": "Kidou Senshi Crossbone Gundam: Skull Heart",
+                    "url": "https://myanimelist.net/manga/5203/Kidou_Senshi_Crossbone_Gundam__Skull_Heart"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 161081,
+                    "type": "manga",
+                    "name": "Kidou Senshi Crossbone Gundam: Love and Piece",
+                    "url": "https://myanimelist.net/manga/161081/Kidou_Senshi_Crossbone_Gundam__Love_and_Piece"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0"
+        }
+    ]
+}

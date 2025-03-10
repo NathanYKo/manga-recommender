@@ -1,0 +1,148 @@
+{
+    "mal_id": 19266,
+    "url": "https://myanimelist.net/manga/19266/Ameiro_Paradox",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/64901.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/64901t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/64901l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/64901.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/64901t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/64901l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ameiro Paradox"
+        },
+        {
+            "type": "Synonym",
+            "title": "Amber Paradox"
+        },
+        {
+            "type": "Japanese",
+            "title": "飴色パラドックス"
+        },
+        {
+            "type": "English",
+            "title": "Candy Color Paradox"
+        }
+    ],
+    "title": "Ameiro Paradox",
+    "title_english": "Candy Color Paradox",
+    "title_japanese": "飴色パラドックス",
+    "title_synonyms": [
+        "Amber Paradox"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2009-12-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 12,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 14, 2009 to ?"
+    },
+    "score": 8.14,
+    "scored": 8.14,
+    "scored_by": 5601,
+    "rank": null,
+    "popularity": 1454,
+    "members": 14564,
+    "favorites": 320,
+    "synopsis": "A change in the stakeout team throws Onoe, reporter for a weekly magazine, together with his contemporary, Kaburagi, a photographer. Onoe secretly considers Kaburagi his rival, and Kaburagi's haphazard way of doing things goes against Onoe's strong sense of ethics—there's nothing but conflict between them.\n\nBut, in joint pursuit of a scandal, the two of them begin to care about each other...?\n\n(Source: Nakama)",
+    "background": "Ameiro Paradox has been published in English as Candy Color Paradox by SuBLime imprint since March 12, 2019.",
+    "authors": [
+        {
+            "mal_id": 2871,
+            "type": "people",
+            "name": "Natsume, Isaku",
+            "url": "https://myanimelist.net/people/2871/Isaku_Natsume"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1001,
+            "type": "manga",
+            "name": "Cheri+",
+            "url": "https://myanimelist.net/manga/magazine/1001/Cheri_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35746,
+                    "type": "anime",
+                    "name": "6 Lovers",
+                    "url": "https://myanimelist.net/anime/35746/6_Lovers"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 70729,
+                    "type": "manga",
+                    "name": "Natsume Isaku Fanbook",
+                    "url": "https://myanimelist.net/manga/70729/Natsume_Isaku_Fanbook"
+                },
+                {
+                    "mal_id": 113480,
+                    "type": "manga",
+                    "name": "Ameiro Paradox dj - Candy Color Paradise",
+                    "url": "https://myanimelist.net/manga/113480/Ameiro_Paradox_dj_-_Candy_Color_Paradise"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

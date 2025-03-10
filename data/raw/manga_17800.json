@@ -1,0 +1,109 @@
+{
+    "mal_id": 17800,
+    "url": "https://myanimelist.net/manga/17800/Mizuiro_Cinema",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/30969.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/30969t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/30969l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/30969.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/30969t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/30969l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mizuiro Cinema"
+        },
+        {
+            "type": "Synonym",
+            "title": "Aqua Blue Cinema"
+        },
+        {
+            "type": "Japanese",
+            "title": "水色シネマ"
+        }
+    ],
+    "title": "Mizuiro Cinema",
+    "title_english": null,
+    "title_japanese": "水色シネマ",
+    "title_synonyms": [
+        "Aqua Blue Cinema"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-09-06T00:00:00+00:00",
+        "to": "2010-05-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 9,
+                "year": 2009
+            },
+            "to": {
+                "day": 18,
+                "month": 5,
+                "year": 2010
+            }
+        },
+        "string": "Sep 6, 2009 to May 18, 2010"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 2125,
+    "rank": 4250,
+    "popularity": 5430,
+    "members": 4009,
+    "favorites": 37,
+    "synopsis": "Aqua Blue Cinema is about an actress and a girl she meets through unusual circumstances.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6262,
+            "type": "people",
+            "name": "Otsu, Hiyori",
+            "url": "https://myanimelist.net/people/6262/Hiyori_Otsu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 423,
+            "type": "manga",
+            "name": "Comic Yuri Hime",
+            "url": "https://myanimelist.net/manga/magazine/423/Comic_Yuri_Hime"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,167 @@
+{
+    "mal_id": 47030,
+    "url": "https://myanimelist.net/manga/47030/K_Side_Red",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/82952.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/82952t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/82952l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/82952.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/82952t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/82952l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "K Side:Red"
+        },
+        {
+            "type": "Japanese",
+            "title": "K SIDE:RED"
+        }
+    ],
+    "title": "K Side:Red",
+    "title_english": null,
+    "title_japanese": "K SIDE:RED",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-11-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 11,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 16, 2012"
+    },
+    "score": 7.84,
+    "scored": 7.84,
+    "scored_by": 549,
+    "rank": 1190,
+    "popularity": 7440,
+    "members": 2792,
+    "favorites": 26,
+    "synopsis": "Novel adaptation of K, tells the story of how the current red clan was created, the background story of Kushina Anna, and details of Kamamoto Rikio, Yata Misaki and Fushimi Saruhiko joining the red clan and their time together as a clan.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10132,
+            "type": "people",
+            "name": "Suzuki, Shingo",
+            "url": "https://myanimelist.net/people/10132/Shingo_Suzuki"
+        },
+        {
+            "mal_id": 20444,
+            "type": "people",
+            "name": "Rairaku, Rei",
+            "url": "https://myanimelist.net/people/20444/Rei_Rairaku"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 14467,
+                    "type": "anime",
+                    "name": "K",
+                    "url": "https://myanimelist.net/anime/14467/K"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 41435,
+                    "type": "manga",
+                    "name": "K: Memory of Red",
+                    "url": "https://myanimelist.net/manga/41435/K__Memory_of_Red"
+                },
+                {
+                    "mal_id": 47028,
+                    "type": "manga",
+                    "name": "K Side:Blue",
+                    "url": "https://myanimelist.net/manga/47028/K_Side_Blue"
+                },
+                {
+                    "mal_id": 45451,
+                    "type": "manga",
+                    "name": "K: Stray Dog Story",
+                    "url": "https://myanimelist.net/manga/45451/K__Stray_Dog_Story"
+                },
+                {
+                    "mal_id": 51769,
+                    "type": "manga",
+                    "name": "K Side:Black & White",
+                    "url": "https://myanimelist.net/manga/51769/K_Side_Black___White"
+                },
+                {
+                    "mal_id": 59675,
+                    "type": "manga",
+                    "name": "K: Days of Blue",
+                    "url": "https://myanimelist.net/manga/59675/K__Days_of_Blue"
+                },
+                {
+                    "mal_id": 61999,
+                    "type": "manga",
+                    "name": "K: The First",
+                    "url": "https://myanimelist.net/manga/61999/K__The_First"
+                },
+                {
+                    "mal_id": 62001,
+                    "type": "manga",
+                    "name": "Gakuen K",
+                    "url": "https://myanimelist.net/manga/62001/Gakuen_K"
+                },
+                {
+                    "mal_id": 69399,
+                    "type": "manga",
+                    "name": "K: Lost Small World",
+                    "url": "https://myanimelist.net/manga/69399/K__Lost_Small_World"
+                },
+                {
+                    "mal_id": 114290,
+                    "type": "manga",
+                    "name": "K: R:B",
+                    "url": "https://myanimelist.net/manga/114290/K__R_B"
+                },
+                {
+                    "mal_id": 112652,
+                    "type": "manga",
+                    "name": "K Side:Green",
+                    "url": "https://myanimelist.net/manga/112652/K_Side_Green"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

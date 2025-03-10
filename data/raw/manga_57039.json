@@ -1,0 +1,119 @@
+{
+    "mal_id": 57039,
+    "url": "https://myanimelist.net/manga/57039/Lemonade",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/99037.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/99037t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/99037l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/99037.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/99037t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/99037l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Lemonade"
+        },
+        {
+            "type": "Synonym",
+            "title": "Katekyo! dj"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ookami-san no Hatsujou Riyuu"
+        },
+        {
+            "type": "Japanese",
+            "title": "Lemonade"
+        }
+    ],
+    "title": "Lemonade",
+    "title_english": null,
+    "title_japanese": "Lemonade",
+    "title_synonyms": [
+        "Katekyo! dj",
+        "Ookami-san no Hatsujou Riyuu"
+    ],
+    "type": "Doujinshi",
+    "chapters": 2,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-08-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 8,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 12, 2012"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 1090,
+    "rank": null,
+    "popularity": 8194,
+    "members": 2485,
+    "favorites": 2,
+    "synopsis": "A little side adventure for Kaede and Rintarou.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6862,
+            "type": "people",
+            "name": "Moegi, Yuu",
+            "url": "https://myanimelist.net/people/6862/Yuu_Moegi"
+        },
+        {
+            "mal_id": 11177,
+            "type": "people",
+            "name": "Takaoka, Nanaroku",
+            "url": "https://myanimelist.net/people/11177/Nanaroku_Takaoka"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 11716,
+                    "type": "manga",
+                    "name": "Katekyo!",
+                    "url": "https://myanimelist.net/manga/11716/Katekyo"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

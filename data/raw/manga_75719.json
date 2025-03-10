@@ -1,0 +1,150 @@
+{
+    "mal_id": 75719,
+    "url": "https://myanimelist.net/manga/75719/Devilman_Tai_Yami_no_Teiou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/131343.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/131343t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/131343l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/131343.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/131343t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/131343l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Devilman Tai Yami no Teiou"
+        },
+        {
+            "type": "Japanese",
+            "title": "デビルマン対闇の帝王 -DEVILMAN vs HADES-"
+        },
+        {
+            "type": "English",
+            "title": "Devilman VS. Hades"
+        }
+    ],
+    "title": "Devilman Tai Yami no Teiou",
+    "title_english": "Devilman VS. Hades",
+    "title_japanese": "デビルマン対闇の帝王 -DEVILMAN vs HADES-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 17,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-11-14T00:00:00+00:00",
+        "to": "2014-07-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 11,
+                "year": 2012
+            },
+            "to": {
+                "day": 9,
+                "month": 7,
+                "year": 2014
+            }
+        },
+        "string": "Nov 14, 2012 to Jul 9, 2014"
+    },
+    "score": 6.66,
+    "scored": 6.66,
+    "scored_by": 1084,
+    "rank": 14322,
+    "popularity": 6736,
+    "members": 3149,
+    "favorites": 19,
+    "synopsis": "After the world ended in the original Devilman, Akira Fudo is in hell, seeking the soul of his beloved Miki while at the same time Doctor Hell is beseeching the underworld for power in order to get his revenge upon the hated Mazinger. Akira sets in motion a chain of events that earn the enmity of Hades himself, who'll stop at nothing to avenge the slights Akira commits against him.",
+    "background": "Devilman Tai Yami no Teiou was published in English as Devilman VS. Hades by Seven Seas Entertainment from March 13, 2018 to November 27, 2018.",
+    "authors": [
+        {
+            "mal_id": 2992,
+            "type": "people",
+            "name": "Nagai, Go",
+            "url": "https://myanimelist.net/people/2992/Go_Nagai"
+        },
+        {
+            "mal_id": 33011,
+            "type": "people",
+            "name": "TEAM MOON",
+            "url": "https://myanimelist.net/people/33011/TEAM_MOON"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Young Magazine (Monthly)",
+            "url": "https://myanimelist.net/manga/magazine/6/Young_Magazine_Monthly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 1474,
+                    "type": "manga",
+                    "name": "Devilman",
+                    "url": "https://myanimelist.net/manga/1474/Devilman"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://yanmaga.jp/contents/devilmantaiyaminoteiou/"
+        }
+    ]
+}

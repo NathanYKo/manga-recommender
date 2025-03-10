@@ -1,0 +1,141 @@
+{
+    "mal_id": 107948,
+    "url": "https://myanimelist.net/manga/107948/Hitori_Koukan_Nikki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/203497.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/203497t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/203497l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/203497.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/203497t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/203497l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hitori Koukan Nikki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Exchange Diaries by Myself"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chika-chan no Yuuutsu"
+        },
+        {
+            "type": "Japanese",
+            "title": "一人交換日記"
+        },
+        {
+            "type": "English",
+            "title": "My Solo Exchange Diary"
+        }
+    ],
+    "title": "Hitori Koukan Nikki",
+    "title_english": "My Solo Exchange Diary",
+    "title_japanese": "一人交換日記",
+    "title_synonyms": [
+        "Exchange Diaries by Myself",
+        "Chika-chan no Yuuutsu"
+    ],
+    "type": "Manga",
+    "chapters": 27,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-05-23T00:00:00+00:00",
+        "to": "2017-11-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 5,
+                "year": 2016
+            },
+            "to": {
+                "day": 13,
+                "month": 11,
+                "year": 2017
+            }
+        },
+        "string": "May 23, 2016 to Nov 13, 2017"
+    },
+    "score": 8.12,
+    "scored": 8.12,
+    "scored_by": 6342,
+    "rank": 559,
+    "popularity": 1092,
+    "members": 18420,
+    "favorites": 303,
+    "synopsis": "Jealous of other people successfully moving forward in life and constantly eaten away by her insecurities, Kabi Nagata finally musters the courage to leave her parents and move into a new apartment alone. Unfortunately, she struggles to adapt to this new lifestyle and begins to contemplate her newfound feelings of loneliness, including her estranged relationship with her mother and what it means to love and be loved. As the psychological pressure mounts, her resolve waivers.\n\nFrom her family to love, Nagata attempts to overcome her tumultuous past and heal the wounds that afflict her. No matter how broken she may be, she does her best to move forward.\n\n[Written by MAL Rewrite]\n\nIncluded one-shot:\nVolume 2: Chika-chan no Yuuutsu",
+    "background": "Hitori Koukan Nikki was published in English as My Solo Exchange Diary by Seven Seas Entertainment from June 5, 2018 to February 12, 2019.",
+    "authors": [
+        {
+            "mal_id": 41713,
+            "type": "people",
+            "name": "Nagata, Kabi",
+            "url": "https://myanimelist.net/people/41713/Kabi_Nagata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1386,
+            "type": "manga",
+            "name": "pixiv Comic",
+            "url": "https://myanimelist.net/manga/magazine/1386/pixiv_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 68,
+            "type": "manga",
+            "name": "Memoir",
+            "url": "https://myanimelist.net/manga/genre/68/Memoir"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 99969,
+                    "type": "manga",
+                    "name": "Sabishisugite Lesbian Fuuzoku ni Ikimashita Report",
+                    "url": "https://myanimelist.net/manga/99969/Sabishisugite_Lesbian_Fuuzoku_ni_Ikimashita_Report"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 122691,
+                    "type": "manga",
+                    "name": "Genjitsu Touhi shitetara Boroboro ni Natta Hanashi",
+                    "url": "https://myanimelist.net/manga/122691/Genjitsu_Touhi_shitetara_Boroboro_ni_Natta_Hanashi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.pixiv.net/works/2308"
+        }
+    ]
+}

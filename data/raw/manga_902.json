@@ -1,0 +1,137 @@
+{
+    "mal_id": 902,
+    "url": "https://myanimelist.net/manga/902/Hydra",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/26130.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/26130t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/26130l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/26130.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/26130t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/26130l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hydra"
+        },
+        {
+            "type": "Japanese",
+            "title": "HYDRA"
+        }
+    ],
+    "title": "Hydra",
+    "title_english": null,
+    "title_japanese": "HYDRA",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2004"
+    },
+    "score": 7.85,
+    "scored": 7.85,
+    "scored_by": 1293,
+    "rank": 1158,
+    "popularity": 5831,
+    "members": 3699,
+    "favorites": 42,
+    "synopsis": "When Ryuu transfers to Hitomi's school, he leaves an immediate impression on him. Curious about rumours of a full-scale tattoo on Ryuu's back, Hitomi starts getting closer to him. Before long, the friendship and fascination Hitomi feels for Ryuu start developing into more, but before he has a chance to come to terms with his feelings, Hikaru appears on the scene.... and he has his eyes set on Hitomi.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2608,
+            "type": "people",
+            "name": "Miyamoto, Kano",
+            "url": "https://myanimelist.net/people/2608/Kano_Miyamoto"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 901,
+                    "type": "manga",
+                    "name": "Rules/Hydra Short Stories",
+                    "url": "https://myanimelist.net/manga/901/Rules_Hydra_Short_Stories"
+                },
+                {
+                    "mal_id": 898,
+                    "type": "manga",
+                    "name": "Please",
+                    "url": "https://myanimelist.net/manga/898/Please"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 903,
+                    "type": "manga",
+                    "name": "Lovers and Souls",
+                    "url": "https://myanimelist.net/manga/903/Lovers_and_Souls"
+                },
+                {
+                    "mal_id": 825,
+                    "type": "manga",
+                    "name": "Rules",
+                    "url": "https://myanimelist.net/manga/825/Rules"
+                },
+                {
+                    "mal_id": 13413,
+                    "type": "manga",
+                    "name": "Rules dj - Double Trouble",
+                    "url": "https://myanimelist.net/manga/13413/Rules_dj_-_Double_Trouble"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

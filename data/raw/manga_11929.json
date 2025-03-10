@@ -1,0 +1,131 @@
+{
+    "mal_id": 11929,
+    "url": "https://myanimelist.net/manga/11929/Touhou_Sangetsusei__Strange_and_Bright_Nature_Deity",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/171909.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/171909t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/171909l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/171909.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/171909t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/171909l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Touhou Sangetsusei: Strange and Bright Nature Deity"
+        },
+        {
+            "type": "Japanese",
+            "title": "東方三月精 Strange and Bright Nature Deity"
+        }
+    ],
+    "title": "Touhou Sangetsusei: Strange and Bright Nature Deity",
+    "title_english": null,
+    "title_japanese": "東方三月精 Strange and Bright Nature Deity",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 28,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-05-26T00:00:00+00:00",
+        "to": "2009-01-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 2006
+            },
+            "to": {
+                "day": 26,
+                "month": 1,
+                "year": 2009
+            }
+        },
+        "string": "May 26, 2006 to Jan 26, 2009"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 1962,
+    "rank": 2419,
+    "popularity": 4797,
+    "members": 4585,
+    "favorites": 74,
+    "synopsis": "Sunny Milk, Luna Child, and Star Sapphire are three mischievous fairies that have special powers, setting them apart from other members of their kind. When they are not doing their usual pranks, they try to pass the time by engaging in activities within the vast magical forests, the Hakurei Shrine, or even the Scarlet Devil Mansion. As they live out their lives, the trio meets various humans, youkai, and other fairies—all of whom could be the next target of their comedic shenanigans.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2003,
+            "type": "people",
+            "name": "ZUN",
+            "url": "https://myanimelist.net/people/2003/ZUN"
+        },
+        {
+            "mal_id": 4550,
+            "type": "people",
+            "name": "Hirasaka, Makoto",
+            "url": "https://myanimelist.net/people/4550/Makoto_Hirasaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 112,
+            "type": "manga",
+            "name": "Comp Ace",
+            "url": "https://myanimelist.net/manga/magazine/112/Comp_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 175,
+                    "type": "manga",
+                    "name": "Touhou Sangetsusei: Eastern and Little Nature Deity",
+                    "url": "https://myanimelist.net/manga/175/Touhou_Sangetsusei__Eastern_and_Little_Nature_Deity"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 14439,
+                    "type": "manga",
+                    "name": "Touhou Sangetsusei: Oriental Sacred Place",
+                    "url": "https://myanimelist.net/manga/14439/Touhou_Sangetsusei__Oriental_Sacred_Place"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE"
+        }
+    ]
+}

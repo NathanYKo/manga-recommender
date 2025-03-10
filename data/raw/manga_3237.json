@@ -1,0 +1,162 @@
+{
+    "mal_id": 3237,
+    "url": "https://myanimelist.net/manga/3237/Kaze_no_Stigma__Kouen_no_Miko",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/24737.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/24737t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/24737l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/24737.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/24737t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/24737l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kaze no Stigma: Kouen no Miko"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kaze no Seikon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Stigma of the Wind"
+        },
+        {
+            "type": "Japanese",
+            "title": "風の聖痕 紅炎の御子"
+        }
+    ],
+    "title": "Kaze no Stigma: Kouen no Miko",
+    "title_english": null,
+    "title_japanese": "風の聖痕 紅炎の御子",
+    "title_synonyms": [
+        "Kaze no Seikon",
+        "Stigma of the Wind"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-04-09T00:00:00+00:00",
+        "to": "2008-03-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 6,
+                "month": 3,
+                "year": 2008
+            }
+        },
+        "string": "Apr 9, 2007 to Mar 6, 2008"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 1639,
+    "rank": 8468,
+    "popularity": 4993,
+    "members": 4394,
+    "favorites": 22,
+    "synopsis": "Four years ago, Kannagi Kazuma was defeated by his cousin Kannagi Ayano for the right to be the successor of Enraiha, a sword passed down in the Kannagi family. His defeat, along with his lack of talent for Enjutsu (The fire arts, and is also the Kannagi Clan's specialty), resulted in his banishment from the family. Now, Kazuma returns as Yagami Kazuma, a skilled master of Fuujutsu (the wind arts). At the same time, a number of murders at the Kannagi residence perpetrated by a powerful Fuujutsushi cast suspicion on him.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4236,
+            "type": "people",
+            "name": "Nekomiya, Kai",
+            "url": "https://myanimelist.net/people/4236/Kai_Nekomiya"
+        },
+        {
+            "mal_id": 6338,
+            "type": "people",
+            "name": "Yamato, Takahiro",
+            "url": "https://myanimelist.net/people/6338/Takahiro_Yamato"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 98,
+            "type": "manga",
+            "name": "Dragon Age",
+            "url": "https://myanimelist.net/manga/magazine/98/Dragon_Age"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 10312,
+                    "type": "manga",
+                    "name": "Kaze no Stigma",
+                    "url": "https://myanimelist.net/manga/10312/Kaze_no_Stigma"
+                },
+                {
+                    "mal_id": 1691,
+                    "type": "anime",
+                    "name": "Kaze no Stigma",
+                    "url": "https://myanimelist.net/anime/1691/Kaze_no_Stigma"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%A2%A8%E3%81%AE%E8%81%96%E7%97%95"
+        }
+    ]
+}

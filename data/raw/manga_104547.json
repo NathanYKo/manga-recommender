@@ -1,0 +1,131 @@
+{
+    "mal_id": 104547,
+    "url": "https://myanimelist.net/manga/104547/Kakegurui_Midari",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/198486.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/198486t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/198486l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/198486.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/198486t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/198486l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kakegurui Midari"
+        },
+        {
+            "type": "Japanese",
+            "title": "賭ケグルイ 妄"
+        }
+    ],
+    "title": "Kakegurui Midari",
+    "title_english": null,
+    "title_japanese": "賭ケグルイ 妄",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 59,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-02-21T00:00:00+00:00",
+        "to": "2020-05-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 2,
+                "year": 2017
+            },
+            "to": {
+                "day": 19,
+                "month": 5,
+                "year": 2020
+            }
+        },
+        "string": "Feb 21, 2017 to May 19, 2020"
+    },
+    "score": 7.04,
+    "scored": 7.04,
+    "scored_by": 960,
+    "rank": 8401,
+    "popularity": 5162,
+    "members": 4222,
+    "favorites": 31,
+    "synopsis": "Spin-off of Kakegurui focusing on Midari Ikishima and her past.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 17647,
+            "type": "people",
+            "name": "Hiiragi, Yuuichi",
+            "url": "https://myanimelist.net/people/17647/Yuuichi_Hiiragi"
+        },
+        {
+            "mal_id": 32257,
+            "type": "people",
+            "name": "Kawamoto, Homura",
+            "url": "https://myanimelist.net/people/32257/Homura_Kawamoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1399,
+            "type": "manga",
+            "name": "Manga UP!",
+            "url": "https://myanimelist.net/manga/magazine/1399/Manga_UP"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 73603,
+                    "type": "manga",
+                    "name": "Kakegurui",
+                    "url": "https://myanimelist.net/manga/73603/Kakegurui"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.jp.square-enix.com/magazine/joker/series/kakegurui_midari/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E8%B3%AD%E3%82%B1%E3%82%B0%E3%83%AB%E3%82%A4"
+        }
+    ]
+}

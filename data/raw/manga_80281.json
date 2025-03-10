@@ -1,0 +1,140 @@
+{
+    "mal_id": 80281,
+    "url": "https://myanimelist.net/manga/80281/Girls___Panzer__Ribbon_no_Musha",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/277604.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/277604t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/277604l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/277604.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/277604t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/277604l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Girls & Panzer: Ribbon no Musha"
+        },
+        {
+            "type": "Synonym",
+            "title": "Girls und Panzer: Ribbon Warrior"
+        },
+        {
+            "type": "Japanese",
+            "title": "ガールズ&パンツァー リボンの武者"
+        }
+    ],
+    "title": "Girls & Panzer: Ribbon no Musha",
+    "title_english": null,
+    "title_japanese": "ガールズ&パンツァー リボンの武者",
+    "title_synonyms": [
+        "Girls und Panzer: Ribbon Warrior"
+    ],
+    "type": "Manga",
+    "chapters": 64,
+    "volumes": 16,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-09-05T00:00:00+00:00",
+        "to": "2021-03-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 9,
+                "year": 2014
+            },
+            "to": {
+                "day": 5,
+                "month": 3,
+                "year": 2021
+            }
+        },
+        "string": "Sep 5, 2014 to Mar 5, 2021"
+    },
+    "score": 8.09,
+    "scored": 8.09,
+    "scored_by": 1290,
+    "rank": 615,
+    "popularity": 5700,
+    "members": 3779,
+    "favorites": 195,
+    "synopsis": "Tankathlon is a new form of tank sport gaining slowly gaining popularity among Senshado enthusiasts. While also involving tank battles, Tankathlon is distinguished by its lack of official oversight allowing any school with tanks to participate in a battle anywhere at any time, and a 10-ton weight restriction on tanks used, limiting battles to light tanks and tankettes.\n\n(Source: Girls und Panzer Wiki)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7135,
+            "type": "people",
+            "name": "Nogami, Takeshi",
+            "url": "https://myanimelist.net/people/7135/Takeshi_Nogami"
+        },
+        {
+            "mal_id": 29899,
+            "type": "people",
+            "name": "Suzuki, Takaaki",
+            "url": "https://myanimelist.net/people/29899/Takaaki_Suzuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 174,
+            "type": "manga",
+            "name": "Comic Flapper",
+            "url": "https://myanimelist.net/manga/magazine/174/Comic_Flapper"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 42223,
+                    "type": "manga",
+                    "name": "Girls & Panzer",
+                    "url": "https://myanimelist.net/manga/42223/Girls___Panzer"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%26%E3%83%91%E3%83%B3%E3%83%84%E3%82%A1%E3%83%BC"
+        }
+    ]
+}

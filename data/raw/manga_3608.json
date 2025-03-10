@@ -1,0 +1,149 @@
+{
+    "mal_id": 3608,
+    "url": "https://myanimelist.net/manga/3608/Hotman",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/11840.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/11840t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/11840l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/11840.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/11840t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/11840l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hotman"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hottoman"
+        },
+        {
+            "type": "Japanese",
+            "title": "ホットマン"
+        },
+        {
+            "type": "English",
+            "title": "Hotman"
+        }
+    ],
+    "title": "Hotman",
+    "title_english": "Hotman",
+    "title_japanese": "ホットマン",
+    "title_synonyms": [
+        "Hottoman"
+    ],
+    "type": "Manga",
+    "chapters": 167,
+    "volumes": 15,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1994-01-01T00:00:00+00:00",
+        "to": "1999-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1994
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            }
+        },
+        "string": "1994 to 1999"
+    },
+    "score": 7.56,
+    "scored": 7.56,
+    "scored_by": 669,
+    "rank": 2559,
+    "popularity": 7956,
+    "members": 2574,
+    "favorites": 21,
+    "synopsis": "Enzo Takaya, character inspired by Jean Reno, is a teacher and the oldest son of his family, as such, he takes care of his siblings like a father. One day, a baby girl is found on their doorstep with a note: she is the result of Enzo's former life of crime and luxury as a gang member. Although he ignores who the mother is, he decides to take in the little Nanami. She unfortunately suffers from a skin disease due to sensitivity to pollution and certain types of food. So, Enzo becomes a health freak...\n(source: vnmanga.com)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3719,
+            "type": "people",
+            "name": "Kitagawa, Shou",
+            "url": "https://myanimelist.net/people/3719/Shou_Kitagawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Childcare",
+            "url": "https://myanimelist.net/manga/genre/53/Childcare"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 28987,
+                    "type": "manga",
+                    "name": "Hotman 2003",
+                    "url": "https://myanimelist.net/manga/28987/Hotman_2003"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 4107,
+                    "type": "manga",
+                    "name": "Chinatsu no Uta",
+                    "url": "https://myanimelist.net/manga/4107/Chinatsu_no_Uta"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Hotman"
+        }
+    ]
+}

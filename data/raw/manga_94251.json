@@ -1,0 +1,157 @@
+{
+    "mal_id": 94251,
+    "url": "https://myanimelist.net/manga/94251/Kageki_Shoujo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/167045.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/167045t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/167045l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/167045.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/167045t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/167045l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kageki Shoujo!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Opera Girl!!"
+        },
+        {
+            "type": "Japanese",
+            "title": "かげきしょうじょ!!"
+        },
+        {
+            "type": "English",
+            "title": "Kageki Shojo!!"
+        }
+    ],
+    "title": "Kageki Shoujo!!",
+    "title_english": "Kageki Shojo!!",
+    "title_japanese": "かげきしょうじょ!!",
+    "title_synonyms": [
+        "Opera Girl!!"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-02-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 2,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 28, 2015 to ?"
+    },
+    "score": 7.87,
+    "scored": 7.87,
+    "scored_by": 387,
+    "rank": 1079,
+    "popularity": 7099,
+    "members": 2955,
+    "favorites": 64,
+    "synopsis": "Ever since she was a little girl, Sarasa has wanted to play the role of Oscar as part of the Kouka Acting Troupe, an all-female acting troupe similar to the Takarazuka Revue. But before she can do that, she has to attend two years at the Kouka School of Musical and Theatrical Arts. As Sarasa practices singing, dancing, and acting, she grows closer to the other girls in her year, including her roommate, the stoic former J-idol, Ai. Though Sarasa is great at making friends, her outspoken nature and grand ambitions earn her lots of enemies as well. Can Sarasa keep her upbeat attitude and achieve her dream of stardom?\n\n(Source: Seven Seas Entertainment)",
+    "background": "Kageki Shoujo!! has been published in English as Kageki Shojo!! by Seven Seas Entertainment since July 6, 2021.",
+    "authors": [
+        {
+            "mal_id": 4314,
+            "type": "people",
+            "name": "Saiki, Kumiko",
+            "url": "https://myanimelist.net/people/4314/Kumiko_Saiki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 71,
+            "type": "manga",
+            "name": "Melody",
+            "url": "https://myanimelist.net/manga/magazine/71/Melody"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 71,
+            "type": "manga",
+            "name": "Performing Arts",
+            "url": "https://myanimelist.net/manga/genre/71/Performing_Arts"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 86204,
+                    "type": "manga",
+                    "name": "Kageki Shoujo!",
+                    "url": "https://myanimelist.net/manga/86204/Kageki_Shoujo"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 43691,
+                    "type": "anime",
+                    "name": "Kageki Shoujo!!",
+                    "url": "https://myanimelist.net/anime/43691/Kageki_Shoujo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://melody-web.com/sakuhin/?id=10"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kageki_Shojo!!"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%92%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E3%81%98%E3%82%87!!"
+        }
+    ]
+}

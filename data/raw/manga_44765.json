@@ -1,0 +1,183 @@
+{
+    "mal_id": 44765,
+    "url": "https://myanimelist.net/manga/44765/Itou_Junji_Kyoufu_Manga_Collection__Tunnel_Kitan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/185885.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/185885t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/185885l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/185885.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/185885t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/185885l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Itou Junji Kyoufu Manga Collection: Tunnel Kitan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Long Dream"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Story of the Mysterious Tunnel"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Bronze Statue"
+        },
+        {
+            "type": "Synonym",
+            "title": "Drifting Spores"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blood Sickness of the White Sands Village"
+        },
+        {
+            "type": "Japanese",
+            "title": "トンネル奇譚"
+        }
+    ],
+    "title": "Itou Junji Kyoufu Manga Collection: Tunnel Kitan",
+    "title_english": null,
+    "title_japanese": "トンネル奇譚",
+    "title_synonyms": [
+        "Long Dream",
+        "The Story of the Mysterious Tunnel",
+        "The Bronze Statue",
+        "Drifting Spores",
+        "Blood Sickness of the White Sands Village"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-02-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 2,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 2001 to ?"
+    },
+    "score": 7.65,
+    "scored": 7.65,
+    "scored_by": 3966,
+    "rank": 2020,
+    "popularity": 2503,
+    "members": 8810,
+    "favorites": 42,
+    "synopsis": "The Itou Junji Kyoufu Manga Collection features themed one-shots from Junji Itou in Hontou ni Atta Kowai Hanashi mangazine. Volume 14.\n\n1. Long Dream\n2. The Story of the Mysterious Tunnel\n3. The Bronze Statue\n4. Drifting Spores\n5. Blood Sickness of the White Sands Village",
+    "background": "Long Dream was published in English as The Long Dream by VIZ Media as part of Shiver: Junji Ito Selected Stories on December 19, 2017.",
+    "authors": [
+        {
+            "mal_id": 2410,
+            "type": "people",
+            "name": "Itou, Junji",
+            "url": "https://myanimelist.net/people/2410/Junji_Itou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 901,
+            "type": "manga",
+            "name": "Hontou ni Atta Kowai Hanashi",
+            "url": "https://myanimelist.net/manga/magazine/901/Hontou_ni_Atta_Kowai_Hanashi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 44763,
+                    "type": "manga",
+                    "name": "Itou Junji Kyoufu Manga Collection: Circus ga Kita",
+                    "url": "https://myanimelist.net/manga/44763/Itou_Junji_Kyoufu_Manga_Collection__Circus_ga_Kita"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 44767,
+                    "type": "manga",
+                    "name": "Itou Junji Kyoufu Manga Collection 15: Shibito no Koiwazurai",
+                    "url": "https://myanimelist.net/manga/44767/Itou_Junji_Kyoufu_Manga_Collection_15__Shibito_no_Koiwazurai"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 36124,
+                    "type": "anime",
+                    "name": "Itou Junji: Collection",
+                    "url": "https://myanimelist.net/anime/36124/Itou_Junji__Collection"
+                },
+                {
+                    "mal_id": 52031,
+                    "type": "anime",
+                    "name": "Itou Junji: Maniac",
+                    "url": "https://myanimelist.net/anime/52031/Itou_Junji__Maniac"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

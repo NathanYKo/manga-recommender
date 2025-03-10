@@ -1,0 +1,111 @@
+{
+    "mal_id": 18537,
+    "url": "https://myanimelist.net/manga/18537/My_Hero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/77901.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/77901t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/77901l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/77901.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/77901t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/77901l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "My Hero!"
+        },
+        {
+            "type": "Japanese",
+            "title": "マイヒーロー!"
+        }
+    ],
+    "title": "My Hero!",
+    "title_english": null,
+    "title_japanese": "マイヒーロー!",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-06-13T00:00:00+00:00",
+        "to": "2010-03-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 6,
+                "year": 2009
+            },
+            "to": {
+                "day": 13,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Jun 13, 2009 to Mar 13, 2010"
+    },
+    "score": 7.38,
+    "scored": 7.38,
+    "scored_by": 2291,
+    "rank": 3991,
+    "popularity": 4730,
+    "members": 4660,
+    "favorites": 20,
+    "synopsis": "It's been a month since she entered high school, and Jun has started noticing a particular guy hanging around her classroom. When he suddenly confesses, she's not sure where she even knows him from--or how she feels about him. But come what may, he seems pretty intent on sticking around... \n\n(Source: Which Scanlations)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9919,
+            "type": "people",
+            "name": "Kumaoka, Fuyu",
+            "url": "https://myanimelist.net/people/9919/Fuyu_Kumaoka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

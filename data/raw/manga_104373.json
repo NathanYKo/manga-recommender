@@ -1,0 +1,108 @@
+{
+    "mal_id": 104373,
+    "url": "https://myanimelist.net/manga/104373/Bouncer",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/191308.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/191308t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/191308l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/191308.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/191308t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/191308l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bouncer"
+        },
+        {
+            "type": "Japanese",
+            "title": "バウンサー"
+        },
+        {
+            "type": "English",
+            "title": "Bouncer: Tokyo Fist"
+        }
+    ],
+    "title": "Bouncer",
+    "title_english": "Bouncer: Tokyo Fist",
+    "title_japanese": "バウンサー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-09-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 30, 2014 to ?"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 1240,
+    "rank": 3376,
+    "popularity": 4714,
+    "members": 4682,
+    "favorites": 48,
+    "synopsis": "The manga centers on Jouichirou Shishido, a 19-year-old man whose frank honesty has cost him 26 part time jobs. One night, he runs into a group of muscular bodyguards who protect the streets at night, members of a private security firm known as \"Tokyo Fist,\" which ends up changing his life.\n\n(Source: ANN)",
+    "background": "Bouncer has been published digitally in English as Bouncer: Tokyo Fist by Orange Inc. through emaqi.",
+    "authors": [
+        {
+            "mal_id": 31431,
+            "type": "people",
+            "name": "Mizuta, Makoto",
+            "url": "https://myanimelist.net/people/31431/Makoto_Mizuta"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 561,
+            "type": "manga",
+            "name": "Bessatsu Young Champion",
+            "url": "https://myanimelist.net/manga/magazine/561/Bessatsu_Young_Champion"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

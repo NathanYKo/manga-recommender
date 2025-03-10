@@ -1,0 +1,154 @@
+{
+    "mal_id": 86981,
+    "url": "https://myanimelist.net/manga/86981/Yakushoku_Distopiary",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/151194.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/151194t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/151194l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/151194.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/151194t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/151194l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yakushoku Distopiary"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yakushoku Distpiari"
+        },
+        {
+            "type": "Japanese",
+            "title": "役職ディストピアリ"
+        },
+        {
+            "type": "English",
+            "title": "Gesellschaft Blume"
+        }
+    ],
+    "title": "Yakushoku Distopiary",
+    "title_english": "Gesellschaft Blume",
+    "title_japanese": "役職ディストピアリ",
+    "title_synonyms": [
+        "Yakushoku Distpiari"
+    ],
+    "type": "Manga",
+    "chapters": 35,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-08-01T00:00:00+00:00",
+        "to": "2016-09-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "to": {
+                "day": 2,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Aug 1, 2014 to Sep 2, 2016"
+    },
+    "score": 6.58,
+    "scored": 6.58,
+    "scored_by": 3958,
+    "rank": 15426,
+    "popularity": 1669,
+    "members": 12962,
+    "favorites": 115,
+    "synopsis": "In this world, your \"Post\" is your life's calling. Only you can do it. You have to do it. You have no choice but to do it.\n\nTolza Godolschleim is a \"Slayer,\" a person whose predetermined Post destines him to fight against \"Demons.\" According to his superiors, a Slayer's strength lies in the number of his allies. However, compared to his contemporaries, Tolza recruits relatively few team members. The individuals that travel with him are skilled enough that he rarely has to draw his own sword, but it is not confidence in their abilities that causes him to be strangely selective about who can join him. The truth is something that the public can never be allowed to know.\n\n[Written by MAL Rewrite]",
+    "background": "Yakushoku Distopiary was published digitally in English as Gesellschaft Blume by Yen Press from June 27, 2017 to February 27, 2018.",
+    "authors": [
+        {
+            "mal_id": 37103,
+            "type": "people",
+            "name": "Yaminabe, Tellmin",
+            "url": "https://myanimelist.net/people/37103/Tellmin_Yaminabe"
+        },
+        {
+            "mal_id": 37104,
+            "type": "people",
+            "name": "Senga, Fumitaka",
+            "url": "https://myanimelist.net/people/37104/Fumitaka_Senga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 97754,
+                    "type": "manga",
+                    "name": "Yakushoku Distopiary: Kougyoku no Toubatsushi to Inochikurai no Boku",
+                    "url": "https://myanimelist.net/manga/97754/Yakushoku_Distopiary__Kougyoku_no_Toubatsushi_to_Inochikurai_no_Boku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.co.jp/magazine/yg/introduction/distpiari/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%BD%B9%E8%81%B7%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%E3%83%AA"
+        }
+    ]
+}

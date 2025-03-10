@@ -1,0 +1,132 @@
+{
+    "mal_id": 119604,
+    "url": "https://myanimelist.net/manga/119604/Ponkotsu-chan_Kenshouchuu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/222545.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/222545t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/222545l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/222545.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/222545t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/222545l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ponkotsu-chan Kenshouchuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Investigating with Junk-chan"
+        },
+        {
+            "type": "Japanese",
+            "title": "ポンコツちゃん検証中"
+        }
+    ],
+    "title": "Ponkotsu-chan Kenshouchuu",
+    "title_english": null,
+    "title_japanese": "ポンコツちゃん検証中",
+    "title_synonyms": [
+        "Investigating with Junk-chan"
+    ],
+    "type": "Manga",
+    "chapters": 117,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-04-24T00:00:00+00:00",
+        "to": "2021-07-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 4,
+                "year": 2019
+            },
+            "to": {
+                "day": 21,
+                "month": 7,
+                "year": 2021
+            }
+        },
+        "string": "Apr 24, 2019 to Jul 21, 2021"
+    },
+    "score": 6.72,
+    "scored": 6.72,
+    "scored_by": 546,
+    "rank": 13501,
+    "popularity": 8247,
+    "members": 2467,
+    "favorites": 2,
+    "synopsis": "Yumesaki-san has a problem. Every day she is given a new, random supernatural ability by an anonymous person called God. But for what purpose?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2314,
+            "type": "people",
+            "name": "Fukuchi, Tsubasa",
+            "url": "https://myanimelist.net/people/2314/Tsubasa_Fukuchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://websunday.net/rensai/ponkotsu/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%81%A1%E3%82%83%E3%82%93%E6%A4%9C%E8%A8%BC%E4%B8%AD"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "mal_id": 1943,
+    "url": "https://myanimelist.net/manga/1943/4-gatsu_4-kka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/121265.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/121265t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/121265l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/121265.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/121265t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/121265l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "4-gatsu 4-kka."
+        },
+        {
+            "type": "Synonym",
+            "title": "April 4th"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shigatsu Yokka"
+        },
+        {
+            "type": "Japanese",
+            "title": "4月4日。"
+        }
+    ],
+    "title": "4-gatsu 4-kka.",
+    "title_english": null,
+    "title_japanese": "4月4日。",
+    "title_synonyms": [
+        "April 4th",
+        "Shigatsu Yokka"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2006"
+    },
+    "score": 6.78,
+    "scored": 6.78,
+    "scored_by": 1392,
+    "rank": null,
+    "popularity": 7702,
+    "members": 2675,
+    "favorites": 11,
+    "synopsis": "Iori has always liked Naoto, even though Naoto cannot accept the fact that someone of the same sex is in love with him. Seeing the sad expression on Iori's face though, Naoto can no longer refuse Iori's feelings.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2245,
+            "type": "people",
+            "name": "Itsuki, Kaname",
+            "url": "https://myanimelist.net/people/2245/Kaname_Itsuki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1947,
+                    "type": "manga",
+                    "name": "Self Portrait",
+                    "url": "https://myanimelist.net/manga/1947/Self_Portrait"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 10504,
+                    "type": "manga",
+                    "name": "Interval",
+                    "url": "https://myanimelist.net/manga/10504/Interval"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

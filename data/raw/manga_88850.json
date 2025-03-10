@@ -1,0 +1,138 @@
+{
+    "mal_id": 88850,
+    "url": "https://myanimelist.net/manga/88850/Kuroneko_Kareshi_no_Afurekata",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/166745.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/166745t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/166745l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/166745.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/166745t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/166745l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kuroneko Kareshi no Afurekata"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kuroneko to Kareshi to Ouji"
+        },
+        {
+            "type": "Japanese",
+            "title": "クロネコ彼氏のあふれ方"
+        }
+    ],
+    "title": "Kuroneko Kareshi no Afurekata",
+    "title_english": null,
+    "title_japanese": "クロネコ彼氏のあふれ方",
+    "title_synonyms": [
+        "Kuroneko to Kareshi to Ouji"
+    ],
+    "type": "Manga",
+    "chapters": 18,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-03-14T00:00:00+00:00",
+        "to": "2016-07-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 3,
+                "year": 2015
+            },
+            "to": {
+                "day": 14,
+                "month": 7,
+                "year": 2016
+            }
+        },
+        "string": "Mar 14, 2015 to Jul 14, 2016"
+    },
+    "score": 7.81,
+    "scored": 7.81,
+    "scored_by": 2348,
+    "rank": null,
+    "popularity": 4049,
+    "members": 5562,
+    "favorites": 46,
+    "synopsis": "Shingo and Kakami are enjoying a passionate relationship, but then Kakami's work starts to be more and more demanding. Or is it something else that is going on?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2812,
+            "type": "people",
+            "name": "Ukyou, Ayane",
+            "url": "https://myanimelist.net/people/2812/Ayane_Ukyou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 99,
+            "type": "manga",
+            "name": "Dear+",
+            "url": "https://myanimelist.net/manga/magazine/99/Dear_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 66001,
+                    "type": "manga",
+                    "name": "Kuroneko Kareshi no Aishikata",
+                    "url": "https://myanimelist.net/manga/66001/Kuroneko_Kareshi_no_Aishikata"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 99775,
+                    "type": "manga",
+                    "name": "Kuroneko to Kareshi to Ouji",
+                    "url": "https://myanimelist.net/manga/99775/Kuroneko_to_Kareshi_to_Ouji"
+                },
+                {
+                    "mal_id": 109807,
+                    "type": "manga",
+                    "name": "Kuroneko Kareshi no Arukikata",
+                    "url": "https://myanimelist.net/manga/109807/Kuroneko_Kareshi_no_Arukikata"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

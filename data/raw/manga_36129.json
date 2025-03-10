@@ -1,0 +1,102 @@
+{
+    "mal_id": 36129,
+    "url": "https://myanimelist.net/manga/36129/Kobato_Epilogue__Happiness",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/65361.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/65361t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/65361l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/65361.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/65361t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/65361l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kobato. Epilogue: Happiness."
+        },
+        {
+            "type": "Japanese",
+            "title": "こばと。Epilogue-Happiness."
+        }
+    ],
+    "title": "Kobato. Epilogue: Happiness.",
+    "title_english": null,
+    "title_japanese": "こばと。Epilogue-Happiness.",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-09-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 9,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 11, 2011"
+    },
+    "score": 7.57,
+    "scored": 7.57,
+    "scored_by": 1122,
+    "rank": 2474,
+    "popularity": 7716,
+    "members": 2669,
+    "favorites": 9,
+    "synopsis": "16P epilogue to Kobato. included in the Illustrations &amp; Memories Artbook.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1877,
+            "type": "people",
+            "name": "CLAMP",
+            "url": "https://myanimelist.net/people/1877/CLAMP"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 118,
+                    "type": "manga",
+                    "name": "Kobato.",
+                    "url": "https://myanimelist.net/manga/118/Kobato"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

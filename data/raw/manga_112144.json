@@ -1,0 +1,102 @@
+{
+    "mal_id": 112144,
+    "url": "https://myanimelist.net/manga/112144/Yukuyuku_Futari",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/212855.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/212855t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/212855l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/212855.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/212855t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/212855l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yukuyuku Futari"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Couple's Path"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゆくゆくふたり"
+        }
+    ],
+    "title": "Yukuyuku Futari",
+    "title_english": null,
+    "title_japanese": "ゆくゆくふたり",
+    "title_synonyms": [
+        "The Couple's Path"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-12-24T00:00:00+00:00",
+        "to": "2017-11-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 12,
+                "year": 2016
+            },
+            "to": {
+                "day": 26,
+                "month": 11,
+                "year": 2017
+            }
+        },
+        "string": "Dec 24, 2016 to Nov 26, 2017"
+    },
+    "score": 7.01,
+    "scored": 7.01,
+    "scored_by": 1405,
+    "rank": 8876,
+    "popularity": 7142,
+    "members": 2936,
+    "favorites": 10,
+    "synopsis": "A lighthearted romance manga about Takeshita Aoi and Terai Maru, a new young couple discovering new things about each other.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 48753,
+            "type": "people",
+            "name": "Tadano, Natsu",
+            "url": "https://myanimelist.net/people/48753/Natsu_Tadano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1423,
+            "type": "manga",
+            "name": "Hug pixiv",
+            "url": "https://myanimelist.net/manga/magazine/1423/Hug_pixiv"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.pixiv.net/works/3078"
+        }
+    ]
+}

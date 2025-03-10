@@ -1,0 +1,130 @@
+{
+    "mal_id": 146284,
+    "url": "https://myanimelist.net/manga/146284/Haikyuu_Tokubetsu_Bangai-hen__Matsuri_Futatabi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/258941.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/258941t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/258941l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/258941.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/258941t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/258941l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Haikyuu!! Tokubetsu Bangai-hen: Matsuri Futatabi"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハイキュー!! 特別番外編 祭り再び"
+        },
+        {
+            "type": "English",
+            "title": "Haikyu!! Special One-shot: A Party Reignited"
+        }
+    ],
+    "title": "Haikyuu!! Tokubetsu Bangai-hen: Matsuri Futatabi",
+    "title_english": "Haikyu!! Special One-shot: A Party Reignited",
+    "title_japanese": "ハイキュー!! 特別番外編 祭り再び",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2022-04-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 2022
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 25, 2022"
+    },
+    "score": 7.76,
+    "scored": 7.76,
+    "scored_by": 1323,
+    "rank": 1500,
+    "popularity": 8512,
+    "members": 2370,
+    "favorites": 16,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 8260,
+            "type": "people",
+            "name": "Furudate, Haruichi",
+            "url": "https://myanimelist.net/people/8260/Haruichi_Furudate"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 35243,
+                    "type": "manga",
+                    "name": "Haikyuu!!",
+                    "url": "https://myanimelist.net/manga/35243/Haikyuu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%A5%E3%83%BC!!"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Haikyu!!"
+        }
+    ]
+}

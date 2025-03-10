@@ -1,0 +1,158 @@
+{
+    "mal_id": 46010,
+    "url": "https://myanimelist.net/manga/46010/xxxHOLiC__Rei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/243539.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/243539t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/243539l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/243539.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/243539t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/243539l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "xxxHOLiC: Rei"
+        },
+        {
+            "type": "Synonym",
+            "title": "xxxHOLiC: Return"
+        },
+        {
+            "type": "Japanese",
+            "title": "xxxHOLiC・戻"
+        },
+        {
+            "type": "English",
+            "title": "xxxHOLiC Rei"
+        }
+    ],
+    "title": "xxxHOLiC: Rei",
+    "title_english": "xxxHOLiC Rei",
+    "title_japanese": "xxxHOLiC・戻",
+    "title_synonyms": [
+        "xxxHOLiC: Return"
+    ],
+    "type": "Manga",
+    "chapters": 56,
+    "volumes": 4,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "2013-03-04T00:00:00+00:00",
+        "to": "2017-03-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 3,
+                "year": 2013
+            },
+            "to": {
+                "day": 13,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Mar 4, 2013 to Mar 13, 2017"
+    },
+    "score": 8.18,
+    "scored": 8.18,
+    "scored_by": 4077,
+    "rank": 468,
+    "popularity": 1489,
+    "members": 14314,
+    "favorites": 139,
+    "synopsis": "In xxxHOLiC Rei, Kimihiro Watanuki continues his relationship with the Space Time Witch, Yuko. In her mysterious shop where wishes are granted for a price will he discover even more secrets? And what will he have to trade this time for the answers he seeks?\n\n(Source: Kodansha USA)",
+    "background": "xxxHOLiC: Rei was published in English by Kodansha Comics USA from April 29, 2014 to August 15, 2017. It is also being published in Spanish by Norma Editorial since August 20, 2014.",
+    "authors": [
+        {
+            "mal_id": 1877,
+            "type": "people",
+            "name": "CLAMP",
+            "url": "https://myanimelist.net/people/1877/CLAMP"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 10,
+                    "type": "manga",
+                    "name": "xxxHOLiC",
+                    "url": "https://myanimelist.net/manga/10/xxxHOLiC"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 74339,
+                    "type": "manga",
+                    "name": "Tsubasa: WoRLD CHRoNiCLE - Niraikanai-hen",
+                    "url": "https://myanimelist.net/manga/74339/Tsubasa__WoRLD_CHRoNiCLE_-_Niraikanai-hen"
+                },
+                {
+                    "mal_id": 94856,
+                    "type": "manga",
+                    "name": "xxxHOLiC Tokubetsu-hen",
+                    "url": "https://myanimelist.net/manga/94856/xxxHOLiC_Tokubetsu-hen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/xxxholic-rei/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/XXXHOLiC"
+        }
+    ]
+}

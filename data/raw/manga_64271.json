@@ -1,0 +1,138 @@
+{
+    "mal_id": 64271,
+    "url": "https://myanimelist.net/manga/64271/Strange_Dragon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/117393.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/117393t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/117393l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/117393.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/117393t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/117393l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Strange Dragon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hyouketsu Kiss Mate"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hyouketsu Kismet"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ryuuguu Fantasitca"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dragon Castle Fantastica"
+        },
+        {
+            "type": "Japanese",
+            "title": "ストレンジ ドラゴン"
+        }
+    ],
+    "title": "Strange Dragon",
+    "title_english": null,
+    "title_japanese": "ストレンジ ドラゴン",
+    "title_synonyms": [
+        "Hyouketsu Kiss Mate",
+        "Hyouketsu Kismet",
+        "Ryuuguu Fantasitca",
+        "Dragon Castle Fantastica"
+    ],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-09-24T00:00:00+00:00",
+        "to": "2015-02-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 9,
+                "year": 2013
+            },
+            "to": {
+                "day": 24,
+                "month": 2,
+                "year": 2015
+            }
+        },
+        "string": "Sep 24, 2013 to Feb 24, 2015"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 2738,
+    "rank": 4391,
+    "popularity": 3479,
+    "members": 6425,
+    "favorites": 44,
+    "synopsis": "Many years ago, a dragon descended from the sky to protect the country's king. Hibana, a princess, embarks on an adventure to search for the dragon. She saves a boy with a rare but real dragon scale. Does he know something...?\n\n(Source: Chinatown KM)\n\nIncluded one-shots:\nVolume 1: Ryuuguu Fantasitca (Dragon Castle Fantastica), Hyouketsu Kismet",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10659,
+            "type": "people",
+            "name": "Ishihara, Keiko",
+            "url": "https://myanimelist.net/people/10659/Keiko_Ishihara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "LaLa",
+            "url": "https://myanimelist.net/manga/magazine/11/LaLa"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 93547,
+                    "type": "manga",
+                    "name": "Hanayome to Exorcist",
+                    "url": "https://myanimelist.net/manga/93547/Hanayome_to_Exorcist"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

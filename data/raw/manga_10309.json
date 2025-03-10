@@ -1,0 +1,130 @@
+{
+    "mal_id": 10309,
+    "url": "https://myanimelist.net/manga/10309/Junjou_Mistake",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/140927.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/140927t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/140927l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/140927.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/140927t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/140927l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Junjou Mistake"
+        },
+        {
+            "type": "Japanese",
+            "title": "純情ミステイク"
+        }
+    ],
+    "title": "Junjou Mistake",
+    "title_english": null,
+    "title_japanese": "純情ミステイク",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-07-25T00:00:00+00:00",
+        "to": "2008-12-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 7,
+                "year": 2008
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Jul 25, 2008 to Dec 26, 2008"
+    },
+    "score": 7.82,
+    "scored": 7.82,
+    "scored_by": 2792,
+    "rank": 1246,
+    "popularity": 3888,
+    "members": 5772,
+    "favorites": 28,
+    "synopsis": "Isaka is secretly in love with his caretaker and former childhood friend Asahina. However, Asahina is obsessed with Isaka's father...or so it seems.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1918,
+            "type": "people",
+            "name": "Nakamura, Shungiku",
+            "url": "https://myanimelist.net/people/1918/Shungiku_Nakamura"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 11123,
+                    "type": "anime",
+                    "name": "Sekaiichi Hatsukoi 2",
+                    "url": "https://myanimelist.net/anime/11123/Sekaiichi_Hatsukoi_2"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 765,
+                    "type": "manga",
+                    "name": "Junjou Romantica",
+                    "url": "https://myanimelist.net/manga/765/Junjou_Romantica"
+                },
+                {
+                    "mal_id": 10573,
+                    "type": "manga",
+                    "name": "Sekaiichi Hatsukoi: Onodera Ritsu no Baai",
+                    "url": "https://myanimelist.net/manga/10573/Sekaiichi_Hatsukoi__Onodera_Ritsu_no_Baai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%B4%94%E6%83%85%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%81%E3%82%AB"
+        }
+    ]
+}

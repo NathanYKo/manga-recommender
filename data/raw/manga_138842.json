@@ -1,0 +1,132 @@
+{
+    "mal_id": 138842,
+    "url": "https://myanimelist.net/manga/138842/Sanda",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/253094.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/253094t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/253094l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/253094.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/253094t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/253094l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sanda"
+        },
+        {
+            "type": "Japanese",
+            "title": "SANDA"
+        },
+        {
+            "type": "English",
+            "title": "Sanda"
+        }
+    ],
+    "title": "Sanda",
+    "title_english": "Sanda",
+    "title_japanese": "SANDA",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 142,
+    "volumes": 16,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2021-07-21T00:00:00+00:00",
+        "to": "2024-07-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 7,
+                "year": 2021
+            },
+            "to": {
+                "day": 11,
+                "month": 7,
+                "year": 2024
+            }
+        },
+        "string": "Jul 21, 2021 to Jul 11, 2024"
+    },
+    "score": 6.94,
+    "scored": 6.94,
+    "scored_by": 1037,
+    "rank": 9924,
+    "popularity": 3710,
+    "members": 6091,
+    "favorites": 30,
+    "synopsis": "The story starts with Sanda, a second year middle school student, getting attacked with a kitchen knife by his classmate Fuyumura. While Sanda couldn't make sense of the situation at first, he gradually came to believe that Fuyumura's actions were just mean acts stemming off from the latter having a peculiar puberty phase.\n\nBut that was all actually a misunderstanding. Fuyumura is seriously questioning if Sanda is actually the descendant of a certain family...\n\n(Source: MU)",
+    "background": "Sanda has been published in Italian by Panini Comics since March 28, 2024.",
+    "authors": [
+        {
+            "mal_id": 43264,
+            "type": "people",
+            "name": "Itagaki, Paru",
+            "url": "https://myanimelist.net/people/43264/Paru_Itagaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 59267,
+                    "type": "anime",
+                    "name": "Sanda",
+                    "url": "https://myanimelist.net/anime/59267/Sanda"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sanda_(manga)"
+        }
+    ]
+}

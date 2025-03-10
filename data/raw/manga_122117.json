@@ -1,0 +1,122 @@
+{
+    "mal_id": 122117,
+    "url": "https://myanimelist.net/manga/122117/Alma",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/225995.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/225995t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/225995l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/225995.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/225995t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/225995l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Alma"
+        },
+        {
+            "type": "Japanese",
+            "title": "アルマ"
+        }
+    ],
+    "title": "Alma",
+    "title_english": null,
+    "title_japanese": "アルマ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 32,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-10-03T00:00:00+00:00",
+        "to": "2020-07-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2019
+            },
+            "to": {
+                "day": 23,
+                "month": 7,
+                "year": 2020
+            }
+        },
+        "string": "Oct 3, 2019 to Jul 23, 2020"
+    },
+    "score": 6.9,
+    "scored": 6.9,
+    "scored_by": 805,
+    "rank": 10565,
+    "popularity": 6492,
+    "members": 3279,
+    "favorites": 21,
+    "synopsis": "Ray and Trice grew up together in this post apocalyptic world. She was his only friend. But then one day... An unwelcome guest arrives and proclaims \"Glory to Humans\"...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 49817,
+            "type": "people",
+            "name": "Mito, Shinji",
+            "url": "https://myanimelist.net/people/49817/Shinji_Mito"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://youngjump.jp/manga/alma/"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "mal_id": 100271,
+    "url": "https://myanimelist.net/manga/100271/Nega",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/181597.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/181597t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/181597l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/181597.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/181597t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/181597l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nega"
+        },
+        {
+            "type": "Synonym",
+            "title": "Negative"
+        },
+        {
+            "type": "Synonym",
+            "title": "Piercing Hole"
+        },
+        {
+            "type": "Synonym",
+            "title": "Pierce Hole"
+        },
+        {
+            "type": "Synonym",
+            "title": "Behind The Closed Doors"
+        },
+        {
+            "type": "Synonym",
+            "title": "Suimenka"
+        },
+        {
+            "type": "Synonym",
+            "title": "Watashitachi wa Byplayer"
+        },
+        {
+            "type": "Synonym",
+            "title": "Restart"
+        },
+        {
+            "type": "Japanese",
+            "title": "ネガ"
+        }
+    ],
+    "title": "Nega",
+    "title_english": null,
+    "title_japanese": "ネガ",
+    "title_synonyms": [
+        "Negative",
+        "Piercing Hole",
+        "Pierce Hole",
+        "Behind The Closed Doors",
+        "Suimenka",
+        "Watashitachi wa Byplayer",
+        "Restart"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-04-07T00:00:00+00:00",
+        "to": "2016-02-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 9,
+                "month": 2,
+                "year": 2016
+            }
+        },
+        "string": "Apr 7, 2014 to Feb 9, 2016"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 1476,
+    "rank": null,
+    "popularity": 6558,
+    "members": 3241,
+    "favorites": 18,
+    "synopsis": "1. Koukai no Umi (Regret of The Sea)\n2. Suimenka (Behind The Closed Doors)\n3. Pierce Hole (Piercings)\n4. Restart\n5. Watashitachi wa Byplayer",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 37887,
+            "type": "people",
+            "name": "Harada",
+            "url": "https://myanimelist.net/people/37887/Harada"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 100270,
+                    "type": "manga",
+                    "name": "Posi",
+                    "url": "https://myanimelist.net/manga/100270/Posi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

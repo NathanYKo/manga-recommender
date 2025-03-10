@@ -1,0 +1,162 @@
+{
+    "mal_id": 4444,
+    "url": "https://myanimelist.net/manga/4444/Rokudenashi_Blues",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/184928.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/184928t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/184928l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/184928.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/184928t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/184928l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rokudenashi Blues"
+        },
+        {
+            "type": "Japanese",
+            "title": "ろくでなしBLUES"
+        },
+        {
+            "type": "English",
+            "title": "Good-For-Nothing Blues"
+        }
+    ],
+    "title": "Rokudenashi Blues",
+    "title_english": "Good-For-Nothing Blues",
+    "title_japanese": "ろくでなしBLUES",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 422,
+    "volumes": 42,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1988-05-17T00:00:00+00:00",
+        "to": "1997-02-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 5,
+                "year": 1988
+            },
+            "to": {
+                "day": 4,
+                "month": 2,
+                "year": 1997
+            }
+        },
+        "string": "May 17, 1988 to Feb 4, 1997"
+    },
+    "score": 7.74,
+    "scored": 7.74,
+    "scored_by": 1700,
+    "rank": 1574,
+    "popularity": 2025,
+    "members": 10592,
+    "favorites": 164,
+    "synopsis": "Maeda is a new student in the Teiken High School. He stutters when he's nervous and he's rather clumsy. He gets noted immediately because he hits a teacher during the entrance ceremony. Some clubs search to enlist him as they see in him a force they can use to get even with other clubs. But Maeda is a loner and has only one dream: becoming boxing champion. His first objective is to beat the leader of the boxing club. \"Rokudenashi\" translates as \"good for nothing\". (Source: Mangaupdates)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3510,
+            "type": "people",
+            "name": "Morita, Masanori",
+            "url": "https://myanimelist.net/people/3510/Masanori_Morita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/manga/genre/54/Combat_Sports"
+        },
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9077,
+                    "type": "anime",
+                    "name": "Rokudenashi Blues",
+                    "url": "https://myanimelist.net/anime/9077/Rokudenashi_Blues"
+                },
+                {
+                    "mal_id": 9078,
+                    "type": "anime",
+                    "name": "Rokudenashi Blues 1993",
+                    "url": "https://myanimelist.net/anime/9078/Rokudenashi_Blues_1993"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Rokudenashi_Blues"
+        }
+    ]
+}

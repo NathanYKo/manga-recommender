@@ -1,0 +1,109 @@
+{
+    "mal_id": 13511,
+    "url": "https://myanimelist.net/manga/13511/Helen_ESP",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/18998.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/18998t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/18998l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/18998.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/18998t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/18998l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Helen ESP"
+        },
+        {
+            "type": "Synonym",
+            "title": "Heren ESP"
+        },
+        {
+            "type": "Japanese",
+            "title": "ヘレンesp"
+        }
+    ],
+    "title": "Helen ESP",
+    "title_english": null,
+    "title_japanese": "ヘレンesp",
+    "title_synonyms": [
+        "Heren ESP"
+    ],
+    "type": "Manga",
+    "chapters": 18,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-05-24T00:00:00+00:00",
+        "to": "2010-06-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 5,
+                "year": 2007
+            },
+            "to": {
+                "day": 24,
+                "month": 6,
+                "year": 2010
+            }
+        },
+        "string": "May 24, 2007 to Jun 24, 2010"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 1461,
+    "rank": 4308,
+    "popularity": 6066,
+    "members": 3543,
+    "favorites": 24,
+    "synopsis": "Helen ESP is from the controversial author of Franken Fran and retains much of the same dark style, but takes a much brighter look on life and death thanks to the cheerfulness of the main character. In Helen ESP, we follow Takahara Helen, who lost her sight, hearing and speech in a terrible car accident. Now she lives with her Uncle and a helper dog named Victor... and she's awakening to her own gift. \n\n(Source: Snoopycool)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6647,
+            "type": "people",
+            "name": "Kigitsu, Katsuhisa",
+            "url": "https://myanimelist.net/people/6647/Katsuhisa_Kigitsu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AC%E3%83%B3esp"
+        }
+    ]
+}

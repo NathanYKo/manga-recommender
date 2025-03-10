@@ -1,0 +1,126 @@
+{
+    "mal_id": 93550,
+    "url": "https://myanimelist.net/manga/93550/Kimi_to_Eureka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/174497.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/174497t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/174497l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/174497.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/174497t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/174497l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi to Eureka"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimi to Yuriika"
+        },
+        {
+            "type": "Japanese",
+            "title": "きみとユリイカ"
+        },
+        {
+            "type": "English",
+            "title": "Eureka Moment with You"
+        }
+    ],
+    "title": "Kimi to Eureka",
+    "title_english": "Eureka Moment with You",
+    "title_japanese": "きみとユリイカ",
+    "title_synonyms": [
+        "Kimi to Yuriika"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-09-12T00:00:00+00:00",
+        "to": "2016-12-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 9,
+                "year": 2015
+            },
+            "to": {
+                "day": 16,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Sep 12, 2015 to Dec 16, 2016"
+    },
+    "score": 6.78,
+    "scored": 6.78,
+    "scored_by": 495,
+    "rank": 12439,
+    "popularity": 8781,
+    "members": 2278,
+    "favorites": 6,
+    "synopsis": "High school freshman, Mai, is now living alone since her mother moved to work overseas. One day she encounters a boy stuck in a tree and then later, calling himself \"Watari,\" he suddenly appears at her door. Who is this mysterious boy?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7181,
+            "type": "people",
+            "name": "Ayuko",
+            "url": "https://myanimelist.net/people/7181/Ayuko"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Bessatsu Margaret",
+            "url": "https://myanimelist.net/manga/magazine/53/Bessatsu_Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://betsuma.shueisha.co.jp/lineup/eureka.html"
+        }
+    ]
+}

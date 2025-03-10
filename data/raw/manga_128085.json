@@ -1,0 +1,157 @@
+{
+    "mal_id": 128085,
+    "url": "https://myanimelist.net/manga/128085/Boku_to_Roboko",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/236318.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/236318t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/236318l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/236318.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/236318t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/236318l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boku to Roboko"
+        },
+        {
+            "type": "Synonym",
+            "title": "Me and Roboco"
+        },
+        {
+            "type": "Synonym",
+            "title": "Roboco and I"
+        },
+        {
+            "type": "Japanese",
+            "title": "僕とロボコ"
+        },
+        {
+            "type": "English",
+            "title": "Me & Roboco"
+        }
+    ],
+    "title": "Boku to Roboko",
+    "title_english": "Me & Roboco",
+    "title_japanese": "僕とロボコ",
+    "title_synonyms": [
+        "Me and Roboco",
+        "Roboco and I"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-07-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 6, 2020 to ?"
+    },
+    "score": 6.33,
+    "scored": 6.33,
+    "scored_by": 1416,
+    "rank": 18215,
+    "popularity": 5722,
+    "members": 3764,
+    "favorites": 26,
+    "synopsis": "Robotic OrderMaids are popping up in every household, and 10-year-old Bondo Taira has found out that his two closest friends—Motsuo and Gachi Gorilla—have OrderMaids too. Motsuo, in particular, owns Meico, a beautiful robot that gives excellent massages and serves drinks with a smile. Jealous of his friend, Bondo convinces his mother to get him an OrderMaid, hoping for a similar experience.\n\nHowever, to Bondo's surprise, the maid that appears outside of his door is incredibly muscular and clumsy enough to destroy a house when completing simple chores. Going by the name Roboko, this new robot is the exact opposite of what Bondo wanted. But despite that, Bondo, together with his friends, learns that there is more to Roboko than they could ever expect.\n\n[Written by MAL Rewrite]",
+    "background": "Boku to Roboko is simulpub in English as Me & Roboco through MANGA Plus service. The volumes have been published digitally in English by VIZ Media under the Shonen Jump imprint since October 26, 2021.",
+    "authors": [
+        {
+            "mal_id": 50576,
+            "type": "people",
+            "name": "Miyazaki, Shuuhei",
+            "url": "https://myanimelist.net/people/50576/Shuuhei_Miyazaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 51940,
+                    "type": "anime",
+                    "name": "Boku to Roboko",
+                    "url": "https://myanimelist.net/anime/51940/Boku_to_Roboko"
+                },
+                {
+                    "mal_id": 55709,
+                    "type": "anime",
+                    "name": "Boku to Roboko Movie",
+                    "url": "https://myanimelist.net/anime/55709/Boku_to_Roboko_Movie"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.shonenjump.com/j/rensai/roboko.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Me_%26_Roboco"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%A8%E3%83%AD%E3%83%9C%E3%82%B3"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "mal_id": 1240,
+    "url": "https://myanimelist.net/manga/1240/Shiritsu_Bijinzaka_Joshi_Koukou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/207277.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/207277t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/207277l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/207277.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/207277t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/207277l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shiritsu! Bijinzaka Joshi Koukou"
+        },
+        {
+            "type": "Japanese",
+            "title": "私立！美人坂女子高校"
+        },
+        {
+            "type": "English",
+            "title": "Bijinzaka Private Girls High School"
+        }
+    ],
+    "title": "Shiritsu! Bijinzaka Joshi Koukou",
+    "title_english": "Bijinzaka Private Girls High School",
+    "title_japanese": "私立！美人坂女子高校",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-09-13T00:00:00+00:00",
+        "to": "2004-08-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 9,
+                "year": 2003
+            },
+            "to": {
+                "day": 11,
+                "month": 8,
+                "year": 2004
+            }
+        },
+        "string": "Sep 13, 2003 to Aug 11, 2004"
+    },
+    "score": 7.16,
+    "scored": 7.16,
+    "scored_by": 1204,
+    "rank": 6664,
+    "popularity": 7910,
+    "members": 2596,
+    "favorites": 18,
+    "synopsis": "Nonomiya En, previously expelled from her old school following three suspensions, is forced by her father to enter Bijinzaka, a prestigious all-girls' high school where they train girls to become young, well-mannered ladies. Upon her arrival, En realizes that this school is definitely not for her and sneaks out. On her way out, she meets Narushima Chihiro, 1st year student at Jouyama Boys' High, on the other side of the hill.\n\n(Source: Sugar Oasis)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2095,
+            "type": "people",
+            "name": "Yokoyama, Mayumi",
+            "url": "https://myanimelist.net/people/2095/Mayumi_Yokoyama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 140343,
+                    "type": "manga",
+                    "name": "Zoku! Bijinzaka Joshi Koukou",
+                    "url": "https://myanimelist.net/manga/140343/Zoku_Bijinzaka_Joshi_Koukou"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

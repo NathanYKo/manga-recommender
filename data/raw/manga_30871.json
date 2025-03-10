@@ -1,0 +1,172 @@
+{
+    "mal_id": 30871,
+    "url": "https://myanimelist.net/manga/30871/Guilty_Crown",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/154129.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/154129t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/154129l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/154129.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/154129t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/154129l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Guilty Crown"
+        },
+        {
+            "type": "Japanese",
+            "title": "ギルティクラウン"
+        }
+    ],
+    "title": "Guilty Crown",
+    "title_english": null,
+    "title_japanese": "ギルティクラウン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 26,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-10-12T00:00:00+00:00",
+        "to": "2013-11-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 12,
+                "month": 11,
+                "year": 2013
+            }
+        },
+        "string": "Oct 12, 2011 to Nov 12, 2013"
+    },
+    "score": 7.44,
+    "scored": 7.44,
+    "scored_by": 1455,
+    "rank": 3444,
+    "popularity": 3182,
+    "members": 7065,
+    "favorites": 100,
+    "synopsis": "Guilty Crown is set in 2039 and revolves around Ouma Shu, a boy who has acquired an ability called the \"power of kings\" that allows him to draw out weapons from another person. He joins a resistance group named \"Undertaker\" which aims to restore Japan's independence from an international organization known as the GHQ.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 14307,
+            "type": "people",
+            "name": "Mizuki, Shion",
+            "url": "https://myanimelist.net/people/14307/Shion_Mizuki"
+        },
+        {
+            "mal_id": 14309,
+            "type": "people",
+            "name": "Miyagi, Yousuke",
+            "url": "https://myanimelist.net/people/14309/Yousuke_Miyagi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Shounen Gangan",
+            "url": "https://myanimelist.net/manga/magazine/13/Shounen_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 10793,
+                    "type": "anime",
+                    "name": "Guilty Crown",
+                    "url": "https://myanimelist.net/anime/10793/Guilty_Crown"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 42555,
+                    "type": "manga",
+                    "name": "Guilty Crown: Princess of Deadpool",
+                    "url": "https://myanimelist.net/manga/42555/Guilty_Crown__Princess_of_Deadpool"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 42597,
+                    "type": "manga",
+                    "name": "Guilty Crown: Dancing Endlaves",
+                    "url": "https://myanimelist.net/manga/42597/Guilty_Crown__Dancing_Endlaves"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://gangan.square-enix.co.jp/introduction/guilty-crown/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AB%E3%83%86%E3%82%A3%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3"
+        }
+    ]
+}

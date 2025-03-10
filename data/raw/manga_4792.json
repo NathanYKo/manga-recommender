@@ -1,0 +1,121 @@
+{
+    "mal_id": 4792,
+    "url": "https://myanimelist.net/manga/4792/Watashi_no_Koibito",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/10027.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/10027t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/10027l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/10027.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/10027t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/10027l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Watashi no Koibito"
+        },
+        {
+            "type": "Synonym",
+            "title": "Atashi no Koibito"
+        },
+        {
+            "type": "Japanese",
+            "title": "私の恋人"
+        },
+        {
+            "type": "English",
+            "title": "My Lover"
+        }
+    ],
+    "title": "Watashi no Koibito",
+    "title_english": "My Lover",
+    "title_japanese": "私の恋人",
+    "title_synonyms": [
+        "Atashi no Koibito"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-01-01T00:00:00+00:00",
+        "to": "2003-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            }
+        },
+        "string": "2002 to 2003"
+    },
+    "score": 6.97,
+    "scored": 6.97,
+    "scored_by": 1251,
+    "rank": 9504,
+    "popularity": 8205,
+    "members": 2479,
+    "favorites": 3,
+    "synopsis": "First year student Emi falls for Junta, a boy in her class who is in love with Emi's perfect older sister Miki.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4142,
+            "type": "people",
+            "name": "Sakisaka, Io",
+            "url": "https://myanimelist.net/people/4142/Io_Sakisaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Margaret",
+            "url": "https://myanimelist.net/manga/magazine/17/Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

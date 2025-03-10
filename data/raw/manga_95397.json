@@ -1,0 +1,118 @@
+{
+    "mal_id": 95397,
+    "url": "https://myanimelist.net/manga/95397/Ningyo_Ouji",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/186900.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/186900t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/186900l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/186900.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/186900t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/186900l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ningyo Ouji"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ametsukigahara"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yuki no Hi"
+        },
+        {
+            "type": "Japanese",
+            "title": "人魚王子"
+        },
+        {
+            "type": "English",
+            "title": "Mermaid Prince"
+        }
+    ],
+    "title": "Ningyo Ouji",
+    "title_english": "Mermaid Prince",
+    "title_japanese": "人魚王子",
+    "title_synonyms": [
+        "Ametsukigahara",
+        "Yuki no Hi"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-04-28T00:00:00+00:00",
+        "to": "2015-10-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 10,
+                "year": 2015
+            }
+        },
+        "string": "Apr 28, 2014 to Oct 28, 2015"
+    },
+    "score": 6.89,
+    "scored": 6.89,
+    "scored_by": 2631,
+    "rank": 10786,
+    "popularity": 4145,
+    "members": 5437,
+    "favorites": 29,
+    "synopsis": "1-2. Ametsukigahara\n3. Yuki no Hi\n4-6. Ningyo Ouji",
+    "background": "Ningyo Ouji was published in English as Mermaid Prince by Kodansha USA under the Vertical Comics imprint on June 25, 2024, and in Spanish by Milky Way Ediciones.",
+    "authors": [
+        {
+            "mal_id": 2356,
+            "type": "people",
+            "name": "Ozaki, Kaori",
+            "url": "https://myanimelist.net/people/2356/Kaori_Ozaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Wings",
+            "url": "https://myanimelist.net/manga/magazine/45/Wings"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/mermaid-prince"
+        }
+    ]
+}

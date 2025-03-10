@@ -1,0 +1,128 @@
+{
+    "mal_id": 131171,
+    "url": "https://myanimelist.net/manga/131171/Ghost_Teller",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/237076.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/237076t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/237076l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/237076.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/237076t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/237076l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ghost Teller"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gwijeon Gudam"
+        },
+        {
+            "type": "Japanese",
+            "title": "귀전구담"
+        },
+        {
+            "type": "English",
+            "title": "Ghost Teller"
+        }
+    ],
+    "title": "Ghost Teller",
+    "title_english": "Ghost Teller",
+    "title_japanese": "귀전구담",
+    "title_synonyms": [
+        "Gwijeon Gudam"
+    ],
+    "type": "Manhwa",
+    "chapters": 91,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-04-02T00:00:00+00:00",
+        "to": "2020-07-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 19,
+                "month": 7,
+                "year": 2020
+            }
+        },
+        "string": "Apr 2, 2017 to Jul 19, 2020"
+    },
+    "score": 7.94,
+    "scored": 7.94,
+    "scored_by": 2178,
+    "rank": 882,
+    "popularity": 4335,
+    "members": 5161,
+    "favorites": 102,
+    "synopsis": "You think your ghost stories are scary? Try listening to these stories from the ghosts themselves.\n\n(Source: LINE Webtoon)",
+    "background": "Ghost Teller is originally a webtoon series. The first season was officially published in book format by Young Com (영컴) on August 17, 2020 after a successful crowdfunding campaign. The series was published digitally in English by LINE Webtoon from February 10, 2018 to July 25, 2020.",
+    "authors": [
+        {
+            "mal_id": 52678,
+            "type": "people",
+            "name": "QTT",
+            "url": "https://myanimelist.net/people/52678/QTT"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 52886,
+                    "type": "anime",
+                    "name": "Gwijeon Gudam PV",
+                    "url": "https://myanimelist.net/anime/52886/Gwijeon_Gudam_PV"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.naver.com/webtoon/list.nhn?titleId=694946"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EA%B7%80%EC%A0%84%EA%B5%AC%EB%8B%B4"
+        }
+    ]
+}

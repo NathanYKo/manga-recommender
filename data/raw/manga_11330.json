@@ -1,0 +1,137 @@
+{
+    "mal_id": 11330,
+    "url": "https://myanimelist.net/manga/11330/Bleach",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/15891.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/15891t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/15891l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/15891.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/15891t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/15891l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bleach"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bleach Official Character Book SoulS"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bleach 0"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bleach Pilot"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bleach Short Story Edition"
+        },
+        {
+            "type": "Japanese",
+            "title": "BLEACH"
+        }
+    ],
+    "title": "Bleach",
+    "title_english": null,
+    "title_japanese": "BLEACH",
+    "title_synonyms": [
+        "Bleach Official Character Book SoulS",
+        "Bleach 0",
+        "Bleach Pilot",
+        "Bleach Short Story Edition"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-12-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 2000"
+    },
+    "score": 6.71,
+    "scored": 6.71,
+    "scored_by": 5034,
+    "rank": 13586,
+    "popularity": 2235,
+    "members": 9736,
+    "favorites": 139,
+    "synopsis": "Since childhood, seeing ghosts has been a part of Ichigo Kurosaki's ordinary life. However, things go awry when he and his spectral attachments get caught in a fight between Soul Reaper Rukia Kuchiki and a Hollow. As Ichigo learns, Soul Reapers are spiritual beings assigned to safely guide the dead to Soul Society, whereas Hollows are corrupt spirits that prey on innocent souls.\n\nThough Rukia manages to defeat her opponent and keep everyone else out of harm, she exhausts her powers in the process. No longer capable of performing her duties, she resorts to forcing Ichigo to become her substitute until she recovers. Despite Rukia's abrasive behavior, Ichigo handles his new routine with ease. But when he is tasked with sending one of his classmates to Soul Society, Ichigo gains a compelling outlook on the afterlife.\n\n[Written by MAL Rewrite]",
+    "background": "Bleach was selected for serialization after the one-shot ranked number one on Weekly Shounen Jump's popularity polls in 2001.",
+    "authors": [
+        {
+            "mal_id": 1880,
+            "type": "people",
+            "name": "Kubo, Tite",
+            "url": "https://myanimelist.net/people/1880/Tite_Kubo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 249,
+            "type": "manga",
+            "name": "Akamaru Jump",
+            "url": "https://myanimelist.net/manga/magazine/249/Akamaru_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 12,
+                    "type": "manga",
+                    "name": "Bleach",
+                    "url": "https://myanimelist.net/manga/12/Bleach"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

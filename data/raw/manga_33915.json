@@ -1,0 +1,141 @@
+{
+    "mal_id": 33915,
+    "url": "https://myanimelist.net/manga/33915/Donyatsu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/126329.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/126329t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/126329l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/126329.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/126329t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/126329l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Donyatsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dounyatsu"
+        },
+        {
+            "type": "Japanese",
+            "title": "どーにゃつ"
+        },
+        {
+            "type": "English",
+            "title": "Donyatsu"
+        }
+    ],
+    "title": "Donyatsu",
+    "title_english": "Donyatsu",
+    "title_japanese": "どーにゃつ",
+    "title_synonyms": [
+        "Dounyatsu"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 5,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "2011-12-15T00:00:00+00:00",
+        "to": "2015-10-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 12,
+                "year": 2011
+            },
+            "to": {
+                "day": 16,
+                "month": 10,
+                "year": 2015
+            }
+        },
+        "string": "Dec 15, 2011 to Oct 16, 2015"
+    },
+    "score": 7.24,
+    "scored": 7.24,
+    "scored_by": 635,
+    "rank": 5598,
+    "popularity": 8559,
+    "members": 2352,
+    "favorites": 38,
+    "synopsis": "Summer, 20XX. A chocolate doughnut-shaped creature that resembles a cat, Donyatsu, walks amongst the rubble of a fallen civilization. He and his friends experience a carefree life in this strange world. But the question remains—where have the humans gone? And what caused this post-apocalyptic situation? An easy-going sci-fi adventure that slowly unravels these mysteries beings!\n\n(Source: Square Enix)",
+    "background": "Donyatsu has been published digitally in English by Crunchyroll since June 1, 2015, and by Square Enix through Manga UP!",
+    "authors": [
+        {
+            "mal_id": 2832,
+            "type": "people",
+            "name": "Kozaki, Yuusuke",
+            "url": "https://myanimelist.net/people/2832/Yuusuke_Kozaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 18755,
+                    "type": "anime",
+                    "name": "Donyatsu",
+                    "url": "https://myanimelist.net/anime/18755/Donyatsu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.co.jp/magazine/yg/introduction/donyatsu/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%A9%E3%83%BC%E3%81%AB%E3%82%83%E3%81%A4"
+        }
+    ]
+}

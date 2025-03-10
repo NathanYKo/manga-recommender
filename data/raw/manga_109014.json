@@ -1,0 +1,139 @@
+{
+    "mal_id": 109014,
+    "url": "https://myanimelist.net/manga/109014/Kono_Subarashii_Sekai_ni_Shukufuku_wo_Extra__Ano_Orokamono_ni_mo_Kyakkou_wo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/199544.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/199544t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/199544l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/199544.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/199544t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/199544l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kono Subarashii Sekai ni Shukufuku wo! Extra: Ano Orokamono ni mo Kyakkou wo!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Konosuba: God's Blessing on This Wonderful World!"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Time in the Limelight for This Fool Too!"
+        },
+        {
+            "type": "Japanese",
+            "title": "この素晴らしい世界に祝福を！エクストラ あの愚か者にも脚光を！"
+        }
+    ],
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! Extra: Ano Orokamono ni mo Kyakkou wo!",
+    "title_english": null,
+    "title_japanese": "この素晴らしい世界に祝福を！エクストラ あの愚か者にも脚光を！",
+    "title_synonyms": [
+        "Konosuba: God's Blessing on This Wonderful World!",
+        "A Time in the Limelight for This Fool Too!"
+    ],
+    "type": "Light Novel",
+    "chapters": 42,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-08-01T00:00:00+00:00",
+        "to": "2020-05-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "to": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            }
+        },
+        "string": "Aug 1, 2017 to May 1, 2020"
+    },
+    "score": 7.92,
+    "scored": 7.92,
+    "scored_by": 795,
+    "rank": 930,
+    "popularity": 6686,
+    "members": 3171,
+    "favorites": 21,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 22227,
+            "type": "people",
+            "name": "Yuuki, Hagure",
+            "url": "https://myanimelist.net/people/22227/Hagure_Yuuki"
+        },
+        {
+            "mal_id": 41590,
+            "type": "people",
+            "name": "Hiru Kuma",
+            "url": "https://myanimelist.net/people/41590/Hiru_Kuma"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 133788,
+                    "type": "manga",
+                    "name": "Kono Subarashii Sekai ni Shukufuku wo! Extra: Ano Orokamono ni mo Kyakkou wo!",
+                    "url": "https://myanimelist.net/manga/133788/Kono_Subarashii_Sekai_ni_Shukufuku_wo_Extra__Ano_Orokamono_ni_mo_Kyakkou_wo"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 60553,
+                    "type": "manga",
+                    "name": "Kono Subarashii Sekai ni Shukufuku wo!",
+                    "url": "https://myanimelist.net/manga/60553/Kono_Subarashii_Sekai_ni_Shukufuku_wo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/KonoSuba"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AB%E7%A5%9D%E7%A6%8F%E3%82%92!"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "mal_id": 82041,
+    "url": "https://myanimelist.net/manga/82041/Magi_no_Okurimono",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/163666.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/163666t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/163666l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/163666.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/163666t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/163666l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Magi no Okurimono"
+        },
+        {
+            "type": "Japanese",
+            "title": "マギの贈り物"
+        },
+        {
+            "type": "English",
+            "title": "The Gift of the Magi"
+        }
+    ],
+    "title": "Magi no Okurimono",
+    "title_english": "The Gift of the Magi",
+    "title_japanese": "マギの贈り物",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-04-23T00:00:00+00:00",
+        "to": "2014-12-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Apr 23, 2014 to Dec 24, 2014"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 3824,
+    "rank": 3316,
+    "popularity": 2651,
+    "members": 8371,
+    "favorites": 93,
+    "synopsis": "The story revolves around Daichi, a 24-year-old man whose girlfriend has died, and Akari, his girlfriend who is now in heaven. Akari wants Daichi to forget her, but Daichi doesn't want to forget.\n\n(Source: ANN)",
+    "background": "Magi no Okurimono was published in Polish by Waneko on June 26, 2017.",
+    "authors": [
+        {
+            "mal_id": 2414,
+            "type": "people",
+            "name": "Yoshizuki, Kumichi",
+            "url": "https://myanimelist.net/people/2414/Kumichi_Yoshizuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 889,
+            "type": "manga",
+            "name": "Grand Jump Premium",
+            "url": "https://myanimelist.net/manga/magazine/889/Grand_Jump_Premium"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://grandjump.shueisha.co.jp/manga/magi.html"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "mal_id": 5467,
+    "url": "https://myanimelist.net/manga/5467/Boku_no_Pico",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/48811.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/48811t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/48811l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/48811.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/48811t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/48811l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boku no Pico"
+        },
+        {
+            "type": "Synonym",
+            "title": "My Pico"
+        },
+        {
+            "type": "Japanese",
+            "title": "ぼくのぴこ コミック"
+        }
+    ],
+    "title": "Boku no Pico",
+    "title_english": null,
+    "title_japanese": "ぼくのぴこ コミック",
+    "title_synonyms": [
+        "My Pico"
+    ],
+    "type": "Doujinshi",
+    "chapters": null,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-04-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 30, 2007"
+    },
+    "score": 5.06,
+    "scored": 5.06,
+    "scored_by": 2290,
+    "rank": null,
+    "popularity": 5018,
+    "members": 4372,
+    "favorites": 177,
+    "synopsis": "Pico and Mokkun enjoy a nice date at the amusement park, but Mokkun has ulterior motives.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3318,
+            "type": "people",
+            "name": "Saigado",
+            "url": "https://myanimelist.net/people/3318/Saigado"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        },
+        {
+            "mal_id": 12,
+            "type": "manga",
+            "name": "Hentai",
+            "url": "https://myanimelist.net/manga/genre/12/Hentai"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1639,
+                    "type": "anime",
+                    "name": "Boku no Pico",
+                    "url": "https://myanimelist.net/anime/1639/Boku_no_Pico"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

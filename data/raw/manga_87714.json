@@ -1,0 +1,139 @@
+{
+    "mal_id": 87714,
+    "url": "https://myanimelist.net/manga/87714/Naruto_Jinraiden__Okami_no_Naku_Hi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/152723.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/152723t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/152723l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/152723.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/152723t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/152723l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Naruto Jinraiden: Okami no Naku Hi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Naruto Jinraiden: The Wolf that Howled at the Sun"
+        },
+        {
+            "type": "Japanese",
+            "title": "NARUTO-ナルト- 迅雷伝 狼の哭く日"
+        }
+    ],
+    "title": "Naruto Jinraiden: Okami no Naku Hi",
+    "title_english": null,
+    "title_japanese": "NARUTO-ナルト- 迅雷伝 狼の哭く日",
+    "title_synonyms": [
+        "Naruto Jinraiden: The Wolf that Howled at the Sun"
+    ],
+    "type": "Light Novel",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-11-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 11,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 2, 2012"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 656,
+    "rank": 5328,
+    "popularity": 8643,
+    "members": 2325,
+    "favorites": 19,
+    "synopsis": "The novel follows Uchiha Sasuke as he journeys to the Howling Wolf Village, where Itachi's eye medicine was produced.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1879,
+            "type": "people",
+            "name": "Kishimoto, Masashi",
+            "url": "https://myanimelist.net/people/1879/Masashi_Kishimoto"
+        },
+        {
+            "mal_id": 18277,
+            "type": "people",
+            "name": "Higashiyama, Akira",
+            "url": "https://myanimelist.net/people/18277/Akira_Higashiyama"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 11,
+                    "type": "manga",
+                    "name": "Naruto",
+                    "url": "https://myanimelist.net/manga/11/Naruto"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/NARUTO_-ナルト-"
+        }
+    ]
+}

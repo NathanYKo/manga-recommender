@@ -1,0 +1,147 @@
+{
+    "mal_id": 93699,
+    "url": "https://myanimelist.net/manga/93699/Innocent_Rouge",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/167646.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/167646t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/167646l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/167646.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/167646t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/167646l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Innocent Rouge"
+        },
+        {
+            "type": "Japanese",
+            "title": "イノサン Rouge"
+        },
+        {
+            "type": "English",
+            "title": "Innocent Rouge"
+        }
+    ],
+    "title": "Innocent Rouge",
+    "title_english": "Innocent Rouge",
+    "title_japanese": "イノサン Rouge",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 88,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-05-20T00:00:00+00:00",
+        "to": "2020-01-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 5,
+                "year": 2015
+            },
+            "to": {
+                "day": 8,
+                "month": 1,
+                "year": 2020
+            }
+        },
+        "string": "May 20, 2015 to Jan 8, 2020"
+    },
+    "score": 8.4,
+    "scored": 8.4,
+    "scored_by": 8902,
+    "rank": 219,
+    "popularity": 588,
+    "members": 32108,
+    "favorites": 969,
+    "synopsis": "The eve of the French Revolution, 1772— The eldest brother of the Sanson family, Charles-Henri, has grown as an executioner, while his sister, Marie-Joseph, has been living freely in Versailles. But one day, Marie-Joseph's first love, a man named Alain, is killed by aristocrats...! This history of innocents plunges into the arc of the crimson revolution, Rouge—!!",
+    "background": "Innocent Rouge has been published in French by Editions Delcourt since April 26, 2017 and in Italian by Edizioni BD since May 18, 2017.",
+    "authors": [
+        {
+            "mal_id": 5215,
+            "type": "people",
+            "name": "Sakamoto, Shinichi",
+            "url": "https://myanimelist.net/people/5215/Shinichi_Sakamoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 947,
+            "type": "manga",
+            "name": "Grand Jump",
+            "url": "https://myanimelist.net/manga/magazine/947/Grand_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 58563,
+                    "type": "manga",
+                    "name": "Innocent",
+                    "url": "https://myanimelist.net/manga/58563/Innocent"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 128840,
+                    "type": "manga",
+                    "name": "Innocent Rouge Gaiden: Ouhi Antoinette, Mona Lisa ni Au",
+                    "url": "https://myanimelist.net/manga/128840/Innocent_Rouge_Gaiden__Ouhi_Antoinette_Mona_Lisa_ni_Au"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8E%E3%82%B5%E3%83%B3"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Innocent_(manga)"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "mal_id": 16019,
+    "url": "https://myanimelist.net/manga/16019/Sekitou_Elegy",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/269437.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/269437t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/269437l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/269437.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/269437t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/269437l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sekitou Elegy"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sekitou Elergy"
+        },
+        {
+            "type": "Japanese",
+            "title": "赤灯えれじい"
+        }
+    ],
+    "title": "Sekitou Elegy",
+    "title_english": null,
+    "title_japanese": "赤灯えれじい",
+    "title_synonyms": [
+        "Sekitou Elergy"
+    ],
+    "type": "Manga",
+    "chapters": 165,
+    "volumes": 15,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-03-29T00:00:00+00:00",
+        "to": "2008-05-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 3,
+                "year": 2004
+            },
+            "to": {
+                "day": 12,
+                "month": 5,
+                "year": 2008
+            }
+        },
+        "string": "Mar 29, 2004 to May 12, 2008"
+    },
+    "score": 7.66,
+    "scored": 7.66,
+    "scored_by": 1369,
+    "rank": 1960,
+    "popularity": 3582,
+    "members": 6278,
+    "favorites": 82,
+    "synopsis": "Satoshi Yanagawa is working part-time as a police assistant, and works with a beautiful girl that he likes at first sight. But she has a pretty bad character. Are there any prospects for romance? Read on to find out, the story is hilarious at certain moments, and touching at others.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9996,
+            "type": "people",
+            "name": "Kira, Takashi",
+            "url": "https://myanimelist.net/people/9996/Takashi_Kira"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 120044,
+                    "type": "manga",
+                    "name": "Sekitou Elegy: Tokyo Monogatari",
+                    "url": "https://myanimelist.net/manga/120044/Sekitou_Elegy__Tokyo_Monogatari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%81%AF%E3%81%88%E3%82%8C%E3%81%98%E3%81%84"
+        }
+    ]
+}

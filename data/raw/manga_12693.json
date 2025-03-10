@@ -1,0 +1,151 @@
+{
+    "mal_id": 12693,
+    "url": "https://myanimelist.net/manga/12693/Akikan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/18131.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/18131t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/18131l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/18131.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/18131t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/18131l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Akikan!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Empty Can!"
+        },
+        {
+            "type": "Japanese",
+            "title": "アキカン!"
+        }
+    ],
+    "title": "Akikan!",
+    "title_english": null,
+    "title_japanese": "アキカン!",
+    "title_synonyms": [
+        "Empty Can!"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-10-18T00:00:00+00:00",
+        "to": "2009-04-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 18,
+                "month": 4,
+                "year": 2009
+            }
+        },
+        "string": "Oct 18, 2008 to Apr 18, 2009"
+    },
+    "score": 5.98,
+    "scored": 5.98,
+    "scored_by": 1097,
+    "rank": 19805,
+    "popularity": 7918,
+    "members": 2592,
+    "favorites": 5,
+    "synopsis": "The story revolves around a typical high school boy named Kakeru Daichi and the can of melon juice soda that he bought from a vending machine. The can suddenly transforms into a beautiful but standoffish girl that Kakeru nicknames \"Melon,\" and more \"Akikan\" (\"empty can\") girls appear. However, Akikan girls need to be infused with carbon dioxide from kissing to survive.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6673,
+            "type": "people",
+            "name": "Ranjou, Riku",
+            "url": "https://myanimelist.net/people/6673/Riku_Ranjou"
+        },
+        {
+            "mal_id": 11338,
+            "type": "people",
+            "name": "Miyano, Momotarou",
+            "url": "https://myanimelist.net/people/11338/Momotarou_Miyano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 11913,
+                    "type": "manga",
+                    "name": "Akikan!",
+                    "url": "https://myanimelist.net/manga/11913/Akikan"
+                },
+                {
+                    "mal_id": 5112,
+                    "type": "anime",
+                    "name": "Akikan!",
+                    "url": "https://myanimelist.net/anime/5112/Akikan"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AD%E3%82%AB%E3%83%B3!"
+        }
+    ]
+}

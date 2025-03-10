@@ -1,0 +1,109 @@
+{
+    "mal_id": 35691,
+    "url": "https://myanimelist.net/manga/35691/Slow_Starter",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/64709.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/64709t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/64709l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/64709.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/64709t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/64709l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Slow Starter"
+        },
+        {
+            "type": "Japanese",
+            "title": "スロースターター"
+        }
+    ],
+    "title": "Slow Starter",
+    "title_english": null,
+    "title_japanese": "スロースターター",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-11-01T00:00:00+00:00",
+        "to": "2011-11-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 11,
+                "year": 2010
+            },
+            "to": {
+                "day": 1,
+                "month": 11,
+                "year": 2011
+            }
+        },
+        "string": "Nov 1, 2010 to Nov 1, 2011"
+    },
+    "score": 7.67,
+    "scored": 7.67,
+    "scored_by": 4904,
+    "rank": 1895,
+    "popularity": 2103,
+    "members": 10243,
+    "favorites": 81,
+    "synopsis": "Kiyo and Ino are two boys that go to different schools and are both seemingly bored with school life. The only interaction they have with each other in the beginning is a shared train to school. One day, Kiyo is awoken by Ino and informed that he has overslept and missed his stop. This begins a story of love, pain, and inner turmoil...",
+    "background": "Slow Starter was published in Polish by Dango in March 2017.",
+    "authors": [
+        {
+            "mal_id": 16369,
+            "type": "people",
+            "name": "Ichikawa, Kei",
+            "url": "https://myanimelist.net/people/16369/Kei_Ichikawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 466,
+            "type": "manga",
+            "name": "Citron",
+            "url": "https://myanimelist.net/manga/magazine/466/Citron"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 91200,
+                    "type": "manga",
+                    "name": "Slow Days",
+                    "url": "https://myanimelist.net/manga/91200/Slow_Days"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

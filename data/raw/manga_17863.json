@@ -1,0 +1,133 @@
+{
+    "mal_id": 17863,
+    "url": "https://myanimelist.net/manga/17863/Warui_Yatsu_Demo_Ii",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/186947.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/186947t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/186947l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/186947.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/186947t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/186947l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Warui Yatsu Demo Ii"
+        },
+        {
+            "type": "Synonym",
+            "title": "Neko Do S na Goshujinsama"
+        },
+        {
+            "type": "Japanese",
+            "title": "ワルイ男〈ヤツ〉でもイイ"
+        }
+    ],
+    "title": "Warui Yatsu Demo Ii",
+    "title_english": null,
+    "title_japanese": "ワルイ男〈ヤツ〉でもイイ",
+    "title_synonyms": [
+        "Neko Do S na Goshujinsama"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-07-14T00:00:00+00:00",
+        "to": "2008-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 7,
+                "year": 2008
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Jul 14, 2008 to Dec 25, 2008"
+    },
+    "score": 7.71,
+    "scored": 7.71,
+    "scored_by": 2622,
+    "rank": null,
+    "popularity": 4290,
+    "members": 5209,
+    "favorites": 7,
+    "synopsis": "Despite the content of their relationship, the delinquent Towa Aikawa is still a \"friend\" of the Student Council President, Mikado Shirahane. But today, Towa gets to sleep-in at Mikado's house for the very first time! Could their relationship advance into \"lovers\" now...!?\n\n(Source: MU)\n\nIncluded one-shot:\nNeko Do S na Goshujinsama",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3272,
+            "type": "people",
+            "name": "Sakuraga, Mei",
+            "url": "https://myanimelist.net/people/3272/Mei_Sakuraga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 17862,
+                    "type": "manga",
+                    "name": "Warui Ko Demo Ii?",
+                    "url": "https://myanimelist.net/manga/17862/Warui_Ko_Demo_Ii"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 19253,
+                    "type": "manga",
+                    "name": "Warui Koibito ja Dame?",
+                    "url": "https://myanimelist.net/manga/19253/Warui_Koibito_ja_Dame"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

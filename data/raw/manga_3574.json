@@ -1,0 +1,160 @@
+{
+    "mal_id": 3574,
+    "url": "https://myanimelist.net/manga/3574/Tobaku_Datenroku_Kaiji",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/72221.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/72221t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/72221l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/72221.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/72221t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/72221l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tobaku Datenroku Kaiji"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kaiji Part 3"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gambling Outcast Kaiji"
+        },
+        {
+            "type": "Japanese",
+            "title": "賭博堕天録カイジ"
+        }
+    ],
+    "title": "Tobaku Datenroku Kaiji",
+    "title_english": null,
+    "title_japanese": "賭博堕天録カイジ",
+    "title_synonyms": [
+        "Kaiji Part 3",
+        "Gambling Outcast Kaiji"
+    ],
+    "type": "Manga",
+    "chapters": 131,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-11-01T00:00:00+00:00",
+        "to": "2008-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 11,
+                "year": 2004
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2008
+            }
+        },
+        "string": "Nov 2004 to Apr 2008"
+    },
+    "score": 8.08,
+    "scored": 8.08,
+    "scored_by": 6116,
+    "rank": 633,
+    "popularity": 1581,
+    "members": 13597,
+    "favorites": 288,
+    "synopsis": "Itou Kaiji, now free of debt but without a penny is leeching himself in Mr.Sakazaki's new house, despite all the flirtings (extreme torment for Kaiji) from Sakazaki's daughter, Mikoko. Sakazaki attempts to kick Kaiji out, even by offering a farewell 'we never knew each other' money of 3000000 yen. While Kaiji ponders himself on the decision, he is visited by Miyoshi and Maeda, two of his 'allies' he had saved from the last part of the series.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2539,
+            "type": "people",
+            "name": "Fukumoto, Nobuyuki",
+            "url": "https://myanimelist.net/people/2539/Nobuyuki_Fukumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 3573,
+                    "type": "manga",
+                    "name": "Tobaku Hakairoku Kaiji",
+                    "url": "https://myanimelist.net/manga/3573/Tobaku_Hakairoku_Kaiji"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 16659,
+                    "type": "manga",
+                    "name": "Tobaku Datenroku Kaiji: Kazuya-hen",
+                    "url": "https://myanimelist.net/manga/16659/Tobaku_Datenroku_Kaiji__Kazuya-hen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%82%B8"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kaiji_(manga)"
+        }
+    ]
+}

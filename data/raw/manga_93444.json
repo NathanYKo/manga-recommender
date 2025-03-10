@@ -1,0 +1,125 @@
+{
+    "mal_id": 93444,
+    "url": "https://myanimelist.net/manga/93444/Dokumushi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165110.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165110t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165110l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165110.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165110t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165110l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dokumushi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Doku-mushi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Killer District"
+        },
+        {
+            "type": "Japanese",
+            "title": "ドクムシ"
+        }
+    ],
+    "title": "Dokumushi",
+    "title_english": null,
+    "title_japanese": "ドクムシ",
+    "title_synonyms": [
+        "Doku-mushi",
+        "Killer District"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-06-10T00:00:00+00:00",
+        "to": "2016-09-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 6,
+                "year": 2013
+            },
+            "to": {
+                "day": 23,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jun 10, 2013 to Sep 23, 2016"
+    },
+    "score": 5.24,
+    "scored": 5.24,
+    "scored_by": 5499,
+    "rank": 20417,
+    "popularity": 1443,
+    "members": 14657,
+    "favorites": 84,
+    "synopsis": "A group of very different people wake up together in the sealed environment of an abandoned school building. They include the college students Yumi and Reiji, a cabaret girl named Akane, an occult-obsessed salaryman named Yukitoshi, a punk factory worker named Toshio, an unemployed man named Taichi, and a 9-year-old girl named Michika. The building in which they find themselves has running water, no food, and a timer set for seven days. When they find a cleaver and a hot pot in an upstairs classroom, they begin to guess the intention behind their imprisonment. They're meant to kill and eat one another to survive. In principle, they should be able to survive just by waiting out the seven days in hunger, but nothing is ever that simple.\n\n(Source: MangaHelpers, edited)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 20895,
+            "type": "people",
+            "name": "Yazu, Michio",
+            "url": "https://myanimelist.net/people/20895/Michio_Yazu"
+        },
+        {
+            "mal_id": 39243,
+            "type": "people",
+            "name": "Aida, Keito",
+            "url": "https://myanimelist.net/people/39243/Keito_Aida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 214,
+            "type": "manga",
+            "name": "E★Everystar",
+            "url": "https://myanimelist.net/manga/magazine/214/E%E2%98%85Everystar"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 125075,
+                    "type": "manga",
+                    "name": "Dokumushi: The Ruins Hotel",
+                    "url": "https://myanimelist.net/manga/125075/Dokumushi__The_Ruins_Hotel"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%AF%E3%83%A0%E3%82%B7"
+        }
+    ]
+}

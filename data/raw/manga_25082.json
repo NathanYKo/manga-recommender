@@ -1,0 +1,124 @@
+{
+    "mal_id": 25082,
+    "url": "https://myanimelist.net/manga/25082/Back_Stage",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/139773.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/139773t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/139773l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/139773.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/139773t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/139773l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Back Stage!!"
+        },
+        {
+            "type": "Japanese",
+            "title": "BACK STAGE!! -バック・ステイジ-"
+        }
+    ],
+    "title": "Back Stage!!",
+    "title_english": null,
+    "title_japanese": "BACK STAGE!! -バック・ステイジ-",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2011-05-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 5,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 31, 2011 to ?"
+    },
+    "score": 7.74,
+    "scored": 7.74,
+    "scored_by": 2017,
+    "rank": null,
+    "popularity": 3309,
+    "members": 6781,
+    "favorites": 35,
+    "synopsis": "Follows the characters Sena Shougo and Sagara Rei's story from Love Stage.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2005,
+            "type": "people",
+            "name": "Tsuda, Mikiyo",
+            "url": "https://myanimelist.net/people/2005/Mikiyo_Tsuda"
+        },
+        {
+            "mal_id": 2236,
+            "type": "people",
+            "name": "Eiki, Eiki",
+            "url": "https://myanimelist.net/people/2236/Eiki_Eiki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 80795,
+                    "type": "manga",
+                    "name": "Back Stage!!",
+                    "url": "https://myanimelist.net/manga/80795/Back_Stage"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 25081,
+                    "type": "manga",
+                    "name": "Love Stage!!",
+                    "url": "https://myanimelist.net/manga/25081/Love_Stage"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/LOVE_STAGE!!"
+        }
+    ]
+}

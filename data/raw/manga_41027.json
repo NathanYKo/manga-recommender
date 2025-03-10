@@ -1,0 +1,133 @@
+{
+    "mal_id": 41027,
+    "url": "https://myanimelist.net/manga/41027/Sword_Art_Online_SS__Calibur_SS-han",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/159662.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/159662t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/159662l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/159662.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/159662t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/159662l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sword Art Online SS: Calibur SS-han"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sword Art Online SS: Caliber SS (Failure Side)"
+        },
+        {
+            "type": "Synonym",
+            "title": "Calibur Sukoshi Shippai-han"
+        },
+        {
+            "type": "Japanese",
+            "title": "ソードアート・オンライン SS キャリバーSS（すこししっぱい）版"
+        }
+    ],
+    "title": "Sword Art Online SS: Calibur SS-han",
+    "title_english": null,
+    "title_japanese": "ソードアート・オンライン SS キャリバーSS（すこししっぱい）版",
+    "title_synonyms": [
+        "Sword Art Online SS: Caliber SS (Failure Side)",
+        "Calibur Sukoshi Shippai-han"
+    ],
+    "type": "Light Novel",
+    "chapters": 3,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-06-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 6,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 10, 2011"
+    },
+    "score": 7.41,
+    "scored": 7.41,
+    "scored_by": 665,
+    "rank": 3715,
+    "popularity": 8117,
+    "members": 2513,
+    "favorites": 11,
+    "synopsis": "The alternative version to the Caliber SS from volume 8, where they decided not to save Freyja in the dungeon. The SS in the title means 少し失敗 (sukoshi shippai) which translates to Slight Failure.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10742,
+            "type": "people",
+            "name": "BUNBUN",
+            "url": "https://myanimelist.net/people/10742/BUNBUN"
+        },
+        {
+            "mal_id": 11466,
+            "type": "people",
+            "name": "Kawahara, Reki",
+            "url": "https://myanimelist.net/people/11466/Reki_Kawahara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 140,
+            "type": "manga",
+            "name": "Dengeki Bunko Magazine",
+            "url": "https://myanimelist.net/manga/magazine/140/Dengeki_Bunko_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 80,
+            "type": "manga",
+            "name": "Video Game",
+            "url": "https://myanimelist.net/manga/genre/80/Video_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 21479,
+                    "type": "manga",
+                    "name": "Sword Art Online",
+                    "url": "https://myanimelist.net/manga/21479/Sword_Art_Online"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

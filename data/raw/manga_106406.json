@@ -1,0 +1,151 @@
+{
+    "mal_id": 106406,
+    "url": "https://myanimelist.net/manga/106406/Jinrou_Game__Beast_Side",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/195261.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/195261t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/195261l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/195261.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/195261t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/195261l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Jinrou Game: Beast Side"
+        },
+        {
+            "type": "Synonym",
+            "title": "Werewolf Game: Beast Side"
+        },
+        {
+            "type": "Japanese",
+            "title": "人狼ゲーム ビーストサイド"
+        }
+    ],
+    "title": "Jinrou Game: Beast Side",
+    "title_english": null,
+    "title_japanese": "人狼ゲーム ビーストサイド",
+    "title_synonyms": [
+        "Werewolf Game: Beast Side"
+    ],
+    "type": "Manga",
+    "chapters": 18,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-08-08T00:00:00+00:00",
+        "to": "2017-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 8,
+                "year": 2015
+            },
+            "to": {
+                "day": 7,
+                "month": 1,
+                "year": 2017
+            }
+        },
+        "string": "Aug 8, 2015 to Jan 7, 2017"
+    },
+    "score": 6.72,
+    "scored": 6.72,
+    "scored_by": 3281,
+    "rank": 13428,
+    "popularity": 3855,
+    "members": 5823,
+    "favorites": 34,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 33141,
+            "type": "people",
+            "name": "Akiguchi, Giggle",
+            "url": "https://myanimelist.net/people/33141/Giggle_Akiguchi"
+        },
+        {
+            "mal_id": 34111,
+            "type": "people",
+            "name": "Koudon",
+            "url": "https://myanimelist.net/people/34111/Koudon"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1087,
+            "type": "manga",
+            "name": "KiSSCA",
+            "url": "https://myanimelist.net/manga/magazine/1087/KiSSCA"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 79143,
+                    "type": "manga",
+                    "name": "Jinrou Game",
+                    "url": "https://myanimelist.net/manga/79143/Jinrou_Game"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 106407,
+                    "type": "manga",
+                    "name": "Jinrou Game: Crazy Fox",
+                    "url": "https://myanimelist.net/manga/106407/Jinrou_Game__Crazy_Fox"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E7%8B%BC%E3%82%B2%E3%83%BC%E3%83%A0_(%E5%B0%8F%E8%AA%AC)"
+        }
+    ]
+}

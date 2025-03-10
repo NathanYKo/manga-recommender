@@ -1,0 +1,165 @@
+{
+    "mal_id": 1512,
+    "url": "https://myanimelist.net/manga/1512/Angel_Heart",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/195179.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/195179t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/195179l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/195179.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/195179t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/195179l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Angel Heart"
+        },
+        {
+            "type": "Japanese",
+            "title": "エンジェル・ハート"
+        }
+    ],
+    "title": "Angel Heart",
+    "title_english": null,
+    "title_japanese": "エンジェル・ハート",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 363,
+    "volumes": 33,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-05-15T00:00:00+00:00",
+        "to": "2010-08-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 5,
+                "year": 2001
+            },
+            "to": {
+                "day": 6,
+                "month": 8,
+                "year": 2010
+            }
+        },
+        "string": "May 15, 2001 to Aug 6, 2010"
+    },
+    "score": 7.44,
+    "scored": 7.44,
+    "scored_by": 1177,
+    "rank": 3433,
+    "popularity": 5645,
+    "members": 3828,
+    "favorites": 49,
+    "synopsis": "A young Taiwanese assassin codenamed \"Glass Heart\" committed suicide by jumping off a building, and her heart was pierced by a metal fence. Miraculously, her life was saved by heart transplantation. During her recovery she began to experience strange dreams, which led her to Japan looking for the donor of her heart, who happens to be Kaori Makimura, former partner of City Hunter.\n\n(Source: MU)",
+    "background": "Angel Heart was published in English on the website Silent Manga Audition from December 25, 2015 to December 25, 2016. 13 chapters were published before release was halted. The manga was adapted into a live-action TV series in 2015.",
+    "authors": [
+        {
+            "mal_id": 2623,
+            "type": "people",
+            "name": "Hojo, Tsukasa",
+            "url": "https://myanimelist.net/people/2623/Tsukasa_Hojo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 92,
+            "type": "manga",
+            "name": "Comic Bunch",
+            "url": "https://myanimelist.net/manga/magazine/92/Comic_Bunch"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 34837,
+                    "type": "manga",
+                    "name": "Angel Heart 2nd Season",
+                    "url": "https://myanimelist.net/manga/34837/Angel_Heart_2nd_Season"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 282,
+                    "type": "anime",
+                    "name": "Angel Heart",
+                    "url": "https://myanimelist.net/anime/282/Angel_Heart"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 792,
+                    "type": "manga",
+                    "name": "City Hunter",
+                    "url": "https://myanimelist.net/manga/792/City_Hunter"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Angel_Heart_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%88"
+        }
+    ]
+}

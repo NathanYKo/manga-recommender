@@ -1,0 +1,151 @@
+{
+    "mal_id": 8947,
+    "url": "https://myanimelist.net/manga/8947/Saint☆Oniisan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/194935.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/194935t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/194935l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/194935.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/194935t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/194935l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Saint☆Oniisan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Saint Young Men"
+        },
+        {
+            "type": "Japanese",
+            "title": "聖☆おにいさん"
+        },
+        {
+            "type": "English",
+            "title": "Saint☆Young Men"
+        }
+    ],
+    "title": "Saint☆Oniisan",
+    "title_english": "Saint☆Young Men",
+    "title_japanese": "聖☆おにいさん",
+    "title_synonyms": [
+        "Saint Young Men"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2006-08-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 8,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 10, 2006 to ?"
+    },
+    "score": 7.84,
+    "scored": 7.84,
+    "scored_by": 6183,
+    "rank": 1181,
+    "popularity": 678,
+    "members": 28102,
+    "favorites": 479,
+    "synopsis": "Saint☆Oniisan is slice-of-life or divine-life, tale of Jesus and Buddha as they try to experience the modern world, in this case, Japan. The manga places a funny twist on religion, attitudes, culture and customs in Japan through the eyes of Jesus and Buddha.\n\nYou see Jesus and Buddha experiencing Asakusa, public baths, theme parks, and the internet. Throughout the manga, we get a little history of their divine greatness only to see their apparent insignificance in modern Japanese society. Suffice to say, before people can recognize that they're actually Jesus and Buddha, people think of them as someone who looks like Johnny Depp or a guy with a button on his forehead. For real.",
+    "background": "In 2009, Saint☆Oniisan won the Tezuka Osamu Award for Short Work Manga and was nominated for the 2nd Manga Taisho Award. The series has been published digitally in English as Saint☆Young Men by Kodansha USA since April 23, 2019, and in print as 2-in-1 omnibus volumes since December 17, 2019.",
+    "authors": [
+        {
+            "mal_id": 4039,
+            "type": "people",
+            "name": "Nakamura, Hikaru",
+            "url": "https://myanimelist.net/people/4039/Hikaru_Nakamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 345,
+            "type": "manga",
+            "name": "Morning Two",
+            "url": "https://myanimelist.net/manga/magazine/345/Morning_Two"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 15775,
+                    "type": "anime",
+                    "name": "Saint☆Oniisan",
+                    "url": "https://myanimelist.net/anime/15775/Saint☆Oniisan"
+                },
+                {
+                    "mal_id": 15771,
+                    "type": "anime",
+                    "name": "Saint☆Oniisan (Movie)",
+                    "url": "https://myanimelist.net/anime/15771/Saint☆Oniisan_Movie"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/saint-young-men/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://morning.kodansha.co.jp/c/saintoniisan.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E8%81%96%E2%98%86%E3%81%8A%E3%81%AB%E3%81%84%E3%81%95%E3%82%93"
+        }
+    ]
+}

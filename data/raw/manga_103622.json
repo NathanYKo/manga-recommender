@@ -1,0 +1,125 @@
+{
+    "mal_id": 103622,
+    "url": "https://myanimelist.net/manga/103622/NeuN",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/200227.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/200227t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/200227l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/200227.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/200227t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/200227l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "NeuN"
+        },
+        {
+            "type": "Synonym",
+            "title": "9"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nine"
+        },
+        {
+            "type": "Japanese",
+            "title": "NeuN"
+        }
+    ],
+    "title": "NeuN",
+    "title_english": null,
+    "title_japanese": "NeuN",
+    "title_synonyms": [
+        "9",
+        "Nine"
+    ],
+    "type": "Manga",
+    "chapters": 49,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-01-16T00:00:00+00:00",
+        "to": "2020-02-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 3,
+                "month": 2,
+                "year": 2020
+            }
+        },
+        "string": "Jan 16, 2017 to Feb 3, 2020"
+    },
+    "score": 7,
+    "scored": 7,
+    "scored_by": 1885,
+    "rank": 8949,
+    "popularity": 3361,
+    "members": 6653,
+    "favorites": 42,
+    "synopsis": "The story takes place in 1940 Germany under the Nazi regime, when SS Reichsführer Heinrich Himmler commanded a top secret mission in Wewelsburg, under the Führer.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2360,
+            "type": "people",
+            "name": "Takahashi, Tsutomu",
+            "url": "https://myanimelist.net/people/2360/Tsutomu_Takahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/neun"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/NeuN"
+        }
+    ]
+}

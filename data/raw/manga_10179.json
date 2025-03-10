@@ -1,0 +1,117 @@
+{
+    "mal_id": 10179,
+    "url": "https://myanimelist.net/manga/10179/Chichi_no_Koyomi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/267570.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/267570t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/267570l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/267570.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/267570t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/267570l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Chichi no Koyomi"
+        },
+        {
+            "type": "Synonym",
+            "title": "My Father's Journal"
+        },
+        {
+            "type": "Japanese",
+            "title": "父の暦"
+        },
+        {
+            "type": "English",
+            "title": "A Journal of My Father"
+        }
+    ],
+    "title": "Chichi no Koyomi",
+    "title_english": "A Journal of My Father",
+    "title_japanese": "父の暦",
+    "title_synonyms": [
+        "My Father's Journal"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1994-04-09T00:00:00+00:00",
+        "to": "1994-09-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 1994
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 1994
+            }
+        },
+        "string": "Apr 9, 1994 to Sep 24, 1994"
+    },
+    "score": 8.04,
+    "scored": 8.04,
+    "scored_by": 2088,
+    "rank": 687,
+    "popularity": 3255,
+    "members": 6906,
+    "favorites": 110,
+    "synopsis": "A family is devastated by the Great Tottori Fire of 1952, but the family comes to terms with the disaster and breaks free from the bonds holding them back.\n\n(Source: Otakuworks)",
+    "background": "Chichi no Koyomi was published in English as A Journal of My Father by Ponent Mon/Fanfare on March 16, 2021.",
+    "authors": [
+        {
+            "mal_id": 3025,
+            "type": "people",
+            "name": "Taniguchi, Jiro",
+            "url": "https://myanimelist.net/people/3025/Jiro_Taniguchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Big Comic",
+            "url": "https://myanimelist.net/manga/magazine/55/Big_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/父の暦"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/A_Journal_of_My_Father"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "mal_id": 109331,
+    "url": "https://myanimelist.net/manga/109331/Saguri-chan_Tankentai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/206298.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/206298t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/206298l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/206298.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/206298t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/206298l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Saguri-chan Tankentai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Saguri's Exploration Party"
+        },
+        {
+            "type": "Japanese",
+            "title": "さぐりちゃん探検隊"
+        }
+    ],
+    "title": "Saguri-chan Tankentai",
+    "title_english": null,
+    "title_japanese": "さぐりちゃん探検隊",
+    "title_synonyms": [
+        "Saguri's Exploration Party"
+    ],
+    "type": "Manga",
+    "chapters": 38,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-08-31T00:00:00+00:00",
+        "to": "2019-01-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "to": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            }
+        },
+        "string": "Aug 31, 2017 to Jan 31, 2019"
+    },
+    "score": 7.06,
+    "scored": 7.06,
+    "scored_by": 1490,
+    "rank": 8141,
+    "popularity": 4182,
+    "members": 5380,
+    "favorites": 18,
+    "synopsis": "Let's go exploring with a cute girl!!\n\nA landscape painted by the beautiful stroke of a paintbrush can be found anywhere. An exploration manga filled with comedy that will make you say, \"Let's go there tomorrow!\"\n\n(Source: KissManga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 43229,
+            "type": "people",
+            "name": "Akiyama, Yoco",
+            "url": "https://myanimelist.net/people/43229/Yoco_Akiyama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1209,
+            "type": "manga",
+            "name": "Shounen Jump+",
+            "url": "https://myanimelist.net/manga/magazine/1209/Shounen_Jump_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 103567,
+                    "type": "manga",
+                    "name": "Saguri-san Tankentai",
+                    "url": "https://myanimelist.net/manga/103567/Saguri-san_Tankentai"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

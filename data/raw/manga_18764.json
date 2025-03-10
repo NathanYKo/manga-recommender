@@ -1,0 +1,120 @@
+{
+    "mal_id": 18764,
+    "url": "https://myanimelist.net/manga/18764/Dokidoki_Renai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/276729.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/276729t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/276729l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/276729.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/276729t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/276729l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dokidoki Renai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Doki Doki Renai"
+        },
+        {
+            "type": "Japanese",
+            "title": "ドキドキレンアイ"
+        },
+        {
+            "type": "English",
+            "title": "Doki Doki Crush"
+        }
+    ],
+    "title": "Dokidoki Renai",
+    "title_english": "Doki Doki Crush",
+    "title_japanese": "ドキドキレンアイ",
+    "title_synonyms": [
+        "Doki Doki Renai"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2007"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 1623,
+    "rank": 4252,
+    "popularity": 6904,
+    "members": 3062,
+    "favorites": 13,
+    "synopsis": "After declaration of love from both. Now Chihiro and Keigo have started dating...but really what is the difference between best friends and boyfriends. Will the two of them learn in time the difference between friendship and love! Not to mention jealousy...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3240,
+            "type": "people",
+            "name": "Yamamoto, Kotetsuko",
+            "url": "https://myanimelist.net/people/3240/Kotetsuko_Yamamoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 188,
+            "type": "manga",
+            "name": "Craft",
+            "url": "https://myanimelist.net/manga/magazine/188/Craft"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 7321,
+                    "type": "manga",
+                    "name": "Harete Bokutachi wa",
+                    "url": "https://myanimelist.net/manga/7321/Harete_Bokutachi_wa"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,142 @@
+{
+    "mal_id": 58193,
+    "url": "https://myanimelist.net/manga/58193/Ore_Koi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/100739.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/100739t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/100739l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/100739.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/100739t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/100739l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ore Koi!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ore x Koi!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ore Monogatari x Nisekoi Crossover"
+        },
+        {
+            "type": "Synonym",
+            "title": "Orekoi!!"
+        },
+        {
+            "type": "Japanese",
+            "title": "俺コイ!! 俺物語×ニセコイ!!"
+        }
+    ],
+    "title": "Ore Koi!!",
+    "title_english": null,
+    "title_japanese": "俺コイ!! 俺物語×ニセコイ!!",
+    "title_synonyms": [
+        "Ore x Koi!!",
+        "Ore Monogatari x Nisekoi Crossover",
+        "Orekoi!!"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-09-02T00:00:00+00:00",
+        "to": "2013-09-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 9,
+                "year": 2013
+            },
+            "to": {
+                "day": 13,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Sep 2, 2013 to Sep 13, 2013"
+    },
+    "score": 6.7,
+    "scored": 6.7,
+    "scored_by": 3164,
+    "rank": 13779,
+    "popularity": 3815,
+    "members": 5881,
+    "favorites": 12,
+    "synopsis": "Crossover between Ore Monogatari!! and Nisekoi series.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2522,
+            "type": "people",
+            "name": "Kawahara, Kazune",
+            "url": "https://myanimelist.net/people/2522/Kazune_Kawahara"
+        },
+        {
+            "mal_id": 4340,
+            "type": "people",
+            "name": "Aruko",
+            "url": "https://myanimelist.net/people/4340/Aruko"
+        },
+        {
+            "mal_id": 4766,
+            "type": "people",
+            "name": "Komi, Naoshi",
+            "url": "https://myanimelist.net/people/4766/Naoshi_Komi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 31499,
+                    "type": "manga",
+                    "name": "Nisekoi",
+                    "url": "https://myanimelist.net/manga/31499/Nisekoi"
+                },
+                {
+                    "mal_id": 36933,
+                    "type": "manga",
+                    "name": "Ore Monogatari!!",
+                    "url": "https://myanimelist.net/manga/36933/Ore_Monogatari"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

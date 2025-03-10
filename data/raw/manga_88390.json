@@ -1,0 +1,116 @@
+{
+    "mal_id": 88390,
+    "url": "https://myanimelist.net/manga/88390/Yuusha-tachi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/215135.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/215135t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/215135l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/215135.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/215135t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/215135l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yuusha-tachi"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Heroes"
+        },
+        {
+            "type": "Japanese",
+            "title": "勇者たち"
+        }
+    ],
+    "title": "Yuusha-tachi",
+    "title_english": null,
+    "title_japanese": "勇者たち",
+    "title_synonyms": [
+        "The Heroes"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-03-06T00:00:00+00:00",
+        "to": "2018-10-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 3,
+                "year": 2015
+            },
+            "to": {
+                "day": 17,
+                "month": 10,
+                "year": 2018
+            }
+        },
+        "string": "Mar 6, 2015 to Oct 17, 2018"
+    },
+    "score": 6.83,
+    "scored": 6.83,
+    "scored_by": 3083,
+    "rank": 11717,
+    "popularity": 3416,
+    "members": 6545,
+    "favorites": 26,
+    "synopsis": "The band of heroes banishes the darkness and brings peace to the world, but...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2836,
+            "type": "people",
+            "name": "Asano, Inio",
+            "url": "https://myanimelist.net/people/2836/Inio_Asano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1005,
+            "type": "manga",
+            "name": "Ura Sunday",
+            "url": "https://myanimelist.net/manga/magazine/1005/Ura_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

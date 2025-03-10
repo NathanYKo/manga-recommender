@@ -1,0 +1,155 @@
+{
+    "mal_id": 30139,
+    "url": "https://myanimelist.net/manga/30139/Hinamizawa_Teiryuujo__Higurashi_no_Naku_Koro_ni_Genten",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/176843.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/176843t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/176843l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/176843.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/176843t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/176843l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hinamizawa Teiryuujo: Higurashi no Naku Koro ni Genten"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hinamizawa Bus Stop"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hinamizawa Teiryujo"
+        },
+        {
+            "type": "Japanese",
+            "title": "雛見沢停留所～ひぐらしのなく頃に原典～"
+        }
+    ],
+    "title": "Hinamizawa Teiryuujo: Higurashi no Naku Koro ni Genten",
+    "title_english": null,
+    "title_japanese": "雛見沢停留所～ひぐらしのなく頃に原典～",
+    "title_synonyms": [
+        "Hinamizawa Bus Stop",
+        "Hinamizawa Teiryujo"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-10-25T00:00:00+00:00",
+        "to": "2012-07-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 25,
+                "month": 7,
+                "year": 2012
+            }
+        },
+        "string": "Oct 25, 2011 to Jul 25, 2012"
+    },
+    "score": 6.88,
+    "scored": 6.88,
+    "scored_by": 939,
+    "rank": 10953,
+    "popularity": 7301,
+    "members": 2852,
+    "favorites": 5,
+    "synopsis": "On a rainy day in the small town of Hinamizawa, classmates Rika Furude and Mion Sonozaki take shelter at the bus stop. As others arrive to seek shelter from the rain, they meet a few interesting people: a freelance writer interested in the local legends of the god Oyashiro, and two officials from the Ministry of Construction discussing the Hinamizawa Dam Project—something Rika is against as it threatens to destroy their town. However, the project is not going smoothly as there has been an unusual string of deaths surrounding the construction of the dam. While some dismiss these deaths as pure coincidence, rumors among the townsfolk connect them to \"Oyashiro's Curse.\"\n\n[Written by MAL Rewrite]",
+    "background": "Hinamizawa Teiryuujo in an adaptation of unreleased stage play, of the same title, that Ryukishi07 wrote and eventually later turned into the Higurashi no Naku Koro ni game.",
+    "authors": [
+        {
+            "mal_id": 4582,
+            "type": "people",
+            "name": "Tomozo",
+            "url": "https://myanimelist.net/people/4582/Tomozo"
+        },
+        {
+            "mal_id": 5092,
+            "type": "people",
+            "name": "Ryukishi07",
+            "url": "https://myanimelist.net/people/5092/Ryukishi07"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 705,
+            "type": "manga",
+            "name": "Big Gangan",
+            "url": "https://myanimelist.net/manga/magazine/705/Big_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 1257,
+                    "type": "manga",
+                    "name": "Higurashi no Naku Koro ni: Onikakushi-hen",
+                    "url": "https://myanimelist.net/manga/1257/Higurashi_no_Naku_Koro_ni__Onikakushi-hen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.com/jp/magazine/biggangan/introduction/teiryujo/index.shtml"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB"
+        }
+    ]
+}

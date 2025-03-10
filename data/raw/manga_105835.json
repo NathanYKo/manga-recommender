@@ -1,0 +1,119 @@
+{
+    "mal_id": 105835,
+    "url": "https://myanimelist.net/manga/105835/Sayonara_Game",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/194054.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/194054t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/194054l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/194054.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/194054t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/194054l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sayonara Game"
+        },
+        {
+            "type": "Japanese",
+            "title": "サヨナラゲーム"
+        },
+        {
+            "type": "English",
+            "title": "Sayonara Game"
+        }
+    ],
+    "title": "Sayonara Game",
+    "title_english": "Sayonara Game",
+    "title_japanese": "サヨナラゲーム",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2016"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 1913,
+    "rank": null,
+    "popularity": 5550,
+    "members": 3909,
+    "favorites": 12,
+    "synopsis": "Trying to find his little sister a tutor for her college exams, Arimura, who has a giant sister complex, enlists the help of a younger classmate whom he use to play baseball with in high school.\n\n(Source: Exiled Rebels Scans)",
+    "background": "Sayonara Game was published in English by SuBLime on November 16, 2021.",
+    "authors": [
+        {
+            "mal_id": 3438,
+            "type": "people",
+            "name": "Minazuki, Yuu",
+            "url": "https://myanimelist.net/people/3438/Yuu_Minazuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 99,
+            "type": "manga",
+            "name": "Dear+",
+            "url": "https://myanimelist.net/manga/magazine/99/Dear_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 109141,
+                    "type": "manga",
+                    "name": "Change World",
+                    "url": "https://myanimelist.net/manga/109141/Change_World"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

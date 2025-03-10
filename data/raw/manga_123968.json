@@ -1,0 +1,163 @@
+{
+    "mal_id": 123968,
+    "url": "https://myanimelist.net/manga/123968/Tenki_no_Ko",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/226128.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/226128t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/226128l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/226128.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/226128t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/226128l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tenki no Ko"
+        },
+        {
+            "type": "Japanese",
+            "title": "天気の子"
+        },
+        {
+            "type": "English",
+            "title": "Weathering with You"
+        },
+        {
+            "type": "Spanish",
+            "title": "El tiempo contigo"
+        }
+    ],
+    "title": "Tenki no Ko",
+    "title_english": "Weathering with You",
+    "title_japanese": "天気の子",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-07-25T00:00:00+00:00",
+        "to": "2020-08-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 7,
+                "year": 2019
+            },
+            "to": {
+                "day": 25,
+                "month": 8,
+                "year": 2020
+            }
+        },
+        "string": "Jul 25, 2019 to Aug 25, 2020"
+    },
+    "score": 7.73,
+    "scored": 7.73,
+    "scored_by": 3086,
+    "rank": 1626,
+    "popularity": 2622,
+    "members": 8453,
+    "favorites": 111,
+    "synopsis": "The summer of freshman year of high school. A boy named Hodaka runs away from his island home and goes to Tokyo, where he spends every day in loneliness. Then, in a corner of the bustling city, he meets a girl named Hina. But he soon finds out that she possesses a mysterious power.\n\n(Source: Vertical Inc.)",
+    "background": "Tenki no Ko was published in English as Weathering with You by Vertical Inc. under the Vertical Comics imprint from June 2, 2020 to May 4, 2021.",
+    "authors": [
+        {
+            "mal_id": 1117,
+            "type": "people",
+            "name": "Shinkai, Makoto",
+            "url": "https://myanimelist.net/people/1117/Makoto_Shinkai"
+        },
+        {
+            "mal_id": 50349,
+            "type": "people",
+            "name": "Kubota, Wataru",
+            "url": "https://myanimelist.net/people/50349/Wataru_Kubota"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 123756,
+                    "type": "manga",
+                    "name": "Shousetsu Tenki no Ko",
+                    "url": "https://myanimelist.net/manga/123756/Shousetsu_Tenki_no_Ko"
+                },
+                {
+                    "mal_id": 38826,
+                    "type": "anime",
+                    "name": "Tenki no Ko",
+                    "url": "https://myanimelist.net/anime/38826/Tenki_no_Ko"
+                },
+                {
+                    "mal_id": 38826,
+                    "type": "anime",
+                    "name": "Tenki no Ko",
+                    "url": "https://myanimelist.net/anime/38826/Tenki_no_Ko"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://afternoon.kodansha.co.jp/c/tenkinoko/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/天気の子"
+        }
+    ]
+}

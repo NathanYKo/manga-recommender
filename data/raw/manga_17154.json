@@ -1,0 +1,155 @@
+{
+    "mal_id": 17154,
+    "url": "https://myanimelist.net/manga/17154/Zekkyou_Gakkyuu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/146491.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/146491t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/146491l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/146491.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/146491t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/146491l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zekkyou Gakkyuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Scary Lessons"
+        },
+        {
+            "type": "Synonym",
+            "title": "Screaming Lessons"
+        },
+        {
+            "type": "Japanese",
+            "title": "絶叫学級"
+        }
+    ],
+    "title": "Zekkyou Gakkyuu",
+    "title_english": null,
+    "title_japanese": "絶叫学級",
+    "title_synonyms": [
+        "Scary Lessons",
+        "Screaming Lessons"
+    ],
+    "type": "Manga",
+    "chapters": 81,
+    "volumes": 20,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-09-03T00:00:00+00:00",
+        "to": "2015-02-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 9,
+                "year": 2008
+            },
+            "to": {
+                "day": 3,
+                "month": 2,
+                "year": 2015
+            }
+        },
+        "string": "Sep 3, 2008 to Feb 3, 2015"
+    },
+    "score": 7.7,
+    "scored": 7.7,
+    "scored_by": 3174,
+    "rank": 1744,
+    "popularity": 1863,
+    "members": 11663,
+    "favorites": 210,
+    "synopsis": "The girl Yomi—a creature without legs—leads through a world of horror, which slumbers in the midst of everyday life and only lies in wait to pounce on the unsuspecting. Anyone who is foolish enough to engage in it terrible things will happening!",
+    "background": "In 2014, Zekkyou Gakkyuu won the 59th Shougakukan Manga Award in the children category.",
+    "authors": [
+        {
+            "mal_id": 9221,
+            "type": "people",
+            "name": "Ishikawa, Emi",
+            "url": "https://myanimelist.net/people/9221/Emi_Ishikawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ribon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 97878,
+                    "type": "manga",
+                    "name": "Zekkyou Gakkyuu: Tensei",
+                    "url": "https://myanimelist.net/manga/97878/Zekkyou_Gakkyuu__Tensei"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 70311,
+                    "type": "manga",
+                    "name": "Zekkyou Gakkyuu",
+                    "url": "https://myanimelist.net/manga/70311/Zekkyou_Gakkyuu"
+                },
+                {
+                    "mal_id": 15891,
+                    "type": "anime",
+                    "name": "Zekkyou Gakkyuu",
+                    "url": "https://myanimelist.net/anime/15891/Zekkyou_Gakkyuu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%B5%B6%E5%8F%AB%E5%AD%A6%E7%B4%9A"
+        }
+    ]
+}

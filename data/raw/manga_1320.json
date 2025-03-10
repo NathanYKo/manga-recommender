@@ -1,0 +1,132 @@
+{
+    "mal_id": 1320,
+    "url": "https://myanimelist.net/manga/1320/The_Ravages_of_Time",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/75197.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/75197t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/75197l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/75197.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/75197t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/75197l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "The Ravages of Time"
+        },
+        {
+            "type": "Synonym",
+            "title": "Huǒ Fèng Liáo Yuán"
+        },
+        {
+            "type": "Japanese",
+            "title": "火鳳燎原"
+        }
+    ],
+    "title": "The Ravages of Time",
+    "title_english": null,
+    "title_japanese": "火鳳燎原",
+    "title_synonyms": [
+        "Huǒ Fèng Liáo Yuán"
+    ],
+    "type": "Manhua",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2001-06-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 6,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 15, 2001 to ?"
+    },
+    "score": 8.21,
+    "scored": 8.21,
+    "scored_by": 1933,
+    "rank": 419,
+    "popularity": 1392,
+    "members": 15144,
+    "favorites": 459,
+    "synopsis": "The Ravages of Time is an adaptation of Romance of the Three Kingdoms, showing the fortunes of Liu Bei, Cao Cao, the Sun family, and the Sima family. The Simas are a successful and rich merchant family, led by the young Sima Yi, who has shown a flair for spotting profitable business venture ever since a young age. The Sima family, however, possesses a sinister side as they command the Handicapped Warriors, a group of mercenary assassins reputed to be infallible.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2943,
+            "type": "people",
+            "name": "Chan, Mou",
+            "url": "https://myanimelist.net/people/2943/Mou_Chan"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 41220,
+                    "type": "anime",
+                    "name": "Huo Feng Liao Yuan",
+                    "url": "https://myanimelist.net/anime/41220/Huo_Feng_Liao_Yuan"
+                },
+                {
+                    "mal_id": 60558,
+                    "type": "anime",
+                    "name": "Huo Feng Liao Yuan 2nd Season",
+                    "url": "https://myanimelist.net/anime/60558/Huo_Feng_Liao_Yuan_2nd_Season"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/The_Ravages_of_Time"
+        }
+    ]
+}

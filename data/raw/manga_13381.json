@@ -1,0 +1,158 @@
+{
+    "mal_id": 13381,
+    "url": "https://myanimelist.net/manga/13381/Tight-rope",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/18821.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/18821t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/18821l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/18821.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/18821t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/18821l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tight-rope"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tightrope"
+        },
+        {
+            "type": "Synonym",
+            "title": "Doushiyoumo Nai Keredo Returns"
+        },
+        {
+            "type": "Japanese",
+            "title": "タイトロープ"
+        }
+    ],
+    "title": "Tight-rope",
+    "title_english": null,
+    "title_japanese": "タイトロープ",
+    "title_synonyms": [
+        "Tightrope",
+        "Doushiyoumo Nai Keredo Returns"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-12-14T00:00:00+00:00",
+        "to": "2008-09-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 12,
+                "year": 2007
+            },
+            "to": {
+                "day": 13,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Dec 14, 2007 to Sep 13, 2008"
+    },
+    "score": 7.65,
+    "scored": 7.65,
+    "scored_by": 6730,
+    "rank": null,
+    "popularity": 1547,
+    "members": 13780,
+    "favorites": 57,
+    "synopsis": "Tightrope tells the tale of the reluctant heir of a yakuza family and his childhood friend, and follows their love relationship that started budding in their school days and keeps developing slowly but surely.\n\n(Source: Simona's BL Research Lab)\n\nIncluded one-shot: Doushiyoumo Nai Keredo Returns (continuation/side story)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2871,
+            "type": "people",
+            "name": "Natsume, Isaku",
+            "url": "https://myanimelist.net/people/2871/Isaku_Natsume"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 99,
+            "type": "manga",
+            "name": "Dear+",
+            "url": "https://myanimelist.net/manga/magazine/99/Dear_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 93804,
+                    "type": "manga",
+                    "name": "Tight-rope dj - Ittousei no Yoru",
+                    "url": "https://myanimelist.net/manga/93804/Tight-rope_dj_-_Ittousei_no_Yoru"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 12695,
+                    "type": "anime",
+                    "name": "Tight-rope",
+                    "url": "https://myanimelist.net/anime/12695/Tight-rope"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 70729,
+                    "type": "manga",
+                    "name": "Natsume Isaku Fanbook",
+                    "url": "https://myanimelist.net/manga/70729/Natsume_Isaku_Fanbook"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 5026,
+                    "type": "manga",
+                    "name": "Doushiyoumonai keredo",
+                    "url": "https://myanimelist.net/manga/5026/Doushiyoumonai_keredo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/タイトロープ_(夏目イサクの漫画)"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "mal_id": 103803,
+    "url": "https://myanimelist.net/manga/103803/Melancholia",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/207886.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/207886t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/207886l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/207886.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/207886t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/207886l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Melancholia"
+        },
+        {
+            "type": "Japanese",
+            "title": "メランコリア"
+        }
+    ],
+    "title": "Melancholia",
+    "title_english": null,
+    "title_japanese": "メランコリア",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 26,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-01-19T00:00:00+00:00",
+        "to": "2019-01-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 19,
+                "month": 1,
+                "year": 2019
+            }
+        },
+        "string": "Jan 19, 2017 to Jan 19, 2019"
+    },
+    "score": 7.78,
+    "scored": 7.78,
+    "scored_by": 2276,
+    "rank": 1407,
+    "popularity": 3583,
+    "members": 6280,
+    "favorites": 124,
+    "synopsis": "This is a melancholic omnibus drawn by the master of short stories, Dowman Sayman. As the end of the world draws near, what are people thinking?! Is it only filled with fun? Are there merely moments of repose? What about pure bliss? Living is a dull \"melancholy\" that is both bitter and sweet... As you read this clever story gimmick unfold, feel it slowly penetrate into your heart!!\n\n(Source: Shueisha, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 12266,
+            "type": "people",
+            "name": "Dowman, Sayman",
+            "url": "https://myanimelist.net/people/12266/Sayman_Dowman"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

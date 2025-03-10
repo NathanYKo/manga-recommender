@@ -1,0 +1,141 @@
+{
+    "mal_id": 5939,
+    "url": "https://myanimelist.net/manga/5939/Zelda_no_Densetsu__Kamigami_no_Triforce_1992",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/203671.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/203671t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/203671l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/203671.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/203671t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/203671l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zelda no Densetsu: Kamigami no Triforce (1992)"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Legend of Zelda: Triforce of the Gods"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Legend of Zelda: Kamigami no Triforce"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゼルだの伝説～神々のトライフォース"
+        },
+        {
+            "type": "English",
+            "title": "The Legend of Zelda: A Link to the Past"
+        }
+    ],
+    "title": "Zelda no Densetsu: Kamigami no Triforce (1992)",
+    "title_english": "The Legend of Zelda: A Link to the Past",
+    "title_japanese": "ゼルだの伝説～神々のトライフォース",
+    "title_synonyms": [
+        "The Legend of Zelda: Triforce of the Gods",
+        "The Legend of Zelda: Kamigami no Triforce"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1992-01-01T00:00:00+00:00",
+        "to": "1992-12-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1992
+            },
+            "to": {
+                "day": 1,
+                "month": 12,
+                "year": 1992
+            }
+        },
+        "string": "Jan 1992 to Dec 1992"
+    },
+    "score": 6.86,
+    "scored": 6.86,
+    "scored_by": 1175,
+    "rank": 11183,
+    "popularity": 7765,
+    "members": 2651,
+    "favorites": 27,
+    "synopsis": "This comic was written and illustrated by Shotaro Isinomori, one of Japan's most famous comic book creators. It was originally serialized in Nintendo Power Magazine. The first of 12 parts appeared in January 1992 (Volume 32) and the series ran through December 1992. It was published in book form in 1993. The plot loosely follows ALttP, but some elements were added to \"preserve the elements of surprise and add to the dramatic flow.\"\n\n(Source: Zelda Legends)",
+    "background": "Zelda no Densetsu: Kamigami no Triforce (1992) was published in English as The Legend of Zelda: A Link to the Past by VIZ Media on May 5, 2015.",
+    "authors": [
+        {
+            "mal_id": 2478,
+            "type": "people",
+            "name": "Ishinomori, Shoutarou",
+            "url": "https://myanimelist.net/people/2478/Shoutarou_Ishinomori"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 2562,
+                    "type": "manga",
+                    "name": "Zelda no Densetsu: Kamigami no Triforce (1994)",
+                    "url": "https://myanimelist.net/manga/2562/Zelda_no_Densetsu__Kamigami_no_Triforce_1994"
+                },
+                {
+                    "mal_id": 2563,
+                    "type": "manga",
+                    "name": "Zelda no Densetsu: Kamigami no Triforce (2005)",
+                    "url": "https://myanimelist.net/manga/2563/Zelda_no_Densetsu__Kamigami_no_Triforce_2005"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/The_Legend_of_Zelda_%28manga%29#A_Link_to_the_Past_by_Shotaro_Ishinomori"
+        }
+    ]
+}

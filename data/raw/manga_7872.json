@@ -1,0 +1,126 @@
+{
+    "mal_id": 7872,
+    "url": "https://myanimelist.net/manga/7872/Akuma_ga_Hallelujah",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/101497.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/101497t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/101497l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/101497.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/101497t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/101497l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Akuma ga Hallelujah"
+        },
+        {
+            "type": "Synonym",
+            "title": "Akuma ga Hareruya"
+        },
+        {
+            "type": "Synonym",
+            "title": "Vanilla Beans"
+        },
+        {
+            "type": "Synonym",
+            "title": "Love Pink"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gokujou Lovers♥Lab"
+        },
+        {
+            "type": "Japanese",
+            "title": "悪魔がハレルヤ"
+        }
+    ],
+    "title": "Akuma ga Hallelujah",
+    "title_english": null,
+    "title_japanese": "悪魔がハレルヤ",
+    "title_synonyms": [
+        "Akuma ga Hareruya",
+        "Vanilla Beans",
+        "Love Pink",
+        "Gokujou Lovers♥Lab"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-03-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 3,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 26, 2008"
+    },
+    "score": 6.97,
+    "scored": 6.97,
+    "scored_by": 2436,
+    "rank": 9432,
+    "popularity": 4939,
+    "members": 4442,
+    "favorites": 6,
+    "synopsis": "Collection of short stories:\n\n1-2. Akuma ga Hallelujah\n3. Vanilla Beans, Love Pink\n4. Gokujou Lovers♥Lab",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3886,
+            "type": "people",
+            "name": "Kikuchi, Kamaro",
+            "url": "https://myanimelist.net/people/3886/Kamaro_Kikuchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

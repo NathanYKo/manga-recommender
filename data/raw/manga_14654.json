@@ -1,0 +1,116 @@
+{
+    "mal_id": 14654,
+    "url": "https://myanimelist.net/manga/14654/Rush",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/21014.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/21014t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/21014l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/21014.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/21014t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/21014l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rush!"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラッシュ！"
+        }
+    ],
+    "title": "Rush!",
+    "title_english": null,
+    "title_japanese": "ラッシュ！",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-12-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 12,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 3, 2008"
+    },
+    "score": 7.28,
+    "scored": 7.28,
+    "scored_by": 1622,
+    "rank": null,
+    "popularity": 6769,
+    "members": 3133,
+    "favorites": 10,
+    "synopsis": "After winning a match with Shinonome, the strongest guy in school, Shinonome purses Kanai romantically for some reason. At first Kanai is confused, but being touched by Shinonome's purity, his feelings gradually begin to sway... He even dreams of being with Shinonome! What could this mean!?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2036,
+            "type": "people",
+            "name": "Yukimura",
+            "url": "https://myanimelist.net/people/2036/Yukimura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 156,
+            "type": "manga",
+            "name": "drap",
+            "url": "https://myanimelist.net/manga/magazine/156/drap"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 3356,
+                    "type": "manga",
+                    "name": "Usotsuki wa Dareda",
+                    "url": "https://myanimelist.net/manga/3356/Usotsuki_wa_Dareda"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

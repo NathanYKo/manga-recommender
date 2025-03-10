@@ -1,0 +1,112 @@
+{
+    "mal_id": 92332,
+    "url": "https://myanimelist.net/manga/92332/Kurayami_Dance",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/172510.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/172510t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/172510l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/172510.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/172510t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/172510l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kurayami Dance"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dance of Darkness"
+        },
+        {
+            "type": "Japanese",
+            "title": "暗闇ダンス"
+        },
+        {
+            "type": "English",
+            "title": "Dance in the Dark"
+        }
+    ],
+    "title": "Kurayami Dance",
+    "title_english": "Dance in the Dark",
+    "title_japanese": "暗闇ダンス",
+    "title_synonyms": [
+        "Dance of Darkness"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-08-12T00:00:00+00:00",
+        "to": "2016-11-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 8,
+                "year": 2015
+            },
+            "to": {
+                "day": 11,
+                "month": 11,
+                "year": 2016
+            }
+        },
+        "string": "Aug 12, 2015 to Nov 11, 2016"
+    },
+    "score": 7.56,
+    "scored": 7.56,
+    "scored_by": 633,
+    "rank": 2582,
+    "popularity": 8571,
+    "members": 2348,
+    "favorites": 84,
+    "synopsis": "Undertaker by day, biker by night, Kaido Wataru dreams of one day riding at an unsurpassed speed. But the moment he finally reaches 300 km/h, a terrible accident sends him into a 3-year coma. When Wataru awakes, he finds that the Japan he once knew is long gone. Now followed by an otherworldly creature and equipped with a mysterious transplanted eye, Wataru embarks on his very own road movie.\n\n(Source: MU)",
+    "background": "Kurayami Dance is based on the original draft for the video game Shadows of the Damned, which was supposed to be a loose adaptation of Kafka's The Castle.",
+    "authors": [
+        {
+            "mal_id": 9477,
+            "type": "people",
+            "name": "Suda, Goichi",
+            "url": "https://myanimelist.net/people/9477/Goichi_Suda"
+        },
+        {
+            "mal_id": 11350,
+            "type": "people",
+            "name": "Takeya, Syuji",
+            "url": "https://myanimelist.net/people/11350/Syuji_Takeya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 114,
+            "type": "manga",
+            "name": "Comic Beam",
+            "url": "https://myanimelist.net/manga/magazine/114/Comic_Beam"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Shadows_of_the_Damned#Legacy"
+        }
+    ]
+}

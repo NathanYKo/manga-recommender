@@ -1,0 +1,108 @@
+{
+    "mal_id": 99351,
+    "url": "https://myanimelist.net/manga/99351/Yuzumori-san",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186042.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186042t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186042l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186042.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186042t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186042l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yuzumori-san"
+        },
+        {
+            "type": "Synonym",
+            "title": "Miss Yuzumori"
+        },
+        {
+            "type": "Japanese",
+            "title": "柚子森さん"
+        }
+    ],
+    "title": "Yuzumori-san",
+    "title_english": null,
+    "title_japanese": "柚子森さん",
+    "title_synonyms": [
+        "Miss Yuzumori"
+    ],
+    "type": "Manga",
+    "chapters": 35,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-06-27T00:00:00+00:00",
+        "to": "2018-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 6,
+                "year": 2016
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jun 27, 2016 to Mar 26, 2018"
+    },
+    "score": 7.24,
+    "scored": 7.24,
+    "scored_by": 2522,
+    "rank": 5542,
+    "popularity": 3377,
+    "members": 6614,
+    "favorites": 102,
+    "synopsis": "A laid-back yet slightly fidgety tale about the daily lives of two girls, Yuzumori-san and Mimika, and their relationship with one another.\n\n(Source: MangaPark)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9400,
+            "type": "people",
+            "name": "Ejima, Eri",
+            "url": "https://myanimelist.net/people/9400/Eri_Ejima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1097,
+            "type": "manga",
+            "name": "Yawaraka Spirits",
+            "url": "https://myanimelist.net/manga/magazine/1097/Yawaraka_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%9F%9A%E5%AD%90%E6%A3%AE%E3%81%95%E3%82%93"
+        }
+    ]
+}

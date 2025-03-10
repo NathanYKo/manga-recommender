@@ -1,0 +1,117 @@
+{
+    "mal_id": 94416,
+    "url": "https://myanimelist.net/manga/94416/The_Girl_from_Class",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/213482.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/213482t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/213482l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/213482.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/213482t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/213482l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "The Girl from Class"
+        },
+        {
+            "type": "Japanese",
+            "title": "수업시간 그녀"
+        },
+        {
+            "type": "English",
+            "title": "The Girl from Class"
+        }
+    ],
+    "title": "The Girl from Class",
+    "title_english": "The Girl from Class",
+    "title_japanese": "수업시간 그녀",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": 28,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-12-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 12,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 6, 2013"
+    },
+    "score": 7.22,
+    "scored": 7.22,
+    "scored_by": 1338,
+    "rank": 5892,
+    "popularity": 7612,
+    "members": 2715,
+    "favorites": 20,
+    "synopsis": "Have you ever fallen in love with a girl sitting next to you? His love has begun just like that.\n\n(Source: LINE Webtoon)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 40752,
+            "type": "people",
+            "name": "Park, Subong",
+            "url": "https://myanimelist.net/people/40752/Subong_Park"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic.naver.com/webtoon/list.nhn?titleId=557673"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EC%88%98%EC%97%85%EC%8B%9C%EA%B0%84%EA%B7%B8%EB%85%80"
+        }
+    ]
+}

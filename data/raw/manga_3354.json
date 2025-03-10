@@ -1,0 +1,127 @@
+{
+    "mal_id": 3354,
+    "url": "https://myanimelist.net/manga/3354/Orange_Kiss",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/183165.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/183165t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/183165l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/183165.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/183165t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/183165l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Orange Kiss"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shiawase no Kotoba"
+        },
+        {
+            "type": "Synonym",
+            "title": "Saishuu Densha Yozora wo Hashiru,"
+        },
+        {
+            "type": "Japanese",
+            "title": "オレンジ・キス"
+        }
+    ],
+    "title": "Orange Kiss",
+    "title_english": null,
+    "title_japanese": "オレンジ・キス",
+    "title_synonyms": [
+        "Shiawase no Kotoba",
+        "Saishuu Densha Yozora wo Hashiru,"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-06-13T00:00:00+00:00",
+        "to": "2003-09-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 6,
+                "year": 2003
+            },
+            "to": {
+                "day": 13,
+                "month": 9,
+                "year": 2003
+            }
+        },
+        "string": "Jun 13, 2003 to Sep 13, 2003"
+    },
+    "score": 7.17,
+    "scored": 7.17,
+    "scored_by": 1590,
+    "rank": 6511,
+    "popularity": 6675,
+    "members": 3176,
+    "favorites": 6,
+    "synopsis": "1. Orange Kiss\n2. Shiawase no Kotoba\n3. Saishuu Densha Yozora wo Hashiru\n4. Orange Kiss Miman",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3188,
+            "type": "people",
+            "name": "Usami, Maki",
+            "url": "https://myanimelist.net/people/3188/Maki_Usami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 1875,
+                    "type": "manga",
+                    "name": "Caramel Milk Tea",
+                    "url": "https://myanimelist.net/manga/1875/Caramel_Milk_Tea"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

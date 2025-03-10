@@ -1,0 +1,150 @@
+{
+    "mal_id": 1661,
+    "url": "https://myanimelist.net/manga/1661/Romeo_x_Juliet",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/21748.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/21748t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/21748l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/21748.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/21748t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/21748l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Romeo x Juliet"
+        },
+        {
+            "type": "Japanese",
+            "title": "Romeo×Juliet ロミオ×ジュリエット"
+        },
+        {
+            "type": "English",
+            "title": "Romeo x Juliet"
+        }
+    ],
+    "title": "Romeo x Juliet",
+    "title_english": "Romeo x Juliet",
+    "title_japanese": "Romeo×Juliet ロミオ×ジュリエット",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-03-24T00:00:00+00:00",
+        "to": "2009-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 3,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            }
+        },
+        "string": "Mar 24, 2007 to 2009"
+    },
+    "score": 7.24,
+    "scored": 7.24,
+    "scored_by": 2562,
+    "rank": 5531,
+    "popularity": 3864,
+    "members": 5808,
+    "favorites": 61,
+    "synopsis": "One stormy night in Neo Verona, the Montagues begin a mutiny against the ruling Capulets and murder Juliet's family. Before they manage to kill her, Juliet is rescued by her father's servants, thus becoming the sole survivor of the Capulet family. Fourteen years later, she encounters the son of the Montague family, Romeo, by chance and the two fall in love. However, only a cruel fate awaits them...\n\n(Source: MU)",
+    "background": "Romeo x Juliet was published in English by Yen Press in a 2-in-1 omnibus on July 27, 2010.",
+    "authors": [
+        {
+            "mal_id": 3133,
+            "type": "people",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/people/3133/Gonzo"
+        },
+        {
+            "mal_id": 3134,
+            "type": "people",
+            "name": "Shakespeare, William",
+            "url": "https://myanimelist.net/people/3134/William_Shakespeare"
+        },
+        {
+            "mal_id": 3135,
+            "type": "people",
+            "name": "COM",
+            "url": "https://myanimelist.net/people/3135/COM"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Asuka",
+            "url": "https://myanimelist.net/manga/magazine/14/Asuka"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1699,
+                    "type": "anime",
+                    "name": "Romeo x Juliet",
+                    "url": "https://myanimelist.net/anime/1699/Romeo_x_Juliet"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Romeo_x_Juliet"
+        }
+    ]
+}

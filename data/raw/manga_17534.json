@@ -1,0 +1,119 @@
+{
+    "mal_id": 17534,
+    "url": "https://myanimelist.net/manga/17534/Otona_Keikenchi_dj_-_Boku_wa_Sunao_ja_Nai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/26575.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/26575t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/26575l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/26575.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/26575t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/26575l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Otona Keikenchi dj - Boku wa Sunao ja Nai."
+        },
+        {
+            "type": "Synonym",
+            "title": "I'm not submissive"
+        },
+        {
+            "type": "Synonym",
+            "title": "Otona Keikenchi Bangaihen"
+        },
+        {
+            "type": "Japanese",
+            "title": "オトナ経験値-番外編 僕は素直じゃない。"
+        }
+    ],
+    "title": "Otona Keikenchi dj - Boku wa Sunao ja Nai.",
+    "title_english": null,
+    "title_japanese": "オトナ経験値-番外編 僕は素直じゃない。",
+    "title_synonyms": [
+        "I'm not submissive",
+        "Otona Keikenchi Bangaihen"
+    ],
+    "type": "Doujinshi",
+    "chapters": 1,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-03-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 3,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 8, 2009"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 1599,
+    "rank": null,
+    "popularity": 6500,
+    "members": 3274,
+    "favorites": 3,
+    "synopsis": "Shinkai decided to punish Yumeji (again).\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3243,
+            "type": "people",
+            "name": "Nekota, Yonezou",
+            "url": "https://myanimelist.net/people/3243/Yonezou_Nekota"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 1965,
+                    "type": "manga",
+                    "name": "Otona Keikenchi",
+                    "url": "https://myanimelist.net/manga/1965/Otona_Keikenchi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

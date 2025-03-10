@@ -1,0 +1,133 @@
+{
+    "mal_id": 87403,
+    "url": "https://myanimelist.net/manga/87403/My_Beautiful_World",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/151887.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/151887t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/151887l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/151887.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/151887t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/151887l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "My Beautiful World"
+        },
+        {
+            "type": "Synonym",
+            "title": "Naui Binaneun Segye"
+        },
+        {
+            "type": "Synonym",
+            "title": "My Shiny World"
+        },
+        {
+            "type": "Synonym",
+            "title": "My Shining World"
+        },
+        {
+            "type": "Japanese",
+            "title": "나의 빛나는 세계"
+        },
+        {
+            "type": "English",
+            "title": "My Beautiful World"
+        }
+    ],
+    "title": "My Beautiful World",
+    "title_english": "My Beautiful World",
+    "title_japanese": "나의 빛나는 세계",
+    "title_synonyms": [
+        "Naui Binaneun Segye",
+        "My Shiny World",
+        "My Shining World"
+    ],
+    "type": "Manhwa",
+    "chapters": 68,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-11-15T00:00:00+00:00",
+        "to": "2015-07-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 11,
+                "year": 2013
+            },
+            "to": {
+                "day": 3,
+                "month": 7,
+                "year": 2015
+            }
+        },
+        "string": "Nov 15, 2013 to Jul 3, 2015"
+    },
+    "score": 7.59,
+    "scored": 7.59,
+    "scored_by": 1306,
+    "rank": 2338,
+    "popularity": 5592,
+    "members": 3871,
+    "favorites": 33,
+    "synopsis": "The beautiful Yurim Lee has a secret—she can tell when people are hiding dark intentions. To her, the people's faces appear shrouded in a black cloud. The darker this cloud is, the more villainous their thoughts. But this power has done her more harm than good, and she was ostracized because of it in her youth. Now in college, she is a loner who struggles to trust others.\n\nOne day while walking home, Yurim is assaulted by a man covered in darkness. Soon she is rescued by Jooeun Lim, a man with hair the color of cherry blossoms. Their brief encounter brightens her lonely world ever so slightly, and the two become friends. With Jooeun's help, Yurim copes with her unique ability and begins to meet new people, and as she seeks to regain the trust in others that she lost, she must face a past which she has tried to forget.\n\n[Written by MAL Rewrite]",
+    "background": "My Beautiful World was digitally published in English by SpotToon.",
+    "authors": [
+        {
+            "mal_id": 20887,
+            "type": "people",
+            "name": "Maru",
+            "url": "https://myanimelist.net/people/20887/Maru"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 845,
+            "type": "manga",
+            "name": "Daum Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/845/Daum_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://webtoon.daum.net/webtoon/view/shiny"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EB%82%98%EC%9D%98%20%EB%B9%9B%EB%82%98%EB%8A%94%20%EC%84%B8%EA%B3%84"
+        }
+    ]
+}

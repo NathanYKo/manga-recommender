@@ -1,0 +1,140 @@
+{
+    "mal_id": 57063,
+    "url": "https://myanimelist.net/manga/57063/Dorei-ku__Boku_to_23-nin_no_Dorei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/185251.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/185251t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/185251l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/185251.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/185251t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/185251l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dorei-ku: Boku to 23-nin no Dorei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Doreiku: Boku to Nijuusannin no Dorei"
+        },
+        {
+            "type": "Synonym",
+            "title": "23 Slaves and Me"
+        },
+        {
+            "type": "Japanese",
+            "title": "奴隷区僕と23人の奴隷"
+        },
+        {
+            "type": "English",
+            "title": "Doreiku"
+        }
+    ],
+    "title": "Dorei-ku: Boku to 23-nin no Dorei",
+    "title_english": "Doreiku",
+    "title_japanese": "奴隷区僕と23人の奴隷",
+    "title_synonyms": [
+        "Doreiku: Boku to Nijuusannin no Dorei",
+        "23 Slaves and Me"
+    ],
+    "type": "Manga",
+    "chapters": 45,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-12-12T00:00:00+00:00",
+        "to": "2016-10-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": 28,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "Dec 12, 2012 to Oct 28, 2016"
+    },
+    "score": 6.3,
+    "scored": 6.3,
+    "scored_by": 1826,
+    "rank": 18444,
+    "popularity": 3697,
+    "members": 6109,
+    "favorites": 34,
+    "synopsis": "Slavery—a notorious system where a master asserts absolute dominance over their slave—has had no place in modern Japan. However, this all changes when a device called the Slave Control Method (SCM) spreads among some people. This nefarious device allows its users to make a slave of those it is used upon, making it possible for one to deliver their sweetest revenge or fulfill their immoral desires. But there is a catch: two owners must challenge each other to a game, with the winner gaining absolute control over the loser.\n\nTwo such users are casual part-timer Eiya Arakawa and the carefree Yuuga Oota. After a confrontation between them, Oota convinces Arakawa to become his \"insurance,\" so she can regain control over him in case he loses to another SCM owner. \n\nIn this game there are no rules, all underhanded methods are at the disposal of SCM users. No one from office workers to popular club hosts are safe, as they may all end up as slaves regardless...\n\n[Written by MAL Rewrite]",
+    "background": "Dorei-ku: Boku to 23-nin no Dorei is based on Shinichi Okada's novel series Boku to 23-nin no Dorei. The series has been published digitally in English as Doreiku by Orange Inc. through emaqi.",
+    "authors": [
+        {
+            "mal_id": 24847,
+            "type": "people",
+            "name": "Okada, Shinichi",
+            "url": "https://myanimelist.net/people/24847/Shinichi_Okada"
+        },
+        {
+            "mal_id": 24849,
+            "type": "people",
+            "name": "Ooishi, Hiroto",
+            "url": "https://myanimelist.net/people/24849/Hiroto_Ooishi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 110002,
+                    "type": "manga",
+                    "name": "Daidorei-ku: Kimi to 1-oku 3-zenman no Dorei",
+                    "url": "https://myanimelist.net/manga/110002/Daidorei-ku__Kimi_to_1-oku_3-zenman_no_Dorei"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 36525,
+                    "type": "anime",
+                    "name": "Dorei-ku The Animation",
+                    "url": "https://myanimelist.net/anime/36525/Dorei-ku_The_Animation"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%A5%B4%E9%9A%B7%E5%8C%BA_%E5%83%95%E3%81%A823%E4%BA%BA%E3%81%AE%E5%A5%B4%E9%9A%B7"
+        }
+    ]
+}

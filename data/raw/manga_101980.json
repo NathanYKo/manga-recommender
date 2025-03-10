@@ -1,0 +1,120 @@
+{
+    "mal_id": 101980,
+    "url": "https://myanimelist.net/manga/101980/I_Am_a_Hero_in_Nagasaki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/193593.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/193593t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/193593l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/193593.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/193593t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/193593l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "I Am a Hero in Nagasaki"
+        },
+        {
+            "type": "Japanese",
+            "title": "アイアムアヒーロー in NAGASAKI"
+        }
+    ],
+    "title": "I Am a Hero in Nagasaki",
+    "title_english": null,
+    "title_japanese": "アイアムアヒーロー in NAGASAKI",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-03-28T00:00:00+00:00",
+        "to": "2016-10-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 3,
+                "year": 2016
+            },
+            "to": {
+                "day": 20,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "Mar 28, 2016 to Oct 20, 2016"
+    },
+    "score": 6.16,
+    "scored": 6.16,
+    "scored_by": 1145,
+    "rank": 19240,
+    "popularity": 7402,
+    "members": 2806,
+    "favorites": 2,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 42299,
+            "type": "people",
+            "name": "Nishida, Kensuke",
+            "url": "https://myanimelist.net/people/42299/Kensuke_Nishida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1097,
+            "type": "manga",
+            "name": "Yawaraka Spirits",
+            "url": "https://myanimelist.net/manga/magazine/1097/Yawaraka_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 14440,
+                    "type": "manga",
+                    "name": "I Am a Hero",
+                    "url": "https://myanimelist.net/manga/14440/I_Am_a_Hero"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%A0%E3%82%A2%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC"
+        }
+    ]
+}

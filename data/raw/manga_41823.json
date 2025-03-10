@@ -1,0 +1,162 @@
+{
+    "mal_id": 41823,
+    "url": "https://myanimelist.net/manga/41823/BlazBlue__Remix_Heart",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/128681.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/128681t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/128681l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/128681.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/128681t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/128681l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "BlazBlue: Remix Heart"
+        },
+        {
+            "type": "Synonym",
+            "title": "BlazBlue RH"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブレイブルー リミックスハート"
+        }
+    ],
+    "title": "BlazBlue: Remix Heart",
+    "title_english": null,
+    "title_japanese": "ブレイブルー リミックスハート",
+    "title_synonyms": [
+        "BlazBlue RH"
+    ],
+    "type": "Manga",
+    "chapters": 25,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-06-08T00:00:00+00:00",
+        "to": "2014-06-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 6,
+                "year": 2012
+            },
+            "to": {
+                "day": 9,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Jun 8, 2012 to Jun 9, 2014"
+    },
+    "score": 6.85,
+    "scored": 6.85,
+    "scored_by": 1071,
+    "rank": 11326,
+    "popularity": 7509,
+    "members": 2761,
+    "favorites": 40,
+    "synopsis": "The 15th Hierarchical City of Torifune is best known as the Military Academy for the NOL. There, future librarians train and hone their skills for whatever challenges may await them outside. The story centers around Mai Natsume, a girl who had just arrived late due to a week absence, but there seems to be several phenomenons centering around her that could be more than just coincidence.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9540,
+            "type": "people",
+            "name": "Akao, Deko",
+            "url": "https://myanimelist.net/people/9540/Deko_Akao"
+        },
+        {
+            "mal_id": 18495,
+            "type": "people",
+            "name": "Mori, Toshimichi",
+            "url": "https://myanimelist.net/people/18495/Toshimichi_Mori"
+        },
+        {
+            "mal_id": 18497,
+            "type": "people",
+            "name": "Sumeragi",
+            "url": "https://myanimelist.net/people/18497/Sumeragi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 739,
+            "type": "manga",
+            "name": "Age Premium",
+            "url": "https://myanimelist.net/manga/magazine/739/Age_Premium"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 99746,
+                    "type": "manga",
+                    "name": "BlazBlue: Variable Heart",
+                    "url": "https://myanimelist.net/manga/99746/BlazBlue__Variable_Heart"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 27085,
+                    "type": "manga",
+                    "name": "BlazBlue: Chimelical Complex",
+                    "url": "https://myanimelist.net/manga/27085/BlazBlue__Chimelical_Complex"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/BLAZBLUE"
+        }
+    ]
+}

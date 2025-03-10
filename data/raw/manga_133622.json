@@ -1,0 +1,139 @@
+{
+    "mal_id": 133622,
+    "url": "https://myanimelist.net/manga/133622/YoRHa__Shinjuwan_Kouka_Sakusen_Kiroku",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/243769.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/243769t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/243769l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/243769.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/243769t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/243769l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "YoRHa: Shinjuwan Kouka Sakusen Kiroku"
+        },
+        {
+            "type": "Japanese",
+            "title": "ヨルハ 真珠湾降下作戦記録"
+        },
+        {
+            "type": "English",
+            "title": "YoRHa: Pearl Harbor Descent Record"
+        }
+    ],
+    "title": "YoRHa: Shinjuwan Kouka Sakusen Kiroku",
+    "title_english": "YoRHa: Pearl Harbor Descent Record",
+    "title_japanese": "ヨルハ 真珠湾降下作戦記録",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 18,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-12-26T00:00:00+00:00",
+        "to": "2024-05-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 12,
+                "year": 2020
+            },
+            "to": {
+                "day": 11,
+                "month": 5,
+                "year": 2024
+            }
+        },
+        "string": "Dec 26, 2020 to May 11, 2024"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 718,
+    "rank": 2453,
+    "popularity": 6568,
+    "members": 3236,
+    "favorites": 42,
+    "synopsis": "The distant future. Invaders from another world attack without warning, unleashing a new type of threat: weapons known as \"machine lifeforms.\" In the face of this insurmountable threat, mankind is driven from Earth and takes refuge on the Moon.\n \nIt is the year 11941, and the long war against the machines rages on. In an attempt to break the deadlock, the Council of Humanity forms a new infantry unit of female androids: YoRHa. Deployed to the planet's surface, these soldiers now fight to recapture Earth for the glory of mankind...\n\n(Source: Square Enix Manga)",
+    "background": "Adapted from the stage play Ongakugeki YoRHa Ver.1.2 by Taro Yoko. The series has been published in English as YoRHa: Pearl Harbor Descent Record by Square Enix since December 13, 2022.",
+    "authors": [
+        {
+            "mal_id": 21905,
+            "type": "people",
+            "name": "Soramichi, Megumu",
+            "url": "https://myanimelist.net/people/21905/Megumu_Soramichi"
+        },
+        {
+            "mal_id": 29087,
+            "type": "people",
+            "name": "Yoko, Taro",
+            "url": "https://myanimelist.net/people/29087/Taro_Yoko"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1399,
+            "type": "manga",
+            "name": "Manga UP!",
+            "url": "https://myanimelist.net/manga/magazine/1399/Manga_UP"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 161033,
+                    "type": "manga",
+                    "name": "NieR Replicant ver.1.22474487139... \"Gestalt Keikaku Kaisouroku\"",
+                    "url": "https://myanimelist.net/manga/161033/NieR_Replicant_ver122474487139_Gestalt_Keikaku_Kaisouroku"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 108495,
+                    "type": "manga",
+                    "name": "NieR:Automata",
+                    "url": "https://myanimelist.net/manga/108495/NieR_Automata"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.jp.square-enix.com/mangaup/original/yoruha/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%82%A2_%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%82%BF#%E3%83%A8%E3%83%AB%E3%83%8F_%E7%9C%9F%E7%8F%A0%E6%B9%BE%E9%99%8D%E4%B8%8B%E4%BD%9C%E6%88%A6%E8%A8%98%E9%8C%B2"
+        }
+    ]
+}

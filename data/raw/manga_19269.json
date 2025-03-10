@@ -1,0 +1,122 @@
+{
+    "mal_id": 19269,
+    "url": "https://myanimelist.net/manga/19269/Momo_Raba",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/41196.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/41196t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/41196l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/41196.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/41196t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/41196l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Momo Raba"
+        },
+        {
+            "type": "Synonym",
+            "title": "Momo Lover"
+        },
+        {
+            "type": "Synonym",
+            "title": "Peach Lover"
+        },
+        {
+            "type": "Japanese",
+            "title": "ももらば"
+        }
+    ],
+    "title": "Momo Raba",
+    "title_english": null,
+    "title_japanese": "ももらば",
+    "title_synonyms": [
+        "Momo Lover",
+        "Peach Lover"
+    ],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2010"
+    },
+    "score": 7.28,
+    "scored": 7.28,
+    "scored_by": 1349,
+    "rank": 5103,
+    "popularity": 7699,
+    "members": 2676,
+    "favorites": 12,
+    "synopsis": "Chieri (Cherry) was living an ordinary life, until her sister Ichigo (Strawberry) suddenly left her child Momo (Peach) on Chieri's doorstep. Momo is an infant; how is Chieri supposed to take care of a baby while still in high school!? To make matters even more frustrating, two guys are fighting for Chieri's love...!? (Source: Nagareboshi Manga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5498,
+            "type": "people",
+            "name": "Mitsuki, Miko",
+            "url": "https://myanimelist.net/people/5498/Miko_Mitsuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Sho-Comi",
+            "url": "https://myanimelist.net/manga/magazine/22/Sho-Comi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

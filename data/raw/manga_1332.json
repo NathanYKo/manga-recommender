@@ -1,0 +1,155 @@
+{
+    "mal_id": 1332,
+    "url": "https://myanimelist.net/manga/1332/Swan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/175476.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/175476t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/175476l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/175476.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/175476t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/175476l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Swan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hakuchou"
+        },
+        {
+            "type": "Japanese",
+            "title": "SWAN −白鳥−"
+        },
+        {
+            "type": "English",
+            "title": "Swan"
+        }
+    ],
+    "title": "Swan",
+    "title_english": "Swan",
+    "title_japanese": "SWAN −白鳥−",
+    "title_synonyms": [
+        "Hakuchou"
+    ],
+    "type": "Manga",
+    "chapters": 208,
+    "volumes": 21,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1976-11-01T00:00:00+00:00",
+        "to": "1981-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 11,
+                "year": 1976
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 1981
+            }
+        },
+        "string": "Nov 1976 to Apr 1981"
+    },
+    "score": 7.64,
+    "scored": 7.64,
+    "scored_by": 411,
+    "rank": 2089,
+    "popularity": 8736,
+    "members": 2293,
+    "favorites": 47,
+    "synopsis": "Masumi Hijiri is a 16-year-old ballet student attending a small school in Japan. When she unexpectedly recieves an invitation to attend a special ballet competition, and later gains admission to a renowned ballet academy, she embarks on a grand adventure of friendship and hardship. She is the weakest of the students, and as such encounters several challenges, but her determination and faith in herself help guide her through the fierce world of ballet.\n\n(Source: ANN)",
+    "background": "The first 15 volumes of Swan were published in English by CMX Manga from December 1, 2004, to March 9, 2010, before the publisher went defunct.",
+    "authors": [
+        {
+            "mal_id": 2946,
+            "type": "people",
+            "name": "Ariyoshi, Kyouko",
+            "url": "https://myanimelist.net/people/2946/Kyouko_Ariyoshi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Margaret",
+            "url": "https://myanimelist.net/manga/magazine/17/Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 71,
+            "type": "manga",
+            "name": "Performing Arts",
+            "url": "https://myanimelist.net/manga/genre/71/Performing_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 19972,
+                    "type": "manga",
+                    "name": "Maia: Swan Act II",
+                    "url": "https://myanimelist.net/manga/19972/Maia__Swan_Act_II"
+                },
+                {
+                    "mal_id": 19973,
+                    "type": "manga",
+                    "name": "Swan: Moscow-hen",
+                    "url": "https://myanimelist.net/manga/19973/Swan__Moscow-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 19974,
+                    "type": "manga",
+                    "name": "Swan: Hakuchou no Inori",
+                    "url": "https://myanimelist.net/manga/19974/Swan__Hakuchou_no_Inori"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/SWAN"
+        }
+    ]
+}

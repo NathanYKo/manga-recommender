@@ -1,0 +1,114 @@
+{
+    "mal_id": 121329,
+    "url": "https://myanimelist.net/manga/121329/Duranki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/253644.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/253644t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/253644l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/253644.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/253644t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/253644l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Duranki"
+        },
+        {
+            "type": "Japanese",
+            "title": "ドゥルアンキ"
+        },
+        {
+            "type": "English",
+            "title": "Dur-an-ki"
+        }
+    ],
+    "title": "Duranki",
+    "title_english": "Dur-an-ki",
+    "title_japanese": "ドゥルアンキ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Discontinued",
+    "publishing": false,
+    "published": {
+        "from": "2019-09-09T00:00:00+00:00",
+        "to": "2020-05-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 9,
+                "year": 2019
+            },
+            "to": {
+                "day": 9,
+                "month": 5,
+                "year": 2020
+            }
+        },
+        "string": "Sep 9, 2019 to May 9, 2020"
+    },
+    "score": 7.06,
+    "scored": 7.06,
+    "scored_by": 3454,
+    "rank": 8028,
+    "popularity": 2250,
+    "members": 9665,
+    "favorites": 32,
+    "synopsis": "In the ancient world, the gods gave their wisdom to the child Usumgallu. Here, a new myth begins!",
+    "background": "Duranki was discontinued due to the death of Kentarou Miura.",
+    "authors": [
+        {
+            "mal_id": 1868,
+            "type": "people",
+            "name": "Miura, Kentarou",
+            "url": "https://myanimelist.net/people/1868/Kentarou_Miura"
+        },
+        {
+            "mal_id": 49592,
+            "type": "people",
+            "name": "Studio Gaga",
+            "url": "https://myanimelist.net/people/49592/Studio_Gaga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1476,
+            "type": "manga",
+            "name": "Young Animal Zero",
+            "url": "https://myanimelist.net/manga/magazine/1476/Young_Animal_Zero"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,150 @@
+{
+    "mal_id": 102601,
+    "url": "https://myanimelist.net/manga/102601/Yakumo-san_wa_Ezuke_ga_Shitai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/195334.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/195334t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/195334l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/195334.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/195334t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/195334l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yakumo-san wa Ezuke ga Shitai."
+        },
+        {
+            "type": "Synonym",
+            "title": "Yakumo wants to feed."
+        },
+        {
+            "type": "Japanese",
+            "title": "八雲さんは餌づけがしたい。"
+        },
+        {
+            "type": "English",
+            "title": "Beauty and the Feast"
+        }
+    ],
+    "title": "Yakumo-san wa Ezuke ga Shitai.",
+    "title_english": "Beauty and the Feast",
+    "title_japanese": "八雲さんは餌づけがしたい。",
+    "title_synonyms": [
+        "Yakumo wants to feed."
+    ],
+    "type": "Manga",
+    "chapters": 89,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-03-04T00:00:00+00:00",
+        "to": "2021-03-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 3,
+                "year": 2016
+            },
+            "to": {
+                "day": 19,
+                "month": 3,
+                "year": 2021
+            }
+        },
+        "string": "Mar 4, 2016 to Mar 19, 2021"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 5336,
+    "rank": 4617,
+    "popularity": 1194,
+    "members": 17045,
+    "favorites": 143,
+    "synopsis": "Having cooked too much rice one day, 28-year-old widow Shuuko Yakumo decides to share the surplus with her new neighbor, Shouhei Yamato. As an active member of his high school's baseball club, Yamato works up an enormous appetite, and his penchant for eating a lot reminds Yakumo of her late husband. These fond memories reignite her passion for cooking. \n\nEver since their first meal together, Yakumo has been inviting Yamato over to her home to eat every day, slowly building their friendship through love of food and baseball.\n\n[Written by MAL Rewrite]",
+    "background": "Yakumo-san wa Ezuke ga Shitai. was published in English as Beauty and the Feast by Square Enix from March 23, 2021 to November 21, 2023.",
+    "authors": [
+        {
+            "mal_id": 42824,
+            "type": "people",
+            "name": "Satomi U",
+            "url": "https://myanimelist.net/people/42824/Satomi_U"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 177759,
+                    "type": "manga",
+                    "name": "Yakumo-san wa Ezuke ga Shitai.",
+                    "url": "https://myanimelist.net/manga/177759/Yakumo-san_wa_Ezuke_ga_Shitai"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 177931,
+                    "type": "manga",
+                    "name": "Yakumo-san wa Ezuke wo Shitai.",
+                    "url": "https://myanimelist.net/manga/177931/Yakumo-san_wa_Ezuke_wo_Shitai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.co.jp/magazine/yg/introduction/yakumo/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Beauty_and_the_Feast"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%85%AB%E9%9B%B2%E3%81%95%E3%82%93%E3%81%AF%E9%A4%8C%E3%81%A5%E3%81%91%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84%E3%80%82"
+        }
+    ]
+}

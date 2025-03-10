@@ -1,0 +1,110 @@
+{
+    "mal_id": 39395,
+    "url": "https://myanimelist.net/manga/39395/Candy",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/112595.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/112595t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/112595l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/112595.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/112595t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/112595l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Candy"
+        },
+        {
+            "type": "Synonym",
+            "title": "Candy Hatsukoi"
+        },
+        {
+            "type": "Japanese",
+            "title": "キャンディ"
+        }
+    ],
+    "title": "Candy",
+    "title_english": null,
+    "title_japanese": "キャンディ",
+    "title_synonyms": [
+        "Candy Hatsukoi"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-02-12T00:00:00+00:00",
+        "to": "2012-06-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 2,
+                "year": 2010
+            },
+            "to": {
+                "day": 12,
+                "month": 6,
+                "year": 2012
+            }
+        },
+        "string": "Feb 12, 2010 to Jun 12, 2012"
+    },
+    "score": 7.11,
+    "scored": 7.11,
+    "scored_by": 1514,
+    "rank": 7395,
+    "popularity": 6639,
+    "members": 3198,
+    "favorites": 8,
+    "synopsis": "A lovestory focusing on Kanon Miyamoto a tomboyish student at an all-girls school who attracts many love interests although she's to dense to notice.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 8438,
+            "type": "people",
+            "name": "Suzuki, Yufuko",
+            "url": "https://myanimelist.net/people/8438/Yufuko_Suzuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 470,
+            "type": "manga",
+            "name": "Tsubomi",
+            "url": "https://myanimelist.net/manga/magazine/470/Tsubomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

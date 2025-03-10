@@ -1,0 +1,150 @@
+{
+    "mal_id": 1242,
+    "url": "https://myanimelist.net/manga/1242/Good_Morning_Call",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/185191.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/185191t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/185191l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/185191.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/185191t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/185191l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Good Morning Call"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kare to Kanojo ni Hanataba wo"
+        },
+        {
+            "type": "Synonym",
+            "title": "His and Her Fortune Bouquet"
+        },
+        {
+            "type": "Japanese",
+            "title": "グッドモーニング・コール"
+        }
+    ],
+    "title": "Good Morning Call",
+    "title_english": null,
+    "title_japanese": "グッドモーニング・コール",
+    "title_synonyms": [
+        "Kare to Kanojo ni Hanataba wo",
+        "His and Her Fortune Bouquet"
+    ],
+    "type": "Manga",
+    "chapters": 57,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-08-02T00:00:00+00:00",
+        "to": "2002-03-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 8,
+                "year": 1997
+            },
+            "to": {
+                "day": 2,
+                "month": 3,
+                "year": 2002
+            }
+        },
+        "string": "Aug 2, 1997 to Mar 2, 2002"
+    },
+    "score": 7.3,
+    "scored": 7.3,
+    "scored_by": 4933,
+    "rank": 4892,
+    "popularity": 1929,
+    "members": 11240,
+    "favorites": 98,
+    "synopsis": "Nao Yoshikawa stays behind to live by herself when her parents leave to inherit her grandpa's farm in the country. On the day she moves into her new apartment she soon discovers that it was rented also to Hisashi Uehara—a cute, super-cool and popular guy from her school. Not only did their housing agency unexpectedly close down, the landlord of the apartment tells them that they had to pay more for their apartment then they had expected. With both no money and no home to return to, Nao and Hisashi decide to live together as flatmates.\n\n(Source: ANN)\n\nIncluded one-shot:\nVolume 1: Kare to Kanojo ni Hanataba wo (His and Her Fortune Bouquet)",
+    "background": "Good Morning Call was adapted into a live-action TV Drama which released in 2016 and was co-produced by Fuji TV and Netflix.",
+    "authors": [
+        {
+            "mal_id": 2795,
+            "type": "people",
+            "name": "Takasuka, Yue",
+            "url": "https://myanimelist.net/people/2795/Yue_Takasuka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ribon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1775,
+                    "type": "manga",
+                    "name": "Good Morning Kiss",
+                    "url": "https://myanimelist.net/manga/1775/Good_Morning_Kiss"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1056,
+                    "type": "anime",
+                    "name": "Good Morning Call",
+                    "url": "https://myanimelist.net/anime/1056/Good_Morning_Call"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%83%E3%83%89%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%AB"
+        }
+    ]
+}

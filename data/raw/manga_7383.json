@@ -1,0 +1,111 @@
+{
+    "mal_id": 7383,
+    "url": "https://myanimelist.net/manga/7383/Blue",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/184028.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/184028t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/184028l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/184028.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/184028t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/184028l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Blue"
+        },
+        {
+            "type": "Japanese",
+            "title": "BLUE"
+        }
+    ],
+    "title": "Blue",
+    "title_english": null,
+    "title_japanese": "BLUE",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-03-13T00:00:00+00:00",
+        "to": "2006-06-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 3,
+                "year": 2006
+            },
+            "to": {
+                "day": 13,
+                "month": 6,
+                "year": 2006
+            }
+        },
+        "string": "Mar 13, 2006 to Jun 13, 2006"
+    },
+    "score": 7.1,
+    "scored": 7.1,
+    "scored_by": 2791,
+    "rank": 7512,
+    "popularity": 4368,
+    "members": 5119,
+    "favorites": 12,
+    "synopsis": "Anna entered the same high school as the person she loved. But that person is in fact her cousin, Reiji. While continuing to conceal her feelings for him, she begins to suspect that Reiji is in love with Rumi, her best friend. But what is Rumi's real secret?\n\n(Source: Houkago Scanlations)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4142,
+            "type": "people",
+            "name": "Sakisaka, Io",
+            "url": "https://myanimelist.net/people/4142/Io_Sakisaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Bessatsu Margaret",
+            "url": "https://myanimelist.net/manga/magazine/53/Bessatsu_Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

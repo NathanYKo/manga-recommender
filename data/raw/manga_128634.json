@@ -1,0 +1,136 @@
+{
+    "mal_id": 128634,
+    "url": "https://myanimelist.net/manga/128634/Inu_ni_Nattara_Suki_na_Hito_ni_Hirowareta",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/237526.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/237526t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/237526l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/237526.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/237526t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/237526l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Inu ni Nattara Suki na Hito ni Hirowareta."
+        },
+        {
+            "type": "Japanese",
+            "title": "犬になったら好きな人に拾われた。"
+        },
+        {
+            "type": "English",
+            "title": "My Life as Inukai-san's Dog."
+        }
+    ],
+    "title": "Inu ni Nattara Suki na Hito ni Hirowareta.",
+    "title_english": "My Life as Inukai-san's Dog.",
+    "title_japanese": "犬になったら好きな人に拾われた。",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 65,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-08-02T00:00:00+00:00",
+        "to": "2023-07-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 8,
+                "year": 2020
+            },
+            "to": {
+                "day": 14,
+                "month": 7,
+                "year": 2023
+            }
+        },
+        "string": "Aug 2, 2020 to Jul 14, 2023"
+    },
+    "score": 5.77,
+    "scored": 5.77,
+    "scored_by": 3805,
+    "rank": 20141,
+    "popularity": 1887,
+    "members": 11474,
+    "favorites": 88,
+    "synopsis": "The story follows the protagonist who wakes up one day transformed as Pochita, a pet dog of his cool and beautiful classmate Karen Inukai.\n\n(Source: MAL News)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 48969,
+            "type": "people",
+            "name": "Itsutsuse",
+            "url": "https://myanimelist.net/people/48969/Itsutsuse"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1335,
+            "type": "manga",
+            "name": "Magazine pocket",
+            "url": "https://myanimelist.net/manga/magazine/1335/Magazine_pocket"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 51265,
+                    "type": "anime",
+                    "name": "Inu ni Nattara Suki na Hito ni Hirowareta.",
+                    "url": "https://myanimelist.net/anime/51265/Inu_ni_Nattara_Suki_na_Hito_ni_Hirowareta"
+                },
+                {
+                    "mal_id": 54225,
+                    "type": "anime",
+                    "name": "Inu ni Nattara Suki na Hito ni Hirowareta. Specials",
+                    "url": "https://myanimelist.net/anime/54225/Inu_ni_Nattara_Suki_na_Hito_ni_Hirowareta_Specials"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://pocket.shonenmagazine.com/episode/13933686331683387433"
+        },
+        {
+            "name": "@inuninattara",
+            "url": "https://twitter.com/inuninattara"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/My_Life_as_Inukai-san%27s_Dog"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/犬になったら好きな人に拾われた。"
+        }
+    ]
+}

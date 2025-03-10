@@ -1,0 +1,141 @@
+{
+    "mal_id": 147489,
+    "url": "https://myanimelist.net/manga/147489/The_Druid_of_Seoul_Station",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/261632.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/261632t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/261632l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/261632.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/261632t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/261632l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "The Druid of Seoul Station"
+        },
+        {
+            "type": "Synonym",
+            "title": "Seoul-yeok Druid"
+        },
+        {
+            "type": "Japanese",
+            "title": "서울역 드루이드"
+        },
+        {
+            "type": "English",
+            "title": "The Druid of Seoul Station"
+        }
+    ],
+    "title": "The Druid of Seoul Station",
+    "title_english": "The Druid of Seoul Station",
+    "title_japanese": "서울역 드루이드",
+    "title_synonyms": [
+        "Seoul-yeok Druid"
+    ],
+    "type": "Manhwa",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2021-06-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 6,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 10, 2021 to ?"
+    },
+    "score": 6.56,
+    "scored": 6.56,
+    "scored_by": 2278,
+    "rank": 15766,
+    "popularity": 2892,
+    "members": 7754,
+    "favorites": 13,
+    "synopsis": "What started out as an ordinary day turned upside down when an unknown catastrophe struck Earth, transporting Suho Park to a different planet. He eventually learns how to adapt and fight for his survival in this foreign world, but one day, just as suddenly as he was sucked into this new planet, Suho is pulled back to Earth. He quickly learns that return to life as he remembers it is no longer possible, as Earth is in constant battle with monsters who've managed to infiltrate the planet. How will Suho fight against the monsters attacking Earth, and will he be able to survive this time with his current skills?\n\n(Source: Webtoon Entertainment)",
+    "background": "The Druid of Seoul Station has been published digitally in English, French, German, Indonesian, and Thai by Webtoon Entertainment.",
+    "authors": [
+        {
+            "mal_id": 58427,
+            "type": "people",
+            "name": "Jin, Seolwoo",
+            "url": "https://myanimelist.net/people/58427/Seolwoo_Jin"
+        },
+        {
+            "mal_id": 58428,
+            "type": "people",
+            "name": "Hwalseonggom",
+            "url": "https://myanimelist.net/people/58428/Hwalseonggom"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 147490,
+                    "type": "manga",
+                    "name": "Seoul Station's Necromancer",
+                    "url": "https://myanimelist.net/manga/147490/Seoul_Stations_Necromancer"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.naver.com/webtoon/list?titleId=773476"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EC%84%9C%EC%9A%B8%EC%97%AD%20%EB%93%9C%EB%A3%A8%EC%9D%B4%EB%93%9C(%EC%9B%B9%ED%88%B0)"
+        }
+    ]
+}

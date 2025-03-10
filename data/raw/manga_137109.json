@@ -1,0 +1,165 @@
+{
+    "mal_id": 137109,
+    "url": "https://myanimelist.net/manga/137109/Paripi_Koumei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/245507.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/245507t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/245507l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/245507.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/245507t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/245507l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Paripi Koumei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Party People Koumei"
+        },
+        {
+            "type": "Japanese",
+            "title": "パリピ孔明"
+        },
+        {
+            "type": "English",
+            "title": "Ya Boy Kongming!"
+        }
+    ],
+    "title": "Paripi Koumei",
+    "title_english": "Ya Boy Kongming!",
+    "title_japanese": "パリピ孔明",
+    "title_synonyms": [
+        "Party People Koumei"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-12-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 31, 2019 to ?"
+    },
+    "score": 7.67,
+    "scored": 7.67,
+    "scored_by": 904,
+    "rank": 1896,
+    "popularity": 4553,
+    "members": 4874,
+    "favorites": 54,
+    "synopsis": "General of the Three Kingdoms, Kongming had struggled his whole life, facing countless battles that made him into the accomplished strategist he was. So on his deathbed, he wished only to be reborn into a peaceful world...and was sent straight to modern-day party-central, Tokyo! Can even a brilliant strategist like Kongming adapt to the wild beats and even wilder party people?!\n\n(Source: Kodansha USA)",
+    "background": "Paripi Koumei has been published digitally in English as Ya Boy Kongming! by Kodansha USA since June 1, 2021.",
+    "authors": [
+        {
+            "mal_id": 39062,
+            "type": "people",
+            "name": "Ogawa, Ryou",
+            "url": "https://myanimelist.net/people/39062/Ryou_Ogawa"
+        },
+        {
+            "mal_id": 54397,
+            "type": "people",
+            "name": "Yotsuba, Yuuto",
+            "url": "https://myanimelist.net/people/54397/Yuuto_Yotsuba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1459,
+            "type": "manga",
+            "name": "Comic Days",
+            "url": "https://myanimelist.net/manga/magazine/1459/Comic_Days"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 50380,
+                    "type": "anime",
+                    "name": "Paripi Koumei",
+                    "url": "https://myanimelist.net/anime/50380/Paripi_Koumei"
+                },
+                {
+                    "mal_id": 57369,
+                    "type": "anime",
+                    "name": "Paripi Koumei: Road to Summer Sonia",
+                    "url": "https://myanimelist.net/anime/57369/Paripi_Koumei__Road_to_Summer_Sonia"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/ya-boy-kongming/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/paripi/"
+        },
+        {
+            "name": "@paripikoumei_PR",
+            "url": "https://twitter.com/paripikoumei_PR"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ya_Boy_Kongming!"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/パリピ孔明"
+        }
+    ]
+}

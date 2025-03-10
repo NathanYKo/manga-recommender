@@ -1,0 +1,102 @@
+{
+    "mal_id": 24518,
+    "url": "https://myanimelist.net/manga/24518/Fushigi_no_Kuni_no_Gilbert",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/39501.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/39501t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/39501l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/39501.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/39501t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/39501l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fushigi no Kuni no Gilbert"
+        },
+        {
+            "type": "Synonym",
+            "title": "Pandora Hearts: Gilbert in Wonderland"
+        },
+        {
+            "type": "Japanese",
+            "title": "不思議の国のギルバート"
+        }
+    ],
+    "title": "Fushigi no Kuni no Gilbert",
+    "title_english": null,
+    "title_japanese": "不思議の国のギルバート",
+    "title_synonyms": [
+        "Pandora Hearts: Gilbert in Wonderland"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2009"
+    },
+    "score": 7.16,
+    "scored": 7.16,
+    "scored_by": 1399,
+    "rank": 6558,
+    "popularity": 6340,
+    "members": 3363,
+    "favorites": 20,
+    "synopsis": "Bonus one-shot drawn by Mochizuki that came with the DVD releases of Pandora Hearts featuring Gilbert as Alice.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3483,
+            "type": "people",
+            "name": "Mochizuki, Jun",
+            "url": "https://myanimelist.net/people/3483/Jun_Mochizuki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 3031,
+                    "type": "manga",
+                    "name": "Pandora Hearts",
+                    "url": "https://myanimelist.net/manga/3031/Pandora_Hearts"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

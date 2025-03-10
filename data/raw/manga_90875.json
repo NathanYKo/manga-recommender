@@ -1,0 +1,130 @@
+{
+    "mal_id": 90875,
+    "url": "https://myanimelist.net/manga/90875/Sabinuki_Kanojo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/159919.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/159919t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/159919l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/159919.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/159919t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/159919l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sabinuki Kanojo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sabi nuki Kanojo"
+        },
+        {
+            "type": "Japanese",
+            "title": "さび抜きカノジョ"
+        },
+        {
+            "type": "English",
+            "title": "My Girlfriend Without Wasabi"
+        }
+    ],
+    "title": "Sabinuki Kanojo",
+    "title_english": "My Girlfriend Without Wasabi",
+    "title_japanese": "さび抜きカノジョ",
+    "title_synonyms": [
+        "Sabi nuki Kanojo"
+    ],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-03-24T00:00:00+00:00",
+        "to": "2014-08-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 3,
+                "year": 2012
+            },
+            "to": {
+                "day": 9,
+                "month": 8,
+                "year": 2014
+            }
+        },
+        "string": "Mar 24, 2012 to Aug 9, 2014"
+    },
+    "score": 6.82,
+    "scored": 6.82,
+    "scored_by": 1515,
+    "rank": 11913,
+    "popularity": 5143,
+    "members": 4238,
+    "favorites": 11,
+    "synopsis": "Spin-off of Danna ga Nani wo Itteiru ka Wakaranai Ken, it tells the story of how Juse Rino and Kimura Nozomu met.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 25227,
+            "type": "people",
+            "name": "Cool-kyou Shinja",
+            "url": "https://myanimelist.net/people/25227/Cool-kyou_Shinja"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 496,
+            "type": "manga",
+            "name": "Febri",
+            "url": "https://myanimelist.net/manga/magazine/496/Febri"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 73575,
+                    "type": "manga",
+                    "name": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
+                    "url": "https://myanimelist.net/manga/73575/Danna_ga_Nani_wo_Itteiru_ka_Wakaranai_Ken"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%97%A6%E9%82%A3%E3%81%8C%E4%BD%95%E3%82%92%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84%E4%BB%B6"
+        }
+    ]
+}

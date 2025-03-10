@@ -1,0 +1,163 @@
+{
+    "mal_id": 3868,
+    "url": "https://myanimelist.net/manga/3868/Shigurui",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/110081.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/110081t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/110081l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/110081.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/110081t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/110081l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shigurui"
+        },
+        {
+            "type": "Synonym",
+            "title": "Death Frenzy"
+        },
+        {
+            "type": "Synonym",
+            "title": "Crazy for Death"
+        },
+        {
+            "type": "Japanese",
+            "title": "シグルイ"
+        }
+    ],
+    "title": "Shigurui",
+    "title_english": null,
+    "title_japanese": "シグルイ",
+    "title_synonyms": [
+        "Death Frenzy",
+        "Crazy for Death"
+    ],
+    "type": "Manga",
+    "chapters": 84,
+    "volumes": 15,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-06-19T00:00:00+00:00",
+        "to": "2010-07-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 6,
+                "year": 2003
+            },
+            "to": {
+                "day": 17,
+                "month": 7,
+                "year": 2010
+            }
+        },
+        "string": "Jun 19, 2003 to Jul 17, 2010"
+    },
+    "score": 8.05,
+    "scored": 8.05,
+    "scored_by": 9636,
+    "rank": 666,
+    "popularity": 609,
+    "members": 31039,
+    "favorites": 924,
+    "synopsis": "The sadistic daimyo Tadanaga Tokugawa has decreed Japan's first martial arts competition with real swords, appalling even the most loyal of his retainers. However, when the spectators realize that the first match pits the one-armed Gennosuke Fujiki against the blind and lame Seigen Irako, even those with the most forceful objections declare the match to be a farce and the combatants' deformities an affront to their station.\n\nMost of the attendees are unaware of the deep-seated hatred Gennosuke and Seigen hold for each other, which stems from their struggle to become the heir to the insane samurai Kogan Iwamoto, leader of the notorious Kogan-ryuu dojo. Their once-cordial rivalry for Kogan-ryuu and the hand of Kogan's daughter Mie quickly turns violent when one of the young warriors angers the master, causing a chain of events that eventually leads to their severe injuries.\n\nShigurui chronicles the decisions that led Gennosuke and Seigen to this desperate point, as well as the many lives ruined by the brutality of samurai culture.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2635,
+            "type": "people",
+            "name": "Yamaguchi, Takayuki",
+            "url": "https://myanimelist.net/people/2635/Takayuki_Yamaguchi"
+        },
+        {
+            "mal_id": 3235,
+            "type": "people",
+            "name": "Nanjou, Norio",
+            "url": "https://myanimelist.net/people/3235/Norio_Nanjou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 186,
+            "type": "manga",
+            "name": "Champion RED",
+            "url": "https://myanimelist.net/manga/magazine/186/Champion_RED"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        },
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Samurai",
+            "url": "https://myanimelist.net/manga/genre/21/Samurai"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2216,
+                    "type": "anime",
+                    "name": "Shigurui",
+                    "url": "https://myanimelist.net/anime/2216/Shigurui"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4"
+        }
+    ]
+}

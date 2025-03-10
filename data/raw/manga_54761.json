@@ -1,0 +1,146 @@
+{
+    "mal_id": 54761,
+    "url": "https://myanimelist.net/manga/54761/Saint_Seiya__Saintia_Shou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/154143.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/154143t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/154143l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/154143.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/154143t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/154143l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Saint Seiya: Saintia Shou"
+        },
+        {
+            "type": "Japanese",
+            "title": "聖闘士星矢 セインティア翔"
+        },
+        {
+            "type": "English",
+            "title": "Saint Seiya: Saintia Shou"
+        }
+    ],
+    "title": "Saint Seiya: Saintia Shou",
+    "title_english": "Saint Seiya: Saintia Shou",
+    "title_japanese": "聖闘士星矢 セインティア翔",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 88,
+    "volumes": 16,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-08-19T00:00:00+00:00",
+        "to": "2021-07-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 8,
+                "year": 2013
+            },
+            "to": {
+                "day": 19,
+                "month": 7,
+                "year": 2021
+            }
+        },
+        "string": "Aug 19, 2013 to Jul 19, 2021"
+    },
+    "score": 7.18,
+    "scored": 7.18,
+    "scored_by": 1356,
+    "rank": 6422,
+    "popularity": 5414,
+    "members": 4021,
+    "favorites": 89,
+    "synopsis": "The whole Sanctuary was misled into danger due to the civil war instigated by the Gemini Gold Saint, Saga. Our story begins right after the end of those events... This is a story of the girls protecting Athena. These are the records of love and fierce fights they meet while opposing destiny on their way to maturity...\n\n(Source: MangaSeven)",
+    "background": "Saint Seiya: Saintia Shou was published in English by Seven Seas Entertainment from February 20, 2018, to January 17, 2023. It was also released in French by Kurokawa from February 12, 2015, to September 8, 2022; in Brazilian Portuguese by JBC from October 22, 2016, to May 24, 2023; and in Spanish by Editorial Ivréa from June 16, 2017, to October 5, 2023.",
+    "authors": [
+        {
+            "mal_id": 1999,
+            "type": "people",
+            "name": "Kurumada, Masami",
+            "url": "https://myanimelist.net/people/1999/Masami_Kurumada"
+        },
+        {
+            "mal_id": 7629,
+            "type": "people",
+            "name": "Kuori, Chimaki",
+            "url": "https://myanimelist.net/people/7629/Chimaki_Kuori"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 186,
+            "type": "manga",
+            "name": "Champion RED",
+            "url": "https://myanimelist.net/manga/magazine/186/Champion_RED"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 34539,
+                    "type": "anime",
+                    "name": "Saint Seiya: Saintia Shou",
+                    "url": "https://myanimelist.net/anime/34539/Saint_Seiya__Saintia_Shou"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 1045,
+                    "type": "manga",
+                    "name": "Saint Seiya",
+                    "url": "https://myanimelist.net/manga/1045/Saint_Seiya"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Saint_Seiya:_Saintia_Sh%C5%8D"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E7%BF%94"
+        }
+    ]
+}

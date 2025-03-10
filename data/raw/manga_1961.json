@@ -1,0 +1,122 @@
+{
+    "mal_id": 1961,
+    "url": "https://myanimelist.net/manga/1961/Brothers",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/33948.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/33948t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/33948l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/33948.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/33948t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/33948l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Brothers"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブラザーズ"
+        }
+    ],
+    "title": "Brothers",
+    "title_english": null,
+    "title_japanese": "ブラザーズ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-10-01T00:00:00+00:00",
+        "to": "2004-08-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2001
+            },
+            "to": {
+                "day": 21,
+                "month": 8,
+                "year": 2004
+            }
+        },
+        "string": "Oct 2001 to Aug 21, 2004"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 2606,
+    "rank": null,
+    "popularity": 4498,
+    "members": 4951,
+    "favorites": 9,
+    "synopsis": "Chris Watanabe is a high school teacher. When his father remarries, he finds himself with an English step-brother named Wataru. Wataru transfers to Chris' school, and just as the four of them are starting their new life together, their parents die in a plane crash. Now Chris and Wataru are living alone together. The elder is cute and the younger cool; what will their new life hold for them!?\n\n(Source: Solaris)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3240,
+            "type": "people",
+            "name": "Yamamoto, Kotetsuko",
+            "url": "https://myanimelist.net/people/3240/Kotetsuko_Yamamoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 159,
+            "type": "manga",
+            "name": "RuTile",
+            "url": "https://myanimelist.net/manga/magazine/159/RuTile"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 67891,
+                    "type": "manga",
+                    "name": "Brothers Plus",
+                    "url": "https://myanimelist.net/manga/67891/Brothers_Plus"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

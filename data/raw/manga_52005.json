@@ -1,0 +1,157 @@
+{
+    "mal_id": 52005,
+    "url": "https://myanimelist.net/manga/52005/Chiruran__Shinsengumi_Requiem",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/162944.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/162944t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/162944l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/162944.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/162944t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/162944l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Chiruran: Shinsengumi Requiem"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chiruran: Shinsengumi Chinkonka"
+        },
+        {
+            "type": "Japanese",
+            "title": "ちるらん 新撰組鎮魂歌〈レクイエム〉"
+        },
+        {
+            "type": "English",
+            "title": "The Shinsengumi"
+        }
+    ],
+    "title": "Chiruran: Shinsengumi Requiem",
+    "title_english": "The Shinsengumi",
+    "title_japanese": "ちるらん 新撰組鎮魂歌〈レクイエム〉",
+    "title_synonyms": [
+        "Chiruran: Shinsengumi Chinkonka"
+    ],
+    "type": "Manga",
+    "chapters": 165,
+    "volumes": 36,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-10-25T00:00:00+00:00",
+        "to": "2023-04-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 25,
+                "month": 4,
+                "year": 2023
+            }
+        },
+        "string": "Oct 25, 2010 to Apr 25, 2023"
+    },
+    "score": 7.11,
+    "scored": 7.11,
+    "scored_by": 433,
+    "rank": 7405,
+    "popularity": 7562,
+    "members": 2740,
+    "favorites": 19,
+    "synopsis": "In 1912, a young woman tracks down the elderly Nagakura Shinpachi, determined to hear the true story of the Demon of the Shinsengumi, the Vice Commander Hijikata Toshizou. Hijikata's story begins in 1859, when he is a violent young man that is honing his sword skills while peddling his family's medicine. Soon, in his quest to find stronger people to fight, Hijikata starts to come into contact with others who will eventually be his comrades in the Shinsengumi. The first one to make an impression on the brash young man is Kondo Isami, who proves to be a better fighter than Hijikata.\n\n(Source: MangaHelpers)",
+    "background": "Chiruran: Shinsengumi Requiem has been published digitally in English as The Shinsengumi through Mangamo.",
+    "authors": [
+        {
+            "mal_id": 9117,
+            "type": "people",
+            "name": "Hashimoto, Eiji",
+            "url": "https://myanimelist.net/people/9117/Eiji_Hashimoto"
+        },
+        {
+            "mal_id": 22491,
+            "type": "people",
+            "name": "Umemura, Shinya",
+            "url": "https://myanimelist.net/people/22491/Shinya_Umemura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 719,
+            "type": "manga",
+            "name": "Comic Zenon",
+            "url": "https://myanimelist.net/manga/magazine/719/Comic_Zenon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 34088,
+                    "type": "anime",
+                    "name": "Chiruran: Nibun no Ichi",
+                    "url": "https://myanimelist.net/anime/34088/Chiruran__Nibun_no_Ichi"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 110485,
+                    "type": "manga",
+                    "name": "Shuumatsu no Walküre",
+                    "url": "https://myanimelist.net/manga/110485/Shuumatsu_no_Walküre"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-zenon.com/episode/10834108156693612679"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%A1%E3%82%8B%E3%82%89%E3%82%93_%E6%96%B0%E6%92%B0%E7%B5%84%E9%8E%AE%E9%AD%82%E6%AD%8C"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chiruran:_Shinsengumi_Requiem"
+        }
+    ]
+}

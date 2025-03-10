@@ -1,0 +1,174 @@
+{
+    "mal_id": 7666,
+    "url": "https://myanimelist.net/manga/7666/Maou_Dante",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/10482.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/10482t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/10482l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/10482.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/10482t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/10482l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Maou Dante"
+        },
+        {
+            "type": "Synonym",
+            "title": "Demon Lord Dante"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔王ダンテ"
+        }
+    ],
+    "title": "Maou Dante",
+    "title_english": null,
+    "title_japanese": "魔王ダンテ",
+    "title_synonyms": [
+        "Demon Lord Dante"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1971-01-01T00:00:00+00:00",
+        "to": "1971-06-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1971
+            },
+            "to": {
+                "day": 1,
+                "month": 6,
+                "year": 1971
+            }
+        },
+        "string": "Jan 1, 1971 to Jun 1, 1971"
+    },
+    "score": 6.36,
+    "scored": 6.36,
+    "scored_by": 1006,
+    "rank": 17922,
+    "popularity": 8147,
+    "members": 2502,
+    "favorites": 6,
+    "synopsis": "The great demon Dante, exploiting the weakness of a boy exposed to his demoniac influence in the dreams, is awakened from a thousand years sleep.\n\nThe will of this being, a survivor of an ancient and forgotten civilization, is to wipe out the whole human race. Anyhow nothing is so simple: the motivations of the demon aren't so wicked as one could think and they will combine with the life of the boy which hangs between nightmare and craziness.\n\nIn the meanwhile the satanist will fight against the hierarchy of the church to obtain a justice which is, as it's easy to guess, that of the demon Maou.\n\nThis series didn't have an ending until it's remake in 2002. Nagai took many ideas from Maou Dante into Devilman.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2992,
+            "type": "people",
+            "name": "Nagai, Go",
+            "url": "https://myanimelist.net/people/2992/Go_Nagai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 468,
+            "type": "manga",
+            "name": "Bokura",
+            "url": "https://myanimelist.net/manga/magazine/468/Bokura"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1628,
+                    "type": "anime",
+                    "name": "Maou Dante",
+                    "url": "https://myanimelist.net/anime/1628/Maou_Dante"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 8782,
+                    "type": "manga",
+                    "name": "Maou Dante (2002)",
+                    "url": "https://myanimelist.net/manga/8782/Maou_Dante_2002"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 92838,
+                    "type": "manga",
+                    "name": "Maou Dante Tai Getter Robo G",
+                    "url": "https://myanimelist.net/manga/92838/Maou_Dante_Tai_Getter_Robo_G"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%AD%94%E7%8E%8B%E3%83%80%E3%83%B3%E3%83%86"
+        }
+    ]
+}

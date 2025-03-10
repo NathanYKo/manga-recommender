@@ -1,0 +1,123 @@
+{
+    "mal_id": 120250,
+    "url": "https://myanimelist.net/manga/120250/Ponkotsu_Ponko",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/220644.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/220644t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/220644l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/220644.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/220644t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/220644l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ponkotsu Ponko"
+        },
+        {
+            "type": "Synonym",
+            "title": "Useless Ponko"
+        },
+        {
+            "type": "Japanese",
+            "title": "ぽんこつポン子"
+        }
+    ],
+    "title": "Ponkotsu Ponko",
+    "title_english": null,
+    "title_japanese": "ぽんこつポン子",
+    "title_synonyms": [
+        "Useless Ponko"
+    ],
+    "type": "Manga",
+    "chapters": 79,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-03-25T00:00:00+00:00",
+        "to": "2021-05-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 3,
+                "year": 2019
+            },
+            "to": {
+                "day": 24,
+                "month": 5,
+                "year": 2021
+            }
+        },
+        "string": "Mar 25, 2019 to May 24, 2021"
+    },
+    "score": 8.13,
+    "scored": 8.13,
+    "scored_by": 3847,
+    "rank": 538,
+    "popularity": 1757,
+    "members": 12292,
+    "favorites": 264,
+    "synopsis": "The near future, in a quiet seaside town. Yoshioka, who had recently lost his wife, just wants to spend the rest of his days in peace. However, Yoshioka's children, worried about their father's health, sent a housekeeping robot to help him. Yoshioka's quiet life is now changing.\n\n(Source: Shogakukan, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 41977,
+            "type": "people",
+            "name": "Yatera, Keita",
+            "url": "https://myanimelist.net/people/41977/Keita_Yatera"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://bigcomicbros.net/comic/ponkotsuponko/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ponkotsu_Ponko"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%BD%E3%82%93%E3%81%93%E3%81%A4%E3%83%9D%E3%83%B3%E5%AD%90"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "mal_id": 130154,
+    "url": "https://myanimelist.net/manga/130154/Shuumatsu_Touring",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/244075.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/244075t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/244075l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/244075.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/244075t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/244075l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shuumatsu Touring"
+        },
+        {
+            "type": "Synonym",
+            "title": "World's End Touring"
+        },
+        {
+            "type": "Japanese",
+            "title": "終末ツーリング"
+        },
+        {
+            "type": "English",
+            "title": "Touring After the Apocalypse"
+        }
+    ],
+    "title": "Shuumatsu Touring",
+    "title_english": "Touring After the Apocalypse",
+    "title_japanese": "終末ツーリング",
+    "title_synonyms": [
+        "World's End Touring"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-09-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 9,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 26, 2020 to ?"
+    },
+    "score": 7.31,
+    "scored": 7.31,
+    "scored_by": 443,
+    "rank": 4755,
+    "popularity": 6533,
+    "members": 3251,
+    "favorites": 24,
+    "synopsis": "All alone after the end of days, two girls bike through the empty ruins of Japan—and they're not about to let the collapse of civilization get in the way of sightseeing! Even when the world ends, their journey goes on.\n\n(Source: Yen Press)",
+    "background": "Shuumatsu Touring has been published in English as Touring After the Apocalypse by Yen Press since November 22, 2022.",
+    "authors": [
+        {
+            "mal_id": 13737,
+            "type": "people",
+            "name": "Saitou, Sakae",
+            "url": "https://myanimelist.net/people/13737/Sakae_Saitou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 163,
+            "type": "manga",
+            "name": "Dengeki Maoh",
+            "url": "https://myanimelist.net/manga/magazine/163/Dengeki_Maoh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 61072,
+                    "type": "anime",
+                    "name": "Shuumatsu Touring",
+                    "url": "https://myanimelist.net/anime/61072/Shuumatsu_Touring"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-walker.com/contents/detail/KDCW_AM01201885010000_68/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Touring_After_the_Apocalypse"
+        }
+    ]
+}

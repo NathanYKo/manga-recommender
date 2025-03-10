@@ -1,0 +1,155 @@
+{
+    "mal_id": 39565,
+    "url": "https://myanimelist.net/manga/39565/OB",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/114943.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/114943t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/114943l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/114943.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/114943t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/114943l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "O.B."
+        },
+        {
+            "type": "Synonym",
+            "title": "Occupation to Beloved"
+        },
+        {
+            "type": "Japanese",
+            "title": "O.B."
+        },
+        {
+            "type": "English",
+            "title": "Classmates: O.B."
+        }
+    ],
+    "title": "O.B.",
+    "title_english": "Classmates: O.B.",
+    "title_japanese": "O.B.",
+    "title_synonyms": [
+        "Occupation to Beloved"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-04-27T00:00:00+00:00",
+        "to": "2013-12-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Apr 27, 2012 to Dec 27, 2013"
+    },
+    "score": 7.84,
+    "scored": 7.84,
+    "scored_by": 4270,
+    "rank": null,
+    "popularity": 2235,
+    "members": 9735,
+    "favorites": 59,
+    "synopsis": "Even with the distance between them, Hikaru Kusakabe and Rihito Sajou have not given up on their promise to each other. Each time Kusakabe visits Sajou, their bond is strengthened and they are reminded of the passion they share. But on those silent days without so much as a phone call, Sajou is focused on his studies and socializing with his new friends.\n\nWhen Kinosaki, Sajou's classmate, learns about Sajou's relationship with Kusakabe, it takes him by surprise. Despite wanting Sajou all for himself, he is supportive of the couple. However, Kinosaki might not be a threat to their relationship, as the sight of the warmth between the two men shows that the future they are about to face together is too special to ruin.\n\n[Written by MAL Rewrite]",
+    "background": "O.B. was published in English as Classmates: O.B. by Seven Seas Entertainment as a 2-in-1 omnibus volume on June 28, 2022; in Spanish by Ediciones Tomodomo since June 2017.",
+    "authors": [
+        {
+            "mal_id": 5583,
+            "type": "people",
+            "name": "Nakamura, Asumiko",
+            "url": "https://myanimelist.net/people/5583/Asumiko_Nakamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 394,
+            "type": "manga",
+            "name": "Opera",
+            "url": "https://myanimelist.net/manga/magazine/394/Opera"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 18200,
+                    "type": "manga",
+                    "name": "Sotsugyousei",
+                    "url": "https://myanimelist.net/manga/18200/Sotsugyousei"
+                },
+                {
+                    "mal_id": 19570,
+                    "type": "manga",
+                    "name": "Sora to Hara",
+                    "url": "https://myanimelist.net/manga/19570/Sora_to_Hara"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 98841,
+                    "type": "manga",
+                    "name": "Dousoukai",
+                    "url": "https://myanimelist.net/manga/98841/Dousoukai"
+                },
+                {
+                    "mal_id": 112988,
+                    "type": "manga",
+                    "name": "blanc",
+                    "url": "https://myanimelist.net/manga/112988/blanc"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

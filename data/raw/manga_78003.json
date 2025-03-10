@@ -1,0 +1,156 @@
+{
+    "mal_id": 78003,
+    "url": "https://myanimelist.net/manga/78003/Fairy_Tail",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/140795.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/140795t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/140795l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/140795.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/140795t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/140795l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fairy Tail"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail: Kokoro ni Yadoru Color"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail: The Color Residing Within The Heart"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail 2: Dai Matou Enbu Sonogo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sorezore no 1-nichi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail 2: After the Grand Magic Games"
+        },
+        {
+            "type": "Synonym",
+            "title": "Each Individual Day"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail 3: Trouble Twins"
+        },
+        {
+            "type": "Japanese",
+            "title": "FAIRY TAIL"
+        }
+    ],
+    "title": "Fairy Tail",
+    "title_english": null,
+    "title_japanese": "FAIRY TAIL",
+    "title_synonyms": [
+        "Fairy Tail: Kokoro ni Yadoru Color",
+        "Fairy Tail: The Color Residing Within The Heart",
+        "Fairy Tail 2: Dai Matou Enbu Sonogo",
+        "Sorezore no 1-nichi",
+        "Fairy Tail 2: After the Grand Magic Games",
+        "Each Individual Day",
+        "Fairy Tail 3: Trouble Twins"
+    ],
+    "type": "Light Novel",
+    "chapters": 29,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-05-02T00:00:00+00:00",
+        "to": "2016-03-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 5,
+                "year": 2012
+            },
+            "to": {
+                "day": 17,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "May 2, 2012 to Mar 17, 2016"
+    },
+    "score": 7.55,
+    "scored": 7.55,
+    "scored_by": 1355,
+    "rank": 2606,
+    "popularity": 4915,
+    "members": 4469,
+    "favorites": 450,
+    "synopsis": "Light novel side stories of the Fairy Tail series.\n\nVolume 1. Kokoro ni Yadoru Color (The Color Residing Within the Heart)\nVolume 2. Dai Matou Enbu Sonogo, Sorezore no 1-nichi (After the Grand Magic Games, Each Individual Day)\nVolume 3. Trouble Twins",
+    "background": "Fairy Tail has been licensed in Spanish by Norma Editorial.",
+    "authors": [
+        {
+            "mal_id": 1882,
+            "type": "people",
+            "name": "Mashima, Hiro",
+            "url": "https://myanimelist.net/people/1882/Hiro_Mashima"
+        },
+        {
+            "mal_id": 1954,
+            "type": "people",
+            "name": "Kawasaki, Miu",
+            "url": "https://myanimelist.net/people/1954/Miu_Kawasaki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 598,
+                    "type": "manga",
+                    "name": "Fairy Tail",
+                    "url": "https://myanimelist.net/manga/598/Fairy_Tail"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

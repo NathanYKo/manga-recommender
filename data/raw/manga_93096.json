@@ -1,0 +1,110 @@
+{
+    "mal_id": 93096,
+    "url": "https://myanimelist.net/manga/93096/Bungo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/164285.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/164285t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/164285l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/164285.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/164285t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/164285l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bungo"
+        },
+        {
+            "type": "Japanese",
+            "title": "BUNGO"
+        }
+    ],
+    "title": "Bungo",
+    "title_english": null,
+    "title_japanese": "BUNGO",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-12-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 12,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 18, 2014 to ?"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 973,
+    "rank": 3375,
+    "popularity": 7020,
+    "members": 2993,
+    "favorites": 51,
+    "synopsis": "In a town with no baseball team, young Bungo spends his days throwing the ball he received as a gift against a wall until Yukio Noda, Japanese representative youth baseball player, appears before him and an unexpected showdown ensues! After a chance meeting in middle school, these two enroll in Shizuo Senior where they struggle to make it to Koushien with everything they have.\n\n(Source: Shueisha, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 39139,
+            "type": "people",
+            "name": "Ninomiya, Yuuji",
+            "url": "https://myanimelist.net/people/39139/Yuuji_Ninomiya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://youngjump.jp/manga/bungo/"
+        }
+    ]
+}

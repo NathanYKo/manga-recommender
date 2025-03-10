@@ -1,0 +1,160 @@
+{
+    "mal_id": 691,
+    "url": "https://myanimelist.net/manga/691/Boogiepop_wa_Warawanai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/215763.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/215763t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/215763l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/215763.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/215763t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/215763l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boogiepop wa Warawanai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Boogiepop Never Laughs"
+        },
+        {
+            "type": "Synonym",
+            "title": "Boogiepop and Others"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブギーポップは笑わない"
+        },
+        {
+            "type": "English",
+            "title": "Boogiepop Doesn't Laugh"
+        }
+    ],
+    "title": "Boogiepop wa Warawanai",
+    "title_english": "Boogiepop Doesn't Laugh",
+    "title_japanese": "ブギーポップは笑わない",
+    "title_synonyms": [
+        "Boogiepop Never Laughs",
+        "Boogiepop and Others"
+    ],
+    "type": "Manga",
+    "chapters": 22,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-08-07T00:00:00+00:00",
+        "to": "2002-06-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 8,
+                "year": 1999
+            },
+            "to": {
+                "day": 18,
+                "month": 6,
+                "year": 2002
+            }
+        },
+        "string": "Aug 7, 1999 to Jun 18, 2002"
+    },
+    "score": 7.08,
+    "scored": 7.08,
+    "scored_by": 1032,
+    "rank": 7809,
+    "popularity": 6462,
+    "members": 3297,
+    "favorites": 30,
+    "synopsis": "The story takes place in an unnamed Japanese city, and follows five students at Shinyo Academy as they try to piece together the puzzle of a new drug and recent disappearances among the student populace. While the teachers believe them to only be runaways, the female students whisper among themselves about the urban legend Boogiepop, who is said to be a shinigami.\n\n(Source: Wikipedia)",
+    "background": "Boogiepop wa Warawanai was published in English as Boogiepop Doesn't Laugh by Seven Seas Entertainment on April 26 and July 15, 2006, respectively. The series was released digitally by the same publisher on October 25, 2017.",
+    "authors": [
+        {
+            "mal_id": 2933,
+            "type": "people",
+            "name": "Kadono, Kouhei",
+            "url": "https://myanimelist.net/people/2933/Kouhei_Kadono"
+        },
+        {
+            "mal_id": 2940,
+            "type": "people",
+            "name": "Ogata, Kouji",
+            "url": "https://myanimelist.net/people/2940/Kouji_Ogata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1304,
+            "type": "manga",
+            "name": "Dengeki hp",
+            "url": "https://myanimelist.net/manga/magazine/1304/Dengeki_hp"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1315,
+                    "type": "manga",
+                    "name": "Boogiepop Series",
+                    "url": "https://myanimelist.net/manga/1315/Boogiepop_Series"
+                },
+                {
+                    "mal_id": 369,
+                    "type": "anime",
+                    "name": "Boogiepop wa Warawanai",
+                    "url": "https://myanimelist.net/anime/369/Boogiepop_wa_Warawanai"
+                },
+                {
+                    "mal_id": 37451,
+                    "type": "anime",
+                    "name": "Boogiepop wa Warawanai (2019)",
+                    "url": "https://myanimelist.net/anime/37451/Boogiepop_wa_Warawanai_2019"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%AE%E3%83%BC%E3%83%9D%E3%83%83%E3%83%97%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+        }
+    ]
+}

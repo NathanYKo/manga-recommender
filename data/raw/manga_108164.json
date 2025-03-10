@@ -1,0 +1,130 @@
+{
+    "mal_id": 108164,
+    "url": "https://myanimelist.net/manga/108164/Argate_Online",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/211413.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/211413t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/211413l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/211413.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/211413t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/211413l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Argate Online"
+        },
+        {
+            "type": "Japanese",
+            "title": "アルゲートオンライン"
+        },
+        {
+            "type": "English",
+            "title": "Argate Online"
+        }
+    ],
+    "title": "Argate Online",
+    "title_english": "Argate Online",
+    "title_japanese": "アルゲートオンライン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-07-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 4, 2017 to ?"
+    },
+    "score": 6.38,
+    "scored": 6.38,
+    "scored_by": 1415,
+    "rank": 17850,
+    "popularity": 4576,
+    "members": 4844,
+    "favorites": 6,
+    "synopsis": "Izu Takashi was just playing the online game \"Argate Online\" as usual, but he suddenly noticed something strange, his level is now 1!? Also, he can not log out and the pain control function does not work anymore... It seems like he wandered into another world-like game that became a reality...\n\n(Source: MU)",
+    "background": "Argate Online has been published digitally in English by AlphaPolis through Alpha Manga. The volumes have also been published digitally by AlphaPolis since November 30, 2023.",
+    "authors": [
+        {
+            "mal_id": 3169,
+            "type": "people",
+            "name": "Rei",
+            "url": "https://myanimelist.net/people/3169/Rei"
+        },
+        {
+            "mal_id": 46192,
+            "type": "people",
+            "name": "Touno, Tsumugu",
+            "url": "https://myanimelist.net/people/46192/Tsumugu_Touno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 150,
+            "type": "manga",
+            "name": "AlphaPolis",
+            "url": "https://myanimelist.net/manga/magazine/150/AlphaPolis"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 108165,
+                    "type": "manga",
+                    "name": "Argate Online",
+                    "url": "https://myanimelist.net/manga/108165/Argate_Online"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.alphapolis.co.jp/manga/official/230000179"
+        }
+    ]
+}

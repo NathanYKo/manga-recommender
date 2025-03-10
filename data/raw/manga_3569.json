@@ -1,0 +1,127 @@
+{
+    "mal_id": 3569,
+    "url": "https://myanimelist.net/manga/3569/Gin_to_Kin",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/229454.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/229454t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/229454l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/229454.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/229454t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/229454l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gin to Kin"
+        },
+        {
+            "type": "Synonym",
+            "title": "Silver and Gold"
+        },
+        {
+            "type": "Japanese",
+            "title": "銀と金"
+        }
+    ],
+    "title": "Gin to Kin",
+    "title_english": null,
+    "title_japanese": "銀と金",
+    "title_synonyms": [
+        "Silver and Gold"
+    ],
+    "type": "Manga",
+    "chapters": 108,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1992-01-01T00:00:00+00:00",
+        "to": "1996-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1992
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1996
+            }
+        },
+        "string": "1992 to 1996"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 1345,
+    "rank": 2414,
+    "popularity": 6224,
+    "members": 3439,
+    "favorites": 48,
+    "synopsis": "Tetsuo Morita's life changes when he meets Ginji Hirai, who works in the unknown and mysterious \"back world\" of society that is full of villains.",
+    "background": "According to Shuho Sato, who was an assistant to Nobuyuki Fukumoto at the time, Gin to Kin finished its serialization due to the serialization of Tobaku Mokushiroku Kaiji, which Fukumoto also authored. The series was adapted into seven direct-to-video films released from 1993 to 1997 and a TV series that aired from January 7, 2017, to March 25, 2017.",
+    "authors": [
+        {
+            "mal_id": 2539,
+            "type": "people",
+            "name": "Fukumoto, Nobuyuki",
+            "url": "https://myanimelist.net/people/2539/Nobuyuki_Fukumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 514,
+            "type": "manga",
+            "name": "Action Pizazz",
+            "url": "https://myanimelist.net/manga/magazine/514/Action_Pizazz"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 59,
+            "type": "manga",
+            "name": "High Stakes Game",
+            "url": "https://myanimelist.net/manga/genre/59/High_Stakes_Game"
+        },
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 112780,
+                    "type": "manga",
+                    "name": "Fukumoto All Stars",
+                    "url": "https://myanimelist.net/manga/112780/Fukumoto_All_Stars"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%8A%80%E3%81%A8%E9%87%91#.E6.A6.82.E8.A6.81"
+        }
+    ]
+}

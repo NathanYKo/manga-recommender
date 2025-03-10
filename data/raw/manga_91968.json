@@ -1,0 +1,115 @@
+{
+    "mal_id": 91968,
+    "url": "https://myanimelist.net/manga/91968/Itou-san",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/161767.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/161767t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/161767l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/161767.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/161767t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/161767l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Itou-san"
+        },
+        {
+            "type": "Synonym",
+            "title": "Cage"
+        },
+        {
+            "type": "Japanese",
+            "title": "イトウさん"
+        }
+    ],
+    "title": "Itou-san",
+    "title_english": null,
+    "title_japanese": "イトウさん",
+    "title_synonyms": [
+        "Cage"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-04-26T00:00:00+00:00",
+        "to": "2015-04-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 4,
+                "year": 2015
+            }
+        },
+        "string": "Apr 26, 2014 to Apr 28, 2015"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 2256,
+    "rank": null,
+    "popularity": 5057,
+    "members": 4336,
+    "favorites": 59,
+    "synopsis": "Every Tuesday night, a mysterious man named \"Itou\" visits Kyosuke, who is a prostitute, and talks to him about silly things until dawn. One day, he brings a briefcase full of money and tries to give it to Kyosuke, telling him that he wants him to quit his job and do something he truly wants to do, however...\n\n(Source: Cocobees)\n\nIncluded one-shot: Cage",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4196,
+            "type": "people",
+            "name": "Kuraka, Sui",
+            "url": "https://myanimelist.net/people/4196/Sui_Kuraka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 394,
+            "type": "manga",
+            "name": "Opera",
+            "url": "https://myanimelist.net/manga/magazine/394/Opera"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 111546,
+                    "type": "manga",
+                    "name": "I: Itou-san 2",
+                    "url": "https://myanimelist.net/manga/111546/I__Itou-san_2"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

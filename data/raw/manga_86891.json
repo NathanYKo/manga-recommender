@@ -1,0 +1,120 @@
+{
+    "mal_id": 86891,
+    "url": "https://myanimelist.net/manga/86891/Panlong",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/194454.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/194454t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/194454l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/194454.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/194454t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/194454l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Panlong"
+        },
+        {
+            "type": "Synonym",
+            "title": "Coiling Dragon"
+        },
+        {
+            "type": "Japanese",
+            "title": "盘龙"
+        }
+    ],
+    "title": "Panlong",
+    "title_english": null,
+    "title_japanese": "盘龙",
+    "title_synonyms": [
+        "Coiling Dragon"
+    ],
+    "type": "Manhua",
+    "chapters": 181,
+    "volumes": 20,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-07-01T00:00:00+00:00",
+        "to": "2016-11-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 10,
+                "month": 11,
+                "year": 2016
+            }
+        },
+        "string": "Jul 1, 2013 to Nov 10, 2016"
+    },
+    "score": 7.2,
+    "scored": 7.2,
+    "scored_by": 5691,
+    "rank": 6157,
+    "popularity": 1532,
+    "members": 13934,
+    "favorites": 158,
+    "synopsis": "Linley is a young noble of a declining, once-powerful clan which once dominated the world. He has large aspirations and wants to save his clan. Linley's journey begins with an accident when he discovers a ring. He takes a liking to this ring, which has a carved dragon, coiling around it. Upon being injured during a battle between two powerful fighters, he discovers that his ring is not what he thought it was and possesses powers beyond his imagination.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 37088,
+            "type": "people",
+            "name": "Wo Chi Xihong Shi",
+            "url": "https://myanimelist.net/people/37088/Wo_Chi_Xihong_Shi"
+        },
+        {
+            "mal_id": 37089,
+            "type": "people",
+            "name": "Tong Yi Ming",
+            "url": "https://myanimelist.net/people/37089/Tong_Yi_Ming"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 169882,
+                    "type": "manga",
+                    "name": "Panlong",
+                    "url": "https://myanimelist.net/manga/169882/Panlong"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

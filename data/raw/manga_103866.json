@@ -1,0 +1,158 @@
+{
+    "mal_id": 103866,
+    "url": "https://myanimelist.net/manga/103866/Eiyuu_Kyoushitsu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/265226.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/265226t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/265226l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/265226.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/265226t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/265226l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Eiyuu Kyoushitsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Class Room✿For Heroes"
+        },
+        {
+            "type": "Japanese",
+            "title": "英雄教室"
+        },
+        {
+            "type": "English",
+            "title": "Hero Classroom"
+        }
+    ],
+    "title": "Eiyuu Kyoushitsu",
+    "title_english": "Hero Classroom",
+    "title_japanese": "英雄教室",
+    "title_synonyms": [
+        "Class Room✿For Heroes"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-09-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 9,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 12, 2016 to ?"
+    },
+    "score": 6.45,
+    "scored": 6.45,
+    "scored_by": 2007,
+    "rank": 17181,
+    "popularity": 2614,
+    "members": 8480,
+    "favorites": 45,
+    "synopsis": "Long ago, a powerful demon lord ruled over the people until an equally powerful hero rose up to defeat him. To counter future threats, Rosewood Academy, a school for heroes-in-training, was created. Today, Rosewood Academy enrolls only the best of the best, and Arnest Flaming is the best of them all. The top student in the school, a dutiful girl nicknamed \"Empress of Flame,\" she has an irritating encounter with a light-hearted boy in the school hallway one day who seems to equal her powers, though she's never seen him before. He introduces himself only as Blade, and Arnest soon finds out not only is he transferring into the school as a new student, but she is personally requested by the King to help him settle in to daily life in Rosewood Academy.\n\n(Source: MU)",
+    "background": "Eiyuu Kyoushitsu has been published digitally in English as Hero Classroom through Comikey since June 17, 2022, and by Square Enix through Manga UP!",
+    "authors": [
+        {
+            "mal_id": 18295,
+            "type": "people",
+            "name": "Araki, Shin",
+            "url": "https://myanimelist.net/people/18295/Shin_Araki"
+        },
+        {
+            "mal_id": 43492,
+            "type": "people",
+            "name": "Kishida, Koara",
+            "url": "https://myanimelist.net/people/43492/Koara_Kishida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Shounen Gangan",
+            "url": "https://myanimelist.net/manga/magazine/13/Shounen_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 83875,
+                    "type": "manga",
+                    "name": "Eiyuu Kyoushitsu",
+                    "url": "https://myanimelist.net/manga/83875/Eiyuu_Kyoushitsu"
+                },
+                {
+                    "mal_id": 49894,
+                    "type": "anime",
+                    "name": "Eiyuu Kyoushitsu",
+                    "url": "https://myanimelist.net/anime/49894/Eiyuu_Kyoushitsu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://gangan.square-enix.co.jp/introduction/eiyukyoushitsu/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hero_Classroom"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/英雄教室"
+        }
+    ]
+}

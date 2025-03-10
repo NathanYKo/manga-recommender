@@ -1,0 +1,165 @@
+{
+    "mal_id": 1397,
+    "url": "https://myanimelist.net/manga/1397/Chis_Sweet_Home",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/131453.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/131453t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/131453l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/131453.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/131453t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/131453l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Chi's Sweet Home"
+        },
+        {
+            "type": "Japanese",
+            "title": "チーズスイートホーム"
+        },
+        {
+            "type": "English",
+            "title": "Chi's Sweet Home"
+        }
+    ],
+    "title": "Chi's Sweet Home",
+    "title_english": "Chi's Sweet Home",
+    "title_japanese": "チーズスイートホーム",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 219,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-01-08T00:00:00+00:00",
+        "to": "2015-06-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": 18,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Jan 8, 2004 to Jun 18, 2015"
+    },
+    "score": 7.82,
+    "scored": 7.82,
+    "scored_by": 5428,
+    "rank": 1261,
+    "popularity": 1598,
+    "members": 13504,
+    "favorites": 386,
+    "synopsis": "Chi is a lost kitten that is surprised to be picked up by a small family. Suddenly, she finds herself in a strange new environment full of frightening things like baths and big dogs! In these short, full-color comics, see the world from the point of view of an adorable kitten.",
+    "background": "Chi's Sweet Home was published in English by Vertical Inc. from June 29, 2010 to October 27, 2015. 3-in-1 omnibuses titled The Complete Chi's Sweet Home were published under the Vertical Comics imprint from July 28, 2015 to December 20, 2016.",
+    "authors": [
+        {
+            "mal_id": 2890,
+            "type": "people",
+            "name": "Konami, Kanata",
+            "url": "https://myanimelist.net/people/2890/Kanata_Konami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Morning",
+            "url": "https://myanimelist.net/manga/magazine/72/Morning"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Pets",
+            "url": "https://myanimelist.net/manga/genre/72/Pets"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3841,
+                    "type": "anime",
+                    "name": "Chi's Sweet Home",
+                    "url": "https://myanimelist.net/anime/3841/Chis_Sweet_Home"
+                },
+                {
+                    "mal_id": 6024,
+                    "type": "anime",
+                    "name": "Chi's Sweet Home: Atarashii Ouchi",
+                    "url": "https://myanimelist.net/anime/6024/Chis_Sweet_Home__Atarashii_Ouchi"
+                },
+                {
+                    "mal_id": 7972,
+                    "type": "anime",
+                    "name": "Chi's Sweet Home: Chi to Kocchi, Deau.",
+                    "url": "https://myanimelist.net/anime/7972/Chis_Sweet_Home__Chi_to_Kocchi_Deau"
+                },
+                {
+                    "mal_id": 33240,
+                    "type": "anime",
+                    "name": "Koneko no Chi: Ponponra Daibouken",
+                    "url": "https://myanimelist.net/anime/33240/Koneko_no_Chi__Ponponra_Daibouken"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 114073,
+                    "type": "manga",
+                    "name": "Kyou no Koneko no Chi",
+                    "url": "https://myanimelist.net/manga/114073/Kyou_no_Koneko_no_Chi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/chis-sweet-home/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%A0"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "mal_id": 1229,
+    "url": "https://myanimelist.net/manga/1229/Short_Cuts",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/965.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/965t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/965l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/965.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/965t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/965l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Short Cuts"
+        },
+        {
+            "type": "Japanese",
+            "title": "ショートカッツ"
+        },
+        {
+            "type": "English",
+            "title": "Short Cuts"
+        }
+    ],
+    "title": "Short Cuts",
+    "title_english": "Short Cuts",
+    "title_japanese": "ショートカッツ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-10-03T00:00:00+00:00",
+        "to": "1999-02-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 1996
+            },
+            "to": {
+                "day": 18,
+                "month": 2,
+                "year": 1999
+            }
+        },
+        "string": "Oct 3, 1996 to Feb 18, 1999"
+    },
+    "score": 7.14,
+    "scored": 7.14,
+    "scored_by": 1168,
+    "rank": 6882,
+    "popularity": 6374,
+    "members": 3349,
+    "favorites": 44,
+    "synopsis": "Short Cuts is a manga series by Usamaru Furuya, released in two volumes and originally published in Young Sunday magazine. Each volume contains approximately one hundred 'cuts', short comics which typically span only one or two pages. The primary theme of Short Cuts is Japanese kogal and youth culture, which is tackled with a heavy use of visual jokes, black humor and sex comedy.",
+    "background": "Short Cuts was serialized in English in VIZ Media's monthly manga anthology magazine Pulp: Manga for Grownups. The publisher released the volumes from July 8, 2002, to August 6, 2003.",
+    "authors": [
+        {
+            "mal_id": 1919,
+            "type": "people",
+            "name": "Furuya, Usamaru",
+            "url": "https://myanimelist.net/people/1919/Usamaru_Furuya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 89,
+            "type": "manga",
+            "name": "Young Sunday (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/89/Young_Sunday_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Short_Cuts_%28manga%29"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "mal_id": 57249,
+    "url": "https://myanimelist.net/manga/57249/Rengoku_ni_Warau",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/124315.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/124315t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/124315l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/124315.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/124315t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/124315l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rengoku ni Warau"
+        },
+        {
+            "type": "Synonym",
+            "title": "Laugh at Purgatory"
+        },
+        {
+            "type": "Japanese",
+            "title": "煉獄に笑う"
+        }
+    ],
+    "title": "Rengoku ni Warau",
+    "title_english": null,
+    "title_japanese": "煉獄に笑う",
+    "title_synonyms": [
+        "Laugh at Purgatory"
+    ],
+    "type": "Manga",
+    "chapters": 86,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-12-24T00:00:00+00:00",
+        "to": "2022-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 12,
+                "year": 2013
+            },
+            "to": {
+                "day": 5,
+                "month": 4,
+                "year": 2022
+            }
+        },
+        "string": "Dec 24, 2013 to Apr 5, 2022"
+    },
+    "score": 7.86,
+    "scored": 7.86,
+    "scored_by": 726,
+    "rank": 1103,
+    "popularity": 4130,
+    "members": 5450,
+    "favorites": 64,
+    "synopsis": "Set 300 years after Utakata ni Warau, and 300 years before Donten ni Warau, during the turbulent Sengoku period, it is the story of a young man named Ishida Sakichi, whose mission leads him to encounter a pair of mysterious twins at the Kumo Shrine.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 8262,
+            "type": "people",
+            "name": "Karakara, Kemuri",
+            "url": "https://myanimelist.net/people/8262/Kemuri_Karakara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1217,
+            "type": "manga",
+            "name": "Comic Garden",
+            "url": "https://myanimelist.net/manga/magazine/1217/Comic_Garden"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 119886,
+                    "type": "manga",
+                    "name": "Utakata ni Warau",
+                    "url": "https://myanimelist.net/manga/119886/Utakata_ni_Warau"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 26178,
+                    "type": "manga",
+                    "name": "Donten ni Warau",
+                    "url": "https://myanimelist.net/manga/26178/Donten_ni_Warau"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/曇天に笑う"
+        }
+    ]
+}

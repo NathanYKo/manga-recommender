@@ -1,0 +1,120 @@
+{
+    "mal_id": 54697,
+    "url": "https://myanimelist.net/manga/54697/Fairy_Tail__Houou_no_Miko_-_Hajimari_no_Asa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/97209.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/97209t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/97209l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/97209.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/97209t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/97209l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fairy Tail: Houou no Miko - Hajimari no Asa"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail The Movie: Priestess Of The Phoenix - The Sunrise"
+        },
+        {
+            "type": "Japanese",
+            "title": "劇場版 FAIRY TAIL 序章 「はじまりの朝」"
+        }
+    ],
+    "title": "Fairy Tail: Houou no Miko - Hajimari no Asa",
+    "title_english": null,
+    "title_japanese": "劇場版 FAIRY TAIL 序章 「はじまりの朝」",
+    "title_synonyms": [
+        "Fairy Tail The Movie: Priestess Of The Phoenix - The Sunrise"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-08-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 8,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 18, 2012"
+    },
+    "score": 7.01,
+    "scored": 7.01,
+    "scored_by": 1983,
+    "rank": 8804,
+    "popularity": 4714,
+    "members": 4683,
+    "favorites": 19,
+    "synopsis": "Fairy Tail: Houou no Miko - Hajimari no Asa is a special prologue chapter to Fairy Tail Movie 1: Houou no Miko, introducing Éclair and depicting the accidental creation of her best friend, Momon, while also showing the start of their journey across Fiore. \n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1882,
+            "type": "people",
+            "name": "Mashima, Hiro",
+            "url": "https://myanimelist.net/people/1882/Hiro_Mashima"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 17535,
+                    "type": "anime",
+                    "name": "Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa",
+                    "url": "https://myanimelist.net/anime/17535/Fairy_Tail_Movie_1__Houou_no_Miko_-_Hajimari_no_Asa"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 598,
+                    "type": "manga",
+                    "name": "Fairy Tail",
+                    "url": "https://myanimelist.net/manga/598/Fairy_Tail"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

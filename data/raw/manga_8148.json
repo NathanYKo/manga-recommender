@@ -1,0 +1,132 @@
+{
+    "mal_id": 8148,
+    "url": "https://myanimelist.net/manga/8148/Boku_to_Issho",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/197265.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/197265t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/197265l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/197265.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/197265t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/197265l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boku to Issho"
+        },
+        {
+            "type": "Synonym",
+            "title": "Together with Me"
+        },
+        {
+            "type": "Japanese",
+            "title": "僕といっしょ"
+        }
+    ],
+    "title": "Boku to Issho",
+    "title_english": null,
+    "title_japanese": "僕といっしょ",
+    "title_synonyms": [
+        "Together with Me"
+    ],
+    "type": "Manga",
+    "chapters": 49,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-08-04T00:00:00+00:00",
+        "to": "1999-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 8,
+                "year": 1997
+            },
+            "to": {
+                "day": 5,
+                "month": 10,
+                "year": 1999
+            }
+        },
+        "string": "Aug 4, 1997 to Oct 5, 1999"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 938,
+    "rank": 4237,
+    "popularity": 6958,
+    "members": 3028,
+    "favorites": 62,
+    "synopsis": "A story about two kids who go to Tokyo after their mother died and their father-in-law kicked them out of the house. In Tokyo they meet up with a fellow orphan named Shigeru Itou. Thus begins their cynical tale of laughter and depression.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3466,
+            "type": "people",
+            "name": "Furuya, Minoru",
+            "url": "https://myanimelist.net/people/3466/Minoru_Furuya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Summary",
+            "entry": [
+                {
+                    "mal_id": 12161,
+                    "type": "manga",
+                    "name": "Super Remix Best",
+                    "url": "https://myanimelist.net/manga/12161/Super_Remix_Best"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 14631,
+                    "type": "manga",
+                    "name": "Green Hill",
+                    "url": "https://myanimelist.net/manga/14631/Green_Hill"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87"
+        }
+    ]
+}

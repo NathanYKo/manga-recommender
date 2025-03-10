@@ -1,0 +1,120 @@
+{
+    "mal_id": 109181,
+    "url": "https://myanimelist.net/manga/109181/Magicraft_Meister",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/206020.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/206020t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/206020l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/206020.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/206020t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/206020l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Magicraft Meister"
+        },
+        {
+            "type": "Japanese",
+            "title": "マギクラフト・マイスター"
+        }
+    ],
+    "title": "Magicraft Meister",
+    "title_english": null,
+    "title_japanese": "マギクラフト・マイスター",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-08-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 8,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 21, 2017 to ?"
+    },
+    "score": 6.41,
+    "scored": 6.41,
+    "scored_by": 1886,
+    "rank": 17564,
+    "popularity": 3137,
+    "members": 7168,
+    "favorites": 6,
+    "synopsis": "There is only one Magicraft Meister in the world. After the death of the last Meister over one thousand years ago, Jin Nidou was transported to another world in order to succeed her will. After obtaining the knowledge of the Magicraft Meister, Jin attempts to use a warp gate but it malfunctions, transporting him to an unknown world. Along with that, an automata he recently restored also uses the warp gate in order to search for her \"father.\"\n\nThus, the crafting journey of the new Magicraft Meister begins!",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 28391,
+            "type": "people",
+            "name": "Akigitsune",
+            "url": "https://myanimelist.net/people/28391/Akigitsune"
+        },
+        {
+            "mal_id": 46553,
+            "type": "people",
+            "name": "Kisa, Kazuyuki",
+            "url": "https://myanimelist.net/people/46553/Kazuyuki_Kisa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1159,
+            "type": "manga",
+            "name": "ComicWalker",
+            "url": "https://myanimelist.net/manga/magazine/1159/ComicWalker"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 65011,
+                    "type": "manga",
+                    "name": "Magicraft Meister",
+                    "url": "https://myanimelist.net/manga/65011/Magicraft_Meister"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic-walker.com/contents/detail/KDCW_MF00000049010000_68/"
+        }
+    ]
+}

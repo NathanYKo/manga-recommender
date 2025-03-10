@@ -1,0 +1,162 @@
+{
+    "mal_id": 58391,
+    "url": "https://myanimelist.net/manga/58391/Kill_la_Kill",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/108467.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/108467t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/108467l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/108467.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/108467t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/108467l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kill la Kill"
+        },
+        {
+            "type": "Synonym",
+            "title": "KLK"
+        },
+        {
+            "type": "Japanese",
+            "title": "キルラキル"
+        },
+        {
+            "type": "English",
+            "title": "KILL la KILL"
+        }
+    ],
+    "title": "Kill la Kill",
+    "title_english": "KILL la KILL",
+    "title_japanese": "キルラキル",
+    "title_synonyms": [
+        "KLK"
+    ],
+    "type": "Manga",
+    "chapters": 17,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-10-04T00:00:00+00:00",
+        "to": "2015-02-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 4,
+                "month": 2,
+                "year": 2015
+            }
+        },
+        "string": "Oct 4, 2013 to Feb 4, 2015"
+    },
+    "score": 6.79,
+    "scored": 6.79,
+    "scored_by": 6693,
+    "rank": 12351,
+    "popularity": 1294,
+    "members": 15961,
+    "favorites": 296,
+    "synopsis": "The story centers around two fiercely fighting schoolgirls, Ryuuko Matoi and Satsuki Kiryuuin. On a campus ruled by force, a transfer student wielding a Basami sword brings about upheaval.\n\n(Source: ANN)",
+    "background": "Kill la Kill was published in English by Udon Entertainment from October 15, 2015, to September 20, 2016. It was also released in Spanish by Editorial Ivrea from December 18, 2015, to February 19, 2016; and in Brazilian Portuguese by Editora JBC from July 2015 to September 2015.",
+    "authors": [
+        {
+            "mal_id": 2180,
+            "type": "people",
+            "name": "Akizuki, Ryou",
+            "url": "https://myanimelist.net/people/2180/Ryou_Akizuki"
+        },
+        {
+            "mal_id": 3328,
+            "type": "people",
+            "name": "Nakashima, Kazuki",
+            "url": "https://myanimelist.net/people/3328/Kazuki_Nakashima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 403,
+            "type": "manga",
+            "name": "Young Ace",
+            "url": "https://myanimelist.net/manga/magazine/403/Young_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 18679,
+                    "type": "anime",
+                    "name": "Kill la Kill",
+                    "url": "https://myanimelist.net/anime/18679/Kill_la_Kill"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB"
+        }
+    ]
+}

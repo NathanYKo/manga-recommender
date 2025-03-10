@@ -1,0 +1,133 @@
+{
+    "mal_id": 1848,
+    "url": "https://myanimelist.net/manga/1848/Deep_Love__Host",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/1995.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/1995t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/1995l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/1995.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/1995t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/1995l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Deep Love: Host"
+        },
+        {
+            "type": "Japanese",
+            "title": "Deep Love ホスト"
+        }
+    ],
+    "title": "Deep Love: Host",
+    "title_english": null,
+    "title_japanese": "Deep Love ホスト",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2005"
+    },
+    "score": 7.59,
+    "scored": 7.59,
+    "scored_by": 3953,
+    "rank": 2371,
+    "popularity": 3340,
+    "members": 6715,
+    "favorites": 23,
+    "synopsis": "The continuation from Deep Love: Ayu no Monogatari. This revolves around Yoshiyuki, the lad who was in need of heart surgery in Ayu's Story. After Ayu's death, it seems that Yoshiyuki wants to learn anything, everything. And thus he tries out for a job as a host and says that he's willing to sell his body...",
+    "background": "Deep Love: Host was adapted into a live-action drama series in 2005 by TV Tokyo.",
+    "authors": [
+        {
+            "mal_id": 2083,
+            "type": "people",
+            "name": "Yoshi",
+            "url": "https://myanimelist.net/people/2083/Yoshi"
+        },
+        {
+            "mal_id": 8642,
+            "type": "people",
+            "name": "Yoshii, Yuu",
+            "url": "https://myanimelist.net/people/8642/Yuu_Yoshii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1250,
+                    "type": "manga",
+                    "name": "Deep Love: Ayu no Monogatari",
+                    "url": "https://myanimelist.net/manga/1250/Deep_Love__Ayu_no_Monogatari"
+                },
+                {
+                    "mal_id": 3961,
+                    "type": "manga",
+                    "name": "Deep Love: Real",
+                    "url": "https://myanimelist.net/manga/3961/Deep_Love__Real"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 1975,
+                    "type": "manga",
+                    "name": "Deep Love: Reina no Unmei",
+                    "url": "https://myanimelist.net/manga/1975/Deep_Love__Reina_no_Unmei"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

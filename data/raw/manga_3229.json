@@ -1,0 +1,101 @@
+{
+    "mal_id": 3229,
+    "url": "https://myanimelist.net/manga/3229/Paranoia_Star",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/34371.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/34371t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/34371l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/34371.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/34371t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/34371l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Paranoia Star"
+        },
+        {
+            "type": "Synonym",
+            "title": "パラノイア・スター"
+        },
+        {
+            "type": "Japanese",
+            "title": "パラノイア・スター"
+        },
+        {
+            "type": "English",
+            "title": "Paranoia Star"
+        }
+    ],
+    "title": "Paranoia Star",
+    "title_english": "Paranoia Star",
+    "title_japanese": "パラノイア・スター",
+    "title_synonyms": [
+        "パラノイア・スター"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1986-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1986
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 1, 1986 to ?"
+    },
+    "score": 6.2,
+    "scored": 6.2,
+    "scored_by": 1426,
+    "rank": 19040,
+    "popularity": 5065,
+    "members": 4328,
+    "favorites": 32,
+    "synopsis": "Collection of short stories by Maruo.\n\nIt's almost impossible to summarize them, most of them aren't really plot driven but they deal with abnormal states of the mind and are permeated by a general surrealism.\n\nAs in many of this works, he shows references to the art and culture of 1920s and 1930s Japan and Germany which had inspired his own artistic style.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2764,
+            "type": "people",
+            "name": "Maruo, Suehiro",
+            "url": "https://myanimelist.net/people/2764/Suehiro_Maruo"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

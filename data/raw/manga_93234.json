@@ -1,0 +1,161 @@
+{
+    "mal_id": 93234,
+    "url": "https://myanimelist.net/manga/93234/Mahouka_Koukou_no_Rettousei__Raihousha-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/180909.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/180909t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/180909l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/180909.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/180909t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/180909l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mahouka Koukou no Rettousei: Raihousha-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Irregular At Magic High School: Visitor Arc"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔法科高校の劣等生 来訪者編"
+        }
+    ],
+    "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
+    "title_english": null,
+    "title_japanese": "魔法科高校の劣等生 来訪者編",
+    "title_synonyms": [
+        "The Irregular At Magic High School: Visitor Arc"
+    ],
+    "type": "Manga",
+    "chapters": 44,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-12-18T00:00:00+00:00",
+        "to": "2019-06-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 12,
+                "year": 2015
+            },
+            "to": {
+                "day": 18,
+                "month": 6,
+                "year": 2019
+            }
+        },
+        "string": "Dec 18, 2015 to Jun 18, 2019"
+    },
+    "score": 7.65,
+    "scored": 7.65,
+    "scored_by": 989,
+    "rank": 2027,
+    "popularity": 5258,
+    "members": 4143,
+    "favorites": 21,
+    "synopsis": "Manga adaptation of the 4th arc of the Mahouka Koukou no Rettousei series.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3081,
+            "type": "people",
+            "name": "Majiko!",
+            "url": "https://myanimelist.net/people/3081/Majiko"
+        },
+        {
+            "mal_id": 15613,
+            "type": "people",
+            "name": "Satou, Tsutomu",
+            "url": "https://myanimelist.net/people/15613/Tsutomu_Satou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "GFantasy",
+            "url": "https://myanimelist.net/manga/magazine/35/GFantasy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 60977,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei: Tsuioku-hen",
+                    "url": "https://myanimelist.net/manga/60977/Mahouka_Koukou_no_Rettousei__Tsuioku-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 101482,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei: Double Seven-hen",
+                    "url": "https://myanimelist.net/manga/101482/Mahouka_Koukou_no_Rettousei__Double_Seven-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 34127,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei",
+                    "url": "https://myanimelist.net/manga/34127/Mahouka_Koukou_no_Rettousei"
+                },
+                {
+                    "mal_id": 40497,
+                    "type": "anime",
+                    "name": "Mahouka Koukou no Rettousei: Raihousha-hen",
+                    "url": "https://myanimelist.net/anime/40497/Mahouka_Koukou_no_Rettousei__Raihousha-hen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E7%A7%91%E9%AB%98%E6%A0%A1%E3%81%AE%E5%8A%A3%E7%AD%89%E7%94%9F"
+        }
+    ]
+}

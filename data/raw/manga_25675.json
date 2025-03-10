@@ -1,0 +1,163 @@
+{
+    "mal_id": 25675,
+    "url": "https://myanimelist.net/manga/25675/Plastic_Neesan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/158571.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/158571t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/158571l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/158571.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/158571t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/158571l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Plastic Neesan"
+        },
+        {
+            "type": "Synonym",
+            "title": "+tic Neesan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Plastic Elder Sister"
+        },
+        {
+            "type": "Synonym",
+            "title": "Plastic Nee-san"
+        },
+        {
+            "type": "Japanese",
+            "title": "＋チック姉さん"
+        },
+        {
+            "type": "English",
+            "title": "+tic Elder Sister"
+        }
+    ],
+    "title": "Plastic Neesan",
+    "title_english": "+tic Elder Sister",
+    "title_japanese": "＋チック姉さん",
+    "title_synonyms": [
+        "+tic Neesan",
+        "Plastic Elder Sister",
+        "Plastic Nee-san"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2009-09-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 9,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 4, 2009 to ?"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 1525,
+    "rank": 2428,
+    "popularity": 3093,
+    "members": 7253,
+    "favorites": 106,
+    "synopsis": "The story follows a third-year high school girl (Neesan) who likes building plastic models in a model-making club along with fellow club members Makimaki and Okappa.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 12502,
+            "type": "people",
+            "name": "Kurii, Cha",
+            "url": "https://myanimelist.net/people/12502/Cha_Kurii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 10711,
+                    "type": "anime",
+                    "name": "Plastic Neesan",
+                    "url": "https://myanimelist.net/anime/10711/Plastic_Neesan"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 120723,
+                    "type": "manga",
+                    "name": "Memememememememememenheraa...",
+                    "url": "https://myanimelist.net/manga/120723/Memememememememememenheraa"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.jp.square-enix.com/yg/introduction/plastic/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%2B%E3%83%81%E3%83%83%E3%82%AF%E5%A7%89%E3%81%95%E3%82%93"
+        }
+    ]
+}

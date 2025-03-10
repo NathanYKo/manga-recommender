@@ -1,0 +1,133 @@
+{
+    "mal_id": 42331,
+    "url": "https://myanimelist.net/manga/42331/Sherlock",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/315430.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/315430t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/315430l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/315430.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/315430t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/315430l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sherlock"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sherlock: Pink Study"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sherlock: Pink-Iro no Kenkyuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sherlock: Shi wo Yobu Angou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shi o Yobu Angou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sherlock: Code Calling Out Death"
+        },
+        {
+            "type": "Japanese",
+            "title": "SHERLOCK"
+        },
+        {
+            "type": "English",
+            "title": "Sherlock"
+        }
+    ],
+    "title": "Sherlock",
+    "title_english": "Sherlock",
+    "title_japanese": "SHERLOCK",
+    "title_synonyms": [
+        "Sherlock: Pink Study",
+        "Sherlock: Pink-Iro no Kenkyuu",
+        "Sherlock: Shi wo Yobu Angou",
+        "Shi o Yobu Angou",
+        "Sherlock: Code Calling Out Death"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2012-10-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 4, 2012 to ?"
+    },
+    "score": 7.67,
+    "scored": 7.67,
+    "scored_by": 1957,
+    "rank": 1932,
+    "popularity": 3685,
+    "members": 6129,
+    "favorites": 157,
+    "synopsis": "Manga adaptation of BBC's Sherlock television series.",
+    "background": "Sherlock has been published in English by Titan since June 8, 2016. It has also been licensed in Polish by Studio JG.",
+    "authors": [
+        {
+            "mal_id": 18689,
+            "type": "people",
+            "name": "Jay.",
+            "url": "https://myanimelist.net/people/18689/Jay"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 403,
+            "type": "manga",
+            "name": "Young Ace",
+            "url": "https://myanimelist.net/manga/magazine/403/Young_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/SHERLOCK（シャーロック）"
+        }
+    ]
+}

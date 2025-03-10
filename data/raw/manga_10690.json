@@ -1,0 +1,139 @@
+{
+    "mal_id": 10690,
+    "url": "https://myanimelist.net/manga/10690/Try_Try_Try_Webcomics",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/14385.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/14385t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/14385l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/14385.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/14385t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/14385l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Try! Try! Try! Webcomics"
+        },
+        {
+            "type": "Synonym",
+            "title": "Episode minus 1"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ena-chan's Mishap"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fractional Episode"
+        },
+        {
+            "type": "Synonym",
+            "title": "Try Try Try Webcomics"
+        },
+        {
+            "type": "Japanese",
+            "title": "Try! Try! Try!"
+        }
+    ],
+    "title": "Try! Try! Try! Webcomics",
+    "title_english": null,
+    "title_japanese": "Try! Try! Try!",
+    "title_synonyms": [
+        "Episode minus 1",
+        "Ena-chan's Mishap",
+        "Fractional Episode",
+        "Try Try Try Webcomics"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-07-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 2001 to ?"
+    },
+    "score": 6.56,
+    "scored": 6.56,
+    "scored_by": 1678,
+    "rank": 15749,
+    "popularity": 6712,
+    "members": 3157,
+    "favorites": 1,
+    "synopsis": "The two short Try! Try! Try! webcomics from the bonus CD that came with Azumanga Two. They were given silly episode numbers to represent the fact that they're just little bonus episodes. The first, Episode -1: Ena-chan's mishap, tells the story of an interesting discovery made by Ayase Ena. The second, Try! Try! Try! Fractional Episode, is a nice story about the different characters' reactions to Yotsuba's mischief.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1939,
+            "type": "people",
+            "name": "Azuma, Kiyohiko",
+            "url": "https://myanimelist.net/people/1939/Kiyohiko_Azuma"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 6604,
+                    "type": "manga",
+                    "name": "Try! Try! Try!",
+                    "url": "https://myanimelist.net/manga/6604/Try_Try_Try"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 104,
+                    "type": "manga",
+                    "name": "Yotsuba to!",
+                    "url": "https://myanimelist.net/manga/104/Yotsuba_to"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Yotsuba%26!#Development"
+        }
+    ]
+}

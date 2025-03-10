@@ -1,0 +1,145 @@
+{
+    "mal_id": 18076,
+    "url": "https://myanimelist.net/manga/18076/Densetsu_no_Yuusha_no_Densetsu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/155011.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/155011t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/155011l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/155011.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/155011t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/155011l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Densetsu no Yuusha no Densetsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Legend of the Legendary Heroes"
+        },
+        {
+            "type": "Japanese",
+            "title": "伝説の勇者の伝説"
+        }
+    ],
+    "title": "Densetsu no Yuusha no Densetsu",
+    "title_english": null,
+    "title_japanese": "伝説の勇者の伝説",
+    "title_synonyms": [
+        "The Legend of the Legendary Heroes"
+    ],
+    "type": "Manga",
+    "chapters": 45,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-07-09T00:00:00+00:00",
+        "to": "2012-04-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 2008
+            },
+            "to": {
+                "day": 9,
+                "month": 4,
+                "year": 2012
+            }
+        },
+        "string": "Jul 9, 2008 to Apr 9, 2012"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 945,
+    "rank": 4643,
+    "popularity": 5399,
+    "members": 4034,
+    "favorites": 19,
+    "synopsis": "A mythical story with swords and magic centering around one lethargic Roland Empire student named Ryner Lute. After getting dragged into a war and losing many of his friends, Ryner is asked by the soon-to-be enthroned king, Sion Astal, to help rebuild Roland postwar by searching for legendary relics. Accompanying him is a beautiful, capable, yet arrogant swordswoman named Ferris Eris, who's always quick to insult and abuse Ryner. Meanwhile, a new turmoil begins to approach Roland.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11437,
+            "type": "people",
+            "name": "Kagami, Takaya",
+            "url": "https://myanimelist.net/people/11437/Takaya_Kagami"
+        },
+        {
+            "mal_id": 17883,
+            "type": "people",
+            "name": "Nagakura, Hiroko",
+            "url": "https://myanimelist.net/people/17883/Hiroko_Nagakura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 98,
+            "type": "manga",
+            "name": "Dragon Age",
+            "url": "https://myanimelist.net/manga/magazine/98/Dragon_Age"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 21658,
+                    "type": "manga",
+                    "name": "Densetsu no Yuusha no Densetsu",
+                    "url": "https://myanimelist.net/manga/21658/Densetsu_no_Yuusha_no_Densetsu"
+                },
+                {
+                    "mal_id": 8086,
+                    "type": "anime",
+                    "name": "Densetsu no Yuusha no Densetsu",
+                    "url": "https://myanimelist.net/anime/8086/Densetsu_no_Yuusha_no_Densetsu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E4%BC%9D%E8%AA%AC%E3%81%AE%E5%8B%87%E8%80%85%E3%81%AE%E4%BC%9D%E8%AA%AC"
+        }
+    ]
+}

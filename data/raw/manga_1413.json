@@ -1,0 +1,139 @@
+{
+    "mal_id": 1413,
+    "url": "https://myanimelist.net/manga/1413/Seimaden",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/1400.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/1400t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/1400l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/1400.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/1400t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/1400l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Seimaden"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Tall Tale of the Demon Prince"
+        },
+        {
+            "type": "Japanese",
+            "title": "聖魔伝"
+        },
+        {
+            "type": "English",
+            "title": "Seimaden"
+        }
+    ],
+    "title": "Seimaden",
+    "title_english": "Seimaden",
+    "title_japanese": "聖魔伝",
+    "title_synonyms": [
+        "The Tall Tale of the Demon Prince"
+    ],
+    "type": "Manga",
+    "chapters": 52,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-01-01T00:00:00+00:00",
+        "to": "1999-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            }
+        },
+        "string": "1993 to 1999"
+    },
+    "score": 7.04,
+    "scored": 7.04,
+    "scored_by": 1092,
+    "rank": 8390,
+    "popularity": 7318,
+    "members": 2843,
+    "favorites": 40,
+    "synopsis": "This is about the love story between the demon prince Laures and the human girl Hilda. Hilda is the reincarnation of Ellis, who was prince Laures' lover. To save her, Laures sacrificed himself and became a demon, but Ellis was eventually murdered and her soul reborn as the young dancer Hilda. In her current life, Hilda has no knowledge of herself being \"Ellis.\" She is unable to decide between Laures and Roderique. But that's not the biggest problem. Laures' servant and deputy tries everything to bring his beloved king back into the demon world and wants to part Hilda and Laures. Because of his anger and jealousy he acquitted Laures' biggest enemy: the demon Zadei...\n\n(Source: ANN)",
+    "background": "Seimaden was published in English by CMX Manga from June 22, 2005 to November 30, 2007, and in Polish by Waneko from March 2005 to May 2007.",
+    "authors": [
+        {
+            "mal_id": 2244,
+            "type": "people",
+            "name": "Higuri, You",
+            "url": "https://myanimelist.net/people/2244/You_Higuri"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 97,
+            "type": "manga",
+            "name": "Asuka Fantasy DX",
+            "url": "https://myanimelist.net/manga/magazine/97/Asuka_Fantasy_DX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 21309,
+                    "type": "manga",
+                    "name": "Azel Seimaden",
+                    "url": "https://myanimelist.net/manga/21309/Azel_Seimaden"
+                },
+                {
+                    "mal_id": 6829,
+                    "type": "manga",
+                    "name": "Azel Seimaden - Yami no Kakan",
+                    "url": "https://myanimelist.net/manga/6829/Azel_Seimaden_-_Yami_no_Kakan"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

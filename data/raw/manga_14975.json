@@ -1,0 +1,146 @@
+{
+    "mal_id": 14975,
+    "url": "https://myanimelist.net/manga/14975/Darker_than_Black__Shikkoku_no_Hana",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/195103.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/195103t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/195103l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/195103.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/195103t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/195103l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Darker than Black: Shikkoku no Hana"
+        },
+        {
+            "type": "Synonym",
+            "title": "Darker than Black: Jet Black Flower"
+        },
+        {
+            "type": "Japanese",
+            "title": "DARKER THAN BLACK -漆黒の花-"
+        }
+    ],
+    "title": "Darker than Black: Shikkoku no Hana",
+    "title_english": null,
+    "title_japanese": "DARKER THAN BLACK -漆黒の花-",
+    "title_synonyms": [
+        "Darker than Black: Jet Black Flower"
+    ],
+    "type": "Manga",
+    "chapters": 33,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-05-15T00:00:00+00:00",
+        "to": "2011-01-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 5,
+                "year": 2009
+            },
+            "to": {
+                "day": 21,
+                "month": 1,
+                "year": 2011
+            }
+        },
+        "string": "May 15, 2009 to Jan 21, 2011"
+    },
+    "score": 7.82,
+    "scored": 7.82,
+    "scored_by": 5691,
+    "rank": 1249,
+    "popularity": 1488,
+    "members": 14319,
+    "favorites": 266,
+    "synopsis": "Taking place after the events of Darker than Black, Hei (BK201) and Yin return to Tokyo to investigate how a Black Dandelion is granting Contractor-like powers to people who come in contact with it.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2370,
+            "type": "people",
+            "name": "Iwahara, Yuji",
+            "url": "https://myanimelist.net/people/2370/Yuji_Iwahara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1016,
+                    "type": "manga",
+                    "name": "Darker than Black: Kuro no Keiyakusha",
+                    "url": "https://myanimelist.net/manga/1016/Darker_than_Black__Kuro_no_Keiyakusha"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/DARKER_THAN_BLACK_-%E9%BB%92%E3%81%AE%E5%A5%91%E7%B4%84%E8%80%85-"
+        }
+    ]
+}

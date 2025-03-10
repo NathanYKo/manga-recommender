@@ -1,0 +1,127 @@
+{
+    "mal_id": 111261,
+    "url": "https://myanimelist.net/manga/111261/Akuyaku_Ouji_wa_Koi_ga_Dekinai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/210028.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/210028t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/210028l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/210028.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/210028t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/210028l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Akuyaku Ouji wa Koi ga Dekinai"
+        },
+        {
+            "type": "Japanese",
+            "title": "悪役王子は恋ができない"
+        },
+        {
+            "type": "English",
+            "title": "The villain's Prince can't be in love."
+        }
+    ],
+    "title": "Akuyaku Ouji wa Koi ga Dekinai",
+    "title_english": "The villain's Prince can't be in love.",
+    "title_japanese": "悪役王子は恋ができない",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-11-27T00:00:00+00:00",
+        "to": "2018-10-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 11,
+                "year": 2017
+            },
+            "to": {
+                "day": 26,
+                "month": 10,
+                "year": 2018
+            }
+        },
+        "string": "Nov 27, 2017 to Oct 26, 2018"
+    },
+    "score": 6.17,
+    "scored": 6.17,
+    "scored_by": 971,
+    "rank": 19200,
+    "popularity": 6263,
+    "members": 3416,
+    "favorites": 9,
+    "synopsis": "The manga is a romantic comedy starring the clever and handsome son of a wealthy family. In middle school he only ever studied, and everyone said he was plain like a background character. When he gets to high school, he enacts a plan to change his image to be more like a \"main character\" and get the perfect girlfriend.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 16265,
+            "type": "people",
+            "name": "Yoneda, Kazusa",
+            "url": "https://myanimelist.net/people/16265/Kazusa_Yoneda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 93,
+            "type": "manga",
+            "name": "Comic REX",
+            "url": "https://myanimelist.net/manga/magazine/93/Comic_REX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 86633,
+                    "type": "manga",
+                    "name": "Danchigai",
+                    "url": "https://myanimelist.net/manga/86633/Danchigai"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

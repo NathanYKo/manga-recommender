@@ -1,0 +1,111 @@
+{
+    "mal_id": 1673,
+    "url": "https://myanimelist.net/manga/1673/Jackals",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/259164.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/259164t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/259164l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/259164.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/259164t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/259164l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Jackals"
+        },
+        {
+            "type": "Japanese",
+            "title": "ジャッカル"
+        }
+    ],
+    "title": "Jackals",
+    "title_english": null,
+    "title_japanese": "ジャッカル",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 56,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-12-02T00:00:00+00:00",
+        "to": "2008-09-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 12,
+                "year": 2005
+            },
+            "to": {
+                "day": 5,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Dec 2, 2005 to Sep 5, 2008"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 5354,
+    "rank": 4671,
+    "popularity": 1638,
+    "members": 13170,
+    "favorites": 163,
+    "synopsis": "Cicero City, a city infested with immigrants where people of all races scramble to find work and shelter. Infested with destruction and slaughter, it's a chaotic society. Living on the outside of society, the Jackals are professional assassins with no allegiance, available to the highest bidder. This is their story.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3120,
+            "type": "people",
+            "name": "Kim, Byung Jin",
+            "url": "https://myanimelist.net/people/3120/Byung_Jin_Kim"
+        },
+        {
+            "mal_id": 3140,
+            "type": "people",
+            "name": "Murata, Shinya",
+            "url": "https://myanimelist.net/people/3140/Shinya_Murata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

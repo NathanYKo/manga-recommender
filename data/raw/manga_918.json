@@ -1,0 +1,166 @@
+{
+    "mal_id": 918,
+    "url": "https://myanimelist.net/manga/918/Yami_no_Matsuei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/160961.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/160961t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/160961l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/160961.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/160961t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/160961l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yami no Matsuei"
+        },
+        {
+            "type": "Japanese",
+            "title": "闇の末裔"
+        },
+        {
+            "type": "English",
+            "title": "Descendants of Darkness"
+        }
+    ],
+    "title": "Yami no Matsuei",
+    "title_english": "Descendants of Darkness",
+    "title_japanese": "闇の末裔",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 13,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "1994-03-25T00:00:00+00:00",
+        "to": "2015-01-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 3,
+                "year": 1994
+            },
+            "to": {
+                "day": 24,
+                "month": 1,
+                "year": 2015
+            }
+        },
+        "string": "Mar 25, 1994 to Jan 24, 2015"
+    },
+    "score": 7.73,
+    "scored": 7.73,
+    "scored_by": 3171,
+    "rank": 1584,
+    "popularity": 2854,
+    "members": 7833,
+    "favorites": 317,
+    "synopsis": "The business of Death is never done. Asato Tsuzuki works as a Shinigami, or \"Guardian of Death,\" in the Ministry of Hades. It's his duty to make sure that the souls of the dead reach the afterlife, but contrary ghosts and humanity's evils keep getting in the way of a job well done. With all these problem assignments, will he ever get a bonus...or will he be stuck paying back damages for all eternity?\n\n(Source: VIZ Media)",
+    "background": "Yami no Matsuei has been published in English as Descendants of Darkness by VIZ Media since September 14, 2004.",
+    "authors": [
+        {
+            "mal_id": 2668,
+            "type": "people",
+            "name": "Matsushita, Yoko",
+            "url": "https://myanimelist.net/people/2668/Yoko_Matsushita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 395,
+            "type": "manga",
+            "name": "The Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/395/The_Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 553,
+                    "type": "anime",
+                    "name": "Yami no Matsuei",
+                    "url": "https://myanimelist.net/anime/553/Yami_no_Matsuei"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.hanayume.com/yamimatsu/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%97%87%E3%81%AE%E6%9C%AB%E8%A3%94"
+        }
+    ]
+}

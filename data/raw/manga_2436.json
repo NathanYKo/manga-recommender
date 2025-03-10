@@ -1,0 +1,172 @@
+{
+    "mal_id": 2436,
+    "url": "https://myanimelist.net/manga/2436/Hotel",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/66143.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/66143t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/66143l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/66143.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/66143t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/66143l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hotel"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hotel: Since A.D. 2079"
+        },
+        {
+            "type": "Synonym",
+            "title": "Present"
+        },
+        {
+            "type": "Synonym",
+            "title": "Subete wa Maguro no Tame datta"
+        },
+        {
+            "type": "Synonym",
+            "title": "It Was All for the Tuna"
+        },
+        {
+            "type": "Synonym",
+            "title": "Stephanos"
+        },
+        {
+            "type": "Synonym",
+            "title": "Diadem"
+        },
+        {
+            "type": "Japanese",
+            "title": "Boichi作品集 HOTEL"
+        }
+    ],
+    "title": "Hotel",
+    "title_english": null,
+    "title_japanese": "Boichi作品集 HOTEL",
+    "title_synonyms": [
+        "Hotel: Since A.D. 2079",
+        "Present",
+        "Subete wa Maguro no Tame datta",
+        "It Was All for the Tuna",
+        "Stephanos",
+        "Diadem"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2006"
+    },
+    "score": 7.66,
+    "scored": 7.66,
+    "scored_by": 14220,
+    "rank": 1944,
+    "popularity": 667,
+    "members": 28525,
+    "favorites": 381,
+    "synopsis": "1. Hotel: Since A.D. 2079\n2. Present\n3. Subete wa Maguro no Tame datta (It Was All for the Tuna)\n4. Stephanos\n5. Diadem",
+    "background": "Hotel was published in Polish by Kotori on October 8, 2016.",
+    "authors": [
+        {
+            "mal_id": 3537,
+            "type": "people",
+            "name": "Boichi",
+            "url": "https://myanimelist.net/people/3537/Boichi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Morning",
+            "url": "https://myanimelist.net/manga/magazine/72/Morning"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 33181,
+                    "type": "manga",
+                    "name": "Hotel: since 2079",
+                    "url": "https://myanimelist.net/manga/33181/Hotel__since_2079"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

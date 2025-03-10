@@ -1,0 +1,138 @@
+{
+    "mal_id": 103028,
+    "url": "https://myanimelist.net/manga/103028/Koisuru_Shirokuma",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/193632.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/193632t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/193632l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/193632.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/193632t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/193632l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koisuru Shirokuma"
+        },
+        {
+            "type": "Japanese",
+            "title": "恋するシロクマ"
+        },
+        {
+            "type": "English",
+            "title": "A Polar Bear in Love"
+        }
+    ],
+    "title": "Koisuru Shirokuma",
+    "title_english": "A Polar Bear in Love",
+    "title_japanese": "恋するシロクマ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-06-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 6,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 15, 2015 to ?"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 515,
+    "rank": 5327,
+    "popularity": 8675,
+    "members": 2311,
+    "favorites": 29,
+    "synopsis": "A polar bear falls in love with an earless seal, and he wants nothing else except to protect him, even though the seal constantly thinks the bear will eat him.",
+    "background": "Koisuru Shirokuma has been published in English as A Polar Bear in Love by Yen Press since November 21, 2017.",
+    "authors": [
+        {
+            "mal_id": 44701,
+            "type": "people",
+            "name": "Koromo",
+            "url": "https://myanimelist.net/people/44701/Koromo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 573,
+            "type": "manga",
+            "name": "Comic Gene",
+            "url": "https://myanimelist.net/manga/magazine/573/Comic_Gene"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 51,
+            "type": "manga",
+            "name": "Anthropomorphic",
+            "url": "https://myanimelist.net/manga/genre/51/Anthropomorphic"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 34535,
+                    "type": "anime",
+                    "name": "Koisuru Shirokuma",
+                    "url": "https://myanimelist.net/anime/34535/Koisuru_Shirokuma"
+                },
+                {
+                    "mal_id": 36742,
+                    "type": "anime",
+                    "name": "Koisuru Shirokuma Tokubetsu-ban",
+                    "url": "https://myanimelist.net/anime/36742/Koisuru_Shirokuma_Tokubetsu-ban"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E3%81%99%E3%82%8B%E3%82%B7%E3%83%AD%E3%82%AF%E3%83%9E"
+        }
+    ]
+}

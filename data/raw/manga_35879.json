@@ -1,0 +1,138 @@
+{
+    "mal_id": 35879,
+    "url": "https://myanimelist.net/manga/35879/Freezing_Zero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/73723.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/73723t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/73723l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/73723.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/73723t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/73723l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Freezing Zero"
+        },
+        {
+            "type": "Japanese",
+            "title": "フリージングZERO"
+        }
+    ],
+    "title": "Freezing Zero",
+    "title_english": null,
+    "title_japanese": "フリージングZERO",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 38,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-03-27T00:00:00+00:00",
+        "to": "2015-09-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 3,
+                "year": 2012
+            },
+            "to": {
+                "day": 4,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Mar 27, 2012 to Sep 4, 2015"
+    },
+    "score": 7.41,
+    "scored": 7.41,
+    "scored_by": 1873,
+    "rank": 3714,
+    "popularity": 3926,
+    "members": 5716,
+    "favorites": 43,
+    "synopsis": "The story focuses on the origins of many of the characters from the main series. Each arc has the focus on a different girl or how two girls met.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2827,
+            "type": "people",
+            "name": "Im, Dal Young",
+            "url": "https://myanimelist.net/people/2827/Dal_Young_Im"
+        },
+        {
+            "mal_id": 6020,
+            "type": "people",
+            "name": "Jeong, Soo Cheol",
+            "url": "https://myanimelist.net/people/6020/Soo_Cheol_Jeong"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 234,
+            "type": "manga",
+            "name": "Comic Valkyrie",
+            "url": "https://myanimelist.net/manga/magazine/234/Comic_Valkyrie"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 5911,
+                    "type": "manga",
+                    "name": "Freezing",
+                    "url": "https://myanimelist.net/manga/5911/Freezing"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 92372,
+                    "type": "manga",
+                    "name": "Freezing: Extra Story",
+                    "url": "https://myanimelist.net/manga/92372/Freezing__Extra_Story"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

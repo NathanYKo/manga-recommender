@@ -1,0 +1,96 @@
+{
+    "mal_id": 102703,
+    "url": "https://myanimelist.net/manga/102703/Doukyuusei__Gold_Ring___Silver_Ring",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/192985.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/192985t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/192985l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/192985.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/192985t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/192985l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Doukyuusei: Gold Ring & Silver Ring"
+        },
+        {
+            "type": "Japanese",
+            "title": "同級生 限定小冊子【gold ring】 & 【silver ring】"
+        }
+    ],
+    "title": "Doukyuusei: Gold Ring & Silver Ring",
+    "title_english": null,
+    "title_japanese": "同級生 限定小冊子【gold ring】 & 【silver ring】",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-11-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 11,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 5, 2016"
+    },
+    "score": 8.15,
+    "scored": 8.15,
+    "scored_by": 3732,
+    "rank": 512,
+    "popularity": 2590,
+    "members": 8545,
+    "favorites": 56,
+    "synopsis": "Differences aside, Hikaru Kusakabe and Rihito Sajou's hearts forever dance to the same sweet melody. Given their graduation day vow to eventually marry in the future, the couple come up with the same idea unbeknownst to the other: to gift a matching ring.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5583,
+            "type": "people",
+            "name": "Nakamura, Asumiko",
+            "url": "https://myanimelist.net/people/5583/Asumiko_Nakamura"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 9699,
+                    "type": "manga",
+                    "name": "Doukyuusei",
+                    "url": "https://myanimelist.net/manga/9699/Doukyuusei"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

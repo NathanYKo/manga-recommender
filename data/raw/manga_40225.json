@@ -1,0 +1,142 @@
+{
+    "mal_id": 40225,
+    "url": "https://myanimelist.net/manga/40225/Naruto_Ninden_Series",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/70963.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/70963t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/70963l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/70963.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/70963t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/70963l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Naruto Ninden Series"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tale of the Utterly Gutsy Shinobi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Naruto Dokonjou Ninden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Naruto Dojunjou Ninden"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Tale of the Utterly Purehearted Shinobi"
+        },
+        {
+            "type": "Japanese",
+            "title": "NARUTO -ナルト- 忍伝シリーズ"
+        }
+    ],
+    "title": "Naruto Ninden Series",
+    "title_english": null,
+    "title_japanese": "NARUTO -ナルト- 忍伝シリーズ",
+    "title_synonyms": [
+        "Tale of the Utterly Gutsy Shinobi",
+        "Naruto Dokonjou Ninden",
+        "Naruto Dojunjou Ninden",
+        "The Tale of the Utterly Purehearted Shinobi"
+    ],
+    "type": "Light Novel",
+    "chapters": 14,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-08-04T00:00:00+00:00",
+        "to": "2015-08-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 8,
+                "year": 2010
+            },
+            "to": {
+                "day": 4,
+                "month": 8,
+                "year": 2015
+            }
+        },
+        "string": "Aug 4, 2010 to Aug 4, 2015"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 851,
+    "rank": 2463,
+    "popularity": 6562,
+    "members": 3240,
+    "favorites": 41,
+    "synopsis": "1. Naruto: Dokonjou Ninden (Tale of the Utterly Gutsy Shinobi)\n2. Naruto: Dojunjou Ninden (The Tale of the Utterly Purehearted Shinobi)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1879,
+            "type": "people",
+            "name": "Kishimoto, Masashi",
+            "url": "https://myanimelist.net/people/1879/Masashi_Kishimoto"
+        },
+        {
+            "mal_id": 18277,
+            "type": "people",
+            "name": "Higashiyama, Akira",
+            "url": "https://myanimelist.net/people/18277/Akira_Higashiyama"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 11,
+                    "type": "manga",
+                    "name": "Naruto",
+                    "url": "https://myanimelist.net/manga/11/Naruto"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

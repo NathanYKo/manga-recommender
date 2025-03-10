@@ -1,0 +1,134 @@
+{
+    "mal_id": 16531,
+    "url": "https://myanimelist.net/manga/16531/Hokenshitsu_no_Shinigami",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/178944.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/178944t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/178944l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/178944.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/178944t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/178944l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hokenshitsu no Shinigami"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Shinigami Infirmary"
+        },
+        {
+            "type": "Japanese",
+            "title": "保健室の死神"
+        }
+    ],
+    "title": "Hokenshitsu no Shinigami",
+    "title_english": null,
+    "title_japanese": "保健室の死神",
+    "title_synonyms": [
+        "The Shinigami Infirmary"
+    ],
+    "type": "Manga",
+    "chapters": 87,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-09-07T00:00:00+00:00",
+        "to": "2011-06-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 9,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "Sep 7, 2009 to Jun 27, 2011"
+    },
+    "score": 7.1,
+    "scored": 7.1,
+    "scored_by": 1129,
+    "rank": 7531,
+    "popularity": 4954,
+    "members": 4428,
+    "favorites": 19,
+    "synopsis": "Hadesu Sensei is no ordinary middle school nurse. In fact, many students believe he is a shinigami. His excessive friendliness and eagerness to win his students' affection does little to offset his terrifying appearance. But, fortunately for this middle school, Hadesu Sensei is an expert at extracting \"byouma\", demons of disease, from possessed students!",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3753,
+            "type": "people",
+            "name": "Aimoto, Shou",
+            "url": "https://myanimelist.net/people/3753/Shou_Aimoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 159551,
+                    "type": "manga",
+                    "name": "Ao: Aimoto Shou Tanpenshuu",
+                    "url": "https://myanimelist.net/manga/159551/Ao__Aimoto_Shou_Tanpenshuu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.shonenjump.com/j/rensai/shinigami/index.html"
+        }
+    ]
+}

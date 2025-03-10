@@ -1,0 +1,149 @@
+{
+    "mal_id": 51267,
+    "url": "https://myanimelist.net/manga/51267/Inugami-san_to_Nekoyama-san",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/90515.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/90515t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/90515l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/90515.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/90515t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/90515l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Inugami-san to Nekoyama-san"
+        },
+        {
+            "type": "Synonym",
+            "title": "Inugami-san and Nekoyama-san"
+        },
+        {
+            "type": "Synonym",
+            "title": "Inu&Neko"
+        },
+        {
+            "type": "Japanese",
+            "title": "犬神さんと猫山さん"
+        }
+    ],
+    "title": "Inugami-san to Nekoyama-san",
+    "title_english": null,
+    "title_japanese": "犬神さんと猫山さん",
+    "title_synonyms": [
+        "Inugami-san and Nekoyama-san",
+        "Inu&Neko"
+    ],
+    "type": "Manga",
+    "chapters": 76,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-11-18T00:00:00+00:00",
+        "to": "2017-02-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 11,
+                "year": 2011
+            },
+            "to": {
+                "day": 18,
+                "month": 2,
+                "year": 2017
+            }
+        },
+        "string": "Nov 18, 2011 to Feb 18, 2017"
+    },
+    "score": 7,
+    "scored": 7,
+    "scored_by": 1280,
+    "rank": 9061,
+    "popularity": 4193,
+    "members": 5359,
+    "favorites": 28,
+    "synopsis": "About best friends Yachiyo Inugami and Suzu Nekoyama. Inugami likes cats and has a dog-like personality. Nekoyama likes dogs and has a cat-like personality.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10488,
+            "type": "people",
+            "name": "Kuzushiro",
+            "url": "https://myanimelist.net/people/10488/Kuzushiro"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 423,
+            "type": "manga",
+            "name": "Comic Yuri Hime",
+            "url": "https://myanimelist.net/manga/magazine/423/Comic_Yuri_Hime"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 22123,
+                    "type": "anime",
+                    "name": "Inugami-san to Nekoyama-san",
+                    "url": "https://myanimelist.net/anime/22123/Inugami-san_to_Nekoyama-san"
+                },
+                {
+                    "mal_id": 25861,
+                    "type": "anime",
+                    "name": "Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou",
+                    "url": "https://myanimelist.net/anime/25861/Inugami-san_to_Nekoyama-san__Nekoyama-san_to_Onsen_Ryokou"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 90928,
+                    "type": "manga",
+                    "name": "Ryuuzaki-san to Torao-san",
+                    "url": "https://myanimelist.net/manga/90928/Ryuuzaki-san_to_Torao-san"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%8A%AC%E7%A5%9E%E3%81%95%E3%82%93%E3%81%A8%E7%8C%AB%E5%B1%B1%E3%81%95%E3%82%93"
+        }
+    ]
+}

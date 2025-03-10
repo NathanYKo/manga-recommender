@@ -1,0 +1,151 @@
+{
+    "mal_id": 11926,
+    "url": "https://myanimelist.net/manga/11926/Jump_Super_Stars",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/312297.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/312297t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/312297l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/312297.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/312297t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/312297l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Jump Super Stars"
+        },
+        {
+            "type": "Japanese",
+            "title": "ジャンプスーパースターズ"
+        }
+    ],
+    "title": "Jump Super Stars",
+    "title_english": null,
+    "title_japanese": "ジャンプスーパースターズ",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2005"
+    },
+    "score": 6.1,
+    "scored": 6.1,
+    "scored_by": 2379,
+    "rank": 19482,
+    "popularity": 5154,
+    "members": 4227,
+    "favorites": 19,
+    "synopsis": "Kobayakawa Sena (Eyeshield 21) meets Monkey D Luffy (One Piece), Naruto, Son Goku (Dragon Ball) and Bobobo (Bobobo-bo Bo-bobo) to try and stop the evil Dr. Mashirito (Dr. Slump) in this short adventure that serves as an advertisement for the game with the same name.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1903,
+            "type": "people",
+            "name": "Murata, Yusuke",
+            "url": "https://myanimelist.net/people/1903/Yusuke_Murata"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 796,
+                    "type": "manga",
+                    "name": "Dr. Slump",
+                    "url": "https://myanimelist.net/manga/796/Dr_Slump"
+                },
+                {
+                    "mal_id": 42,
+                    "type": "manga",
+                    "name": "Dragon Ball",
+                    "url": "https://myanimelist.net/manga/42/Dragon_Ball"
+                },
+                {
+                    "mal_id": 13,
+                    "type": "manga",
+                    "name": "One Piece",
+                    "url": "https://myanimelist.net/manga/13/One_Piece"
+                },
+                {
+                    "mal_id": 11,
+                    "type": "manga",
+                    "name": "Naruto",
+                    "url": "https://myanimelist.net/manga/11/Naruto"
+                },
+                {
+                    "mal_id": 1505,
+                    "type": "manga",
+                    "name": "Bobobo-bo Bo-bobo",
+                    "url": "https://myanimelist.net/manga/1505/Bobobo-bo_Bo-bobo"
+                },
+                {
+                    "mal_id": 45,
+                    "type": "manga",
+                    "name": "Ichigo 100%",
+                    "url": "https://myanimelist.net/manga/45/Ichigo_100"
+                },
+                {
+                    "mal_id": 43,
+                    "type": "manga",
+                    "name": "Eyeshield 21",
+                    "url": "https://myanimelist.net/manga/43/Eyeshield_21"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

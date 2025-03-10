@@ -1,0 +1,126 @@
+{
+    "mal_id": 94731,
+    "url": "https://myanimelist.net/manga/94731/Abarenbo_Honey",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/183095.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/183095t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/183095l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/183095.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/183095t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/183095l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Abarenbo Honey"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kakurenbo Honey"
+        },
+        {
+            "type": "Japanese",
+            "title": "あばれんぼハニー"
+        }
+    ],
+    "title": "Abarenbo Honey",
+    "title_english": null,
+    "title_japanese": "あばれんぼハニー",
+    "title_synonyms": [
+        "Kakurenbo Honey"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-03-24T00:00:00+00:00",
+        "to": "2015-08-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 3,
+                "year": 2015
+            },
+            "to": {
+                "day": 24,
+                "month": 8,
+                "year": 2015
+            }
+        },
+        "string": "Mar 24, 2015 to Aug 24, 2015"
+    },
+    "score": 7.22,
+    "scored": 7.22,
+    "scored_by": 3253,
+    "rank": null,
+    "popularity": 3510,
+    "members": 6391,
+    "favorites": 45,
+    "synopsis": "1-4. Abarenbo Honey\n5-6. Kakurenbo Honey\n7. Yomeiri W Honey",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 21367,
+            "type": "people",
+            "name": "Tobidase, Kevin",
+            "url": "https://myanimelist.net/people/21367/Kevin_Tobidase"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1344,
+            "type": "manga",
+            "name": "Omegaverse Project",
+            "url": "https://myanimelist.net/manga/magazine/1344/Omegaverse_Project"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 101134,
+                    "type": "manga",
+                    "name": "Kakurenbo Honey",
+                    "url": "https://myanimelist.net/manga/101134/Kakurenbo_Honey"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 118716,
+                    "type": "manga",
+                    "name": "Amaenbo Honey",
+                    "url": "https://myanimelist.net/manga/118716/Amaenbo_Honey"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

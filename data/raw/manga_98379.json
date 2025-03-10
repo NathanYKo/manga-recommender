@@ -1,0 +1,149 @@
+{
+    "mal_id": 98379,
+    "url": "https://myanimelist.net/manga/98379/Bungou_Stray_Dogs_Wan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/184355.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/184355t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/184355l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/184355.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/184355t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/184355l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bungou Stray Dogs Wan!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bungo Stray Dogs: Woof!"
+        },
+        {
+            "type": "Japanese",
+            "title": "文豪ストレイドッグス わん!"
+        },
+        {
+            "type": "English",
+            "title": "Bungo Stray Dogs: Wan!"
+        }
+    ],
+    "title": "Bungou Stray Dogs Wan!",
+    "title_english": "Bungo Stray Dogs: Wan!",
+    "title_japanese": "文豪ストレイドッグス わん!",
+    "title_synonyms": [
+        "Bungo Stray Dogs: Woof!"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-12-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 12,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 22, 2015 to ?"
+    },
+    "score": 8.27,
+    "scored": 8.27,
+    "scored_by": 1983,
+    "rank": 351,
+    "popularity": 3012,
+    "members": 7454,
+    "favorites": 205,
+    "synopsis": "Spin-off series about the everyday life of the members of the Armed Detective Agency and the Port Mafia.",
+    "background": "Bungou Stray Dogs Wan! has been published in English by Yen Press since March 22, 2022.",
+    "authors": [
+        {
+            "mal_id": 41727,
+            "type": "people",
+            "name": "Kanai, Neco",
+            "url": "https://myanimelist.net/people/41727/Neco_Kanai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1340,
+            "type": "manga",
+            "name": "Young Ace UP",
+            "url": "https://myanimelist.net/manga/magazine/1340/Young_Ace_UP"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 42250,
+                    "type": "anime",
+                    "name": "Bungou Stray Dogs Wan!",
+                    "url": "https://myanimelist.net/anime/42250/Bungou_Stray_Dogs_Wan"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 56529,
+                    "type": "manga",
+                    "name": "Bungou Stray Dogs",
+                    "url": "https://myanimelist.net/manga/56529/Bungou_Stray_Dogs"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://web-ace.jp/youngaceup/contents/1000002/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bungo_Stray_Dogs"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%96%87%E8%B1%AA%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%89%E3%83%83%E3%82%B0%E3%82%B9"
+        }
+    ]
+}

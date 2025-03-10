@@ -1,0 +1,138 @@
+{
+    "mal_id": 123450,
+    "url": "https://myanimelist.net/manga/123450/Saikin_Yatotta_Maid_ga_Ayashii",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/229427.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/229427t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/229427l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/229427.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/229427t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/229427l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Saikin Yatotta Maid ga Ayashii"
+        },
+        {
+            "type": "Synonym",
+            "title": "My Recently Hired Maid is Suspicious"
+        },
+        {
+            "type": "Japanese",
+            "title": "最近雇ったメイドが怪しい"
+        },
+        {
+            "type": "English",
+            "title": "The Maid I Hired Recently Is Mysterious"
+        }
+    ],
+    "title": "Saikin Yatotta Maid ga Ayashii",
+    "title_english": "The Maid I Hired Recently Is Mysterious",
+    "title_japanese": "最近雇ったメイドが怪しい",
+    "title_synonyms": [
+        "My Recently Hired Maid is Suspicious"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-01-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 1,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 22, 2020 to ?"
+    },
+    "score": 6.88,
+    "scored": 6.88,
+    "scored_by": 3905,
+    "rank": 10902,
+    "popularity": 1257,
+    "members": 16361,
+    "favorites": 85,
+    "synopsis": "The beautiful maid Lilith has recently been hired to care for the whims of her employer's son, Yuuri. However, Yuuri's overzealous skepticism of her every action keeps him on edge as he suspects devious mischief being plotted behind his back. Despite his paranoia, Lilith grows fond of Yuuri and often teases him as a way to further their bonding.\n\nSaikin Yatotta Maid ga Ayashii revolves around the relationship between the cautious Yuuri and his wonderfully charming maid in this day-to-day oddball romantic comedy. \n\n[Written by MAL Rewrite]",
+    "background": "Saikin Yatotta Maid ga Ayashii is based on a web manga released on the author's Twitter account since October 17, 2019. The series has been published in English as The Maid I Hired Recently Is Mysterious by Yen Press since July 13, 2021.",
+    "authors": [
+        {
+            "mal_id": 45552,
+            "type": "people",
+            "name": "Konbu, Wakame",
+            "url": "https://myanimelist.net/people/45552/Wakame_Konbu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 412,
+            "type": "manga",
+            "name": "Gangan Joker",
+            "url": "https://myanimelist.net/manga/magazine/412/Gangan_Joker"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 75,
+            "type": "manga",
+            "name": "Love Status Quo",
+            "url": "https://myanimelist.net/manga/genre/75/Love_Status_Quo"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 51837,
+                    "type": "anime",
+                    "name": "Saikin Yatotta Maid ga Ayashii",
+                    "url": "https://myanimelist.net/anime/51837/Saikin_Yatotta_Maid_ga_Ayashii"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.jp.square-enix.com/joker/series/saikinyatotta/"
+        }
+    ]
+}

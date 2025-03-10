@@ -1,0 +1,143 @@
+{
+    "mal_id": 108032,
+    "url": "https://myanimelist.net/manga/108032/My_Home_Hero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/200302.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/200302t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/200302l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/200302.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/200302t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/200302l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "My Home Hero"
+        },
+        {
+            "type": "Japanese",
+            "title": "マイホームヒーロー"
+        },
+        {
+            "type": "English",
+            "title": "My Home Hero"
+        }
+    ],
+    "title": "My Home Hero",
+    "title_english": "My Home Hero",
+    "title_japanese": "マイホームヒーロー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 224,
+    "volumes": 26,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-05-29T00:00:00+00:00",
+        "to": "2024-07-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 5,
+                "year": 2017
+            },
+            "to": {
+                "day": 29,
+                "month": 7,
+                "year": 2024
+            }
+        },
+        "string": "May 29, 2017 to Jul 29, 2024"
+    },
+    "score": 7.9,
+    "scored": 7.9,
+    "scored_by": 6384,
+    "rank": 1009,
+    "popularity": 602,
+    "members": 31444,
+    "favorites": 331,
+    "synopsis": "Tetsuo Tosu, an ordinary salaryman, discovers his daughter, Reika, has been physically abused by her boyfriend, Nobuto Matori. Trying to learn more about him, Tetsuo uncovers Matori's scheme to extort money from Reika's wealthy grandparents and finds out that he is a member of a crime syndicate, with a history of murdering his former girlfriends.\n\nFilled with rage and fear at the thought of Reika being in danger, Tetsuo ends up killing Nobuto, and with the help of his wife, Kasen, successfully disposes of the body. Now, as the members of the syndicate begin to question Nobuto's sudden disappearance, Tetsuo and Kasen must work together to ensure the safety of their daughter and prevent her from getting involved in the predicament any further.\n\n[Written by MAL Rewrite]",
+    "background": "My Home Hero has been published digitally in English by Kodansha USA since February 28, 2023. The series has also been simulpub through K Manga.",
+    "authors": [
+        {
+            "mal_id": 2577,
+            "type": "people",
+            "name": "Asaki, Masashi",
+            "url": "https://myanimelist.net/people/2577/Masashi_Asaki"
+        },
+        {
+            "mal_id": 41546,
+            "type": "people",
+            "name": "Yamakawa, Naoki",
+            "url": "https://myanimelist.net/people/41546/Naoki_Yamakawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 52092,
+                    "type": "anime",
+                    "name": "My Home Hero",
+                    "url": "https://myanimelist.net/anime/52092/My_Home_Hero"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/my-home-hero/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/myhomehero/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/My_Home_Hero"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC"
+        }
+    ]
+}

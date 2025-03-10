@@ -1,0 +1,143 @@
+{
+    "mal_id": 48169,
+    "url": "https://myanimelist.net/manga/48169/Bi_no_Kyoujin",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/159790.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/159790t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/159790l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/159790.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/159790t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/159790l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bi no Kyoujin"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kobi no Kyoujin"
+        },
+        {
+            "type": "Japanese",
+            "title": "媚の凶刃"
+        }
+    ],
+    "title": "Bi no Kyoujin",
+    "title_english": null,
+    "title_japanese": "媚の凶刃",
+    "title_synonyms": [
+        "Kobi no Kyoujin"
+    ],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-10-27T00:00:00+00:00",
+        "to": "2015-10-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 28,
+                "month": 10,
+                "year": 2015
+            }
+        },
+        "string": "Oct 27, 2012 to Oct 28, 2015"
+    },
+    "score": 7.7,
+    "scored": 7.7,
+    "scored_by": 2015,
+    "rank": null,
+    "popularity": 5079,
+    "members": 4312,
+    "favorites": 52,
+    "synopsis": "Some call it \"S&amp;M sex and torture,\" Nirasawa and Kabu call it love. It's the continuation of Ike Reibun's compelling story about two emotionally-damaged yakuza, whose need for each other borders on psychotic obsession. This story takes place 4 years after the events of Bi no Isu.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3142,
+            "type": "people",
+            "name": "Ike, Reibun",
+            "url": "https://myanimelist.net/people/3142/Reibun_Ike"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 51,
+            "type": "manga",
+            "name": "Be x Boy GOLD",
+            "url": "https://myanimelist.net/manga/magazine/51/Be_x_Boy_GOLD"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 10363,
+                    "type": "manga",
+                    "name": "Bi no Isu",
+                    "url": "https://myanimelist.net/manga/10363/Bi_no_Isu"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 103508,
+                    "type": "manga",
+                    "name": "Smoke: Bi no Kyoujin 3",
+                    "url": "https://myanimelist.net/manga/103508/Smoke__Bi_no_Kyoujin_3"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 62877,
+                    "type": "manga",
+                    "name": "Pink Gold",
+                    "url": "https://myanimelist.net/manga/62877/Pink_Gold"
+                },
+                {
+                    "mal_id": 98735,
+                    "type": "manga",
+                    "name": "Bi no Kyoujin: X Side",
+                    "url": "https://myanimelist.net/manga/98735/Bi_no_Kyoujin__X_Side"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

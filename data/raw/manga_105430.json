@@ -1,0 +1,151 @@
+{
+    "mal_id": 105430,
+    "url": "https://myanimelist.net/manga/105430/Senryuu_Shoujo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/194981.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/194981t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/194981l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/194981.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/194981t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/194981l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Senryuu Shoujo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Senryuu Girl"
+        },
+        {
+            "type": "Japanese",
+            "title": "川柳少女"
+        }
+    ],
+    "title": "Senryuu Shoujo",
+    "title_english": null,
+    "title_japanese": "川柳少女",
+    "title_synonyms": [
+        "Senryuu Girl"
+    ],
+    "type": "Manga",
+    "chapters": 185,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-10-19T00:00:00+00:00",
+        "to": "2020-04-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 22,
+                "month": 4,
+                "year": 2020
+            }
+        },
+        "string": "Oct 19, 2016 to Apr 22, 2020"
+    },
+    "score": 8.01,
+    "scored": 8.01,
+    "scored_by": 9637,
+    "rank": 748,
+    "popularity": 585,
+    "members": 32281,
+    "favorites": 630,
+    "synopsis": "Nanako Yukishiro is an average cute and cheerful high school girl, except for the fact that she does not speak! Her only method of communicating her thoughts and feelings is through senryuu—a form of haiku which utilizes the 5-7-5 format.\n\nSurrounded by friends such as the misunderstood ex-delinquent Eiji Busujima, stalkerish and eternally single club president Amane Katagiri, shy but talkative artist Kino Yakobe, mysterious Tao Hanakai, and Eiji's self-proclaimed \"big sister\" Koto Ootsuki, Nanako's high school life has never been more enjoyable.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 39096,
+            "type": "people",
+            "name": "Igarashi, Masakuni",
+            "url": "https://myanimelist.net/people/39096/Masakuni_Igarashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 75,
+            "type": "manga",
+            "name": "Love Status Quo",
+            "url": "https://myanimelist.net/manga/genre/75/Love_Status_Quo"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38787,
+                    "type": "anime",
+                    "name": "Senryuu Shoujo",
+                    "url": "https://myanimelist.net/anime/38787/Senryuu_Shoujo"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 108407,
+                    "type": "manga",
+                    "name": "Kanojo, Okarishimasu",
+                    "url": "https://myanimelist.net/manga/108407/Kanojo_Okarishimasu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.shonenmagazine.com/smaga/senryushoujo"
+        }
+    ]
+}

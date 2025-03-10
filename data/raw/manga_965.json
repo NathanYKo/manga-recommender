@@ -1,0 +1,111 @@
+{
+    "mal_id": 965,
+    "url": "https://myanimelist.net/manga/965/Alive",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/268012.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/268012t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/268012l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/268012.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/268012t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/268012l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Alive"
+        },
+        {
+            "type": "Japanese",
+            "title": "ALIVE"
+        }
+    ],
+    "title": "Alive",
+    "title_english": null,
+    "title_japanese": "ALIVE",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-02-04T00:00:00+00:00",
+        "to": "1999-06-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 2,
+                "year": 1999
+            },
+            "to": {
+                "day": 17,
+                "month": 6,
+                "year": 1999
+            }
+        },
+        "string": "Feb 4, 1999 to Jun 17, 1999"
+    },
+    "score": 6.58,
+    "scored": 6.58,
+    "scored_by": 8199,
+    "rank": 15422,
+    "popularity": 1409,
+    "members": 14939,
+    "favorites": 83,
+    "synopsis": "Yashiro Tenshuu killed 5 people, including his girlfriend, and is now on death row. However, a secret government organization is willing to take him off death row if he allows himself to become a test subject to an experiment that requires a killer's intent.",
+    "background": "Alive was published in Portuguese by Panini Editorial on December 22, 2017.",
+    "authors": [
+        {
+            "mal_id": 2360,
+            "type": "people",
+            "name": "Takahashi, Tsutomu",
+            "url": "https://myanimelist.net/people/2360/Tsutomu_Takahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,157 @@
+{
+    "mal_id": 16391,
+    "url": "https://myanimelist.net/manga/16391/Akatsuki_no_Fumi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/81910.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/81910t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/81910l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/81910.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/81910t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/81910l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Akatsuki no Fumi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Daybreak Letters"
+        },
+        {
+            "type": "Synonym",
+            "title": "Inui Miku Tanpenshuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shinjitsu no Catharsis"
+        },
+        {
+            "type": "Synonym",
+            "title": "Moero! Otousan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rasen no Kioku"
+        },
+        {
+            "type": "Synonym",
+            "title": "Asa to Yoru no Tenohira ni"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimi ni Okuru"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hi no Matoi"
+        },
+        {
+            "type": "Japanese",
+            "title": "暁の文―乾みく短編集"
+        }
+    ],
+    "title": "Akatsuki no Fumi",
+    "title_english": null,
+    "title_japanese": "暁の文―乾みく短編集",
+    "title_synonyms": [
+        "Daybreak Letters",
+        "Inui Miku Tanpenshuu",
+        "Shinjitsu no Catharsis",
+        "Moero! Otousan",
+        "Rasen no Kioku",
+        "Asa to Yoru no Tenohira ni",
+        "Kimi ni Okuru",
+        "Hi no Matoi"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-11-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 11,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 25, 2011"
+    },
+    "score": 7.44,
+    "scored": 7.44,
+    "scored_by": 1211,
+    "rank": 3458,
+    "popularity": 8791,
+    "members": 2276,
+    "favorites": 6,
+    "synopsis": "1. Akatsuki no Fumi (Daybreak Letters)\n2. Shinjitsu no Catharsis (The Catharsis of Truth)\n3. Moero! Otousan\n4. Rasen no Kioku (Spiral Memories)\n5. Asa to Yoru no Tenohira ni\n6. Kimi ni Okuru\n7. Hi no Matoi (pilot)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 8873,
+            "type": "people",
+            "name": "Inui, Miku",
+            "url": "https://myanimelist.net/people/8873/Miku_Inui"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 177,
+            "type": "manga",
+            "name": "Zero-Sum WARD",
+            "url": "https://myanimelist.net/manga/magazine/177/Zero-Sum_WARD"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 16449,
+                    "type": "manga",
+                    "name": "Hi no Matoi",
+                    "url": "https://myanimelist.net/manga/16449/Hi_no_Matoi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

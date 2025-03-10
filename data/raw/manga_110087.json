@@ -1,0 +1,134 @@
+{
+    "mal_id": 110087,
+    "url": "https://myanimelist.net/manga/110087/Isekai_Nonbiri_Nouka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/202587.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/202587t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/202587l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/202587.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/202587t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/202587l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Isekai Nonbiri Nouka"
+        },
+        {
+            "type": "Japanese",
+            "title": "異世界のんびり農家"
+        },
+        {
+            "type": "English",
+            "title": "Farming life in another world."
+        }
+    ],
+    "title": "Isekai Nonbiri Nouka",
+    "title_english": "Farming life in another world.",
+    "title_japanese": "異世界のんびり農家",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-10-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 30, 2017 to ?"
+    },
+    "score": 7.15,
+    "scored": 7.15,
+    "scored_by": 1135,
+    "rank": 6765,
+    "popularity": 4355,
+    "members": 5132,
+    "favorites": 87,
+    "synopsis": "Having died of sickness at the age of 39, Machio Hiraku is given the opportunity to go to another world. When asked what his wish is by God intending to give him strength, he requests to have a healthy body, offered a second wish, he chooses to live peacefully, a third wish to be able to know the local language, and for a final wish, to be able to be a farmer.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 36303,
+            "type": "people",
+            "name": "Yasumo",
+            "url": "https://myanimelist.net/people/36303/Yasumo"
+        },
+        {
+            "mal_id": 46865,
+            "type": "people",
+            "name": "Naitou, Kinosuke",
+            "url": "https://myanimelist.net/people/46865/Kinosuke_Naitou"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 110460,
+                    "type": "manga",
+                    "name": "Isekai Nonbiri Nouka",
+                    "url": "https://myanimelist.net/manga/110460/Isekai_Nonbiri_Nouka"
+                },
+                {
+                    "mal_id": 51462,
+                    "type": "anime",
+                    "name": "Isekai Nonbiri Nouka",
+                    "url": "https://myanimelist.net/anime/51462/Isekai_Nonbiri_Nouka"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Farming_Life_in_Another_World"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/異世界のんびり農家"
+        }
+    ]
+}

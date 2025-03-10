@@ -1,0 +1,140 @@
+{
+    "mal_id": 66695,
+    "url": "https://myanimelist.net/manga/66695/Kimi_to_Nadekko",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/114245.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/114245t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/114245l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/114245.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/114245t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/114245l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi to Nadekko!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimi to Nadeko!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Monogatari Series Heroine Hon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Monogatari Series Heroine Book"
+        },
+        {
+            "type": "Japanese",
+            "title": "キミとなでっこ！"
+        }
+    ],
+    "title": "Kimi to Nadekko!",
+    "title_english": null,
+    "title_japanese": "キミとなでっこ！",
+    "title_synonyms": [
+        "Kimi to Nadeko!",
+        "Monogatari Series Heroine Hon",
+        "Monogatari Series Heroine Book"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-01-31T00:00:00+00:00",
+        "to": "2014-07-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 23,
+                "month": 7,
+                "year": 2014
+            }
+        },
+        "string": "Jan 31, 2014 to Jul 23, 2014"
+    },
+    "score": 6.36,
+    "scored": 6.36,
+    "scored_by": 1690,
+    "rank": 17993,
+    "popularity": 5624,
+    "members": 3841,
+    "favorites": 36,
+    "synopsis": "Nadeko Sengoku is an average, carefree middle school student. On the road to school one day, she runs into Ran Hokkyokusei, who she soon finds out is a new transfer student. When Ran tries to flirt with Nadeko, he is intercepted by Sui, her childhood friend, who claims that Nadeko belongs to him.\n\nKimi to Nadekko! revolves around Nadeko and the two boys as their rivalry and determination to make Nadeko’s heart sway toward them intensifies.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2312,
+            "type": "people",
+            "name": "Tooyama, Ema",
+            "url": "https://myanimelist.net/people/2312/Ema_Tooyama"
+        },
+        {
+            "mal_id": 5254,
+            "type": "people",
+            "name": "NISIO, ISIN",
+            "url": "https://myanimelist.net/people/5254/ISIN_NISIO"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 23751,
+                    "type": "manga",
+                    "name": "Monogatari Series: Second Season",
+                    "url": "https://myanimelist.net/manga/23751/Monogatari_Series__Second_Season"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 86670,
+                    "type": "manga",
+                    "name": "Monogatari Series Heroine Hon",
+                    "url": "https://myanimelist.net/manga/86670/Monogatari_Series_Heroine_Hon"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://bookclub.kodansha.co.jp/kodansha-box/topics/nishioproject/"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "mal_id": 103909,
+    "url": "https://myanimelist.net/manga/103909/Yukidoke_no_Koi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/190481.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/190481t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/190481l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/190481.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/190481t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/190481l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yukidoke no Koi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Lure Note"
+        },
+        {
+            "type": "Synonym",
+            "title": "Final Chapter"
+        },
+        {
+            "type": "Japanese",
+            "title": "雪解けの恋"
+        }
+    ],
+    "title": "Yukidoke no Koi",
+    "title_english": null,
+    "title_japanese": "雪解けの恋",
+    "title_synonyms": [
+        "Lure Note",
+        "Final Chapter"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-09-01T00:00:00+00:00",
+        "to": "2016-03-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 9,
+                "year": 2015
+            },
+            "to": {
+                "day": 1,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Sep 2015 to Mar 2016"
+    },
+    "score": 7.67,
+    "scored": 7.67,
+    "scored_by": 1511,
+    "rank": 1903,
+    "popularity": 6880,
+    "members": 3079,
+    "favorites": 26,
+    "synopsis": "Will they find happiness with each other or will they face pain and suffering? Is it a risk worth taking?\n\nThis beautiful manga follows the story of two men bound together by fate, Someya Yoshiyuki and Sumito Takada. One is a handsome and talented teacher, whilst the other is one of his students who is excitable and striving to be as popular as his teacher and to discover his meaning in the world.\n\nMeaningful, sweet and heart breaking, a manga impossible to stop reading even for a second.\n\nIncluded one-shots:\nLure Note, Final Chapter",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 43539,
+            "type": "people",
+            "name": "itz",
+            "url": "https://myanimelist.net/people/43539/itz"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 107960,
+                    "type": "manga",
+                    "name": "Bokura ga Koi wo Ushinau Riyuu",
+                    "url": "https://myanimelist.net/manga/107960/Bokura_ga_Koi_wo_Ushinau_Riyuu"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

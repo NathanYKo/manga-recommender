@@ -1,0 +1,149 @@
+{
+    "mal_id": 36729,
+    "url": "https://myanimelist.net/manga/36729/Beelzebub_Maou_Gaiden",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/66289.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/66289t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/66289l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/66289.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/66289t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/66289l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Beelzebub Maou Gaiden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tamura Ryuuhei Tanpenshuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Oumiya Jet"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nirai Kanai Yori"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ura Jet"
+        },
+        {
+            "type": "Synonym",
+            "title": "Beelzebub Extra"
+        },
+        {
+            "type": "Japanese",
+            "title": "べるぜバブ魔王外伝: 田村隆平短編集"
+        }
+    ],
+    "title": "Beelzebub Maou Gaiden",
+    "title_english": null,
+    "title_japanese": "べるぜバブ魔王外伝: 田村隆平短編集",
+    "title_synonyms": [
+        "Tamura Ryuuhei Tanpenshuu",
+        "Oumiya Jet",
+        "Nirai Kanai Yori",
+        "Ura Jet",
+        "Beelzebub Extra"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-10-06T00:00:00+00:00",
+        "to": "2011-08-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2003
+            },
+            "to": {
+                "day": 11,
+                "month": 8,
+                "year": 2011
+            }
+        },
+        "string": "Oct 6, 2003 to Aug 11, 2011"
+    },
+    "score": 7.62,
+    "scored": 7.62,
+    "scored_by": 3785,
+    "rank": 2174,
+    "popularity": 3016,
+    "members": 7433,
+    "favorites": 314,
+    "synopsis": "Compilation book featuring all of Ryūhei Tamura's early oneshots illustrated before he started on Beelzebub. The compilation also includes the Beelzebub Pilot Chapter and an extra chapter.\n\nContains:\n- Beelzebub \n- Oumiya Jet \n- Nirai Kanai Yori \n- URA BEAT \n- Beelzebub Extra",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7375,
+            "type": "people",
+            "name": "Tamura, Ryuuhei",
+            "url": "https://myanimelist.net/people/7375/Ryuuhei_Tamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 10010,
+                    "type": "manga",
+                    "name": "Beelzebub",
+                    "url": "https://myanimelist.net/manga/10010/Beelzebub"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

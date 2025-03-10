@@ -1,0 +1,144 @@
+{
+    "mal_id": 5602,
+    "url": "https://myanimelist.net/manga/5602/Wild_Life",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/17923.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/17923t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/17923l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/17923.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/17923t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/17923l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Wild Life"
+        },
+        {
+            "type": "Japanese",
+            "title": "ワイルドライフ"
+        }
+    ],
+    "title": "Wild Life",
+    "title_english": null,
+    "title_japanese": "ワイルドライフ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 234,
+    "volumes": 27,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-04-18T00:00:00+00:00",
+        "to": "2008-08-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 4,
+                "year": 2003
+            },
+            "to": {
+                "day": 1,
+                "month": 8,
+                "year": 2008
+            }
+        },
+        "string": "Apr 18, 2003 to Aug 2008"
+    },
+    "score": 7.71,
+    "scored": 7.71,
+    "scored_by": 1634,
+    "rank": 1688,
+    "popularity": 4753,
+    "members": 4640,
+    "favorites": 64,
+    "synopsis": "Tesshō is a high school juvenile delinquent. He has a special ability of perfect pitch. He saves a wild dog with the help of Kashu, a veterinarian. He later names the wild dog inu (Japanese for \"dog\"). He then finds his purpose in life: to become a veterinarian.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4658,
+            "type": "people",
+            "name": "Fujisaki, Masato",
+            "url": "https://myanimelist.net/people/4658/Masato_Fujisaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 67,
+            "type": "manga",
+            "name": "Medical",
+            "url": "https://myanimelist.net/manga/genre/67/Medical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 52686,
+                    "type": "anime",
+                    "name": "Shounen Sunday CM: Wild Life",
+                    "url": "https://myanimelist.net/anime/52686/Shounen_Sunday_CM__Wild_Life"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://websunday.net/rensai/set_wild.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Wild_Life_(manga)"
+        }
+    ]
+}

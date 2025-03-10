@@ -1,0 +1,172 @@
+{
+    "mal_id": 2955,
+    "url": "https://myanimelist.net/manga/2955/Otome_wa_Boku_ni_Koishiteru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/3202.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/3202t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/3202l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/3202.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/3202t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/3202l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Otome wa Boku ni Koishiteru"
+        },
+        {
+            "type": "Synonym",
+            "title": "Otome wa Boku ni Koi Shiteru"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Maidens are Falling in Love with the Elder Sister"
+        },
+        {
+            "type": "Synonym",
+            "title": "Otoboku"
+        },
+        {
+            "type": "Japanese",
+            "title": "乙女はお姉さまに恋してる"
+        }
+    ],
+    "title": "Otome wa Boku ni Koishiteru",
+    "title_english": null,
+    "title_japanese": "乙女はお姉さまに恋してる",
+    "title_synonyms": [
+        "Otome wa Boku ni Koi Shiteru",
+        "The Maidens are Falling in Love with the Elder Sister",
+        "Otoboku"
+    ],
+    "type": "Manga",
+    "chapters": 21,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-09-21T00:00:00+00:00",
+        "to": "2008-06-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 9,
+                "year": 2006
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2008
+            }
+        },
+        "string": "Sep 21, 2006 to Jun 27, 2008"
+    },
+    "score": 6.87,
+    "scored": 6.87,
+    "scored_by": 824,
+    "rank": 11081,
+    "popularity": 8282,
+    "members": 2451,
+    "favorites": 4,
+    "synopsis": "Mizuho can't believe his ears when Grandpa's will is read out. Grandpa's final wish is for Mizuho to attend the same academy as Mizuho's mother. The catch is it's an all-girls school. With the help of his friend Mariya however, he gets a makeover good enough to fool everyone at the academy.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3263,
+            "type": "people",
+            "name": "Araki, Kanao",
+            "url": "https://myanimelist.net/people/3263/Kanao_Araki"
+        },
+        {
+            "mal_id": 3266,
+            "type": "people",
+            "name": "Caramel Box",
+            "url": "https://myanimelist.net/people/3266/Caramel_Box"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 44,
+            "type": "manga",
+            "name": "Crossdressing",
+            "url": "https://myanimelist.net/manga/genre/44/Crossdressing"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 24242,
+                    "type": "manga",
+                    "name": "Otome wa Boku ni Koishiteru: Futari no Elder",
+                    "url": "https://myanimelist.net/manga/24242/Otome_wa_Boku_ni_Koishiteru__Futari_no_Elder"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1569,
+                    "type": "anime",
+                    "name": "Otome wa Boku ni Koishiteru",
+                    "url": "https://myanimelist.net/anime/1569/Otome_wa_Boku_ni_Koishiteru"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Otome_wa_Boku_ni_Koishiteru"
+        }
+    ]
+}

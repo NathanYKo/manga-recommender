@@ -1,0 +1,149 @@
+{
+    "mal_id": 3127,
+    "url": "https://myanimelist.net/manga/3127/Boku_wa_Imouto_ni_Koi_wo_Suru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6264.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6264t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6264l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6264.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6264t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6264l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boku wa Imouto ni Koi wo Suru"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Love My Little Sister"
+        },
+        {
+            "type": "Japanese",
+            "title": "僕は妹に恋をする"
+        },
+        {
+            "type": "English",
+            "title": "Secret Sweethearts"
+        }
+    ],
+    "title": "Boku wa Imouto ni Koi wo Suru",
+    "title_english": "Secret Sweethearts",
+    "title_japanese": "僕は妹に恋をする",
+    "title_synonyms": [
+        "I Love My Little Sister"
+    ],
+    "type": "Manga",
+    "chapters": 60,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-12-20T00:00:00+00:00",
+        "to": "2005-06-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 12,
+                "year": 2002
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2005
+            }
+        },
+        "string": "Dec 20, 2002 to Jun 20, 2005"
+    },
+    "score": 6.83,
+    "scored": 6.83,
+    "scored_by": 3527,
+    "rank": 11681,
+    "popularity": 2575,
+    "members": 8592,
+    "favorites": 75,
+    "synopsis": "Yori's attitude has changed. He and his twin sister, Iku, used to be inseparable as children, but lately Yori's been different—eager to be apart from Iku. Iku worries that he hates her, but the truth is far more scandalous. Now, Yori would risk losing everything to have his little sister. Iku loves her big brother enough that she would never risk losing him, and so she'll do what it takes to keep them together... but Yori doesn't want to have her that way—as a sister dedicated to her twin. Can Iku ever love Yori not as a brother but as a man?\n\n(Source: ShoujoMagic)",
+    "background": "Boku wa Imouto ni Koi wo Suru won the Shogakukan Manga Award in the shoujo manga category in 2008. The series was published in Spanish by Editorial Ivrea, in French by Soleil, and was adapted into a live-action movie in 2007.",
+    "authors": [
+        {
+            "mal_id": 3005,
+            "type": "people",
+            "name": "Aoki, Kotomi",
+            "url": "https://myanimelist.net/people/3005/Kotomi_Aoki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Sho-Comi",
+            "url": "https://myanimelist.net/manga/magazine/22/Sho-Comi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 819,
+                    "type": "anime",
+                    "name": "Boku wa Imouto ni Koi wo Suru",
+                    "url": "https://myanimelist.net/anime/819/Boku_wa_Imouto_ni_Koi_wo_Suru"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 4207,
+                    "type": "manga",
+                    "name": "Boku no Hatsukoi wo Kimi ni Sasagu",
+                    "url": "https://myanimelist.net/manga/4207/Boku_no_Hatsukoi_wo_Kimi_ni_Sasagu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AF%E5%A6%B9%E3%81%AB%E6%81%8B%E3%82%92%E3%81%99%E3%82%8B"
+        }
+    ]
+}

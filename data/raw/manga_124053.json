@@ -1,0 +1,140 @@
+{
+    "mal_id": 124053,
+    "url": "https://myanimelist.net/manga/124053/Dekoboko_Majo_no_Oyako_Jijou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/281841.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/281841t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/281841l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/281841.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/281841t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/281841l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dekoboko Majo no Oyako Jijou"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Family Circumstances of the Unreliable Witch"
+        },
+        {
+            "type": "Japanese",
+            "title": "でこぼこ魔女の親子事情"
+        }
+    ],
+    "title": "Dekoboko Majo no Oyako Jijou",
+    "title_english": null,
+    "title_japanese": "でこぼこ魔女の親子事情",
+    "title_synonyms": [
+        "The Family Circumstances of the Unreliable Witch"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2018-07-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 11, 2018 to ?"
+    },
+    "score": 6.81,
+    "scored": 6.81,
+    "scored_by": 816,
+    "rank": 12050,
+    "popularity": 5930,
+    "members": 3628,
+    "favorites": 9,
+    "synopsis": "A witch who lives alone in the forest picks up a child. 16 years later, she grows up bigger than expected.\n\n(Source: Flex Comix, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 50782,
+            "type": "people",
+            "name": "Piroya",
+            "url": "https://myanimelist.net/people/50782/Piroya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 827,
+            "type": "manga",
+            "name": "Comic Meteor",
+            "url": "https://myanimelist.net/manga/magazine/827/Comic_Meteor"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 52985,
+                    "type": "anime",
+                    "name": "Dekoboko Majo no Oyako Jijou",
+                    "url": "https://myanimelist.net/anime/52985/Dekoboko_Majo_no_Oyako_Jijou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-meteor.jp/dekoboko/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dekoboko_Majo_no_Oyako_Jij%C5%8D"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/でこぼこ魔女の親子事情"
+        }
+    ]
+}

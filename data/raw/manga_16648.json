@@ -1,0 +1,154 @@
+{
+    "mal_id": 16648,
+    "url": "https://myanimelist.net/manga/16648/Angel_Beats__Track_Zero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/176840.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/176840t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/176840l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/176840.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/176840t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/176840l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Angel Beats!: Track Zero"
+        },
+        {
+            "type": "Japanese",
+            "title": "Angel Beats! ―Track ZERO―"
+        }
+    ],
+    "title": "Angel Beats!: Track Zero",
+    "title_english": null,
+    "title_japanese": "Angel Beats! ―Track ZERO―",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-09-30T00:00:00+00:00",
+        "to": "2010-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 9,
+                "year": 2009
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Sep 30, 2009 to Mar 30, 2010"
+    },
+    "score": 7.66,
+    "scored": 7.66,
+    "scored_by": 1615,
+    "rank": 1954,
+    "popularity": 3382,
+    "members": 6607,
+    "favorites": 63,
+    "synopsis": "The light novel is the official prequel to the anime series. It tells the story of how Yuri and Hinata meet, how they find out about \"Tenshi\" and the other characters and how the SSS was founded.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2347,
+            "type": "people",
+            "name": "Maeda, Jun",
+            "url": "https://myanimelist.net/people/2347/Jun_Maeda"
+        },
+        {
+            "mal_id": 28043,
+            "type": "people",
+            "name": "GotoP",
+            "url": "https://myanimelist.net/people/28043/GotoP"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 198,
+            "type": "manga",
+            "name": "Dengeki G's magazine",
+            "url": "https://myanimelist.net/manga/magazine/198/Dengeki_G_039_s_magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 6547,
+                    "type": "anime",
+                    "name": "Angel Beats!",
+                    "url": "https://myanimelist.net/anime/6547/Angel_Beats"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 19671,
+                    "type": "manga",
+                    "name": "Angel Beats!: Heaven's Door",
+                    "url": "https://myanimelist.net/manga/19671/Angel_Beats__Heavens_Door"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 19672,
+                    "type": "manga",
+                    "name": "Angel Beats! The 4-koma: Bokura no Sensen Koushinkyoku♪",
+                    "url": "https://myanimelist.net/manga/19672/Angel_Beats_The_4-koma__Bokura_no_Sensen_Koushinkyoku♪"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/Angel_Beats!"
+        }
+    ]
+}

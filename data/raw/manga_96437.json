@@ -1,0 +1,142 @@
+{
+    "mal_id": 96437,
+    "url": "https://myanimelist.net/manga/96437/Angolmois__Genkou_Kassenki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/172186.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/172186t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/172186l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/172186.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/172186t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/172186l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Angolmois: Genkou Kassenki"
+        },
+        {
+            "type": "Japanese",
+            "title": "アンゴルモア 元寇合戦記"
+        }
+    ],
+    "title": "Angolmois: Genkou Kassenki",
+    "title_english": null,
+    "title_japanese": "アンゴルモア 元寇合戦記",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 40,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-02-26T00:00:00+00:00",
+        "to": "2018-08-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 2,
+                "year": 2013
+            },
+            "to": {
+                "day": 25,
+                "month": 8,
+                "year": 2018
+            }
+        },
+        "string": "Feb 26, 2013 to Aug 25, 2018"
+    },
+    "score": 7.07,
+    "scored": 7.07,
+    "scored_by": 388,
+    "rank": 7876,
+    "popularity": 8771,
+    "members": 2282,
+    "favorites": 2,
+    "synopsis": "In the 13th century, the Mongolian Empire rapidly expands across the globe. Later historians who studied the prophecies of Nostradamus would say that Mongolia was the birthplace of the \"Great King of Terror,\" Angolmois. And at last, the force of the Mongolian Empire would turn their attention toward Japan... 1274: The Bun'ei Invasion. The exiled samurai Jinzaburou Kuchii is in Kamakura when he finds himself face to face with this invasion.\n\nThis story is a fresh look at the great battle that rocked all of medieval Japan: the Mongol Invasion. It shows how the people of Tsushima panicked, struggled, and eventually rose up against the overwhelming forces of their enemy.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 40281,
+            "type": "people",
+            "name": "Takagi, Nanahiko",
+            "url": "https://myanimelist.net/people/40281/Nanahiko_Takagi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1159,
+            "type": "manga",
+            "name": "ComicWalker",
+            "url": "https://myanimelist.net/manga/magazine/1159/ComicWalker"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        },
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Samurai",
+            "url": "https://myanimelist.net/manga/genre/21/Samurai"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 132819,
+                    "type": "manga",
+                    "name": "Angolmois: Genkou Kassenki - Hakata-hen",
+                    "url": "https://myanimelist.net/manga/132819/Angolmois__Genkou_Kassenki_-_Hakata-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35834,
+                    "type": "anime",
+                    "name": "Angolmois: Genkou Kassenki",
+                    "url": "https://myanimelist.net/anime/35834/Angolmois__Genkou_Kassenki"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-walker.com/contents/detail/KDCW_CW01200704010000_68/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B4%E3%83%AB%E3%83%A2%E3%82%A2%E3%80%9C%E5%85%83%E5%AF%87%E5%90%88%E6%88%A6%E8%A8%98%E3%80%9C"
+        }
+    ]
+}

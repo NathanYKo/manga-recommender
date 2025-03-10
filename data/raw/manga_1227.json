@@ -1,0 +1,172 @@
+{
+    "mal_id": 1227,
+    "url": "https://myanimelist.net/manga/1227/Maria-sama_ga_Miteru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/101085.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/101085t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/101085l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/101085.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/101085t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/101085l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Maria-sama ga Miteru"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rosen unter Marias Obhut"
+        },
+        {
+            "type": "Synonym",
+            "title": "Maria Watches Over Us"
+        },
+        {
+            "type": "Synonym",
+            "title": "MariMite"
+        },
+        {
+            "type": "Japanese",
+            "title": "マリア様がみてる"
+        },
+        {
+            "type": "English",
+            "title": "The Virgin Mary is Watching"
+        }
+    ],
+    "title": "Maria-sama ga Miteru",
+    "title_english": "The Virgin Mary is Watching",
+    "title_japanese": "マリア様がみてる",
+    "title_synonyms": [
+        "Rosen unter Marias Obhut",
+        "Maria Watches Over Us",
+        "MariMite"
+    ],
+    "type": "Manga",
+    "chapters": 48,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-10-01T00:00:00+00:00",
+        "to": "2007-12-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2003
+            },
+            "to": {
+                "day": 1,
+                "month": 12,
+                "year": 2007
+            }
+        },
+        "string": "Oct 2003 to Dec 2007"
+    },
+    "score": 7.62,
+    "scored": 7.62,
+    "scored_by": 806,
+    "rank": 2210,
+    "popularity": 7355,
+    "members": 2822,
+    "favorites": 53,
+    "synopsis": "Yumi Fukuzawa, who is basically a nobody and a first year student at Lillian Academy, a Catholic exclusive school for girls with a tradition that older girls take a younger girl as their little sister or \"soeur,\" suddenly finds herself interacting with the members of the Yamayurikai and their soeurs when an innocent encounter leads Sachiko to impulsively ask Yumi to be her soeur.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4748,
+            "type": "people",
+            "name": "Konno, Oyuki",
+            "url": "https://myanimelist.net/people/4748/Oyuki_Konno"
+        },
+        {
+            "mal_id": 4749,
+            "type": "people",
+            "name": "Nagasawa, Satoru",
+            "url": "https://myanimelist.net/people/4749/Satoru_Nagasawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Margaret",
+            "url": "https://myanimelist.net/manga/magazine/17/Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 4177,
+                    "type": "manga",
+                    "name": "Maria-sama ga Miteru",
+                    "url": "https://myanimelist.net/manga/4177/Maria-sama_ga_Miteru"
+                },
+                {
+                    "mal_id": 158,
+                    "type": "anime",
+                    "name": "Maria-sama ga Miteru",
+                    "url": "https://myanimelist.net/anime/158/Maria-sama_ga_Miteru"
+                },
+                {
+                    "mal_id": 444,
+                    "type": "anime",
+                    "name": "Maria-sama ga Miteru: Haru",
+                    "url": "https://myanimelist.net/anime/444/Maria-sama_ga_Miteru__Haru"
+                },
+                {
+                    "mal_id": 1729,
+                    "type": "anime",
+                    "name": "Maria-sama ga Miteru 3rd",
+                    "url": "https://myanimelist.net/anime/1729/Maria-sama_ga_Miteru_3rd"
+                },
+                {
+                    "mal_id": 3750,
+                    "type": "anime",
+                    "name": "Maria-sama ga Miteru 4th",
+                    "url": "https://myanimelist.net/anime/3750/Maria-sama_ga_Miteru_4th"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

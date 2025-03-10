@@ -1,0 +1,138 @@
+{
+    "mal_id": 103727,
+    "url": "https://myanimelist.net/manga/103727/Re_Creators",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/199589.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/199589t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/199589l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/199589.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/199589t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/199589l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Re:Creators"
+        },
+        {
+            "type": "Japanese",
+            "title": "Re:CREATORS"
+        }
+    ],
+    "title": "Re:Creators",
+    "title_english": null,
+    "title_japanese": "Re:CREATORS",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 29,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-04-19T00:00:00+00:00",
+        "to": "2019-11-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 19,
+                "month": 11,
+                "year": 2019
+            }
+        },
+        "string": "Apr 19, 2017 to Nov 19, 2019"
+    },
+    "score": 7.51,
+    "scored": 7.51,
+    "scored_by": 426,
+    "rank": 2931,
+    "popularity": 5093,
+    "members": 4300,
+    "favorites": 38,
+    "synopsis": "Humans have created many stories. Joy, sadness, anger, deep emotion. Stories shake our emotions, and fascinate us. However, these are only the thoughts of bystanders. But what if the characters in the story have \"intentions\"? To them, are we god-like existences for bringing their story into the world? Our world is changed. Mete out punishment upon the realm of the gods. In Re:Creators, everyone becomes a Creator.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2578,
+            "type": "people",
+            "name": "Hiroe, Rei",
+            "url": "https://myanimelist.net/people/2578/Rei_Hiroe"
+        },
+        {
+            "mal_id": 14017,
+            "type": "people",
+            "name": "Katou, Daiki",
+            "url": "https://myanimelist.net/people/14017/Daiki_Katou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Sunday Gene-X",
+            "url": "https://myanimelist.net/manga/magazine/40/Sunday_Gene-X"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 34561,
+                    "type": "anime",
+                    "name": "Re:Creators",
+                    "url": "https://myanimelist.net/anime/34561/Re_Creators"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 112106,
+                    "type": "manga",
+                    "name": "Re:Creators: One More!",
+                    "url": "https://myanimelist.net/manga/112106/Re_Creators__One_More"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/Re:CREATORS"
+        }
+    ]
+}

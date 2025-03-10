@@ -1,0 +1,143 @@
+{
+    "mal_id": 30125,
+    "url": "https://myanimelist.net/manga/30125/Freezing__First_Chronicle",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/64943.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/64943t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/64943l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/64943.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/64943t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/64943l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Freezing: First Chronicle"
+        },
+        {
+            "type": "Japanese",
+            "title": "フリージング　ファーストクロニクル"
+        }
+    ],
+    "title": "Freezing: First Chronicle",
+    "title_english": null,
+    "title_japanese": "フリージング　ファーストクロニクル",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-09-27T00:00:00+00:00",
+        "to": "2012-01-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 9,
+                "year": 2011
+            },
+            "to": {
+                "day": 27,
+                "month": 1,
+                "year": 2012
+            }
+        },
+        "string": "Sep 27, 2011 to Jan 27, 2012"
+    },
+    "score": 7.61,
+    "scored": 7.61,
+    "scored_by": 2625,
+    "rank": 2235,
+    "popularity": 3956,
+    "members": 5683,
+    "favorites": 43,
+    "synopsis": "A prequel to the original series, the story centers on Chiffon Fairchild's first year at West Genetics prior to her becoming Student Council President, and also explains the origin of her title, \"The Unmatched Smiling Monster\".\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1958,
+            "type": "people",
+            "name": "Yoon, Jae Ho",
+            "url": "https://myanimelist.net/people/1958/Jae_Ho_Yoon"
+        },
+        {
+            "mal_id": 2827,
+            "type": "people",
+            "name": "Im, Dal Young",
+            "url": "https://myanimelist.net/people/2827/Dal_Young_Im"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 234,
+            "type": "manga",
+            "name": "Comic Valkyrie",
+            "url": "https://myanimelist.net/manga/magazine/234/Comic_Valkyrie"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 5911,
+                    "type": "manga",
+                    "name": "Freezing",
+                    "url": "https://myanimelist.net/manga/5911/Freezing"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.comic-valkyrie.com/modules/contents/freezingf.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Freezing_%28manga%29"
+        }
+    ]
+}

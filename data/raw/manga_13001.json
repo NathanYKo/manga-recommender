@@ -1,0 +1,200 @@
+{
+    "mal_id": 13001,
+    "url": "https://myanimelist.net/manga/13001/K-On",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/259427.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/259427t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/259427l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/259427.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/259427t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/259427l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "K-On!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Keion"
+        },
+        {
+            "type": "Japanese",
+            "title": "けいおん!"
+        },
+        {
+            "type": "English",
+            "title": "K-On!"
+        }
+    ],
+    "title": "K-On!",
+    "title_english": "K-On!",
+    "title_japanese": "けいおん!",
+    "title_synonyms": [
+        "Keion"
+    ],
+    "type": "Manga",
+    "chapters": 57,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-04-09T00:00:00+00:00",
+        "to": "2010-09-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 9,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Apr 9, 2007 to Sep 9, 2010"
+    },
+    "score": 7.77,
+    "scored": 7.77,
+    "scored_by": 17371,
+    "rank": 1452,
+    "popularity": 515,
+    "members": 36310,
+    "favorites": 1866,
+    "synopsis": "The Light Music Club indulges in easy and simple activities, or that is what the carefree Yui Hirasawa first believes. When Yui goes to formally quit the club, she finds out that if she leaves, the club will not have enough members to continue its activities. This puts Yui in a sudden dilemma. However, its members—the mature Mio Akiyama, the playful Ritsu Tainaka, and the ladylike Tsumugi Kotobuki—decide to perform an instrumental piece to try and keep Yui. The song not only fills her up with excitement, it also leads her to decide to remain in the Light Music Club.\n\nWhile the sounds of cheerful girls fill the clubroom of the Light Music Club, the members juggle both schoolwork and their love for music. They may play around once in a while, but that makes the high school life in K-On! even more exciting!\n\n[Written by MAL Rewrite]",
+    "background": "K-On! was published in English by Yen Press from November 30, 2010, to December 13, 2011. The publisher later released the manga as a 4-in-1 omnibus volume. It was also published in Polish by Studio JG from April 24, 2015, to February 26, 2016; and in Brazilian Portuguese by NewPOP Editora from July 2011 to October 2012.",
+    "authors": [
+        {
+            "mal_id": 7362,
+            "type": "people",
+            "name": "Kakifly",
+            "url": "https://myanimelist.net/people/7362/Kakifly"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 182,
+            "type": "manga",
+            "name": "Manga Time Kirara",
+            "url": "https://myanimelist.net/manga/magazine/182/Manga_Time_Kirara"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 51855,
+                    "type": "manga",
+                    "name": "K-On! College",
+                    "url": "https://myanimelist.net/manga/51855/K-On_College"
+                },
+                {
+                    "mal_id": 51857,
+                    "type": "manga",
+                    "name": "K-On! Highschool",
+                    "url": "https://myanimelist.net/manga/51857/K-On_Highschool"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 5680,
+                    "type": "anime",
+                    "name": "K-On!",
+                    "url": "https://myanimelist.net/anime/5680/K-On"
+                },
+                {
+                    "mal_id": 7791,
+                    "type": "anime",
+                    "name": "K-On!!",
+                    "url": "https://myanimelist.net/anime/7791/K-On"
+                },
+                {
+                    "mal_id": 9617,
+                    "type": "anime",
+                    "name": "K-On! Movie",
+                    "url": "https://myanimelist.net/anime/9617/K-On_Movie"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 114623,
+                    "type": "manga",
+                    "name": "K-On! Shuffle",
+                    "url": "https://myanimelist.net/manga/114623/K-On_Shuffle"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 19551,
+                    "type": "manga",
+                    "name": "K-On! Anthology Comic",
+                    "url": "https://myanimelist.net/manga/19551/K-On_Anthology_Comic"
+                },
+                {
+                    "mal_id": 120569,
+                    "type": "manga",
+                    "name": "K-On! Story Anthology Comic",
+                    "url": "https://myanimelist.net/manga/120569/K-On_Story_Anthology_Comic"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%91%E3%81%84%E3%81%8A%E3%82%93!"
+        }
+    ]
+}

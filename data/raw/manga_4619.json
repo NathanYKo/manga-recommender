@@ -1,0 +1,155 @@
+{
+    "mal_id": 4619,
+    "url": "https://myanimelist.net/manga/4619/Kenrou_Densetsu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/33376.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/33376t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/33376l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/33376.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/33376t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/33376l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kenrou Densetsu"
+        },
+        {
+            "type": "Japanese",
+            "title": "犬狼伝説"
+        },
+        {
+            "type": "English",
+            "title": "Kerberos Panzer Cop"
+        }
+    ],
+    "title": "Kenrou Densetsu",
+    "title_english": "Kerberos Panzer Cop",
+    "title_japanese": "犬狼伝説",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1988-01-01T00:00:00+00:00",
+        "to": "1999-11-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1988
+            },
+            "to": {
+                "day": 26,
+                "month": 11,
+                "year": 1999
+            }
+        },
+        "string": "1988 to Nov 26, 1999"
+    },
+    "score": 7.05,
+    "scored": 7.05,
+    "scored_by": 370,
+    "rank": 8223,
+    "popularity": 6676,
+    "members": 3176,
+    "favorites": 17,
+    "synopsis": "In a parallel Japan, the government struggles to handle the urban guerrilla called \"Sects.\" To confront Sects' activity, Metropolitan Police was organized and its Special Armed Garrison \"Tokki-tai: Kerberos\" standed at the front line with their heavy arms. Although Tokki-tai achieved a triumph over Sects, people started to oppose their violent and bloody measure. Politically isolated, Tokki-tai made a final decision on their own fate...",
+    "background": "The first four acts of Kenrou Densetsu were published in English as Hellhounds: Panzer Cops by Dark Horse, who published six comic book issues from January 1994 to July 1994.",
+    "authors": [
+        {
+            "mal_id": 2864,
+            "type": "people",
+            "name": "Fujiwara, Kamui",
+            "url": "https://myanimelist.net/people/2864/Kamui_Fujiwara"
+        },
+        {
+            "mal_id": 4097,
+            "type": "people",
+            "name": "Oshii, Mamoru",
+            "url": "https://myanimelist.net/people/4097/Mamoru_Oshii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        },
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 28240,
+                    "type": "manga",
+                    "name": "Kenrou Densetsu: Akai Ashikon",
+                    "url": "https://myanimelist.net/manga/28240/Kenrou_Densetsu__Akai_Ashikon"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 570,
+                    "type": "anime",
+                    "name": "Jin-Rou",
+                    "url": "https://myanimelist.net/anime/570/Jin-Rou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%8A%AC%E7%8B%BC%E4%BC%9D%E8%AA%AC"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "mal_id": 104440,
+    "url": "https://myanimelist.net/manga/104440/Monkey_Peak",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/191373.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/191373t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/191373l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/191373.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/191373t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/191373l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Monkey Peak"
+        },
+        {
+            "type": "Japanese",
+            "title": "モンキーピーク"
+        }
+    ],
+    "title": "Monkey Peak",
+    "title_english": null,
+    "title_japanese": "モンキーピーク",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 120,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-09-02T00:00:00+00:00",
+        "to": "2019-10-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 9,
+                "year": 2016
+            },
+            "to": {
+                "day": 18,
+                "month": 10,
+                "year": 2019
+            }
+        },
+        "string": "Sep 2, 2016 to Oct 18, 2019"
+    },
+    "score": 6.56,
+    "scored": 6.56,
+    "scored_by": 1780,
+    "rank": 15740,
+    "popularity": 3991,
+    "members": 5636,
+    "favorites": 30,
+    "synopsis": "The story centers on a group of pharmaceutical company employees who embark on a mountain-climbing trip together and who encounter tragedy at the hands of mysterious monkeys when they reach the top.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 16327,
+            "type": "people",
+            "name": "Shinasaka, Koji",
+            "url": "https://myanimelist.net/people/16327/Koji_Shinasaka"
+        },
+        {
+            "mal_id": 44256,
+            "type": "people",
+            "name": "Kumeta, Akihiro",
+            "url": "https://myanimelist.net/people/44256/Akihiro_Kumeta"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 607,
+            "type": "manga",
+            "name": "Manga Goraku",
+            "url": "https://myanimelist.net/manga/magazine/607/Manga_Goraku"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 140476,
+                    "type": "manga",
+                    "name": "Monkey Peak: The Rock",
+                    "url": "https://myanimelist.net/manga/140476/Monkey_Peak__The_Rock"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38579,
+                    "type": "anime",
+                    "name": "Monkey Peak",
+                    "url": "https://myanimelist.net/anime/38579/Monkey_Peak"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 142368,
+                    "type": "manga",
+                    "name": "Monkey Circle",
+                    "url": "https://myanimelist.net/manga/142368/Monkey_Circle"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Monkey_Peak"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%94%E3%83%BC%E3%82%AF"
+        }
+    ]
+}

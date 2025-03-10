@@ -1,0 +1,144 @@
+{
+    "mal_id": 77163,
+    "url": "https://myanimelist.net/manga/77163/Joukamachi_no_Dandelion",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/133651.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/133651t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/133651l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/133651.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/133651t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/133651l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Joukamachi no Dandelion"
+        },
+        {
+            "type": "Synonym",
+            "title": "Castle Town Dandelion"
+        },
+        {
+            "type": "Japanese",
+            "title": "城下町のダンデライオン"
+        }
+    ],
+    "title": "Joukamachi no Dandelion",
+    "title_english": null,
+    "title_japanese": "城下町のダンデライオン",
+    "title_synonyms": [
+        "Castle Town Dandelion"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2012-02-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 2,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 16, 2012 to ?"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 824,
+    "rank": 3946,
+    "popularity": 4804,
+    "members": 4575,
+    "favorites": 38,
+    "synopsis": "Sakurada family is pretty ordinary family of eleven people living in a solitary house. Except that their father is the king, and each of children have special powers. Also to ensure their safety and to help citizens decide the next king, the house is observed by more than 200 security cameras.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 20270,
+            "type": "people",
+            "name": "Kasuga, Ayumu",
+            "url": "https://myanimelist.net/people/20270/Ayumu_Kasuga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 935,
+            "type": "manga",
+            "name": "Manga Time Kirara Miracle!",
+            "url": "https://myanimelist.net/manga/magazine/935/Manga_Time_Kirara_Miracle"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 28387,
+                    "type": "anime",
+                    "name": "Joukamachi no Dandelion",
+                    "url": "https://myanimelist.net/anime/28387/Joukamachi_no_Dandelion"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 92651,
+                    "type": "manga",
+                    "name": "Joukamachi no Dandelion Anthology Comic",
+                    "url": "https://myanimelist.net/manga/92651/Joukamachi_no_Dandelion_Anthology_Comic"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%9F%8E%E4%B8%8B%E7%94%BA%E3%81%AE%E3%83%80%E3%83%B3%E3%83%87%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3"
+        }
+    ]
+}

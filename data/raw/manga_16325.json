@@ -1,0 +1,109 @@
+{
+    "mal_id": 16325,
+    "url": "https://myanimelist.net/manga/16325/Zero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/209663.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/209663t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/209663l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/209663.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/209663t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/209663l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zero"
+        },
+        {
+            "type": "Japanese",
+            "title": "ZERO"
+        }
+    ],
+    "title": "Zero",
+    "title_english": null,
+    "title_japanese": "ZERO",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 22,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1990-01-01T00:00:00+00:00",
+        "to": "1991-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1990
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1991
+            }
+        },
+        "string": "1990 to 1991"
+    },
+    "score": 7.33,
+    "scored": 7.33,
+    "scored_by": 1436,
+    "rank": 4536,
+    "popularity": 5560,
+    "members": 3895,
+    "favorites": 36,
+    "synopsis": "Goshima is a boxer who has held the world championship title for years and never once lost a match—thus earning himself the nickname \"Zero.\" His coach, Araki, describes him as \"a flower that blooms only within the ring.\" But with his 30th birthday approaching, everyone begins to question Goshima's worth. Thus he decides to look for the ultimate opponent to give him his final match.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2409,
+            "type": "people",
+            "name": "Matsumoto, Taiyou",
+            "url": "https://myanimelist.net/people/2409/Taiyou_Matsumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ZERO_%28%E6%9D%BE%E6%9C%AC%E5%A4%A7%E6%B4%8B%29"
+        }
+    ]
+}

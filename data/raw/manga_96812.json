@@ -1,0 +1,136 @@
+{
+    "mal_id": 96812,
+    "url": "https://myanimelist.net/manga/96812/Emiya-san_Chi_no_Kyou_no_Gohan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/189196.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/189196t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/189196l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/189196.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/189196t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/189196l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Emiya-san Chi no Kyou no Gohan"
+        },
+        {
+            "type": "Japanese",
+            "title": "衛宮さんちの今日のごはん"
+        },
+        {
+            "type": "English",
+            "title": "Today's Menu for the Emiya Family"
+        }
+    ],
+    "title": "Emiya-san Chi no Kyou no Gohan",
+    "title_english": "Today's Menu for the Emiya Family",
+    "title_japanese": "衛宮さんちの今日のごはん",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-01-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 26, 2016 to ?"
+    },
+    "score": 7.82,
+    "scored": 7.82,
+    "scored_by": 824,
+    "rank": 1240,
+    "popularity": 5717,
+    "members": 3768,
+    "favorites": 80,
+    "synopsis": "A Fate/stay Night spin-off focused on cooking.",
+    "background": "Emiya-san Chi no Kyou no Gohan has been published in English as Today's Menu for the Emiya Family by Denpa since March 12, 2019.",
+    "authors": [
+        {
+            "mal_id": 40412,
+            "type": "people",
+            "name": "TAa",
+            "url": "https://myanimelist.net/people/40412/TAa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1340,
+            "type": "manga",
+            "name": "Young Ace UP",
+            "url": "https://myanimelist.net/manga/magazine/1340/Young_Ace_UP"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 37033,
+                    "type": "anime",
+                    "name": "Emiya-san Chi no Kyou no Gohan",
+                    "url": "https://myanimelist.net/anime/37033/Emiya-san_Chi_no_Kyou_no_Gohan"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 715,
+                    "type": "manga",
+                    "name": "Fate/stay night",
+                    "url": "https://myanimelist.net/manga/715/Fate_stay_night"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://web-ace.jp/youngaceup/contents/1000010/"
+        }
+    ]
+}

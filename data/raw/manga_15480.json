@@ -1,0 +1,148 @@
+{
+    "mal_id": 15480,
+    "url": "https://myanimelist.net/manga/15480/Canaan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/271572.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/271572t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/271572l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/271572.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/271572t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/271572l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Canaan"
+        },
+        {
+            "type": "Japanese",
+            "title": "CANAAN"
+        }
+    ],
+    "title": "Canaan",
+    "title_english": null,
+    "title_japanese": "CANAAN",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 24,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-06-26T00:00:00+00:00",
+        "to": "2011-01-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 6,
+                "year": 2009
+            },
+            "to": {
+                "day": 26,
+                "month": 1,
+                "year": 2011
+            }
+        },
+        "string": "Jun 26, 2009 to Jan 26, 2011"
+    },
+    "score": 7.2,
+    "scored": 7.2,
+    "scored_by": 387,
+    "rank": 6166,
+    "popularity": 8372,
+    "members": 2419,
+    "favorites": 17,
+    "synopsis": "Manga adaptation of the scenario that Type-Moon co-founders Kinoko Nasu and Takashi Takeuchi, created for the Nintendo Wii visual novel 428: Fuusasareta Shibuya de.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10469,
+            "type": "people",
+            "name": "Ishida, Akira",
+            "url": "https://myanimelist.net/people/10469/Akira_Ishida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 112,
+            "type": "manga",
+            "name": "Comp Ace",
+            "url": "https://myanimelist.net/manga/magazine/112/Comp_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 88111,
+                    "type": "manga",
+                    "name": "Canaan Sfill",
+                    "url": "https://myanimelist.net/manga/88111/Canaan_Sfill"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 5356,
+                    "type": "anime",
+                    "name": "Canaan",
+                    "url": "https://myanimelist.net/anime/5356/Canaan"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 24057,
+                    "type": "manga",
+                    "name": "Canaan",
+                    "url": "https://myanimelist.net/manga/24057/Canaan"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/CANAAN"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "mal_id": 922,
+    "url": "https://myanimelist.net/manga/922/Houshin_Engi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/203313.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/203313t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/203313l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/203313.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/203313t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/203313l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Houshin Engi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Soul Hunter"
+        },
+        {
+            "type": "Synonym",
+            "title": "Senkai-den Houshin Engi"
+        },
+        {
+            "type": "Japanese",
+            "title": "封神演義"
+        },
+        {
+            "type": "English",
+            "title": "Hoshin Engi"
+        }
+    ],
+    "title": "Houshin Engi",
+    "title_english": "Hoshin Engi",
+    "title_japanese": "封神演義",
+    "title_synonyms": [
+        "Soul Hunter",
+        "Senkai-den Houshin Engi"
+    ],
+    "type": "Manga",
+    "chapters": 206,
+    "volumes": 23,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-06-11T00:00:00+00:00",
+        "to": "2000-10-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 6,
+                "year": 1996
+            },
+            "to": {
+                "day": 24,
+                "month": 10,
+                "year": 2000
+            }
+        },
+        "string": "Jun 11, 1996 to Oct 24, 2000"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 2644,
+    "rank": 3284,
+    "popularity": 2606,
+    "members": 8491,
+    "favorites": 240,
+    "synopsis": "When his clan is wiped out by a beautiful demon, young Taikobo finds himself in charge of the mysterious Houshin Project. Its mission: find all immortals living in the human world and seal them away forever. But who do you trust—and whose side are you really on—when you've been trained to hunt demons by a demon?\n\n(Source: VIZ Media)",
+    "background": "Houshin Engi was published physically in English by VIZ Media since June 5, 2007 to June 7, 2011, and digitally from April 3, 2018 to September 4, 2018.",
+    "authors": [
+        {
+            "mal_id": 2673,
+            "type": "people",
+            "name": "Fujisaki, Ryuu",
+            "url": "https://myanimelist.net/people/2673/Ryuu_Fujisaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 113361,
+                    "type": "manga",
+                    "name": "Houshin Engi Gaiden",
+                    "url": "https://myanimelist.net/manga/113361/Houshin_Engi_Gaiden"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1108,
+                    "type": "anime",
+                    "name": "Senkaiden Houshin Engi",
+                    "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi"
+                },
+                {
+                    "mal_id": 36029,
+                    "type": "anime",
+                    "name": "Hakyuu Houshin Engi",
+                    "url": "https://myanimelist.net/anime/36029/Hakyuu_Houshin_Engi"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 10678,
+                    "type": "manga",
+                    "name": "Dramatic Irony",
+                    "url": "https://myanimelist.net/manga/10678/Dramatic_Irony"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

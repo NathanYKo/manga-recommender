@@ -1,0 +1,102 @@
+{
+    "mal_id": 110373,
+    "url": "https://myanimelist.net/manga/110373/Tiny_Evil",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/202071.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/202071t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/202071l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/202071.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/202071t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/202071l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tiny Evil"
+        },
+        {
+            "type": "Japanese",
+            "title": "Tiny Evil"
+        }
+    ],
+    "title": "Tiny Evil",
+    "title_english": null,
+    "title_japanese": "Tiny Evil",
+    "title_synonyms": [],
+    "type": "Doujinshi",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-07-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 20, 2015 to ?"
+    },
+    "score": 7.4,
+    "scored": 7.4,
+    "scored_by": 1453,
+    "rank": null,
+    "popularity": 5877,
+    "members": 3668,
+    "favorites": 83,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 46948,
+            "type": "people",
+            "name": "MUK",
+            "url": "https://myanimelist.net/people/46948/MUK"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 12,
+            "type": "manga",
+            "name": "Hentai",
+            "url": "https://myanimelist.net/manga/genre/12/Hentai"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38034,
+                    "type": "anime",
+                    "name": "Tiny Evil",
+                    "url": "https://myanimelist.net/anime/38034/Tiny_Evil"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

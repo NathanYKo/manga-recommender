@@ -1,0 +1,150 @@
+{
+    "mal_id": 1581,
+    "url": "https://myanimelist.net/manga/1581/Princess_Tutu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/211192.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/211192t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/211192l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/211192.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/211192t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/211192l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Princess Tutu"
+        },
+        {
+            "type": "Japanese",
+            "title": "プリンセスチュチュ"
+        },
+        {
+            "type": "English",
+            "title": "Princess Tutu"
+        }
+    ],
+    "title": "Princess Tutu",
+    "title_english": "Princess Tutu",
+    "title_japanese": "プリンセスチュチュ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-08-19T00:00:00+00:00",
+        "to": "2003-05-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 8,
+                "year": 2002
+            },
+            "to": {
+                "day": 19,
+                "month": 5,
+                "year": 2003
+            }
+        },
+        "string": "Aug 19, 2002 to May 19, 2003"
+    },
+    "score": 6.03,
+    "scored": 6.03,
+    "scored_by": 1609,
+    "rank": 19702,
+    "popularity": 5975,
+    "members": 3602,
+    "favorites": 35,
+    "synopsis": "13-year-old ballet student Ahiru is clumsy, good-hearted and sweet... and has a big secret. The mysterious Drosselmayer morphed a young duck into a girl to give her a mission: help a Prince to get the parts of his heart back. With that in mind, she morphs into Princess Tutu, whose magical dances ease the pain and purifies the bad feelings.\n\n(Source: ANN)",
+    "background": "Princess Tutu was published in English by ADV Manga on January 18 and October 11, 2005, respectively.",
+    "authors": [
+        {
+            "mal_id": 3089,
+            "type": "people",
+            "name": "Shinonome, Mizuo",
+            "url": "https://myanimelist.net/people/3089/Mizuo_Shinonome"
+        },
+        {
+            "mal_id": 4002,
+            "type": "people",
+            "name": "Satou, Junichi",
+            "url": "https://myanimelist.net/people/4002/Junichi_Satou"
+        },
+        {
+            "mal_id": 4003,
+            "type": "people",
+            "name": "Itou, Ikuko",
+            "url": "https://myanimelist.net/people/4003/Ikuko_Itou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 186,
+            "type": "manga",
+            "name": "Champion RED",
+            "url": "https://myanimelist.net/manga/magazine/186/Champion_RED"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 66,
+            "type": "manga",
+            "name": "Mahou Shoujo",
+            "url": "https://myanimelist.net/manga/genre/66/Mahou_Shoujo"
+        },
+        {
+            "mal_id": 71,
+            "type": "manga",
+            "name": "Performing Arts",
+            "url": "https://myanimelist.net/manga/genre/71/Performing_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 721,
+                    "type": "anime",
+                    "name": "Princess Tutu",
+                    "url": "https://myanimelist.net/anime/721/Princess_Tutu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%83%81%E3%83%A5%E3%83%81%E3%83%A5"
+        }
+    ]
+}

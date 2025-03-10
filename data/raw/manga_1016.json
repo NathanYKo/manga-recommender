@@ -1,0 +1,167 @@
+{
+    "mal_id": 1016,
+    "url": "https://myanimelist.net/manga/1016/Darker_than_Black__Kuro_no_Keiyakusha",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/31140.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/31140t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/31140l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/31140.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/31140t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/31140l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Darker than Black: Kuro no Keiyakusha"
+        },
+        {
+            "type": "Japanese",
+            "title": "DARKER THAN BLACK -黒の契約者-"
+        },
+        {
+            "type": "English",
+            "title": "Darker than Black"
+        }
+    ],
+    "title": "Darker than Black: Kuro no Keiyakusha",
+    "title_english": "Darker than Black",
+    "title_japanese": "DARKER THAN BLACK -黒の契約者-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-02-24T00:00:00+00:00",
+        "to": "2007-11-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 2,
+                "year": 2007
+            },
+            "to": {
+                "day": 24,
+                "month": 11,
+                "year": 2007
+            }
+        },
+        "string": "Feb 24, 2007 to Nov 24, 2007"
+    },
+    "score": 7,
+    "scored": 7,
+    "scored_by": 6922,
+    "rank": 8957,
+    "popularity": 1161,
+    "members": 17473,
+    "favorites": 216,
+    "synopsis": "Ten years ago, the mysterious Hell's Gate suddenly materialized in the middle of Tokyo, and the stars of the night sky were obscured in darkness. In their place, new stars emerged, each corresponding to an individual endowed with supernatural abilities. Devoid of emotion and conscience, these powerful killers have come to be known as Contractors.\n\nBut most people know nothing of the Contractors in their midst, and high-schooler Kana Shinoh is no exception. Still struggling to pick up the pieces after her father's death last year, Kana has never troubled herself with the rumors about Hell's Gate. That is, until she spots her father in the street one day. Determined to prove her father is still alive, Kana begins her search, but her mission is attracting some rather dangerous attention. Fortunately, she is rescued from the clutches of death by Hei, the most wanted Contractor in Tokyo. Though he is unsympathetic to her situation, Hei agrees to protect her as she searches for her father. But just how much should she trust the Contractor known as the Black Reaper?\n\n(Source: Yen Press)",
+    "background": "Darker than Black: Kuro no Keiyakusha was published in English by Yen Press on June 15, 2010 in a 2-in-1 omnibus edition.",
+    "authors": [
+        {
+            "mal_id": 2762,
+            "type": "people",
+            "name": "Okamura, Tensai",
+            "url": "https://myanimelist.net/people/2762/Tensai_Okamura"
+        },
+        {
+            "mal_id": 2763,
+            "type": "people",
+            "name": "Nokiya",
+            "url": "https://myanimelist.net/people/2763/Nokiya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Asuka",
+            "url": "https://myanimelist.net/manga/magazine/14/Asuka"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 14975,
+                    "type": "manga",
+                    "name": "Darker than Black: Shikkoku no Hana",
+                    "url": "https://myanimelist.net/manga/14975/Darker_than_Black__Shikkoku_no_Hana"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2025,
+                    "type": "anime",
+                    "name": "Darker than Black: Kuro no Keiyakusha",
+                    "url": "https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/DARKER_THAN_BLACK_-%E9%BB%92%E3%81%AE%E5%A5%91%E7%B4%84%E8%80%85-"
+        }
+    ]
+}

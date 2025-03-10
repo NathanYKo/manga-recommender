@@ -1,0 +1,136 @@
+{
+    "mal_id": 11471,
+    "url": "https://myanimelist.net/manga/11471/Gunnm_Gaiden",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/210364.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/210364t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/210364l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/210364.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/210364t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/210364l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gunnm Gaiden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Battle Angel Alita Another Stories"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gunnm Another Stories"
+        },
+        {
+            "type": "Japanese",
+            "title": "銃夢 外伝"
+        },
+        {
+            "type": "English",
+            "title": "Battle Angel Alita: Holy Night and Other Stories"
+        }
+    ],
+    "title": "Gunnm Gaiden",
+    "title_english": "Battle Angel Alita: Holy Night and Other Stories",
+    "title_japanese": "銃夢 外伝",
+    "title_synonyms": [
+        "Battle Angel Alita Another Stories",
+        "Gunnm Another Stories"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-01-01T00:00:00+00:00",
+        "to": "2006-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            }
+        },
+        "string": "1997 to 2006"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 2143,
+    "rank": 4357,
+    "popularity": 4120,
+    "members": 5457,
+    "favorites": 32,
+    "synopsis": "This volume is composed of four separate side stories.\n\nSeveral characters who appear in the side stories do not appear in the regular manga. The side stories also provide more background on the Factory and motorball.\n\n(Source: Wikipedia)",
+    "background": "Gunnm Gaiden was published in English as Battle Angel Alita: Holy Night and Other Stories by Kodansha USA on November 20, 2018.",
+    "authors": [
+        {
+            "mal_id": 2602,
+            "type": "people",
+            "name": "Kishiro, Yukito",
+            "url": "https://myanimelist.net/people/2602/Yukito_Kishiro"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 768,
+                    "type": "manga",
+                    "name": "Gunnm",
+                    "url": "https://myanimelist.net/manga/768/Gunnm"
+                },
+                {
+                    "mal_id": 770,
+                    "type": "manga",
+                    "name": "Gunnm: Last Order",
+                    "url": "https://myanimelist.net/manga/770/Gunnm__Last_Order"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/battle-angel-alita-holy-night/"
+        }
+    ]
+}

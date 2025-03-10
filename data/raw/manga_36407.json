@@ -1,0 +1,130 @@
+{
+    "mal_id": 36407,
+    "url": "https://myanimelist.net/manga/36407/Kare_no_Barairo_no_Jinsei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/69911.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/69911t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/69911l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/69911.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/69911t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/69911l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kare no Barairo no Jinsei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Usotsuki wa Koi no Hajimari"
+        },
+        {
+            "type": "Synonym",
+            "title": "Apple and Honey: His Colored Life"
+        },
+        {
+            "type": "Japanese",
+            "title": "彼のバラ色の人生"
+        },
+        {
+            "type": "English",
+            "title": "His Rose Colored Life"
+        }
+    ],
+    "title": "Kare no Barairo no Jinsei",
+    "title_english": "His Rose Colored Life",
+    "title_japanese": "彼のバラ色の人生",
+    "title_synonyms": [
+        "Usotsuki wa Koi no Hajimari",
+        "Apple and Honey: His Colored Life"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-04-25T00:00:00+00:00",
+        "to": "2012-02-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 24,
+                "month": 2,
+                "year": 2012
+            }
+        },
+        "string": "Apr 25, 2011 to Feb 24, 2012"
+    },
+    "score": 7.55,
+    "scored": 7.55,
+    "scored_by": 1995,
+    "rank": null,
+    "popularity": 5287,
+    "members": 4125,
+    "favorites": 14,
+    "synopsis": "Continuation of the relationship between Komano and Natsuki from Ringo ni Hachimitsu.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11024,
+            "type": "people",
+            "name": "Hideyoshico",
+            "url": "https://myanimelist.net/people/11024/Hideyoshico"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 460,
+            "type": "manga",
+            "name": "Cab",
+            "url": "https://myanimelist.net/manga/magazine/460/Cab"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 25110,
+                    "type": "manga",
+                    "name": "Ringo ni Hachimitsu",
+                    "url": "https://myanimelist.net/manga/25110/Ringo_ni_Hachimitsu"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

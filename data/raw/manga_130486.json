@@ -1,0 +1,150 @@
+{
+    "mal_id": 130486,
+    "url": "https://myanimelist.net/manga/130486/Getsuyoubi_no_Tawawa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/243101.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/243101t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/243101l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/243101.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/243101t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/243101l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Getsuyoubi no Tawawa"
+        },
+        {
+            "type": "Japanese",
+            "title": "月曜日のたわわ"
+        },
+        {
+            "type": "English",
+            "title": "Tawawa on Monday"
+        }
+    ],
+    "title": "Getsuyoubi no Tawawa",
+    "title_english": "Tawawa on Monday",
+    "title_japanese": "月曜日のたわわ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-11-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 11,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 16, 2020 to ?"
+    },
+    "score": 7.02,
+    "scored": 7.02,
+    "scored_by": 2469,
+    "rank": 8716,
+    "popularity": 1740,
+    "members": 12436,
+    "favorites": 89,
+    "synopsis": "A salary man is quite depressed, especially on Mondays. At his lowest point a well-endowed high school girl calling herself Ai-chan stumbles breast-first into his face. The concussion she gave him served as the start of their relationship.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 22709,
+            "type": "people",
+            "name": "Himura, Kiseki",
+            "url": "https://myanimelist.net/people/22709/Kiseki_Himura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 34213,
+                    "type": "anime",
+                    "name": "Getsuyoubi no Tawawa",
+                    "url": "https://myanimelist.net/anime/34213/Getsuyoubi_no_Tawawa"
+                },
+                {
+                    "mal_id": 49854,
+                    "type": "anime",
+                    "name": "Getsuyoubi no Tawawa 2",
+                    "url": "https://myanimelist.net/anime/49854/Getsuyoubi_no_Tawawa_2"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 154463,
+                    "type": "manga",
+                    "name": "Douki to Tawawa",
+                    "url": "https://myanimelist.net/manga/154463/Douki_to_Tawawa"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/tawawa/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tawawa_on_Monday"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%9C%88%E6%9B%9C%E6%97%A5%E3%81%AE%E3%81%9F%E3%82%8F%E3%82%8F"
+        }
+    ]
+}

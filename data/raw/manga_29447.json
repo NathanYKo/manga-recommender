@@ -1,0 +1,134 @@
+{
+    "mal_id": 29447,
+    "url": "https://myanimelist.net/manga/29447/Kurogane",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/256303.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/256303t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/256303l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/256303.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/256303t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/256303l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kurogane"
+        },
+        {
+            "type": "Japanese",
+            "title": "クロガネ"
+        }
+    ],
+    "title": "Kurogane",
+    "title_english": null,
+    "title_japanese": "クロガネ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 70,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-09-05T00:00:00+00:00",
+        "to": "2013-01-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 9,
+                "year": 2011
+            },
+            "to": {
+                "day": 28,
+                "month": 1,
+                "year": 2013
+            }
+        },
+        "string": "Sep 5, 2011 to Jan 28, 2013"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 7772,
+    "rank": 3642,
+    "popularity": 1342,
+    "members": 15551,
+    "favorites": 100,
+    "synopsis": "Kurogane Hiroto is in high school, where he is academically the top of his class but literally the worst in physical activity. Born with a weak body, he has no endurance, speed nor strength and Hiroto wants nothing more than to be a hero. Fate teases him by giving him phenomenal eye sight, which allows him to see well beyond anyone else in sports, but his body is not able to react to any of it.\n\nHe learns from his friend Shiratori, who wants to recruit him for the Kendo team, about a rumor about a ghost named Tojo Sayuri, who wields a katana and haunts an ally in the city. Half curious, Hiroto goes there only to find that the ghost is real and that Tojo Sayuri has been looking for a successor to her Sakura sword style for 150 years. Sayuri chooses him as the successor after being able to dodge her attack and forces him to learn the Sakura style. Even with the help of the ancient swordsman ghost, Hiroto has to overcome his poor motor skills in order to be the hero he always wanted to be.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 13255,
+            "type": "people",
+            "name": "Ikezawa, Haruto",
+            "url": "https://myanimelist.net/people/13255/Haruto_Ikezawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 28429,
+                    "type": "manga",
+                    "name": "Kurogane",
+                    "url": "https://myanimelist.net/manga/28429/Kurogane"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/クロガネ"
+        }
+    ]
+}

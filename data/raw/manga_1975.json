@@ -1,0 +1,132 @@
+{
+    "mal_id": 1975,
+    "url": "https://myanimelist.net/manga/1975/Deep_Love__Reina_no_Unmei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/267542.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/267542t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/267542l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/267542.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/267542t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/267542l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Deep Love: Reina no Unmei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Deep Love: Reina's Destiny"
+        },
+        {
+            "type": "Synonym",
+            "title": "Deep Love: Reina's Fate"
+        },
+        {
+            "type": "Japanese",
+            "title": "Deep Love レイナの運命"
+        }
+    ],
+    "title": "Deep Love: Reina no Unmei",
+    "title_english": null,
+    "title_japanese": "Deep Love レイナの運命",
+    "title_synonyms": [
+        "Deep Love: Reina's Destiny",
+        "Deep Love: Reina's Fate"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-07-28T00:00:00+00:00",
+        "to": "2005-11-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 7,
+                "year": 2005
+            },
+            "to": {
+                "day": 28,
+                "month": 11,
+                "year": 2005
+            }
+        },
+        "string": "Jul 28, 2005 to Nov 28, 2005"
+    },
+    "score": 7.66,
+    "scored": 7.66,
+    "scored_by": 4058,
+    "rank": 1942,
+    "popularity": 3188,
+    "members": 7048,
+    "favorites": 34,
+    "synopsis": "The continuation from Deep Love: Ayu no Monogatari. This story is about Reina, a cheerful 19-year-old single mother. During Ayu's story, Reina was raped in a karoke bar and eventually gave birth to a baby girl she named Ayu. Now, Reina has fallen in love, but when she told him she had a child, he dumps her! And what's worse is that her daughter, Ayu, accidentally falls down the stairs and during the surgery she becomes blind! What will happen to this once very cheerful mother?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2083,
+            "type": "people",
+            "name": "Yoshi",
+            "url": "https://myanimelist.net/people/2083/Yoshi"
+        },
+        {
+            "mal_id": 8642,
+            "type": "people",
+            "name": "Yoshii, Yuu",
+            "url": "https://myanimelist.net/people/8642/Yuu_Yoshii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 793,
+            "type": "manga",
+            "name": "Bessatsu Friend Zoukan BetsuFure",
+            "url": "https://myanimelist.net/manga/magazine/793/Bessatsu_Friend_Zoukan_BetsuFure"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1250,
+                    "type": "manga",
+                    "name": "Deep Love: Ayu no Monogatari",
+                    "url": "https://myanimelist.net/manga/1250/Deep_Love__Ayu_no_Monogatari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/Deep_Love"
+        }
+    ]
+}

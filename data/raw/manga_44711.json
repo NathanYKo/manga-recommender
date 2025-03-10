@@ -1,0 +1,151 @@
+{
+    "mal_id": 44711,
+    "url": "https://myanimelist.net/manga/44711/Feng_Shen_Ji_III",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/78927.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/78927t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/78927l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/78927.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/78927t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/78927l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Feng Shen Ji III"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Legend and the Hero III"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chronicles of the God's Order III"
+        },
+        {
+            "type": "Japanese",
+            "title": "封神纪III"
+        }
+    ],
+    "title": "Feng Shen Ji III",
+    "title_english": null,
+    "title_japanese": "封神纪III",
+    "title_synonyms": [
+        "The Legend and the Hero III",
+        "Chronicles of the God's Order III"
+    ],
+    "type": "Manhua",
+    "chapters": 80,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-01-01T00:00:00+00:00",
+        "to": "2014-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            }
+        },
+        "string": "2012 to 2014"
+    },
+    "score": 8.25,
+    "scored": 8.25,
+    "scored_by": 5216,
+    "rank": 375,
+    "popularity": 1970,
+    "members": 10990,
+    "favorites": 109,
+    "synopsis": "The sequel and the continuation of Feng Shen Ji II.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 13385,
+            "type": "people",
+            "name": "Deng, Zhi Hui",
+            "url": "https://myanimelist.net/people/13385/Zhi_Hui_Deng"
+        },
+        {
+            "mal_id": 19235,
+            "type": "people",
+            "name": "Zheng, Jian He",
+            "url": "https://myanimelist.net/people/19235/Jian_He_Zheng"
+        },
+        {
+            "mal_id": 19237,
+            "type": "people",
+            "name": "Cheng, Kin Wo",
+            "url": "https://myanimelist.net/people/19237/Kin_Wo_Cheng"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 43915,
+                    "type": "manga",
+                    "name": "Feng Shen Ji II",
+                    "url": "https://myanimelist.net/manga/43915/Feng_Shen_Ji_II"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

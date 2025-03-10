@@ -1,0 +1,129 @@
+{
+    "mal_id": 90143,
+    "url": "https://myanimelist.net/manga/90143/Bokura_no_Fushidara",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/169703.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/169703t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/169703l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/169703.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/169703t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/169703l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bokura no Fushidara"
+        },
+        {
+            "type": "Japanese",
+            "title": "ぼくらのふしだら"
+        }
+    ],
+    "title": "Bokura no Fushidara",
+    "title_english": null,
+    "title_japanese": "ぼくらのふしだら",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-09-16T00:00:00+00:00",
+        "to": "2015-09-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 9,
+                "year": 2014
+            },
+            "to": {
+                "day": 16,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Sep 16, 2014 to Sep 16, 2015"
+    },
+    "score": 6.2,
+    "scored": 6.2,
+    "scored_by": 2790,
+    "rank": 19044,
+    "popularity": 4158,
+    "members": 5424,
+    "favorites": 10,
+    "synopsis": "Yuuki Minami is a hard working student, she has just been inaugurated as Vice President but she knows she needs to keep on studying harder and harder to keep her grades up and escape her current family circumstances. All she needs is more time, more time to study and work her way up! When a ghost appears before her able to grant her wish, what will be the price for the gift of more time?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9192,
+            "type": "people",
+            "name": "Ohmi, Takeshi",
+            "url": "https://myanimelist.net/people/9192/Takeshi_Ohmi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Young King OURs GH",
+            "url": "https://myanimelist.net/manga/magazine/46/Young_King_OURs_GH"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 106646,
+                    "type": "manga",
+                    "name": "Watashi no Fushidara",
+                    "url": "https://myanimelist.net/manga/106646/Watashi_no_Fushidara"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

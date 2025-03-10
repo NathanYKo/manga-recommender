@@ -1,0 +1,172 @@
+{
+    "mal_id": 9705,
+    "url": "https://myanimelist.net/manga/9705/Ginga_Tetsudou_999_1996",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/191346.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/191346t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/191346l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/191346.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/191346t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/191346l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ginga Tetsudou 999 (1996)"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ginga Tetsudou 999 Eternal Chapter"
+        },
+        {
+            "type": "Japanese",
+            "title": "銀河鉄道999"
+        },
+        {
+            "type": "English",
+            "title": "Galaxy Express 999"
+        }
+    ],
+    "title": "Ginga Tetsudou 999 (1996)",
+    "title_english": "Galaxy Express 999",
+    "title_japanese": "銀河鉄道999",
+    "title_synonyms": [
+        "Ginga Tetsudou 999 Eternal Chapter"
+    ],
+    "type": "Manga",
+    "chapters": 46,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-01-01T00:00:00+00:00",
+        "to": "2004-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1996
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            }
+        },
+        "string": "1996 to 2004"
+    },
+    "score": 7.82,
+    "scored": 7.82,
+    "scored_by": 776,
+    "rank": 1245,
+    "popularity": 7311,
+    "members": 2847,
+    "favorites": 17,
+    "synopsis": "One year after the events of the First Cycle (Andromeda Arc), Tetsurou has returned to Earth only to end up chained in his home in Megalopolis. It is then that Maetel appears before him once again, offering him the opportunity to join her on a new journey—one she claims will lead him to his destiny.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2597,
+            "type": "people",
+            "name": "Matsumoto, Leiji",
+            "url": "https://myanimelist.net/people/2597/Leiji_Matsumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 299,
+            "type": "manga",
+            "name": "Big Gold",
+            "url": "https://myanimelist.net/manga/magazine/299/Big_Gold"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 29,
+            "type": "manga",
+            "name": "Space",
+            "url": "https://myanimelist.net/manga/genre/29/Space"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 776,
+                    "type": "manga",
+                    "name": "Ginga Tetsudou 999",
+                    "url": "https://myanimelist.net/manga/776/Ginga_Tetsudou_999"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3602,
+                    "type": "anime",
+                    "name": "Ginga Tetsudou 999: Eternal Fantasy",
+                    "url": "https://myanimelist.net/anime/3602/Ginga_Tetsudou_999__Eternal_Fantasy"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 119016,
+                    "type": "manga",
+                    "name": "Ginga Tetsudou 999 Another Story: Ultimate Journey",
+                    "url": "https://myanimelist.net/manga/119016/Ginga_Tetsudou_999_Another_Story__Ultimate_Journey"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93999"
+        }
+    ]
+}

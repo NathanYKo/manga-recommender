@@ -1,0 +1,164 @@
+{
+    "mal_id": 20242,
+    "url": "https://myanimelist.net/manga/20242/Binbougami_ga",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/253086.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/253086t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/253086l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/253086.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/253086t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/253086l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Binbougami ga!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Binboukami ga!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Binbou Kami ga!"
+        },
+        {
+            "type": "Synonym",
+            "title": "The God of Poverty Is!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kaette Kudasai."
+        },
+        {
+            "type": "Japanese",
+            "title": "貧乏神が！"
+        }
+    ],
+    "title": "Binbougami ga!",
+    "title_english": null,
+    "title_japanese": "貧乏神が！",
+    "title_synonyms": [
+        "Binboukami ga!",
+        "Binbou Kami ga!",
+        "The God of Poverty Is!",
+        "Kaette Kudasai."
+    ],
+    "type": "Manga",
+    "chapters": 81,
+    "volumes": 16,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-06-04T00:00:00+00:00",
+        "to": "2013-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 6,
+                "year": 2008
+            },
+            "to": {
+                "day": 4,
+                "month": 7,
+                "year": 2013
+            }
+        },
+        "string": "Jun 4, 2008 to Jul 4, 2013"
+    },
+    "score": 8.14,
+    "scored": 8.14,
+    "scored_by": 7352,
+    "rank": 513,
+    "popularity": 990,
+    "members": 20135,
+    "favorites": 577,
+    "synopsis": "Sakura Ichiko is a 16-year-old girl who leads a charmed life and is blessed with beauty, brains, and health. She has an abundance of \"Happiness Energy,\" which can make people happy, but at the cost of absorbing all the \"Happiness Energy\" from her surroundings. She has caused the energy balance of the world to become unbalanced and because of this, she becomes the target of a Poverty God named Momiji. Momiji goal is to remove Ichiko's power of absorbing other people's Happiness Energy and to return all the energy she has taken to its rightful place.\n\n(Source: Akiba-station)\n\nIncluded one-shot:\nVolume 1: Kaette Kudasai. (Binbougami ga! pilot)",
+    "background": "Binbougami ga! was published in Spanish by Ivrea España from April 27, 2012, to June 2016; and in Italian by J-POP from May 26, 2012, to December 29, 2016.",
+    "authors": [
+        {
+            "mal_id": 12447,
+            "type": "people",
+            "name": "Sukeno, Yoshiaki",
+            "url": "https://myanimelist.net/people/12447/Yoshiaki_Sukeno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 13535,
+                    "type": "anime",
+                    "name": "Binbougami ga!",
+                    "url": "https://myanimelist.net/anime/13535/Binbougami_ga"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 76643,
+                    "type": "manga",
+                    "name": "Binbougami ga!",
+                    "url": "https://myanimelist.net/manga/76643/Binbougami_ga"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://jumpsq.shueisha.co.jp/rensai/binbou/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E8%B2%A7%E4%B9%8F%E7%A5%9E%E3%81%8C!"
+        }
+    ]
+}

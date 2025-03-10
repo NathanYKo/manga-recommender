@@ -1,0 +1,163 @@
+{
+    "mal_id": 113752,
+    "url": "https://myanimelist.net/manga/113752/Kuma_Kuma_Kuma_Bear",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/210419.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/210419t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/210419l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/210419.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/210419t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/210419l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kuma Kuma Kuma Bear"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Bears Bear a Bare Kuma"
+        },
+        {
+            "type": "Japanese",
+            "title": "くま クマ 熊 ベアー"
+        },
+        {
+            "type": "English",
+            "title": "Kuma Kuma Kuma Bear"
+        }
+    ],
+    "title": "Kuma Kuma Kuma Bear",
+    "title_english": "Kuma Kuma Kuma Bear",
+    "title_japanese": "くま クマ 熊 ベアー",
+    "title_synonyms": [
+        "The Bears Bear a Bare Kuma"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2018-03-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 3,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 28, 2018 to ?"
+    },
+    "score": 7.41,
+    "scored": 7.41,
+    "scored_by": 3577,
+    "rank": 3771,
+    "popularity": 1881,
+    "members": 11507,
+    "favorites": 186,
+    "synopsis": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has!\n\n(Source: Seven Seas Entertainment)",
+    "background": "Kuma Kuma Kuma Bear has been published digitally in English by Seven Seas Entertainment since May 12, 2020, and in print since June 16, 2020. It has also been published in French by Meian since May 21, 2021.",
+    "authors": [
+        {
+            "mal_id": 41911,
+            "type": "people",
+            "name": "Kumanano",
+            "url": "https://myanimelist.net/people/41911/Kumanano"
+        },
+        {
+            "mal_id": 48135,
+            "type": "people",
+            "name": "Sergei",
+            "url": "https://myanimelist.net/people/48135/Sergei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1453,
+            "type": "manga",
+            "name": "Comic PASH!",
+            "url": "https://myanimelist.net/manga/magazine/1453/Comic_PASH"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 100512,
+                    "type": "manga",
+                    "name": "Kuma Kuma Kuma Bear",
+                    "url": "https://myanimelist.net/manga/100512/Kuma_Kuma_Kuma_Bear"
+                },
+                {
+                    "mal_id": 40974,
+                    "type": "anime",
+                    "name": "Kuma Kuma Kuma Bear",
+                    "url": "https://myanimelist.net/anime/40974/Kuma_Kuma_Kuma_Bear"
+                },
+                {
+                    "mal_id": 45486,
+                    "type": "anime",
+                    "name": "Kuma Kuma Kuma Bear Punch!",
+                    "url": "https://myanimelist.net/anime/45486/Kuma_Kuma_Kuma_Bear_Punch"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comicpash.jp/kuma/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kuma_Kuma_Kuma_Bear"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%BE%E3%82%AF%E3%83%9E%E7%86%8A%E3%83%99%E3%82%A2%E3%83%BC"
+        }
+    ]
+}

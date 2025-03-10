@@ -1,0 +1,178 @@
+{
+    "mal_id": 3575,
+    "url": "https://myanimelist.net/manga/3575/Saikyou_Densetsu_Kurosawa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/262554.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/262554t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/262554l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/262554.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/262554t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/262554l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Saikyou Densetsu Kurosawa"
+        },
+        {
+            "type": "Synonym",
+            "title": "Legend of the Strongest Man Kurosawa"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Legend of a Strongest Man"
+        },
+        {
+            "type": "Japanese",
+            "title": "最強伝説黒沢"
+        },
+        {
+            "type": "English",
+            "title": "The Legend of the Strongest, Kurosawa!"
+        }
+    ],
+    "title": "Saikyou Densetsu Kurosawa",
+    "title_english": "The Legend of the Strongest, Kurosawa!",
+    "title_japanese": "最強伝説黒沢",
+    "title_synonyms": [
+        "Legend of the Strongest Man Kurosawa",
+        "The Legend of a Strongest Man"
+    ],
+    "type": "Manga",
+    "chapters": 90,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-01-01T00:00:00+00:00",
+        "to": "2006-09-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "to": {
+                "day": 1,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Jan 2003 to Sep 2006"
+    },
+    "score": 8.31,
+    "scored": 8.31,
+    "scored_by": 8503,
+    "rank": 298,
+    "popularity": 695,
+    "members": 27432,
+    "favorites": 1288,
+    "synopsis": "44 years old, single, working in a construction company for his entire life. All Kurosawa wants is a little respect from his co-workers. And a little popularity won't hurt. Unfortunately Kurosawa's plans fail miserably from time to time and one day, he finds himself right in the middle of a fight against...delinquent middle schoolers?",
+    "background": "Although manga author Nobuyuki Fukumoto intended to put the series on a three-month hiatus, Saikyou Densetsu Kurosawa ended serialization following the editorial department's decision to terminate it in 2006. The series was published digitally in English as The Legend of the Strongest, Kurosawa! by Fukumoto Production/Highstone Inc. from October 28, 2017, to December 18, 2017.",
+    "authors": [
+        {
+            "mal_id": 2539,
+            "type": "people",
+            "name": "Fukumoto, Nobuyuki",
+            "url": "https://myanimelist.net/people/2539/Nobuyuki_Fukumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Big Comic Original",
+            "url": "https://myanimelist.net/manga/magazine/1/Big_Comic_Original"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 58209,
+                    "type": "manga",
+                    "name": "Shin Kurosawa: Saikyou Densetsu",
+                    "url": "https://myanimelist.net/manga/58209/Shin_Kurosawa__Saikyou_Densetsu"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 112780,
+                    "type": "manga",
+                    "name": "Fukumoto All Stars",
+                    "url": "https://myanimelist.net/manga/112780/Fukumoto_All_Stars"
+                },
+                {
+                    "mal_id": 111299,
+                    "type": "manga",
+                    "name": "Saitsuyo Densetsu Nakane",
+                    "url": "https://myanimelist.net/manga/111299/Saitsuyo_Densetsu_Nakane"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%9C%80%E5%BC%B7%E4%BC%9D%E8%AA%AC%E9%BB%92%E6%B2%A2"
+        }
+    ]
+}

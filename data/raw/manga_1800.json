@@ -1,0 +1,161 @@
+{
+    "mal_id": 1800,
+    "url": "https://myanimelist.net/manga/1800/Eat-Man",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/173371.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/173371t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/173371l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/173371.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/173371t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/173371l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Eat-Man"
+        },
+        {
+            "type": "Japanese",
+            "title": "EAT-MAN"
+        },
+        {
+            "type": "English",
+            "title": "Eat-Man"
+        }
+    ],
+    "title": "Eat-Man",
+    "title_english": "Eat-Man",
+    "title_japanese": "EAT-MAN",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 101,
+    "volumes": 19,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-01-27T00:00:00+00:00",
+        "to": "2003-07-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 1,
+                "year": 1996
+            },
+            "to": {
+                "day": 26,
+                "month": 7,
+                "year": 2003
+            }
+        },
+        "string": "Jan 27, 1996 to Jul 26, 2003"
+    },
+    "score": 7.47,
+    "scored": 7.47,
+    "scored_by": 1001,
+    "rank": 3194,
+    "popularity": 5366,
+    "members": 4058,
+    "favorites": 57,
+    "synopsis": "Bolt Crank travels the world as the World's Greatest Mercenary. He got that moniker due to his skills, as well as his ability to eat anything, and then reproduce it in his right hand. During his adventures he meets new friends, as well as his rival Hard. But, his mysterious past with a man named Leon Field comes into play later on when Shadow, a man who can control machines and calls himself Bolt Crank, and Stella, a woman who wants to mechanize every human on the planet, has Bolt going back to an old, unfinished mission he left behind long ago.\n\n(Source: ANN)",
+    "background": "Two volumes of Eat-Man were published in English by VIZ Media.",
+    "authors": [
+        {
+            "mal_id": 2054,
+            "type": "people",
+            "name": "Yoshitomi, Akihito",
+            "url": "https://myanimelist.net/people/2054/Akihito_Yoshitomi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Dengeki Comic Gao!",
+            "url": "https://myanimelist.net/manga/magazine/18/Dengeki_Comic_Gao"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 79869,
+                    "type": "manga",
+                    "name": "Eat-Man: The Main Dish",
+                    "url": "https://myanimelist.net/manga/79869/Eat-Man__The_Main_Dish"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1704,
+                    "type": "anime",
+                    "name": "Eat-Man",
+                    "url": "https://myanimelist.net/anime/1704/Eat-Man"
+                },
+                {
+                    "mal_id": 1599,
+                    "type": "anime",
+                    "name": "Eat-Man '98",
+                    "url": "https://myanimelist.net/anime/1599/Eat-Man_98"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/EAT-MAN"
+        }
+    ]
+}

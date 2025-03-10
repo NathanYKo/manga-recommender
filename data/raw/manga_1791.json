@@ -1,0 +1,167 @@
+{
+    "mal_id": 1791,
+    "url": "https://myanimelist.net/manga/1791/Captain_Tsubasa__Road_to_2002",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/175810.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/175810t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/175810l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/175810.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/175810t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/175810l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Captain Tsubasa: Road to 2002"
+        },
+        {
+            "type": "Japanese",
+            "title": "キャプテン翼 ROAD TO 2002"
+        }
+    ],
+    "title": "Captain Tsubasa: Road to 2002",
+    "title_english": null,
+    "title_japanese": "キャプテン翼 ROAD TO 2002",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 145,
+    "volumes": 15,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-12-01T00:00:00+00:00",
+        "to": "2004-05-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 2000
+            },
+            "to": {
+                "day": 13,
+                "month": 5,
+                "year": 2004
+            }
+        },
+        "string": "Dec 1, 2000 to May 13, 2004"
+    },
+    "score": 7.47,
+    "scored": 7.47,
+    "scored_by": 1381,
+    "rank": 3204,
+    "popularity": 8103,
+    "members": 2520,
+    "favorites": 25,
+    "synopsis": "After the World Youth, Japanese players are looking for pro careers in Japan and around the world.\n\nIn order to fulfill their dream of World Cup 2002 in Korea and Japan, they must get stronger playing in various club competitions, home and abroad.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3927,
+            "type": "people",
+            "name": "Takahashi, Yoichi",
+            "url": "https://myanimelist.net/people/3927/Yoichi_Takahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1790,
+                    "type": "manga",
+                    "name": "Captain Tsubasa: World Youth-hen",
+                    "url": "https://myanimelist.net/manga/1790/Captain_Tsubasa__World_Youth-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1792,
+                    "type": "manga",
+                    "name": "Captain Tsubasa: Golden-23",
+                    "url": "https://myanimelist.net/manga/1792/Captain_Tsubasa__Golden-23"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1614,
+                    "type": "anime",
+                    "name": "Captain Tsubasa: Road to 2002",
+                    "url": "https://myanimelist.net/anime/1614/Captain_Tsubasa__Road_to_2002"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 15333,
+                    "type": "manga",
+                    "name": "Captain Tsubasa Tanpenshuu: Dream Field",
+                    "url": "https://myanimelist.net/manga/15333/Captain_Tsubasa_Tanpenshuu__Dream_Field"
+                },
+                {
+                    "mal_id": 15274,
+                    "type": "manga",
+                    "name": "Captain Tsubasa: Road to 2002 - F.C.R.B. Stadium Opening Match",
+                    "url": "https://myanimelist.net/manga/15274/Captain_Tsubasa__Road_to_2002_-_FCRB_Stadium_Opening_Match"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E7%BF%BC"
+        }
+    ]
+}

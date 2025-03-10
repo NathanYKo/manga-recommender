@@ -1,0 +1,154 @@
+{
+    "mal_id": 5228,
+    "url": "https://myanimelist.net/manga/5228/Mimi_wo_Sumaseba",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/176055.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/176055t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/176055l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/176055.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/176055t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/176055l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mimi wo Sumaseba"
+        },
+        {
+            "type": "Synonym",
+            "title": "If You Listen Closely"
+        },
+        {
+            "type": "Synonym",
+            "title": "Whisper of the Heart"
+        },
+        {
+            "type": "Japanese",
+            "title": "耳をすませば"
+        }
+    ],
+    "title": "Mimi wo Sumaseba",
+    "title_english": null,
+    "title_japanese": "耳をすませば",
+    "title_synonyms": [
+        "If You Listen Closely",
+        "Whisper of the Heart"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1989-07-03T00:00:00+00:00",
+        "to": "1989-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 7,
+                "year": 1989
+            },
+            "to": {
+                "day": 3,
+                "month": 10,
+                "year": 1989
+            }
+        },
+        "string": "Jul 3, 1989 to Oct 3, 1989"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 1052,
+    "rank": 4643,
+    "popularity": 7717,
+    "members": 2668,
+    "favorites": 27,
+    "synopsis": "Mimi wo Sumaseba tells the story of Tsukishima Shizuku, a junior-high school girl, as she falls in love and attempts to discover who she is and where her future will take her.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2964,
+            "type": "people",
+            "name": "Hiiragi, Aoi",
+            "url": "https://myanimelist.net/people/2964/Aoi_Hiiragi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ribon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 9217,
+                    "type": "manga",
+                    "name": "Mimi wo Sumaseba: Shiawase na Jikan",
+                    "url": "https://myanimelist.net/manga/9217/Mimi_wo_Sumaseba__Shiawase_na_Jikan"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 585,
+                    "type": "anime",
+                    "name": "Mimi wo Sumaseba",
+                    "url": "https://myanimelist.net/anime/585/Mimi_wo_Sumaseba"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 1372,
+                    "type": "manga",
+                    "name": "Baron: Neko no Danshaku",
+                    "url": "https://myanimelist.net/manga/1372/Baron__Neko_no_Danshaku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E8%80%B3%E3%82%92%E3%81%99%E3%81%BE%E3%81%9B%E3%81%B0"
+        }
+    ]
+}

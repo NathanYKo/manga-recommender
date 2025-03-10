@@ -1,0 +1,160 @@
+{
+    "mal_id": 123754,
+    "url": "https://myanimelist.net/manga/123754/Gantz_E",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/233450.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/233450t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/233450l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/233450.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/233450t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/233450l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gantz:E"
+        },
+        {
+            "type": "Japanese",
+            "title": "GANTZ:E"
+        }
+    ],
+    "title": "Gantz:E",
+    "title_english": null,
+    "title_japanese": "GANTZ:E",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-01-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 9, 2020 to ?"
+    },
+    "score": 6.61,
+    "scored": 6.61,
+    "scored_by": 2321,
+    "rank": 15054,
+    "popularity": 2579,
+    "members": 8577,
+    "favorites": 31,
+    "synopsis": "A peasant named Hanbei asks a girl named O-haru for her hand in marriage, but O-haru confesses that she is already thinking of another man named Masakichi from a neighboring village. When Hanbei seeks out Masakichi, he finds that Masakichi possesses a sword and the skills to use it, despite being a peasant.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2718,
+            "type": "people",
+            "name": "Oku, Hiroya",
+            "url": "https://myanimelist.net/people/2718/Hiroya_Oku"
+        },
+        {
+            "mal_id": 50248,
+            "type": "people",
+            "name": "Kagetsu, Jin",
+            "url": "https://myanimelist.net/people/50248/Jin_Kagetsu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        },
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Samurai",
+            "url": "https://myanimelist.net/manga/genre/21/Samurai"
+        },
+        {
+            "mal_id": 77,
+            "type": "manga",
+            "name": "Survival",
+            "url": "https://myanimelist.net/manga/genre/77/Survival"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 564,
+                    "type": "manga",
+                    "name": "Gantz",
+                    "url": "https://myanimelist.net/manga/564/Gantz"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://youngjump.jp/manga/gantz_e/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gantz:_E"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/GANTZ:E"
+        }
+    ]
+}

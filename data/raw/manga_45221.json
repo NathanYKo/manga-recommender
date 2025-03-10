@@ -1,0 +1,137 @@
+{
+    "mal_id": 45221,
+    "url": "https://myanimelist.net/manga/45221/Hungry_Joker",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/88095.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/88095t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/88095l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/88095.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/88095t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/88095l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hungry Joker"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハングリージョーカー"
+        }
+    ],
+    "title": "Hungry Joker",
+    "title_english": null,
+    "title_japanese": "ハングリージョーカー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 24,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-11-12T00:00:00+00:00",
+        "to": "2013-05-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 11,
+                "year": 2012
+            },
+            "to": {
+                "day": 13,
+                "month": 5,
+                "year": 2013
+            }
+        },
+        "string": "Nov 12, 2012 to May 13, 2013"
+    },
+    "score": 6.6,
+    "scored": 6.6,
+    "scored_by": 4486,
+    "rank": 15173,
+    "popularity": 2286,
+    "members": 9562,
+    "favorites": 61,
+    "synopsis": "Follows the adventures of a scientist Haiji and his assistant Chitose. One day the doctor is called to resolve a mystery about a glowing corpse. From the will of an unknown power the corpse then transforms into a monster and Haiji has to defeat it, to learn all about a mysterious black apple which can regenerate itself and which when eaten will enable someone to control gravity...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 15063,
+            "type": "people",
+            "name": "Tabata, Yuuki",
+            "url": "https://myanimelist.net/people/15063/Yuuki_Tabata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 31073,
+                    "type": "manga",
+                    "name": "Hungry Joker",
+                    "url": "https://myanimelist.net/manga/31073/Hungry_Joker"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.shonenjump.com/j/rensai/hungry/index.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/HUNGRY_JOKER"
+        }
+    ]
+}

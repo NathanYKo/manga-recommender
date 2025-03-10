@@ -1,0 +1,157 @@
+{
+    "mal_id": 20947,
+    "url": "https://myanimelist.net/manga/20947/Heavy_Object",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/161914.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/161914t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/161914l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/161914.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/161914t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/161914l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Heavy Object"
+        },
+        {
+            "type": "Japanese",
+            "title": "ヘヴィーオブジェクト"
+        }
+    ],
+    "title": "Heavy Object",
+    "title_english": null,
+    "title_japanese": "ヘヴィーオブジェクト",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-12-17T00:00:00+00:00",
+        "to": "2011-02-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 12,
+                "year": 2009
+            },
+            "to": {
+                "day": 26,
+                "month": 2,
+                "year": 2011
+            }
+        },
+        "string": "Dec 17, 2009 to Feb 26, 2011"
+    },
+    "score": 6.88,
+    "scored": 6.88,
+    "scored_by": 1028,
+    "rank": 10831,
+    "popularity": 8225,
+    "members": 2472,
+    "favorites": 7,
+    "synopsis": "Qwenthur came to the Alaskan military base to study Objects, the new weapons that have completely revolutionized war as we know it—battles are fought by soldiers controlling Objects far away from harm; however, when he starts to get close to Object pilot Milinda, will he discover the grim truth behind Heavy Objects?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5389,
+            "type": "people",
+            "name": "Kamachi, Kazuma",
+            "url": "https://myanimelist.net/people/5389/Kazuma_Kamachi"
+        },
+        {
+            "mal_id": 13397,
+            "type": "people",
+            "name": "Inue, Shinsuke",
+            "url": "https://myanimelist.net/people/13397/Shinsuke_Inue"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 318,
+            "type": "manga",
+            "name": "Dengeki Kuro Maoh",
+            "url": "https://myanimelist.net/manga/magazine/318/Dengeki_Kuro_Maoh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        },
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 80929,
+                    "type": "manga",
+                    "name": "Heavy Object S",
+                    "url": "https://myanimelist.net/manga/80929/Heavy_Object_S"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 23382,
+                    "type": "manga",
+                    "name": "Heavy Object",
+                    "url": "https://myanimelist.net/manga/23382/Heavy_Object"
+                },
+                {
+                    "mal_id": 27829,
+                    "type": "anime",
+                    "name": "Heavy Object",
+                    "url": "https://myanimelist.net/anime/27829/Heavy_Object"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88"
+        }
+    ]
+}

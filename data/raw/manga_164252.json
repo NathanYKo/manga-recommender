@@ -1,0 +1,134 @@
+{
+    "mal_id": 164252,
+    "url": "https://myanimelist.net/manga/164252/Akanabe-sensei_wa_Tereshirazu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/305565.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/305565t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/305565l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/305565.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/305565t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/305565l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Akanabe-sensei wa Tereshirazu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Akanabe-sensei Doesn't Know About Embarrassment"
+        },
+        {
+            "type": "Japanese",
+            "title": "茜部先生は照れ知らず"
+        }
+    ],
+    "title": "Akanabe-sensei wa Tereshirazu",
+    "title_english": null,
+    "title_japanese": "茜部先生は照れ知らず",
+    "title_synonyms": [
+        "Akanabe-sensei Doesn't Know About Embarrassment"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2023-11-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 11,
+                "year": 2023
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 4, 2023 to ?"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 1252,
+    "rank": 4189,
+    "popularity": 4067,
+    "members": 5545,
+    "favorites": 27,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 69421,
+            "type": "people",
+            "name": "Tajimi, Naoya",
+            "url": "https://myanimelist.net/people/69421/Naoya_Tajimi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 75,
+            "type": "manga",
+            "name": "Love Status Quo",
+            "url": "https://myanimelist.net/manga/genre/75/Love_Status_Quo"
+        },
+        {
+            "mal_id": 70,
+            "type": "manga",
+            "name": "Otaku Culture",
+            "url": "https://myanimelist.net/manga/genre/70/Otaku_Culture"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://jumpsq.shueisha.co.jp/rensai/akanabe/"
+        }
+    ]
+}

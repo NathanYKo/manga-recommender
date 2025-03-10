@@ -1,0 +1,151 @@
+{
+    "mal_id": 3014,
+    "url": "https://myanimelist.net/manga/3014/Touhou_Bougetsushou__Silent_Sinner_in_Blue",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/16299.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/16299t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/16299l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/16299.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/16299t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/16299l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Touhou Bougetsushou: Silent Sinner in Blue."
+        },
+        {
+            "type": "Japanese",
+            "title": "東方儚月抄 Silent Sinner in Blue."
+        }
+    ],
+    "title": "Touhou Bougetsushou: Silent Sinner in Blue.",
+    "title_english": null,
+    "title_japanese": "東方儚月抄 Silent Sinner in Blue.",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 21,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-07-01T00:00:00+00:00",
+        "to": "2009-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 2007
+            },
+            "to": {
+                "day": 9,
+                "month": 10,
+                "year": 2009
+            }
+        },
+        "string": "Jul 2007 to Oct 9, 2009"
+    },
+    "score": 7.72,
+    "scored": 7.72,
+    "scored_by": 3387,
+    "rank": 1648,
+    "popularity": 2963,
+    "members": 7574,
+    "favorites": 226,
+    "synopsis": "Over one thousand years ago, Yukari Yakumo led various youkai from Gensokyo to war against the Lunar Capital, which unfortunately resulted in the former's one-sided defeat. Since then, Yukari has been devising a plan to attempt conquering the moon once again.\n\nAfter a long time waiting, Yukari is finally ready to make her move. Enlisting the help of Scarlet Devil Mansion's vampire mistress Remilia Scarlet, Hakugyokurou's manager Yuyuko Saigyouji, and shrine maiden Reimu Hakurei, will Yukari at last be able to penetrate the Lunar Capital's impregnable defenses?\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2003,
+            "type": "people",
+            "name": "ZUN",
+            "url": "https://myanimelist.net/people/2003/ZUN"
+        },
+        {
+            "mal_id": 3478,
+            "type": "people",
+            "name": "Aki★Eda",
+            "url": "https://myanimelist.net/people/3478/Aki★Eda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 93,
+            "type": "manga",
+            "name": "Comic REX",
+            "url": "https://myanimelist.net/manga/magazine/93/Comic_REX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 5373,
+                    "type": "manga",
+                    "name": "Touhou Bougetsushou: Cage in Lunatic Runagate.",
+                    "url": "https://myanimelist.net/manga/5373/Touhou_Bougetsushou__Cage_in_Lunatic_Runagate"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 9429,
+                    "type": "manga",
+                    "name": "Touhou Bougetsushou: Tsuki no Inaba to Chijou no Inaba",
+                    "url": "https://myanimelist.net/manga/9429/Touhou_Bougetsushou__Tsuki_no_Inaba_to_Chijou_no_Inaba"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,148 @@
+{
+    "mal_id": 3367,
+    "url": "https://myanimelist.net/manga/3367/Ahiru_no_Sora",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/311018.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/311018t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/311018l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/311018.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/311018t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/311018l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ahiru no Sora"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ahiru's Sky"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sora"
+        },
+        {
+            "type": "Synonym",
+            "title": "the Wingless Duck"
+        },
+        {
+            "type": "Japanese",
+            "title": "あひるの空"
+        }
+    ],
+    "title": "Ahiru no Sora",
+    "title_english": null,
+    "title_japanese": "あひるの空",
+    "title_synonyms": [
+        "Ahiru's Sky",
+        "Sora",
+        "the Wingless Duck"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2003-12-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 12,
+                "year": 2003
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 10, 2003 to ?"
+    },
+    "score": 7.55,
+    "scored": 7.55,
+    "scored_by": 3080,
+    "rank": 2637,
+    "popularity": 2159,
+    "members": 9967,
+    "favorites": 166,
+    "synopsis": "He's short, weak, and has just transferred to a new school. Kurumatani Sora is the main character in this story who loves basketball. He has been shooting hoops ever since he was little and has been trying to grow tall just like his mother, who \"used\" to be a basketball player. What has happened to her and what Sora is going to do at the new school is all up to you to find out!",
+    "background": "Following the release of the 44th issue of Shounen Magazine (Weekly) in October 2013, Ahiru no Sora went on an indefinite hiatus due to manga author Takeshi Hinata's poor health. The series resumed after five months in the 15th issue of Shounen Magazine (Weekly) in March 2014. The manga entered another indefinite hiatus in May 2019.",
+    "authors": [
+        {
+            "mal_id": 11415,
+            "type": "people",
+            "name": "Hinata, Takeshi",
+            "url": "https://myanimelist.net/people/11415/Takeshi_Hinata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 37403,
+                    "type": "anime",
+                    "name": "Ahiru no Sora",
+                    "url": "https://myanimelist.net/anime/37403/Ahiru_no_Sora"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.shonenmagazine.com/smaga/ahirunosora"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%82%E3%81%B2%E3%82%8B%E3%81%AE%E7%A9%BA"
+        }
+    ]
+}

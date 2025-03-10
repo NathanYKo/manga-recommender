@@ -1,0 +1,149 @@
+{
+    "mal_id": 73915,
+    "url": "https://myanimelist.net/manga/73915/Levius",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/128213.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/128213t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/128213l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/128213.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/128213t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/128213l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Levius"
+        },
+        {
+            "type": "Japanese",
+            "title": "Levius -レビウス-"
+        },
+        {
+            "type": "English",
+            "title": "Levius"
+        }
+    ],
+    "title": "Levius",
+    "title_english": "Levius",
+    "title_japanese": "Levius -レビウス-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 18,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-12-25T00:00:00+00:00",
+        "to": "2014-09-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Dec 25, 2012 to Sep 25, 2014"
+    },
+    "score": 7.4,
+    "scored": 7.4,
+    "scored_by": 2197,
+    "rank": 3835,
+    "popularity": 2213,
+    "members": 9789,
+    "favorites": 98,
+    "synopsis": "It's the 19th century, and the world has entered the Era of Rebirth, recovering from the devastating flames of war. The sport of mechanical martial arts has galvanized the nations. Cybernetically augmented fighters turn their blood into steam and their bodies into brutal fighting—and killing—machines. Young Levius is one of those arena battlers, hell-bent on winning in order to simply survive.\n\n(Source: VIZ Media)",
+    "background": "Levius was published in English by VIZ Media under the VIZ Signature imprint as a 3-in-1 omnibus volume on September 17, 2019.",
+    "authors": [
+        {
+            "mal_id": 32373,
+            "type": "people",
+            "name": "Nakata, Haruhisa",
+            "url": "https://myanimelist.net/people/32373/Haruhisa_Nakata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 136,
+            "type": "manga",
+            "name": "Ikki",
+            "url": "https://myanimelist.net/manga/magazine/136/Ikki"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/manga/genre/54/Combat_Sports"
+        },
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 94524,
+                    "type": "manga",
+                    "name": "Levius/est",
+                    "url": "https://myanimelist.net/manga/94524/Levius_est"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 39574,
+                    "type": "anime",
+                    "name": "Levius",
+                    "url": "https://myanimelist.net/anime/39574/Levius"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/Levius_-%E3%83%AC%E3%83%93%E3%82%A6%E3%82%B9-"
+        }
+    ]
+}

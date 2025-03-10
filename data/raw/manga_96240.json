@@ -1,0 +1,138 @@
+{
+    "mal_id": 96240,
+    "url": "https://myanimelist.net/manga/96240/Comic_Girls",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/172062.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/172062t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/172062l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/172062.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/172062t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/172062l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Comic Girls"
+        },
+        {
+            "type": "Japanese",
+            "title": "こみっくがーるず"
+        }
+    ],
+    "title": "Comic Girls",
+    "title_english": null,
+    "title_japanese": "こみっくがーるず",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-03-19T00:00:00+00:00",
+        "to": "2023-02-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 3,
+                "year": 2014
+            },
+            "to": {
+                "day": 27,
+                "month": 2,
+                "year": 2023
+            }
+        },
+        "string": "Mar 19, 2014 to Feb 27, 2023"
+    },
+    "score": 7.43,
+    "scored": 7.43,
+    "scored_by": 800,
+    "rank": 3517,
+    "popularity": 5461,
+    "members": 3988,
+    "favorites": 47,
+    "synopsis": "The daily life of up-and-coming female mangaka living together in a dormitory.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9616,
+            "type": "people",
+            "name": "Hanzawa, Kaori",
+            "url": "https://myanimelist.net/people/9616/Kaori_Hanzawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 363,
+            "type": "manga",
+            "name": "Manga Time Kirara MAX",
+            "url": "https://myanimelist.net/manga/magazine/363/Manga_Time_Kirara_MAX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 70,
+            "type": "manga",
+            "name": "Otaku Culture",
+            "url": "https://myanimelist.net/manga/genre/70/Otaku_Culture"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35756,
+                    "type": "anime",
+                    "name": "Comic Girls",
+                    "url": "https://myanimelist.net/anime/35756/Comic_Girls"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 173294,
+                    "type": "manga",
+                    "name": "Comic Girls Anthology Comic",
+                    "url": "https://myanimelist.net/manga/173294/Comic_Girls_Anthology_Comic"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%93%E3%81%BF%E3%81%A3%E3%81%8F%E3%81%8C%E3%83%BC%E3%82%8B%E3%81%9A"
+        }
+    ]
+}

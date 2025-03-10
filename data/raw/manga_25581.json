@@ -1,0 +1,121 @@
+{
+    "mal_id": 25581,
+    "url": "https://myanimelist.net/manga/25581/Highschool_of_the_Head",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/166342.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/166342t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/166342l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/166342.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/166342t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/166342l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Highschool of the Head"
+        },
+        {
+            "type": "Synonym",
+            "title": "HOTH"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gakuen Mokushiroku"
+        },
+        {
+            "type": "Japanese",
+            "title": "学園黙示録 HIGHSCHOOL OF THE HEAD"
+        }
+    ],
+    "title": "Highschool of the Head",
+    "title_english": null,
+    "title_japanese": "学園黙示録 HIGHSCHOOL OF THE HEAD",
+    "title_synonyms": [
+        "HOTH",
+        "Gakuen Mokushiroku"
+    ],
+    "type": "Manga",
+    "chapters": 17,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-09-09T00:00:00+00:00",
+        "to": "2011-03-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 9,
+                "year": 2010
+            },
+            "to": {
+                "day": 9,
+                "month": 3,
+                "year": 2011
+            }
+        },
+        "string": "Sep 9, 2010 to Mar 9, 2011"
+    },
+    "score": 6.65,
+    "scored": 6.65,
+    "scored_by": 901,
+    "rank": 14471,
+    "popularity": 7508,
+    "members": 2762,
+    "favorites": 16,
+    "synopsis": "A 4-koma version of Highschool of the Dead.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 22229,
+            "type": "people",
+            "name": "SankakuHead",
+            "url": "https://myanimelist.net/people/22229/SankakuHead"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 98,
+            "type": "manga",
+            "name": "Dragon Age",
+            "url": "https://myanimelist.net/manga/magazine/98/Dragon_Age"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 669,
+                    "type": "manga",
+                    "name": "Highschool of the Dead",
+                    "url": "https://myanimelist.net/manga/669/Highschool_of_the_Dead"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,132 @@
+{
+    "mal_id": 72787,
+    "url": "https://myanimelist.net/manga/72787/Baki_Gaiden__Kenjin",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/126057.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/126057t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/126057l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/126057.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/126057t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/126057l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Baki Gaiden: Kenjin"
+        },
+        {
+            "type": "Japanese",
+            "title": "バキ外伝 拳刃"
+        }
+    ],
+    "title": "Baki Gaiden: Kenjin",
+    "title_english": null,
+    "title_japanese": "バキ外伝 拳刃",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-06-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 6,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 19, 2013 to ?"
+    },
+    "score": 6.9,
+    "scored": 6.9,
+    "scored_by": 1205,
+    "rank": 10650,
+    "popularity": 8250,
+    "members": 2466,
+    "favorites": 9,
+    "synopsis": "Spin-off series, written and illustrated by Miyatani Kengo, representing and describing Doppo's adventures.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4488,
+            "type": "people",
+            "name": "Itagaki, Keisuke",
+            "url": "https://myanimelist.net/people/4488/Keisuke_Itagaki"
+        },
+        {
+            "mal_id": 18161,
+            "type": "people",
+            "name": "Miyatani, Kengo",
+            "url": "https://myanimelist.net/people/18161/Kengo_Miyatani"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 186,
+            "type": "manga",
+            "name": "Champion RED",
+            "url": "https://myanimelist.net/manga/magazine/186/Champion_RED"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 5157,
+                    "type": "manga",
+                    "name": "Baki: New Grappler Baki",
+                    "url": "https://myanimelist.net/manga/5157/Baki__New_Grappler_Baki"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://baki.ne.jp/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%83%E3%83%97%E3%83%A9%E3%83%BC%E5%88%83%E7%89%99"
+        }
+    ]
+}

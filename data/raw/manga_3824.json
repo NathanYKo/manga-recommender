@@ -1,0 +1,123 @@
+{
+    "mal_id": 3824,
+    "url": "https://myanimelist.net/manga/3824/Aoi_Haru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/151411.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/151411t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/151411l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/151411.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/151411t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/151411l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Aoi Haru"
+        },
+        {
+            "type": "Synonym",
+            "title": "Matsumoto Taiyo Tanpenshuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Matsumoto Taiyo's Short Stories"
+        },
+        {
+            "type": "Japanese",
+            "title": "青い春"
+        },
+        {
+            "type": "English",
+            "title": "Blue Spring"
+        }
+    ],
+    "title": "Aoi Haru",
+    "title_english": "Blue Spring",
+    "title_japanese": "青い春",
+    "title_synonyms": [
+        "Matsumoto Taiyo Tanpenshuu",
+        "Matsumoto Taiyo's Short Stories"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1993"
+    },
+    "score": 6.55,
+    "scored": 6.55,
+    "scored_by": 1913,
+    "rank": 15835,
+    "popularity": 4173,
+    "members": 5392,
+    "favorites": 61,
+    "synopsis": "This dark and intense drama is set in a boy's high school where Kujo becomes the official leader of a gang. Kujo must constantly defend his position by playing a dangerous rooftop game with the other boys vying for his position. This manga has also been made into a film which has shown in various festivals throughout the world. \n\n(Source: MU)",
+    "background": "Aoi Haru was published in English as Blue Spring by VIZ Media under the VIZ Signature imprint on November 24, 2004. The manga was adapted to film in 2002 by director Toshiaki Toyoda, and released in Japan on June 29th of that year, under the same title.",
+    "authors": [
+        {
+            "mal_id": 2409,
+            "type": "people",
+            "name": "Matsumoto, Taiyou",
+            "url": "https://myanimelist.net/people/2409/Taiyou_Matsumoto"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 442,
+                    "type": "manga",
+                    "name": "Tekkon Kinkreet",
+                    "url": "https://myanimelist.net/manga/442/Tekkon_Kinkreet"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Blue_Spring_(manga)"
+        }
+    ]
+}

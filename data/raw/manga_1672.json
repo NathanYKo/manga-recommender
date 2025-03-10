@@ -1,0 +1,152 @@
+{
+    "mal_id": 1672,
+    "url": "https://myanimelist.net/manga/1672/Shurayuki-hime",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/254617.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/254617t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/254617l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/254617.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/254617t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/254617l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shurayuki-hime"
+        },
+        {
+            "type": "Synonym",
+            "title": "Princess Snowblood"
+        },
+        {
+            "type": "Japanese",
+            "title": "修羅雪姫"
+        },
+        {
+            "type": "English",
+            "title": "Lady Snowblood"
+        }
+    ],
+    "title": "Shurayuki-hime",
+    "title_english": "Lady Snowblood",
+    "title_japanese": "修羅雪姫",
+    "title_synonyms": [
+        "Princess Snowblood"
+    ],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1972-02-15T00:00:00+00:00",
+        "to": "1973-02-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 2,
+                "year": 1972
+            },
+            "to": {
+                "day": 20,
+                "month": 2,
+                "year": 1973
+            }
+        },
+        "string": "Feb 15, 1972 to Feb 20, 1973"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 2298,
+    "rank": 4670,
+    "popularity": 2910,
+    "members": 7711,
+    "favorites": 83,
+    "synopsis": "A story of pure vengeance, Shurayuki-hime tells the tale of a daughter born of a singular purpose, to avenge the death of her family at the hands of a gang of thugs, a purpose woven into her soul from the time of her gestation.\n\n(Source: ANN)",
+    "background": "Shurayuki-hime was published in English by Dark Horse from September 21, 2005 to June 28, 2006 and in Brazilian Portuguese by Conrad from August 2006 to April 2007.",
+    "authors": [
+        {
+            "mal_id": 3020,
+            "type": "people",
+            "name": "Koike, Kazuo",
+            "url": "https://myanimelist.net/people/3020/Kazuo_Koike"
+        },
+        {
+            "mal_id": 3129,
+            "type": "people",
+            "name": "Kamimura, Kazuo",
+            "url": "https://myanimelist.net/people/3129/Kazuo_Kamimura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 173,
+            "type": "manga",
+            "name": "Weekly Playboy",
+            "url": "https://myanimelist.net/manga/magazine/173/Weekly_Playboy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 12856,
+                    "type": "manga",
+                    "name": "Shurayuki-hime: Fukkatsu no Shou",
+                    "url": "https://myanimelist.net/manga/12856/Shurayuki-hime__Fukkatsu_no_Shou"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 20541,
+                    "type": "manga",
+                    "name": "Shurayuki-hime Gaiden",
+                    "url": "https://myanimelist.net/manga/20541/Shurayuki-hime_Gaiden"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://kamimurakazuo.com/book/shurayukihime/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E4%BF%AE%E7%BE%85%E9%9B%AA%E5%A7%AB"
+        }
+    ]
+}

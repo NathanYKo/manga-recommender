@@ -1,0 +1,127 @@
+{
+    "mal_id": 82151,
+    "url": "https://myanimelist.net/manga/82151/Koko_kara_Saki_wa_NG",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/143185.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/143185t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/143185l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/143185.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/143185t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/143185l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koko kara Saki wa NG!"
+        },
+        {
+            "type": "Synonym",
+            "title": "KokoN!"
+        },
+        {
+            "type": "Japanese",
+            "title": "ここから先はNG!"
+        },
+        {
+            "type": "English",
+            "title": "NG from here on!"
+        }
+    ],
+    "title": "Koko kara Saki wa NG!",
+    "title_english": "NG from here on!",
+    "title_japanese": "ここから先はNG!",
+    "title_synonyms": [
+        "KokoN!"
+    ],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-06-13T00:00:00+00:00",
+        "to": "2015-06-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 6,
+                "year": 2014
+            },
+            "to": {
+                "day": 13,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Jun 13, 2014 to Jun 13, 2015"
+    },
+    "score": 6.84,
+    "scored": 6.84,
+    "scored_by": 1028,
+    "rank": 11558,
+    "popularity": 5573,
+    "members": 3887,
+    "favorites": 5,
+    "synopsis": "Haru who's allergic to boys transferred to a class full of ikemens and bishounen! Will romance spark between Haru and the boys?\n\n(Source: Winter Translations)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 28015,
+            "type": "people",
+            "name": "Izumi, Mio",
+            "url": "https://myanimelist.net/people/28015/Mio_Izumi"
+        },
+        {
+            "mal_id": 35439,
+            "type": "people",
+            "name": "Matsuda, Yuuko",
+            "url": "https://myanimelist.net/people/35439/Yuuko_Matsuda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

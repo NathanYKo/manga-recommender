@@ -1,0 +1,161 @@
+{
+    "mal_id": 31079,
+    "url": "https://myanimelist.net/manga/31079/Chounouryokusha_Saiki_Kusuo_no_Ψ-nan_0",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/95619.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/95619t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/95619l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/95619.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/95619t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/95619l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Chounouryokusha Saiki Kusuo no Ψ-nan 0"
+        },
+        {
+            "type": "Synonym",
+            "title": "Asou Shuichi Tanpenshuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Saiki Kusuo no Sainan Volume Zero"
+        },
+        {
+            "type": "Synonym",
+            "title": "Saiki Kusuo no Psi Nan"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Disaster of PSI Kusuo Saiki"
+        },
+        {
+            "type": "Japanese",
+            "title": "超能力者斉木楠雄のΨ難 0 麻生周一短編集"
+        }
+    ],
+    "title": "Chounouryokusha Saiki Kusuo no Ψ-nan 0",
+    "title_english": null,
+    "title_japanese": "超能力者斉木楠雄のΨ難 0 麻生周一短編集",
+    "title_synonyms": [
+        "Asou Shuichi Tanpenshuu",
+        "Saiki Kusuo no Sainan Volume Zero",
+        "Saiki Kusuo no Psi Nan",
+        "The Disaster of PSI Kusuo Saiki"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-05-09T00:00:00+00:00",
+        "to": "2011-11-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 5,
+                "year": 2011
+            },
+            "to": {
+                "day": 21,
+                "month": 11,
+                "year": 2011
+            }
+        },
+        "string": "May 9, 2011 to Nov 21, 2011"
+    },
+    "score": 7.37,
+    "scored": 7.37,
+    "scored_by": 1326,
+    "rank": 4153,
+    "popularity": 6045,
+    "members": 3557,
+    "favorites": 40,
+    "synopsis": "Saiki Kusuo has a wide array of superpowers at his command, including telepathy and telekinesis. This might sound awesome, but, in Kusuo's experience, superpowers are not all they're cracked up to be. He tries to live a normal life, despite his annoying abilities.\n\n(Source: MangaHelpers)\n\nIncluded one-shots: Mikami Shounen Tantei File, Boku no Watashi no Yuushagaku (Special Chapter)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9030,
+            "type": "people",
+            "name": "Asou, Shuuichi",
+            "url": "https://myanimelist.net/people/9030/Shuuichi_Asou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 37755,
+                    "type": "manga",
+                    "name": "Saiki Kusuo no Ψ-nan",
+                    "url": "https://myanimelist.net/manga/37755/Saiki_Kusuo_no_Ψ-nan"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 19469,
+                    "type": "anime",
+                    "name": "Saiki Kusuo no Ψ-nan (ONA)",
+                    "url": "https://myanimelist.net/anime/19469/Saiki_Kusuo_no_Ψ-nan_ONA"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

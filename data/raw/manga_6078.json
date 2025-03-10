@@ -1,0 +1,131 @@
+{
+    "mal_id": 6078,
+    "url": "https://myanimelist.net/manga/6078/Chouchougumo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/171445.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/171445t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/171445l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/171445.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/171445t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/171445l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Chouchougumo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Butterfly Cloud"
+        },
+        {
+            "type": "Synonym",
+            "title": "Less than Love"
+        },
+        {
+            "type": "Synonym",
+            "title": "Man Hater"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Cherry Blossoms Scatter"
+        },
+        {
+            "type": "Japanese",
+            "title": "蝶々雲"
+        }
+    ],
+    "title": "Chouchougumo",
+    "title_english": null,
+    "title_japanese": "蝶々雲",
+    "title_synonyms": [
+        "Butterfly Cloud",
+        "Less than Love",
+        "Man Hater",
+        "The Cherry Blossoms Scatter"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-11-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 11,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 24, 2006"
+    },
+    "score": 7.1,
+    "scored": 7.1,
+    "scored_by": 1351,
+    "rank": 7533,
+    "popularity": 7957,
+    "members": 2574,
+    "favorites": 4,
+    "synopsis": "1. Chouchougumo\n2. Chuugaku 1-nensei: Koi Miman (Middle School: Less Than Love)\n3. Chuugaku 2-nensei: Otokogirai (Middle School: Man Hater)\n4. Chuugaku 3-nensei: Sakurachiru. (Middle School: The Cherry Blossoms Scatter)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2302,
+            "type": "people",
+            "name": "Ashihara, Hinako",
+            "url": "https://myanimelist.net/people/2302/Hinako_Ashihara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

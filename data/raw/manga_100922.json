@@ -1,0 +1,134 @@
+{
+    "mal_id": 100922,
+    "url": "https://myanimelist.net/manga/100922/Blue_Giant_Supreme",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/193590.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/193590t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/193590l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/193590.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/193590t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/193590l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Blue Giant Supreme"
+        },
+        {
+            "type": "Japanese",
+            "title": "BLUE GIANT SUPREME"
+        }
+    ],
+    "title": "Blue Giant Supreme",
+    "title_english": null,
+    "title_japanese": "BLUE GIANT SUPREME",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 88,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-09-10T00:00:00+00:00",
+        "to": "2020-04-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 9,
+                "year": 2016
+            },
+            "to": {
+                "day": 25,
+                "month": 4,
+                "year": 2020
+            }
+        },
+        "string": "Sep 10, 2016 to Apr 25, 2020"
+    },
+    "score": 8.32,
+    "scored": 8.32,
+    "scored_by": 1031,
+    "rank": 293,
+    "popularity": 4481,
+    "members": 4969,
+    "favorites": 36,
+    "synopsis": "Dai Miyamoto's jazz journey continues in Germany with the goal of starting a band and moving on to the world stage.\n\n(Source: MU)",
+    "background": "To mark the release of the first volume as well as the 100th anniversary of jazz music, Tokyo's JR Shinjuku Station held a wall advertisement for Blue Giant Supreme, which offered peel-off cassette tape to passers-by from March 16, 2017, to March 20, 2017.",
+    "authors": [
+        {
+            "mal_id": 7446,
+            "type": "people",
+            "name": "Ishizuka, Shinichi",
+            "url": "https://myanimelist.net/people/7446/Shinichi_Ishizuka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Big Comic",
+            "url": "https://myanimelist.net/manga/magazine/55/Big_Comic"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 85719,
+                    "type": "manga",
+                    "name": "Blue Giant",
+                    "url": "https://myanimelist.net/manga/85719/Blue_Giant"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 131091,
+                    "type": "manga",
+                    "name": "Blue Giant Explorer",
+                    "url": "https://myanimelist.net/manga/131091/Blue_Giant_Explorer"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://bluegiant.jp/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Blue_Giant_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/BLUE_GIANT"
+        }
+    ]
+}

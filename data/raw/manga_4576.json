@@ -1,0 +1,148 @@
+{
+    "mal_id": 4576,
+    "url": "https://myanimelist.net/manga/4576/Sketchbook",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/178767.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/178767t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/178767l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/178767.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/178767t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/178767l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sketchbook"
+        },
+        {
+            "type": "Japanese",
+            "title": "スケッチブック"
+        }
+    ],
+    "title": "Sketchbook",
+    "title_english": null,
+    "title_japanese": "スケッチブック",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 219,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-02-28T00:00:00+00:00",
+        "to": "2019-06-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 2,
+                "year": 2002
+            },
+            "to": {
+                "day": 5,
+                "month": 6,
+                "year": 2019
+            }
+        },
+        "string": "Feb 28, 2002 to Jun 5, 2019"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 892,
+    "rank": 2418,
+    "popularity": 5558,
+    "members": 3899,
+    "favorites": 81,
+    "synopsis": "Sora is a quiet girl who finds her niche in the high school art club. When she isn't out capturing images of the neighbourhood in her trusty sketchbook, she can almost certainly be found befriending the local cats.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5474,
+            "type": "people",
+            "name": "Kobako, Totan",
+            "url": "https://myanimelist.net/people/5474/Totan_Kobako"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1217,
+            "type": "manga",
+            "name": "Comic Garden",
+            "url": "https://myanimelist.net/manga/magazine/1217/Comic_Garden"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        },
+        {
+            "mal_id": 82,
+            "type": "manga",
+            "name": "Visual Arts",
+            "url": "https://myanimelist.net/manga/genre/82/Visual_Arts"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2942,
+                    "type": "anime",
+                    "name": "Sketchbook: Full Color's",
+                    "url": "https://myanimelist.net/anime/2942/Sketchbook__Full_Colors"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 11264,
+                    "type": "manga",
+                    "name": "Sketchbook: Shucchouban",
+                    "url": "https://myanimelist.net/manga/11264/Sketchbook__Shucchouban"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic.mag-garden.co.jp/sketchbook/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B1%E3%83%83%E3%83%81%E3%83%96%E3%83%83%E3%82%AF_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

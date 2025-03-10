@@ -1,0 +1,161 @@
+{
+    "mal_id": 45893,
+    "url": "https://myanimelist.net/manga/45893/Log_Horizon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/98051.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/98051t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/98051l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/98051.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/98051t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/98051l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Log Horizon"
+        },
+        {
+            "type": "Japanese",
+            "title": "ログ・ホライズン"
+        }
+    ],
+    "title": "Log Horizon",
+    "title_english": null,
+    "title_japanese": "ログ・ホライズン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "2012-05-18T00:00:00+00:00",
+        "to": "2013-06-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 5,
+                "year": 2012
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "May 18, 2012 to Jun 28, 2013"
+    },
+    "score": 7.33,
+    "scored": 7.33,
+    "scored_by": 1174,
+    "rank": 4591,
+    "popularity": 4170,
+    "members": 5395,
+    "favorites": 52,
+    "synopsis": "How would you react if one day you were sucked into an MMORPG and could never get out? After a mysterious incident, roughly 30,000 players from Japan are now forced to live their life inside the MMORPG \"Ender Tales\" and can not log out. Even death is met with a respawn. Even worse is the fact that food has absolutely no taste. All this combined, many of the players inside this MMO has lost any will to actually play this game, but they are never allowed to leave. A played named Shiro will venture forth to uncover the mystery behind the reason why they are inside this game.\n\n(Source: MangaHelpers)",
+    "background": "Log Horizon has been published in English by Yen Press since March 31, 2015.",
+    "authors": [
+        {
+            "mal_id": 13135,
+            "type": "people",
+            "name": "Touno, Mamare",
+            "url": "https://myanimelist.net/people/13135/Mamare_Touno"
+        },
+        {
+            "mal_id": 19813,
+            "type": "people",
+            "name": "Hara, Kazuhiro",
+            "url": "https://myanimelist.net/people/19813/Kazuhiro_Hara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 532,
+            "type": "manga",
+            "name": "Famitsu Comic Clear",
+            "url": "https://myanimelist.net/manga/magazine/532/Famitsu_Comic_Clear"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 46024,
+                    "type": "manga",
+                    "name": "Log Horizon",
+                    "url": "https://myanimelist.net/manga/46024/Log_Horizon"
+                },
+                {
+                    "mal_id": 17265,
+                    "type": "anime",
+                    "name": "Log Horizon",
+                    "url": "https://myanimelist.net/anime/17265/Log_Horizon"
+                },
+                {
+                    "mal_id": 23321,
+                    "type": "anime",
+                    "name": "Log Horizon 2nd Season",
+                    "url": "https://myanimelist.net/anime/23321/Log_Horizon_2nd_Season"
+                },
+                {
+                    "mal_id": 41109,
+                    "type": "anime",
+                    "name": "Log Horizon: Entaku Houkai",
+                    "url": "https://myanimelist.net/anime/41109/Log_Horizon__Entaku_Houkai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.famitsu.com/comic_clear/se_loghorizon/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B0%E3%83%BB%E3%83%9B%E3%83%A9%E3%82%A4%E3%82%BA%E3%83%B3#.E6.BC.AB.E7.94.BB.E7.89.88"
+        }
+    ]
+}

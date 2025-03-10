@@ -1,0 +1,187 @@
+{
+    "mal_id": 3415,
+    "url": "https://myanimelist.net/manga/3415/Kure-nai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/147269.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/147269t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/147269l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/147269.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/147269t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/147269l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kure-nai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kurenai"
+        },
+        {
+            "type": "Japanese",
+            "title": "紅 kure-nai"
+        }
+    ],
+    "title": "Kure-nai",
+    "title_english": null,
+    "title_japanese": "紅 kure-nai",
+    "title_synonyms": [
+        "Kurenai"
+    ],
+    "type": "Manga",
+    "chapters": 55,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-11-02T00:00:00+00:00",
+        "to": "2012-06-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 11,
+                "year": 2007
+            },
+            "to": {
+                "day": 4,
+                "month": 6,
+                "year": 2012
+            }
+        },
+        "string": "Nov 2, 2007 to Jun 4, 2012"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 4196,
+    "rank": 3374,
+    "popularity": 1621,
+    "members": 13301,
+    "favorites": 112,
+    "synopsis": "16-year-old Kurenai Shinkurou, a specialist in settling squabbles between people, is one day approached by the daughter of a powerful plutocratic family asking him to be her bodyguard.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3638,
+            "type": "people",
+            "name": "Katayama, Kentarou",
+            "url": "https://myanimelist.net/people/3638/Kentarou_Katayama"
+        },
+        {
+            "mal_id": 9715,
+            "type": "people",
+            "name": "Yamamoto, Yamato",
+            "url": "https://myanimelist.net/people/9715/Yamato_Yamamoto"
+        },
+        {
+            "mal_id": 46884,
+            "type": "people",
+            "name": "Furuya, Daisuke",
+            "url": "https://myanimelist.net/people/46884/Daisuke_Furuya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Childcare",
+            "url": "https://myanimelist.net/manga/genre/53/Childcare"
+        },
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3358,
+                    "type": "anime",
+                    "name": "Kure-nai",
+                    "url": "https://myanimelist.net/anime/3358/Kure-nai"
+                },
+                {
+                    "mal_id": 8078,
+                    "type": "anime",
+                    "name": "Kure-nai OVA",
+                    "url": "https://myanimelist.net/anime/8078/Kure-nai_OVA"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 17824,
+                    "type": "manga",
+                    "name": "Kure-nai",
+                    "url": "https://myanimelist.net/manga/17824/Kure-nai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%B4%85_%28%E5%B0%8F%E8%AA%AC%29"
+        }
+    ]
+}

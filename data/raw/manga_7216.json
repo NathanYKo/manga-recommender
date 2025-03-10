@@ -1,0 +1,148 @@
+{
+    "mal_id": 7216,
+    "url": "https://myanimelist.net/manga/7216/Haisha",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/274717.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/274717t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/274717l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/274717.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/274717t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/274717l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Haisha"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ashen Victor: Motorball Diaries from the World of Battle Angel Alita"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ashman"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hai-Sha"
+        },
+        {
+            "type": "Japanese",
+            "title": "灰者"
+        },
+        {
+            "type": "English",
+            "title": "Ashen Victor"
+        }
+    ],
+    "title": "Haisha",
+    "title_english": "Ashen Victor",
+    "title_japanese": "灰者",
+    "title_synonyms": [
+        "Ashen Victor: Motorball Diaries from the World of Battle Angel Alita",
+        "Ashman",
+        "Hai-Sha"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1995-01-01T00:00:00+00:00",
+        "to": "1996-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1995
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1996
+            }
+        },
+        "string": "1995 to 1996"
+    },
+    "score": 6.6,
+    "scored": 6.6,
+    "scored_by": 1463,
+    "rank": 15231,
+    "popularity": 5098,
+    "members": 4296,
+    "favorites": 13,
+    "synopsis": "Meet Snev, a hapless motorballer nicknamed the \"Crash King.\"  Ever since a traumatic accident on the racetrack, Snev has been running on the edge of sanity.  Only his best friend, a beautiful prostitute, still believes in him.  Then, when Snev discovers his employers' ulterior motives for keeping him on the motorball circuit, he must muster the courage to confront both them and his inner demons!",
+    "background": "Haisha was published in English as Ashen Victor, or Motorball Diaries From The World Of Battle Angel Alita by VIZ Media, first as part of VIZ Select Comics for a total of four issues in 1997, then collected in tankoubon format on January 31, 1999.",
+    "authors": [
+        {
+            "mal_id": 2602,
+            "type": "people",
+            "name": "Kishiro, Yukito",
+            "url": "https://myanimelist.net/people/2602/Yukito_Kishiro"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 768,
+                    "type": "manga",
+                    "name": "Gunnm",
+                    "url": "https://myanimelist.net/manga/768/Gunnm"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/灰者"
+        }
+    ]
+}

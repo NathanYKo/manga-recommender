@@ -1,0 +1,104 @@
+{
+    "mal_id": 9004,
+    "url": "https://myanimelist.net/manga/9004/Kono_Yo_no_Owari_e_no_Tabi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/31600.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/31600t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/31600l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/31600.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/31600t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/31600l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kono Yo no Owari e no Tabi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Journey to the End of the World"
+        },
+        {
+            "type": "Japanese",
+            "title": "この世の終りへの旅"
+        }
+    ],
+    "title": "Kono Yo no Owari e no Tabi",
+    "title_english": null,
+    "title_japanese": "この世の終りへの旅",
+    "title_synonyms": [
+        "Journey to the End of the World"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-04-25T00:00:00+00:00",
+        "to": "2003-08-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 2002
+            },
+            "to": {
+                "day": 25,
+                "month": 8,
+                "year": 2003
+            }
+        },
+        "string": "Apr 25, 2002 to Aug 25, 2003"
+    },
+    "score": 7.22,
+    "scored": 7.22,
+    "scored_by": 2303,
+    "rank": 5874,
+    "popularity": 3594,
+    "members": 6257,
+    "favorites": 138,
+    "synopsis": "A nameless man sets out on a journey to go away from his repetitive and boring life after realizing how mundane it truly is. He finds unbelievable things, terrible things in his journey. A journey that is started must be completed: the journey to the end of the world.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6706,
+            "type": "people",
+            "name": "Nishioka Kyoudai",
+            "url": "https://myanimelist.net/people/6706/Nishioka_Kyoudai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 283,
+            "type": "manga",
+            "name": "AX",
+            "url": "https://myanimelist.net/manga/magazine/283/AX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

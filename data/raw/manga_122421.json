@@ -1,0 +1,119 @@
+{
+    "mal_id": 122421,
+    "url": "https://myanimelist.net/manga/122421/Semelparous",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/229395.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/229395t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/229395l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/229395.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/229395t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/229395l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Semelparous"
+        },
+        {
+            "type": "Japanese",
+            "title": "セメルパルス"
+        },
+        {
+            "type": "English",
+            "title": "Semelparous"
+        }
+    ],
+    "title": "Semelparous",
+    "title_english": "Semelparous",
+    "title_japanese": "セメルパルス",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-11-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 11,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 18, 2019 to ?"
+    },
+    "score": 6.71,
+    "scored": 6.71,
+    "scored_by": 652,
+    "rank": 13538,
+    "popularity": 6757,
+    "members": 3140,
+    "favorites": 20,
+    "synopsis": "Ever since they were young girls, best friends Yorino and Haruka have been training to become Bastioners—soldiers who battle in a walled area that protects humanity from the kaiju trying to break through. But when Haruka is killed during a routine exercise, Yorino must fight even harder to make sure she never loses someone close to her again.",
+    "background": "Semelparous has been published in English by Seven Seas Entertainment since December 14, 2021.",
+    "authors": [
+        {
+            "mal_id": 21229,
+            "type": "people",
+            "name": "Ogino, Jun",
+            "url": "https://myanimelist.net/people/21229/Jun_Ogino"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 423,
+            "type": "manga",
+            "name": "Comic Yuri Hime",
+            "url": "https://myanimelist.net/manga/magazine/423/Comic_Yuri_Hime"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 103491,
+                    "type": "manga",
+                    "name": "Tagai no Guardian",
+                    "url": "https://myanimelist.net/manga/103491/Tagai_no_Guardian"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

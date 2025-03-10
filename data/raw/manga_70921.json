@@ -1,0 +1,133 @@
+{
+    "mal_id": 70921,
+    "url": "https://myanimelist.net/manga/70921/Date_A_Live__Encore",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/121831.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/121831t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/121831l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/121831.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/121831t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/121831l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Date A Live: Encore"
+        },
+        {
+            "type": "Japanese",
+            "title": "デート・ア・ライブ アンコール"
+        }
+    ],
+    "title": "Date A Live: Encore",
+    "title_english": null,
+    "title_japanese": "デート・ア・ライブ アンコール",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2011-03-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 3,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 19, 2011 to ?"
+    },
+    "score": 7.72,
+    "scored": 7.72,
+    "scored_by": 624,
+    "rank": 1667,
+    "popularity": 7844,
+    "members": 2621,
+    "favorites": 59,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 16861,
+            "type": "people",
+            "name": "Tachibana, Koushi",
+            "url": "https://myanimelist.net/people/16861/Koushi_Tachibana"
+        },
+        {
+            "mal_id": 16991,
+            "type": "people",
+            "name": "Tsunako",
+            "url": "https://myanimelist.net/people/16991/Tsunako"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 312,
+            "type": "manga",
+            "name": "Dragon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/312/Dragon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 22961,
+                    "type": "anime",
+                    "name": "Date A Live II: Kurumi Star Festival",
+                    "url": "https://myanimelist.net/anime/22961/Date_A_Live_II__Kurumi_Star_Festival"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 37523,
+                    "type": "manga",
+                    "name": "Date A Live",
+                    "url": "https://myanimelist.net/manga/37523/Date_A_Live"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

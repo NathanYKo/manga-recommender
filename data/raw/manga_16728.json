@@ -1,0 +1,164 @@
+{
+    "mal_id": 16728,
+    "url": "https://myanimelist.net/manga/16728/Itoshii_Akuma",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/161598.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/161598t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/161598l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/161598.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/161598t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/161598l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Itoshii Akuma"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dear Demon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kawaii Akuma: Gojitsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hisashi-kun Nikki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Aru Ippan Seito Shougen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Aru Hi Totsuzen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Soshite Boku wa Koi wo Kataru"
+        },
+        {
+            "type": "Japanese",
+            "title": "いとしい悪魔"
+        }
+    ],
+    "title": "Itoshii Akuma",
+    "title_english": null,
+    "title_japanese": "いとしい悪魔",
+    "title_synonyms": [
+        "Dear Demon",
+        "Kawaii Akuma: Gojitsu",
+        "Hisashi-kun Nikki",
+        "Aru Ippan Seito Shougen",
+        "Aru Hi Totsuzen",
+        "Soshite Boku wa Koi wo Kataru"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-09-22T00:00:00+00:00",
+        "to": "2009-08-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 9,
+                "year": 2007
+            },
+            "to": {
+                "day": 8,
+                "month": 8,
+                "year": 2009
+            }
+        },
+        "string": "Sep 22, 2007 to Aug 8, 2009"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 1504,
+    "rank": null,
+    "popularity": 7404,
+    "members": 2804,
+    "favorites": 5,
+    "synopsis": "1-2. Itoshii Akuma\n3. Kawaii Akuma: Gojitsu\n4. Hisashi-kun Nikki\n5. Aru Ippan Seito Shougen\n6. Aru Hi Totsuzen\n8. Soshite Boku wa Koi wo Kataru",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7372,
+            "type": "people",
+            "name": "Madarame, Hiro",
+            "url": "https://myanimelist.net/people/7372/Hiro_Madarame"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 396,
+            "type": "manga",
+            "name": "Comic Magazine LYNX",
+            "url": "https://myanimelist.net/manga/magazine/396/Comic_Magazine_LYNX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 13090,
+                    "type": "manga",
+                    "name": "Kawaii Akuma",
+                    "url": "https://myanimelist.net/manga/13090/Kawaii_Akuma"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 46948,
+                    "type": "manga",
+                    "name": "Koishii Akuma",
+                    "url": "https://myanimelist.net/manga/46948/Koishii_Akuma"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

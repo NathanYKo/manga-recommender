@@ -1,0 +1,137 @@
+{
+    "mal_id": 890,
+    "url": "https://myanimelist.net/manga/890/Alien_9__Emulators",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/143949.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/143949t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/143949l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/143949.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/143949t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/143949l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Alien 9: Emulators"
+        },
+        {
+            "type": "Japanese",
+            "title": "エイリアン9 －エミュレイターズ－"
+        },
+        {
+            "type": "English",
+            "title": "Alien Nine: Emulators"
+        }
+    ],
+    "title": "Alien 9: Emulators",
+    "title_english": "Alien Nine: Emulators",
+    "title_japanese": "エイリアン9 －エミュレイターズ－",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-08-19T00:00:00+00:00",
+        "to": "2002-12-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 8,
+                "year": 2002
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2002
+            }
+        },
+        "string": "Aug 19, 2002 to Dec 19, 2002"
+    },
+    "score": 6.25,
+    "scored": 6.25,
+    "scored_by": 1324,
+    "rank": 18783,
+    "popularity": 7412,
+    "members": 2803,
+    "favorites": 11,
+    "synopsis": "The girls have finally graduated 6th grade and are now in junior high... but are they really prepared for the challenges that await them? There's a new girl in town and she seems to be hosting an entirely different kind of alien... is she a new ally, or will she be the Earth's latest threat?\n\n(Source: CPM)",
+    "background": "Alien 9: Emulators was published in English as Alien Nine: Emulators by Central Park Media on February 4, 2004.",
+    "authors": [
+        {
+            "mal_id": 2664,
+            "type": "people",
+            "name": "Tomizawa, Hitoshi",
+            "url": "https://myanimelist.net/people/2664/Hitoshi_Tomizawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 186,
+            "type": "manga",
+            "name": "Champion RED",
+            "url": "https://myanimelist.net/manga/magazine/186/Champion_RED"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 889,
+                    "type": "manga",
+                    "name": "Alien 9",
+                    "url": "https://myanimelist.net/manga/889/Alien_9"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 119416,
+                    "type": "manga",
+                    "name": "Alien 9 Next",
+                    "url": "https://myanimelist.net/manga/119416/Alien_9_Next"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/エイリアン9#.E3.82.A8.E3.82.A4.E3.83.AA.E3.82.A2.E3.83.B39_-.E3.82.A8.E3.83.9F.E3.83.A5.E3.83.AC.E3.82.A4.E3.82.BF.E3.83.BC.E3.82.BA-"
+        }
+    ]
+}

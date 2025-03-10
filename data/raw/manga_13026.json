@@ -1,0 +1,109 @@
+{
+    "mal_id": 13026,
+    "url": "https://myanimelist.net/manga/13026/Inu_wo_Kau",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/104405.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/104405t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/104405l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/104405.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/104405t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/104405l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Inu wo Kau"
+        },
+        {
+            "type": "Japanese",
+            "title": "犬を飼う"
+        }
+    ],
+    "title": "Inu wo Kau",
+    "title_english": null,
+    "title_japanese": "犬を飼う",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1991-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1991
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1991"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 1178,
+    "rank": 5203,
+    "popularity": 8050,
+    "members": 2537,
+    "favorites": 9,
+    "synopsis": "Collection of five short stories. The first one tells the death of an old dog, hence the title. The last one is a bit similar to an later work of the author, Kamigami no Itadaki.  \n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3025,
+            "type": "people",
+            "name": "Taniguchi, Jiro",
+            "url": "https://myanimelist.net/people/3025/Jiro_Taniguchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Big Comic",
+            "url": "https://myanimelist.net/manga/magazine/55/Big_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.animenewsnetwork.com/encyclopedia/manga.php?id=7778"
+        }
+    ]
+}

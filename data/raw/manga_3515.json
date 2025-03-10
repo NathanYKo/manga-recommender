@@ -1,0 +1,122 @@
+{
+    "mal_id": 3515,
+    "url": "https://myanimelist.net/manga/3515/Honeymoon_Salad",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/172157.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/172157t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/172157l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/172157.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/172157t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/172157l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Honeymoon Salad"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハネムーンサラダ"
+        }
+    ],
+    "title": "Honeymoon Salad",
+    "title_english": null,
+    "title_japanese": "ハネムーンサラダ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 41,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-10-08T00:00:00+00:00",
+        "to": "2001-12-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 1999
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2001
+            }
+        },
+        "string": "Oct 8, 1999 to Dec 28, 2001"
+    },
+    "score": 7.09,
+    "scored": 7.09,
+    "scored_by": 2628,
+    "rank": 7642,
+    "popularity": 4016,
+    "members": 5598,
+    "favorites": 46,
+    "synopsis": "His ex-workers keep calling for help; his memory of his first love is traumatic to say the least, he hates his father so much that he'll never go back home, a stranger blames him for pushing her down the stairs... no wonder being pissed is a daily routine for Natsukawa Minori. Then enters one, no two women in his life that will make him too busy to be pissed.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3692,
+            "type": "people",
+            "name": "Ninomiya, Hikaru",
+            "url": "https://myanimelist.net/people/3692/Hikaru_Ninomiya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Young Animal",
+            "url": "https://myanimelist.net/manga/magazine/2/Young_Animal"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 11763,
+                    "type": "manga",
+                    "name": "Baby Leaf",
+                    "url": "https://myanimelist.net/manga/11763/Baby_Leaf"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

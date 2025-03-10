@@ -1,0 +1,147 @@
+{
+    "mal_id": 10312,
+    "url": "https://myanimelist.net/manga/10312/Kaze_no_Stigma",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/174147.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/174147t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/174147l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/174147.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/174147t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/174147l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kaze no Stigma"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kaze no Seikon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Stigma of the Wind"
+        },
+        {
+            "type": "Japanese",
+            "title": "風の聖痕〈スティグマ〉"
+        }
+    ],
+    "title": "Kaze no Stigma",
+    "title_english": null,
+    "title_japanese": "風の聖痕〈スティグマ〉",
+    "title_synonyms": [
+        "Kaze no Seikon",
+        "Stigma of the Wind"
+    ],
+    "type": "Light Novel",
+    "chapters": 39,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-01-19T00:00:00+00:00",
+        "to": "2005-10-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": 20,
+                "month": 10,
+                "year": 2005
+            }
+        },
+        "string": "Jan 19, 2002 to Oct 20, 2005"
+    },
+    "score": 7.53,
+    "scored": 7.53,
+    "scored_by": 725,
+    "rank": 2767,
+    "popularity": 6479,
+    "members": 3283,
+    "favorites": 51,
+    "synopsis": "Four years ago, Kannagi Kazuma was defeated by his cousin Kannagi Ayano for the right to be the successor of Enraiha, a sword passed down in the Kannagi family. His defeat, along with his lack of talent for Enjutsu (The fire arts, and is also the Kannagi Clan's specialty), resulted in his banishment from the family. Now, Kazuma returns as Yagami Kazuma, a skilled master of Fuujutsu (the wind arts). At the same time, a number of murders at the Kannagi residence perpetrated by a powerful Fuujutsushi cast suspicion on him.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4224,
+            "type": "people",
+            "name": "Nanto, Hanamaru",
+            "url": "https://myanimelist.net/people/4224/Hanamaru_Nanto"
+        },
+        {
+            "mal_id": 6338,
+            "type": "people",
+            "name": "Yamato, Takahiro",
+            "url": "https://myanimelist.net/people/6338/Takahiro_Yamato"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3237,
+                    "type": "manga",
+                    "name": "Kaze no Stigma: Kouen no Miko",
+                    "url": "https://myanimelist.net/manga/3237/Kaze_no_Stigma__Kouen_no_Miko"
+                },
+                {
+                    "mal_id": 1691,
+                    "type": "anime",
+                    "name": "Kaze no Stigma",
+                    "url": "https://myanimelist.net/anime/1691/Kaze_no_Stigma"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 97414,
+                    "type": "manga",
+                    "name": "Kaze no Stigma: Ignition",
+                    "url": "https://myanimelist.net/manga/97414/Kaze_no_Stigma__Ignition"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%A2%A8%E3%81%AE%E8%81%96%E7%97%95"
+        }
+    ]
+}

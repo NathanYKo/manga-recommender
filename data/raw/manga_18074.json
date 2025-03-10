@@ -1,0 +1,144 @@
+{
+    "mal_id": 18074,
+    "url": "https://myanimelist.net/manga/18074/Getter_Robo_Saga",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/272713.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/272713t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/272713l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/272713.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/272713t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/272713l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Getter Robo Saga"
+        },
+        {
+            "type": "Synonym",
+            "title": "Getter Robo"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゲッターロボ"
+        },
+        {
+            "type": "English",
+            "title": "Getter Robo Saga"
+        }
+    ],
+    "title": "Getter Robo Saga",
+    "title_english": "Getter Robo Saga",
+    "title_japanese": "ゲッターロボ",
+    "title_synonyms": [
+        "Getter Robo"
+    ],
+    "type": "Manga",
+    "chapters": 69,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": null,
+        "to": null,
+        "prop": {
+            "from": {
+                "day": null,
+                "month": null,
+                "year": null
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Not available"
+    },
+    "score": 8.2,
+    "scored": 8.2,
+    "scored_by": 735,
+    "rank": 444,
+    "popularity": 8095,
+    "members": 2523,
+    "favorites": 202,
+    "synopsis": "A compilation of the long-running Getter Robo series into one continuous story. Includes several new pages and chapters as well as revisions to old material and a newer, more conclusive ending to Getter Robo Āḥ. \n\nGetter Robo (1974)\nGetter Robo G (1975)\nGetter Robo Go (1991)\nShin Getter Robo (1997)\nGetter Robo Āḥ (2001)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5374,
+            "type": "people",
+            "name": "Ishikawa, Ken",
+            "url": "https://myanimelist.net/people/5374/Ken_Ishikawa"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 1551,
+                    "type": "manga",
+                    "name": "Getter Robo",
+                    "url": "https://myanimelist.net/manga/1551/Getter_Robo"
+                },
+                {
+                    "mal_id": 7759,
+                    "type": "manga",
+                    "name": "Getter Robo G",
+                    "url": "https://myanimelist.net/manga/7759/Getter_Robo_G"
+                },
+                {
+                    "mal_id": 10447,
+                    "type": "manga",
+                    "name": "Getter Robo Go",
+                    "url": "https://myanimelist.net/manga/10447/Getter_Robo_Go"
+                },
+                {
+                    "mal_id": 8571,
+                    "type": "manga",
+                    "name": "Shin Getter Robo",
+                    "url": "https://myanimelist.net/manga/8571/Shin_Getter_Robo"
+                },
+                {
+                    "mal_id": 15359,
+                    "type": "manga",
+                    "name": "Getter Robo Āḥ",
+                    "url": "https://myanimelist.net/manga/15359/Getter_Robo_Āḥ"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

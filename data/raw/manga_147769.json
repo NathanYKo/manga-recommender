@@ -1,0 +1,135 @@
+{
+    "mal_id": 147769,
+    "url": "https://myanimelist.net/manga/147769/No_Home",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/264873.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/264873t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/264873l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/264873.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/264873t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/264873l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "No Home"
+        },
+        {
+            "type": "Synonym",
+            "title": "Jib-i Eopseo"
+        },
+        {
+            "type": "Japanese",
+            "title": "집이 없어"
+        }
+    ],
+    "title": "No Home",
+    "title_english": null,
+    "title_japanese": "집이 없어",
+    "title_synonyms": [
+        "Jib-i Eopseo"
+    ],
+    "type": "Manhwa",
+    "chapters": 269,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-12-31T00:00:00+00:00",
+        "to": "2024-08-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "to": {
+                "day": 5,
+                "month": 8,
+                "year": 2024
+            }
+        },
+        "string": "Dec 31, 2018 to Aug 5, 2024"
+    },
+    "score": 8.71,
+    "scored": 8.71,
+    "scored_by": 2235,
+    "rank": 58,
+    "popularity": 3661,
+    "members": 6153,
+    "favorites": 443,
+    "synopsis": "The abandoned dormitory on the school's outskirts is haunted: the floors creak, creepy sounds fill the night's air, and only the bravest souls dare venture into this den of real-life ghosts. For Go Haejun, a second-year high school student who can see ghosts, it is the sole housing option after he misses the deadline to apply for a newer, safer dormitory. Things would not be so terrible if his only cohabitant were not a brazen and cheeky first-year student, Baek Eunyeong.\n\nEunyeong also happens to be the one responsible for destroying Haejun's plans by shamelessly stealing and wasting all of Haejun's savings. On top of that, he is sloppy, parties constantly, and lies as easily as he breathes. Haejun wrestles with unresolved guilt after fighting with his mother and running away, but he lacks patience for Eunyeong's childish acting out. No matter their vast differences and how much they hate each other, Haejun and Eunyeong are forced to coexist, as neither has another place to call home.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 18787,
+            "type": "people",
+            "name": "Wanan",
+            "url": "https://myanimelist.net/people/18787/Wanan"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 52881,
+                    "type": "anime",
+                    "name": "Jibi Eopseo PV",
+                    "url": "https://myanimelist.net/anime/52881/Jibi_Eopseo_PV"
+                },
+                {
+                    "mal_id": 59868,
+                    "type": "anime",
+                    "name": "Jibi Eopseo",
+                    "url": "https://myanimelist.net/anime/59868/Jibi_Eopseo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.naver.com/webtoon/list?titleId=721433"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/No_Home"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EC%A7%91%EC%9D%B4%20%EC%97%86%EC%96%B4"
+        }
+    ]
+}

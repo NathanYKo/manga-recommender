@@ -1,0 +1,111 @@
+{
+    "mal_id": 91119,
+    "url": "https://myanimelist.net/manga/91119/Black-Box",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/171756.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/171756t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/171756l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/171756.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/171756t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/171756l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Black-Box"
+        },
+        {
+            "type": "Japanese",
+            "title": "BLACK-BOX"
+        }
+    ],
+    "title": "Black-Box",
+    "title_english": null,
+    "title_japanese": "BLACK-BOX",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 42,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-06-25T00:00:00+00:00",
+        "to": "2019-03-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 2015
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2019
+            }
+        },
+        "string": "Jun 25, 2015 to Mar 25, 2019"
+    },
+    "score": 6.88,
+    "scored": 6.88,
+    "scored_by": 788,
+    "rank": 10919,
+    "popularity": 8171,
+    "members": 2494,
+    "favorites": 10,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 2360,
+            "type": "people",
+            "name": "Takahashi, Tsutomu",
+            "url": "https://myanimelist.net/people/2360/Tsutomu_Takahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/manga/genre/54/Combat_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

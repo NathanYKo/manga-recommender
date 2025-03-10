@@ -1,0 +1,155 @@
+{
+    "mal_id": 888,
+    "url": "https://myanimelist.net/manga/888/Tsuki_no_Shippo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/160615.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/160615t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/160615l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/160615.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/160615t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/160615l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tsuki no Shippo"
+        },
+        {
+            "type": "Japanese",
+            "title": "月のしっぽ"
+        },
+        {
+            "type": "English",
+            "title": "Tail of the Moon"
+        }
+    ],
+    "title": "Tsuki no Shippo",
+    "title_english": "Tail of the Moon",
+    "title_japanese": "月のしっぽ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 105,
+    "volumes": 15,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-03-25T00:00:00+00:00",
+        "to": "2007-08-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 3,
+                "year": 2003
+            },
+            "to": {
+                "day": 24,
+                "month": 8,
+                "year": 2007
+            }
+        },
+        "string": "Mar 25, 2003 to Aug 24, 2007"
+    },
+    "score": 7.95,
+    "scored": 7.95,
+    "scored_by": 5405,
+    "rank": 861,
+    "popularity": 1900,
+    "members": 11373,
+    "favorites": 380,
+    "synopsis": "Usagi is the granddaughter of the leader of a prestigious ninja village, but she's such a klutz that she's never made it out of the kiddie class. Frustrated with Usagi's lack of progress, her grandfather sends her to marry Lord Hanzo and have lots of ninja babies. But the lord has no interest in her or her childbearing potential! \n\n(Source: VIZ Media)",
+    "background": "Tsuki no Shippo was published in English as Tail of the Moon by VIZ Media under the Shojo Beat imprint from October 3, 2006 to February 3, 2009.",
+    "authors": [
+        {
+            "mal_id": 3091,
+            "type": "people",
+            "name": "Ueda, Rinko",
+            "url": "https://myanimelist.net/people/3091/Rinko_Ueda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Margaret",
+            "url": "https://myanimelist.net/manga/magazine/17/Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1815,
+                    "type": "manga",
+                    "name": "Tsuki no Toiki Ai no Kizu",
+                    "url": "https://myanimelist.net/manga/1815/Tsuki_no_Toiki_Ai_no_Kizu"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 112177,
+                    "type": "manga",
+                    "name": "Ran to Aoi",
+                    "url": "https://myanimelist.net/manga/112177/Ran_to_Aoi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%9C%88%E3%81%AE%E3%81%97%E3%81%A3%E3%81%BD"
+        }
+    ]
+}

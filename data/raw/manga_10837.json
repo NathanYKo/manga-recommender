@@ -1,0 +1,167 @@
+{
+    "mal_id": 10837,
+    "url": "https://myanimelist.net/manga/10837/Koe_de_Oshigoto",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/51873.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/51873t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/51873l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/51873.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/51873t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/51873l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koe de Oshigoto!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Work Using Voice!"
+        },
+        {
+            "type": "Japanese",
+            "title": "こえでおしごと!"
+        }
+    ],
+    "title": "Koe de Oshigoto!",
+    "title_english": null,
+    "title_japanese": "こえでおしごと!",
+    "title_synonyms": [
+        "Work Using Voice!"
+    ],
+    "type": "Manga",
+    "chapters": 60,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-05-26T00:00:00+00:00",
+        "to": "2013-04-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 2008
+            },
+            "to": {
+                "day": 26,
+                "month": 4,
+                "year": 2013
+            }
+        },
+        "string": "May 26, 2008 to Apr 26, 2013"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 3869,
+    "rank": 3904,
+    "popularity": 1789,
+    "members": 12104,
+    "favorites": 153,
+    "synopsis": "Koe de Oshigoto! is a story about Aoyagi Kanna, a 16 year-old girl who was asked to become an erotic game voice actress on her 16th birthday by her 28 year-old sister at her ero-ge company. \n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6516,
+            "type": "people",
+            "name": "Konno, Azure",
+            "url": "https://myanimelist.net/people/6516/Azure_Konno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 33,
+            "type": "manga",
+            "name": "Comic Gum",
+            "url": "https://myanimelist.net/manga/magazine/33/Comic_Gum"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 70,
+            "type": "manga",
+            "name": "Otaku Culture",
+            "url": "https://myanimelist.net/manga/genre/70/Otaku_Culture"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 76,
+            "type": "manga",
+            "name": "Showbiz",
+            "url": "https://myanimelist.net/manga/genre/76/Showbiz"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 8876,
+                    "type": "anime",
+                    "name": "Koe de Oshigoto! The Animation",
+                    "url": "https://myanimelist.net/anime/8876/Koe_de_Oshigoto_The_Animation"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 130378,
+                    "type": "manga",
+                    "name": "Koe de Oshigoto!!",
+                    "url": "https://myanimelist.net/manga/130378/Koe_de_Oshigoto"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.comicgum.com/01_koede.php"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Koe_De_Oshigoto"
+        }
+    ]
+}

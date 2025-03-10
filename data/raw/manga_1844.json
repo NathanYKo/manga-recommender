@@ -1,0 +1,129 @@
+{
+    "mal_id": 1844,
+    "url": "https://myanimelist.net/manga/1844/Ousama★★Game",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/31849.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/31849t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/31849l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/31849.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/31849t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/31849l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ousama★★Game"
+        },
+        {
+            "type": "Synonym",
+            "title": "King Game"
+        },
+        {
+            "type": "Synonym",
+            "title": "King Game: 6th Prince vs 3rd Prince"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kaizoku Game: Pirate vs 5th Prince"
+        },
+        {
+            "type": "Japanese",
+            "title": "王様★★ゲーム"
+        }
+    ],
+    "title": "Ousama★★Game",
+    "title_english": null,
+    "title_japanese": "王様★★ゲーム",
+    "title_synonyms": [
+        "King Game",
+        "King Game: 6th Prince vs 3rd Prince",
+        "Kaizoku Game: Pirate vs 5th Prince"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-05-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 5,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 2006"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 1360,
+    "rank": null,
+    "popularity": 7532,
+    "members": 2754,
+    "favorites": 7,
+    "synopsis": "A direct sequel of Oujisama Game.\n\n1-4. King Game\nThe 2nd prince, Renge, of our favorite royal family is sent to a neighboring country as collateral in a foreign relations deal. When things turn sour between their countries, he becomes a virtual hostage of a tyrant King, Ouga.\n\n5. King Game: 6th Prince vs 3rd Prince\nHomura, 3rd prince, fell in love in his brother, 6th prince, Airi, when they were kids. Younger prince was very sickly at that time and his brother started to learn medicine (with poor results) in order to heal him. Now they are grown up, they are lovers (by name only) and Airi is bigger and no longer sick or weak, but not in Homura eyes. 6th prince decided to change that.\n\n6. Kaizoku Game: Pirate vs 5th Prince\n5th prince, Yuuri tried escape from castle and ended on pirate ship that belonged to Kuuron. From this point young prince starts living on ship and being the capitan's \"woman\".",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2649,
+            "type": "people",
+            "name": "Takagi, Ryo",
+            "url": "https://myanimelist.net/people/2649/Ryo_Takagi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1845,
+                    "type": "manga",
+                    "name": "Oujisama☆Game",
+                    "url": "https://myanimelist.net/manga/1845/Oujisama☆Game"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 13341,
+                    "type": "manga",
+                    "name": "Kaizoku★Game",
+                    "url": "https://myanimelist.net/manga/13341/Kaizoku★Game"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

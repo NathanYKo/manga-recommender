@@ -1,0 +1,161 @@
+{
+    "mal_id": 7961,
+    "url": "https://myanimelist.net/manga/7961/Kare_wa_Tomodachi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/195724.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/195724t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/195724l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/195724.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/195724t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/195724l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kare wa Tomodachi"
+        },
+        {
+            "type": "Synonym",
+            "title": "He is a Friend"
+        },
+        {
+            "type": "Synonym",
+            "title": "He is My Friend"
+        },
+        {
+            "type": "Japanese",
+            "title": "彼はトモダチ"
+        }
+    ],
+    "title": "Kare wa Tomodachi",
+    "title_english": null,
+    "title_japanese": "彼はトモダチ",
+    "title_synonyms": [
+        "He is a Friend",
+        "He is My Friend"
+    ],
+    "type": "Manga",
+    "chapters": 28,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-10-13T00:00:00+00:00",
+        "to": "2010-01-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 13,
+                "month": 1,
+                "year": 2010
+            }
+        },
+        "string": "Oct 13, 2007 to Jan 13, 2010"
+    },
+    "score": 7.4,
+    "scored": 7.4,
+    "scored_by": 2556,
+    "rank": 3811,
+    "popularity": 3548,
+    "members": 6327,
+    "favorites": 40,
+    "synopsis": "In her 3rd year of middle school, Hiyori has had a crush on Mizuno, who is in the classroom next door. It was at a time like that when a seating change happened, and she ended up sitting right next to Sasamoto, who is Mizuno’s childhood friend. She finds this out and she decides to ask for his help. However, Sasamoto, who was supposed to be just a friend, starts to develop feelings…?!\n\n(Source: Midnight Scans)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5459,
+            "type": "people",
+            "name": "Yoshioka, Ririko",
+            "url": "https://myanimelist.net/people/5459/Ririko_Yoshioka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 43935,
+                    "type": "manga",
+                    "name": "Kare wa Tomodachi Plus",
+                    "url": "https://myanimelist.net/manga/43935/Kare_wa_Tomodachi_Plus"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 22521,
+                    "type": "manga",
+                    "name": "Shiro no Eden",
+                    "url": "https://myanimelist.net/manga/22521/Shiro_no_Eden"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 106864,
+                    "type": "manga",
+                    "name": "Konzen Renai",
+                    "url": "https://myanimelist.net/manga/106864/Konzen_Renai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%BD%BC%E3%81%AF%E3%83%88%E3%83%A2%E3%83%80%E3%83%81"
+        }
+    ]
+}

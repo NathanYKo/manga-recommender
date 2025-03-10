@@ -1,0 +1,134 @@
+{
+    "mal_id": 9252,
+    "url": "https://myanimelist.net/manga/9252/Cyber_Blue",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/37918.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/37918t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/37918l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/37918.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/37918t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/37918l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Cyber Blue"
+        },
+        {
+            "type": "Japanese",
+            "title": "ＣＹＢＥＲブルー"
+        }
+    ],
+    "title": "Cyber Blue",
+    "title_english": null,
+    "title_japanese": "ＣＹＢＥＲブルー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 31,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1988-11-22T00:00:00+00:00",
+        "to": "1989-07-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 11,
+                "year": 1988
+            },
+            "to": {
+                "day": 11,
+                "month": 7,
+                "year": 1989
+            }
+        },
+        "string": "Nov 22, 1988 to Jul 11, 1989"
+    },
+    "score": 6.77,
+    "scored": 6.77,
+    "scored_by": 830,
+    "rank": 12648,
+    "popularity": 7851,
+    "members": 2616,
+    "favorites": 17,
+    "synopsis": "We are in year 2035 on the Tinos planet, colonized 300 years before by some earthlings. With only half of Earth's oxygen concentration and with cold arctic conditions over most of Tinos, the human beings are forced to wear a life support apparatus that supplies the oxygen necessary for survival. The black market in such apparatuses is a flourishing business in the criminal world of Junk City.\n\nBlue, the protagonist, is in desperate need of a life support system after being mugged, but an unscrupulous bunch of criminals cheat him of his money and leave him with an outdated model with an old AI. He is tricked by the head of the police, Weiser, into a committing murder, and is then killed himself. The AI, called Fatso, decides to save his life, and gives him a new artificial body filled with extraordinary strength and the cumulative knowledge of their combined three hundred and seventeen years. The resurrected Blue decides to get revenge and protect all those suffering under the tyranny of Weiser.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2847,
+            "type": "people",
+            "name": "Hara, Tetsuo",
+            "url": "https://myanimelist.net/people/2847/Tetsuo_Hara"
+        },
+        {
+            "mal_id": 25333,
+            "type": "people",
+            "name": "BOB",
+            "url": "https://myanimelist.net/people/25333/BOB"
+        },
+        {
+            "mal_id": 25335,
+            "type": "people",
+            "name": "Mitsui, Ryuichi",
+            "url": "https://myanimelist.net/people/25335/Ryuichi_Mitsui"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 24525,
+                    "type": "manga",
+                    "name": "Cyber Blue: Lost Number Children",
+                    "url": "https://myanimelist.net/manga/24525/Cyber_Blue__Lost_Number_Children"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

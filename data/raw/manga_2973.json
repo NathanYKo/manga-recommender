@@ -1,0 +1,107 @@
+{
+    "mal_id": 2973,
+    "url": "https://myanimelist.net/manga/2973/Youth_Gone_Wild",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/287926.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/287926t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/287926l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/287926.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/287926t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/287926l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Youth Gone Wild"
+        },
+        {
+            "type": "Japanese",
+            "title": "搖滾狂潮"
+        }
+    ],
+    "title": "Youth Gone Wild",
+    "title_english": null,
+    "title_japanese": "搖滾狂潮",
+    "title_synonyms": [],
+    "type": "Manhua",
+    "chapters": 89,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-01-01T00:00:00+00:00",
+        "to": "2003-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            }
+        },
+        "string": "1997 to 2003"
+    },
+    "score": 7.6,
+    "scored": 7.6,
+    "scored_by": 988,
+    "rank": 2324,
+    "popularity": 7154,
+    "members": 2928,
+    "favorites": 32,
+    "synopsis": "Yating was working in a recording company until she was fired by her boss (a famous movie actress with a spoiled temperament). Discouraged and jobless, Yating decided to work in a pub where a famous group called \"Gangster\" regularly played. Along the way, she gets to meet this guy who has the most divine voice. Yating's luck then began to change when her uncle decides to retire and set up his own record company. He asks her to join in his ambition to create the most famous rock group in Taiwan. This is the story of how Yating, being the new manager, tried to create the ultimate rock band!\n\n(Source: DGT)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3465,
+            "type": "people",
+            "name": "Lee, Nicky",
+            "url": "https://myanimelist.net/people/3465/Nicky_Lee"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 15468,
+                    "type": "manga",
+                    "name": "Paradise City",
+                    "url": "https://myanimelist.net/manga/15468/Paradise_City"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 81181,
+                    "type": "manga",
+                    "name": "Feiai Xuanyan",
+                    "url": "https://myanimelist.net/manga/81181/Feiai_Xuanyan"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

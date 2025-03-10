@@ -1,0 +1,156 @@
+{
+    "mal_id": 41629,
+    "url": "https://myanimelist.net/manga/41629/Hyouka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/162612.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/162612t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/162612l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/162612.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/162612t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/162612l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hyouka"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hyoka"
+        },
+        {
+            "type": "Japanese",
+            "title": "氷菓"
+        }
+    ],
+    "title": "Hyouka",
+    "title_english": null,
+    "title_japanese": "氷菓",
+    "title_synonyms": [
+        "Hyoka"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2012-01-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 26, 2012 to ?"
+    },
+    "score": 8.05,
+    "scored": 8.05,
+    "scored_by": 3796,
+    "rank": 670,
+    "popularity": 998,
+    "members": 19982,
+    "favorites": 375,
+    "synopsis": "The world of Kamiyama High School is full of colorful and mysterious events, but 15-year-old Houtarou Oreki cannot be bothered to pay much attention to it. Choosing to live his life by conserving energy whenever possible, he is content with acknowledging the bare minimum to get him through each day.\n\nHowever, he finds his lifestyle threatened by his sister's request for him to join the Classics Club. Wishing to avoid any repercussions, Houtarou reluctantly agrees and visits the club room, where he meets the ladylike yet passionate Eru Chitanda. Joined by cheerful longtime friend Satoshi Fukube and former classmate Mayaka Ibara, the four members of the illustrious Classics Club delve into the enigmas of ordinary life on an idyllic journey of exploration.\n\n[Written by MAL Rewrite]",
+    "background": "Following the 12th volume, the manga began a new sequel series starting in the August 2019 issue of Shounen Ace. It focuses on the four club members in their second year of high school.",
+    "authors": [
+        {
+            "mal_id": 15803,
+            "type": "people",
+            "name": "Yonezawa, Honobu",
+            "url": "https://myanimelist.net/people/15803/Honobu_Yonezawa"
+        },
+        {
+            "mal_id": 18487,
+            "type": "people",
+            "name": "Ohna, Task",
+            "url": "https://myanimelist.net/people/18487/Task_Ohna"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35513,
+                    "type": "manga",
+                    "name": "Koten-bu Series",
+                    "url": "https://myanimelist.net/manga/35513/Koten-bu_Series"
+                },
+                {
+                    "mal_id": 12189,
+                    "type": "anime",
+                    "name": "Hyouka",
+                    "url": "https://myanimelist.net/anime/12189/Hyouka"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://web-ace.jp/shonenace/contents/14/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%80%88%E5%8F%A4%E5%85%B8%E9%83%A8%E3%80%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+        }
+    ]
+}

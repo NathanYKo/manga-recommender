@@ -1,0 +1,126 @@
+{
+    "mal_id": 17666,
+    "url": "https://myanimelist.net/manga/17666/NON_Tea_Room",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/26811.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/26811t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/26811l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/26811.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/26811t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/26811l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "NON Tea Room"
+        },
+        {
+            "type": "Japanese",
+            "title": "ノン ティー ルーム"
+        }
+    ],
+    "title": "NON Tea Room",
+    "title_english": null,
+    "title_japanese": "ノン ティー ルーム",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-11-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 11,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 29, 2007"
+    },
+    "score": 7.5,
+    "scored": 7.5,
+    "scored_by": 1706,
+    "rank": null,
+    "popularity": 6659,
+    "members": 3182,
+    "favorites": 12,
+    "synopsis": "Renji and Kenta are musicians, they meet each other thanks to the friendship between their bands. Each musician has different reasons to play, be it love for the music, a strong desire to surpass their fears on stage or even just for someone's approbation.\nWhile these bands are struggling to be known in such a competitive world, Kenta is struggling with a different problem in his love life; can he be a replacement for someone else?\n\nA heartwarming story about feelings that grow deep without being noticed.\n\n(Source: Queen2408)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9617,
+            "type": "people",
+            "name": "SHOOWA",
+            "url": "https://myanimelist.net/people/9617/SHOOWA"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 18719,
+                    "type": "manga",
+                    "name": "Nobody Knows",
+                    "url": "https://myanimelist.net/manga/18719/Nobody_Knows"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 20383,
+                    "type": "manga",
+                    "name": "Jin to Neko wa Yobu to Konai",
+                    "url": "https://myanimelist.net/manga/20383/Jin_to_Neko_wa_Yobu_to_Konai"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

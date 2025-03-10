@@ -1,0 +1,126 @@
+{
+    "mal_id": 145980,
+    "url": "https://myanimelist.net/manga/145980/One_Piece__Nami_vs_Kalifa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/258503.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/258503t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/258503l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/258503.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/258503t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/258503l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "One Piece: Nami vs. Kalifa"
+        },
+        {
+            "type": "Japanese",
+            "title": "ONE PIECE ナミvsカリファ"
+        }
+    ],
+    "title": "One Piece: Nami vs. Kalifa",
+    "title_english": null,
+    "title_japanese": "ONE PIECE ナミvsカリファ",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2022-04-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2022
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 5, 2022"
+    },
+    "score": 6.7,
+    "scored": 6.7,
+    "scored_by": 1494,
+    "rank": 13712,
+    "popularity": 7900,
+    "members": 2600,
+    "favorites": 5,
+    "synopsis": "A remake of chapter 411 of One Piece, drawn by Boichi.",
+    "background": "One Piece: Nami vs. Kalifa is part of the \"One Piece Comic Cover Project.\"",
+    "authors": [
+        {
+            "mal_id": 1881,
+            "type": "people",
+            "name": "Oda, Eiichiro",
+            "url": "https://myanimelist.net/people/1881/Eiichiro_Oda"
+        },
+        {
+            "mal_id": 3537,
+            "type": "people",
+            "name": "Boichi",
+            "url": "https://myanimelist.net/people/3537/Boichi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1564,
+            "type": "manga",
+            "name": "One Piece Magazine",
+            "url": "https://myanimelist.net/manga/magazine/1564/One_Piece_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 13,
+                    "type": "manga",
+                    "name": "One Piece",
+                    "url": "https://myanimelist.net/manga/13/One_Piece"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ONE_PIECE"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "mal_id": 128108,
+    "url": "https://myanimelist.net/manga/128108/Gakkougurashi_Otayori",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/251085.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/251085t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/251085l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/251085.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/251085t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/251085l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gakkougurashi! Otayori"
+        },
+        {
+            "type": "Japanese",
+            "title": "がっこうぐらし!～おたより～"
+        },
+        {
+            "type": "English",
+            "title": "School-Live! Letters"
+        }
+    ],
+    "title": "Gakkougurashi! Otayori",
+    "title_english": "School-Live! Letters",
+    "title_japanese": "がっこうぐらし!～おたより～",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-06-24T00:00:00+00:00",
+        "to": "2021-08-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 6,
+                "year": 2020
+            },
+            "to": {
+                "day": 24,
+                "month": 8,
+                "year": 2021
+            }
+        },
+        "string": "Jun 24, 2020 to Aug 24, 2021"
+    },
+    "score": 7.84,
+    "scored": 7.84,
+    "scored_by": 2271,
+    "rank": 1180,
+    "popularity": 4857,
+    "members": 4521,
+    "favorites": 43,
+    "synopsis": "A sequel to Gakkougurashi! that shows the aftermath of the characters.",
+    "background": "Gakkougurashi! Otayori was published in English as School-Live! Letters by Yen Press on February 21, 2023.",
+    "authors": [
+        {
+            "mal_id": 6333,
+            "type": "people",
+            "name": "Kaihou, Norimitsu",
+            "url": "https://myanimelist.net/people/6333/Norimitsu_Kaihou"
+        },
+        {
+            "mal_id": 19447,
+            "type": "people",
+            "name": "Chiba, Sadoru",
+            "url": "https://myanimelist.net/people/19447/Sadoru_Chiba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 365,
+            "type": "manga",
+            "name": "Manga Time Kirara Forward",
+            "url": "https://myanimelist.net/manga/magazine/365/Manga_Time_Kirara_Forward"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 55163,
+                    "type": "manga",
+                    "name": "Gakkougurashi!",
+                    "url": "https://myanimelist.net/manga/55163/Gakkougurashi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%8C%E3%81%A3%E3%81%93%E3%81%86%E3%81%90%E3%82%89%E3%81%97!"
+        }
+    ]
+}

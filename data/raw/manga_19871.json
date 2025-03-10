@@ -1,0 +1,116 @@
+{
+    "mal_id": 19871,
+    "url": "https://myanimelist.net/manga/19871/Chocolate_Girl",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/174825.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/174825t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/174825l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/174825.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/174825t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/174825l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Chocolate Girl"
+        },
+        {
+            "type": "Japanese",
+            "title": "チョコレートガール"
+        }
+    ],
+    "title": "Chocolate Girl",
+    "title_english": null,
+    "title_japanese": "チョコレートガール",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-05-08T00:00:00+00:00",
+        "to": "2011-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 5,
+                "year": 2010
+            },
+            "to": {
+                "day": 8,
+                "month": 10,
+                "year": 2011
+            }
+        },
+        "string": "May 8, 2010 to Oct 8, 2011"
+    },
+    "score": 7.08,
+    "scored": 7.08,
+    "scored_by": 1306,
+    "rank": 7718,
+    "popularity": 7260,
+    "members": 2871,
+    "favorites": 7,
+    "synopsis": "Kyouko is an entertainment manager and a negative character. She always thinks of the worst. She is appointed to scout a troupe of actors, and there she meets Riku...\n\n(Source: Jshoujo)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2073,
+            "type": "people",
+            "name": "Yoshihara, Yuki",
+            "url": "https://myanimelist.net/people/2073/Yuki_Yoshihara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 73,
+            "type": "manga",
+            "name": "Petit Comic",
+            "url": "https://myanimelist.net/manga/magazine/73/Petit_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 95975,
+                    "type": "manga",
+                    "name": "Chocolate Girl Extra",
+                    "url": "https://myanimelist.net/manga/95975/Chocolate_Girl_Extra"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

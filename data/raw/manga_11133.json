@@ -1,0 +1,112 @@
+{
+    "mal_id": 11133,
+    "url": "https://myanimelist.net/manga/11133/37°C_no_Boyfriend",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/15129.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/15129t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/15129l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/15129.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/15129t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/15129l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "37°C no Boyfriend"
+        },
+        {
+            "type": "Synonym",
+            "title": "37 Degrees Celsius no Boyfriend"
+        },
+        {
+            "type": "Synonym",
+            "title": "37°C no Boy Friend"
+        },
+        {
+            "type": "Synonym",
+            "title": "Haru ni Naru Made Matte"
+        },
+        {
+            "type": "Japanese",
+            "title": "37℃のボーイフレンド"
+        }
+    ],
+    "title": "37°C no Boyfriend",
+    "title_english": null,
+    "title_japanese": "37℃のボーイフレンド",
+    "title_synonyms": [
+        "37 Degrees Celsius no Boyfriend",
+        "37°C no Boy Friend",
+        "Haru ni Naru Made Matte"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2008 to ?"
+    },
+    "score": 6.72,
+    "scored": 6.72,
+    "scored_by": 1672,
+    "rank": 13512,
+    "popularity": 6825,
+    "members": 3103,
+    "favorites": 10,
+    "synopsis": "Compilation of three stories:\n\n1-3. 37°C no Boyfriend\n4. Tsukiakari no Himitsu\n5. Haru ni Naru Made Matte",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5342,
+            "type": "people",
+            "name": "Minase, Ai",
+            "url": "https://myanimelist.net/people/5342/Ai_Minase"
+        }
+    ],
+    "serializations": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 34301,
+                    "type": "manga",
+                    "name": "Houkago, Kimi to Koi wo Shite.",
+                    "url": "https://myanimelist.net/manga/34301/Houkago_Kimi_to_Koi_wo_Shite"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

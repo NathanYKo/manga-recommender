@@ -1,0 +1,135 @@
+{
+    "mal_id": 106646,
+    "url": "https://myanimelist.net/manga/106646/Watashi_no_Fushidara",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/195205.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/195205t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/195205l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/195205.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/195205t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/195205l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Watashi no Fushidara"
+        },
+        {
+            "type": "Synonym",
+            "title": "My Misconduct"
+        },
+        {
+            "type": "Japanese",
+            "title": "わたしのふしだら"
+        }
+    ],
+    "title": "Watashi no Fushidara",
+    "title_english": null,
+    "title_japanese": "わたしのふしだら",
+    "title_synonyms": [
+        "My Misconduct"
+    ],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-11-16T00:00:00+00:00",
+        "to": "2016-12-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 11,
+                "year": 2015
+            },
+            "to": {
+                "day": 16,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Nov 16, 2015 to Dec 16, 2016"
+    },
+    "score": 6.04,
+    "scored": 6.04,
+    "scored_by": 1736,
+    "rank": 19677,
+    "popularity": 5381,
+    "members": 4050,
+    "favorites": 14,
+    "synopsis": "Tachibana Karin, a young teacher who does not have a passion in anything, meets Yuri Satoshi, a student who wants to join the literature club. She falling love with him but she cannot because of her age. A demon appears in front of her, and he offers her the ability to change her age for 999 minutes. When the time expires, will she give up Yuri or continue with the charade knowing the hard consequences?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9192,
+            "type": "people",
+            "name": "Ohmi, Takeshi",
+            "url": "https://myanimelist.net/people/9192/Takeshi_Ohmi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Young King OURs GH",
+            "url": "https://myanimelist.net/manga/magazine/46/Young_King_OURs_GH"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 90143,
+                    "type": "manga",
+                    "name": "Bokura no Fushidara",
+                    "url": "https://myanimelist.net/manga/90143/Bokura_no_Fushidara"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

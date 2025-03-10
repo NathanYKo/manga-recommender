@@ -1,0 +1,151 @@
+{
+    "mal_id": 70179,
+    "url": "https://myanimelist.net/manga/70179/Ubume_no_Natsu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/120947.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/120947t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/120947l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/120947.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/120947t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/120947l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ubume no Natsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Summer of the Ubume"
+        },
+        {
+            "type": "Japanese",
+            "title": "姑獲鳥の夏"
+        }
+    ],
+    "title": "Ubume no Natsu",
+    "title_english": null,
+    "title_japanese": "姑獲鳥の夏",
+    "title_synonyms": [
+        "The Summer of the Ubume"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-01-30T00:00:00+00:00",
+        "to": "2014-12-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 10,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Jan 30, 2013 to Dec 10, 2014"
+    },
+    "score": 7.62,
+    "scored": 7.62,
+    "scored_by": 654,
+    "rank": 2172,
+    "popularity": 6980,
+    "members": 3016,
+    "favorites": 32,
+    "synopsis": "Tokyo, 1952. The bizarre case of a missing doctor and his supernaturally pregnant wife captures the imagination of novelist Sekiguchi Tatsumi, so he enlists the help of an old friend, Chuuzenji Akihiko, a bookstore owner and part-time exorcist who begrudgingly agrees to help investigate the disappearance. They'll face a family's darkest secrets... Secrets that Sekiguchi himself can't escape.\n\n(Source: MU)",
+    "background": "Ubume no Natsu is an adaptation of the first novel from Natsuhiko Kyogoku's Hyakki Yakou series.",
+    "authors": [
+        {
+            "mal_id": 2059,
+            "type": "people",
+            "name": "Shimizu, Aki",
+            "url": "https://myanimelist.net/people/2059/Aki_Shimizu"
+        },
+        {
+            "mal_id": 6978,
+            "type": "people",
+            "name": "Kyougoku, Natsuhiko",
+            "url": "https://myanimelist.net/people/6978/Natsuhiko_Kyougoku"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 523,
+            "type": "manga",
+            "name": "Comic Kwai",
+            "url": "https://myanimelist.net/manga/magazine/523/Comic_Kwai"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 8893,
+                    "type": "manga",
+                    "name": "Mouryou no Hako",
+                    "url": "https://myanimelist.net/manga/8893/Mouryou_no_Hako"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 136352,
+                    "type": "manga",
+                    "name": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.",
+                    "url": "https://myanimelist.net/manga/136352/Chuuzenji-sensei_Mononoke_Kougiroku__Sensei_ga_Nazo_wo_Hodoite_Shimau_kara"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%A7%91%E7%8D%B2%E9%B3%A5%E3%81%AE%E5%A4%8F"
+        }
+    ]
+}

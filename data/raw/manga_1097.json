@@ -1,0 +1,153 @@
+{
+    "mal_id": 1097,
+    "url": "https://myanimelist.net/manga/1097/Saiyuuki_Gaiden",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/155034.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/155034t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/155034l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/155034.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/155034t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/155034l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Saiyuuki Gaiden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Saiyuki Gaiden"
+        },
+        {
+            "type": "Japanese",
+            "title": "最遊記外伝"
+        }
+    ],
+    "title": "Saiyuuki Gaiden",
+    "title_english": null,
+    "title_japanese": "最遊記外伝",
+    "title_synonyms": [
+        "Saiyuki Gaiden"
+    ],
+    "type": "Manga",
+    "chapters": 35,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-05-18T00:00:00+00:00",
+        "to": "2009-05-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 5,
+                "year": 1999
+            },
+            "to": {
+                "day": 16,
+                "month": 5,
+                "year": 2009
+            }
+        },
+        "string": "May 18, 1999 to May 16, 2009"
+    },
+    "score": 8.25,
+    "scored": 8.25,
+    "scored_by": 2944,
+    "rank": 364,
+    "popularity": 1965,
+    "members": 11019,
+    "favorites": 265,
+    "synopsis": "500 years before the story of Saiyuki, a heretic child with golden eyes is brought into Heaven. He is given into the reluctant care of a minor deity named Konzen, the nephew of the Merciful Goddess Kanzeon Bosatsu. Konzen eventually gives the child the name \"Goku.\" Goku becomes friends with two other minor gods, Marshal Tenpou and General Kenren of the Western Army of Heaven. He also meets a strange little boy who seems to be his own age, the War Prince Nataku. Although Goku is happy in his new home, Heaven is not kind to heretics. There are those who would use Nataku and Goku as tools in an attempt to seize the throne of Heaven, and Konzen, Tenpou, and Kenren may not be able to save them.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2182,
+            "type": "people",
+            "name": "Minekura, Kazuya",
+            "url": "https://myanimelist.net/people/2182/Kazuya_Minekura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "GFantasy",
+            "url": "https://myanimelist.net/manga/magazine/35/GFantasy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 509,
+                    "type": "manga",
+                    "name": "Saiyuuki",
+                    "url": "https://myanimelist.net/manga/509/Saiyuuki"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9088,
+                    "type": "anime",
+                    "name": "Saiyuuki Gaiden",
+                    "url": "https://myanimelist.net/anime/9088/Saiyuuki_Gaiden"
+                },
+                {
+                    "mal_id": 17137,
+                    "type": "anime",
+                    "name": "Saiyuuki Gaiden: Kouga no Shou",
+                    "url": "https://myanimelist.net/anime/17137/Saiyuuki_Gaiden__Kouga_no_Shou"
+                },
+                {
+                    "mal_id": 33726,
+                    "type": "anime",
+                    "name": "Saiyuuki Reload Blast",
+                    "url": "https://myanimelist.net/anime/33726/Saiyuuki_Reload_Blast"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Saiyuki_Gaiden"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%9C%80%E9%81%8A%E8%A8%98%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+        }
+    ]
+}

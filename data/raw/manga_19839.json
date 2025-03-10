@@ -1,0 +1,140 @@
+{
+    "mal_id": 19839,
+    "url": "https://myanimelist.net/manga/19839/Haru_yo_Koi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/47085.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/47085t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/47085l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/47085.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/47085t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/47085l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Haru yo Koi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Haruyo Koi - Solanin Side Story"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ctrl+T"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ctrl + T"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ctrl Plus T"
+        },
+        {
+            "type": "Synonym",
+            "title": "Awaiting Spring"
+        },
+        {
+            "type": "Japanese",
+            "title": "はるよこい"
+        },
+        {
+            "type": "English",
+            "title": "Awaiting Spring"
+        }
+    ],
+    "title": "Haru yo Koi",
+    "title_english": "Awaiting Spring",
+    "title_japanese": "はるよこい",
+    "title_synonyms": [
+        "Haruyo Koi - Solanin Side Story",
+        "Ctrl+T",
+        "Ctrl + T",
+        "Ctrl Plus T",
+        "Awaiting Spring"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-03-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 3,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 29, 2010"
+    },
+    "score": 6.56,
+    "scored": 6.56,
+    "scored_by": 3380,
+    "rank": 15697,
+    "popularity": 3029,
+    "members": 7406,
+    "favorites": 6,
+    "synopsis": "A side story based on Solanin. New occupants are moving into Meiko and Taneda's old house.",
+    "background": "Haru yo Koi was published digitally in English as Awaiting Spring by VIZ Media as part of Solanin: An Epilogue under the VIZ Signature imprint on June 5, 2018.",
+    "authors": [
+        {
+            "mal_id": 2836,
+            "type": "people",
+            "name": "Asano, Inio",
+            "url": "https://myanimelist.net/people/2836/Inio_Asano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 3731,
+                    "type": "manga",
+                    "name": "Solanin",
+                    "url": "https://myanimelist.net/manga/3731/Solanin"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

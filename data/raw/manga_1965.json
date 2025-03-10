@@ -1,0 +1,136 @@
+{
+    "mal_id": 1965,
+    "url": "https://myanimelist.net/manga/1965/Otona_Keikenchi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/15851.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/15851t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/15851l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/15851.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/15851t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/15851l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Otona Keikenchi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Koibito Kijunchi"
+        },
+        {
+            "type": "Japanese",
+            "title": "オトナ経験値"
+        },
+        {
+            "type": "English",
+            "title": "Adult experience value"
+        }
+    ],
+    "title": "Otona Keikenchi",
+    "title_english": "Adult experience value",
+    "title_japanese": "オトナ経験値",
+    "title_synonyms": [
+        "Koibito Kijunchi"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-01-01T00:00:00+00:00",
+        "to": "2008-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            }
+        },
+        "string": "2007 to 2008"
+    },
+    "score": 7.55,
+    "scored": 7.55,
+    "scored_by": 6823,
+    "rank": null,
+    "popularity": 1610,
+    "members": 13408,
+    "favorites": 93,
+    "synopsis": "Yumeji has a big problem, and no, it's not that he's gay (for now, anyway). Despite his good looks, excellent grades, and talent for sports, he's not getting any, and it has everything to do with the fact that he's impotent thanks to a traumatizing event back in middle school. Nothing seems to help, and since Viagra is apparently not a viable solution in Japan, he's practically lost all hope—until he meets underclassmen Seiji, who's violent, tactless, and says whatever is on his mind. Conveniently enough, he's also in love with Yumeji.\n\n(Source: Vices &amp; Devices)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3243,
+            "type": "people",
+            "name": "Nekota, Yonezou",
+            "url": "https://myanimelist.net/people/3243/Yonezou_Nekota"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 156,
+            "type": "manga",
+            "name": "drap",
+            "url": "https://myanimelist.net/manga/magazine/156/drap"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 14739,
+                    "type": "manga",
+                    "name": "Mousou Elektel",
+                    "url": "https://myanimelist.net/manga/14739/Mousou_Elektel"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 17534,
+                    "type": "manga",
+                    "name": "Otona Keikenchi dj - Boku wa Sunao ja Nai.",
+                    "url": "https://myanimelist.net/manga/17534/Otona_Keikenchi_dj_-_Boku_wa_Sunao_ja_Nai"
+                },
+                {
+                    "mal_id": 83885,
+                    "type": "manga",
+                    "name": "Koibito Kijunchi dj - U Know...",
+                    "url": "https://myanimelist.net/manga/83885/Koibito_Kijunchi_dj_-_U_Know"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

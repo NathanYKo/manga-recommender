@@ -1,0 +1,130 @@
+{
+    "mal_id": 1754,
+    "url": "https://myanimelist.net/manga/1754/Over_Rev",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/179566.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/179566t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/179566l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/179566.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/179566t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/179566l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Over Rev!"
+        },
+        {
+            "type": "Japanese",
+            "title": "オーバーレブ！"
+        },
+        {
+            "type": "English",
+            "title": "A Legend of Ultimate Hot Rodder"
+        }
+    ],
+    "title": "Over Rev!",
+    "title_english": "A Legend of Ultimate Hot Rodder",
+    "title_japanese": "オーバーレブ！",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 349,
+    "volumes": 31,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-11-28T00:00:00+00:00",
+        "to": "2004-07-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 11,
+                "year": 1996
+            },
+            "to": {
+                "day": 29,
+                "month": 7,
+                "year": 2004
+            }
+        },
+        "string": "Nov 28, 1996 to Jul 29, 2004"
+    },
+    "score": 7.51,
+    "scored": 7.51,
+    "scored_by": 681,
+    "rank": 2931,
+    "popularity": 6249,
+    "members": 3423,
+    "favorites": 107,
+    "synopsis": "Ryoko's life used to revolve around track but due to an injury she can no longer follow the path she hoped to.  One day while out with her friends, she witnesses two cars racing and gets caught up in the excitement, especially after realizing the one driver is a young woman like herself!  When a chance arrives for her to try drifting, she dives right in, even though she's never driven a car before. Suddenly, she has a new passion...  and a lot to learn.",
+    "background": "Over Rev! was adapted into a Japanese live-action film released as a V-Cinema that was published on April 26, 2001.",
+    "authors": [
+        {
+            "mal_id": 3168,
+            "type": "people",
+            "name": "Yamaguchi, Katsumi",
+            "url": "https://myanimelist.net/people/3168/Katsumi_Yamaguchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 89,
+            "type": "manga",
+            "name": "Young Sunday (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/89/Young_Sunday_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Racing",
+            "url": "https://myanimelist.net/manga/genre/3/Racing"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 152776,
+                    "type": "manga",
+                    "name": "Cross Over Rev!",
+                    "url": "https://myanimelist.net/manga/152776/Cross_Over_Rev"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%83%96!"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Over_Rev!"
+        }
+    ]
+}

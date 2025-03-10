@@ -1,0 +1,112 @@
+{
+    "mal_id": 16814,
+    "url": "https://myanimelist.net/manga/16814/Hitler",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/170233.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/170233t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/170233l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/170233.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/170233t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/170233l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hitler"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gekiga Hitler"
+        },
+        {
+            "type": "Japanese",
+            "title": "劇画ヒットラー"
+        },
+        {
+            "type": "English",
+            "title": "Shigeru Mizuki's Hitler"
+        }
+    ],
+    "title": "Hitler",
+    "title_english": "Shigeru Mizuki's Hitler",
+    "title_japanese": "劇画ヒットラー",
+    "title_synonyms": [
+        "Gekiga Hitler"
+    ],
+    "type": "Manga",
+    "chapters": 17,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1971-05-08T00:00:00+00:00",
+        "to": "1971-08-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 5,
+                "year": 1971
+            },
+            "to": {
+                "day": 28,
+                "month": 8,
+                "year": 1971
+            }
+        },
+        "string": "May 8, 1971 to Aug 28, 1971"
+    },
+    "score": 7.49,
+    "scored": 7.49,
+    "scored_by": 723,
+    "rank": 3074,
+    "popularity": 7991,
+    "members": 2557,
+    "favorites": 120,
+    "synopsis": "A biography of Adolf Hitler by Mizuki Shigeru.",
+    "background": "Hitler was published in English as Shigeru Mizuki's Hitler by Drawn and Quarterly on November 17, 2015.",
+    "authors": [
+        {
+            "mal_id": 5857,
+            "type": "people",
+            "name": "Mizuki, Shigeru",
+            "url": "https://myanimelist.net/people/5857/Shigeru_Mizuki"
+        }
+    ],
+    "serializations": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%8A%87%E7%94%BB%E3%83%92%E3%83%83%E3%83%88%E3%83%A9%E3%83%BC"
+        }
+    ]
+}

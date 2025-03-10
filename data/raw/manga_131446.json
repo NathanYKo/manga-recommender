@@ -1,0 +1,127 @@
+{
+    "mal_id": 131446,
+    "url": "https://myanimelist.net/manga/131446/Kouiu_no_ga_Ii",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/244983.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/244983t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/244983l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/244983.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/244983t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/244983l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kouiu no ga Ii"
+        },
+        {
+            "type": "Synonym",
+            "title": "This Kind of Thing Is Fine"
+        },
+        {
+            "type": "Japanese",
+            "title": "こういうのがいい"
+        }
+    ],
+    "title": "Kouiu no ga Ii",
+    "title_english": null,
+    "title_japanese": "こういうのがいい",
+    "title_synonyms": [
+        "This Kind of Thing Is Fine"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-10-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 10,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 16, 2020 to ?"
+    },
+    "score": 7.1,
+    "scored": 7.1,
+    "scored_by": 1043,
+    "rank": null,
+    "popularity": 4781,
+    "members": 4599,
+    "favorites": 36,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 5021,
+            "type": "people",
+            "name": "Souryuu",
+            "url": "https://myanimelist.net/people/5021/Souryuu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 290,
+            "type": "manga",
+            "name": "Tonari no Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/290/Tonari_no_Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 125807,
+                    "type": "manga",
+                    "name": "Kouiu no ga Ii",
+                    "url": "https://myanimelist.net/manga/125807/Kouiu_no_ga_Ii"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://tonarinoyj.jp/episode/13933686331720966304"
+        }
+    ]
+}

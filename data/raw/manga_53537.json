@@ -1,0 +1,114 @@
+{
+    "mal_id": 53537,
+    "url": "https://myanimelist.net/manga/53537/Danganronpa_Kirigiri",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/107919.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/107919t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/107919l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/107919.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/107919t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/107919l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Danganronpa Kirigiri"
+        },
+        {
+            "type": "Japanese",
+            "title": "ダンガンロンパ霧切"
+        }
+    ],
+    "title": "Danganronpa Kirigiri",
+    "title_english": null,
+    "title_japanese": "ダンガンロンパ霧切",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-09-13T00:00:00+00:00",
+        "to": "2020-06-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 9,
+                "year": 2013
+            },
+            "to": {
+                "day": 17,
+                "month": 6,
+                "year": 2020
+            }
+        },
+        "string": "Sep 13, 2013 to Jun 17, 2020"
+    },
+    "score": 7.91,
+    "scored": 7.91,
+    "scored_by": 688,
+    "rank": 955,
+    "popularity": 4336,
+    "members": 5159,
+    "favorites": 88,
+    "synopsis": "The novel, titled Danganronpa Kirigiri, will focus on the character Kyouko Kirigiri, and will reveal the mysterious girl's past.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 21781,
+            "type": "people",
+            "name": "Komatsuzaki, Rui",
+            "url": "https://myanimelist.net/people/21781/Rui_Komatsuzaki"
+        },
+        {
+            "mal_id": 23821,
+            "type": "people",
+            "name": "Takekuni, Kitayama",
+            "url": "https://myanimelist.net/people/23821/Kitayama_Takekuni"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 37917,
+                    "type": "manga",
+                    "name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei",
+                    "url": "https://myanimelist.net/manga/37917/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

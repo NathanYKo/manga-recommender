@@ -1,0 +1,140 @@
+{
+    "mal_id": 1198,
+    "url": "https://myanimelist.net/manga/1198/Challengers",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/298764.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/298764t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/298764l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/298764.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/298764t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/298764l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Challengers"
+        },
+        {
+            "type": "Synonym",
+            "title": "Goukaku Kigan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Please Allow Us To Love"
+        },
+        {
+            "type": "Synonym",
+            "title": "Please Let Us Love"
+        },
+        {
+            "type": "Japanese",
+            "title": "チャレンジャーズ"
+        },
+        {
+            "type": "English",
+            "title": "Challengers"
+        }
+    ],
+    "title": "Challengers",
+    "title_english": "Challengers",
+    "title_japanese": "チャレンジャーズ",
+    "title_synonyms": [
+        "Goukaku Kigan",
+        "Please Allow Us To Love",
+        "Please Let Us Love"
+    ],
+    "type": "Manga",
+    "chapters": 20,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-01-01T00:00:00+00:00",
+        "to": "2004-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            }
+        },
+        "string": "1997 to 2004"
+    },
+    "score": 7.19,
+    "scored": 7.19,
+    "scored_by": 1798,
+    "rank": null,
+    "popularity": 4987,
+    "members": 4401,
+    "favorites": 16,
+    "synopsis": "Genius-level freshman Tomoe Tatsumi was smart enough to get accepted into a private college in Tokyo, but too naive to realize there wouldn't be enough money left over for rent. So, how is it that he's living in a fabulous apartment for less than most people pay for a single room?\n\nIt is thanks to white-collar worker Mitsugu Kurokawa, a good Samaritan with an ulterior motive: to love, honor, and cherish this irresistibly charming student until his dying days! ...Which may come sooner than not if Tomoe's violently homophobic older brother Souichi has any say in the matter.\n\n(Source: DramaQueen)",
+    "background": "Challengers was published in English by DramaQueen from May 2006 to March 2007.",
+    "authors": [
+        {
+            "mal_id": 2273,
+            "type": "people",
+            "name": "Takanaga, Hinako",
+            "url": "https://myanimelist.net/people/2273/Hinako_Takanaga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 131,
+            "type": "manga",
+            "name": "GUSH",
+            "url": "https://myanimelist.net/manga/magazine/131/GUSH"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 1199,
+                    "type": "manga",
+                    "name": "Koisuru Boukun",
+                    "url": "https://myanimelist.net/manga/1199/Koisuru_Boukun"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.onedramaqueen.com/blportal/16/Challengers/index.php"
+        }
+    ]
+}

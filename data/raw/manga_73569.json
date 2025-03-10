@@ -1,0 +1,170 @@
+{
+    "mal_id": 73569,
+    "url": "https://myanimelist.net/manga/73569/Re_Monster",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/207585.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/207585t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/207585l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/207585.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/207585t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/207585l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Re:Monster"
+        },
+        {
+            "type": "Synonym",
+            "title": "Reincarnated: Monster"
+        },
+        {
+            "type": "Japanese",
+            "title": "Re:Monster"
+        }
+    ],
+    "title": "Re:Monster",
+    "title_english": null,
+    "title_japanese": "Re:Monster",
+    "title_synonyms": [
+        "Reincarnated: Monster"
+    ],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-07-24T00:00:00+00:00",
+        "to": "2017-07-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 24,
+                "month": 7,
+                "year": 2017
+            }
+        },
+        "string": "Jul 24, 2012 to Jul 24, 2017"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 2327,
+    "rank": 3326,
+    "popularity": 3178,
+    "members": 7072,
+    "favorites": 128,
+    "synopsis": "Tomokui Kanata has been re-incarnated in the weakest goblin, named Goburou, after having undergone an unfortunate death. However Goburou has retained his previous life's memories, an unusual evolution, as well as becoming strong enough to gain status boosts from eating.\n\nIn this alternate world of survival of the fittest, events unfold with competent subordinates and comrades, delightful case of the tail-wagging dog...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 32077,
+            "type": "people",
+            "name": "Kanekiru, Kogitsune",
+            "url": "https://myanimelist.net/people/32077/Kogitsune_Kanekiru"
+        },
+        {
+            "mal_id": 32263,
+            "type": "people",
+            "name": "Yamaada",
+            "url": "https://myanimelist.net/people/32263/Yamaada"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        },
+        {
+            "mal_id": 73,
+            "type": "manga",
+            "name": "Reincarnation",
+            "url": "https://myanimelist.net/manga/genre/73/Reincarnation"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 116174,
+                    "type": "manga",
+                    "name": "Re:Monster: Ankoku Tairiku-hen",
+                    "url": "https://myanimelist.net/manga/116174/Re_Monster__Ankoku_Tairiku-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 73271,
+                    "type": "manga",
+                    "name": "Re:Monster",
+                    "url": "https://myanimelist.net/manga/73271/Re_Monster"
+                },
+                {
+                    "mal_id": 56690,
+                    "type": "anime",
+                    "name": "Re:Monster",
+                    "url": "https://myanimelist.net/anime/56690/Re_Monster"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 111487,
+                    "type": "manga",
+                    "name": "Re:Monster Gaiden: Fumetsu Taitei no Mezame",
+                    "url": "https://myanimelist.net/manga/111487/Re_Monster_Gaiden__Fumetsu_Taitei_no_Mezame"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Re:Monster"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/Re:Monster"
+        }
+    ]
+}

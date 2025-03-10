@@ -1,0 +1,144 @@
+{
+    "mal_id": 17257,
+    "url": "https://myanimelist.net/manga/17257/Shounen_Maid",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/168245.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/168245t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/168245l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/168245.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/168245t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/168245l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shounen Maid"
+        },
+        {
+            "type": "Synonym",
+            "title": "Boy Maid"
+        },
+        {
+            "type": "Japanese",
+            "title": "少年メイド"
+        }
+    ],
+    "title": "Shounen Maid",
+    "title_english": null,
+    "title_japanese": "少年メイド",
+    "title_synonyms": [
+        "Boy Maid"
+    ],
+    "type": "Manga",
+    "chapters": 62,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-03-12T00:00:00+00:00",
+        "to": "2017-03-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 3,
+                "year": 2008
+            },
+            "to": {
+                "day": 1,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Mar 12, 2008 to Mar 1, 2017"
+    },
+    "score": 7.2,
+    "scored": 7.2,
+    "scored_by": 814,
+    "rank": 6138,
+    "popularity": 7059,
+    "members": 2977,
+    "favorites": 16,
+    "synopsis": "Chihiro is left homeless with supposedly no relatives after his mom died. As he worries about what to do next, his uncle shows up and plans to take care of him...or is it the other way around?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5835,
+            "type": "people",
+            "name": "Ototachibana",
+            "url": "https://myanimelist.net/people/5835/Ototachibana"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 162,
+            "type": "manga",
+            "name": "Comic B's-LOG",
+            "url": "https://myanimelist.net/manga/magazine/162/Comic_B_039_s-LOG"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 32175,
+                    "type": "anime",
+                    "name": "Shounen Maid",
+                    "url": "https://myanimelist.net/anime/32175/Shounen_Maid"
+                },
+                {
+                    "mal_id": 33491,
+                    "type": "anime",
+                    "name": "Shounen Maid: Onna wa Dokyou, Otoko wa Aikyou?",
+                    "url": "https://myanimelist.net/anime/33491/Shounen_Maid__Onna_wa_Dokyou_Otoko_wa_Aikyou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://bslogcomic.com/maid/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%B0%91%E5%B9%B4%E3%83%A1%E3%82%A4%E3%83%89"
+        }
+    ]
+}

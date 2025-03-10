@@ -1,0 +1,133 @@
+{
+    "mal_id": 112220,
+    "url": "https://myanimelist.net/manga/112220/Ingoshima",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/219884.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/219884t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/219884l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/219884.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/219884t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/219884l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ingoshima"
+        },
+        {
+            "type": "Japanese",
+            "title": "インゴシマ"
+        }
+    ],
+    "title": "Ingoshima",
+    "title_english": null,
+    "title_japanese": "インゴシマ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2018-02-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 2,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 12, 2018 to ?"
+    },
+    "score": 5.41,
+    "scored": 5.41,
+    "scored_by": 2920,
+    "rank": null,
+    "popularity": 2058,
+    "members": 10429,
+    "favorites": 55,
+    "synopsis": "The Yoshinomiya Municipal High School 2nd year students embarked on what they'd hoped was an educational trip with their friends and away from family but it was not meant to be... Their ship was hit by unexpected rough seas and crashed on a strange island! The surviving students are trying to understand what happened but soon they realize they are not alone on this island and the locals don't appear to be very friendly to strangers!!!\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 22267,
+            "type": "people",
+            "name": "Tanaka, Yoshiki",
+            "url": "https://myanimelist.net/people/22267/Yoshiki_Tanaka"
+        },
+        {
+            "mal_id": 49269,
+            "type": "people",
+            "name": "Amashita, Mesuko",
+            "url": "https://myanimelist.net/people/49269/Mesuko_Amashita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1061,
+            "type": "manga",
+            "name": "Manga Box",
+            "url": "https://myanimelist.net/manga/magazine/1061/Manga_Box"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 146035,
+                    "type": "manga",
+                    "name": "Kamugoroshi",
+                    "url": "https://myanimelist.net/manga/146035/Kamugoroshi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.mangabox.me/reader/69552/episodes/"
+        }
+    ]
+}

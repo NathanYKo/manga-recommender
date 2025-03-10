@@ -1,0 +1,147 @@
+{
+    "mal_id": 55875,
+    "url": "https://myanimelist.net/manga/55875/Sword_Art_Online__Girls_Ops",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/156370.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/156370t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/156370l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/156370.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/156370t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/156370l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sword Art Online: Girls Ops"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sword Art Online: Girls' Operations"
+        },
+        {
+            "type": "Japanese",
+            "title": "ソードアート・オンライン ガールズ・オプス"
+        },
+        {
+            "type": "English",
+            "title": "Sword Art Online: Girls' Ops"
+        }
+    ],
+    "title": "Sword Art Online: Girls Ops",
+    "title_english": "Sword Art Online: Girls' Ops",
+    "title_japanese": "ソードアート・オンライン ガールズ・オプス",
+    "title_synonyms": [
+        "Sword Art Online: Girls' Operations"
+    ],
+    "type": "Manga",
+    "chapters": 47,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-06-10T00:00:00+00:00",
+        "to": "2021-01-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 6,
+                "year": 2013
+            },
+            "to": {
+                "day": 8,
+                "month": 1,
+                "year": 2021
+            }
+        },
+        "string": "Jun 10, 2013 to Jan 8, 2021"
+    },
+    "score": 7.21,
+    "scored": 7.21,
+    "scored_by": 1438,
+    "rank": 5936,
+    "popularity": 4420,
+    "members": 5051,
+    "favorites": 55,
+    "synopsis": "Follows the heroines from the Aincrad arc through their various adventures in the real world at the SAO Survivor School and in the virtual world of ALfheim Online.",
+    "background": "Sword Art Online: Girls Ops was published in English by Yen Press from May 19, 2015 to September 6, 2022.",
+    "authors": [
+        {
+            "mal_id": 11089,
+            "type": "people",
+            "name": "Nekobyou, Neko",
+            "url": "https://myanimelist.net/people/11089/Neko_Nekobyou"
+        },
+        {
+            "mal_id": 11466,
+            "type": "people",
+            "name": "Kawahara, Reki",
+            "url": "https://myanimelist.net/people/11466/Reki_Kawahara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1527,
+            "type": "manga",
+            "name": "Web DenPlay Comic",
+            "url": "https://myanimelist.net/manga/magazine/1527/Web_DenPlay_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 80,
+            "type": "manga",
+            "name": "Video Game",
+            "url": "https://myanimelist.net/manga/genre/80/Video_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 21479,
+                    "type": "manga",
+                    "name": "Sword Art Online",
+                    "url": "https://myanimelist.net/manga/21479/Sword_Art_Online"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-walker.com/contents/detail/KDCW_AM03000004010000_68/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3"
+        }
+    ]
+}

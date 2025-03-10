@@ -1,0 +1,132 @@
+{
+    "mal_id": 48257,
+    "url": "https://myanimelist.net/manga/48257/Shuujin_Riku",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166789.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166789t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166789l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166789.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166789t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166789l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shuujin Riku"
+        },
+        {
+            "type": "Synonym",
+            "title": "Jail Time Ricky"
+        },
+        {
+            "type": "Synonym",
+            "title": "Prisoner Riku"
+        },
+        {
+            "type": "Japanese",
+            "title": "囚人リク"
+        }
+    ],
+    "title": "Shuujin Riku",
+    "title_english": null,
+    "title_japanese": "囚人リク",
+    "title_synonyms": [
+        "Jail Time Ricky",
+        "Prisoner Riku"
+    ],
+    "type": "Manga",
+    "chapters": 338,
+    "volumes": 38,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-02-10T00:00:00+00:00",
+        "to": "2018-02-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 2,
+                "year": 2011
+            },
+            "to": {
+                "day": 15,
+                "month": 2,
+                "year": 2018
+            }
+        },
+        "string": "Feb 10, 2011 to Feb 15, 2018"
+    },
+    "score": 7.74,
+    "scored": 7.74,
+    "scored_by": 617,
+    "rank": 1557,
+    "popularity": 7570,
+    "members": 2735,
+    "favorites": 46,
+    "synopsis": "Born into a world beyond imagination, imprisoned for a crime he never committed. Young Riku's life couldn't sink any lower...or so he thought. Determined to survive no matter the circumstances, Riku now faces the impossible task of outliving a prison sentence in Earth's worst penitentiary.\n\n(Source: Project Bite Me! Scans)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 21103,
+            "type": "people",
+            "name": "Seguchi, Shinobu",
+            "url": "https://myanimelist.net/people/21103/Shinobu_Seguchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 117516,
+                    "type": "manga",
+                    "name": "Boss Renoma: \"Shuujin Riku\" Gaiden",
+                    "url": "https://myanimelist.net/manga/117516/Boss_Renoma__Shuujin_Riku_Gaiden"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%9B%9A%E4%BA%BA%E3%83%AA%E3%82%AF"
+        }
+    ]
+}

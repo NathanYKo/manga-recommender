@@ -1,0 +1,143 @@
+{
+    "mal_id": 115783,
+    "url": "https://myanimelist.net/manga/115783/Kaguya-sama_wa_Kokurasetai__Shuuchiin_Gakuen_Nanafushigi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/215419.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/215419t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/215419l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/215419.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/215419t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/215419l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kaguya-sama wa Kokurasetai: Shuuchiin Gakuen Nanafushigi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kaguya Wants to Be Confessed to: The Seven Mysteries of Shuuchiin Academy"
+        },
+        {
+            "type": "Japanese",
+            "title": "かぐや様は告らせたい 小説版 ～秀知院学園七不思議～"
+        }
+    ],
+    "title": "Kaguya-sama wa Kokurasetai: Shuuchiin Gakuen Nanafushigi",
+    "title_english": null,
+    "title_japanese": "かぐや様は告らせたい 小説版 ～秀知院学園七不思議～",
+    "title_synonyms": [
+        "Kaguya Wants to Be Confessed to: The Seven Mysteries of Shuuchiin Academy"
+    ],
+    "type": "Light Novel",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-09-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 9,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 19, 2018"
+    },
+    "score": 7.56,
+    "scored": 7.56,
+    "scored_by": 625,
+    "rank": 2581,
+    "popularity": 8035,
+    "members": 2542,
+    "favorites": 86,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 2139,
+            "type": "people",
+            "name": "Akasaka, Aka",
+            "url": "https://myanimelist.net/people/2139/Aka_Akasaka"
+        },
+        {
+            "mal_id": 48750,
+            "type": "people",
+            "name": "Hitsujiyama, Juuichirou",
+            "url": "https://myanimelist.net/people/48750/Juuichirou_Hitsujiyama"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 90125,
+                    "type": "manga",
+                    "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+                    "url": "https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%90%E3%82%84%E6%A7%98%E3%81%AF%E5%91%8A%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84%E3%80%9C%E5%A4%A9%E6%89%8D%E3%81%9F%E3%81%A1%E3%81%AE%E6%81%8B%E6%84%9B%E9%A0%AD%E8%84%B3%E6%88%A6%E3%80%9C"
+        }
+    ]
+}

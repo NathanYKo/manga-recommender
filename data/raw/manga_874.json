@@ -1,0 +1,169 @@
+{
+    "mal_id": 874,
+    "url": "https://myanimelist.net/manga/874/Onegai☆Teacher",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/270343.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/270343t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/270343l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/270343.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/270343t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/270343l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Onegai☆Teacher"
+        },
+        {
+            "type": "Synonym",
+            "title": "Onegai Sensei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Please Teacher"
+        },
+        {
+            "type": "Japanese",
+            "title": "おねがい☆ティーチャー"
+        },
+        {
+            "type": "English",
+            "title": "Onegai Teacher"
+        }
+    ],
+    "title": "Onegai☆Teacher",
+    "title_english": "Onegai Teacher",
+    "title_japanese": "おねがい☆ティーチャー",
+    "title_synonyms": [
+        "Onegai Sensei",
+        "Please Teacher"
+    ],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-09-27T00:00:00+00:00",
+        "to": "2002-12-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 9,
+                "year": 2001
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2002
+            }
+        },
+        "string": "Sep 27, 2001 to Dec 27, 2002"
+    },
+    "score": 7.21,
+    "scored": 7.21,
+    "scored_by": 3738,
+    "rank": 5927,
+    "popularity": 3036,
+    "members": 7382,
+    "favorites": 84,
+    "synopsis": "Kusanagi Kei, a high-school student living with his aunt and uncle, has an encounter with a female alien. This alien is revealed to be a new teacher at his school. Later, he is forced to marry this alien to preserve her secrets. From there, various romantically-inclined problems crop up repeatedly.\n\n(Source: ANN)",
+    "background": "Onegai☆Teacher was published in English as Please Teacher! by ComicsOne from February 25, 2003, to June 17, 2003. It was also released in Brazilian Portuguese by Editora JBC from August 2005 to September 2005.",
+    "authors": [
+        {
+            "mal_id": 2573,
+            "type": "people",
+            "name": "Hayashiya, Shizuru",
+            "url": "https://myanimelist.net/people/2573/Shizuru_Hayashiya"
+        },
+        {
+            "mal_id": 5008,
+            "type": "people",
+            "name": "Please!",
+            "url": "https://myanimelist.net/people/5008/Please"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 195,
+                    "type": "anime",
+                    "name": "Onegai☆Teacher",
+                    "url": "https://myanimelist.net/anime/195/Onegai☆Teacher"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 741,
+                    "type": "manga",
+                    "name": "Onegai☆Twins",
+                    "url": "https://myanimelist.net/manga/741/Onegai☆Twins"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Please_Teacher!"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AD%E3%81%8C%E3%81%84%E2%98%86%E3%83%86%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "mal_id": 133773,
+    "url": "https://myanimelist.net/manga/133773/Meisou_Senshi_Nagata_Kabi__Gourmet_de_Go",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/242335.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/242335t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/242335l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/242335.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/242335t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/242335l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Meisou Senshi Nagata Kabi: Gourmet de Go!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Straying Warrior Kabi Nagata: Go Gourmet!"
+        },
+        {
+            "type": "Japanese",
+            "title": "迷走戦士・永田カビ グルメでGO！"
+        },
+        {
+            "type": "English",
+            "title": "My Wandering Warrior Eating Disorder"
+        }
+    ],
+    "title": "Meisou Senshi Nagata Kabi: Gourmet de Go!",
+    "title_english": "My Wandering Warrior Eating Disorder",
+    "title_japanese": "迷走戦士・永田カビ グルメでGO！",
+    "title_synonyms": [
+        "Straying Warrior Kabi Nagata: Go Gourmet!"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2021-02-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 2,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 19, 2021 to ?"
+    },
+    "score": 7.05,
+    "scored": 7.05,
+    "scored_by": 301,
+    "rank": 8292,
+    "popularity": 8456,
+    "members": 2387,
+    "favorites": 4,
+    "synopsis": "Autobiographical essay manga from Kabi Nagata surrounding her struggles with her eating disorder and binge-eating.",
+    "background": "Meisou Senshi Nagata Kabi: Gourmet de Go! has been published digitally in English as My Wandering Warrior Eating Disorder by Seven Seas Entertainment since October 26, 2023.",
+    "authors": [
+        {
+            "mal_id": 41713,
+            "type": "people",
+            "name": "Nagata, Kabi",
+            "url": "https://myanimelist.net/people/41713/Kabi_Nagata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1510,
+            "type": "manga",
+            "name": "Web Action",
+            "url": "https://myanimelist.net/manga/magazine/1510/Web_Action"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 68,
+            "type": "manga",
+            "name": "Memoir",
+            "url": "https://myanimelist.net/manga/genre/68/Memoir"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 145004,
+                    "type": "manga",
+                    "name": "Meisou Senshi Nagata Kabi",
+                    "url": "https://myanimelist.net/manga/145004/Meisou_Senshi_Nagata_Kabi"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 155240,
+                    "type": "manga",
+                    "name": "Suizou ga Kowaretara, Sukoshi Iki Yasuku Narimashita.",
+                    "url": "https://myanimelist.net/manga/155240/Suizou_ga_Kowaretara_Sukoshi_Iki_Yasuku_Narimashita"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-action.com/episode/3269632237258365320"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "mal_id": 2570,
+    "url": "https://myanimelist.net/manga/2570/Subete_ni_Iya_Girl",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/183871.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/183871t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/183871l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/183871.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/183871t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/183871l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Subete ni Iya Girl"
+        },
+        {
+            "type": "Japanese",
+            "title": "すべてに射矢ガール"
+        },
+        {
+            "type": "English",
+            "title": "The Hating Girl"
+        }
+    ],
+    "title": "Subete ni Iya Girl",
+    "title_english": "The Hating Girl",
+    "title_japanese": "すべてに射矢ガール",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 86,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-07-01T00:00:00+00:00",
+        "to": "2002-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 2000
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            }
+        },
+        "string": "Jul 2000 to 2002"
+    },
+    "score": 6.97,
+    "scored": 6.97,
+    "scored_by": 1032,
+    "rank": 9492,
+    "popularity": 8005,
+    "members": 2553,
+    "favorites": 12,
+    "synopsis": "The Hating Girl is a manga about a mysterious girl who has an arrow stuck in her head and a boy who tries to understand her.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3311,
+            "type": "people",
+            "name": "Rokunishi, Koji",
+            "url": "https://myanimelist.net/people/3311/Koji_Rokunishi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

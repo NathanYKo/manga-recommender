@@ -1,0 +1,110 @@
+{
+    "mal_id": 1874,
+    "url": "https://myanimelist.net/manga/1874/Cherish",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/164356.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/164356t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/164356l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/164356.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/164356t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/164356l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Cherish"
+        },
+        {
+            "type": "Synonym",
+            "title": "Happiness"
+        },
+        {
+            "type": "Japanese",
+            "title": "チェリッシュ"
+        }
+    ],
+    "title": "Cherish",
+    "title_english": null,
+    "title_japanese": "チェリッシュ",
+    "title_synonyms": [
+        "Happiness"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-11-28T00:00:00+00:00",
+        "to": "2006-06-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 11,
+                "year": 2005
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2006
+            }
+        },
+        "string": "Nov 28, 2005 to Jun 28, 2006"
+    },
+    "score": 7.05,
+    "scored": 7.05,
+    "scored_by": 1745,
+    "rank": 8198,
+    "popularity": 6420,
+    "members": 3320,
+    "favorites": 3,
+    "synopsis": "1-3. Cherish\n4-5. Happiness",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1945,
+            "type": "people",
+            "name": "Yoshizumi, Wataru",
+            "url": "https://myanimelist.net/people/1945/Wataru_Yoshizumi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Chorus",
+            "url": "https://myanimelist.net/manga/magazine/58/Chorus"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

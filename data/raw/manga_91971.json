@@ -1,0 +1,165 @@
+{
+    "mal_id": 91971,
+    "url": "https://myanimelist.net/manga/91971/Fairy_Tail_Gaiden",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/171669.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/171669t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/171669l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/171669.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/171669t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/171669l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fairy Tail Gaiden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail Side Stories"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail Gaiden: Kengami no Souryuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail: Twin Dragons of Sabertooth"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail Gaiden: Road Knight"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail Gaiden: Rhodonite"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail: Raigou Issen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Flash of Great Lightning"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fairy Tail: Lightning Gods"
+        },
+        {
+            "type": "Japanese",
+            "title": "FAIRY TAIL外伝"
+        }
+    ],
+    "title": "Fairy Tail Gaiden",
+    "title_english": null,
+    "title_japanese": "FAIRY TAIL外伝",
+    "title_synonyms": [
+        "Fairy Tail Side Stories",
+        "Fairy Tail Gaiden: Kengami no Souryuu",
+        "Fairy Tail: Twin Dragons of Sabertooth",
+        "Fairy Tail Gaiden: Road Knight",
+        "Fairy Tail Gaiden: Rhodonite",
+        "Fairy Tail: Raigou Issen",
+        "Flash of Great Lightning",
+        "Fairy Tail: Lightning Gods"
+    ],
+    "type": "Manga",
+    "chapters": 52,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-07-30T00:00:00+00:00",
+        "to": "2016-09-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 14,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 30, 2015 to Sep 14, 2016"
+    },
+    "score": 7.19,
+    "scored": 7.19,
+    "scored_by": 4755,
+    "rank": 6251,
+    "popularity": 1881,
+    "members": 11520,
+    "favorites": 87,
+    "synopsis": "Fairy Tail Gaiden is a trilogy detailing the adventures of Sting and Rogue, Gajeel and Levy, and Laxus and the Thunder Tribe in separate volumes.\n\n1. Kengami no Souryuu (Twin Dragons of Sabertooth)\n2. Rhodonite\n3. Raigo Issen (Lightning Gods)",
+    "background": "Fairy Tail Gaiden was published in English by Kodansha Comics USA from December 6, 2016, to October 23, 2018. It was also released in Brazilian Portuguese by Editora JBC from December 8, 2017, to April 20, 2018; and in Spanish by Norma Editorial from March 23, 2018, to October 31, 2018.",
+    "authors": [
+        {
+            "mal_id": 19051,
+            "type": "people",
+            "name": "Shibano, Kyouta",
+            "url": "https://myanimelist.net/people/19051/Kyouta_Shibano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1335,
+            "type": "manga",
+            "name": "Magazine pocket",
+            "url": "https://myanimelist.net/manga/magazine/1335/Magazine_pocket"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 598,
+                    "type": "manga",
+                    "name": "Fairy Tail",
+                    "url": "https://myanimelist.net/manga/598/Fairy_Tail"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/fairy-tail-lightning-gods/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/FAIRY_TAIL"
+        }
+    ]
+}

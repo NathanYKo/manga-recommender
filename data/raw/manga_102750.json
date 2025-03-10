@@ -1,0 +1,119 @@
+{
+    "mal_id": 102750,
+    "url": "https://myanimelist.net/manga/102750/Yami_ni_Hau_Mono",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/192971.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/192971t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/192971l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/192971.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/192971t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/192971l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yami ni Hau Mono"
+        },
+        {
+            "type": "Synonym",
+            "title": "Lovecraft Kessakushuu"
+        },
+        {
+            "type": "Japanese",
+            "title": "闇に這う者 ラヴクラフト傑作集"
+        },
+        {
+            "type": "English",
+            "title": "The Haunter of the Dark"
+        }
+    ],
+    "title": "Yami ni Hau Mono",
+    "title_english": "The Haunter of the Dark",
+    "title_japanese": "闇に這う者 ラヴクラフト傑作集",
+    "title_synonyms": [
+        "Lovecraft Kessakushuu"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-01-12T00:00:00+00:00",
+        "to": "2016-03-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 12,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 12, 2016 to Mar 12, 2016"
+    },
+    "score": 7.17,
+    "scored": 7.17,
+    "scored_by": 1092,
+    "rank": 6541,
+    "popularity": 7646,
+    "members": 2700,
+    "favorites": 5,
+    "synopsis": "The story (which is based on the diaries of its protagonist) is set in Providence, Rhode Island, Lovecraft's hometown and a favorite locale for his fiction. The protagonist, Robert Blake—a young man with an interest in the occult—becomes fascinated by a large disused church set on Federal Hill in Providence's west—the Italian and migrant quarter—which he can see from his lodgings in Providence's Upper East side. His researches reveal that the church has a sinister history involving a cult called the Church of Starry Wisdom and is dreaded by the local inhabitants as being haunted by a primeval evil.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6086,
+            "type": "people",
+            "name": "Lovecraft, H. P.",
+            "url": "https://myanimelist.net/people/6086/H_P_Lovecraft"
+        },
+        {
+            "mal_id": 18347,
+            "type": "people",
+            "name": "Tanabe, Gou",
+            "url": "https://myanimelist.net/people/18347/Gou_Tanabe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 114,
+            "type": "manga",
+            "name": "Comic Beam",
+            "url": "https://myanimelist.net/manga/magazine/114/Comic_Beam"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Haunter_of_the_Dark"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "mal_id": 60975,
+    "url": "https://myanimelist.net/manga/60975/Mahouka_Koukou_no_Rettousei__Yokohama_Souran-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/120977.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/120977t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/120977l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/120977.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/120977t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/120977l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mahouka Koukou no Rettousei: Yokohama Souran-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Irregular at Magic High School: The Battle of Yokohama"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yokohama Disturbance Arc"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔法科高校の劣等生 横浜騒乱編"
+        }
+    ],
+    "title": "Mahouka Koukou no Rettousei: Yokohama Souran-hen",
+    "title_english": null,
+    "title_japanese": "魔法科高校の劣等生 横浜騒乱編",
+    "title_synonyms": [
+        "The Irregular at Magic High School: The Battle of Yokohama",
+        "Yokohama Disturbance Arc"
+    ],
+    "type": "Manga",
+    "chapters": 24,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-10-18T00:00:00+00:00",
+        "to": "2015-09-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 18,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Oct 18, 2013 to Sep 18, 2015"
+    },
+    "score": 7.41,
+    "scored": 7.41,
+    "scored_by": 1146,
+    "rank": 3723,
+    "popularity": 4868,
+    "members": 4510,
+    "favorites": 15,
+    "synopsis": "Manga adaptation of the 3rd arc of the Mahouka Koukou no Rettousei series.\n\nThe Thesis Competition, an event with as much importance as the Nine School Competition. This competition has the particularity of having its competitors compete to see which one has more mastery on magic theory. However, things may not go smoothly... And \"disturbance\" may unfold...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11339,
+            "type": "people",
+            "name": "Amou, Gin",
+            "url": "https://myanimelist.net/people/11339/Gin_Amou"
+        },
+        {
+            "mal_id": 15613,
+            "type": "people",
+            "name": "Satou, Tsutomu",
+            "url": "https://myanimelist.net/people/15613/Tsutomu_Satou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "GFantasy",
+            "url": "https://myanimelist.net/manga/magazine/35/GFantasy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 115017,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei: Kaichou Senkyo-hen",
+                    "url": "https://myanimelist.net/manga/115017/Mahouka_Koukou_no_Rettousei__Kaichou_Senkyo-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 60977,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei: Tsuioku-hen",
+                    "url": "https://myanimelist.net/manga/60977/Mahouka_Koukou_no_Rettousei__Tsuioku-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 34127,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei",
+                    "url": "https://myanimelist.net/manga/34127/Mahouka_Koukou_no_Rettousei"
+                },
+                {
+                    "mal_id": 20785,
+                    "type": "anime",
+                    "name": "Mahouka Koukou no Rettousei",
+                    "url": "https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E7%A7%91%E9%AB%98%E6%A0%A1%E3%81%AE%E5%8A%A3%E7%AD%89%E7%94%9F"
+        }
+    ]
+}

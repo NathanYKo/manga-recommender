@@ -1,0 +1,137 @@
+{
+    "mal_id": 80487,
+    "url": "https://myanimelist.net/manga/80487/Shiro_no_Koukoku_Monogatari",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186493.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186493t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186493l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186493.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186493t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186493l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shiro no Koukoku Monogatari"
+        },
+        {
+            "type": "Synonym",
+            "title": "Legend of the White Kingdom"
+        },
+        {
+            "type": "Japanese",
+            "title": "白の皇国物語"
+        }
+    ],
+    "title": "Shiro no Koukoku Monogatari",
+    "title_english": null,
+    "title_japanese": "白の皇国物語",
+    "title_synonyms": [
+        "Legend of the White Kingdom"
+    ],
+    "type": "Manga",
+    "chapters": 64,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-01-20T00:00:00+00:00",
+        "to": "2019-02-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 4,
+                "month": 2,
+                "year": 2019
+            }
+        },
+        "string": "Jan 20, 2013 to Feb 4, 2019"
+    },
+    "score": 6.86,
+    "scored": 6.86,
+    "scored_by": 2003,
+    "rank": 11191,
+    "popularity": 3774,
+    "members": 5965,
+    "favorites": 21,
+    "synopsis": "Having lost his money, lover, and future, a man who has given up on everything finds himself reincarnated in the kingdom of Altodestenia. He, Lectival, has no memories prior to being saved by Meriela, the daughter of an aristocrat, and now finds himself rising up to save the kingdom in its current crisis.\n\n(Source: /ak/ Scanlations)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 34583,
+            "type": "people",
+            "name": "Shirasawa, Inui",
+            "url": "https://myanimelist.net/people/34583/Inui_Shirasawa"
+        },
+        {
+            "mal_id": 34585,
+            "type": "people",
+            "name": "Fuji, Ma-yu",
+            "url": "https://myanimelist.net/people/34585/Ma-yu_Fuji"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 150,
+            "type": "manga",
+            "name": "AlphaPolis",
+            "url": "https://myanimelist.net/manga/magazine/150/AlphaPolis"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 88491,
+                    "type": "manga",
+                    "name": "Shiro no Koukoku Monogatari",
+                    "url": "https://myanimelist.net/manga/88491/Shiro_no_Koukoku_Monogatari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.alphapolis.co.jp/manga/official/398000038"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E3%81%AE%E7%9A%87%E5%9B%BD%E7%89%A9%E8%AA%9E"
+        }
+    ]
+}

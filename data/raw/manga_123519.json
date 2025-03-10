@@ -1,0 +1,127 @@
+{
+    "mal_id": 123519,
+    "url": "https://myanimelist.net/manga/123519/Food_Court_de_Mata_Ashita",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/245136.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/245136t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/245136l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/245136.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/245136t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/245136l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Food Court de, Mata Ashita."
+        },
+        {
+            "type": "Synonym",
+            "title": "See You at the Food Court Tomorrow."
+        },
+        {
+            "type": "Synonym",
+            "title": "Food Court de Joshikousei ga Shaberu daku"
+        },
+        {
+            "type": "Japanese",
+            "title": "フードコートで、また明日。"
+        },
+        {
+            "type": "English",
+            "title": "See You Tomorrow at the Food Court"
+        }
+    ],
+    "title": "Food Court de, Mata Ashita.",
+    "title_english": "See You Tomorrow at the Food Court",
+    "title_japanese": "フードコートで、また明日。",
+    "title_synonyms": [
+        "See You at the Food Court Tomorrow.",
+        "Food Court de Joshikousei ga Shaberu daku"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-03-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 3,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 10, 2020 to ?"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 854,
+    "rank": 5010,
+    "popularity": 6148,
+    "members": 3498,
+    "favorites": 35,
+    "synopsis": "To their classmates, Wada is a quiet rich girl while Yamamoto is an intimidating lone wolf…but what they don’t know is that Wada is a mobile game addict in a passionate love-hate relationship (with a 2D character) and Yamamoto has a penchant for urban legends with eyes only for her favorite YouTuber. And their biggest not-so-secret secret—these unlikely friends meet at the food court every day after school to rant, rave, and learn what makes each other tick!\n\n(Source: Yen Press)",
+    "background": "Food Court de, Mata Ashita., originally released under the title Food Court de Joshikousei ga Shaberu daku (フードコートで女子高生が喋るだけ), is a web manga released on the author's Twitter account since October 24, 2019. Official serialization started in Comic Newtype on March 10, 2020. The series has been published in English as See You Tomorrow at the Food Court by Yen Press since August 23, 2022.",
+    "authors": [
+        {
+            "mal_id": 7650,
+            "type": "people",
+            "name": "Naruse, Yoshiki",
+            "url": "https://myanimelist.net/people/7650/Yoshiki_Naruse"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1371,
+            "type": "manga",
+            "name": "Comic Newtype",
+            "url": "https://myanimelist.net/manga/magazine/1371/Comic_Newtype"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 60508,
+                    "type": "anime",
+                    "name": "Food Court de, Mata Ashita.",
+                    "url": "https://myanimelist.net/anime/60508/Food_Court_de_Mata_Ashita"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.webnewtype.com/contents/foodcourtjk/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/See_You_Tomorrow_at_the_Food_Court"
+        }
+    ]
+}

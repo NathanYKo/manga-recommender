@@ -1,0 +1,159 @@
+{
+    "mal_id": 1705,
+    "url": "https://myanimelist.net/manga/1705/Spriggan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/280716.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/280716t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/280716l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/280716.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/280716t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/280716l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Spriggan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Striker"
+        },
+        {
+            "type": "Japanese",
+            "title": "SPRIGGAN"
+        },
+        {
+            "type": "English",
+            "title": "Spriggan"
+        }
+    ],
+    "title": "Spriggan",
+    "title_english": "Spriggan",
+    "title_japanese": "SPRIGGAN",
+    "title_synonyms": [
+        "Striker"
+    ],
+    "type": "Manga",
+    "chapters": 59,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1989-02-08T00:00:00+00:00",
+        "to": "1996-01-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 2,
+                "year": 1989
+            },
+            "to": {
+                "day": 25,
+                "month": 1,
+                "year": 1996
+            }
+        },
+        "string": "Feb 8, 1989 to Jan 25, 1996"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 589,
+    "rank": 8462,
+    "popularity": 4982,
+    "members": 4405,
+    "favorites": 21,
+    "synopsis": "An ancient alien civilization once hid artifacts of immense power across the Earth, and now the world's governments will stop at nothing to seize those relics for their own nefarious purposes. Only the ARCAM corporation stands against them, whose special agents, the Spriggan, are the world's last line of defense against the alien doomsday weapons. Equipped with experimental armor that grants him unmatched strength, Yuu Ominae is Spriggans' ace operator, sent to avert catastrophes around the world.\n\n(Source: Seven Seas Entertainment)",
+    "background": "Spriggan had three volumes published in English as Striker by VIZ Media from November 5, 1995 to May 6, 1999. This release was heavily edited in an attempt to mask anti-American sentiments. It also ran in the monthly anthology magazine Manga Vizion from June 1997 to February 1998. The series was published digitally in English as Spriggan by Seven Seas Entertainment as omnibus volumes from June 16, 2022 to June 27, 2023, and in print from August 30, 2022 to June 27, 2023.",
+    "authors": [
+        {
+            "mal_id": 3033,
+            "type": "people",
+            "name": "Minagawa, Ryouji",
+            "url": "https://myanimelist.net/people/3033/Ryouji_Minagawa"
+        },
+        {
+            "mal_id": 3146,
+            "type": "people",
+            "name": "Takashige, Hiroshi",
+            "url": "https://myanimelist.net/people/3146/Hiroshi_Takashige"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 411,
+            "type": "manga",
+            "name": "Shounen Sunday Super",
+            "url": "https://myanimelist.net/manga/magazine/411/Shounen_Sunday_Super"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 420,
+                    "type": "anime",
+                    "name": "Spriggan",
+                    "url": "https://myanimelist.net/anime/420/Spriggan"
+                },
+                {
+                    "mal_id": 39489,
+                    "type": "anime",
+                    "name": "Spriggan (ONA)",
+                    "url": "https://myanimelist.net/anime/39489/Spriggan_ONA"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Spriggan_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%97%E3%83%AA%E3%82%AC%E3%83%B3_(%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

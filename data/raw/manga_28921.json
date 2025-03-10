@@ -1,0 +1,121 @@
+{
+    "mal_id": 28921,
+    "url": "https://myanimelist.net/manga/28921/Katekyo_Brap_dj_-_Kemomimi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/46395.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/46395t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/46395l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/46395.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/46395t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/46395l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Katekyo! Brap dj - Kemomimi"
+        },
+        {
+            "type": "Japanese",
+            "title": "ケモミミ！"
+        }
+    ],
+    "title": "Katekyo! Brap dj - Kemomimi",
+    "title_english": null,
+    "title_japanese": "ケモミミ！",
+    "title_synonyms": [],
+    "type": "Doujinshi",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2010"
+    },
+    "score": 7.54,
+    "scored": 7.54,
+    "scored_by": 1384,
+    "rank": null,
+    "popularity": 7618,
+    "members": 2712,
+    "favorites": 2,
+    "synopsis": "This doujinshi is about Kaede-san as a wolf and Rintarou-kun as a rabbit and their first meeting.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6862,
+            "type": "people",
+            "name": "Moegi, Yuu",
+            "url": "https://myanimelist.net/people/6862/Yuu_Moegi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 156,
+            "type": "manga",
+            "name": "drap",
+            "url": "https://myanimelist.net/manga/magazine/156/drap"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 11716,
+                    "type": "manga",
+                    "name": "Katekyo!",
+                    "url": "https://myanimelist.net/manga/11716/Katekyo"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,137 @@
+{
+    "mal_id": 138079,
+    "url": "https://myanimelist.net/manga/138079/Genshin_Comic_Anthology",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/247216.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/247216t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/247216l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/247216.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/247216t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/247216l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Genshin Comic Anthology"
+        },
+        {
+            "type": "Synonym",
+            "title": "Genshin Impact Comic Anthology"
+        },
+        {
+            "type": "Japanese",
+            "title": "原神 コミックアンソロジー"
+        }
+    ],
+    "title": "Genshin Comic Anthology",
+    "title_english": null,
+    "title_japanese": "原神 コミックアンソロジー",
+    "title_synonyms": [
+        "Genshin Impact Comic Anthology"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2021-06-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 6,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 24, 2021"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 606,
+    "rank": 3348,
+    "popularity": 7489,
+    "members": 2767,
+    "favorites": 87,
+    "synopsis": "A collection of stories set in the universe of miHoYo's Genshin Impact video game by various artists.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4395,
+            "type": "people",
+            "name": "Azuma, Kouji",
+            "url": "https://myanimelist.net/people/4395/Kouji_Azuma"
+        },
+        {
+            "mal_id": 33071,
+            "type": "people",
+            "name": "Hattori, Masaki",
+            "url": "https://myanimelist.net/people/33071/Masaki_Hattori"
+        },
+        {
+            "mal_id": 47025,
+            "type": "people",
+            "name": "Kurono, Yuu",
+            "url": "https://myanimelist.net/people/47025/Yuu_Kurono"
+        },
+        {
+            "mal_id": 47367,
+            "type": "people",
+            "name": "Kyo zip",
+            "url": "https://myanimelist.net/people/47367/Kyo_zip"
+        },
+        {
+            "mal_id": 56813,
+            "type": "people",
+            "name": "Takahara, Yu",
+            "url": "https://myanimelist.net/people/56813/Yu_Takahara"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 134253,
+                    "type": "manga",
+                    "name": "Genshin: Dengeki Comic Anthology",
+                    "url": "https://myanimelist.net/manga/134253/Genshin__Dengeki_Comic_Anthology"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/原神"
+        }
+    ]
+}

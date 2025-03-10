@@ -1,0 +1,130 @@
+{
+    "mal_id": 123777,
+    "url": "https://myanimelist.net/manga/123777/Boushokuki_no_Ken",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/229595.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/229595t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/229595l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/229595.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/229595t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/229595l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boushokuki no Ken"
+        },
+        {
+            "type": "Japanese",
+            "title": "暴食妃の剣"
+        },
+        {
+            "type": "English",
+            "title": "The Sword of Princess Gluttony"
+        }
+    ],
+    "title": "Boushokuki no Ken",
+    "title_english": "The Sword of Princess Gluttony",
+    "title_japanese": "暴食妃の剣",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-08-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 8,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 2, 2019 to ?"
+    },
+    "score": 6.58,
+    "scored": 6.58,
+    "scored_by": 845,
+    "rank": 15477,
+    "popularity": 5930,
+    "members": 3627,
+    "favorites": 3,
+    "synopsis": "After Dean, a third rate adventurer, got surrounded by demonic beasts in the demonic labyrinth, he fled to a place where he found the strongest demon who devours power: the demon-fed sword Belzera, born to the Gluttony Empress Belzebuth. After obtaining such unexpected power, he once again aims to become a first rate adventurer he looked up to, and delves deeper into the labyrinth. However...\n\n(Source: Overlap, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 41586,
+            "type": "people",
+            "name": "Necoco",
+            "url": "https://myanimelist.net/people/41586/Necoco"
+        },
+        {
+            "mal_id": 51208,
+            "type": "people",
+            "name": "Mochironsan",
+            "url": "https://myanimelist.net/people/51208/Mochironsan"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 340,
+            "type": "manga",
+            "name": "Comic Gardo",
+            "url": "https://myanimelist.net/manga/magazine/340/Comic_Gardo"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 137827,
+                    "type": "manga",
+                    "name": "Boushokuki no Ken",
+                    "url": "https://myanimelist.net/manga/137827/Boushokuki_no_Ken"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-gardo.com/episode/10834108156668674635"
+        }
+    ]
+}

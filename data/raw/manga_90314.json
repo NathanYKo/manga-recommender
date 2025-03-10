@@ -1,0 +1,131 @@
+{
+    "mal_id": 90314,
+    "url": "https://myanimelist.net/manga/90314/Kamiki_Kyoudai_Okotowari",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/165922.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/165922t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/165922l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/165922.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/165922t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/165922l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kamiki Kyoudai Okotowari"
+        },
+        {
+            "type": "Synonym",
+            "title": "Be careful with the Kamiki Brothers!"
+        },
+        {
+            "type": "Japanese",
+            "title": "神木兄弟おことわり"
+        },
+        {
+            "type": "English",
+            "title": "Beware the Kamiki Brothers!"
+        }
+    ],
+    "title": "Kamiki Kyoudai Okotowari",
+    "title_english": "Beware the Kamiki Brothers!",
+    "title_japanese": "神木兄弟おことわり",
+    "title_synonyms": [
+        "Be careful with the Kamiki Brothers!"
+    ],
+    "type": "Manga",
+    "chapters": 25,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-06-13T00:00:00+00:00",
+        "to": "2017-07-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 6,
+                "year": 2015
+            },
+            "to": {
+                "day": 13,
+                "month": 7,
+                "year": 2017
+            }
+        },
+        "string": "Jun 13, 2015 to Jul 13, 2017"
+    },
+    "score": 6.75,
+    "scored": 6.75,
+    "scored_by": 664,
+    "rank": 12969,
+    "popularity": 7939,
+    "members": 2583,
+    "favorites": 7,
+    "synopsis": "Iroha was raised by her single mother, but when her mother remarries, they move in with her step-father and his 3 sons. To Iroha, this will be the first time she's living with men. What will happen to Iroha's new life!?\n\n(Source: AOC Translations)",
+    "background": "Kamiki Kyoudai Okotowari was published digitally in English as Beware the Kamiki Brothers! by Kodansha Comics USA from May 1, 2018 to October 30, 2018.",
+    "authors": [
+        {
+            "mal_id": 22315,
+            "type": "people",
+            "name": "Onda, Yuji",
+            "url": "https://myanimelist.net/people/22315/Yuji_Onda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 113391,
+                    "type": "manga",
+                    "name": "Rui wa Koi wo Yobu",
+                    "url": "https://myanimelist.net/manga/113391/Rui_wa_Koi_wo_Yobu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/beware-the-kamiki-brothers/"
+        }
+    ]
+}

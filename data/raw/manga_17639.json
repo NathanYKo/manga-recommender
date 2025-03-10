@@ -1,0 +1,125 @@
+{
+    "mal_id": 17639,
+    "url": "https://myanimelist.net/manga/17639/Castle_Mango",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/42050.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/42050t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/42050l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/42050.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/42050t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/42050l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Castle Mango"
+        },
+        {
+            "type": "Japanese",
+            "title": "キャッスルマンゴー"
+        },
+        {
+            "type": "English",
+            "title": "Castle Mango"
+        }
+    ],
+    "title": "Castle Mango",
+    "title_english": "Castle Mango",
+    "title_japanese": "キャッスルマンゴー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-04-01T00:00:00+00:00",
+        "to": "2012-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            }
+        },
+        "string": "Apr 2009 to 2012"
+    },
+    "score": 7.91,
+    "scored": 7.91,
+    "scored_by": 2727,
+    "rank": null,
+    "popularity": 4271,
+    "members": 5237,
+    "favorites": 51,
+    "synopsis": "Yorozu lives at Castle Mango, a \"love hotel\" where couples pay for a few hours to themselves. But his quiet life is violated when Togame arrives to shoot an adult film! Soon Yorozu's being \"mistaken\" for an actor, having his pants suddenly removed and watching his little brother get hit on. Togame eventually agrees to stay away from Yorozu's brother, but there's a catch - and it's not something Yorozu's going to like!\n\n(Source: Juné)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3002,
+            "type": "people",
+            "name": "Konohara, Narise",
+            "url": "https://myanimelist.net/people/3002/Narise_Konohara"
+        },
+        {
+            "mal_id": 7396,
+            "type": "people",
+            "name": "Ogura, Muku",
+            "url": "https://myanimelist.net/people/7396/Muku_Ogura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 460,
+            "type": "manga",
+            "name": "Cab",
+            "url": "https://myanimelist.net/manga/magazine/460/Cab"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 87172,
+                    "type": "manga",
+                    "name": "River's End",
+                    "url": "https://myanimelist.net/manga/87172/Rivers_End"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

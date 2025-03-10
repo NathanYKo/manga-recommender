@@ -1,0 +1,167 @@
+{
+    "mal_id": 597,
+    "url": "https://myanimelist.net/manga/597/Negima_Neo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/156574.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/156574t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/156574l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/156574.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/156574t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/156574l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Negima!? Neo"
+        },
+        {
+            "type": "Japanese",
+            "title": "ネギま!?neo"
+        },
+        {
+            "type": "English",
+            "title": "Negima!? Neo: Magister Negi Magi"
+        }
+    ],
+    "title": "Negima!? Neo",
+    "title_english": "Negima!? Neo: Magister Negi Magi",
+    "title_japanese": "ネギま!?neo",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 35,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-09-26T00:00:00+00:00",
+        "to": "2009-08-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 9,
+                "year": 2006
+            },
+            "to": {
+                "day": 20,
+                "month": 8,
+                "year": 2009
+            }
+        },
+        "string": "Sep 26, 2006 to Aug 20, 2009"
+    },
+    "score": 6.93,
+    "scored": 6.93,
+    "scored_by": 2116,
+    "rank": 10072,
+    "popularity": 4003,
+    "members": 5612,
+    "favorites": 99,
+    "synopsis": "Welsh magister magi in training, Negi Springfield (ten), is sent to complete his magical training in Japan. Although he's an English teacher in an all girls academy, his class is quite extraordinary for normal school girls... middle school girls, 32 of them, average age 14!",
+    "background": "Negima!? Neo was published in English as Negima!? Neo: Magister Negi Magi by Del Rey from March 24, 2009 to March 22, 2011.",
+    "authors": [
+        {
+            "mal_id": 1883,
+            "type": "people",
+            "name": "Akamatsu, Ken",
+            "url": "https://myanimelist.net/people/1883/Ken_Akamatsu"
+        },
+        {
+            "mal_id": 2256,
+            "type": "people",
+            "name": "Fujima, Takuya",
+            "url": "https://myanimelist.net/people/2256/Takuya_Fujima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 128,
+            "type": "manga",
+            "name": "Magazine Special",
+            "url": "https://myanimelist.net/manga/magazine/128/Magazine_Special"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1546,
+                    "type": "anime",
+                    "name": "Negima!?",
+                    "url": "https://myanimelist.net/anime/1546/Negima"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 15,
+                    "type": "manga",
+                    "name": "Mahou Sensei Negima!",
+                    "url": "https://myanimelist.net/manga/15/Mahou_Sensei_Negima"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AE%E3%81%BE!%3F"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "mal_id": 103710,
+    "url": "https://myanimelist.net/manga/103710/Sounan_desu_ka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/198933.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/198933t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/198933l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/198933.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/198933t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/198933l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sounan desu ka?"
+        },
+        {
+            "type": "Japanese",
+            "title": "ソウナンですか？"
+        },
+        {
+            "type": "English",
+            "title": "Are You Lost?"
+        }
+    ],
+    "title": "Sounan desu ka?",
+    "title_english": "Are You Lost?",
+    "title_japanese": "ソウナンですか？",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 128,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-01-07T00:00:00+00:00",
+        "to": "2022-03-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 7,
+                "month": 3,
+                "year": 2022
+            }
+        },
+        "string": "Jan 7, 2017 to Mar 7, 2022"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 1761,
+    "rank": 3656,
+    "popularity": 3235,
+    "members": 6944,
+    "favorites": 79,
+    "synopsis": "Because of a plane crash... starting today, we're spending the springtime of our lives on a desert island!! There's nothing here, so we have to make everything!! And eat everything!! (Ugh!) Check out our high school girl survival story of courage and knowledge. We're actually doing pretty well!\n\n(Source: Kodansha USA)",
+    "background": "Sounan desu ka? was published digitally in English as Are You Lost? by Kodansha Comics USA from October 2, 2018, to October 18, 2022.",
+    "authors": [
+        {
+            "mal_id": 25263,
+            "type": "people",
+            "name": "Sagara, Riri",
+            "url": "https://myanimelist.net/people/25263/Riri_Sagara"
+        },
+        {
+            "mal_id": 26195,
+            "type": "people",
+            "name": "Okamoto, Kentarou",
+            "url": "https://myanimelist.net/people/26195/Kentarou_Okamoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 77,
+            "type": "manga",
+            "name": "Survival",
+            "url": "https://myanimelist.net/manga/genre/77/Survival"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 39456,
+                    "type": "anime",
+                    "name": "Sounan desu ka?",
+                    "url": "https://myanimelist.net/anime/39456/Sounan_desu_ka"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/are-you-lost/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/sounandesuka"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Are_You_Lost%3F"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%A6%E3%83%8A%E3%83%B3%E3%81%A7%E3%81%99%E3%81%8B%3F"
+        }
+    ]
+}

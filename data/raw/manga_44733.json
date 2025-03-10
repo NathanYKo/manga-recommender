@@ -1,0 +1,170 @@
+{
+    "mal_id": 44733,
+    "url": "https://myanimelist.net/manga/44733/Sword_Art_Online__Fairy_Dance",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/137905.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/137905t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/137905l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/137905.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/137905t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/137905l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sword Art Online: Fairy Dance"
+        },
+        {
+            "type": "Japanese",
+            "title": "ソードアート・オンライン フェアリィ・ダンス"
+        },
+        {
+            "type": "English",
+            "title": "Sword Art Online: Fairy Dance"
+        }
+    ],
+    "title": "Sword Art Online: Fairy Dance",
+    "title_english": "Sword Art Online: Fairy Dance",
+    "title_japanese": "ソードアート・オンライン フェアリィ・ダンス",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-04-10T00:00:00+00:00",
+        "to": "2014-04-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 10,
+                "month": 4,
+                "year": 2014
+            }
+        },
+        "string": "Apr 10, 2012 to Apr 10, 2014"
+    },
+    "score": 7.05,
+    "scored": 7.05,
+    "scored_by": 4274,
+    "rank": 8222,
+    "popularity": 2179,
+    "members": 9894,
+    "favorites": 99,
+    "synopsis": "Kazuto Kirigaya has survived the death game of Aincrad masterminded by Akihiko Kayaba, programmer of Sword Art Online, and made it back to the real world. Unfortunately, the same cannot be said for Asuna Yuuki (aka Asuna the Flash), the girl Kirito fell in love with in the game world and who has yet to awaken from her seemingly endless slumber. As his sister, Suguha, sadly looks on, Kazuto continues to visit Asuna in the hospital in the hope of finding answers... But one day, the answers suddenly find him in the form of a man who claims to be Asuna's fiancé?! With him, the man brings an in-game screenshot of someone who looks a lot like Asuna being held captive! Now Kirito must dive into an all-new VRMMORPG, ALfheim Online, to bring Asuna home!!\n\n(Source: Yen Press)",
+    "background": "Sword Art Online: Fairy Dance was published in English by Yen Press from June 24, 2014 to March 24, 2015.",
+    "authors": [
+        {
+            "mal_id": 11466,
+            "type": "people",
+            "name": "Kawahara, Reki",
+            "url": "https://myanimelist.net/people/11466/Reki_Kawahara"
+        },
+        {
+            "mal_id": 19501,
+            "type": "people",
+            "name": "Hazuki, Tsubasa",
+            "url": "https://myanimelist.net/people/19501/Tsubasa_Hazuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 140,
+            "type": "manga",
+            "name": "Dengeki Bunko Magazine",
+            "url": "https://myanimelist.net/manga/magazine/140/Dengeki_Bunko_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 23718,
+                    "type": "manga",
+                    "name": "Sword Art Online: Aincrad",
+                    "url": "https://myanimelist.net/manga/23718/Sword_Art_Online__Aincrad"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 75099,
+                    "type": "manga",
+                    "name": "Sword Art Online: Phantom Bullet",
+                    "url": "https://myanimelist.net/manga/75099/Sword_Art_Online__Phantom_Bullet"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 21479,
+                    "type": "manga",
+                    "name": "Sword Art Online",
+                    "url": "https://myanimelist.net/manga/21479/Sword_Art_Online"
+                },
+                {
+                    "mal_id": 11757,
+                    "type": "anime",
+                    "name": "Sword Art Online",
+                    "url": "https://myanimelist.net/anime/11757/Sword_Art_Online"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3"
+        }
+    ]
+}

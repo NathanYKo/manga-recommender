@@ -1,0 +1,152 @@
+{
+    "mal_id": 148617,
+    "url": "https://myanimelist.net/manga/148617/Book_Eater",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/263832.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/263832t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/263832l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/263832.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/263832t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/263832l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Book Eater"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Book Eating Magician"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chaek Meongneun Mabeopsa"
+        },
+        {
+            "type": "Japanese",
+            "title": "책 먹는 마법사"
+        },
+        {
+            "type": "English",
+            "title": "Book Eater"
+        }
+    ],
+    "title": "Book Eater",
+    "title_english": "Book Eater",
+    "title_japanese": "책 먹는 마법사",
+    "title_synonyms": [
+        "The Book Eating Magician",
+        "Chaek Meongneun Mabeopsa"
+    ],
+    "type": "Manhwa",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2021-07-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 7,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 23, 2021 to ?"
+    },
+    "score": 7.09,
+    "scored": 7.09,
+    "scored_by": 1450,
+    "rank": 7616,
+    "popularity": 4285,
+    "members": 5215,
+    "favorites": 15,
+    "synopsis": "Theodore Miller knows everything about magic... except how to use it. Just as he's about to flunk out of Berghen Academy, Theo chances upon a grimoire named \"Gluttony\" that manifests as a magic-hungry creature on his hand. The more magical texts and artifacts Gluttony consumes, the more powerful Theo becomes, quickly making him the academy's star student. Sure, he now lives under constant threat of being eaten by an insatiable parasite, but Theo is finally on his way to becoming a real wizard.\n\n(Source: Tapas Media)",
+    "background": "Book Eater has been published digitally in English by Tapas Media since January 15, 2022.",
+    "authors": [
+        {
+            "mal_id": 59328,
+            "type": "people",
+            "name": "Mackenro",
+            "url": "https://myanimelist.net/people/59328/Mackenro"
+        },
+        {
+            "mal_id": 59329,
+            "type": "people",
+            "name": "Crew Eastwood",
+            "url": "https://myanimelist.net/people/59329/Crew_Eastwood"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1439,
+            "type": "manga",
+            "name": "KakaoPage",
+            "url": "https://myanimelist.net/manga/magazine/1439/KakaoPage"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 156808,
+                    "type": "manga",
+                    "name": "Book Eater",
+                    "url": "https://myanimelist.net/manga/156808/Book_Eater"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://page.kakao.com/home?seriesId=57464612"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EC%B1%85%20%EB%A8%B9%EB%8A%94%20%EB%A7%88%EB%B2%95%EC%82%AC#s-8.2"
+        }
+    ]
+}

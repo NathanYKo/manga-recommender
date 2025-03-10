@@ -1,0 +1,130 @@
+{
+    "mal_id": 69747,
+    "url": "https://myanimelist.net/manga/69747/Noragami__Awase_Kagami",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/123163.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/123163t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/123163l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/123163.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/123163t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/123163l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Noragami: Awase Kagami"
+        },
+        {
+            "type": "Synonym",
+            "title": "Noragami - Clash of The Gods of Calamity"
+        },
+        {
+            "type": "Synonym",
+            "title": "Noragami - Clash"
+        },
+        {
+            "type": "Synonym",
+            "title": "O Ye Gods of Calamity"
+        },
+        {
+            "type": "Synonym",
+            "title": "Noragami Special Comic"
+        },
+        {
+            "type": "Japanese",
+            "title": "ノラガミ アワセ禍神"
+        }
+    ],
+    "title": "Noragami: Awase Kagami",
+    "title_english": null,
+    "title_japanese": "ノラガミ アワセ禍神",
+    "title_synonyms": [
+        "Noragami - Clash of The Gods of Calamity",
+        "Noragami - Clash",
+        "O Ye Gods of Calamity",
+        "Noragami Special Comic"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-03-26T00:00:00+00:00",
+        "to": "2014-04-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 3,
+                "year": 2014
+            },
+            "to": {
+                "day": 9,
+                "month": 4,
+                "year": 2014
+            }
+        },
+        "string": "Mar 26, 2014 to Apr 9, 2014"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 1800,
+    "rank": 4269,
+    "popularity": 3483,
+    "members": 6417,
+    "favorites": 81,
+    "synopsis": "Noragami Special, tells the story of the encounter between Yato and Magatsukami Rabou.\n\n(Source: Batoto)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6644,
+            "type": "people",
+            "name": "Adachitoka",
+            "url": "https://myanimelist.net/people/6644/Adachitoka"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 24692,
+                    "type": "manga",
+                    "name": "Noragami",
+                    "url": "https://myanimelist.net/manga/24692/Noragami"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

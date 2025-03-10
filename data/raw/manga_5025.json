@@ -1,0 +1,112 @@
+{
+    "mal_id": 5025,
+    "url": "https://myanimelist.net/manga/5025/Sugarmilk",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6251.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6251t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6251l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6251.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6251t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6251l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sugarmilk"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sugar Milk"
+        },
+        {
+            "type": "Japanese",
+            "title": "シュガーミルク"
+        },
+        {
+            "type": "English",
+            "title": "Sugarmilk"
+        }
+    ],
+    "title": "Sugarmilk",
+    "title_english": "Sugarmilk",
+    "title_japanese": "シュガーミルク",
+    "title_synonyms": [
+        "Sugar Milk"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 2007"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 1492,
+    "rank": null,
+    "popularity": 7472,
+    "members": 2775,
+    "favorites": 8,
+    "synopsis": "A series of mostly shounen-ai one-shots.\n(1) What's Your Name?\n(2) Fifteen\n(3) The Lingering Scent of a Rainbow\n(6) Waiting for Winter\n\nTwo stories and a special focusing on childhood friends Sho and Taichi:\n(4) Milk\n(5) Sugar\n(7) New Year's Eve\n Taichi always thought they would stay together forever, until Sho decides to up and move away without telling him about it. They run into each other again when Taichi's in university and they end up working at the same diner. This time, Taichi is determined to make it work out. Even if Sho's bisexual. Moral of the story: alcohol can only make things better. (Source: Vices &amp; Devices)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4443,
+            "type": "people",
+            "name": "Jaryuu, Dokuro",
+            "url": "https://myanimelist.net/people/4443/Dokuro_Jaryuu"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 12203,
+                    "type": "manga",
+                    "name": "Call My Name",
+                    "url": "https://myanimelist.net/manga/12203/Call_My_Name"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

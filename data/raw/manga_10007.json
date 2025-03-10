@@ -1,0 +1,142 @@
+{
+    "mal_id": 10007,
+    "url": "https://myanimelist.net/manga/10007/Shissou_Nikki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/13392.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/13392t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/13392l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/13392.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/13392t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/13392l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shissou Nikki"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Great Escape of the Comic Book Writer"
+        },
+        {
+            "type": "Japanese",
+            "title": "失踪日記"
+        },
+        {
+            "type": "English",
+            "title": "Disappearance Diary"
+        }
+    ],
+    "title": "Shissou Nikki",
+    "title_english": "Disappearance Diary",
+    "title_japanese": "失踪日記",
+    "title_synonyms": [
+        "The Great Escape of the Comic Book Writer"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-03-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 3,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 2005"
+    },
+    "score": 7.47,
+    "scored": 7.47,
+    "scored_by": 1106,
+    "rank": 3185,
+    "popularity": 6476,
+    "members": 3287,
+    "favorites": 46,
+    "synopsis": "Hideo Azuma was born 6th February 1950 in Hokkaido. He moved to Tokyo where he was assistant to Rentaro Itai and debuted in manga in 1969. Throughout the 70´s and 80´s he produced a large body of work in many genres including the comedies FUTARI TO GONIN (Two People and Five) and YAKEKUSO TENSHI (Desperate Angel), the Science Fiction Seiun (Japanese Hugo) Award winning FUJOURI NIKKI (Absurd Diary) and is also known as the father of Lolicon manga. But the pressures told and, in 1989, he ran away from his responsibilities and went homeless. After this experience and his eventual return to normal life, he then repeated the cycle in 1992, this time becoming a gas pipe layer in another town. Later, in 1998, his alcoholism was so bad that he was forced into rehab. This book is his expression of those three periods of his life told, not in a deep or depressed way but, as befits his nature, in a buoyant and cheerful cartoon art and is a welcome addition to the \"personal manga\" genre. In 2005, SHISSOU NIKKI (Disappearance Diary) was awarded the Grand Prize from the 9th Japan Media Arts Festival Manga Division and the Excellence Price at the 34th Japan Cartoonists Association Awards.\n\n(Source: ANN)",
+    "background": "Shissou Nikki was published in English as Disappearance Diary by FanFare on October 1, 2008. It has also been published in French by Kana, in Spanish by Ponent Mon, and in Polish by Hanami.",
+    "authors": [
+        {
+            "mal_id": 5722,
+            "type": "people",
+            "name": "Azuma, Hideo",
+            "url": "https://myanimelist.net/people/5722/Hideo_Azuma"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 68,
+            "type": "manga",
+            "name": "Memoir",
+            "url": "https://myanimelist.net/manga/genre/68/Memoir"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 39773,
+                    "type": "manga",
+                    "name": "Utsuutsu Hideo Nikki",
+                    "url": "https://myanimelist.net/manga/39773/Utsuutsu_Hideo_Nikki"
+                },
+                {
+                    "mal_id": 68787,
+                    "type": "manga",
+                    "name": "Shissou Nikki 2: Al-chuu Byoutou",
+                    "url": "https://myanimelist.net/manga/68787/Shissou_Nikki_2__Al-chuu_Byoutou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Shissou_Nikki"
+        }
+    ]
+}

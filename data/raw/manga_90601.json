@@ -1,0 +1,150 @@
+{
+    "mal_id": 90601,
+    "url": "https://myanimelist.net/manga/90601/Corpse_Party",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166018.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166018t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166018l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166018.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166018t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166018l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Corpse Party"
+        },
+        {
+            "type": "Japanese",
+            "title": "コープスパーティー"
+        }
+    ],
+    "title": "Corpse Party",
+    "title_english": null,
+    "title_japanese": "コープスパーティー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-05-22T00:00:00+00:00",
+        "to": "2015-12-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 5,
+                "year": 2015
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "May 22, 2015 to Dec 22, 2015"
+    },
+    "score": 6.93,
+    "scored": 6.93,
+    "scored_by": 1600,
+    "rank": 10056,
+    "popularity": 3665,
+    "members": 6150,
+    "favorites": 109,
+    "synopsis": "Corpse Party revolves around a group of students from Kisaragi Academy and their teacher. To cheer up one of their classmates who's going to transfer schools, they perform a charm called Sachiko Ever After so they can remain friends forever. However, something goes wrong and they end up trapped in Heavenly Host Elementary School. Now, they have to find the way out of the cursed school.\n\n(Source: Corpse Party Wikia)",
+    "background": "Corpse Party is based on the live-action film adaptation of the video game series of the same name.",
+    "authors": [
+        {
+            "mal_id": 9352,
+            "type": "people",
+            "name": "Kansho",
+            "url": "https://myanimelist.net/people/9352/Kansho"
+        },
+        {
+            "mal_id": 15405,
+            "type": "people",
+            "name": "CHIHIRO",
+            "url": "https://myanimelist.net/people/15405/CHIHIRO"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 412,
+            "type": "manga",
+            "name": "Gangan Joker",
+            "url": "https://myanimelist.net/manga/magazine/412/Gangan_Joker"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 19094,
+                    "type": "manga",
+                    "name": "Corpse Party: Blood Covered",
+                    "url": "https://myanimelist.net/manga/19094/Corpse_Party__Blood_Covered"
+                },
+                {
+                    "mal_id": 26206,
+                    "type": "manga",
+                    "name": "Corpse Party: Musume",
+                    "url": "https://myanimelist.net/manga/26206/Corpse_Party__Musume"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.jp.square-enix.com/magazine/joker/series/corpseparty/index.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%97%E3%82%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "mal_id": 5422,
+    "url": "https://myanimelist.net/manga/5422/Yasha",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/156695.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/156695t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/156695l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/156695.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/156695t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/156695l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yasha"
+        },
+        {
+            "type": "Japanese",
+            "title": "YASHA-夜叉-"
+        }
+    ],
+    "title": "Yasha",
+    "title_english": null,
+    "title_japanese": "YASHA-夜叉-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 72,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-06-13T00:00:00+00:00",
+        "to": "2002-06-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 6,
+                "year": 1996
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2002
+            }
+        },
+        "string": "Jun 13, 1996 to Jun 28, 2002"
+    },
+    "score": 7.56,
+    "scored": 7.56,
+    "scored_by": 542,
+    "rank": 2561,
+    "popularity": 7560,
+    "members": 2741,
+    "favorites": 44,
+    "synopsis": "Arisue Sei is a youth who lives alone with his mother on an outlying island of Okinawa. Though his mother is quiet and fears being conspicuous, they were living happily. But on a certain day, that tranquility is suddenly destroyed. Sei's mother is killed by a group of mysterious men, and he is taken captive. What kind of secret does he have!?",
+    "background": "In 2001, Yasha won the 47th Shogakukan Manga Award in the shoujo category.",
+    "authors": [
+        {
+            "mal_id": 2082,
+            "type": "people",
+            "name": "Yoshida, Akimi",
+            "url": "https://myanimelist.net/people/2082/Akimi_Yoshida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 20633,
+                    "type": "manga",
+                    "name": "Eve no Nemuri",
+                    "url": "https://myanimelist.net/manga/20633/Eve_no_Nemuri"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/YASHA-%E5%A4%9C%E5%8F%89-"
+        }
+    ]
+}

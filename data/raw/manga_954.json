@@ -1,0 +1,124 @@
+{
+    "mal_id": 954,
+    "url": "https://myanimelist.net/manga/954/Murder_Princess",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/169927.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/169927t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/169927l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/169927.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/169927t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/169927l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Murder Princess"
+        },
+        {
+            "type": "Synonym",
+            "title": "MadaPur"
+        },
+        {
+            "type": "Japanese",
+            "title": "MURDER PRINCESS"
+        },
+        {
+            "type": "English",
+            "title": "Murder Princess"
+        }
+    ],
+    "title": "Murder Princess",
+    "title_english": "Murder Princess",
+    "title_japanese": "MURDER PRINCESS",
+    "title_synonyms": [
+        "MadaPur"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-09-27T00:00:00+00:00",
+        "to": "2007-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 9,
+                "year": 2005
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "Sep 27, 2005 to 2007"
+    },
+    "score": 6.91,
+    "scored": 6.91,
+    "scored_by": 1614,
+    "rank": 10323,
+    "popularity": 5353,
+    "members": 4066,
+    "favorites": 41,
+    "synopsis": "Princess Alita must protect her kingdom from a coup d'etat. But on her way to get help, a magical mishap trapped her inside the body of a bounty hunter named Falis. Now Alita must rule disguised as a servant as the battle-savvy Falis sits on the throne in her body.\n\nAnd thus the story about the strongest and most violent princess in the history of the kingdom begins.\n\n(Source: Broccoli Books)",
+    "background": "Murder Princess was published in English by Broccoli Books on April 25, 2004 and November 10, 2007 respectively.",
+    "authors": [
+        {
+            "mal_id": 2192,
+            "type": "people",
+            "name": "Inui, Sekihiko",
+            "url": "https://myanimelist.net/people/2192/Sekihiko_Inui"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Comic Dengeki Teioh",
+            "url": "https://myanimelist.net/manga/magazine/63/Comic_Dengeki_Teioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1696,
+                    "type": "anime",
+                    "name": "Murder Princess",
+                    "url": "https://myanimelist.net/anime/1696/Murder_Princess"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/MURDER_PRINCESS"
+        }
+    ]
+}

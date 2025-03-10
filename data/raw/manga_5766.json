@@ -1,0 +1,142 @@
+{
+    "mal_id": 5766,
+    "url": "https://myanimelist.net/manga/5766/Zenbu_Hajimete",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/17836.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/17836t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/17836l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/17836.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/17836t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/17836l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zenbu, Hajimete."
+        },
+        {
+            "type": "Synonym",
+            "title": "A New Beginning"
+        },
+        {
+            "type": "Synonym",
+            "title": "First Part."
+        },
+        {
+            "type": "Synonym",
+            "title": "Sakura Yuki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Baby Magic"
+        },
+        {
+            "type": "Japanese",
+            "title": "ぜんぶ、はじめて。"
+        },
+        {
+            "type": "English",
+            "title": "A New Beginning, First Part."
+        }
+    ],
+    "title": "Zenbu, Hajimete.",
+    "title_english": "A New Beginning, First Part.",
+    "title_japanese": "ぜんぶ、はじめて。",
+    "title_synonyms": [
+        "A New Beginning",
+        "First Part.",
+        "Sakura Yuki",
+        "Baby Magic"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2005"
+    },
+    "score": 7,
+    "scored": 7,
+    "scored_by": 1362,
+    "rank": 8964,
+    "popularity": 7667,
+    "members": 2690,
+    "favorites": 5,
+    "synopsis": "Because of a job transfer, Ookawa transfers to Shirakiran Academy for girls. At this Academy she runs into a university student who used to live in her neighborhood 4 years ago, and is now a teacher at her school. A sweet teacher-student love story ensues.\n\n\nContains two extra stories:\n\n• Sakura Yuki\nMaria attends an all girl's school, but she acts like a tomboy. For example, she climbs trees and is quite energetic. One day, she falls from a cherry blossom tree only to be caught by a boy. When she fell, their lips touched. Is this love?\n\n• Baby Magic\nOgawa Chinatsu first received a confession from Wada Shouhei, her little brother's friend, when she was in sixth grade. Although two years younger, it hasn't stopped Shouhei from confessing. Now, both of them are in high school, and he continues to confess using a cotton ear swab as his magic wand. \n\n(Source: Manga-updates)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3646,
+            "type": "people",
+            "name": "Mitsuki, Kako",
+            "url": "https://myanimelist.net/people/3646/Kako_Mitsuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 11683,
+                    "type": "manga",
+                    "name": "Tsuki no Waltz",
+                    "url": "https://myanimelist.net/manga/11683/Tsuki_no_Waltz"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

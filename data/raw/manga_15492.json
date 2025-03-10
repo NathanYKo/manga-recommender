@@ -1,0 +1,121 @@
+{
+    "mal_id": 15492,
+    "url": "https://myanimelist.net/manga/15492/Baby★I_Love_You",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/22533.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/22533t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/22533l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/22533.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/22533t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/22533l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Baby★I Love You"
+        },
+        {
+            "type": "Synonym",
+            "title": "Baby I Love You"
+        },
+        {
+            "type": "Japanese",
+            "title": "ベイビィ★アイラブユー"
+        }
+    ],
+    "title": "Baby★I Love You",
+    "title_english": null,
+    "title_japanese": "ベイビィ★アイラブユー",
+    "title_synonyms": [
+        "Baby I Love You"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": "2009-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            }
+        },
+        "string": "2008 to 2009"
+    },
+    "score": 6.9,
+    "scored": 6.9,
+    "scored_by": 1465,
+    "rank": null,
+    "popularity": 6455,
+    "members": 3299,
+    "favorites": 3,
+    "synopsis": "After sensing Hirasaka's hidden rejection and anger, the younger brother Akio sets his sights on making the rejected coworker Akio's \"bride.\"  Just wait until Papa finds out!\n\n(Source: shinkeikaku)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2959,
+            "type": "people",
+            "name": "Mishima, Kazuhiko",
+            "url": "https://myanimelist.net/people/2959/Kazuhiko_Mishima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 152,
+            "type": "manga",
+            "name": "CIEL TrèsTrès",
+            "url": "https://myanimelist.net/manga/magazine/152/CIEL_Tr%C3%A8sTr%C3%A8s"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 10875,
+                    "type": "manga",
+                    "name": "Papa★I Love You",
+                    "url": "https://myanimelist.net/manga/10875/Papa★I_Love_You"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

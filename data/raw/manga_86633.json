@@ -1,0 +1,144 @@
+{
+    "mal_id": 86633,
+    "url": "https://myanimelist.net/manga/86633/Danchigai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/189054.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/189054t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/189054l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/189054.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/189054t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/189054l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Danchigai"
+        },
+        {
+            "type": "Japanese",
+            "title": "だんちがい"
+        }
+    ],
+    "title": "Danchigai",
+    "title_english": null,
+    "title_japanese": "だんちがい",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 126,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-06-22T00:00:00+00:00",
+        "to": "2021-09-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 6,
+                "year": 2011
+            },
+            "to": {
+                "day": 22,
+                "month": 9,
+                "year": 2021
+            }
+        },
+        "string": "Jun 22, 2011 to Sep 22, 2021"
+    },
+    "score": 7.62,
+    "scored": 7.62,
+    "scored_by": 1822,
+    "rank": 2174,
+    "popularity": 3934,
+    "members": 5706,
+    "favorites": 103,
+    "synopsis": "The story revolves around Haruki and his four sisters: Mutsuki, Yayoi, Uzuki, and Satsuki. While their life may seem monotonous—aside from the fact that Haruki's sisters don't give him a single opportunity to rest, lecturing him about every perceived mistake and playing tricks on him—Haruki still likes his life.\n\n(Source: MAL News)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 16265,
+            "type": "people",
+            "name": "Yoneda, Kazusa",
+            "url": "https://myanimelist.net/people/16265/Kazusa_Yoneda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1033,
+            "type": "manga",
+            "name": "Manga 4-koma Palette",
+            "url": "https://myanimelist.net/manga/magazine/1033/Manga_4-koma_Palette"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 30127,
+                    "type": "anime",
+                    "name": "Danchigai",
+                    "url": "https://myanimelist.net/anime/30127/Danchigai"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 95118,
+                    "type": "manga",
+                    "name": "Shimaichigai",
+                    "url": "https://myanimelist.net/manga/95118/Shimaichigai"
+                },
+                {
+                    "mal_id": 111261,
+                    "type": "manga",
+                    "name": "Akuyaku Ouji wa Koi ga Dekinai",
+                    "url": "https://myanimelist.net/manga/111261/Akuyaku_Ouji_wa_Koi_ga_Dekinai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%A0%E3%82%93%E3%81%A1%E3%81%8C%E3%81%84"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "mal_id": 138343,
+    "url": "https://myanimelist.net/manga/138343/Itou_Junji_Kenkyuu__Horror_no_Shinen_kara",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/247578.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/247578t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/247578l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/247578.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/247578t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/247578l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Itou Junji Kenkyuu: Horror no Shinen kara"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kyoufu no Juusou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Layers of Fear"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yon & Muu no Yuurei Bukken"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kubitsuri Kikyuu Sairai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hanging Balloons Second Coming"
+        },
+        {
+            "type": "Synonym",
+            "title": "Masei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Demon's Voice"
+        },
+        {
+            "type": "Japanese",
+            "title": "伊藤潤二研究 ホラーの深淵から"
+        }
+    ],
+    "title": "Itou Junji Kenkyuu: Horror no Shinen kara",
+    "title_english": null,
+    "title_japanese": "伊藤潤二研究 ホラーの深淵から",
+    "title_synonyms": [
+        "Kyoufu no Juusou",
+        "Layers of Fear",
+        "Yon & Muu no Yuurei Bukken",
+        "Kubitsuri Kikyuu Sairai",
+        "Hanging Balloons Second Coming",
+        "Masei",
+        "Demon's Voice"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-05-10T00:00:00+00:00",
+        "to": "2017-02-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 5,
+                "year": 2004
+            },
+            "to": {
+                "day": 13,
+                "month": 2,
+                "year": 2017
+            }
+        },
+        "string": "May 10, 2004 to Feb 13, 2017"
+    },
+    "score": 7.06,
+    "scored": 7.06,
+    "scored_by": 4710,
+    "rank": 8094,
+    "popularity": 2372,
+    "members": 9232,
+    "favorites": 71,
+    "synopsis": "A book celebrating Junji Ito's 30th anniversary. Includes interviews, articles, color illustrations and the following chapters:\n\n1. Kyoufu no Juusou\n2. Yon &amp; Muu no Yuurei Bukken\n3. Kubitsuri Kikyuu Sairai\n4. Masei",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2410,
+            "type": "people",
+            "name": "Itou, Junji",
+            "url": "https://myanimelist.net/people/2410/Junji_Itou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1526,
+            "type": "manga",
+            "name": "Nemuki+",
+            "url": "https://myanimelist.net/manga/magazine/1526/Nemuki_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 52031,
+                    "type": "anime",
+                    "name": "Itou Junji: Maniac",
+                    "url": "https://myanimelist.net/anime/52031/Itou_Junji__Maniac"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 17192,
+                    "type": "manga",
+                    "name": "Itou Junji no Neko Nikki: Yon & Muu",
+                    "url": "https://myanimelist.net/manga/17192/Itou_Junji_no_Neko_Nikki__Yon___Muu"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

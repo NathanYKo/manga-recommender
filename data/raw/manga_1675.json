@@ -1,0 +1,168 @@
+{
+    "mal_id": 1675,
+    "url": "https://myanimelist.net/manga/1675/Tantei_Gakuen_Q",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/11113.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/11113t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/11113l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/11113.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/11113t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/11113l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tantei Gakuen Q"
+        },
+        {
+            "type": "Synonym",
+            "title": "Detective Academy Q"
+        },
+        {
+            "type": "Synonym",
+            "title": "Detective School Q"
+        },
+        {
+            "type": "Japanese",
+            "title": "探偵学園Q"
+        }
+    ],
+    "title": "Tantei Gakuen Q",
+    "title_english": null,
+    "title_japanese": "探偵学園Q",
+    "title_synonyms": [
+        "Detective Academy Q",
+        "Detective School Q"
+    ],
+    "type": "Manga",
+    "chapters": 172,
+    "volumes": 22,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-05-23T00:00:00+00:00",
+        "to": "2005-07-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 5,
+                "year": 2001
+            },
+            "to": {
+                "day": 20,
+                "month": 7,
+                "year": 2005
+            }
+        },
+        "string": "May 23, 2001 to Jul 20, 2005"
+    },
+    "score": 7.75,
+    "scored": 7.75,
+    "scored_by": 2075,
+    "rank": 1523,
+    "popularity": 4463,
+    "members": 4992,
+    "favorites": 100,
+    "synopsis": "Detective School Q is the story of a group of young students from Class Q of Dan Detective School (DDS), a prestigious and renowned detective academy founded by Morihiko Dan, the most famous detective in Japan, and the adventures and mysteries they unfold and solve together. They eventually work against Pluto, a mysterious organization which creates almost fool-proof plans that only a handful of detectives can solve.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1886,
+            "type": "people",
+            "name": "Kibayashi, Shin",
+            "url": "https://myanimelist.net/people/1886/Shin_Kibayashi"
+        },
+        {
+            "mal_id": 2368,
+            "type": "people",
+            "name": "Satou, Fumiya",
+            "url": "https://myanimelist.net/people/2368/Fumiya_Satou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 115450,
+                    "type": "manga",
+                    "name": "Tantei Gakuen Q Premium",
+                    "url": "https://myanimelist.net/manga/115450/Tantei_Gakuen_Q_Premium"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 407,
+                    "type": "anime",
+                    "name": "Tantei Gakuen Q",
+                    "url": "https://myanimelist.net/anime/407/Tantei_Gakuen_Q"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Tantei_Gakuen_Q"
+        }
+    ]
+}

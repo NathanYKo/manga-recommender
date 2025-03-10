@@ -1,0 +1,121 @@
+{
+    "mal_id": 44737,
+    "url": "https://myanimelist.net/manga/44737/Mousou_Elektel_dj_-_Shinaide___Elektel",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/79097.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/79097t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/79097l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/79097.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/79097t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/79097l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mousou Elektel dj - Shinaide + Elektel"
+        },
+        {
+            "type": "Synonym",
+            "title": "Delusion Elektel dj - Shinaide + Elektel"
+        },
+        {
+            "type": "Japanese",
+            "title": "Shinaide + Elektel"
+        }
+    ],
+    "title": "Mousou Elektel dj - Shinaide + Elektel",
+    "title_english": null,
+    "title_japanese": "Shinaide + Elektel",
+    "title_synonyms": [
+        "Delusion Elektel dj - Shinaide + Elektel"
+    ],
+    "type": "Doujinshi",
+    "chapters": 2,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-08-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 8,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 12, 2012"
+    },
+    "score": 7.65,
+    "scored": 7.65,
+    "scored_by": 1476,
+    "rank": null,
+    "popularity": 6799,
+    "members": 3119,
+    "favorites": 4,
+    "synopsis": "Maya x Nemu pair celebrate new years together. Meanwhile, the Fumi x Shunpei pair win a trip to a beach onsen.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3243,
+            "type": "people",
+            "name": "Nekota, Yonezou",
+            "url": "https://myanimelist.net/people/3243/Yonezou_Nekota"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 1964,
+                    "type": "manga",
+                    "name": "Hidoku Shinaide",
+                    "url": "https://myanimelist.net/manga/1964/Hidoku_Shinaide"
+                },
+                {
+                    "mal_id": 14739,
+                    "type": "manga",
+                    "name": "Mousou Elektel",
+                    "url": "https://myanimelist.net/manga/14739/Mousou_Elektel"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

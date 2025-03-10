@@ -1,0 +1,120 @@
+{
+    "mal_id": 22745,
+    "url": "https://myanimelist.net/manga/22745/Bleach__The_Honey_Dish_Rhapsody",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/250602.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/250602t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/250602l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/250602.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/250602t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/250602l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bleach: The Honey Dish Rhapsody"
+        },
+        {
+            "type": "Japanese",
+            "title": "BLEACH the Honey Dish Rhapsody"
+        }
+    ],
+    "title": "Bleach: The Honey Dish Rhapsody",
+    "title_english": null,
+    "title_japanese": "BLEACH the Honey Dish Rhapsody",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-10-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 27, 2006"
+    },
+    "score": 7.54,
+    "scored": 7.54,
+    "scored_by": 661,
+    "rank": 2699,
+    "popularity": 8162,
+    "members": 2497,
+    "favorites": 19,
+    "synopsis": "Rukia makes sweets for her brother but upon learning he likes spicy food from Renji, she gives the sweets to other people and enlists Ichigo's help to cook him some spicy curry, the likes of which Rukia ate back in Ichigo's house. However, Unohana intervenes and prevents Rukia from giving the curry to Byakuya, instead asking her to make something that will be gentle on Byakuya's stomach. Rukia finally makes some rice porridge for Byakuya, who is pleased with Rukia's efforts.\n\n(Source: Bleach Wikia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1880,
+            "type": "people",
+            "name": "Kubo, Tite",
+            "url": "https://myanimelist.net/people/1880/Tite_Kubo"
+        },
+        {
+            "mal_id": 12592,
+            "type": "people",
+            "name": "Matsubara, Makoto",
+            "url": "https://myanimelist.net/people/12592/Makoto_Matsubara"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 22744,
+                    "type": "manga",
+                    "name": "Bleach: Letters From the Other Side",
+                    "url": "https://myanimelist.net/manga/22744/Bleach__Letters_From_the_Other_Side"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/BLEACH"
+        }
+    ]
+}

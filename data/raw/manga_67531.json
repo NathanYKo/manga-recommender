@@ -1,0 +1,126 @@
+{
+    "mal_id": 67531,
+    "url": "https://myanimelist.net/manga/67531/Shokugeki_no_Souma__à_la_Carte",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/120167.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/120167t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/120167l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/120167.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/120167t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/120167l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shokugeki no Souma: à la Carte"
+        },
+        {
+            "type": "Synonym",
+            "title": "Food Wars: à la Carte"
+        },
+        {
+            "type": "Japanese",
+            "title": "食戟のソーマ ～à la carte～"
+        }
+    ],
+    "title": "Shokugeki no Souma: à la Carte",
+    "title_english": null,
+    "title_japanese": "食戟のソーマ ～à la carte～",
+    "title_synonyms": [
+        "Food Wars: à la Carte"
+    ],
+    "type": "Light Novel",
+    "chapters": 24,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-02-04T00:00:00+00:00",
+        "to": "2015-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 2,
+                "year": 2014
+            },
+            "to": {
+                "day": 3,
+                "month": 4,
+                "year": 2015
+            }
+        },
+        "string": "Feb 4, 2014 to Apr 3, 2015"
+    },
+    "score": 7.53,
+    "scored": 7.53,
+    "scored_by": 593,
+    "rank": 2785,
+    "popularity": 7834,
+    "members": 2624,
+    "favorites": 14,
+    "synopsis": "A collection of short stories which are canon to the main story line. Each chapter features different characters.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11085,
+            "type": "people",
+            "name": "Saeki, Shun",
+            "url": "https://myanimelist.net/people/11085/Shun_Saeki"
+        },
+        {
+            "mal_id": 12510,
+            "type": "people",
+            "name": "Itou, Michiko",
+            "url": "https://myanimelist.net/people/12510/Michiko_Itou"
+        },
+        {
+            "mal_id": 29361,
+            "type": "people",
+            "name": "Morisaki, Yuki",
+            "url": "https://myanimelist.net/people/29361/Yuki_Morisaki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 45757,
+                    "type": "manga",
+                    "name": "Shokugeki no Souma",
+                    "url": "https://myanimelist.net/manga/45757/Shokugeki_no_Souma"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%A3%9F%E6%88%9F%E3%81%AE%E3%82%BD%E3%83%BC%E3%83%9E"
+        }
+    ]
+}

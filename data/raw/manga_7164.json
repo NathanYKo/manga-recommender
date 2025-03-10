@@ -1,0 +1,127 @@
+{
+    "mal_id": 7164,
+    "url": "https://myanimelist.net/manga/7164/The_Death_Panda",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/268072.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/268072t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/268072l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/268072.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/268072t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/268072l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "The Death Panda"
+        },
+        {
+            "type": "Synonym",
+            "title": "Waita Uziga - Death Panda"
+        },
+        {
+            "type": "Synonym",
+            "title": "Miko to Yajuu"
+        },
+        {
+            "type": "Japanese",
+            "title": "巫女と野獣"
+        },
+        {
+            "type": "English",
+            "title": "The Death Panda"
+        }
+    ],
+    "title": "The Death Panda",
+    "title_english": "The Death Panda",
+    "title_japanese": "巫女と野獣",
+    "title_synonyms": [
+        "Waita Uziga - Death Panda",
+        "Miko to Yajuu"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-08-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 8,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 26, 2006 to ?"
+    },
+    "score": 4.88,
+    "scored": 4.88,
+    "scored_by": 1641,
+    "rank": null,
+    "popularity": 6844,
+    "members": 3093,
+    "favorites": 27,
+    "synopsis": "The Death Panda is a shock manga from by artist Waita Uziga about a giant demonic panda bear from hell.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5114,
+            "type": "people",
+            "name": "Uziga, Waita",
+            "url": "https://myanimelist.net/people/5114/Waita_Uziga"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 12,
+            "type": "manga",
+            "name": "Hentai",
+            "url": "https://myanimelist.net/manga/genre/12/Hentai"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://uziga.sakura.ne.jp/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Waita_Uziga"
+        }
+    ]
+}

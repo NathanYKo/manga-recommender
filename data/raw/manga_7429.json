@@ -1,0 +1,119 @@
+{
+    "mal_id": 7429,
+    "url": "https://myanimelist.net/manga/7429/Haigakura",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/157895.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/157895t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/157895l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/157895.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/157895t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/157895l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Haigakura"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハイガクラ"
+        }
+    ],
+    "title": "Haigakura",
+    "title_english": null,
+    "title_japanese": "ハイガクラ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2008-01-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 16, 2008 to ?"
+    },
+    "score": 7.3,
+    "scored": 7.3,
+    "scored_by": 320,
+    "rank": 4913,
+    "popularity": 8448,
+    "members": 2392,
+    "favorites": 15,
+    "synopsis": "The story takes place in another world where there are gods. This world lays above the sky and below the ocean. Four evil gods used to support this world by acting as pillars, but they ran away including all the other minor gods that lived in this world. Thus, people called Kashikan's appeared. Their job is to capture the gods that fled and return stability to the country. The main character Ichiyou is a Kashikan who unwillingly took up the job to regain his foster father's freedom. His foster father, a tiger, was captured to act as a replacement of the four gods who ran away. Ichiyou's main objective is to recapture the evil gods and take back the peaceful life that he used to live.\n\n(Source: zcigaara)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2926,
+            "type": "people",
+            "name": "Takayama, Shinobu",
+            "url": "https://myanimelist.net/people/2926/Shinobu_Takayama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 701,
+            "type": "manga",
+            "name": "Zero-Sum Online",
+            "url": "https://myanimelist.net/manga/magazine/701/Zero-Sum_Online"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 56420,
+                    "type": "anime",
+                    "name": "Haigakura",
+                    "url": "https://myanimelist.net/anime/56420/Haigakura"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/ハイガクラ"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Haigakura"
+        }
+    ]
+}

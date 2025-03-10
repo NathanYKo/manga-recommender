@@ -1,0 +1,106 @@
+{
+    "mal_id": 110030,
+    "url": "https://myanimelist.net/manga/110030/Kokuei_no_Junk",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/204026.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/204026t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/204026l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/204026.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/204026t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/204026l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kokuei no Junk"
+        },
+        {
+            "type": "Japanese",
+            "title": "黒影のジャンク"
+        },
+        {
+            "type": "English",
+            "title": "Junk the Black Shadow"
+        }
+    ],
+    "title": "Kokuei no Junk",
+    "title_english": "Junk the Black Shadow",
+    "title_japanese": "黒影のジャンク",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-05-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 5,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 7, 2017 to ?"
+    },
+    "score": 6.34,
+    "scored": 6.34,
+    "scored_by": 694,
+    "rank": 18148,
+    "popularity": 7449,
+    "members": 2784,
+    "favorites": 4,
+    "synopsis": "The manga follows the story of Junk, a young knight that tries to distance himself from the shadow of his legendary father and future expectations.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 46889,
+            "type": "people",
+            "name": "Nakao, Takuya",
+            "url": "https://myanimelist.net/people/46889/Takuya_Nakao"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1417,
+            "type": "manga",
+            "name": "Cycomics",
+            "url": "https://myanimelist.net/manga/magazine/1417/Cycomics"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://cycomi.com/title.php?title_id=61"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "mal_id": 548,
+    "url": "https://myanimelist.net/manga/548/Watashi_no_Suki_na_Hito",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/144145.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/144145t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/144145l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/144145.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/144145t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/144145l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Watashi no Suki na Hito"
+        },
+        {
+            "type": "Japanese",
+            "title": "わたしのすきなひと"
+        },
+        {
+            "type": "English",
+            "title": "The One I Love"
+        }
+    ],
+    "title": "Watashi no Suki na Hito",
+    "title_english": "The One I Love",
+    "title_japanese": "わたしのすきなひと",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-11-16T00:00:00+00:00",
+        "to": "1995-05-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 11,
+                "year": 1993
+            },
+            "to": {
+                "day": 16,
+                "month": 5,
+                "year": 1995
+            }
+        },
+        "string": "Nov 16, 1993 to May 16, 1995"
+    },
+    "score": 6.96,
+    "scored": 6.96,
+    "scored_by": 2180,
+    "rank": 9566,
+    "popularity": 4863,
+    "members": 4514,
+    "favorites": 10,
+    "synopsis": "Drawing on CLAMP's own personal experiences, The One I Love provides insight both into the creators' own lives, and into the oft-elusive concept of Love itself.\n\nThis intimate collection of short stories and essays doesn't skirt issues at the heart of the matter such as insecurity, honesty, distance, independence, age, and marriage.\n\nThis one-volume anthology comprises 12 individual stories, each of which consists of seven pages of manga and two pages of prose.\n\n(Source: Tokyopop)",
+    "background": "Watashi no Suki na Hito was published in English as The One I Love by Tokyopop on October 12, 2004, and digitally by VIZ Media under the VIZ Select imprint on February 10, 2015.",
+    "authors": [
+        {
+            "mal_id": 1877,
+            "type": "people",
+            "name": "CLAMP",
+            "url": "https://myanimelist.net/people/1877/CLAMP"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1726,
+            "type": "manga",
+            "name": "Young Rosé",
+            "url": "https://myanimelist.net/manga/magazine/1726/Young_Ros%C3%A9"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 8583,
+                    "type": "manga",
+                    "name": "Clamp no Kiseki",
+                    "url": "https://myanimelist.net/manga/8583/Clamp_no_Kiseki"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E3%81%99%E3%81%8D%E3%81%AA%E3%81%B2%E3%81%A8"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_One_I_Love_(manga)"
+        }
+    ]
+}

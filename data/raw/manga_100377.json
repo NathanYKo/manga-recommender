@@ -1,0 +1,147 @@
+{
+    "mal_id": 100377,
+    "url": "https://myanimelist.net/manga/100377/Kenja_no_Deshi_wo_Nanoru_Kenja_the_Comic",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/195544.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/195544t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/195544l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/195544.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/195544t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/195544l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kenja no Deshi wo Nanoru Kenja the Comic"
+        },
+        {
+            "type": "Japanese",
+            "title": "賢者の弟子を名乗る賢者 THE COMIC"
+        },
+        {
+            "type": "English",
+            "title": "She Professed Herself Pupil of the Wise Man"
+        }
+    ],
+    "title": "Kenja no Deshi wo Nanoru Kenja the Comic",
+    "title_english": "She Professed Herself Pupil of the Wise Man",
+    "title_japanese": "賢者の弟子を名乗る賢者 THE COMIC",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-07-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 28, 2016 to ?"
+    },
+    "score": 7.08,
+    "scored": 7.08,
+    "scored_by": 2666,
+    "rank": 7835,
+    "popularity": 2133,
+    "members": 10104,
+    "favorites": 72,
+    "synopsis": "In one of the worlds that exist within virtual reality, Kagami held the title of one of the Nine Sages, a position that placed him at the pinnacle of magicians.\n\nOne day, he fell asleep in-game after pulling an all-nighter. When he opened his eyes, what he found was a world that was different to the one before... More important than anything else, was that the grizzled and dignified veteran's body that he was used to, had now turned into an innocent little girl's.\n\nIf his true identity was leaked, honestly speaking it was a situation where it was very possible that the solemn image he had built up until now would be destroyed.\n\nAnd to deal with this problem, the excuse that he came up with was...\n\n(Source: Oniichanyamete)",
+    "background": "Kenja no Deshi wo Nanoru Kenja the Comic has been published in English as She Professed Herself Pupil of the Wise Man by Seven Seas Entertainment since July 20, 2021.",
+    "authors": [
+        {
+            "mal_id": 10413,
+            "type": "people",
+            "name": "Suemitsu, Dicca",
+            "url": "https://myanimelist.net/people/10413/Dicca_Suemitsu"
+        },
+        {
+            "mal_id": 32315,
+            "type": "people",
+            "name": "Ryuusen, Hirotsugu",
+            "url": "https://myanimelist.net/people/32315/Hirotsugu_Ryuusen"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1373,
+            "type": "manga",
+            "name": "Comic Ride",
+            "url": "https://myanimelist.net/manga/magazine/1373/Comic_Ride"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        },
+        {
+            "mal_id": 65,
+            "type": "manga",
+            "name": "Magical Sex Shift",
+            "url": "https://myanimelist.net/manga/genre/65/Magical_Sex_Shift"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 73823,
+                    "type": "manga",
+                    "name": "Kenja no Deshi wo Nanoru Kenja",
+                    "url": "https://myanimelist.net/manga/73823/Kenja_no_Deshi_wo_Nanoru_Kenja"
+                },
+                {
+                    "mal_id": 42072,
+                    "type": "anime",
+                    "name": "Kenja no Deshi wo Nanoru Kenja",
+                    "url": "https://myanimelist.net/anime/42072/Kenja_no_Deshi_wo_Nanoru_Kenja"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.comicride.jp/book/pupil/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E8%B3%A2%E8%80%85%E3%81%AE%E5%BC%9F%E5%AD%90%E3%82%92%E5%90%8D%E4%B9%97%E3%82%8B%E8%B3%A2%E8%80%85"
+        }
+    ]
+}

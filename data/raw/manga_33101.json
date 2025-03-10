@@ -1,0 +1,150 @@
+{
+    "mal_id": 33101,
+    "url": "https://myanimelist.net/manga/33101/Papa_no_Iukoto_wo_Kikinasai__Rojou_Kansatsu_Kenkyuu_Nisshi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/171414.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/171414t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/171414l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/171414.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/171414t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/171414l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Papa no Iukoto wo Kikinasai!: Rojou Kansatsu Kenkyuu Nisshi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Listen to Me Girls"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Am Your Father!: Chronicles of Street Observation Research"
+        },
+        {
+            "type": "Synonym",
+            "title": "Papakiki Chronicles"
+        },
+        {
+            "type": "Japanese",
+            "title": "パパのいうことを聞きなさい! 路上観察研日誌"
+        }
+    ],
+    "title": "Papa no Iukoto wo Kikinasai!: Rojou Kansatsu Kenkyuu Nisshi",
+    "title_english": null,
+    "title_japanese": "パパのいうことを聞きなさい! 路上観察研日誌",
+    "title_synonyms": [
+        "Listen to Me Girls",
+        "I Am Your Father!: Chronicles of Street Observation Research",
+        "Papakiki Chronicles"
+    ],
+    "type": "Manga",
+    "chapters": 32,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-10-27T00:00:00+00:00",
+        "to": "2012-10-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 11,
+                "month": 10,
+                "year": 2012
+            }
+        },
+        "string": "Oct 27, 2011 to Oct 11, 2012"
+    },
+    "score": 7.14,
+    "scored": 7.14,
+    "scored_by": 1624,
+    "rank": 6997,
+    "popularity": 5452,
+    "members": 3994,
+    "favorites": 6,
+    "synopsis": "A spin-off to the main series set during the time Yuuta enters college, detailing with his joining of the Street Observation Research Society.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 16963,
+            "type": "people",
+            "name": "Miyano, Hirotsugu",
+            "url": "https://myanimelist.net/people/16963/Hirotsugu_Miyano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 22634,
+                    "type": "manga",
+                    "name": "Papa no Iukoto wo Kikinasai!",
+                    "url": "https://myanimelist.net/manga/22634/Papa_no_Iukoto_wo_Kikinasai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%91%E3%81%AE%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%82%92%E8%81%9E%E3%81%8D%E3%81%AA%E3%81%95%E3%81%84!"
+        }
+    ]
+}

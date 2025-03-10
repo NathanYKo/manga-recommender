@@ -1,0 +1,109 @@
+{
+    "mal_id": 950,
+    "url": "https://myanimelist.net/manga/950/Random_Walk",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/173656.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/173656t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/173656l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/173656.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/173656t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/173656l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Random Walk"
+        },
+        {
+            "type": "Japanese",
+            "title": "ランダム・ウォーク"
+        }
+    ],
+    "title": "Random Walk",
+    "title_english": null,
+    "title_japanese": "ランダム・ウォーク",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-06-03T00:00:00+00:00",
+        "to": "2001-08-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 6,
+                "year": 2000
+            },
+            "to": {
+                "day": 18,
+                "month": 8,
+                "year": 2001
+            }
+        },
+        "string": "Jun 3, 2000 to Aug 18, 2001"
+    },
+    "score": 6.8,
+    "scored": 6.8,
+    "scored_by": 2244,
+    "rank": 12228,
+    "popularity": 5256,
+    "members": 4144,
+    "favorites": 9,
+    "synopsis": "The story follows about the love life of a high school student Yuka. Yuka falls in love many times but one after another they break up. It seems like she'll never find the right one, but...\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1945,
+            "type": "people",
+            "name": "Yoshizumi, Wataru",
+            "url": "https://myanimelist.net/people/1945/Wataru_Yoshizumi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ribon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A0%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

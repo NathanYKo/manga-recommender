@@ -1,0 +1,132 @@
+{
+    "mal_id": 115460,
+    "url": "https://myanimelist.net/manga/115460/Shouwa_Otome_Otogibanashi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/221857.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/221857t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/221857l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/221857.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/221857t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/221857l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shouwa Otome Otogibanashi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Showa Maiden Fairytale"
+        },
+        {
+            "type": "Japanese",
+            "title": "昭和オトメ御伽話"
+        }
+    ],
+    "title": "Shouwa Otome Otogibanashi",
+    "title_english": null,
+    "title_japanese": "昭和オトメ御伽話",
+    "title_synonyms": [
+        "Showa Maiden Fairytale"
+    ],
+    "type": "Manga",
+    "chapters": 48,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-08-21T00:00:00+00:00",
+        "to": "2020-05-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 8,
+                "year": 2018
+            },
+            "to": {
+                "day": 12,
+                "month": 5,
+                "year": 2020
+            }
+        },
+        "string": "Aug 21, 2018 to May 12, 2020"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 878,
+    "rank": 4462,
+    "popularity": 6090,
+    "members": 3526,
+    "favorites": 18,
+    "synopsis": "Once upon a time in the city of Kobe, there was a girl and a boy. Both lived under abusive households, and the two swore an oath to be together until death. However, they are quickly separated, seemingly forever. That is, until a chance encounter reunites them three years later...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 13851,
+            "type": "people",
+            "name": "Kirioka, Sana",
+            "url": "https://myanimelist.net/people/13851/Sana_Kirioka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1209,
+            "type": "manga",
+            "name": "Shounen Jump+",
+            "url": "https://myanimelist.net/manga/magazine/1209/Shounen_Jump_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 96044,
+                    "type": "manga",
+                    "name": "Taishou Otome Otogibanashi",
+                    "url": "https://myanimelist.net/manga/96044/Taishou_Otome_Otogibanashi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://shonenjumpplus.com/episode/10834108156634253367"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A3%E5%87%A6%E5%A5%B3%E5%BE%A1%E4%BC%BD%E8%A9%B1"
+        }
+    ]
+}

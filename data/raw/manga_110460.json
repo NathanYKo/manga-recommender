@@ -1,0 +1,150 @@
+{
+    "mal_id": 110460,
+    "url": "https://myanimelist.net/manga/110460/Isekai_Nonbiri_Nouka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/207454.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/207454t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/207454l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/207454.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/207454t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/207454l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Isekai Nonbiri Nouka"
+        },
+        {
+            "type": "Japanese",
+            "title": "異世界のんびり農家"
+        },
+        {
+            "type": "English",
+            "title": "Farming Life in Another World"
+        }
+    ],
+    "title": "Isekai Nonbiri Nouka",
+    "title_english": "Farming Life in Another World",
+    "title_japanese": "異世界のんびり農家",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-10-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 12, 2017 to ?"
+    },
+    "score": 6.76,
+    "scored": 6.76,
+    "scored_by": 8608,
+    "rank": 12840,
+    "popularity": 679,
+    "members": 27996,
+    "favorites": 194,
+    "synopsis": "Having died of sickness at the age of 39, Machio Hiraku is given the opportunity to go to another world. When asked what his wish is by God intending to give him strength, he requests to have a healthy body, offered a second wish, he chooses to live peacefully, a third wish to be able to know the local language, and for a final wish, to be able to be a farmer.",
+    "background": "Isekai Nonbiri Nouka has been published in English as Farming Life in Another World by One Peace Books since October 28, 2020.",
+    "authors": [
+        {
+            "mal_id": 25789,
+            "type": "people",
+            "name": "Tsurugi, Yasuyuki",
+            "url": "https://myanimelist.net/people/25789/Yasuyuki_Tsurugi"
+        },
+        {
+            "mal_id": 46865,
+            "type": "people",
+            "name": "Naitou, Kinosuke",
+            "url": "https://myanimelist.net/people/46865/Kinosuke_Naitou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1159,
+            "type": "manga",
+            "name": "ComicWalker",
+            "url": "https://myanimelist.net/manga/magazine/1159/ComicWalker"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 110087,
+                    "type": "manga",
+                    "name": "Isekai Nonbiri Nouka",
+                    "url": "https://myanimelist.net/manga/110087/Isekai_Nonbiri_Nouka"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 170288,
+                    "type": "manga",
+                    "name": "Isekai Nonbiri Nouka no Nichijou",
+                    "url": "https://myanimelist.net/manga/170288/Isekai_Nonbiri_Nouka_no_Nichijou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-walker.com/contents/detail/KDCW_FS01000051010000_68/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Farming_Life_in_Another_World"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/異世界のんびり農家"
+        }
+    ]
+}

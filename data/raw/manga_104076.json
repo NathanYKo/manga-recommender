@@ -1,0 +1,129 @@
+{
+    "mal_id": 104076,
+    "url": "https://myanimelist.net/manga/104076/Kemono_Jihen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/192907.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/192907t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/192907l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/192907.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/192907t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/192907l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kemono Jihen"
+        },
+        {
+            "type": "Japanese",
+            "title": "怪物事変"
+        },
+        {
+            "type": "English",
+            "title": "Kemono Jihen"
+        }
+    ],
+    "title": "Kemono Jihen",
+    "title_english": "Kemono Jihen",
+    "title_japanese": "怪物事変",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-12-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 12,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 2, 2016 to ?"
+    },
+    "score": 7.64,
+    "scored": 7.64,
+    "scored_by": 8083,
+    "rank": 2053,
+    "popularity": 600,
+    "members": 31524,
+    "favorites": 592,
+    "synopsis": "When dead animals mysteriously start appearing in a remote village, a specialist from Tokyo named Kohachi Inugami is brought in to identify the cause. Upon arriving, Inugami finds a young boy named Kabane working in the fields and quickly befriends him, eventually bringing him on to help solve the case.\n\nAs the two get closer to the truth, Inugami's suspicion that Kabane is more than human begins to grow stronger and he decides to employ the boy at his detective office, dedicated to solving cases related to the supernatural.\n\n[Written by MAL Rewrite]",
+    "background": "Kemono Jihen has been published in English by Seven Seas Entertainment since August 9, 2022. It has also been released in Polish by Studio JG since October 29, 2021.",
+    "authors": [
+        {
+            "mal_id": 3753,
+            "type": "people",
+            "name": "Aimoto, Shou",
+            "url": "https://myanimelist.net/people/3753/Shou_Aimoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 40908,
+                    "type": "anime",
+                    "name": "Kemono Jihen",
+                    "url": "https://myanimelist.net/anime/40908/Kemono_Jihen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://jumpsq.shueisha.co.jp/rensai/kemonojihen/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%80%AA%E7%89%A9%E4%BA%8B%E5%A4%89"
+        }
+    ]
+}

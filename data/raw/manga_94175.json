@@ -1,0 +1,139 @@
+{
+    "mal_id": 94175,
+    "url": "https://myanimelist.net/manga/94175/Boukyaku_Tantei_Series",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/170721.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/170721t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/170721l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/170721.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/170721t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/170721l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boukyaku Tantei Series"
+        },
+        {
+            "type": "Synonym",
+            "title": "Okitegami Kyouko no Bibouroku"
+        },
+        {
+            "type": "Japanese",
+            "title": "忘却探偵シリーズ"
+        }
+    ],
+    "title": "Boukyaku Tantei Series",
+    "title_english": null,
+    "title_japanese": "忘却探偵シリーズ",
+    "title_synonyms": [
+        "Okitegami Kyouko no Bibouroku"
+    ],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-10-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 15, 2014 to ?"
+    },
+    "score": 7.65,
+    "scored": 7.65,
+    "scored_by": 227,
+    "rank": 2025,
+    "popularity": 6274,
+    "members": 3409,
+    "favorites": 32,
+    "synopsis": "Twenty-five-year-old Kakushidate Yakusuke suffers from the fate of constantly stumbling into various crime scenes and ending up being the main suspect.\n\nHis last resort: Okitegami Kyouko the \"Quickest Detective.\" However, Kyouko suffers from a strange case of amnesia; whenever she falls asleep, she forgets everything that happened the previous day, making her solve the mysteries within one day.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5254,
+            "type": "people",
+            "name": "NISIO, ISIN",
+            "url": "https://myanimelist.net/people/5254/ISIN_NISIO"
+        },
+        {
+            "mal_id": 8594,
+            "type": "people",
+            "name": "VOFAN",
+            "url": "https://myanimelist.net/people/8594/VOFAN"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 32191,
+                    "type": "anime",
+                    "name": "Okitegami Kyouko no Bibouroku x Monogatari",
+                    "url": "https://myanimelist.net/anime/32191/Okitegami_Kyouko_no_Bibouroku_x_Monogatari"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 90993,
+                    "type": "manga",
+                    "name": "Okitegami Kyouko no Bibouroku",
+                    "url": "https://myanimelist.net/manga/90993/Okitegami_Kyouko_no_Bibouroku"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 117028,
+                    "type": "manga",
+                    "name": "Mazemonogatari",
+                    "url": "https://myanimelist.net/manga/117028/Mazemonogatari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://kodansha-box.jp/topics/nishio/okitegami"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%BF%98%E5%8D%B4%E6%8E%A2%E5%81%B5%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+        }
+    ]
+}

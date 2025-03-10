@@ -1,0 +1,126 @@
+{
+    "mal_id": 100217,
+    "url": "https://myanimelist.net/manga/100217/Uratarou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/187968.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/187968t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/187968l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/187968.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/187968t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/187968l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Uratarou"
+        },
+        {
+            "type": "Japanese",
+            "title": "うらたろう"
+        }
+    ],
+    "title": "Uratarou",
+    "title_english": null,
+    "title_japanese": "うらたろう",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 51,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-07-28T00:00:00+00:00",
+        "to": "2017-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Jul 28, 2016 to Sep 28, 2017"
+    },
+    "score": 6.87,
+    "scored": 6.87,
+    "scored_by": 5645,
+    "rank": 11122,
+    "popularity": 1417,
+    "members": 14871,
+    "favorites": 165,
+    "synopsis": "As a child, Princess Taira Chiyo escaped from being captured by the Minamoto army due to the the sacrifice of her mother. Now at the age of 15, she travels the land searching for immortality. Following the rumors about an immortal named Kijin-sama, Chiyo actually finds him! But all he wants is to die?\n\n(Source: Jaimini's Box)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 16705,
+            "type": "people",
+            "name": "Nakayama, Atsushi",
+            "url": "https://myanimelist.net/people/16705/Atsushi_Nakayama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://youngjump.jp/manga/urataro/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%82%89%E3%81%9F%E3%82%8D%E3%81%86"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "mal_id": 40549,
+    "url": "https://myanimelist.net/manga/40549/Road_to_Ninja__Naruto_the_Movie",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/176822.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/176822t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/176822l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/176822.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/176822t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/176822l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Road to Ninja: Naruto the Movie"
+        },
+        {
+            "type": "Synonym",
+            "title": "Naruto: Road to Ninja"
+        },
+        {
+            "type": "Japanese",
+            "title": "ROAD TO NINJA -NARUTO THE MOVIE-"
+        }
+    ],
+    "title": "Road to Ninja: Naruto the Movie",
+    "title_english": null,
+    "title_japanese": "ROAD TO NINJA -NARUTO THE MOVIE-",
+    "title_synonyms": [
+        "Naruto: Road to Ninja"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-07-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 23, 2012"
+    },
+    "score": 7.19,
+    "scored": 7.19,
+    "scored_by": 4572,
+    "rank": 6193,
+    "popularity": 2609,
+    "members": 8485,
+    "favorites": 62,
+    "synopsis": "A special one-shot connected to the movie.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1879,
+            "type": "people",
+            "name": "Kishimoto, Masashi",
+            "url": "https://myanimelist.net/people/1879/Masashi_Kishimoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 13667,
+                    "type": "anime",
+                    "name": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+                    "url": "https://myanimelist.net/anime/13667/Naruto__Shippuuden_Movie_6_-_Road_to_Ninja"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 96770,
+                    "type": "manga",
+                    "name": "Road to Ninja: Naruto the Movie",
+                    "url": "https://myanimelist.net/manga/96770/Road_to_Ninja__Naruto_the_Movie"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 11,
+                    "type": "manga",
+                    "name": "Naruto",
+                    "url": "https://myanimelist.net/manga/11/Naruto"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

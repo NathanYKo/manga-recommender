@@ -1,0 +1,130 @@
+{
+    "mal_id": 21784,
+    "url": "https://myanimelist.net/manga/21784/Dai_Densetsu_no_Yuusha_no_Densetsu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/126791.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/126791t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/126791l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/126791.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/126791t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/126791l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dai Densetsu no Yuusha no Densetsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Great Legend of the Legendary Heroes"
+        },
+        {
+            "type": "Synonym",
+            "title": "DaiDenYuuDen"
+        },
+        {
+            "type": "Japanese",
+            "title": "大伝説の勇者の伝説"
+        }
+    ],
+    "title": "Dai Densetsu no Yuusha no Densetsu",
+    "title_english": null,
+    "title_japanese": "大伝説の勇者の伝説",
+    "title_synonyms": [
+        "The Great Legend of the Legendary Heroes",
+        "DaiDenYuuDen"
+    ],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2007-10-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 25, 2007 to ?"
+    },
+    "score": 8.14,
+    "scored": 8.14,
+    "scored_by": 511,
+    "rank": 518,
+    "popularity": 6865,
+    "members": 3084,
+    "favorites": 58,
+    "synopsis": "Sequel of Densetsu no Yuusha no Densetsu.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11437,
+            "type": "people",
+            "name": "Kagami, Takaya",
+            "url": "https://myanimelist.net/people/11437/Takaya_Kagami"
+        },
+        {
+            "mal_id": 17885,
+            "type": "people",
+            "name": "Toyota, Saori",
+            "url": "https://myanimelist.net/people/17885/Saori_Toyota"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 21658,
+                    "type": "manga",
+                    "name": "Densetsu no Yuusha no Densetsu",
+                    "url": "https://myanimelist.net/manga/21658/Densetsu_no_Yuusha_no_Densetsu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E4%BC%9D%E8%AA%AC%E3%81%AE%E5%8B%87%E8%80%85%E3%81%AE%E4%BC%9D%E8%AA%AC"
+        }
+    ]
+}

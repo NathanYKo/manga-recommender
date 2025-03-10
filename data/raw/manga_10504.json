@@ -1,0 +1,123 @@
+{
+    "mal_id": 10504,
+    "url": "https://myanimelist.net/manga/10504/Interval",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/40968.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/40968t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/40968l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/40968.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/40968t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/40968l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Interval"
+        },
+        {
+            "type": "Japanese",
+            "title": "インターバル"
+        },
+        {
+            "type": "English",
+            "title": "Interval"
+        }
+    ],
+    "title": "Interval",
+    "title_english": "Interval",
+    "title_japanese": "インターバル",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2008"
+    },
+    "score": 7.31,
+    "scored": 7.31,
+    "scored_by": 2894,
+    "rank": null,
+    "popularity": 4231,
+    "members": 5300,
+    "favorites": 25,
+    "synopsis": "Track team member Kashiwagi Ayumu has put aside his secret feelings for his classmate, Shinohara Takahito.\n\nOne day, his track club senpai, Sawatari Atsushi, realizes Ayumu’s feelings, and embraces Ayumu against his will in attempt to cure his own boredom.\n\nSawatari seems cold hearted, but suddenly reveals a tenderness to the resisting Ayumu, but…?! \n\n(Source: Blissful Sin)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2245,
+            "type": "people",
+            "name": "Itsuki, Kaname",
+            "url": "https://myanimelist.net/people/2245/Kaname_Itsuki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1947,
+                    "type": "manga",
+                    "name": "Self Portrait",
+                    "url": "https://myanimelist.net/manga/1947/Self_Portrait"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 1943,
+                    "type": "manga",
+                    "name": "4-gatsu 4-kka.",
+                    "url": "https://myanimelist.net/manga/1943/4-gatsu_4-kka"
+                },
+                {
+                    "mal_id": 54061,
+                    "type": "manga",
+                    "name": "Interval dj - Garakuta Zoukangou Gougai 11",
+                    "url": "https://myanimelist.net/manga/54061/Interval_dj_-_Garakuta_Zoukangou_Gougai_11"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

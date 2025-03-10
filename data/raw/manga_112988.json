@@ -1,0 +1,130 @@
+{
+    "mal_id": 112988,
+    "url": "https://myanimelist.net/manga/112988/blanc",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/239600.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/239600t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/239600l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/239600.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/239600t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/239600l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "blanc"
+        },
+        {
+            "type": "Japanese",
+            "title": "blanc"
+        },
+        {
+            "type": "English",
+            "title": "Classmates: blanc"
+        }
+    ],
+    "title": "blanc",
+    "title_english": "Classmates: blanc",
+    "title_japanese": "blanc",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-02-28T00:00:00+00:00",
+        "to": "2020-09-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 2,
+                "year": 2018
+            },
+            "to": {
+                "day": 16,
+                "month": 9,
+                "year": 2020
+            }
+        },
+        "string": "Feb 28, 2018 to Sep 16, 2020"
+    },
+    "score": 8.46,
+    "scored": 8.46,
+    "scored_by": 3335,
+    "rank": 177,
+    "popularity": 2480,
+    "members": 8870,
+    "favorites": 176,
+    "synopsis": "Three years after graduating high school, Hikaru Kusakabe and Rihito Sajou are still in a long-distance relationship. Kusakabe works tirelessly while pursuing his music career, leaving him with little time to visit Sajou. Meanwhile, Sajou involves himself more with extracurricular activities and drinking with his college friends.\n\nHowever, Kusakabe's absence weighs heavily on Sajou, and when Kusakabe visits unannounced one day, Sajou breaks off their engagement. Although the love between them never waned, both Kusakabe and Sajou now have to navigate through their new normal and hope that, eventually, they will find their way back to each other.\n\n[Written by MAL Rewrite]",
+    "background": "blanc was published in English as Classmates: blanc by Seven Seas Entertainment on November 29, 2022.",
+    "authors": [
+        {
+            "mal_id": 5583,
+            "type": "people",
+            "name": "Nakamura, Asumiko",
+            "url": "https://myanimelist.net/people/5583/Asumiko_Nakamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 394,
+            "type": "manga",
+            "name": "Opera",
+            "url": "https://myanimelist.net/manga/magazine/394/Opera"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 39565,
+                    "type": "manga",
+                    "name": "O.B.",
+                    "url": "https://myanimelist.net/manga/39565/OB"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 132417,
+                    "type": "manga",
+                    "name": "Home",
+                    "url": "https://myanimelist.net/manga/132417/Home"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

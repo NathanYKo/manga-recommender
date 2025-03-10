@@ -1,0 +1,188 @@
+{
+    "mal_id": 1218,
+    "url": "https://myanimelist.net/manga/1218/Akagi__Yami_ni_Oritatta_Tensai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/191155.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/191155t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/191155l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/191155.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/191155t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/191155l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Akagi: Yami ni Oritatta Tensai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mahjong Legend Akagi"
+        },
+        {
+            "type": "Japanese",
+            "title": "アカギ ～闇に降り立った天才～"
+        }
+    ],
+    "title": "Akagi: Yami ni Oritatta Tensai",
+    "title_english": null,
+    "title_japanese": "アカギ ～闇に降り立った天才～",
+    "title_synonyms": [
+        "Mahjong Legend Akagi"
+    ],
+    "type": "Manga",
+    "chapters": 306,
+    "volumes": 36,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1991-06-01T00:00:00+00:00",
+        "to": "2018-02-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 6,
+                "year": 1991
+            },
+            "to": {
+                "day": 1,
+                "month": 2,
+                "year": 2018
+            }
+        },
+        "string": "Jun 1991 to Feb 1, 2018"
+    },
+    "score": 8.18,
+    "scored": 8.18,
+    "scored_by": 4221,
+    "rank": 457,
+    "popularity": 1576,
+    "members": 13635,
+    "favorites": 479,
+    "synopsis": "While mahjong is a game that is often played with family and friends, it is also a game that is played in the darkest corners of society. Nangou is a compulsive gambler who has accumulated a debt of over three million yen. In a last-ditch attempt to clear his record, he decides to wager his life on a game of mahjong with the mafia. Unfortunately, as the game progresses, Nangou only moves further from the prize and closer to death.\n\nWhen all hope seems lost, the game parlor is suddenly intruded upon by Shigeru Akagi, a young boy on the run from the police. Desperate to turn the game around, Nangou hands the game over to Akagi after teaching him a few of the rules. The mafia can only smirk as Akagi sits down to play. However, they soon come to learn that Akagi is a natural-born gambler. An imposing figure who does not fear death. One who is destined to become a legend.\n\n[Written by MAL Rewrite]",
+    "background": "Akagi: Yami ni Oritatta Tensai was adapted into two V-Cinema films that were released in 1995 and 1997. It was also adapted into a Japanese live-action TV series with two sequel seasons. Multiple games based on the manga have also been released.",
+    "authors": [
+        {
+            "mal_id": 2539,
+            "type": "people",
+            "name": "Fukumoto, Nobuyuki",
+            "url": "https://myanimelist.net/people/2539/Nobuyuki_Fukumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 367,
+            "type": "manga",
+            "name": "Kindai Mahjong",
+            "url": "https://myanimelist.net/manga/magazine/367/Kindai_Mahjong"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 69,
+            "type": "manga",
+            "name": "Organized Crime",
+            "url": "https://myanimelist.net/manga/genre/69/Organized_Crime"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 3571,
+                    "type": "manga",
+                    "name": "Ten: Tenhou-doori no Kaidanji",
+                    "url": "https://myanimelist.net/manga/3571/Ten__Tenhou-doori_no_Kaidanji"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 658,
+                    "type": "anime",
+                    "name": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+                    "url": "https://myanimelist.net/anime/658/Touhai_Densetsu_Akagi__Yami_ni_Maiorita_Tensai"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 11623,
+                    "type": "manga",
+                    "name": "Washizu: Enma no Touhai",
+                    "url": "https://myanimelist.net/manga/11623/Washizu__Enma_no_Touhai"
+                },
+                {
+                    "mal_id": 112780,
+                    "type": "manga",
+                    "name": "Fukumoto All Stars",
+                    "url": "https://myanimelist.net/manga/112780/Fukumoto_All_Stars"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 42897,
+                    "type": "manga",
+                    "name": "Akagi: Zawa... Zawa... Anthology",
+                    "url": "https://myanimelist.net/manga/42897/Akagi__Zawa_Zawa_Anthology"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Akagi_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%82%AE_%E3%80%9C%E9%97%87%E3%81%AB%E9%99%8D%E3%82%8A%E7%AB%8B%E3%81%A3%E3%81%9F%E5%A4%A9%E6%89%8D%E3%80%9C"
+        }
+    ]
+}

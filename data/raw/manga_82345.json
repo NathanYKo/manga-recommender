@@ -1,0 +1,114 @@
+{
+    "mal_id": 82345,
+    "url": "https://myanimelist.net/manga/82345/Match_Shoujo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/142527.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/142527t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/142527l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/142527.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/142527t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/142527l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Match Shoujo"
+        },
+        {
+            "type": "Japanese",
+            "title": "燐寸少女"
+        },
+        {
+            "type": "English",
+            "title": "The Little Match Girl"
+        }
+    ],
+    "title": "Match Shoujo",
+    "title_english": "The Little Match Girl",
+    "title_japanese": "燐寸少女",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 40,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-04-04T00:00:00+00:00",
+        "to": "2017-11-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 4,
+                "month": 11,
+                "year": 2017
+            }
+        },
+        "string": "Apr 4, 2013 to Nov 4, 2017"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 557,
+    "rank": 5182,
+    "popularity": 8610,
+    "members": 2335,
+    "favorites": 20,
+    "synopsis": "Money, fame, power, all humans have their desires. What if those desires can come true with just imagination? But beware when you play with fire...\n\n\"Directionless desire will consume you until only ashes remain.\"\n\nIncluded one-shots:\nVolume 4: Match Shoujo: Honke-ban (pilot 2), Ganso-ban (pilot 1)",
+    "background": "Match Shoujo has been published in French by Komikku Editions since March 30, 2017.",
+    "authors": [
+        {
+            "mal_id": 9050,
+            "type": "people",
+            "name": "Suzuki, Sanami",
+            "url": "https://myanimelist.net/people/9050/Sanami_Suzuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 403,
+            "type": "manga",
+            "name": "Young Ace",
+            "url": "https://myanimelist.net/manga/magazine/403/Young_Ace"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 32695,
+                    "type": "anime",
+                    "name": "Match Shoujo PV",
+                    "url": "https://myanimelist.net/anime/32695/Match_Shoujo_PV"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

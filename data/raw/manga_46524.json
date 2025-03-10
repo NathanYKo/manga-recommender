@@ -1,0 +1,134 @@
+{
+    "mal_id": 46524,
+    "url": "https://myanimelist.net/manga/46524/Boku_no_Ie_ni_Oide",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/159611.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/159611t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/159611l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/159611.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/159611t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/159611l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boku no Ie ni Oide"
+        },
+        {
+            "type": "Synonym",
+            "title": "Come to My Home"
+        },
+        {
+            "type": "Synonym",
+            "title": "Boku no Uchi ni Oide"
+        },
+        {
+            "type": "Japanese",
+            "title": "僕の家においで"
+        }
+    ],
+    "title": "Boku no Ie ni Oide",
+    "title_english": null,
+    "title_japanese": "僕の家においで",
+    "title_synonyms": [
+        "Come to My Home",
+        "Boku no Uchi ni Oide"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-12-01T00:00:00+00:00",
+        "to": "2017-02-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": 24,
+                "month": 2,
+                "year": 2017
+            }
+        },
+        "string": "Dec 1, 2012 to Feb 24, 2017"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 1441,
+    "rank": 4304,
+    "popularity": 4059,
+    "members": 5553,
+    "favorites": 21,
+    "synopsis": "In order to live a normal high-school life, Mirei started her first part-time job. But after receiving her first paycheck, she almost kills a highly-ranked bishounen…?! An encounter with a super poor and pessimistic innocent girl, is this a beautiful miracle?!\n\n(Source: asdf scans)",
+    "background": "Boku no Ie ni Oide was published in French by Soleil Manga from February 4, 2015 to August 23, 2017.",
+    "authors": [
+        {
+            "mal_id": 9227,
+            "type": "people",
+            "name": "Yuki, Nachi",
+            "url": "https://myanimelist.net/people/9227/Nachi_Yuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ribon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 111149,
+                    "type": "manga",
+                    "name": "Boku no Ie ni Oide: Wedding",
+                    "url": "https://myanimelist.net/manga/111149/Boku_no_Ie_ni_Oide__Wedding"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

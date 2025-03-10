@@ -1,0 +1,138 @@
+{
+    "mal_id": 101554,
+    "url": "https://myanimelist.net/manga/101554/City",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/192291.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/192291t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/192291l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/192291.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/192291t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/192291l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "City"
+        },
+        {
+            "type": "Japanese",
+            "title": "CITY"
+        },
+        {
+            "type": "English",
+            "title": "City"
+        }
+    ],
+    "title": "City",
+    "title_english": "City",
+    "title_japanese": "CITY",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 187,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-09-29T00:00:00+00:00",
+        "to": "2021-02-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 9,
+                "year": 2016
+            },
+            "to": {
+                "day": 4,
+                "month": 2,
+                "year": 2021
+            }
+        },
+        "string": "Sep 29, 2016 to Feb 4, 2021"
+    },
+    "score": 7.88,
+    "scored": 7.88,
+    "scored_by": 1808,
+    "rank": 1077,
+    "popularity": 2679,
+    "members": 8303,
+    "favorites": 278,
+    "synopsis": "From the creator of Nichijou, this surreal-slapstick series revolves around a penniless college student, Midori Nagumo, who lives in an ordinary city filled with not-quite-ordinary people. And as this reckless girl runs about, she sets the city in motion.\n\nMidori is in a bit of a bind. She is in debt, and her landlady is trying to shake her down for unpaid rent. Her best friend refuses to loan her cash since she's wised up to her tricks. Maybe some bullying would help. Or a bit of petty theft? Neither is sustainable. Maybe getting a job would settle things... But working means less time for fun adventures in the big city...\n\n(Source: Vertical Inc.)",
+    "background": "City was published in English by Vertical Inc. from March 27, 2018, to January 25, 2022.",
+    "authors": [
+        {
+            "mal_id": 3504,
+            "type": "people",
+            "name": "Arawi, Keiichi",
+            "url": "https://myanimelist.net/people/3504/Keiichi_Arawi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Morning",
+            "url": "https://myanimelist.net/manga/magazine/72/Morning"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 59898,
+                    "type": "anime",
+                    "name": "City The Animation",
+                    "url": "https://myanimelist.net/anime/59898/City_The_Animation"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/city/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://morning.kodansha.co.jp/c/city.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/City_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/CITY_(%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

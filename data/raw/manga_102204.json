@@ -1,0 +1,120 @@
+{
+    "mal_id": 102204,
+    "url": "https://myanimelist.net/manga/102204/I_Am_a_Hero_in_Ibaraki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/193594.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/193594t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/193594l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/193594.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/193594t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/193594l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "I Am a Hero in Ibaraki"
+        },
+        {
+            "type": "Japanese",
+            "title": "イアムアヒーロー in IBARAKI"
+        }
+    ],
+    "title": "I Am a Hero in Ibaraki",
+    "title_english": null,
+    "title_japanese": "イアムアヒーロー in IBARAKI",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-03-24T00:00:00+00:00",
+        "to": "2016-08-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 3,
+                "year": 2016
+            },
+            "to": {
+                "day": 25,
+                "month": 8,
+                "year": 2016
+            }
+        },
+        "string": "Mar 24, 2016 to Aug 25, 2016"
+    },
+    "score": 6.27,
+    "scored": 6.27,
+    "scored_by": 930,
+    "rank": 18672,
+    "popularity": 8681,
+    "members": 2310,
+    "favorites": 0,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 42300,
+            "type": "people",
+            "name": "Fujisawa, Kazuya",
+            "url": "https://myanimelist.net/people/42300/Kazuya_Fujisawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1097,
+            "type": "manga",
+            "name": "Yawaraka Spirits",
+            "url": "https://myanimelist.net/manga/magazine/1097/Yawaraka_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 14440,
+                    "type": "manga",
+                    "name": "I Am a Hero",
+                    "url": "https://myanimelist.net/manga/14440/I_Am_a_Hero"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%A0%E3%82%A2%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC"
+        }
+    ]
+}

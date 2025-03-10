@@ -1,0 +1,157 @@
+{
+    "mal_id": 90008,
+    "url": "https://myanimelist.net/manga/90008/Yajirushi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/159494.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/159494t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/159494l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/159494.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/159494t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/159494l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yajirushi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Arrow"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hikizuru Oto"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yugami Hajime"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chikan sareteru Kare wo Guuzen wo Hakken shite"
+        },
+        {
+            "type": "Synonym",
+            "title": "teki na Tenkai de"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rei no Otoko"
+        },
+        {
+            "type": "Synonym",
+            "title": "Renai: Maotokohen"
+        },
+        {
+            "type": "Japanese",
+            "title": "やじるし"
+        }
+    ],
+    "title": "Yajirushi",
+    "title_english": null,
+    "title_japanese": "やじるし",
+    "title_synonyms": [
+        "Arrow",
+        "Hikizuru Oto",
+        "Yugami Hajime",
+        "Chikan sareteru Kare wo Guuzen wo Hakken shite",
+        "teki na Tenkai de",
+        "Rei no Otoko",
+        "Renai: Maotokohen"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-04-01T00:00:00+00:00",
+        "to": "2014-11-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 11,
+                "year": 2014
+            }
+        },
+        "string": "Apr 1, 2014 to Nov 28, 2014"
+    },
+    "score": 7.05,
+    "scored": 7.05,
+    "scored_by": 1566,
+    "rank": null,
+    "popularity": 5688,
+    "members": 3788,
+    "favorites": 17,
+    "synopsis": "1. Yajirushi (Arrow)\n2. Hikizuru Oto\n3. Yugami Hajime\n4. Chikan sareteru Kare wo Guuzen wo Hakken shite, teki na Tenkai de\n5. Rei no Otoko\n6. Renai: Maotokohen",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 37887,
+            "type": "people",
+            "name": "Harada",
+            "url": "https://myanimelist.net/people/37887/Harada"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 90007,
+                    "type": "manga",
+                    "name": "Henai",
+                    "url": "https://myanimelist.net/manga/90007/Henai"
+                },
+                {
+                    "mal_id": 100270,
+                    "type": "manga",
+                    "name": "Posi",
+                    "url": "https://myanimelist.net/manga/100270/Posi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

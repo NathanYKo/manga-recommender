@@ -1,0 +1,127 @@
+{
+    "mal_id": 19253,
+    "url": "https://myanimelist.net/manga/19253/Warui_Koibito_ja_Dame",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/41887.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/41887t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/41887l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/41887.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/41887t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/41887l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Warui Koibito ja Dame?"
+        },
+        {
+            "type": "Japanese",
+            "title": "ワルイ恋人じゃダメ?"
+        }
+    ],
+    "title": "Warui Koibito ja Dame?",
+    "title_english": null,
+    "title_japanese": "ワルイ恋人じゃダメ?",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2010 to ?"
+    },
+    "score": 7.75,
+    "scored": 7.75,
+    "scored_by": 2422,
+    "rank": null,
+    "popularity": 4537,
+    "members": 4890,
+    "favorites": 5,
+    "synopsis": "Because of some bad luck, Aikawa Towa's recent problem is the complicated relationship between the devilish student council president, Shirahane Mikado. Kissing is not the only thing... but is this friendship?! What's more, Mikado started to take a part time job to find relief, but... his bad friends, Shinonome and Yukimura saw their kiss scene...?! Eh?! Will two guys be \"lovers\"...?!\n\n(Source: Princes)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3272,
+            "type": "people",
+            "name": "Sakuraga, Mei",
+            "url": "https://myanimelist.net/people/3272/Mei_Sakuraga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 17863,
+                    "type": "manga",
+                    "name": "Warui Yatsu Demo Ii",
+                    "url": "https://myanimelist.net/manga/17863/Warui_Yatsu_Demo_Ii"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 49609,
+                    "type": "manga",
+                    "name": "Warui Ouji demo Suki",
+                    "url": "https://myanimelist.net/manga/49609/Warui_Ouji_demo_Suki"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

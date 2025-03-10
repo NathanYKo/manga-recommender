@@ -1,0 +1,132 @@
+{
+    "mal_id": 59519,
+    "url": "https://myanimelist.net/manga/59519/Be_Blues_Ao_ni_Nare",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/105053.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/105053t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/105053l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/105053.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/105053t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/105053l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Be Blues! Ao ni Nare"
+        },
+        {
+            "type": "Japanese",
+            "title": "BE BLUES!~青になれ~"
+        }
+    ],
+    "title": "Be Blues! Ao ni Nare",
+    "title_english": null,
+    "title_japanese": "BE BLUES!~青になれ~",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 489,
+    "volumes": 49,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-01-26T00:00:00+00:00",
+        "to": "2022-10-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 12,
+                "month": 10,
+                "year": 2022
+            }
+        },
+        "string": "Jan 26, 2011 to Oct 12, 2022"
+    },
+    "score": 7.99,
+    "scored": 7.99,
+    "scored_by": 2300,
+    "rank": 790,
+    "popularity": 3546,
+    "members": 6332,
+    "favorites": 175,
+    "synopsis": "Ryuu Ichijou, a boy who dreams of joining Japan's national soccer team. Ryuu is called a genius soccer player, and his aspirations seem within his reach, but when he is in elementary school he gets hit by a car while protecting his friend, and must face two years of grueling rehabilitation. Story focuses on Ryuu as he joins high school soccer club and works through the remnants of his injuries to achieve his goal.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 16699,
+            "type": "people",
+            "name": "Tanaka, Motoyuki",
+            "url": "https://myanimelist.net/people/16699/Motoyuki_Tanaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 22205,
+                    "type": "anime",
+                    "name": "Shounen Sunday CM: Be Blues! Ao ni Nare",
+                    "url": "https://myanimelist.net/anime/22205/Shounen_Sunday_CM__Be_Blues_Ao_ni_Nare"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://websunday.net/rensai/beblues/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/BE_BLUES!%E3%80%9C%E9%9D%92%E3%81%AB%E3%81%AA%E3%82%8C%E3%80%9C"
+        }
+    ]
+}

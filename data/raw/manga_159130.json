@@ -1,0 +1,121 @@
+{
+    "mal_id": 159130,
+    "url": "https://myanimelist.net/manga/159130/Nick_to_Lever",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/282286.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/282286t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/282286l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/282286.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/282286t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/282286l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nick to Lever"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nick & Lever"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nick and Lever"
+        },
+        {
+            "type": "Japanese",
+            "title": "ニックとレバー"
+        }
+    ],
+    "title": "Nick to Lever",
+    "title_english": null,
+    "title_japanese": "ニックとレバー",
+    "title_synonyms": [
+        "Nick & Lever",
+        "Nick and Lever"
+    ],
+    "type": "Manga",
+    "chapters": 134,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-10-12T00:00:00+00:00",
+        "to": "2023-09-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 10,
+                "year": 2020
+            },
+            "to": {
+                "day": 12,
+                "month": 9,
+                "year": 2023
+            }
+        },
+        "string": "Oct 12, 2020 to Sep 12, 2023"
+    },
+    "score": 8.08,
+    "scored": 8.08,
+    "scored_by": 1031,
+    "rank": 624,
+    "popularity": 7247,
+    "members": 2882,
+    "favorites": 84,
+    "synopsis": "The wacky story of Nick and Lever, two foreign men living in Japan.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 65926,
+            "type": "people",
+            "name": "Miyata, Kyougorou",
+            "url": "https://myanimelist.net/people/65926/Kyougorou_Miyata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 114,
+            "type": "manga",
+            "name": "Comic Beam",
+            "url": "https://myanimelist.net/manga/magazine/114/Comic_Beam"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comicbeam.com/product/nikkutoreba-/"
+        }
+    ]
+}

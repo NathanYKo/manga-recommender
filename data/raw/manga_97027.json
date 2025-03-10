@@ -1,0 +1,125 @@
+{
+    "mal_id": 97027,
+    "url": "https://myanimelist.net/manga/97027/Souboutei_Kowasubeshi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/183921.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/183921t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/183921l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/183921.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/183921t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/183921l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Souboutei Kowasubeshi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Souboutei Must be Destroyed"
+        },
+        {
+            "type": "Japanese",
+            "title": "双亡亭壊すべし"
+        }
+    ],
+    "title": "Souboutei Kowasubeshi",
+    "title_english": null,
+    "title_japanese": "双亡亭壊すべし",
+    "title_synonyms": [
+        "Souboutei Must be Destroyed"
+    ],
+    "type": "Manga",
+    "chapters": 250,
+    "volumes": 25,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-03-23T00:00:00+00:00",
+        "to": "2021-07-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 3,
+                "year": 2016
+            },
+            "to": {
+                "day": 21,
+                "month": 7,
+                "year": 2021
+            }
+        },
+        "string": "Mar 23, 2016 to Jul 21, 2021"
+    },
+    "score": 7.47,
+    "scored": 7.47,
+    "scored_by": 717,
+    "rank": 3189,
+    "popularity": 4797,
+    "members": 4585,
+    "favorites": 45,
+    "synopsis": "A mysterious mansion has towered proudly over the Tokyo district of Numanakarai since the Taisho period. Those who enter either never escape, or leave having experienced horrors untold, and with the desire to take revenge.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2660,
+            "type": "people",
+            "name": "Fujita, Kazuhiro",
+            "url": "https://myanimelist.net/people/2660/Kazuhiro_Fujita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.websunday.net/rensai/sobotei/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%8F%8C%E4%BA%A1%E4%BA%AD%E5%A3%8A%E3%81%99%E3%81%B9%E3%81%97"
+        }
+    ]
+}

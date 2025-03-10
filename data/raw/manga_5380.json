@@ -1,0 +1,166 @@
+{
+    "mal_id": 5380,
+    "url": "https://myanimelist.net/manga/5380/Hyouge_Mono",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/199292.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/199292t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/199292l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/199292.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/199292t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/199292l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hyouge Mono"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hyougemono"
+        },
+        {
+            "type": "Synonym",
+            "title": "Heugemono"
+        },
+        {
+            "type": "Synonym",
+            "title": "Odd Things"
+        },
+        {
+            "type": "Japanese",
+            "title": "へうげもの"
+        }
+    ],
+    "title": "Hyouge Mono",
+    "title_english": null,
+    "title_japanese": "へうげもの",
+    "title_synonyms": [
+        "Hyougemono",
+        "Heugemono",
+        "Odd Things"
+    ],
+    "type": "Manga",
+    "chapters": 273,
+    "volumes": 25,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-08-18T00:00:00+00:00",
+        "to": "2017-11-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 8,
+                "year": 2005
+            },
+            "to": {
+                "day": 30,
+                "month": 11,
+                "year": 2017
+            }
+        },
+        "string": "Aug 18, 2005 to Nov 30, 2017"
+    },
+    "score": 7.9,
+    "scored": 7.9,
+    "scored_by": 430,
+    "rank": 989,
+    "popularity": 6995,
+    "members": 3009,
+    "favorites": 50,
+    "synopsis": "It was the Sengoku-era, when the warlords usurped each other. There was a man whose soul was overtaken by the ways of tea and material greed, as he worked his way up toward greater power and status. His name was Sasuke Furuta, a subordinate warrior of Nobunaga Oda. With his world broadened by Nobunaga the Genius, and his spiritual insight learned from Senno Soueki the Master of Tea, Sasuke drove the road to hyouge. To live or not to live. For the power of the art. That is the question!\n\n(Source: Kodansha)",
+    "background": "Hyouge Mono won the Grand Prize at the 2010 Tezuka Osamu Cultural Prize.",
+    "authors": [
+        {
+            "mal_id": 4567,
+            "type": "people",
+            "name": "Yamada, Yoshihiro",
+            "url": "https://myanimelist.net/people/4567/Yoshihiro_Yamada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Morning",
+            "url": "https://myanimelist.net/manga/magazine/72/Morning"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Samurai",
+            "url": "https://myanimelist.net/manga/genre/21/Samurai"
+        },
+        {
+            "mal_id": 82,
+            "type": "manga",
+            "name": "Visual Arts",
+            "url": "https://myanimelist.net/manga/genre/82/Visual_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9996,
+                    "type": "anime",
+                    "name": "Hyouge Mono",
+                    "url": "https://myanimelist.net/anime/9996/Hyouge_Mono"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hyouge_Mono"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%B8%E3%81%86%E3%81%92%E3%82%82%E3%81%AE"
+        }
+    ]
+}

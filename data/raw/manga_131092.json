@@ -1,0 +1,168 @@
+{
+    "mal_id": 131092,
+    "url": "https://myanimelist.net/manga/131092/Maou-sama_Retry_R",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/238838.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/238838t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/238838l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/238838.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/238838t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/238838l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Maou-sama, Retry! R"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔王様、リトライ! R"
+        },
+        {
+            "type": "English",
+            "title": "Demon Lord, Retry! R"
+        }
+    ],
+    "title": "Maou-sama, Retry! R",
+    "title_english": "Demon Lord, Retry! R",
+    "title_japanese": "魔王様、リトライ! R",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-03-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 3,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 6, 2020 to ?"
+    },
+    "score": 7.15,
+    "scored": 7.15,
+    "scored_by": 1010,
+    "rank": 6829,
+    "popularity": 5070,
+    "members": 4325,
+    "favorites": 15,
+    "synopsis": "The Demon Lord continues his adventure in this re-vamped series! After encountering the mysterious entity in the lowest level of the Bastille Dungeon, he sets out for Hellion Territory, where Grand Devils vie for domination of the realm. With the addition of a new advisor—the (seemingly) hopeless optimist Akane—the Demon Lord's army grows even more colorful, and their hijinks even wackier.\n\n(Source: J-Novel Club)",
+    "background": "Maou-sama, Retry! R has been published digitally in English as Demon Lord, Retry! R by J-Novel Club since November 3, 2021.",
+    "authors": [
+        {
+            "mal_id": 45648,
+            "type": "people",
+            "name": "Kanzaki, Kurone",
+            "url": "https://myanimelist.net/people/45648/Kurone_Kanzaki"
+        },
+        {
+            "mal_id": 49264,
+            "type": "people",
+            "name": "Minotake, Amaru",
+            "url": "https://myanimelist.net/people/49264/Amaru_Minotake"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1538,
+            "type": "manga",
+            "name": "Gaugau Monster",
+            "url": "https://myanimelist.net/manga/magazine/1538/Gaugau_Monster"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 113946,
+                    "type": "manga",
+                    "name": "Maou-sama, Retry!",
+                    "url": "https://myanimelist.net/manga/113946/Maou-sama_Retry"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 107782,
+                    "type": "manga",
+                    "name": "Maou-sama, Retry!",
+                    "url": "https://myanimelist.net/manga/107782/Maou-sama_Retry"
+                },
+                {
+                    "mal_id": 38297,
+                    "type": "anime",
+                    "name": "Maou-sama, Retry!",
+                    "url": "https://myanimelist.net/anime/38297/Maou-sama_Retry"
+                },
+                {
+                    "mal_id": 56400,
+                    "type": "anime",
+                    "name": "Maou-sama, Retry! R",
+                    "url": "https://myanimelist.net/anime/56400/Maou-sama_Retry_R"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://gaugau.futabanet.jp/list/work/5f72ddc977656194ce000000"
+        },
+        {
+            "name": "@maousama_info",
+            "url": "https://twitter.com/maousama_info?t=ji7xhAkSEycxTqaK5XYKUA&s=09"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%AD%94%E7%8E%8B%E6%A7%98%E3%80%81%E3%83%AA%E3%83%88%E3%83%A9%E3%82%A4!"
+        }
+    ]
+}

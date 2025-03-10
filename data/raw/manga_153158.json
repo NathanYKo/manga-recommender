@@ -1,0 +1,152 @@
+{
+    "mal_id": 153158,
+    "url": "https://myanimelist.net/manga/153158/Telework_Yotabanashi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/282072.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/282072t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/282072l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/282072.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/282072t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/282072l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Telework Yotabanashi"
+        },
+        {
+            "type": "Japanese",
+            "title": "テレワァク与太話"
+        },
+        {
+            "type": "English",
+            "title": "Home Office Romance"
+        }
+    ],
+    "title": "Telework Yotabanashi",
+    "title_english": "Home Office Romance",
+    "title_japanese": "テレワァク与太話",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 20,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-08-02T00:00:00+00:00",
+        "to": "2023-04-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 8,
+                "year": 2020
+            },
+            "to": {
+                "day": 13,
+                "month": 4,
+                "year": 2023
+            }
+        },
+        "string": "Aug 2, 2020 to Apr 13, 2023"
+    },
+    "score": 8.11,
+    "scored": 8.11,
+    "scored_by": 9133,
+    "rank": 577,
+    "popularity": 1163,
+    "members": 17445,
+    "favorites": 268,
+    "synopsis": "Amidst a pandemic, system engineer Nokoru Mitsuhashi is ordered to telework. Spending far more time at home than he knows what to do with, he eventually meets Natsu Izumi, an archeology grad student living next door. While adjusting to life during the lockdown, Nokoru discovers newfound emotions as he navigates his relationship with Natsu, who—unbeknownst to him—is his future wife!\n\n[Written by MAL Rewrite]",
+    "background": "Telework Yotabanashi was published in English as Home Office Romance by Kodansha USA on November 12, 2024.",
+    "authors": [
+        {
+            "mal_id": 46894,
+            "type": "people",
+            "name": "Yamada, Kintetsu",
+            "url": "https://myanimelist.net/people/46894/Kintetsu_Yamada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Morning",
+            "url": "https://myanimelist.net/manga/magazine/72/Morning"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 143427,
+                    "type": "manga",
+                    "name": "Zengun Funtou!: Yamada Kintetsu Tanpenshuu",
+                    "url": "https://myanimelist.net/manga/143427/Zengun_Funtou__Yamada_Kintetsu_Tanpenshuu"
+                },
+                {
+                    "mal_id": 133596,
+                    "type": "manga",
+                    "name": "Manga Day to Day",
+                    "url": "https://myanimelist.net/manga/133596/Manga_Day_to_Day"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/home-office-romance"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://morning.kodansha.co.jp/c/teleworkyotabanashi"
+        },
+        {
+            "name": "@asetotelework",
+            "url": "https://twitter.com/asetotelework"
+        }
+    ]
+}

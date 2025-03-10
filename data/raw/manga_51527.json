@@ -1,0 +1,139 @@
+{
+    "mal_id": 51527,
+    "url": "https://myanimelist.net/manga/51527/Yume_Nikki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/123761.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/123761t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/123761l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/123761.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/123761t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/123761l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yume Nikki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dream Diary"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゆめにっき"
+        }
+    ],
+    "title": "Yume Nikki",
+    "title_english": null,
+    "title_japanese": "ゆめにっき",
+    "title_synonyms": [
+        "Dream Diary"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-05-20T00:00:00+00:00",
+        "to": "2014-03-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 5,
+                "year": 2013
+            },
+            "to": {
+                "day": 13,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "May 20, 2013 to Mar 13, 2014"
+    },
+    "score": 5.68,
+    "scored": 5.68,
+    "scored_by": 3038,
+    "rank": 20222,
+    "popularity": 3602,
+    "members": 6250,
+    "favorites": 81,
+    "synopsis": "Haunted by a recurring dream, young Madotsuki travels to another world every night. In this place, she faces a room containing 12 doors. Armed with curiosity and determination, Madotsuki sidelines her worries and voyages through these worlds, searching for the cause of their existence.\n\nWith each door hiding a unique theme, scenery, and dynamic, Madotsuki learns that the dream worlds are cunning and life-threatening. Will she resolve the mystery behind the 12 doors, or will she become bound to the dreamscape?\n\n[Written by MAL Rewrite]",
+    "background": "Yume Nikki is based on the 2004 adventure game of the same name.",
+    "authors": [
+        {
+            "mal_id": 2664,
+            "type": "people",
+            "name": "Tomizawa, Hitoshi",
+            "url": "https://myanimelist.net/people/2664/Hitoshi_Tomizawa"
+        },
+        {
+            "mal_id": 22303,
+            "type": "people",
+            "name": "Kikiyama",
+            "url": "https://myanimelist.net/people/22303/Kikiyama"
+        },
+        {
+            "mal_id": 22305,
+            "type": "people",
+            "name": "Machigerita",
+            "url": "https://myanimelist.net/people/22305/Machigerita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1103,
+            "type": "manga",
+            "name": "Web Comic Gamma",
+            "url": "https://myanimelist.net/manga/magazine/1103/Web_Comic_Gamma"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 56759,
+                    "type": "manga",
+                    "name": "Yume Nikki: Anata no Yume ni Watashi wa Inai",
+                    "url": "https://myanimelist.net/manga/56759/Yume_Nikki__Anata_no_Yume_ni_Watashi_wa_Inai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%86%E3%82%81%E3%81%AB%E3%81%A3%E3%81%8D"
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "mal_id": 42069,
+    "url": "https://myanimelist.net/manga/42069/Le_Théâtre_de_A",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/73567.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/73567t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/73567l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/73567.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/73567t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/73567l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Le Théâtre de A"
+        },
+        {
+            "type": "Synonym",
+            "title": "Le Theatre de A"
+        },
+        {
+            "type": "Synonym",
+            "title": "A no Gekijou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Oeufs d'Ange"
+        },
+        {
+            "type": "Synonym",
+            "title": "Velvet Going Underground"
+        },
+        {
+            "type": "Synonym",
+            "title": "Long Along Alonging"
+        },
+        {
+            "type": "Synonym",
+            "title": "Till Dawn"
+        },
+        {
+            "type": "Synonym",
+            "title": "Perfect World"
+        },
+        {
+            "type": "Synonym",
+            "title": "Looks Like a Teaspoon"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Pearl Blue Story"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Am a Piano"
+        },
+        {
+            "type": "Japanese",
+            "title": "LE THÉÂTRE DE A"
+        }
+    ],
+    "title": "Le Théâtre de A",
+    "title_english": null,
+    "title_japanese": "LE THÉÂTRE DE A",
+    "title_synonyms": [
+        "Le Theatre de A",
+        "A no Gekijou",
+        "Oeufs d'Ange",
+        "Velvet Going Underground",
+        "Long Along Alonging",
+        "Till Dawn",
+        "Perfect World",
+        "Looks Like a Teaspoon",
+        "The Pearl Blue Story",
+        "I Am a Piano"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-05-24T00:00:00+00:00",
+        "to": "2008-11-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 5,
+                "year": 2005
+            },
+            "to": {
+                "day": 24,
+                "month": 11,
+                "year": 2008
+            }
+        },
+        "string": "May 24, 2005 to Nov 24, 2008"
+    },
+    "score": 7.49,
+    "scored": 7.49,
+    "scored_by": 3377,
+    "rank": 3026,
+    "popularity": 3372,
+    "members": 6633,
+    "favorites": 72,
+    "synopsis": "A collection of Nakamura Asumiko's works previously published in Gothic &amp; Lolita Bible vol.16~30, compiled in a hardback, all-color volume.\n\n1. Tenshi no Tamago\n2. Velvet Going Underground\n3. Childhood's End\n4. Bite Me Something\n5. Long Along Alonging\n6. Till Dawn\n7. Leçon un\n8. My Skin on my Back\n9. Highland Walker\n10. Perfect World\n11. Perfect Lady\n12-13. Looks like a Teaspoon\n14. The Peal Blue Story\n15. I am a Piano\n16. Parade",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5583,
+            "type": "people",
+            "name": "Nakamura, Asumiko",
+            "url": "https://myanimelist.net/people/5583/Asumiko_Nakamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 237,
+            "type": "manga",
+            "name": "Gothic & Lolita Bible",
+            "url": "https://myanimelist.net/manga/magazine/237/Gothic__amp__Lolita_Bible"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 20063,
+                    "type": "manga",
+                    "name": "Le Théâtre de B",
+                    "url": "https://myanimelist.net/manga/20063/Le_Théâtre_de_B"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

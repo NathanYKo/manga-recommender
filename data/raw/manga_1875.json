@@ -1,0 +1,126 @@
+{
+    "mal_id": 1875,
+    "url": "https://myanimelist.net/manga/1875/Caramel_Milk_Tea",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/183167.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/183167t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/183167l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/183167.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/183167t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/183167l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Caramel Milk Tea"
+        },
+        {
+            "type": "Synonym",
+            "title": "Futari no Jikan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kirakira no Kimochi"
+        },
+        {
+            "type": "Synonym",
+            "title": "No.1 Girl"
+        },
+        {
+            "type": "Japanese",
+            "title": "キャラメルミルクティー"
+        }
+    ],
+    "title": "Caramel Milk Tea",
+    "title_english": null,
+    "title_japanese": "キャラメルミルクティー",
+    "title_synonyms": [
+        "Futari no Jikan",
+        "Kirakira no Kimochi",
+        "No.1 Girl"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-08-11T00:00:00+00:00",
+        "to": "2002-11-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 8,
+                "year": 2001
+            },
+            "to": {
+                "day": 13,
+                "month": 11,
+                "year": 2002
+            }
+        },
+        "string": "Aug 11, 2001 to Nov 13, 2002"
+    },
+    "score": 7.15,
+    "scored": 7.15,
+    "scored_by": 2024,
+    "rank": 6798,
+    "popularity": 5685,
+    "members": 3790,
+    "favorites": 7,
+    "synopsis": "1. Caramel Milk Tea\n2. Futari no Jikan\n3. Kirakira no Kimochi\n4. No.1 Girl",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3188,
+            "type": "people",
+            "name": "Usami, Maki",
+            "url": "https://myanimelist.net/people/3188/Maki_Usami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 3354,
+                    "type": "manga",
+                    "name": "Orange Kiss",
+                    "url": "https://myanimelist.net/manga/3354/Orange_Kiss"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

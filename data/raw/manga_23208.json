@@ -1,0 +1,167 @@
+{
+    "mal_id": 23208,
+    "url": "https://myanimelist.net/manga/23208/Rock_Lee_no_Seishun_Full-Power_Ninden",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/127187.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/127187t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/127187l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/127187.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/127187t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/127187l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rock Lee no Seishun Full-Power Ninden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rock Lee no Seishun Special"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rock Lee's Springtime of Youth"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rock Lee and His Ninja Pals"
+        },
+        {
+            "type": "Japanese",
+            "title": "ロック・リーの青春フルパワー忍伝"
+        }
+    ],
+    "title": "Rock Lee no Seishun Full-Power Ninden",
+    "title_english": null,
+    "title_japanese": "ロック・リーの青春フルパワー忍伝",
+    "title_synonyms": [
+        "Rock Lee no Seishun Special",
+        "Rock Lee's Springtime of Youth",
+        "Rock Lee and His Ninja Pals"
+    ],
+    "type": "Manga",
+    "chapters": 39,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-12-03T00:00:00+00:00",
+        "to": "2014-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 12,
+                "year": 2010
+            },
+            "to": {
+                "day": 4,
+                "month": 7,
+                "year": 2014
+            }
+        },
+        "string": "Dec 3, 2010 to Jul 4, 2014"
+    },
+    "score": 6.97,
+    "scored": 6.97,
+    "scored_by": 3138,
+    "rank": 9512,
+    "popularity": 3560,
+    "members": 6318,
+    "favorites": 61,
+    "synopsis": "Spin-off series that focuses on the strange antics of Team Guy as they work on becoming great ninjas, a job which often requires saving Lee from himself!",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 13163,
+            "type": "people",
+            "name": "Taira, Kenji",
+            "url": "https://myanimelist.net/people/13163/Kenji_Taira"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 697,
+            "type": "manga",
+            "name": "Saikyou Jump",
+            "url": "https://myanimelist.net/manga/magazine/697/Saikyou_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 12979,
+                    "type": "anime",
+                    "name": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
+                    "url": "https://myanimelist.net/anime/12979/Naruto_SD__Rock_Lee_no_Seishun_Full-Power_Ninden"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 11,
+                    "type": "manga",
+                    "name": "Naruto",
+                    "url": "https://myanimelist.net/manga/11/Naruto"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%BC%E3%81%AE%E9%9D%92%E6%98%A5%E3%83%95%E3%83%AB%E3%83%91%E3%83%AF%E3%83%BC%E5%BF%8D%E4%BC%9D"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "mal_id": 40415,
+    "url": "https://myanimelist.net/manga/40415/Love_Log",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/71237.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/71237t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/71237l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/71237.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/71237t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/71237l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Love Log"
+        },
+        {
+            "type": "Japanese",
+            "title": "初恋日志"
+        }
+    ],
+    "title": "Love Log",
+    "title_english": null,
+    "title_japanese": "初恋日志",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-07-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 10, 2012"
+    },
+    "score": 7.07,
+    "scored": 7.07,
+    "scored_by": 1550,
+    "rank": 7918,
+    "popularity": 7451,
+    "members": 2783,
+    "favorites": 9,
+    "synopsis": "Okubo Souka hates girls but what happens when he's paired up with the quiet Magura for class duty?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2432,
+            "type": "people",
+            "name": "Tokeino, Hari",
+            "url": "https://myanimelist.net/people/2432/Hari_Tokeino"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 805,
+            "type": "manga",
+            "name": "Ao Lala",
+            "url": "https://myanimelist.net/manga/magazine/805/Ao_Lala"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,144 @@
+{
+    "mal_id": 7075,
+    "url": "https://myanimelist.net/manga/7075/Karate_Shoukoushi_Kohinata_Minoru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/75107.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/75107t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/75107l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/75107.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/75107t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/75107l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Karate Shoukoushi Kohinata Minoru"
+        },
+        {
+            "type": "Synonym",
+            "title": "Karate Shoukoushi Kohinata Kairyuu"
+        },
+        {
+            "type": "Japanese",
+            "title": "空手小公子小日向海流"
+        }
+    ],
+    "title": "Karate Shoukoushi Kohinata Minoru",
+    "title_english": null,
+    "title_japanese": "空手小公子小日向海流",
+    "title_synonyms": [
+        "Karate Shoukoushi Kohinata Kairyuu"
+    ],
+    "type": "Manga",
+    "chapters": 500,
+    "volumes": 50,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-03-27T00:00:00+00:00",
+        "to": "2012-08-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 3,
+                "year": 2000
+            },
+            "to": {
+                "day": 27,
+                "month": 8,
+                "year": 2012
+            }
+        },
+        "string": "Mar 27, 2000 to Aug 27, 2012"
+    },
+    "score": 7.49,
+    "scored": 7.49,
+    "scored_by": 8700,
+    "rank": 3034,
+    "popularity": 1004,
+    "members": 19892,
+    "favorites": 250,
+    "synopsis": "Kohinata Minoru is a college student at a college that is popular for its sports rather than academic orientation. Although he starts out as a gymnast alongside his friend, Nana, Minoru is bullied by the higher ranked gymnasts. One evening, a karate student at the college, Mutou Ryuuji, witnesses Minoru being bullied and comes to the rescue... but his intentions aren't to save Minoru, but to drag him into the world of karate. Minoru makes new friends and learns some of their dark pasts, including a shocking death that reveals motives for revenge.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5054,
+            "type": "people",
+            "name": "Baba, Yasushi",
+            "url": "https://myanimelist.net/people/5054/Yasushi_Baba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/manga/genre/54/Combat_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 66293,
+                    "type": "manga",
+                    "name": "Karate Shoukoushi Monogatari",
+                    "url": "https://myanimelist.net/manga/66293/Karate_Shoukoushi_Monogatari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.yasushi-baba.com/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%A9%BA%E6%89%8B%E5%B0%8F%E5%85%AC%E5%AD%90%E5%B0%8F%E6%97%A5%E5%90%91%E6%B5%B7%E6%B5%81"
+        }
+    ]
+}

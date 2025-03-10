@@ -1,0 +1,140 @@
+{
+    "mal_id": 146879,
+    "url": "https://myanimelist.net/manga/146879/Manager_Kim",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/260734.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/260734t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/260734l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/260734.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/260734t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/260734l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Manager Kim"
+        },
+        {
+            "type": "Synonym",
+            "title": "Directory Kim"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kim Bujang"
+        },
+        {
+            "type": "Japanese",
+            "title": "김부장"
+        },
+        {
+            "type": "English",
+            "title": "Manager Kim"
+        }
+    ],
+    "title": "Manager Kim",
+    "title_english": "Manager Kim",
+    "title_japanese": "김부장",
+    "title_synonyms": [
+        "Directory Kim",
+        "Kim Bujang"
+    ],
+    "type": "Manhwa",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2021-10-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 10,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 29, 2021 to ?"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 2254,
+    "rank": 4419,
+    "popularity": 3221,
+    "members": 6973,
+    "favorites": 46,
+    "synopsis": "Single father, company manager, and former black-ops member, Mr. Kim lived an ordinary life until his daughter, Minji, went missing. After discovering his daughter could be dead, Mr. Kim turns merciless and sets out for information. He will rescue his daughter by any means necessary, even if it means destroying everything and everyone standing in his path.\n\n(Source: Webtoon Entertainment)",
+    "background": "Manager Kim has been published digitally in English by Webtoon Entertainment since February 11, 2022.",
+    "authors": [
+        {
+            "mal_id": 58235,
+            "type": "people",
+            "name": "Toy",
+            "url": "https://myanimelist.net/people/58235/Toy"
+        },
+        {
+            "mal_id": 58236,
+            "type": "people",
+            "name": "Jeong, Jongtaek",
+            "url": "https://myanimelist.net/people/58236/Jongtaek_Jeong"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 111202,
+                    "type": "manga",
+                    "name": "Lookism",
+                    "url": "https://myanimelist.net/manga/111202/Lookism"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.naver.com/webtoon/list?titleId=783053"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EA%B9%80%EB%B6%80%EC%9E%A5(%EC%9B%B9%ED%88%B0)"
+        }
+    ]
+}

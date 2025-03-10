@@ -1,0 +1,150 @@
+{
+    "mal_id": 22699,
+    "url": "https://myanimelist.net/manga/22699/Black_Lagoon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/257892.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/257892t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/257892l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/257892.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/257892t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/257892l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Black Lagoon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shaitane Badi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ballad of the Sinful Wizard"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブラック・ラグーン"
+        }
+    ],
+    "title": "Black Lagoon",
+    "title_english": null,
+    "title_japanese": "ブラック・ラグーン",
+    "title_synonyms": [
+        "Shaitane Badi",
+        "Ballad of the Sinful Wizard"
+    ],
+    "type": "Light Novel",
+    "chapters": 33,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-07-19T00:00:00+00:00",
+        "to": "2011-01-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 7,
+                "year": 2008
+            },
+            "to": {
+                "day": 18,
+                "month": 1,
+                "year": 2011
+            }
+        },
+        "string": "Jul 19, 2008 to Jan 18, 2011"
+    },
+    "score": 7.96,
+    "scored": 7.96,
+    "scored_by": 733,
+    "rank": 842,
+    "popularity": 5715,
+    "members": 3768,
+    "favorites": 171,
+    "synopsis": "Rock (Okajima Rokuro) was just a normal Japanese businessman, but through a series of unlikely events, he found himself part of the \"Lagoon Company,\" a group of transporters who do a little pirating on the side. Together with Dutch, Revy, and Benny, he sails the seas of Asia aboard the modified torpedo boat \"Black Lagoon.\"\n\nTheir base, the lawless city of Roanapur, is just barely balanced on the brink of outright war, controlled and occupied by criminal organizations from across the globe. Standing above the rest are Balalaika of Russia and Chang of Hong Kong.\n\nOur story finds Roanapur just a little while before Rock, with Revy in tow, is due to head back to his old home of Japan.\n\nIt is a tale about soldiers who once fought united under a cause in a land of sandy winds, the strictly personal reunion of a captain and her one-time subordinate...\n\n(Source: Anonymous Spore)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2578,
+            "type": "people",
+            "name": "Hiroe, Rei",
+            "url": "https://myanimelist.net/people/2578/Rei_Hiroe"
+        },
+        {
+            "mal_id": 10308,
+            "type": "people",
+            "name": "Urobuchi, Gen",
+            "url": "https://myanimelist.net/people/10308/Gen_Urobuchi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 69,
+            "type": "manga",
+            "name": "Organized Crime",
+            "url": "https://myanimelist.net/manga/genre/69/Organized_Crime"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 735,
+                    "type": "manga",
+                    "name": "Black Lagoon",
+                    "url": "https://myanimelist.net/manga/735/Black_Lagoon"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/BLACK_LAGOON"
+        }
+    ]
+}

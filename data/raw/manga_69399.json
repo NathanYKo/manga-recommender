@@ -1,0 +1,179 @@
+{
+    "mal_id": 69399,
+    "url": "https://myanimelist.net/manga/69399/K__Lost_Small_World",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/120799.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/120799t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/120799l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/120799.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/120799t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/120799l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "K: Lost Small World"
+        },
+        {
+            "type": "Japanese",
+            "title": "K -Lost Small World-"
+        }
+    ],
+    "title": "K: Lost Small World",
+    "title_english": null,
+    "title_japanese": "K -Lost Small World-",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 1, 2014"
+    },
+    "score": 7.83,
+    "scored": 7.83,
+    "scored_by": 511,
+    "rank": 1221,
+    "popularity": 8039,
+    "members": 2541,
+    "favorites": 42,
+    "synopsis": "Focused on Yata's and Fushimi's past. There are three parts: \"Meeting,\" \"Getting Along,\" and \"Betraying.\"",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3690,
+            "type": "people",
+            "name": "Kabei, Yukako",
+            "url": "https://myanimelist.net/people/3690/Yukako_Kabei"
+        },
+        {
+            "mal_id": 10132,
+            "type": "people",
+            "name": "Suzuki, Shingo",
+            "url": "https://myanimelist.net/people/10132/Shingo_Suzuki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 73451,
+                    "type": "manga",
+                    "name": "K: Lost Small World",
+                    "url": "https://myanimelist.net/manga/73451/K__Lost_Small_World"
+                },
+                {
+                    "mal_id": 14467,
+                    "type": "anime",
+                    "name": "K",
+                    "url": "https://myanimelist.net/anime/14467/K"
+                },
+                {
+                    "mal_id": 37305,
+                    "type": "anime",
+                    "name": "K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni",
+                    "url": "https://myanimelist.net/anime/37305/K__Seven_Stories_Movie_4_-_Lost_Small_World_-_Ori_no_Mukou_ni"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 41435,
+                    "type": "manga",
+                    "name": "K: Memory of Red",
+                    "url": "https://myanimelist.net/manga/41435/K__Memory_of_Red"
+                },
+                {
+                    "mal_id": 47028,
+                    "type": "manga",
+                    "name": "K Side:Blue",
+                    "url": "https://myanimelist.net/manga/47028/K_Side_Blue"
+                },
+                {
+                    "mal_id": 45451,
+                    "type": "manga",
+                    "name": "K: Stray Dog Story",
+                    "url": "https://myanimelist.net/manga/45451/K__Stray_Dog_Story"
+                },
+                {
+                    "mal_id": 47030,
+                    "type": "manga",
+                    "name": "K Side:Red",
+                    "url": "https://myanimelist.net/manga/47030/K_Side_Red"
+                },
+                {
+                    "mal_id": 51769,
+                    "type": "manga",
+                    "name": "K Side:Black & White",
+                    "url": "https://myanimelist.net/manga/51769/K_Side_Black___White"
+                },
+                {
+                    "mal_id": 59675,
+                    "type": "manga",
+                    "name": "K: Days of Blue",
+                    "url": "https://myanimelist.net/manga/59675/K__Days_of_Blue"
+                },
+                {
+                    "mal_id": 61999,
+                    "type": "manga",
+                    "name": "K: The First",
+                    "url": "https://myanimelist.net/manga/61999/K__The_First"
+                },
+                {
+                    "mal_id": 62001,
+                    "type": "manga",
+                    "name": "Gakuen K",
+                    "url": "https://myanimelist.net/manga/62001/Gakuen_K"
+                },
+                {
+                    "mal_id": 114290,
+                    "type": "manga",
+                    "name": "K: R:B",
+                    "url": "https://myanimelist.net/manga/114290/K__R_B"
+                },
+                {
+                    "mal_id": 112652,
+                    "type": "manga",
+                    "name": "K Side:Green",
+                    "url": "https://myanimelist.net/manga/112652/K_Side_Green"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

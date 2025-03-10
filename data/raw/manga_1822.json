@@ -1,0 +1,166 @@
+{
+    "mal_id": 1822,
+    "url": "https://myanimelist.net/manga/1822/Kanon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/1960.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/1960t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/1960l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/1960.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/1960t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/1960l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kanon"
+        },
+        {
+            "type": "Japanese",
+            "title": "Kanon"
+        }
+    ],
+    "title": "Kanon",
+    "title_english": null,
+    "title_japanese": "Kanon",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-10-21T00:00:00+00:00",
+        "to": "2002-05-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 10,
+                "year": 2000
+            },
+            "to": {
+                "day": 21,
+                "month": 5,
+                "year": 2002
+            }
+        },
+        "string": "Oct 21, 2000 to May 21, 2002"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 1039,
+    "rank": 8463,
+    "popularity": 7452,
+    "members": 2782,
+    "favorites": 21,
+    "synopsis": "Kanon is the story of Yuuichi Aizawa and his return to his always snowy hometown after eight years. The problem is that Yuuichi doesn't remember his time there and all the people he met, so he has to gradually begin to remember everything. Of course this being a love story Yuuichi meets several girls including his cousin Naiyuki, the taiyaki obsessed Ayu, the silent Mai, the cute yet aggressive Makoto, and the terminally ill Shiori. \n\n(Source: Otakuism)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2885,
+            "type": "people",
+            "name": "Key",
+            "url": "https://myanimelist.net/people/2885/Key"
+        },
+        {
+            "mal_id": 22711,
+            "type": "people",
+            "name": "Morishima, Petit",
+            "url": "https://myanimelist.net/people/22711/Petit_Morishima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 144,
+                    "type": "anime",
+                    "name": "Kanon",
+                    "url": "https://myanimelist.net/anime/144/Kanon"
+                },
+                {
+                    "mal_id": 1530,
+                    "type": "anime",
+                    "name": "Kanon (2006)",
+                    "url": "https://myanimelist.net/anime/1530/Kanon_2006"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 4152,
+                    "type": "manga",
+                    "name": "Kanon & Air: Sky",
+                    "url": "https://myanimelist.net/manga/4152/Kanon___Air__Sky"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 68927,
+                    "type": "manga",
+                    "name": "Kanon",
+                    "url": "https://myanimelist.net/manga/68927/Kanon"
+                },
+                {
+                    "mal_id": 7177,
+                    "type": "manga",
+                    "name": "Kanon: Another Story - Wonderthree",
+                    "url": "https://myanimelist.net/manga/7177/Kanon__Another_Story_-_Wonderthree"
+                },
+                {
+                    "mal_id": 3843,
+                    "type": "manga",
+                    "name": "Kanon: Honto no Omoi wa Egao no Mukougawa ni",
+                    "url": "https://myanimelist.net/manga/3843/Kanon__Honto_no_Omoi_wa_Egao_no_Mukougawa_ni"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 151379,
+                    "type": "manga",
+                    "name": "Kaginado: Comic Anthology",
+                    "url": "https://myanimelist.net/manga/151379/Kaginado__Comic_Anthology"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

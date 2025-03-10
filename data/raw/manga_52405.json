@@ -1,0 +1,116 @@
+{
+    "mal_id": 52405,
+    "url": "https://myanimelist.net/manga/52405/Akuma_no_Ichigo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/92533.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/92533t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/92533l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/92533.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/92533t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/92533l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Akuma no Ichigo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Strawberry Holic"
+        },
+        {
+            "type": "Japanese",
+            "title": "悪魔の苺"
+        }
+    ],
+    "title": "Akuma no Ichigo",
+    "title_english": null,
+    "title_japanese": "悪魔の苺",
+    "title_synonyms": [
+        "Strawberry Holic"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-12-20T00:00:00+00:00",
+        "to": "2013-03-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": 5,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Dec 20, 2012 to Mar 5, 2013"
+    },
+    "score": 6.9,
+    "scored": 6.9,
+    "scored_by": 1648,
+    "rank": 10638,
+    "popularity": 6101,
+    "members": 3520,
+    "favorites": 8,
+    "synopsis": "The shy Ichigo is interested in creating Western-style clothes. But that trivial hobby will let her make an unexpected encounter that we call love...\n\n(Source: Chibi Manga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11324,
+            "type": "people",
+            "name": "Kayoru",
+            "url": "https://myanimelist.net/people/11324/Kayoru"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Sho-Comi",
+            "url": "https://myanimelist.net/manga/magazine/22/Sho-Comi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,125 @@
+{
+    "mal_id": 3586,
+    "url": "https://myanimelist.net/manga/3586/Rivers_Edge",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/25190.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/25190t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/25190l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/25190.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/25190t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/25190l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "River's Edge"
+        },
+        {
+            "type": "Japanese",
+            "title": "リバーズ・エッジ"
+        },
+        {
+            "type": "English",
+            "title": "River's Edge"
+        }
+    ],
+    "title": "River's Edge",
+    "title_english": "River's Edge",
+    "title_japanese": "リバーズ・エッジ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1993"
+    },
+    "score": 7.3,
+    "scored": 7.3,
+    "scored_by": 2160,
+    "rank": 4853,
+    "popularity": 3139,
+    "members": 7160,
+    "favorites": 160,
+    "synopsis": "Haruna Wakakusa and Yamada become friends after she saves him several times from her boyfriend's constant bullying. Through him she gets to know Kozue Yoshikawa, a fellow student who also models professionally. The three emotionally stunted teens' lives briefly yet intensely intertwine for one semester before splintering from the aftereffects of one disastrous night. For both Wakakusa and Yamada, their emotional awakening fosters an unlikely friendship between the two battered souls.\n\n(Source: MU)",
+    "background": "River's Edge was published in English by Kodansha USA under the Vertical Comics imprint on June 27, 2023.",
+    "authors": [
+        {
+            "mal_id": 2714,
+            "type": "people",
+            "name": "Okazaki, Kyoko",
+            "url": "https://myanimelist.net/people/2714/Kyoko_Okazaki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 3104,
+                    "type": "manga",
+                    "name": "Helter Skelter",
+                    "url": "https://myanimelist.net/manga/3104/Helter_Skelter"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/rivers-edge/"
+        }
+    ]
+}

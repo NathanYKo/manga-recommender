@@ -1,0 +1,133 @@
+{
+    "mal_id": 73451,
+    "url": "https://myanimelist.net/manga/73451/K__Lost_Small_World",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166578.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166578t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166578l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166578.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166578t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166578l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "K: Lost Small World"
+        },
+        {
+            "type": "Japanese",
+            "title": "K -Lost Small World-"
+        }
+    ],
+    "title": "K: Lost Small World",
+    "title_english": null,
+    "title_japanese": "K -Lost Small World-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-06-13T00:00:00+00:00",
+        "to": "2016-06-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 6,
+                "year": 2014
+            },
+            "to": {
+                "day": 13,
+                "month": 6,
+                "year": 2016
+            }
+        },
+        "string": "Jun 13, 2014 to Jun 13, 2016"
+    },
+    "score": 7.82,
+    "scored": 7.82,
+    "scored_by": 667,
+    "rank": 1279,
+    "popularity": 8410,
+    "members": 2404,
+    "favorites": 61,
+    "synopsis": "The series tells the story of how Misaki Yata and Saruhiko Fushimi met and parted ways.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 18473,
+            "type": "people",
+            "name": "GoRA",
+            "url": "https://myanimelist.net/people/18473/GoRA"
+        },
+        {
+            "mal_id": 32183,
+            "type": "people",
+            "name": "Ookita, Yoru",
+            "url": "https://myanimelist.net/people/32183/Yoru_Ookita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1141,
+            "type": "manga",
+            "name": "Hatsu Kiss",
+            "url": "https://myanimelist.net/manga/magazine/1141/Hatsu_Kiss"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 69399,
+                    "type": "manga",
+                    "name": "K: Lost Small World",
+                    "url": "https://myanimelist.net/manga/69399/K__Lost_Small_World"
+                },
+                {
+                    "mal_id": 14467,
+                    "type": "anime",
+                    "name": "K",
+                    "url": "https://myanimelist.net/anime/14467/K"
+                },
+                {
+                    "mal_id": 37305,
+                    "type": "anime",
+                    "name": "K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni",
+                    "url": "https://myanimelist.net/anime/37305/K__Seven_Stories_Movie_4_-_Lost_Small_World_-_Ori_no_Mukou_ni"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/K_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+        }
+    ]
+}

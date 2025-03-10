@@ -1,0 +1,104 @@
+{
+    "mal_id": 9135,
+    "url": "https://myanimelist.net/manga/9135/17",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/57673.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/57673t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/57673l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/57673.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/57673t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/57673l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "17"
+        },
+        {
+            "type": "Synonym",
+            "title": "17 Juunana"
+        },
+        {
+            "type": "Japanese",
+            "title": "17 【じゅうなな】"
+        }
+    ],
+    "title": "17",
+    "title_english": null,
+    "title_japanese": "17 【じゅうなな】",
+    "title_synonyms": [
+        "17 Juunana"
+    ],
+    "type": "Manga",
+    "chapters": 20,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-05-13T00:00:00+00:00",
+        "to": "2010-01-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 5,
+                "year": 2008
+            },
+            "to": {
+                "day": 13,
+                "month": 1,
+                "year": 2010
+            }
+        },
+        "string": "May 13, 2008 to Jan 13, 2010"
+    },
+    "score": 7.15,
+    "scored": 7.15,
+    "scored_by": 724,
+    "rank": 6832,
+    "popularity": 8675,
+    "members": 2311,
+    "favorites": 6,
+    "synopsis": "It's the start of their senior year, and Shiika happens to be in the same class as a guy named Megumi. It's a mystery to her why his voice echoes through her mind. (Source: Shinnen)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4581,
+            "type": "people",
+            "name": "Sakurai, Machiko",
+            "url": "https://myanimelist.net/people/4581/Machiko_Sakurai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,121 @@
+{
+    "mal_id": 77239,
+    "url": "https://myanimelist.net/manga/77239/Ao_Haru_Ride__Awaken",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/166889.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/166889t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/166889l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/166889.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/166889t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/166889l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ao Haru Ride: Awaken"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blue Spring Ride awaken"
+        },
+        {
+            "type": "Synonym",
+            "title": "Aoharaido awaken"
+        },
+        {
+            "type": "Japanese",
+            "title": "アオハライド awaken"
+        }
+    ],
+    "title": "Ao Haru Ride: Awaken",
+    "title_english": null,
+    "title_japanese": "アオハライド awaken",
+    "title_synonyms": [
+        "Blue Spring Ride awaken",
+        "Aoharaido awaken"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-09-17T00:00:00+00:00",
+        "to": "2014-11-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 9,
+                "year": 2014
+            },
+            "to": {
+                "day": 19,
+                "month": 11,
+                "year": 2014
+            }
+        },
+        "string": "Sep 17, 2014 to Nov 19, 2014"
+    },
+    "score": 7.86,
+    "scored": 7.86,
+    "scored_by": 3502,
+    "rank": 1105,
+    "popularity": 2902,
+    "members": 7729,
+    "favorites": 44,
+    "synopsis": "Chapter 1\nKou's own retelling of the events in the prologue chapter, unwritten.\n\nChapter 2\nFutaba thinking about how to change her image as her middle school graduation ceremony approaches. \n\nChapter 3\nKou noticed Futaba and changes in her behavior during the first days of high school.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4142,
+            "type": "people",
+            "name": "Sakisaka, Io",
+            "url": "https://myanimelist.net/people/4142/Io_Sakisaka"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 24294,
+                    "type": "manga",
+                    "name": "Ao Haru Ride",
+                    "url": "https://myanimelist.net/manga/24294/Ao_Haru_Ride"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

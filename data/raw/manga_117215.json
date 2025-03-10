@@ -1,0 +1,138 @@
+{
+    "mal_id": 117215,
+    "url": "https://myanimelist.net/manga/117215/Nana_to_Kaoru__Last_Year",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/234438.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/234438t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/234438l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/234438.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/234438t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/234438l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nana to Kaoru: Last Year"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nana to Kaoru: Koukousei no SM Gokko"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nana & Kaoru: High schoolers' SM play"
+        },
+        {
+            "type": "Japanese",
+            "title": "ナナとカオル Last Year"
+        }
+    ],
+    "title": "Nana to Kaoru: Last Year",
+    "title_english": null,
+    "title_japanese": "ナナとカオル Last Year",
+    "title_synonyms": [
+        "Nana to Kaoru: Koukousei no SM Gokko",
+        "Nana & Kaoru: High schoolers' SM play"
+    ],
+    "type": "Manga",
+    "chapters": 31,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-11-29T00:00:00+00:00",
+        "to": "2021-10-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 11,
+                "year": 2018
+            },
+            "to": {
+                "day": 29,
+                "month": 10,
+                "year": 2021
+            }
+        },
+        "string": "Nov 29, 2018 to Oct 29, 2021"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 1295,
+    "rank": 3891,
+    "popularity": 5760,
+    "members": 3742,
+    "favorites": 50,
+    "synopsis": "The story takes place in the third year of high school, after the ending of the manga and after Black Label.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3326,
+            "type": "people",
+            "name": "Amazume, Ryuta",
+            "url": "https://myanimelist.net/people/3326/Ryuta_Amazume"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1536,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/magazine/1536/Harem"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 5994,
+                    "type": "manga",
+                    "name": "Nana to Kaoru",
+                    "url": "https://myanimelist.net/manga/5994/Nana_to_Kaoru"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://ya-harem.com/sakuhin/?id=22"
+        }
+    ]
+}

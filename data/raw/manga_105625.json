@@ -1,0 +1,117 @@
+{
+    "mal_id": 105625,
+    "url": "https://myanimelist.net/manga/105625/Mad_Chimera_World",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/203500.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/203500t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/203500l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/203500.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/203500t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/203500l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mad Chimera World"
+        },
+        {
+            "type": "Japanese",
+            "title": "マッドキメラワールド"
+        }
+    ],
+    "title": "Mad Chimera World",
+    "title_english": null,
+    "title_japanese": "マッドキメラワールド",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 21,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-04-22T00:00:00+00:00",
+        "to": "2019-01-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 22,
+                "month": 1,
+                "year": 2019
+            }
+        },
+        "string": "Apr 22, 2017 to Jan 22, 2019"
+    },
+    "score": 6.19,
+    "scored": 6.19,
+    "scored_by": 1230,
+    "rank": 19091,
+    "popularity": 6159,
+    "members": 3490,
+    "favorites": 13,
+    "synopsis": "Set in a ruined world full of chimerical creatures, where female creatures eat males.\n\nTwo creatures explore the land: Usagi, the elder sister, protects his brother Mitsuki, a curious chronicler who knows much about the ancient world for having read a multitude of books.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1897,
+            "type": "people",
+            "name": "Kishimoto, Seishi",
+            "url": "https://myanimelist.net/people/1897/Seishi_Kishimoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 345,
+            "type": "manga",
+            "name": "Morning Two",
+            "url": "https://myanimelist.net/manga/magazine/345/Morning_Two"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

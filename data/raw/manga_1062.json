@@ -1,0 +1,173 @@
+{
+    "mal_id": 1062,
+    "url": "https://myanimelist.net/manga/1062/Cobra",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/256000.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/256000t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/256000l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/256000.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/256000t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/256000l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Cobra"
+        },
+        {
+            "type": "Synonym",
+            "title": "Space Adventure Cobra"
+        },
+        {
+            "type": "Japanese",
+            "title": "コブラ"
+        },
+        {
+            "type": "English",
+            "title": "Cobra"
+        }
+    ],
+    "title": "Cobra",
+    "title_english": "Cobra",
+    "title_japanese": "コブラ",
+    "title_synonyms": [
+        "Space Adventure Cobra"
+    ],
+    "type": "Manga",
+    "chapters": 30,
+    "volumes": 18,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1978-10-24T00:00:00+00:00",
+        "to": "1984-10-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 10,
+                "year": 1978
+            },
+            "to": {
+                "day": 30,
+                "month": 10,
+                "year": 1984
+            }
+        },
+        "string": "Oct 24, 1978 to Oct 30, 1984"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 563,
+    "rank": 3623,
+    "popularity": 7709,
+    "members": 2672,
+    "favorites": 30,
+    "synopsis": "The series features the infamous space-pirate Cobra who was once forced to hide from enemies by surgically altering his face and erasing his own memory. At the start of the story he is living an ordinary life but after using a dream-machine he starts to regain his memories. Reunited with his android partner Lady Armaroid and his old ship Tortuga, he now faces foes both old and new. The first, and most well-known of the manga stories sees him encountering the Royal sisters whose bodies hold the map to a great treasure.\n\n(Source: ANN)",
+    "background": "Cobra was published in English in comic book format by VIZ Select Comics starting in 1990, but the publication was ended after the 12th issue. From December 3, 2014 to June 30, 2015, the title was again published, this time digitally by Creek ＆ River Co., and comprised of 15 volumes that contained various chapters from both the original manga and sequel series.",
+    "authors": [
+        {
+            "mal_id": 4861,
+            "type": "people",
+            "name": "Terasawa, Buichi",
+            "url": "https://myanimelist.net/people/4861/Buichi_Terasawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 25683,
+                    "type": "manga",
+                    "name": "Cobra: The Psychogun",
+                    "url": "https://myanimelist.net/manga/25683/Cobra__The_Psychogun"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2452,
+                    "type": "anime",
+                    "name": "Space Adventure Cobra",
+                    "url": "https://myanimelist.net/anime/2452/Space_Adventure_Cobra"
+                },
+                {
+                    "mal_id": 2451,
+                    "type": "anime",
+                    "name": "Space Cobra",
+                    "url": "https://myanimelist.net/anime/2451/Space_Cobra"
+                },
+                {
+                    "mal_id": 5032,
+                    "type": "anime",
+                    "name": "Cobra The Animation",
+                    "url": "https://myanimelist.net/anime/5032/Cobra_The_Animation"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%96%E3%83%A9_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

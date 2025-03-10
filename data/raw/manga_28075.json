@@ -1,0 +1,151 @@
+{
+    "mal_id": 28075,
+    "url": "https://myanimelist.net/manga/28075/Zerozaki_Soushiki_no_Ningen_Shiken",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/60581.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/60581t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/60581l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/60581.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/60581t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/60581l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zerozaki Soushiki no Ningen Shiken"
+        },
+        {
+            "type": "Synonym",
+            "title": "Zerozaki Soushiki's Humanity Test"
+        },
+        {
+            "type": "Japanese",
+            "title": "零崎双識の人間試験"
+        }
+    ],
+    "title": "Zerozaki Soushiki no Ningen Shiken",
+    "title_english": null,
+    "title_japanese": "零崎双識の人間試験",
+    "title_synonyms": [
+        "Zerozaki Soushiki's Humanity Test"
+    ],
+    "type": "Manga",
+    "chapters": 23,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-09-24T00:00:00+00:00",
+        "to": "2013-08-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 9,
+                "year": 2011
+            },
+            "to": {
+                "day": 24,
+                "month": 8,
+                "year": 2013
+            }
+        },
+        "string": "Sep 24, 2011 to Aug 24, 2013"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 667,
+    "rank": 8597,
+    "popularity": 7872,
+    "members": 2609,
+    "favorites": 12,
+    "synopsis": "Iori is a high school girl who doesn't know what she wants to do with her future, and tends to run away from things. One day, she is attacked by strange dead-eyed people on her way to school, only to be saved by an equally mysterious long-haired man. Later that day, her friend at school, Jion, seems to fall under the same murderous influence. To her surprise, she finds herself capable of defending herself from his violent attack. Afterward, the long-haired man she met in the morning, Zerozaki Soushiki, arrives once more, this time to invite her to become his little sister. What has Iori become involved with, and will she be able to survive this change to her life?\n\n(Source: MangaHelpers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5254,
+            "type": "people",
+            "name": "NISIO, ISIN",
+            "url": "https://myanimelist.net/people/5254/ISIN_NISIO"
+        },
+        {
+            "mal_id": 13139,
+            "type": "people",
+            "name": "Shiomiya, Iruka",
+            "url": "https://myanimelist.net/people/13139/Iruka_Shiomiya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 70117,
+                    "type": "manga",
+                    "name": "Zerozaki Kishishiki no Ningen Knock",
+                    "url": "https://myanimelist.net/manga/70117/Zerozaki_Kishishiki_no_Ningen_Knock"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 18162,
+                    "type": "manga",
+                    "name": "Ningen Series",
+                    "url": "https://myanimelist.net/manga/18162/Ningen_Series"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

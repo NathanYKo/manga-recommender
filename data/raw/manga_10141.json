@@ -1,0 +1,121 @@
+{
+    "mal_id": 10141,
+    "url": "https://myanimelist.net/manga/10141/Hakuji",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/261548.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/261548t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/261548l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/261548.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/261548t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/261548l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hakuji"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shoujo Kansen Ritsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Senjou ni te"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kotoba Nakushite"
+        },
+        {
+            "type": "Japanese",
+            "title": "白磁"
+        }
+    ],
+    "title": "Hakuji",
+    "title_english": null,
+    "title_japanese": "白磁",
+    "title_synonyms": [
+        "Shoujo Kansen Ritsu",
+        "Senjou ni te",
+        "Kotoba Nakushite"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-05-20T00:00:00+00:00",
+        "to": "2010-04-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 5,
+                "year": 2008
+            },
+            "to": {
+                "day": 27,
+                "month": 4,
+                "year": 2010
+            }
+        },
+        "string": "May 20, 2008 to Apr 27, 2010"
+    },
+    "score": 7.19,
+    "scored": 7.19,
+    "scored_by": 2958,
+    "rank": 6242,
+    "popularity": 3592,
+    "members": 6257,
+    "favorites": 25,
+    "synopsis": "The beautiful, white skin of high school student Ichijou Seika stole the heart of the young genius painter Manabe Akiharu. However, in order for him to paint, Akiharu must touch that \"something\" or else his image won't expand. While desiring to touch her, he worries that his thoughts will dirty her...?!\n\n(Source: Intercross)\n\nIncluded one-shots:\nVolume 1: Shoujo Kansen Ritsu\nVolume 2: Senjou ni te, Kotoba Nakushite",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3561,
+            "type": "people",
+            "name": "Morie, Satoshi",
+            "url": "https://myanimelist.net/people/3561/Satoshi_Morie"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 395,
+            "type": "manga",
+            "name": "The Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/395/The_Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

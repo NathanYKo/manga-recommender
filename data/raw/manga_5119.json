@@ -1,0 +1,177 @@
+{
+    "mal_id": 5119,
+    "url": "https://myanimelist.net/manga/5119/Hoozuki_no_Shima",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/179297.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/179297t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/179297l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/179297.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/179297t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/179297l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hoozuki no Shima"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hohzuki Island"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Island of Hoozuki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Togabito"
+        },
+        {
+            "type": "Synonym",
+            "title": "Criminal"
+        },
+        {
+            "type": "Japanese",
+            "title": "鬼燈の島 -ホオズキノシマ-"
+        }
+    ],
+    "title": "Hoozuki no Shima",
+    "title_english": null,
+    "title_japanese": "鬼燈の島 -ホオズキノシマ-",
+    "title_synonyms": [
+        "Hohzuki Island",
+        "The Island of Hoozuki",
+        "Togabito",
+        "Criminal"
+    ],
+    "type": "Manga",
+    "chapters": 30,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-12-21T00:00:00+00:00",
+        "to": "2009-07-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 12,
+                "year": 2007
+            },
+            "to": {
+                "day": 3,
+                "month": 7,
+                "year": 2009
+            }
+        },
+        "string": "Dec 21, 2007 to Jul 3, 2009"
+    },
+    "score": 6.93,
+    "scored": 6.93,
+    "scored_by": 4788,
+    "rank": 10067,
+    "popularity": 2078,
+    "members": 10357,
+    "favorites": 30,
+    "synopsis": "After being abandoned by their parents, Kokoro Suzuhara and his blind sister Yume are taken into custody and brought to the isolated Hoozuki Island, the location of their new home and school. However, a peaceful life is hardly what they find. Upon interacting with other children on the island, Kokoro discovers that they are all wary of their teachers, believing they have gathered them together for a sinister purpose. It is only after making a number of startling discoveries himself that Kokoro starts to believe their suspicions.\n\nWith Yume's safety as his foremost priority, Kokoro bands together with his classmates to free themselves from their dangerous predicament, all the while unknowingly unleashing harrowing repercussions to all those involved.\n\n[Written by MAL Rewrite]\n\nIncluded one-shot:\nVolume 2: Togabito (Criminal)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2362,
+            "type": "people",
+            "name": "Sanbe, Kei",
+            "url": "https://myanimelist.net/people/2362/Kei_Sanbe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 19844,
+                    "type": "manga",
+                    "name": "Mouryou no Yurikago",
+                    "url": "https://myanimelist.net/manga/19844/Mouryou_no_Yurikago"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.jp.square-enix.com/magazine/top/introduction/detail/9784757522855.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Hohzuki_Island"
+        }
+    ]
+}

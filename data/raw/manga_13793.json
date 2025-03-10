@@ -1,0 +1,118 @@
+{
+    "mal_id": 13793,
+    "url": "https://myanimelist.net/manga/13793/Hidoku_Shinaide_dj_-_Yasashiku_Shinaide",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/19546.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/19546t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/19546l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/19546.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/19546t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/19546l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hidoku Shinaide dj - Yasashiku Shinaide"
+        },
+        {
+            "type": "Synonym",
+            "title": "Treat Me Gently"
+        },
+        {
+            "type": "Synonym",
+            "title": "Please dj - Don't Be Gentle"
+        },
+        {
+            "type": "Synonym",
+            "title": "Please"
+        },
+        {
+            "type": "Japanese",
+            "title": "優しくしないで"
+        }
+    ],
+    "title": "Hidoku Shinaide dj - Yasashiku Shinaide",
+    "title_english": null,
+    "title_japanese": "優しくしないで",
+    "title_synonyms": [
+        "Treat Me Gently",
+        "Please dj - Don't Be Gentle",
+        "Please"
+    ],
+    "type": "Doujinshi",
+    "chapters": null,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-08-01T00:00:00+00:00",
+        "to": "2011-12-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 2006
+            },
+            "to": {
+                "day": 30,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Aug 2006 to Dec 30, 2011"
+    },
+    "score": 7.62,
+    "scored": 7.62,
+    "scored_by": 1011,
+    "rank": null,
+    "popularity": 7928,
+    "members": 2587,
+    "favorites": 8,
+    "synopsis": "Series of doujinshi related to Hidoku Shinaide.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3243,
+            "type": "people",
+            "name": "Nekota, Yonezou",
+            "url": "https://myanimelist.net/people/3243/Yonezou_Nekota"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 1964,
+                    "type": "manga",
+                    "name": "Hidoku Shinaide",
+                    "url": "https://myanimelist.net/manga/1964/Hidoku_Shinaide"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

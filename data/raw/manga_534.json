@@ -1,0 +1,159 @@
+{
+    "mal_id": 534,
+    "url": "https://myanimelist.net/manga/534/Spiral__Suiri_no_Kizuna",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/258718.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/258718t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/258718l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/258718.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/258718t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/258718l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Spiral: Suiri no Kizuna"
+        },
+        {
+            "type": "Japanese",
+            "title": "スパイラル～推理の絆～"
+        },
+        {
+            "type": "English",
+            "title": "Spiral: Bonds of Reasoning"
+        }
+    ],
+    "title": "Spiral: Suiri no Kizuna",
+    "title_english": "Spiral: Bonds of Reasoning",
+    "title_japanese": "スパイラル～推理の絆～",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 78,
+    "volumes": 15,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-08-11T00:00:00+00:00",
+        "to": "2005-10-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 8,
+                "year": 1999
+            },
+            "to": {
+                "day": 12,
+                "month": 10,
+                "year": 2005
+            }
+        },
+        "string": "Aug 11, 1999 to Oct 12, 2005"
+    },
+    "score": 7.95,
+    "scored": 7.95,
+    "scored_by": 4509,
+    "rank": 860,
+    "popularity": 1689,
+    "members": 12789,
+    "favorites": 434,
+    "synopsis": "Ayumu Narumi has lived all his life in the shadow of his famous detective brother, Kiyotaka. However, Kiyotaka disappeared two years ago, leaving behind his wife Madoka and Ayumu himself, along with a cryptic message about the \"Blade Children.\" \n\nOne day, a girl at Ayumu's school suddenly dies. What seemed like a suicide at first glance turns out to be a murder, and Ayumu is the prime suspect. While investigating the person responsible for framing him, he discovers that the mysterious Blade Children are involved—and they somehow know Kiyotaka personally. Ayumu soon finds out just how dangerous the Blade Children are and learns that, in reality, he and Kiyotaka are intertwined more closely than he had ever believed. \n\n[Written by MAL Rewrite]",
+    "background": "Spiral: Suiri no Kizuna was published in English as Spiral: Bonds of Reasoning by Yen Press from October 17, 2007, to April 26, 2011.",
+    "authors": [
+        {
+            "mal_id": 2483,
+            "type": "people",
+            "name": "Shirodaira, Kyou",
+            "url": "https://myanimelist.net/people/2483/Kyou_Shirodaira"
+        },
+        {
+            "mal_id": 2485,
+            "type": "people",
+            "name": "Mizuno, Eita",
+            "url": "https://myanimelist.net/people/2485/Eita_Mizuno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Shounen Gangan",
+            "url": "https://myanimelist.net/manga/magazine/13/Shounen_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1733,
+                    "type": "manga",
+                    "name": "Spiral Alive",
+                    "url": "https://myanimelist.net/manga/1733/Spiral_Alive"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 341,
+                    "type": "anime",
+                    "name": "Spiral: Suiri no Kizuna",
+                    "url": "https://myanimelist.net/anime/341/Spiral__Suiri_no_Kizuna"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://web.archive.org/web/20070204120111/gangan.square-enix.co.jp/spiral/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB%EF%BD%9E%E6%8E%A8%E7%90%86%E3%81%AE%E7%B5%86%EF%BD%9E"
+        }
+    ]
+}

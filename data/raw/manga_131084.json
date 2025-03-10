@@ -1,0 +1,122 @@
+{
+    "mal_id": 131084,
+    "url": "https://myanimelist.net/manga/131084/Assassins_Creed_Valhalla_x_Vinland_Saga",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/242607.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/242607t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/242607l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/242607.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/242607t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/242607l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Assassin's Creed Valhalla x Vinland Saga"
+        },
+        {
+            "type": "Japanese",
+            "title": "『アサシンクリード ヴァルハラ』×『ヴィンランド・サガ』"
+        }
+    ],
+    "title": "Assassin's Creed Valhalla x Vinland Saga",
+    "title_english": null,
+    "title_japanese": "『アサシンクリード ヴァルハラ』×『ヴィンランド・サガ』",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-10-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 10,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 24, 2020"
+    },
+    "score": 5.86,
+    "scored": 5.86,
+    "scored_by": 1584,
+    "rank": 20022,
+    "popularity": 6623,
+    "members": 3207,
+    "favorites": 11,
+    "synopsis": "A 6-page collaboration comic between Assassin's Creed Valhalla and Vinland Saga.",
+    "background": "Assassin's Creed Valhalla x Vinland Saga was published digitally in English, French, German, Italian, Korean, Spanish, Mandarin, and Thai on the official Assassin's Creed Valhalla site on January 13, 2021.",
+    "authors": [
+        {
+            "mal_id": 2034,
+            "type": "people",
+            "name": "Yukimura, Makoto",
+            "url": "https://myanimelist.net/people/2034/Makoto_Yukimura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 642,
+                    "type": "manga",
+                    "name": "Vinland Saga",
+                    "url": "https://myanimelist.net/manga/642/Vinland_Saga"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://ubisoft.co.jp/acv/vinland-saga-collaboration-manga"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "mal_id": 40053,
+    "url": "https://myanimelist.net/manga/40053/Sword_Art☆Online",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185073.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185073t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185073l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185073.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185073t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185073l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sword Art☆Online."
+        },
+        {
+            "type": "Synonym",
+            "title": "Sword Art Online 4-koma"
+        },
+        {
+            "type": "Japanese",
+            "title": "そーどあーと☆おんらいん。"
+        }
+    ],
+    "title": "Sword Art☆Online.",
+    "title_english": null,
+    "title_japanese": "そーどあーと☆おんらいん。",
+    "title_synonyms": [
+        "Sword Art Online 4-koma"
+    ],
+    "type": "Manga",
+    "chapters": 39,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-08-10T00:00:00+00:00",
+        "to": "2016-08-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 8,
+                "year": 2010
+            },
+            "to": {
+                "day": 9,
+                "month": 8,
+                "year": 2016
+            }
+        },
+        "string": "Aug 10, 2010 to Aug 9, 2016"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 930,
+    "rank": 3095,
+    "popularity": 6561,
+    "members": 3240,
+    "favorites": 24,
+    "synopsis": "A series of 4-panel comic strips that touch on the days of Aincrad in a comedic viewpoint.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11466,
+            "type": "people",
+            "name": "Kawahara, Reki",
+            "url": "https://myanimelist.net/people/11466/Reki_Kawahara"
+        },
+        {
+            "mal_id": 18193,
+            "type": "people",
+            "name": "Minami, Juusei",
+            "url": "https://myanimelist.net/people/18193/Juusei_Minami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 140,
+            "type": "manga",
+            "name": "Dengeki Bunko Magazine",
+            "url": "https://myanimelist.net/manga/magazine/140/Dengeki_Bunko_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 21479,
+                    "type": "manga",
+                    "name": "Sword Art Online",
+                    "url": "https://myanimelist.net/manga/21479/Sword_Art_Online"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3"
+        }
+    ]
+}

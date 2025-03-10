@@ -1,0 +1,143 @@
+{
+    "mal_id": 97699,
+    "url": "https://myanimelist.net/manga/97699/Ashita_wa_Doyoubi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/174835.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/174835t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/174835l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/174835.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/174835t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/174835l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ashita wa Doyoubi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tomorrow's Saturday"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tomorrow is Saturday"
+        },
+        {
+            "type": "Japanese",
+            "title": "あしたは土曜日"
+        }
+    ],
+    "title": "Ashita wa Doyoubi",
+    "title_english": null,
+    "title_japanese": "あしたは土曜日",
+    "title_synonyms": [
+        "Tomorrow's Saturday",
+        "Tomorrow is Saturday"
+    ],
+    "type": "Manga",
+    "chapters": 53,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-11-07T00:00:00+00:00",
+        "to": "2015-11-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 11,
+                "year": 2014
+            },
+            "to": {
+                "day": 1,
+                "month": 11,
+                "year": 2015
+            }
+        },
+        "string": "Nov 7, 2014 to Nov 2015"
+    },
+    "score": 6.79,
+    "scored": 6.79,
+    "scored_by": 1723,
+    "rank": 12293,
+    "popularity": 4436,
+    "members": 5027,
+    "favorites": 19,
+    "synopsis": "A slice of life comedy revolving around the conversations and daily shenanigans of three schoolgirls. Mina is lively and gets into mischief; Yukari is the class rep and usually follows Mina's lead; and Sanae is a member of the track club who, unlike her friends, prefers to stay cool and act rationally.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 24373,
+            "type": "people",
+            "name": "Yamamoto, Souichirou",
+            "url": "https://myanimelist.net/people/24373/Souichirou_Yamamoto"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35860,
+                    "type": "anime",
+                    "name": "Karakai Jouzu no Takagi-san",
+                    "url": "https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san"
+                },
+                {
+                    "mal_id": 38993,
+                    "type": "anime",
+                    "name": "Karakai Jouzu no Takagi-san 2",
+                    "url": "https://myanimelist.net/anime/38993/Karakai_Jouzu_no_Takagi-san_2"
+                },
+                {
+                    "mal_id": 49721,
+                    "type": "anime",
+                    "name": "Karakai Jouzu no Takagi-san 3",
+                    "url": "https://myanimelist.net/anime/49721/Karakai_Jouzu_no_Takagi-san_3"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 78537,
+                    "type": "manga",
+                    "name": "Karakai Jouzu no Takagi-san",
+                    "url": "https://myanimelist.net/manga/78537/Karakai_Jouzu_no_Takagi-san"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

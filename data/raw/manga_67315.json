@@ -1,0 +1,127 @@
+{
+    "mal_id": 67315,
+    "url": "https://myanimelist.net/manga/67315/Shiroi_Majo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/160165.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/160165t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/160165l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/160165.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/160165t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/160165l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shiroi Majo"
+        },
+        {
+            "type": "Japanese",
+            "title": "白い魔女"
+        },
+        {
+            "type": "English",
+            "title": "The White Witch"
+        }
+    ],
+    "title": "Shiroi Majo",
+    "title_english": "The White Witch",
+    "title_japanese": "白い魔女",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-01-08T00:00:00+00:00",
+        "to": "2014-06-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 9,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Jan 8, 2014 to Jun 9, 2014"
+    },
+    "score": 6.54,
+    "scored": 6.54,
+    "scored_by": 1248,
+    "rank": 15972,
+    "popularity": 7073,
+    "members": 2970,
+    "favorites": 45,
+    "synopsis": "Depicts the events of the Finnish Winter War from the eyes of the legendary sniper Simo Häyhä with the added bonus of him being a woman this time.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 29301,
+            "type": "people",
+            "name": "Pairan",
+            "url": "https://myanimelist.net/people/29301/Pairan"
+        },
+        {
+            "mal_id": 29303,
+            "type": "people",
+            "name": "Nagakawa, Naruki",
+            "url": "https://myanimelist.net/people/29303/Naruki_Nagakawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1087,
+            "type": "manga",
+            "name": "KiSSCA",
+            "url": "https://myanimelist.net/manga/magazine/1087/KiSSCA"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 79731,
+                    "type": "manga",
+                    "name": "Shiroi Majo: Utsukushiki Sniper",
+                    "url": "https://myanimelist.net/manga/79731/Shiroi_Majo__Utsukushiki_Sniper"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

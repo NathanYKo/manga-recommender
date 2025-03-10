@@ -1,0 +1,155 @@
+{
+    "mal_id": 3822,
+    "url": "https://myanimelist.net/manga/3822/GS_Mikami__Gokuraku_Daisakusen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/144081.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/144081t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/144081l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/144081.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/144081t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/144081l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "GS Mikami: Gokuraku Daisakusen!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ghost Sweeper Mikami Gokuraku Daisakusen!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gokuraku Mouja"
+        },
+        {
+            "type": "Japanese",
+            "title": "GS美神 極楽大作戦!!"
+        }
+    ],
+    "title": "GS Mikami: Gokuraku Daisakusen!!",
+    "title_english": null,
+    "title_japanese": "GS美神 極楽大作戦!!",
+    "title_synonyms": [
+        "Ghost Sweeper Mikami Gokuraku Daisakusen!!",
+        "Gokuraku Mouja"
+    ],
+    "type": "Manga",
+    "chapters": 390,
+    "volumes": 39,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1991-04-17T00:00:00+00:00",
+        "to": "1999-09-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 4,
+                "year": 1991
+            },
+            "to": {
+                "day": 8,
+                "month": 9,
+                "year": 1999
+            }
+        },
+        "string": "Apr 17, 1991 to Sep 8, 1999"
+    },
+    "score": 7.66,
+    "scored": 7.66,
+    "scored_by": 1362,
+    "rank": 1947,
+    "popularity": 5869,
+    "members": 3675,
+    "favorites": 66,
+    "synopsis": "Overdevelopment and crowding in Japan has forced many of its indigenous spirits and ghosts to lose their homes. Due to problems caused by the homeless spirits, a new profession was created, the Ghost Sweeper (GS). Private exorcists for hire; they serve only the highest bidder to survive in the cutthroat corporate world. Among this, the Mikami GS Company, led by Reiko Mikami and her two assistants, the teenage boy Tadao Yokoshima and the ghost girl Okinu, is said to be the best.\n\n(Source: Wikipedia)\n\nIncluded one-shot:\nVolume 1: Gokuraku Mouja (Ghost Sweeping in the Haunted Mansion)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3776,
+            "type": "people",
+            "name": "Shiina, Takashi",
+            "url": "https://myanimelist.net/people/3776/Takashi_Shiina"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2400,
+                    "type": "anime",
+                    "name": "GS Mikami",
+                    "url": "https://myanimelist.net/anime/2400/GS_Mikami"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 96448,
+                    "type": "manga",
+                    "name": "GS Mikami: Gokuraku Daisakusen!!",
+                    "url": "https://myanimelist.net/manga/96448/GS_Mikami__Gokuraku_Daisakusen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/GS%E7%BE%8E%E7%A5%9E_%E6%A5%B5%E6%A5%BD%E5%A4%A7%E4%BD%9C%E6%88%A6!!"
+        }
+    ]
+}

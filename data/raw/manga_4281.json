@@ -1,0 +1,156 @@
+{
+    "mal_id": 4281,
+    "url": "https://myanimelist.net/manga/4281/Outlanders",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/243276.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/243276t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/243276l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/243276.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/243276t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/243276l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Outlanders"
+        },
+        {
+            "type": "Synonym",
+            "title": "Out Landers"
+        },
+        {
+            "type": "Japanese",
+            "title": "アウトランダーズ"
+        },
+        {
+            "type": "English",
+            "title": "Outlanders"
+        }
+    ],
+    "title": "Outlanders",
+    "title_english": "Outlanders",
+    "title_japanese": "アウトランダーズ",
+    "title_synonyms": [
+        "Out Landers"
+    ],
+    "type": "Manga",
+    "chapters": 33,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1985-01-01T00:00:00+00:00",
+        "to": "1987-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1985
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1987
+            }
+        },
+        "string": "1985 to 1987"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 774,
+    "rank": 3949,
+    "popularity": 7954,
+    "members": 2575,
+    "favorites": 44,
+    "synopsis": "It`s face-to-face confrontation when Kahm stares down her father and refuses to end her relationship with Tetsuya. In retaliation, her father sends a punitive fleet to Earth -- with orders not only to crush the rebellion but to annihilate the entire solar system!\n\n(Source: Amazon)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3261,
+            "type": "people",
+            "name": "Manabe, Jouji",
+            "url": "https://myanimelist.net/people/3261/Jouji_Manabe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1280,
+            "type": "manga",
+            "name": "Comicomi",
+            "url": "https://myanimelist.net/manga/magazine/1280/Comicomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 29,
+            "type": "manga",
+            "name": "Space",
+            "url": "https://myanimelist.net/manga/genre/29/Space"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1940,
+                    "type": "anime",
+                    "name": "Outlanders",
+                    "url": "https://myanimelist.net/anime/1940/Outlanders"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Outlanders_%28anime%29"
+        }
+    ]
+}

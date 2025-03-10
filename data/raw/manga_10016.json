@@ -1,0 +1,133 @@
+{
+    "mal_id": 10016,
+    "url": "https://myanimelist.net/manga/10016/Sunabouzu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/51325.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/51325t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/51325l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/51325.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/51325t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/51325l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sunabouzu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sunabozu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sand Boy"
+        },
+        {
+            "type": "Japanese",
+            "title": "砂ぼうず"
+        },
+        {
+            "type": "English",
+            "title": "Desert Punk"
+        }
+    ],
+    "title": "Sunabouzu",
+    "title_english": "Desert Punk",
+    "title_japanese": "砂ぼうず",
+    "title_synonyms": [
+        "Sunabozu",
+        "Sand Boy"
+    ],
+    "type": "Manga",
+    "chapters": 139,
+    "volumes": 22,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-01-11T00:00:00+00:00",
+        "to": "2020-10-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 1997
+            },
+            "to": {
+                "day": 12,
+                "month": 10,
+                "year": 2020
+            }
+        },
+        "string": "Jan 11, 1997 to Oct 12, 2020"
+    },
+    "score": 7.5,
+    "scored": 7.5,
+    "scored_by": 1370,
+    "rank": 2989,
+    "popularity": 3203,
+    "members": 7006,
+    "favorites": 91,
+    "synopsis": "In the future, Japan is a wasteland. In the Great Kantou Desert, scattered humans eke out a living in the hot sand. Among them, a short-statured man they call \"Sunabouzu\" makes a living as a bounty hunter. Like a demon of the sand, he seems unbeatable. Yet, like all men, he has a particular weakness for the opposite sex...\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6381,
+            "type": "people",
+            "name": "Usune, Masatoshi",
+            "url": "https://myanimelist.net/people/6381/Masatoshi_Usune"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 114,
+            "type": "manga",
+            "name": "Comic Beam",
+            "url": "https://myanimelist.net/manga/magazine/114/Comic_Beam"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 25,
+                    "type": "anime",
+                    "name": "Sunabouzu",
+                    "url": "https://myanimelist.net/anime/25/Sunabouzu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.sunabozu.com/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%A0%82%E3%81%BC%E3%81%86%E3%81%9A"
+        }
+    ]
+}

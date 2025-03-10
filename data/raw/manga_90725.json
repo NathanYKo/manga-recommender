@@ -1,0 +1,132 @@
+{
+    "mal_id": 90725,
+    "url": "https://myanimelist.net/manga/90725/Ousama_Game__Rinjou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/159498.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/159498t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/159498l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/159498.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/159498t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/159498l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ousama Game: Rinjou"
+        },
+        {
+            "type": "Synonym",
+            "title": "King's Game: Visit"
+        },
+        {
+            "type": "Japanese",
+            "title": "王様ゲーム 臨場"
+        }
+    ],
+    "title": "Ousama Game: Rinjou",
+    "title_english": null,
+    "title_japanese": "王様ゲーム 臨場",
+    "title_synonyms": [
+        "King's Game: Visit"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-01-22T00:00:00+00:00",
+        "to": "2016-11-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 11,
+                "month": 11,
+                "year": 2016
+            }
+        },
+        "string": "Jan 22, 2015 to Nov 11, 2016"
+    },
+    "score": 6.43,
+    "scored": 6.43,
+    "scored_by": 656,
+    "rank": 17298,
+    "popularity": 7844,
+    "members": 2621,
+    "favorites": 13,
+    "synopsis": "Side story of Ousama Game; takes place around the same time as Ousama Game: Shuukyoku.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 13945,
+            "type": "people",
+            "name": "Kanazawa, Nobuaki",
+            "url": "https://myanimelist.net/people/13945/Nobuaki_Kanazawa"
+        },
+        {
+            "mal_id": 20633,
+            "type": "people",
+            "name": "Kuriyama, Renji",
+            "url": "https://myanimelist.net/people/20633/Renji_Kuriyama"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 47332,
+                    "type": "manga",
+                    "name": "Ousama Game: Shuukyoku",
+                    "url": "https://myanimelist.net/manga/47332/Ousama_Game__Shuukyoku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%8E%8B%E6%A7%98%E3%82%B2%E3%83%BC%E3%83%A0_%28%E5%B0%8F%E8%AA%AC%29"
+        }
+    ]
+}

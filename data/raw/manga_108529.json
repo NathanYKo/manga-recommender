@@ -1,0 +1,133 @@
+{
+    "mal_id": 108529,
+    "url": "https://myanimelist.net/manga/108529/Angel_Beats__The_Last_Operation",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/206104.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/206104t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/206104l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/206104.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/206104t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/206104l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Angel Beats!: The Last Operation"
+        },
+        {
+            "type": "Japanese",
+            "title": "Angel Beats! -The Last Operation-"
+        }
+    ],
+    "title": "Angel Beats!: The Last Operation",
+    "title_english": null,
+    "title_japanese": "Angel Beats! -The Last Operation-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-08-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 8,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 30, 2017 to ?"
+    },
+    "score": 7.54,
+    "scored": 7.54,
+    "scored_by": 436,
+    "rank": 2685,
+    "popularity": 6723,
+    "members": 3153,
+    "favorites": 34,
+    "synopsis": "Angel Beats!: The Last Operation reveals why the Afterlife Battlefront members came into this world.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2347,
+            "type": "people",
+            "name": "Maeda, Jun",
+            "url": "https://myanimelist.net/people/2347/Jun_Maeda"
+        },
+        {
+            "mal_id": 6332,
+            "type": "people",
+            "name": "Asami, Yuriko",
+            "url": "https://myanimelist.net/people/6332/Yuriko_Asami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1157,
+            "type": "manga",
+            "name": "Dengeki G's Comic",
+            "url": "https://myanimelist.net/manga/magazine/1157/Dengeki_G_039_s_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 6547,
+                    "type": "anime",
+                    "name": "Angel Beats!",
+                    "url": "https://myanimelist.net/anime/6547/Angel_Beats"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/Angel_Beats!"
+        }
+    ]
+}

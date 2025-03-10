@@ -1,0 +1,137 @@
+{
+    "mal_id": 1026,
+    "url": "https://myanimelist.net/manga/1026/Koukaku_Kidoutai_2__Manmachine_Interface",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/421.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/421t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/421l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/421.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/421t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/421l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koukaku Kidoutai 2: Manmachine Interface"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dual Device"
+        },
+        {
+            "type": "Japanese",
+            "title": "攻殻機動隊2 MANMACHINE INTERFACE"
+        },
+        {
+            "type": "English",
+            "title": "The Ghost in the Shell 2: Man-Machine Interface"
+        }
+    ],
+    "title": "Koukaku Kidoutai 2: Manmachine Interface",
+    "title_english": "The Ghost in the Shell 2: Man-Machine Interface",
+    "title_japanese": "攻殻機動隊2 MANMACHINE INTERFACE",
+    "title_synonyms": [
+        "Dual Device"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-06-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 6,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 28, 2001"
+    },
+    "score": 6.65,
+    "scored": 6.65,
+    "scored_by": 3219,
+    "rank": 14550,
+    "popularity": 2523,
+    "members": 8738,
+    "favorites": 86,
+    "synopsis": "The series follows the mysterious Motoko Aramaki as she runs an investigation into a incident at an organ factory and it's consequences. she's on the run to clean up the mess and save herself in the process Meanwhile the former members of section 9 investigate Motoko to find out who she really is.\n\n(Source: ANN)",
+    "background": "Koukaku Kidoutai 2: Manmachine Interface was originally released in hardcover format in a limited edition box set titled Koukaku Kidoutai SOLID BOX on December 1, 2000. Kodansha later released the standard edition in tankoubon format on June 26, 2001. The SOLID BOX version added over 140 pages of new content and more changes were added to the tankoubon version, such as 24 color pages and large modifications to over 20 pages. However, 200 pages from the original version that ran in Young Magazine were not included in either versions. The series was published in English as The Ghost in the Shell Volume 2: Man-Machine Interface by Dark Horse, initially into 11 comic issues from January 29, 2003 to December 31, 2003 and later into a single volume on January 12, 2005. Kodansha Comics USA picked up the license and republished it on August 10, 2010. The Japanese publisher Kodansha published a bilingual version (in English and Japanese) on March 2011.",
+    "authors": [
+        {
+            "mal_id": 2609,
+            "type": "people",
+            "name": "Shirow, Masamune",
+            "url": "https://myanimelist.net/people/2609/Masamune_Shirow"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 121505,
+                    "type": "manga",
+                    "name": "Koukaku Kidoutai: The Human Algorithm",
+                    "url": "https://myanimelist.net/manga/121505/Koukaku_Kidoutai__The_Human_Algorithm"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A2_MANMACHINE_INTERFACE"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "mal_id": 110660,
+    "url": "https://myanimelist.net/manga/110660/Children",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/211019.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/211019t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/211019l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/211019.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/211019t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/211019l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Children"
+        },
+        {
+            "type": "Japanese",
+            "title": "チルドレン"
+        }
+    ],
+    "title": "Children",
+    "title_english": null,
+    "title_japanese": "チルドレン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-10-26T00:00:00+00:00",
+        "to": "2019-03-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 21,
+                "month": 3,
+                "year": 2019
+            }
+        },
+        "string": "Oct 26, 2017 to Mar 21, 2019"
+    },
+    "score": 5.65,
+    "scored": 5.65,
+    "scored_by": 6358,
+    "rank": 20239,
+    "popularity": 1844,
+    "members": 11791,
+    "favorites": 121,
+    "synopsis": "Igarashi Tooru, a college student, took a 6-month part-time job in a child care facility located deep within the mountains to take care of children for three million yen. However, in this remote area, sin runs deep in the work to be done.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 47081,
+            "type": "people",
+            "name": "Ichimiya, Yuu",
+            "url": "https://myanimelist.net/people/47081/Yuu_Ichimiya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1399,
+            "type": "manga",
+            "name": "Manga UP!",
+            "url": "https://myanimelist.net/manga/magazine/1399/Manga_UP"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.jp.square-enix.com/mangaup/original/children/"
+        }
+    ]
+}

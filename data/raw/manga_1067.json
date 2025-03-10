@@ -1,0 +1,123 @@
+{
+    "mal_id": 1067,
+    "url": "https://myanimelist.net/manga/1067/Cesare__Hakai_no_Souzousha",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/207459.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/207459t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/207459l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/207459.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/207459t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/207459l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Cesare: Hakai no Souzousha"
+        },
+        {
+            "type": "Japanese",
+            "title": "チェーザレ 破壊の創造者"
+        }
+    ],
+    "title": "Cesare: Hakai no Souzousha",
+    "title_english": null,
+    "title_japanese": "チェーザレ 破壊の創造者",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 106,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-03-24T00:00:00+00:00",
+        "to": "2021-11-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 3,
+                "year": 2005
+            },
+            "to": {
+                "day": 25,
+                "month": 11,
+                "year": 2021
+            }
+        },
+        "string": "Mar 24, 2005 to Nov 25, 2021"
+    },
+    "score": 7.95,
+    "scored": 7.95,
+    "scored_by": 1397,
+    "rank": 863,
+    "popularity": 3123,
+    "members": 7188,
+    "favorites": 116,
+    "synopsis": "Based on exhaustive research in collaboration with a Dante scholar, Souryo brings Cesare Borgia, one of the most enigmatic figures in history, to life in vivid detail. Bookish and naive, Angelo da Canossa is unprepared for life as a student in a university that hums with tension and intrigue in Renaissance Italy. Will his innocence remain intact when a chance encounter with the charismatic Cesare draws him ever deeper into the darker side of the Renaissance?\n\n(Source: Manganews.net)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2329,
+            "type": "people",
+            "name": "Souryo, Fuyumi",
+            "url": "https://myanimelist.net/people/2329/Fuyumi_Souryo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Morning",
+            "url": "https://myanimelist.net/manga/magazine/72/Morning"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 179423,
+                    "type": "manga",
+                    "name": "Canzoniere: Cesare Bangai-hen",
+                    "url": "https://myanimelist.net/manga/179423/Canzoniere__Cesare_Bangai-hen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://morning.kodansha.co.jp/c/cesare"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cesare_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%BC%E3%82%B6%E3%83%AC_%E7%A0%B4%E5%A3%8A%E3%81%AE%E5%89%B5%E9%80%A0%E8%80%85"
+        }
+    ]
+}

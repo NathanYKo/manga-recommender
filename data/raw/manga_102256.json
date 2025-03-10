@@ -1,0 +1,165 @@
+{
+    "mal_id": 102256,
+    "url": "https://myanimelist.net/manga/102256/Ao_Ashi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/185325.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/185325t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/185325l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/185325.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/185325t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/185325l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ao Ashi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Aoashi"
+        },
+        {
+            "type": "Japanese",
+            "title": "アオアシ"
+        }
+    ],
+    "title": "Ao Ashi",
+    "title_english": null,
+    "title_japanese": "アオアシ",
+    "title_synonyms": [
+        "Aoashi"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-01-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 5, 2015 to ?"
+    },
+    "score": 8.61,
+    "scored": 8.61,
+    "scored_by": 14479,
+    "rank": 95,
+    "popularity": 534,
+    "members": 35078,
+    "favorites": 2009,
+    "synopsis": "Ashito Aoi, a third year middle school student from Ehime, meets Tatsuya Fukuda, a \"J Youth League\" coach. Even though he's still rough around the edges, Ashito has such amazing potential that he gets invited by coach Fukuda to participate in his team's try-outs in Tokyo. The story of the boy who will revolutionize football in Japan begins to unfold.\n\n(Source: Ao Ashi Wiki)",
+    "background": "Ao Ashi ranked fourth for the 10th Manga Taisho Award in 2017. The series won the 65th Shogakukan Manga Award in the General category in 2020, along with Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen.",
+    "authors": [
+        {
+            "mal_id": 3467,
+            "type": "people",
+            "name": "Kobayashi, Yuugo",
+            "url": "https://myanimelist.net/people/3467/Yuugo_Kobayashi"
+        },
+        {
+            "mal_id": 20909,
+            "type": "people",
+            "name": "Ueno, Naohiko",
+            "url": "https://myanimelist.net/people/20909/Naohiko_Ueno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 49052,
+                    "type": "anime",
+                    "name": "Ao Ashi",
+                    "url": "https://myanimelist.net/anime/49052/Ao_Ashi"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 139682,
+                    "type": "manga",
+                    "name": "Ao Ashi: Brotherfoot",
+                    "url": "https://myanimelist.net/manga/139682/Ao_Ashi__Brotherfoot"
+                },
+                {
+                    "mal_id": 170300,
+                    "type": "manga",
+                    "name": "Ao Ashi: Midnight Dinner",
+                    "url": "https://myanimelist.net/manga/170300/Ao_Ashi__Midnight_Dinner"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://bigcomicbros.net/work/6196"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Aoashi"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AA%E3%82%A2%E3%82%B7"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "mal_id": 23593,
+    "url": "https://myanimelist.net/manga/23593/Kaira",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/38189.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/38189t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/38189l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/38189.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/38189t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/38189l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kaira"
+        },
+        {
+            "type": "Synonym",
+            "title": "Furumachi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Jusou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Haiiki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hakuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "White Rain"
+        },
+        {
+            "type": "Japanese",
+            "title": "回螺"
+        }
+    ],
+    "title": "Kaira",
+    "title_english": null,
+    "title_japanese": "回螺",
+    "title_synonyms": [
+        "Furumachi",
+        "Jusou",
+        "Haiiki",
+        "Hakuu",
+        "White Rain"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1997 to ?"
+    },
+    "score": 7.02,
+    "scored": 7.02,
+    "scored_by": 1169,
+    "rank": 8633,
+    "popularity": 6109,
+    "members": 3516,
+    "favorites": 23,
+    "synopsis": "1. Furumachi\n2. Jusou\n3. Haiiki\n4. Hakuu (White Rain)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1991,
+            "type": "people",
+            "name": "ABe, Yoshitoshi",
+            "url": "https://myanimelist.net/people/1991/Yoshitoshi_ABe"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%9B%9E%E8%9E%BA"
+        }
+    ]
+}

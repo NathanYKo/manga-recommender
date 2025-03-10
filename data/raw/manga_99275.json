@@ -1,0 +1,109 @@
+{
+    "mal_id": 99275,
+    "url": "https://myanimelist.net/manga/99275/Dear_My_Teacher",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/195405.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/195405t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/195405l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/195405.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/195405t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/195405l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dear My Teacher"
+        },
+        {
+            "type": "Japanese",
+            "title": "Dear My Teacher"
+        }
+    ],
+    "title": "Dear My Teacher",
+    "title_english": null,
+    "title_japanese": "Dear My Teacher",
+    "title_synonyms": [],
+    "type": "Doujinshi",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2012-12-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 30, 2012 to ?"
+    },
+    "score": 7.31,
+    "scored": 7.31,
+    "scored_by": 967,
+    "rank": 4808,
+    "popularity": 6361,
+    "members": 3354,
+    "favorites": 26,
+    "synopsis": "Fujimura Kaoru is the nurse at an all girl's school and, for the third time this year, she has been confessed to by a student. Naturally, she has turned down each offer in the kindest way she could.\n\nIsechi Mikoto is a student who has been ostracized by the school because of a rumor that she might be a lesbian. She also happens to remind Kaoru of her former lover.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 39952,
+            "type": "people",
+            "name": "Ajiichi",
+            "url": "https://myanimelist.net/people/39952/Ajiichi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 106536,
+                    "type": "manga",
+                    "name": "Dear My Girl",
+                    "url": "https://myanimelist.net/manga/106536/Dear_My_Girl"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

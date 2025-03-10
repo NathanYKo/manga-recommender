@@ -1,0 +1,135 @@
+{
+    "mal_id": 111276,
+    "url": "https://myanimelist.net/manga/111276/Sewayaki_Kitsune_no_Senko-san",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/208944.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/208944t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/208944l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/208944.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/208944t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/208944l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sewayaki Kitsune no Senko-san"
+        },
+        {
+            "type": "Synonym",
+            "title": "Meddlesome Kitsune Senko-san"
+        },
+        {
+            "type": "Japanese",
+            "title": "世話やきキツネの仙狐さん"
+        }
+    ],
+    "title": "Sewayaki Kitsune no Senko-san",
+    "title_english": null,
+    "title_japanese": "世話やきキツネの仙狐さん",
+    "title_synonyms": [
+        "Meddlesome Kitsune Senko-san"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-10-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 6, 2017 to ?"
+    },
+    "score": 7.84,
+    "scored": 7.84,
+    "scored_by": 8592,
+    "rank": 1177,
+    "popularity": 666,
+    "members": 28556,
+    "favorites": 771,
+    "synopsis": "The everyday life of Nakano, a salaryman working for an exploitative company, is suddenly intruded upon by the fox, Senko-san (800-year-old little girl). Whether it be cooking, cleaning, or special service(?)... she'll heal his exhaustion with her tender \"care.\"",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 47005,
+            "type": "people",
+            "name": "Rimukoro",
+            "url": "https://myanimelist.net/people/47005/Rimukoro"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1371,
+            "type": "manga",
+            "name": "Comic Newtype",
+            "url": "https://myanimelist.net/manga/magazine/1371/Comic_Newtype"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38759,
+                    "type": "anime",
+                    "name": "Sewayaki Kitsune no Senko-san",
+                    "url": "https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.webnewtype.com/contents/sewayaki/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Helpful_Fox_Senko-san"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E4%B8%96%E8%A9%B1%E3%82%84%E3%81%8D%E3%82%AD%E3%83%84%E3%83%8D%E3%81%AE%E4%BB%99%E7%8B%90%E3%81%95%E3%82%93"
+        }
+    ]
+}

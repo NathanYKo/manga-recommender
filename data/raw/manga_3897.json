@@ -1,0 +1,117 @@
+{
+    "mal_id": 3897,
+    "url": "https://myanimelist.net/manga/3897/Watashi_ni_Uso_wo_Tsuite",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/27526.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/27526t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/27526l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/27526.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/27526t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/27526l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Watashi ni Uso wo Tsuite"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tell Me A Lie"
+        },
+        {
+            "type": "Japanese",
+            "title": "私にウソをついて"
+        }
+    ],
+    "title": "Watashi ni Uso wo Tsuite",
+    "title_english": null,
+    "title_japanese": "私にウソをついて",
+    "title_synonyms": [
+        "Tell Me A Lie"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2007"
+    },
+    "score": 6.46,
+    "scored": 6.46,
+    "scored_by": 1453,
+    "rank": 17028,
+    "popularity": 8509,
+    "members": 2371,
+    "favorites": 10,
+    "synopsis": "Tell Me A Lie is about a girl, Terumi Arai, who has the ability to read a person's mind when she looks into their eyes.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2804,
+            "type": "people",
+            "name": "Aoyama, Gosho",
+            "url": "https://myanimelist.net/people/2804/Gosho_Aoyama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 89,
+            "type": "manga",
+            "name": "Young Sunday (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/89/Young_Sunday_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

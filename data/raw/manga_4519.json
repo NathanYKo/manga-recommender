@@ -1,0 +1,177 @@
+{
+    "mal_id": 4519,
+    "url": "https://myanimelist.net/manga/4519/Gankutsuou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/138607.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/138607t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/138607l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/138607.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/138607t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/138607l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gankutsuou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Le Comte de Monte Cristo"
+        },
+        {
+            "type": "Japanese",
+            "title": "巌窟王"
+        },
+        {
+            "type": "English",
+            "title": "Gankutsuou: The Count of Monte Cristo"
+        }
+    ],
+    "title": "Gankutsuou",
+    "title_english": "Gankutsuou: The Count of Monte Cristo",
+    "title_japanese": "巌窟王",
+    "title_synonyms": [
+        "Le Comte de Monte Cristo"
+    ],
+    "type": "Manga",
+    "chapters": 17,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-03-25T00:00:00+00:00",
+        "to": "2008-03-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 3,
+                "year": 2005
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2008
+            }
+        },
+        "string": "Mar 25, 2005 to Mar 25, 2008"
+    },
+    "score": 6.89,
+    "scored": 6.89,
+    "scored_by": 699,
+    "rank": 10772,
+    "popularity": 8011,
+    "members": 2551,
+    "favorites": 11,
+    "synopsis": "Albert de Morcerf crosses paths with the mysterious Count of Monte Cristo, awed by his sheer aura, but too ingrained within his innocent nature that the Count has other plans. Why does the Count know the secrets of the rich as if he wishes to disclose them for the world to see.",
+    "background": "Gankutsuou was published in English as Gankutsuou: The Count of Monte Cristo by Del Rey from November 11, 2008 to August 25, 2009.",
+    "authors": [
+        {
+            "mal_id": 3133,
+            "type": "people",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/people/3133/Gonzo"
+        },
+        {
+            "mal_id": 5392,
+            "type": "people",
+            "name": "Maeda, Mahiro",
+            "url": "https://myanimelist.net/people/5392/Mahiro_Maeda"
+        },
+        {
+            "mal_id": 7535,
+            "type": "people",
+            "name": "Dumas, Alexandre",
+            "url": "https://myanimelist.net/people/7535/Alexandre_Dumas"
+        },
+        {
+            "mal_id": 34433,
+            "type": "people",
+            "name": "Ariwara, Yura",
+            "url": "https://myanimelist.net/people/34433/Yura_Ariwara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 239,
+                    "type": "anime",
+                    "name": "Gankutsuou",
+                    "url": "https://myanimelist.net/anime/239/Gankutsuou"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 58679,
+                    "type": "manga",
+                    "name": "Gankutsuou",
+                    "url": "https://myanimelist.net/manga/58679/Gankutsuou"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 95185,
+                    "type": "manga",
+                    "name": "Gankutsuou Comic Anthology",
+                    "url": "https://myanimelist.net/manga/95185/Gankutsuou_Comic_Anthology"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Gankutsuou#Manga"
+        }
+    ]
+}

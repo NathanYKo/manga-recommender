@@ -1,0 +1,148 @@
+{
+    "mal_id": 7067,
+    "url": "https://myanimelist.net/manga/7067/Skyhigh__Shinshou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/128401.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/128401t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/128401l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/128401.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/128401t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/128401l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Skyhigh: Shinshou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Skyhigh New Chapter"
+        },
+        {
+            "type": "Japanese",
+            "title": "スカイハイ・新章"
+        }
+    ],
+    "title": "Skyhigh: Shinshou",
+    "title_english": null,
+    "title_japanese": "スカイハイ・新章",
+    "title_synonyms": [
+        "Skyhigh New Chapter"
+    ],
+    "type": "Manga",
+    "chapters": 32,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-08-07T00:00:00+00:00",
+        "to": "2004-11-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 8,
+                "year": 2003
+            },
+            "to": {
+                "day": 11,
+                "month": 11,
+                "year": 2004
+            }
+        },
+        "string": "Aug 7, 2003 to Nov 11, 2004"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 959,
+    "rank": 4684,
+    "popularity": 8027,
+    "members": 2545,
+    "favorites": 5,
+    "synopsis": "Skyhigh Shinshou presents the stories of those souls who get to the Gate of Grudges. Izuko, keeper of the Gate of Grudges presents each soul with three choices: pass through the Gate of Grudges to heaven and be reborn, refuse to admit death and remain as a ghost on earth, or haunt and kill one person and then proceed to hell and eternal suffering. What does each soul choose and why?\n\n(Source: Evil Flowers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2360,
+            "type": "people",
+            "name": "Takahashi, Tsutomu",
+            "url": "https://myanimelist.net/people/2360/Tsutomu_Takahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 4036,
+                    "type": "manga",
+                    "name": "Skyhigh: Karma",
+                    "url": "https://myanimelist.net/manga/4036/Skyhigh__Karma"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 20655,
+                    "type": "manga",
+                    "name": "Skyhigh 4",
+                    "url": "https://myanimelist.net/manga/20655/Skyhigh_4"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4_%28%E6%BC%AB%E7%94%BB%29"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Skyhigh_(manga)"
+        }
+    ]
+}

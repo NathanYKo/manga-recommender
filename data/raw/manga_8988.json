@@ -1,0 +1,115 @@
+{
+    "mal_id": 8988,
+    "url": "https://myanimelist.net/manga/8988/Me_wo_Mite_Hanase",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/12249.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/12249t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/12249l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/12249.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/12249t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/12249l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Me wo Mite Hanase"
+        },
+        {
+            "type": "Synonym",
+            "title": "Me o Mite Hanase"
+        },
+        {
+            "type": "Japanese",
+            "title": "目を見て話せ"
+        },
+        {
+            "type": "English",
+            "title": "Look Me in the Eyes When You Talk"
+        }
+    ],
+    "title": "Me wo Mite Hanase",
+    "title_english": "Look Me in the Eyes When You Talk",
+    "title_japanese": "目を見て話せ",
+    "title_synonyms": [
+        "Me o Mite Hanase"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-05-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 5,
+                "year": 2003
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 2003"
+    },
+    "score": 6.86,
+    "scored": 6.86,
+    "scored_by": 2127,
+    "rank": 11285,
+    "popularity": 5911,
+    "members": 3641,
+    "favorites": 2,
+    "synopsis": "After a brutal beating at the hands of a group of thugs, a man wakes up to discover that the people around him no longer have eyes.\n\n(Source: Kotonoha)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2377,
+            "type": "people",
+            "name": "Iwaaki, Hitoshi",
+            "url": "https://myanimelist.net/people/2377/Hitoshi_Iwaaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 517,
+            "type": "manga",
+            "name": "Comic Charge",
+            "url": "https://myanimelist.net/manga/magazine/517/Comic_Charge"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

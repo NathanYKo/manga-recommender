@@ -1,0 +1,128 @@
+{
+    "mal_id": 33791,
+    "url": "https://myanimelist.net/manga/33791/Meiji_Hiiro_Kitan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/274573.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/274573t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/274573l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/274573.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/274573t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/274573l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Meiji Hiiro Kitan"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Scarlet Romance of the Meiji Era"
+        },
+        {
+            "type": "Japanese",
+            "title": "明治緋色綺譚"
+        }
+    ],
+    "title": "Meiji Hiiro Kitan",
+    "title_english": null,
+    "title_japanese": "明治緋色綺譚",
+    "title_synonyms": [
+        "A Scarlet Romance of the Meiji Era"
+    ],
+    "type": "Manga",
+    "chapters": 64,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-03-01T00:00:00+00:00",
+        "to": "2014-07-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 3,
+                "year": 2011
+            },
+            "to": {
+                "day": 1,
+                "month": 7,
+                "year": 2014
+            }
+        },
+        "string": "Mar 1, 2011 to Jul 1, 2014"
+    },
+    "score": 7.52,
+    "scored": 7.52,
+    "scored_by": 617,
+    "rank": 2849,
+    "popularity": 6402,
+    "members": 3329,
+    "favorites": 20,
+    "synopsis": "It's the middle of the Meiji Era and our heroine, the little Suzu, is sold to the red lights district. However, the rich heir of a dry-goods store Tsugaru buys her freedom for no apparent reason. She is deeply grateful for being saved, but she doesn't understand why he paid so much money for her and the only explanation he offers is \"we have a bond.\" She tries to unravel the mystery of his feelings and gradually grows from a little girl to a young woman, always by his side. A gentle and slow-paced love story set in the Meiji Era.\n\n(Source: Aerandria)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11830,
+            "type": "people",
+            "name": "Rikachi",
+            "url": "https://myanimelist.net/people/11830/Rikachi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 306,
+            "type": "manga",
+            "name": "Be-Love",
+            "url": "https://myanimelist.net/manga/magazine/306/Be-Love"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 78161,
+                    "type": "manga",
+                    "name": "Meiji Melancholia",
+                    "url": "https://myanimelist.net/manga/78161/Meiji_Melancholia"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB%E7%B7%8B%E8%89%B2%E7%B6%BA%E8%AD%9A"
+        }
+    ]
+}

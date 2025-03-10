@@ -1,0 +1,144 @@
+{
+    "mal_id": 752,
+    "url": "https://myanimelist.net/manga/752/Maburaho",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/180924.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/180924t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/180924l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/180924.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/180924t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/180924l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Maburaho"
+        },
+        {
+            "type": "Japanese",
+            "title": "まぶらほ"
+        },
+        {
+            "type": "English",
+            "title": "Maburaho"
+        }
+    ],
+    "title": "Maburaho",
+    "title_english": "Maburaho",
+    "title_japanese": "まぶらほ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-04-09T00:00:00+00:00",
+        "to": "2004-09-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2003
+            },
+            "to": {
+                "day": 9,
+                "month": 9,
+                "year": 2004
+            }
+        },
+        "string": "Apr 9, 2003 to Sep 9, 2004"
+    },
+    "score": 6.51,
+    "scored": 6.51,
+    "scored_by": 1212,
+    "rank": 16362,
+    "popularity": 7962,
+    "members": 2572,
+    "favorites": 9,
+    "synopsis": "Kazuki Shikimori has lost his memory and has come to find out that there are three young girls after his DNA. Even though his magic is extremely limited compared to others, it is believe that his offspring will wield incredible magic. Kuriko Kazetsubaki claims to be his girlfriend. Rin Kamishiro is urged by her family to be his wife. And Yuuna Miyami claims to be Kazuki's wife, as per a promise made when they were kids.",
+    "background": "Maburaho was published in English by ADV Manga from May 3, 2005 to March 20, 2007.",
+    "authors": [
+        {
+            "mal_id": 1957,
+            "type": "people",
+            "name": "Tsukiji, Toshihiko",
+            "url": "https://myanimelist.net/people/1957/Toshihiko_Tsukiji"
+        },
+        {
+            "mal_id": 2589,
+            "type": "people",
+            "name": "Miyashita, Miki",
+            "url": "https://myanimelist.net/people/2589/Miki_Miyashita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 98,
+            "type": "manga",
+            "name": "Dragon Age",
+            "url": "https://myanimelist.net/manga/magazine/98/Dragon_Age"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 120,
+                    "type": "manga",
+                    "name": "Maburaho",
+                    "url": "https://myanimelist.net/manga/120/Maburaho"
+                },
+                {
+                    "mal_id": 193,
+                    "type": "anime",
+                    "name": "Maburaho",
+                    "url": "https://myanimelist.net/anime/193/Maburaho"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%B6%E3%82%89%E3%81%BB"
+        }
+    ]
+}

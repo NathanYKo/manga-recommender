@@ -1,0 +1,151 @@
+{
+    "mal_id": 46544,
+    "url": "https://myanimelist.net/manga/46544/Mujihi_na_Karada",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/142577.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/142577t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/142577l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/142577.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/142577t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/142577l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mujihi na Karada"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ruthless Body"
+        },
+        {
+            "type": "Japanese",
+            "title": "無慈悲なカラダ"
+        }
+    ],
+    "title": "Mujihi na Karada",
+    "title_english": null,
+    "title_japanese": "無慈悲なカラダ",
+    "title_synonyms": [
+        "Ruthless Body"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-12-24T00:00:00+00:00",
+        "to": "2014-07-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": 25,
+                "month": 7,
+                "year": 2014
+            }
+        },
+        "string": "Dec 24, 2012 to Jul 25, 2014"
+    },
+    "score": 7.97,
+    "scored": 7.97,
+    "scored_by": 1945,
+    "rank": null,
+    "popularity": 5659,
+    "members": 3813,
+    "favorites": 23,
+    "synopsis": "The story of Nanao Shirahane and Kuon Aikawa from Mujihi na Anata continues.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3272,
+            "type": "people",
+            "name": "Sakuraga, Mei",
+            "url": "https://myanimelist.net/people/3272/Mei_Sakuraga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 665,
+            "type": "manga",
+            "name": "Boys Capi!",
+            "url": "https://myanimelist.net/manga/magazine/665/Boys_Capi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 29997,
+                    "type": "manga",
+                    "name": "Mujihi na Anata",
+                    "url": "https://myanimelist.net/manga/29997/Mujihi_na_Anata"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 169607,
+                    "type": "manga",
+                    "name": "Mujihi na Yoru ni",
+                    "url": "https://myanimelist.net/manga/169607/Mujihi_na_Yoru_ni"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

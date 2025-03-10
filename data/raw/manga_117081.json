@@ -1,0 +1,165 @@
+{
+    "mal_id": 117081,
+    "url": "https://myanimelist.net/manga/117081/Gal_to_Kyouryuu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/217678.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/217678t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/217678l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/217678.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/217678t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/217678l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gal to Kyouryuu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gal and Dinosaur"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gyaru to Kyouryuu"
+        },
+        {
+            "type": "Japanese",
+            "title": "ギャルと恐竜"
+        },
+        {
+            "type": "English",
+            "title": "My Roomie Is a Dino"
+        }
+    ],
+    "title": "Gal to Kyouryuu",
+    "title_english": "My Roomie Is a Dino",
+    "title_japanese": "ギャルと恐竜",
+    "title_synonyms": [
+        "Gal and Dinosaur",
+        "Gyaru to Kyouryuu"
+    ],
+    "type": "Manga",
+    "chapters": 105,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-10-15T00:00:00+00:00",
+        "to": "2022-01-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 24,
+                "month": 1,
+                "year": 2022
+            }
+        },
+        "string": "Oct 15, 2018 to Jan 24, 2022"
+    },
+    "score": 7.08,
+    "scored": 7.08,
+    "scored_by": 755,
+    "rank": 7789,
+    "popularity": 7060,
+    "members": 2977,
+    "favorites": 23,
+    "synopsis": "We've all been there—a couple drinks too many, and a hazy wander back to your home, where you wake up wondering how you got there. But in Kaede's case, not only was she not sure how she got home... she wasn't sure how the dinosaur got there, either! The two are soon fast friends, but though their personalities jive, they'll have to learn how to communicate in order to live peacefully together!\n\n(Source: Kodansha Comics USA)",
+    "background": "Gal to Kyouryuu was published digitally in English as My Roomie Is a Dino by Kodansha Comics USA from March 10, 2020 to August 30, 2022.",
+    "authors": [
+        {
+            "mal_id": 46146,
+            "type": "people",
+            "name": "Tomimura, Cota",
+            "url": "https://myanimelist.net/people/46146/Cota_Tomimura"
+        },
+        {
+            "mal_id": 49008,
+            "type": "people",
+            "name": "Mori, Moriko",
+            "url": "https://myanimelist.net/people/49008/Moriko_Mori"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 40358,
+                    "type": "anime",
+                    "name": "Gal to Kyouryuu",
+                    "url": "https://myanimelist.net/anime/40358/Gal_to_Kyouryuu"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 133596,
+                    "type": "manga",
+                    "name": "Manga Day to Day",
+                    "url": "https://myanimelist.net/manga/133596/Manga_Day_to_Day"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/my-roomie-is-a-dino/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://yanmaga.jp/c/gtk/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/My_Roomie_Is_a_Dino"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A3%E3%83%AB%E3%81%A8%E6%81%90%E7%AB%9C"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "mal_id": 37641,
+    "url": "https://myanimelist.net/manga/37641/Junketsu_Drop",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/67795.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/67795t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/67795l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/67795.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/67795t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/67795l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Junketsu Drop"
+        },
+        {
+            "type": "Japanese",
+            "title": "純潔ドロップ"
+        }
+    ],
+    "title": "Junketsu Drop",
+    "title_english": null,
+    "title_japanese": "純潔ドロップ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-04-22T00:00:00+00:00",
+        "to": "2011-08-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 22,
+                "month": 8,
+                "year": 2011
+            }
+        },
+        "string": "Apr 22, 2011 to Aug 22, 2011"
+    },
+    "score": 7.78,
+    "scored": 7.78,
+    "scored_by": 6743,
+    "rank": 1403,
+    "popularity": 1663,
+    "members": 12986,
+    "favorites": 162,
+    "synopsis": "Blockheads Kasukabe and Misato are always quarreling over everything. But one day, Kasukabe finds himself helping Misato to escape from a bunch of fangirls. Alone in the classroom. Kasukabe starts taunting and teasing his arch enemy. But somehow, things start taking a turn towards a completely unexpected direction… \n\n(Source: Echochi)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 16375,
+            "type": "people",
+            "name": "Kisaragi, Manami",
+            "url": "https://myanimelist.net/people/16375/Manami_Kisaragi"
+        },
+        {
+            "mal_id": 17065,
+            "type": "people",
+            "name": "Watarumi, Naho",
+            "url": "https://myanimelist.net/people/17065/Naho_Watarumi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 550,
+            "type": "manga",
+            "name": "Canna",
+            "url": "https://myanimelist.net/manga/magazine/550/Canna"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 45749,
+                    "type": "manga",
+                    "name": "Interval Zero",
+                    "url": "https://myanimelist.net/manga/45749/Interval_Zero"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

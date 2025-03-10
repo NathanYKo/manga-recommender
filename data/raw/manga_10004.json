@@ -1,0 +1,126 @@
+{
+    "mal_id": 10004,
+    "url": "https://myanimelist.net/manga/10004/Genocyber",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/13389.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/13389t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/13389l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/13389.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/13389t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/13389l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Genocyber"
+        },
+        {
+            "type": "Synonym",
+            "title": "Geno Cyber"
+        },
+        {
+            "type": "Japanese",
+            "title": "ジェノサイバー"
+        },
+        {
+            "type": "English",
+            "title": "Geno Cyber"
+        }
+    ],
+    "title": "Genocyber",
+    "title_english": "Geno Cyber",
+    "title_japanese": "ジェノサイバー",
+    "title_synonyms": [
+        "Geno Cyber"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1992-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1992
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1992"
+    },
+    "score": 5.84,
+    "scored": 5.84,
+    "scored_by": 725,
+    "rank": 20046,
+    "popularity": 8705,
+    "members": 2301,
+    "favorites": 10,
+    "synopsis": "It is panic at the Kuron institute: a guinea-pig escaped. And not just any guinea-pig: it is Elaine, a fourteen year old girl, endowed with immense powers. Her father, Professor Reed, performed on her an operation, the goal of which was to give her command of a psychic force equivalent to that of a nuclear fission. Elaine has a twin sister, Diana, resulting from the same experimentation. Both developed incredible mental abilities, but Diana is a handicapped person, with a body entirely robotized, whereas Elaine is a wild child, with an animal's nervous system. Together, they are the key of a discovery which would disrupt the world.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3640,
+            "type": "people",
+            "name": "Takezaki, Tony",
+            "url": "https://myanimelist.net/people/3640/Tony_Takezaki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2775,
+                    "type": "anime",
+                    "name": "Genocyber",
+                    "url": "https://myanimelist.net/anime/2775/Genocyber"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

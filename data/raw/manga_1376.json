@@ -1,0 +1,154 @@
+{
+    "mal_id": 1376,
+    "url": "https://myanimelist.net/manga/1376/Dogs__Stray_Dogs_Howling_in_the_Dark",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/259648.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/259648t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/259648l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/259648.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/259648t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/259648l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dogs: Stray Dogs Howling in the Dark"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dogs: Volume 0"
+        },
+        {
+            "type": "Japanese",
+            "title": "狗-DOGS- Stray dogs howling in the dark"
+        },
+        {
+            "type": "English",
+            "title": "Dogs: Prelude"
+        }
+    ],
+    "title": "Dogs: Stray Dogs Howling in the Dark",
+    "title_english": "Dogs: Prelude",
+    "title_japanese": "狗-DOGS- Stray dogs howling in the dark",
+    "title_synonyms": [
+        "Dogs: Volume 0"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-01-01T00:00:00+00:00",
+        "to": "2001-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            }
+        },
+        "string": "2000 to 2001"
+    },
+    "score": 7.83,
+    "scored": 7.83,
+    "scored_by": 8558,
+    "rank": 1205,
+    "popularity": 1059,
+    "members": 19019,
+    "favorites": 225,
+    "synopsis": "In a post apocalyptic world devoid of seasons, where man's \"golden age of technology\" ruined earth and caused science to run amok, there live four individuals looking for a door to the hell far below the surface. Through a series of coincidences, the ex-hitman-now-bartender Mihai, the deranged and psychopathic Haine, the vengeful yet kind Naoto, and the freelancer Badou meet one another.",
+    "background": "Dogs: Stray Dogs Howling in the Dark was published in English as Dogs: Prelude by VIZ Media under the VIZ Signature imprint on April 14, 2009.",
+    "authors": [
+        {
+            "mal_id": 2974,
+            "type": "people",
+            "name": "Miwa, Shirow",
+            "url": "https://myanimelist.net/people/2974/Shirow_Miwa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 648,
+                    "type": "manga",
+                    "name": "Dogs: Bullets & Carnage",
+                    "url": "https://myanimelist.net/manga/648/Dogs__Bullets___Carnage"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 5593,
+                    "type": "anime",
+                    "name": "Dogs: Bullets & Carnage",
+                    "url": "https://myanimelist.net/anime/5593/Dogs__Bullets___Carnage"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Dogs_/_Bullets_%26_Carnage"
+        }
+    ]
+}

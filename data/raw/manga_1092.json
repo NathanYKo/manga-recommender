@@ -1,0 +1,190 @@
+{
+    "mal_id": 1092,
+    "url": "https://myanimelist.net/manga/1092/Gokusen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/171655.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/171655t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/171655l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/171655.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/171655t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/171655l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gokusen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gangster Teacher"
+        },
+        {
+            "type": "Japanese",
+            "title": "ごくせん"
+        }
+    ],
+    "title": "Gokusen",
+    "title_english": null,
+    "title_japanese": "ごくせん",
+    "title_synonyms": [
+        "Gangster Teacher"
+    ],
+    "type": "Manga",
+    "chapters": 156,
+    "volumes": 15,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-12-15T00:00:00+00:00",
+        "to": "2007-02-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 12,
+                "year": 1999
+            },
+            "to": {
+                "day": 15,
+                "month": 2,
+                "year": 2007
+            }
+        },
+        "string": "Dec 15, 1999 to Feb 15, 2007"
+    },
+    "score": 8.05,
+    "scored": 8.05,
+    "scored_by": 7422,
+    "rank": 664,
+    "popularity": 1083,
+    "members": 18553,
+    "favorites": 454,
+    "synopsis": "Fresh out of college, Kumiko \"Yankumi\" Yamaguchi becomes a math teacher at an all-boys high school. Unfortunately for her, she's assigned by the school board as the homeroom teacher for class 3-D, which happens to be the class of delinquent students. When the class attempts to make a living hell out of Yankumi's career, they fail as her persistence and aggression gain her respect. However, little does anyone in the school know that Yankumi is actually heir to the Kuroda Ikka—one of Tokyo's most powerful yakuza clans.\n\n(Source: ANN)",
+    "background": "Gokusen was adapted into three-season live-action TV drama by Nippon Television that aired in 2002, 2005 and 2008. A live-action movie that followed the drama's storyline was released in 2009.",
+    "authors": [
+        {
+            "mal_id": 2834,
+            "type": "people",
+            "name": "Morimoto, Kozueko",
+            "url": "https://myanimelist.net/people/2834/Kozueko_Morimoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 307,
+            "type": "manga",
+            "name": "YOU",
+            "url": "https://myanimelist.net/manga/magazine/307/YOU"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        },
+        {
+            "mal_id": 69,
+            "type": "manga",
+            "name": "Organized Crime",
+            "url": "https://myanimelist.net/manga/genre/69/Organized_Crime"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 25805,
+                    "type": "manga",
+                    "name": "Gokusen Kanketsu-hen",
+                    "url": "https://myanimelist.net/manga/25805/Gokusen_Kanketsu-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 242,
+                    "type": "anime",
+                    "name": "Gokusen",
+                    "url": "https://myanimelist.net/anime/242/Gokusen"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 35769,
+                    "type": "manga",
+                    "name": "Gokusen Bangaichi",
+                    "url": "https://myanimelist.net/manga/35769/Gokusen_Bangaichi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%94%E3%81%8F%E3%81%9B%E3%82%93"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gokusen"
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "mal_id": 1043,
+    "url": "https://myanimelist.net/manga/1043/Ourou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/146113.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/146113t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/146113l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/146113.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/146113t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/146113l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ourou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ohroh"
+        },
+        {
+            "type": "Synonym",
+            "title": "Oh-Roh"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ou Rou"
+        },
+        {
+            "type": "Japanese",
+            "title": "王狼"
+        },
+        {
+            "type": "English",
+            "title": "King Of Wolves"
+        }
+    ],
+    "title": "Ourou",
+    "title_english": "King Of Wolves",
+    "title_japanese": "王狼",
+    "title_synonyms": [
+        "Ohroh",
+        "Oh-Roh",
+        "Ou Rou"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1989-03-25T00:00:00+00:00",
+        "to": "1989-05-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 3,
+                "year": 1989
+            },
+            "to": {
+                "day": 25,
+                "month": 5,
+                "year": 1989
+            }
+        },
+        "string": "Mar 25, 1989 to May 25, 1989"
+    },
+    "score": 6.55,
+    "scored": 6.55,
+    "scored_by": 2072,
+    "rank": 15877,
+    "popularity": 4700,
+    "members": 4694,
+    "favorites": 11,
+    "synopsis": "A bright-spirited young historical scholar, Iba, disappears while on a lone expedition to study the ancient Silk Road. A year later his girlfriend, Kyoko, sets out for the Silk Road in order to find clues that will help to unravel the mystery of Iba's disappearance. When she arrives, she finds the charm she gave Iba for protection and moments later she is sucked into a black vortex and loses consciousness. Kyoko awakes to find herself in a very different place and discovers that that Iba is not only alive but is a warrior-slave under the reign of Genghis Khan in 13th century Mongolia! At last, when Iba and Kyoko reunite, they find that there are a series of fates, crueler than the ones they have already endured, awaiting them...",
+    "background": "Ourou was released in English as King Of Wolves by Dark Horse on June 7, 2005 and in Polish by Hanami on June 30, 2009—the volume is comprised of Ourou and Ourouden.",
+    "authors": [
+        {
+            "mal_id": 1868,
+            "type": "people",
+            "name": "Miura, Kentarou",
+            "url": "https://myanimelist.net/people/1868/Kentarou_Miura"
+        },
+        {
+            "mal_id": 2848,
+            "type": "people",
+            "name": "Buronson",
+            "url": "https://myanimelist.net/people/2848/Buronson"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1251,
+            "type": "manga",
+            "name": "Animal House",
+            "url": "https://myanimelist.net/manga/magazine/1251/Animal_House"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 79,
+            "type": "manga",
+            "name": "Time Travel",
+            "url": "https://myanimelist.net/manga/genre/79/Time_Travel"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 10867,
+                    "type": "manga",
+                    "name": "Ourouden",
+                    "url": "https://myanimelist.net/manga/10867/Ourouden"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%8E%8B%E7%8B%BC%E4%BC%9D"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "mal_id": 158707,
+    "url": "https://myanimelist.net/manga/158707/Maria_no_Danzai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/288818.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/288818t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/288818l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/288818.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/288818t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/288818l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Maria no Danzai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Seibo no Danzai"
+        },
+        {
+            "type": "Japanese",
+            "title": "聖母〈マリア〉の断罪"
+        }
+    ],
+    "title": "Maria no Danzai",
+    "title_english": null,
+    "title_japanese": "聖母〈マリア〉の断罪",
+    "title_synonyms": [
+        "Seibo no Danzai"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2023-05-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 5,
+                "year": 2023
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 5, 2023 to ?"
+    },
+    "score": 7.23,
+    "scored": 7.23,
+    "scored_by": 3592,
+    "rank": 5646,
+    "popularity": 1394,
+    "members": 15120,
+    "favorites": 176,
+    "synopsis": "After her son died a horrific death, his mom finds about his severe bullying. She's determined to pass judgment on her beloved son's bullies and starts as the school nurse.\n\n(Source: Manga Mogura)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 65636,
+            "type": "people",
+            "name": "Kazuki",
+            "url": "https://myanimelist.net/people/65636/Kazuki"
+        },
+        {
+            "mal_id": 65637,
+            "type": "people",
+            "name": "Kamejima, Junto",
+            "url": "https://myanimelist.net/people/65637/Junto_Kamejima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 290,
+            "type": "manga",
+            "name": "Tonari no Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/290/Tonari_no_Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://tonarinoyj.jp/episode/4856001361192121329"
+        }
+    ]
+}

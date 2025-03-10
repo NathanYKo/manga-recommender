@@ -1,0 +1,144 @@
+{
+    "mal_id": 81507,
+    "url": "https://myanimelist.net/manga/81507/Gunnm__Kasei_Senki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/157417.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/157417t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/157417l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/157417.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/157417t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/157417l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gunnm: Kasei Senki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Battle Angel Alita: The Martian War Chronicles"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gunnm Mars Chronicle"
+        },
+        {
+            "type": "Japanese",
+            "title": "銃夢火星戦記"
+        },
+        {
+            "type": "English",
+            "title": "Battle Angel Alita: Mars Chronicle"
+        }
+    ],
+    "title": "Gunnm: Kasei Senki",
+    "title_english": "Battle Angel Alita: Mars Chronicle",
+    "title_japanese": "銃夢火星戦記",
+    "title_synonyms": [
+        "Battle Angel Alita: The Martian War Chronicles",
+        "Gunnm Mars Chronicle"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-10-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 28, 2014 to ?"
+    },
+    "score": 7.77,
+    "scored": 7.77,
+    "scored_by": 1675,
+    "rank": 1465,
+    "popularity": 2456,
+    "members": 8953,
+    "favorites": 83,
+    "synopsis": "The cyber-martial arts saga that has spanned a solar system and over two decades in print returns, with creator Yukito Kishiro's new sequel that reveals the true story of Alita's childhood on Mars, and the mind-bending adventures that still await her...For centuries, war has raged on the dusty, red surface of Mars. This apocalyptic crucible will produce the solar system's most fearsome warrior, Alita. But for now that warrior is just a little girl named Yoko. The future and past of the battle angel fan out across the reaches of space in the final chapter of one of the greatest sci-fi epics of all time!\n\n(Source: Kodansha USA)",
+    "background": "Gunnm: Kasei Senki has been published in English as Battle Angel Alita: Mars Chronicle by Kodansha Comics USA since January 23, 2018.",
+    "authors": [
+        {
+            "mal_id": 2602,
+            "type": "people",
+            "name": "Kishiro, Yukito",
+            "url": "https://myanimelist.net/people/2602/Yukito_Kishiro"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 171,
+            "type": "manga",
+            "name": "Evening",
+            "url": "https://myanimelist.net/manga/magazine/171/Evening"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 770,
+                    "type": "manga",
+                    "name": "Gunnm: Last Order",
+                    "url": "https://myanimelist.net/manga/770/Gunnm__Last_Order"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/battle-angel-alita-mars-chronicle/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://evening.kodansha.co.jp/c/gunnm_marschronicle.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%8A%83%E5%A4%A2"
+        }
+    ]
+}

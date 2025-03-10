@@ -1,0 +1,122 @@
+{
+    "mal_id": 59341,
+    "url": "https://myanimelist.net/manga/59341/Endou-kun_no_Jikken_Note",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/197879.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/197879t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/197879l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/197879.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/197879t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/197879l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Endou-kun no Jikken Note"
+        },
+        {
+            "type": "Synonym",
+            "title": "Endou's Research Notes"
+        },
+        {
+            "type": "Japanese",
+            "title": "えんどうくんの実験ノート"
+        }
+    ],
+    "title": "Endou-kun no Jikken Note",
+    "title_english": null,
+    "title_japanese": "えんどうくんの実験ノート",
+    "title_synonyms": [
+        "Endou's Research Notes"
+    ],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-07-31T00:00:00+00:00",
+        "to": "2016-11-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 30,
+                "month": 11,
+                "year": 2016
+            }
+        },
+        "string": "Jul 31, 2013 to Nov 30, 2016"
+    },
+    "score": 7.56,
+    "scored": 7.56,
+    "scored_by": 900,
+    "rank": 2555,
+    "popularity": 6486,
+    "members": 3281,
+    "favorites": 20,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 14181,
+            "type": "people",
+            "name": "Hayakawa, Nojiko",
+            "url": "https://myanimelist.net/people/14181/Nojiko_Hayakawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1039,
+            "type": "manga",
+            "name": "ihr hertZ",
+            "url": "https://myanimelist.net/manga/magazine/1039/ihr_hertZ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 30545,
+                    "type": "manga",
+                    "name": "Endou-kun no Kansatsu Nikki",
+                    "url": "https://myanimelist.net/manga/30545/Endou-kun_no_Kansatsu_Nikki"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

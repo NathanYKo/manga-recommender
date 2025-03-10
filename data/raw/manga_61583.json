@@ -1,0 +1,124 @@
+{
+    "mal_id": 61583,
+    "url": "https://myanimelist.net/manga/61583/Hellper",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/106053.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/106053t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/106053l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/106053.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/106053t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/106053l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hellper"
+        },
+        {
+            "type": "Japanese",
+            "title": "헬퍼"
+        }
+    ],
+    "title": "Hellper",
+    "title_english": null,
+    "title_japanese": "헬퍼",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": 188,
+    "volumes": 18,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-10-12T00:00:00+00:00",
+        "to": "2015-06-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 3,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Oct 12, 2011 to Jun 3, 2015"
+    },
+    "score": 7.94,
+    "scored": 7.94,
+    "scored_by": 3853,
+    "rank": 901,
+    "popularity": 1487,
+    "members": 14328,
+    "favorites": 279,
+    "synopsis": "Captain Kwang-nam Jang of guard tribe who safeguards the city. After he passes away from mysterious car accident, stories unfold in this life and the next.\n\n(Source: Naver)",
+    "background": "Hellper is originally a webtoon which was officially published in paperbook format by AniBooks (애니북스) on March 3, 2012.",
+    "authors": [
+        {
+            "mal_id": 27047,
+            "type": "people",
+            "name": "Sakk",
+            "url": "https://myanimelist.net/people/27047/Sakk"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 149796,
+                    "type": "manga",
+                    "name": "Hellper 2: Killberos",
+                    "url": "https://myanimelist.net/manga/149796/Hellper_2__Killberos"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ko.wikipedia.org/wiki/%ED%97%AC%ED%8D%BC_(%EB%A7%8C%ED%99%94)"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%ED%97%AC%ED%8D%BC(%EC%9B%B9%ED%88%B0)"
+        }
+    ]
+}

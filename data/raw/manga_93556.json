@@ -1,0 +1,115 @@
+{
+    "mal_id": 93556,
+    "url": "https://myanimelist.net/manga/93556/Kuro_Ihon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165400.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165400t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165400l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165400.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165400t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165400l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kuro Ihon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kuroi Hon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Black Book"
+        },
+        {
+            "type": "Japanese",
+            "title": "黒異本"
+        }
+    ],
+    "title": "Kuro Ihon",
+    "title_english": null,
+    "title_japanese": "黒異本",
+    "title_synonyms": [
+        "Kuroi Hon",
+        "Black Book"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-11-08T00:00:00+00:00",
+        "to": "2015-06-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 11,
+                "year": 2014
+            },
+            "to": {
+                "day": 8,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Nov 8, 2014 to Jun 8, 2015"
+    },
+    "score": 6.17,
+    "scored": 6.17,
+    "scored_by": 1522,
+    "rank": 19231,
+    "popularity": 6941,
+    "members": 3038,
+    "favorites": 2,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 2896,
+            "type": "people",
+            "name": "Hokazono, Masaya",
+            "url": "https://myanimelist.net/people/2896/Masaya_Hokazono"
+        },
+        {
+            "mal_id": 12183,
+            "type": "people",
+            "name": "Takaminato, Motosuke",
+            "url": "https://myanimelist.net/people/12183/Motosuke_Takaminato"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1087,
+            "type": "manga",
+            "name": "KiSSCA",
+            "url": "https://myanimelist.net/manga/magazine/1087/KiSSCA"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

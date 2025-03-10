@@ -1,0 +1,170 @@
+{
+    "mal_id": 3713,
+    "url": "https://myanimelist.net/manga/3713/Bartender",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/279741.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/279741t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/279741l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/279741.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/279741t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/279741l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bartender"
+        },
+        {
+            "type": "Japanese",
+            "title": "バーテンダ"
+        },
+        {
+            "type": "English",
+            "title": "Bartender"
+        }
+    ],
+    "title": "Bartender",
+    "title_english": "Bartender",
+    "title_japanese": "バーテンダ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 167,
+    "volumes": 21,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-12-03T00:00:00+00:00",
+        "to": "2011-12-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 12,
+                "year": 2004
+            },
+            "to": {
+                "day": 21,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Dec 3, 2004 to Dec 21, 2011"
+    },
+    "score": 7.93,
+    "scored": 7.93,
+    "scored_by": 6072,
+    "rank": 908,
+    "popularity": 1076,
+    "members": 18708,
+    "favorites": 333,
+    "synopsis": "After spending eight years in Europe, bartender Ryuu Sasakura returns home to explore the local bar scene. As a seasoned veteran of the industry, Sasakura knows how to make the perfect drink to match a patron's mood and circumstance. Serving patrons at the bar Lapin, Sasakura utilizes his expertise and compassionate ear. Thanks to his excellent service, Sasakura's customers always have something special in store.\n\n[Written by MAL Rewrite]",
+    "background": "Bartender was adapted into a live-action TV series in 2011.",
+    "authors": [
+        {
+            "mal_id": 3257,
+            "type": "people",
+            "name": "Nagatomo, Kenji",
+            "url": "https://myanimelist.net/people/3257/Kenji_Nagatomo"
+        },
+        {
+            "mal_id": 3747,
+            "type": "people",
+            "name": "Jou, Araki",
+            "url": "https://myanimelist.net/people/3747/Araki_Jou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 85,
+            "type": "manga",
+            "name": "Super Jump",
+            "url": "https://myanimelist.net/manga/magazine/85/Super_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1589,
+                    "type": "anime",
+                    "name": "Bartender",
+                    "url": "https://myanimelist.net/anime/1589/Bartender"
+                },
+                {
+                    "mal_id": 53407,
+                    "type": "anime",
+                    "name": "Bartender: Kami no Glass",
+                    "url": "https://myanimelist.net/anime/53407/Bartender__Kami_no_Glass"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 169762,
+                    "type": "manga",
+                    "name": "Bartender: Edenhall",
+                    "url": "https://myanimelist.net/manga/169762/Bartender__Edenhall"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 118340,
+                    "type": "manga",
+                    "name": "Bartender à Paris",
+                    "url": "https://myanimelist.net/manga/118340/Bartender_à_Paris"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Bartender_%28manga%29"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/バーテンダー_(漫画)"
+        }
+    ]
+}

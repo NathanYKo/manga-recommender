@@ -1,0 +1,126 @@
+{
+    "mal_id": 163455,
+    "url": "https://myanimelist.net/manga/163455/Phantom_Busters",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/292885.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/292885t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/292885l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/292885.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/292885t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/292885l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Phantom Busters"
+        },
+        {
+            "type": "Japanese",
+            "title": "ファントムバスターズ"
+        },
+        {
+            "type": "English",
+            "title": "Phantom Busters"
+        }
+    ],
+    "title": "Phantom Busters",
+    "title_english": "Phantom Busters",
+    "title_japanese": "ファントムバスターズ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2023-08-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 8,
+                "year": 2023
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 4, 2023 to ?"
+    },
+    "score": 7.89,
+    "scored": 7.89,
+    "scored_by": 435,
+    "rank": 1031,
+    "popularity": 7161,
+    "members": 2924,
+    "favorites": 73,
+    "synopsis": "High school freshman Eugene Korekishi is an honor student with zero psychic powers who does not believe in ghosts! However, his high school life takes an unexpected turn when he meets a maverick boy named Mogari Shishikuno, who exorcises ghosts by eating them!\n\nSet in Kamakura, this coming-of-age comedy about a high school boy who dispels evil spirits begins!\n\n(Source: Shueisha, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 52235,
+            "type": "people",
+            "name": "shoco",
+            "url": "https://myanimelist.net/people/52235/shoco"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 161476,
+                    "type": "manga",
+                    "name": "Phantom Busters",
+                    "url": "https://myanimelist.net/manga/161476/Phantom_Busters"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://jumpsq.shueisha.co.jp/rensai/phantombusters/"
+        }
+    ]
+}

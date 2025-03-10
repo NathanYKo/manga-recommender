@@ -1,0 +1,140 @@
+{
+    "mal_id": 18276,
+    "url": "https://myanimelist.net/manga/18276/Crows_Zero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/172874.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/172874t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/172874l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/172874.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/172874t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/172874l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Crows Zero"
+        },
+        {
+            "type": "Japanese",
+            "title": "クローズZERO"
+        }
+    ],
+    "title": "Crows Zero",
+    "title_english": null,
+    "title_japanese": "クローズZERO",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 77,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-11-27T00:00:00+00:00",
+        "to": "2010-06-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 11,
+                "year": 2008
+            },
+            "to": {
+                "day": 10,
+                "month": 6,
+                "year": 2010
+            }
+        },
+        "string": "Nov 27, 2008 to Jun 10, 2010"
+    },
+    "score": 7.63,
+    "scored": 7.63,
+    "scored_by": 724,
+    "rank": 2133,
+    "popularity": 5786,
+    "members": 3725,
+    "favorites": 43,
+    "synopsis": "The story starts with Takiya Genji, the son of a Yakuza boss, entering Suzuran All-Boys High School as a transferred senior with the goal of conquering it. During the Freshers' orientation lecture, Yakuza arrive at the school seeking Tamao Serizawa to avenge an injury.",
+    "background": "Crows Zero is a spin-off based on Hiroshi Takahashi's manga Crows, but the storyline happens before it, so it can be seen as a prequel to the original. The series was adapted into a Japanese live-action film that was released on October 27, 2007.",
+    "authors": [
+        {
+            "mal_id": 9844,
+            "type": "people",
+            "name": "Naitou, Kenichiro",
+            "url": "https://myanimelist.net/people/9844/Kenichiro_Naitou"
+        },
+        {
+            "mal_id": 40427,
+            "type": "people",
+            "name": "Mutou, Shougo",
+            "url": "https://myanimelist.net/people/40427/Shougo_Mutou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 5651,
+                    "type": "manga",
+                    "name": "Crows",
+                    "url": "https://myanimelist.net/manga/5651/Crows"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 118760,
+                    "type": "manga",
+                    "name": "Crows Zero Reboot",
+                    "url": "https://myanimelist.net/manga/118760/Crows_Zero_Reboot"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

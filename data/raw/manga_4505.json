@@ -1,0 +1,132 @@
+{
+    "mal_id": 4505,
+    "url": "https://myanimelist.net/manga/4505/Lucky_Star_Pocket_Travelers",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/287281.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/287281t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/287281l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/287281.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/287281t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/287281l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Lucky Star Pocket Travelers"
+        },
+        {
+            "type": "Japanese",
+            "title": "らき☆すた ポケットとらべら～ず"
+        },
+        {
+            "type": "English",
+            "title": "Lucky Star Pocket Travelers"
+        }
+    ],
+    "title": "Lucky Star Pocket Travelers",
+    "title_english": "Lucky Star Pocket Travelers",
+    "title_japanese": "らき☆すた ポケットとらべら～ず",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-11-26T00:00:00+00:00",
+        "to": "2008-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 11,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            }
+        },
+        "string": "Nov 26, 2007 to 2008"
+    },
+    "score": 7.4,
+    "scored": 7.4,
+    "scored_by": 999,
+    "rank": 3832,
+    "popularity": 7677,
+    "members": 2686,
+    "favorites": 33,
+    "synopsis": "Konata, Miyuki, Tsukasa, and Kagami fall asleep to find themselves anime figure sized when they awake.",
+    "background": "Lucky Star Pocket Travelers was licensed in English for online distribution in the now defunct site JManga.",
+    "authors": [
+        {
+            "mal_id": 2520,
+            "type": "people",
+            "name": "Yoshimizu, Kagami",
+            "url": "https://myanimelist.net/people/2520/Kagami_Yoshimizu"
+        },
+        {
+            "mal_id": 13777,
+            "type": "people",
+            "name": "Akariryuryuha",
+            "url": "https://myanimelist.net/people/13777/Akariryuryuha"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 112,
+            "type": "manga",
+            "name": "Comp Ace",
+            "url": "https://myanimelist.net/manga/magazine/112/Comp_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 587,
+                    "type": "manga",
+                    "name": "Lucky☆Star",
+                    "url": "https://myanimelist.net/manga/587/Lucky☆Star"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

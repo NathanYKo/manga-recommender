@@ -1,0 +1,170 @@
+{
+    "mal_id": 86655,
+    "url": "https://myanimelist.net/manga/86655/Kokuhaku_Yokou_Renshuu_Series",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/150445.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/150445t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/150445l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/150445.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/150445t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/150445l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kokuhaku Yokou Renshuu Series"
+        },
+        {
+            "type": "Synonym",
+            "title": "Confession Rehearsal"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yakimochi no Kotae"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Solution to Jealousy"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hatsukoi no Ehon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Confession Executive Committee Love Series"
+        },
+        {
+            "type": "Japanese",
+            "title": "告白予行練習シリーズ"
+        }
+    ],
+    "title": "Kokuhaku Yokou Renshuu Series",
+    "title_english": null,
+    "title_japanese": "告白予行練習シリーズ",
+    "title_synonyms": [
+        "Confession Rehearsal",
+        "Yakimochi no Kotae",
+        "A Solution to Jealousy",
+        "Hatsukoi no Ehon",
+        "Confession Executive Committee Love Series"
+    ],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-02-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 2,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 1, 2014 to ?"
+    },
+    "score": 7.55,
+    "scored": 7.55,
+    "scored_by": 286,
+    "rank": 2611,
+    "popularity": 4389,
+    "members": 5090,
+    "favorites": 57,
+    "synopsis": "Kokuhaku Yokou Renshuu series is based on the popular Vocaloid series by the same name, created by HoneyWorks.\n\nThe song starts with a sudden confession from Natsuki, but due to her own embarrassment, she quickly dismisses it, saying it was just a rehearsal for her true confession.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 36953,
+            "type": "people",
+            "name": "Yamako",
+            "url": "https://myanimelist.net/people/36953/Yamako"
+        },
+        {
+            "mal_id": 36954,
+            "type": "people",
+            "name": "Fujitani, Touko",
+            "url": "https://myanimelist.net/people/36954/Touko_Fujitani"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 31245,
+                    "type": "anime",
+                    "name": "Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai",
+                    "url": "https://myanimelist.net/anime/31245/Zutto_Mae_kara_Suki_deshita_Kokuhaku_Jikkou_Iinkai"
+                },
+                {
+                    "mal_id": 33036,
+                    "type": "anime",
+                    "name": "Suki ni Naru Sono Shunkan wo. Kokuhaku Jikkou Iinkai",
+                    "url": "https://myanimelist.net/anime/33036/Suki_ni_Naru_Sono_Shunkan_wo_Kokuhaku_Jikkou_Iinkai"
+                },
+                {
+                    "mal_id": 36220,
+                    "type": "anime",
+                    "name": "Itsudatte Bokura no Koi wa 10 cm Datta.",
+                    "url": "https://myanimelist.net/anime/36220/Itsudatte_Bokura_no_Koi_wa_10_cm_Datta"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 142796,
+                    "type": "manga",
+                    "name": "Romeo: Prologue",
+                    "url": "https://myanimelist.net/manga/142796/Romeo__Prologue"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

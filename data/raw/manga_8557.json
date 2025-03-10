@@ -1,0 +1,156 @@
+{
+    "mal_id": 8557,
+    "url": "https://myanimelist.net/manga/8557/Kimi_to_Boku",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/112375.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/112375t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/112375l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/112375.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/112375t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/112375l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi to Boku."
+        },
+        {
+            "type": "Synonym",
+            "title": "You and I"
+        },
+        {
+            "type": "Japanese",
+            "title": "君と僕。"
+        }
+    ],
+    "title": "Kimi to Boku.",
+    "title_english": null,
+    "title_japanese": "君と僕。",
+    "title_synonyms": [
+        "You and I"
+    ],
+    "type": "Manga",
+    "chapters": 103,
+    "volumes": 17,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-09-24T00:00:00+00:00",
+        "to": "2022-03-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 9,
+                "year": 2004
+            },
+            "to": {
+                "day": 18,
+                "month": 3,
+                "year": 2022
+            }
+        },
+        "string": "Sep 24, 2004 to Mar 18, 2022"
+    },
+    "score": 8.14,
+    "scored": 8.14,
+    "scored_by": 1899,
+    "rank": 530,
+    "popularity": 1878,
+    "members": 11543,
+    "favorites": 249,
+    "synopsis": "Shun, Kaname, and the twins Yuuki and Yuuta have been friends since kindergarten. It's a little hard to tell if they actually get along or not. But even as high school students, they still hang out together. Recently, they've had a new addition: the half-Japanese transfer student Chizuru, who has started to liven up the group. This manga is about their daily lives, which aren't particularly passionate or exciting. A tranquil and sometimes comedic story of youthful friendship...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6321,
+            "type": "people",
+            "name": "Hotta, Kiichi",
+            "url": "https://myanimelist.net/people/6321/Kiichi_Hotta"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "GFantasy",
+            "url": "https://myanimelist.net/manga/magazine/35/GFantasy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 10460,
+                    "type": "anime",
+                    "name": "Kimi to Boku.",
+                    "url": "https://myanimelist.net/anime/10460/Kimi_to_Boku"
+                },
+                {
+                    "mal_id": 11739,
+                    "type": "anime",
+                    "name": "Kimi to Boku. 2",
+                    "url": "https://myanimelist.net/anime/11739/Kimi_to_Boku_2"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.co.jp/magazine/gfantasy/story/kimitoboku/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%A8%E5%83%95%E3%80%82"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "mal_id": 111769,
+    "url": "https://myanimelist.net/manga/111769/Megami-ryou_no_Ryoubo-kun",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/210954.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/210954t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/210954l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/210954.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/210954t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/210954l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Megami-ryou no Ryoubo-kun."
+        },
+        {
+            "type": "Synonym",
+            "title": "Mother of the Goddess' Dormitory"
+        },
+        {
+            "type": "Japanese",
+            "title": "女神寮の寮母くん。"
+        }
+    ],
+    "title": "Megami-ryou no Ryoubo-kun.",
+    "title_english": null,
+    "title_japanese": "女神寮の寮母くん。",
+    "title_synonyms": [
+        "Mother of the Goddess' Dormitory"
+    ],
+    "type": "Manga",
+    "chapters": 55,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-12-26T00:00:00+00:00",
+        "to": "2022-06-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 12,
+                "year": 2017
+            },
+            "to": {
+                "day": 24,
+                "month": 6,
+                "year": 2022
+            }
+        },
+        "string": "Dec 26, 2017 to Jun 24, 2022"
+    },
+    "score": 6.64,
+    "scored": 6.64,
+    "scored_by": 2072,
+    "rank": 14649,
+    "popularity": 2542,
+    "members": 8684,
+    "favorites": 47,
+    "synopsis": "Down-on-his-luck Koushi Nagumo needs a place to stay, and he finds one in the Goddess' Dormitory at a women's college. But to keep his new lodgings, he'll have to become the \"Dorm Mother\" to the college's most unruly and eccentric students!\n\n(Source: Hidive)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 47572,
+            "type": "people",
+            "name": "Hino, Ikumi",
+            "url": "https://myanimelist.net/people/47572/Ikumi_Hino"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 41812,
+                    "type": "anime",
+                    "name": "Megami-ryou no Ryoubo-kun.",
+                    "url": "https://myanimelist.net/anime/41812/Megami-ryou_no_Ryoubo-kun"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

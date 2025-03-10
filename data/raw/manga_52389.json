@@ -1,0 +1,132 @@
+{
+    "mal_id": 52389,
+    "url": "https://myanimelist.net/manga/52389/Ore_Ride",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/92509.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/92509t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/92509l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/92509.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/92509t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/92509l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ore Ride!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ore Raido"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ao Haru Ride x Ore Monogatari!! Crossover Special"
+        },
+        {
+            "type": "Japanese",
+            "title": "俺ライド!!"
+        }
+    ],
+    "title": "Ore Ride!!",
+    "title_english": null,
+    "title_japanese": "俺ライド!!",
+    "title_synonyms": [
+        "Ore Raido",
+        "Ao Haru Ride x Ore Monogatari!! Crossover Special"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-06-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 6,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 13, 2013"
+    },
+    "score": 7.1,
+    "scored": 7.1,
+    "scored_by": 3566,
+    "rank": 7464,
+    "popularity": 3325,
+    "members": 6755,
+    "favorites": 15,
+    "synopsis": "\"Ao Haru Ride\" and \"Ore Monogatari!!\" special collaboration one-shot, celebrating \"Bessatsu Margaret\" 50th anniversary since launch.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2522,
+            "type": "people",
+            "name": "Kawahara, Kazune",
+            "url": "https://myanimelist.net/people/2522/Kazune_Kawahara"
+        },
+        {
+            "mal_id": 4142,
+            "type": "people",
+            "name": "Sakisaka, Io",
+            "url": "https://myanimelist.net/people/4142/Io_Sakisaka"
+        },
+        {
+            "mal_id": 4340,
+            "type": "people",
+            "name": "Aruko",
+            "url": "https://myanimelist.net/people/4340/Aruko"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Bessatsu Margaret",
+            "url": "https://myanimelist.net/manga/magazine/53/Bessatsu_Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 24294,
+                    "type": "manga",
+                    "name": "Ao Haru Ride",
+                    "url": "https://myanimelist.net/manga/24294/Ao_Haru_Ride"
+                },
+                {
+                    "mal_id": 36933,
+                    "type": "manga",
+                    "name": "Ore Monogatari!!",
+                    "url": "https://myanimelist.net/manga/36933/Ore_Monogatari"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

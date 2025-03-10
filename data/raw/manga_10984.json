@@ -1,0 +1,136 @@
+{
+    "mal_id": 10984,
+    "url": "https://myanimelist.net/manga/10984/No5",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/178634.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/178634t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/178634l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/178634.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/178634t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/178634l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "No.5"
+        },
+        {
+            "type": "Synonym",
+            "title": "Number 5"
+        },
+        {
+            "type": "Synonym",
+            "title": "Number Five"
+        },
+        {
+            "type": "Japanese",
+            "title": "吾 ナンバーファイブ"
+        },
+        {
+            "type": "English",
+            "title": "No.5"
+        }
+    ],
+    "title": "No.5",
+    "title_english": "No.5",
+    "title_japanese": "吾 ナンバーファイブ",
+    "title_synonyms": [
+        "Number 5",
+        "Number Five"
+    ],
+    "type": "Manga",
+    "chapters": 37,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-11-30T00:00:00+00:00",
+        "to": "2005-10-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 11,
+                "year": 2000
+            },
+            "to": {
+                "day": 25,
+                "month": 10,
+                "year": 2005
+            }
+        },
+        "string": "Nov 30, 2000 to Oct 25, 2005"
+    },
+    "score": 7.62,
+    "scored": 7.62,
+    "scored_by": 1210,
+    "rank": 2222,
+    "popularity": 3423,
+    "members": 6526,
+    "favorites": 107,
+    "synopsis": "A science-fiction thriller set in a powerfully imagined multicultural future landscape that resembles the current Middle East. No.5 battles against the forces of the Rainbow Council. In a world that has become 70% harsh desert, the Rainbow Council of the International Peace Keeping Forces, a team of super-powered global security guardians, have a growing crisis on their hands. No.5, one of their own and known within the council as their top marksman, has left his post and gone rogue. It's up to the other guardians to track him down—but No.5, with his mysterious companion, Matroshka, won't go down without a fight.\n\n(Source: VIZ Media)",
+    "background": "No.5 was partially published in English by VIZ Media, who published the first two volumes from April 5, 2002 to August 13, 2003, before the license was dropped due to poor sales. The series was fully released by VIZ Media under the VIZ Signature imprint as 2-in-1 omnibus volumes from July 20, 2021 to April 19, 2022. It has been published in its entirety in French by Kana.",
+    "authors": [
+        {
+            "mal_id": 2409,
+            "type": "people",
+            "name": "Matsumoto, Taiyou",
+            "url": "https://myanimelist.net/people/2409/Taiyou_Matsumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 136,
+            "type": "manga",
+            "name": "Ikki",
+            "url": "https://myanimelist.net/manga/magazine/136/Ikki"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 57179,
+                    "type": "anime",
+                    "name": "No.5",
+                    "url": "https://myanimelist.net/anime/57179/No5"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96_%E5%90%BE"
+        }
+    ]
+}

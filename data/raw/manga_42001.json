@@ -1,0 +1,149 @@
+{
+    "mal_id": 42001,
+    "url": "https://myanimelist.net/manga/42001/Song_of_the_Long_March",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/168139.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/168139t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/168139l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/168139.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/168139t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/168139l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Song of the Long March"
+        },
+        {
+            "type": "Synonym",
+            "title": "Choukakou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chang Ge Xing"
+        },
+        {
+            "type": "Japanese",
+            "title": "長歌行"
+        }
+    ],
+    "title": "Song of the Long March",
+    "title_english": null,
+    "title_japanese": "長歌行",
+    "title_synonyms": [
+        "Choukakou",
+        "Chang Ge Xing"
+    ],
+    "type": "Manhua",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2011-02-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 2,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 2011 to ?"
+    },
+    "score": 8.45,
+    "scored": 8.45,
+    "scored_by": 5001,
+    "rank": 186,
+    "popularity": 618,
+    "members": 30742,
+    "favorites": 844,
+    "synopsis": "Shortly after astrology predicts destruction to befall the Tang Dynasty, a coup d'état led by the crown prince Li's very own brother kills him and his wife and sons. Li's daughter, princess Yongning, manages to escape, but is soon declared dead alongside her family. Full of wrath, the princess swears to avenge them as she takes on the identity of a young man, Li Chang Ge, and moves to the Shou province to advance her goals.\n\nLi Chang Ge uses her wits to gain the trust of the Shou emperor and swiftly climbs the military ranks as a brilliant strategist. Captivatingly drawn, Song of the Long March portrays the feisty girl's adolescent journey toward countless unknown adventures, faithful comradeship, as well as formidable enmity awaiting her along the way.\n\n[Written by MAL Rewrite]",
+    "background": "Song of the Long March was put on hiatus due to the author's poor health and contract issues with the publishing company in December 2016.",
+    "authors": [
+        {
+            "mal_id": 11796,
+            "type": "people",
+            "name": "Xia, Da",
+            "url": "https://myanimelist.net/people/11796/Da_Xia"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 443,
+            "type": "manga",
+            "name": "Comic Fans",
+            "url": "https://myanimelist.net/manga/magazine/443/Comic_Fans"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 60567,
+                    "type": "anime",
+                    "name": "Chang Ge Xing",
+                    "url": "https://myanimelist.net/anime/60567/Chang_Ge_Xing"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 119185,
+                    "type": "manga",
+                    "name": "Shiyi Lu",
+                    "url": "https://myanimelist.net/manga/119185/Shiyi_Lu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://zh.wikipedia.org/wiki/%E9%95%B7%E6%AD%8C%E8%A1%8C_%28%E6%BC%AB%E7%95%AB%29"
+        }
+    ]
+}

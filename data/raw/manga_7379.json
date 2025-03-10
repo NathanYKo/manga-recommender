@@ -1,0 +1,102 @@
+{
+    "mal_id": 7379,
+    "url": "https://myanimelist.net/manga/7379/Mascara_Blues",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/181387.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/181387t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/181387l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/181387.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/181387t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/181387l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mascara Blues"
+        },
+        {
+            "type": "Synonym",
+            "title": "Romance no Rinkaku"
+        },
+        {
+            "type": "Synonym",
+            "title": "Watashi ga Watashi de Aru Tame ni: Nagai Yume"
+        },
+        {
+            "type": "Japanese",
+            "title": "マスカラブルース"
+        }
+    ],
+    "title": "Mascara Blues",
+    "title_english": null,
+    "title_japanese": "マスカラブルース",
+    "title_synonyms": [
+        "Romance no Rinkaku",
+        "Watashi ga Watashi de Aru Tame ni: Nagai Yume"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-09-28T00:00:00+00:00",
+        "to": "2006-11-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 9,
+                "year": 2005
+            },
+            "to": {
+                "day": 28,
+                "month": 11,
+                "year": 2006
+            }
+        },
+        "string": "Sep 28, 2005 to Nov 28, 2006"
+    },
+    "score": 7,
+    "scored": 7,
+    "scored_by": 2534,
+    "rank": 9063,
+    "popularity": 4612,
+    "members": 4792,
+    "favorites": 6,
+    "synopsis": "1. Mascara Blues\n2. Romance no Rinkaku\n3. Watashi ga Watashi de Aru Tame ni: Nagai Yume",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4142,
+            "type": "people",
+            "name": "Sakisaka, Io",
+            "url": "https://myanimelist.net/people/4142/Io_Sakisaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 255,
+            "type": "manga",
+            "name": "Deluxe Margaret",
+            "url": "https://myanimelist.net/manga/magazine/255/Deluxe_Margaret"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

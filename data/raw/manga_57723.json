@@ -1,0 +1,119 @@
+{
+    "mal_id": 57723,
+    "url": "https://myanimelist.net/manga/57723/Yoake_ni_Furu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/231420.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/231420t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/231420l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/231420.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/231420t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/231420l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yoake ni Furu,"
+        },
+        {
+            "type": "Japanese",
+            "title": "夜明けにふる、"
+        },
+        {
+            "type": "Spanish",
+            "title": "Lluvia al amanecer"
+        }
+    ],
+    "title": "Yoake ni Furu,",
+    "title_english": null,
+    "title_japanese": "夜明けにふる、",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-07-19T00:00:00+00:00",
+        "to": "2018-04-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 19,
+                "month": 4,
+                "year": 2018
+            }
+        },
+        "string": "Jul 19, 2013 to Apr 19, 2018"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 707,
+    "rank": 3090,
+    "popularity": 7725,
+    "members": 2666,
+    "favorites": 9,
+    "synopsis": "Continuation of the story from Yozora no Sumikko de focusing on Sudou's son Shouta.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 14181,
+            "type": "people",
+            "name": "Hayakawa, Nojiko",
+            "url": "https://myanimelist.net/people/14181/Nojiko_Hayakawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 188,
+            "type": "manga",
+            "name": "Craft",
+            "url": "https://myanimelist.net/manga/magazine/188/Craft"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 34755,
+                    "type": "manga",
+                    "name": "Yozora no Sumikko de,",
+                    "url": "https://myanimelist.net/manga/34755/Yozora_no_Sumikko_de"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.bs-garden.com/feature/yozoranosumikko/#yokoku"
+        }
+    ]
+}

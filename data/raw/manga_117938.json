@@ -1,0 +1,142 @@
+{
+    "mal_id": 117938,
+    "url": "https://myanimelist.net/manga/117938/Shindou_Sephilia_no_Gekokujou_Program",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/215256.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/215256t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/215256l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/215256.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/215256t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/215256l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shindou Sephilia no Gekokujou Program"
+        },
+        {
+            "type": "Synonym",
+            "title": "Prodigy Sephilia's Program to Overthrow the Higher Ranks"
+        },
+        {
+            "type": "Japanese",
+            "title": "神童セフィリアの下剋上プログラム"
+        },
+        {
+            "type": "English",
+            "title": "Gekokujyo Program by a Child Prodigy Sefiria"
+        }
+    ],
+    "title": "Shindou Sephilia no Gekokujou Program",
+    "title_english": "Gekokujyo Program by a Child Prodigy Sefiria",
+    "title_japanese": "神童セフィリアの下剋上プログラム",
+    "title_synonyms": [
+        "Prodigy Sephilia's Program to Overthrow the Higher Ranks"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2018-06-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 25, 2018 to ?"
+    },
+    "score": 6.15,
+    "scored": 6.15,
+    "scored_by": 836,
+    "rank": 19300,
+    "popularity": 7161,
+    "members": 2924,
+    "favorites": 12,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 12469,
+            "type": "people",
+            "name": "Tougarashi, Hideyu",
+            "url": "https://myanimelist.net/people/12469/Hideyu_Tougarashi"
+        },
+        {
+            "mal_id": 46504,
+            "type": "people",
+            "name": "Ashidaka, Takami",
+            "url": "https://myanimelist.net/people/46504/Takami_Ashidaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1452,
+            "type": "manga",
+            "name": "Web Comic Gamma Plus",
+            "url": "https://myanimelist.net/manga/magazine/1452/Web_Comic_Gamma_Plus"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 109011,
+                    "type": "manga",
+                    "name": "Shindou Sephilia no Gekokujou Program",
+                    "url": "https://myanimelist.net/manga/109011/Shindou_Sephilia_no_Gekokujou_Program"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://gammaplus.takeshobo.co.jp/manga/sephiria/"
+        }
+    ]
+}

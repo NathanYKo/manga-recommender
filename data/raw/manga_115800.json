@@ -1,0 +1,138 @@
+{
+    "mal_id": 115800,
+    "url": "https://myanimelist.net/manga/115800/Tokyo_Ghoul_re__Quest",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/230681.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/230681t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/230681l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/230681.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/230681t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/230681l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tokyo Ghoul:re: Quest"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tokyo Kuushu:re: Quest"
+        },
+        {
+            "type": "Japanese",
+            "title": "東京喰種トーキョーグール:re [quest]"
+        }
+    ],
+    "title": "Tokyo Ghoul:re: Quest",
+    "title_english": null,
+    "title_japanese": "東京喰種トーキョーグール:re [quest]",
+    "title_synonyms": [
+        "Tokyo Kuushu:re: Quest"
+    ],
+    "type": "Light Novel",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-12-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 12,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 19, 2016"
+    },
+    "score": 7.49,
+    "scored": 7.49,
+    "scored_by": 573,
+    "rank": 3064,
+    "popularity": 8105,
+    "members": 2520,
+    "favorites": 117,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 15753,
+            "type": "people",
+            "name": "Ishida, Sui",
+            "url": "https://myanimelist.net/people/15753/Sui_Ishida"
+        },
+        {
+            "mal_id": 32699,
+            "type": "people",
+            "name": "Towada, Shin",
+            "url": "https://myanimelist.net/people/32699/Shin_Towada"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 81117,
+                    "type": "manga",
+                    "name": "Tokyo Ghoul:re",
+                    "url": "https://myanimelist.net/manga/81117/Tokyo_Ghoul_re"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%96%B0%E7%A8%AE%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%82%B0%E3%83%BC%E3%83%AB"
+        }
+    ]
+}

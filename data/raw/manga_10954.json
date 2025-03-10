@@ -1,0 +1,120 @@
+{
+    "mal_id": 10954,
+    "url": "https://myanimelist.net/manga/10954/Ergo_Proxy__Centzon_Hitchers_and_Undertaker",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/33309.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/33309t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/33309l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/33309.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/33309t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/33309l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ergo Proxy: Centzon Hitchers and Undertaker"
+        },
+        {
+            "type": "Japanese",
+            "title": "センツォン・ヒッチャーズ＆アンダーテイカー"
+        }
+    ],
+    "title": "Ergo Proxy: Centzon Hitchers and Undertaker",
+    "title_english": null,
+    "title_japanese": "センツォン・ヒッチャーズ＆アンダーテイカー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-08-18T00:00:00+00:00",
+        "to": "2007-02-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 8,
+                "year": 2006
+            },
+            "to": {
+                "day": 19,
+                "month": 2,
+                "year": 2007
+            }
+        },
+        "string": "Aug 18, 2006 to Feb 19, 2007"
+    },
+    "score": 6.97,
+    "scored": 6.97,
+    "scored_by": 788,
+    "rank": 9440,
+    "popularity": 5438,
+    "members": 4004,
+    "favorites": 31,
+    "synopsis": "A side story that takes place within the Ergo Proxy universe about an autoreiv that travels on the Centzon.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6609,
+            "type": "people",
+            "name": "Harao, Yumiko",
+            "url": "https://myanimelist.net/people/6609/Yumiko_Harao"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 790,
+                    "type": "anime",
+                    "name": "Ergo Proxy",
+                    "url": "https://myanimelist.net/anime/790/Ergo_Proxy"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.animenewsnetwork.com/encyclopedia/manga.php?id=6471"
+        }
+    ]
+}

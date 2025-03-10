@@ -1,0 +1,104 @@
+{
+    "mal_id": 3764,
+    "url": "https://myanimelist.net/manga/3764/A_Cat_That_Loved_a_Fish",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/22621.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/22621t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/22621l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/22621.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/22621t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/22621l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "A Cat That Loved a Fish"
+        },
+        {
+            "type": "Synonym",
+            "title": "Goyang-ileul Salanghan Mulgogi"
+        },
+        {
+            "type": "Japanese",
+            "title": "고양이를 사랑한 물고기"
+        }
+    ],
+    "title": "A Cat That Loved a Fish",
+    "title_english": null,
+    "title_japanese": "고양이를 사랑한 물고기",
+    "title_synonyms": [
+        "Goyang-ileul Salanghan Mulgogi"
+    ],
+    "type": "Manhwa",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2005"
+    },
+    "score": 6.34,
+    "scored": 6.34,
+    "scored_by": 2765,
+    "rank": 18119,
+    "popularity": 4825,
+    "members": 4551,
+    "favorites": 11,
+    "synopsis": "The heartwarming story of two young people who love each other but can not be together.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2086,
+            "type": "people",
+            "name": "Yoon, Mi-Kyung",
+            "url": "https://myanimelist.net/people/2086/Mi-Kyung_Yoon"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 134,
+            "type": "manga",
+            "name": "Wink",
+            "url": "https://myanimelist.net/manga/magazine/134/Wink"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

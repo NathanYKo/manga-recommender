@@ -1,0 +1,120 @@
+{
+    "mal_id": 97844,
+    "url": "https://myanimelist.net/manga/97844/Koneko_Hiroimashita",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/175453.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/175453t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/175453l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/175453.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/175453t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/175453l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koneko Hiroimashita"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Found a Kitten"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Found a Baby Cat"
+        },
+        {
+            "type": "Japanese",
+            "title": "子猫拾いました"
+        }
+    ],
+    "title": "Koneko Hiroimashita",
+    "title_english": null,
+    "title_japanese": "子猫拾いました",
+    "title_synonyms": [
+        "I Found a Kitten",
+        "I Found a Baby Cat"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-09-10T00:00:00+00:00",
+        "to": "2015-11-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 9,
+                "year": 2015
+            },
+            "to": {
+                "day": 19,
+                "month": 11,
+                "year": 2015
+            }
+        },
+        "string": "Sep 10, 2015 to Nov 19, 2015"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 2496,
+    "rank": 3901,
+    "popularity": 4509,
+    "members": 4921,
+    "favorites": 28,
+    "synopsis": "Atsuki Komiya is a college student that's living alone. Suddenly, his sister visits and asks for a favor, which is to take care of his niece, Kasane, for two weeks. A story about the awkward relationship of these two, the confused Atsuki and the sullen Kasane, living together. Which direction will this story go…?\n\n(Source: Bato.to)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 41029,
+            "type": "people",
+            "name": "Yohachi",
+            "url": "https://myanimelist.net/people/41029/Yohachi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Childcare",
+            "url": "https://myanimelist.net/manga/genre/53/Childcare"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 105027,
+                    "type": "manga",
+                    "name": "Koneko Mata Hiroimashita",
+                    "url": "https://myanimelist.net/manga/105027/Koneko_Mata_Hiroimashita"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

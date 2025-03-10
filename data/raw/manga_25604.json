@@ -1,0 +1,146 @@
+{
+    "mal_id": 25604,
+    "url": "https://myanimelist.net/manga/25604/Sayonara_Piano_Sonata",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/100821.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/100821t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/100821l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/100821.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/100821t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/100821l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sayonara Piano Sonata"
+        },
+        {
+            "type": "Synonym",
+            "title": "Goodbye Piano Sonata"
+        },
+        {
+            "type": "Japanese",
+            "title": "さよならピアノソナタ"
+        }
+    ],
+    "title": "Sayonara Piano Sonata",
+    "title_english": null,
+    "title_japanese": "さよならピアノソナタ",
+    "title_synonyms": [
+        "Goodbye Piano Sonata"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-02-26T00:00:00+00:00",
+        "to": "2012-07-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 2,
+                "year": 2011
+            },
+            "to": {
+                "day": 27,
+                "month": 7,
+                "year": 2012
+            }
+        },
+        "string": "Feb 26, 2011 to Jul 27, 2012"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 3523,
+    "rank": 3640,
+    "popularity": 2660,
+    "members": 8352,
+    "favorites": 64,
+    "synopsis": "Enter Hikawa Naomi, son of a music critic, and Ebisawa Mafuyu, a young prodigy pianist who suddenly disappeared from the music world. Together they formed a rock band with members involved in classical and rock music.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2139,
+            "type": "people",
+            "name": "Akasaka, Aka",
+            "url": "https://myanimelist.net/people/2139/Aka_Akasaka"
+        },
+        {
+            "mal_id": 11752,
+            "type": "people",
+            "name": "Sugii, Hikaru",
+            "url": "https://myanimelist.net/people/11752/Hikaru_Sugii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 163,
+            "type": "manga",
+            "name": "Dengeki Maoh",
+            "url": "https://myanimelist.net/manga/magazine/163/Dengeki_Maoh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 25609,
+                    "type": "manga",
+                    "name": "Sayonara Piano Sonata",
+                    "url": "https://myanimelist.net/manga/25609/Sayonara_Piano_Sonata"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%83%94%E3%82%A2%E3%83%8E%E3%82%BD%E3%83%8A%E3%82%BF"
+        }
+    ]
+}

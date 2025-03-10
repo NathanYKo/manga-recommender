@@ -1,0 +1,123 @@
+{
+    "mal_id": 813,
+    "url": "https://myanimelist.net/manga/813/Kimi_ga_Koi_ni_Ochiru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/282191.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/282191t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/282191l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/282191.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/282191t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/282191l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi ga Koi ni Ochiru"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gezielte Verführung"
+        },
+        {
+            "type": "Synonym",
+            "title": "You Will Fall in Love"
+        },
+        {
+            "type": "Japanese",
+            "title": "きみが恋に堕ちる"
+        },
+        {
+            "type": "English",
+            "title": "You Will Fall in Love"
+        }
+    ],
+    "title": "Kimi ga Koi ni Ochiru",
+    "title_english": "You Will Fall in Love",
+    "title_japanese": "きみが恋に堕ちる",
+    "title_synonyms": [
+        "Gezielte Verführung",
+        "You Will Fall in Love"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2006"
+    },
+    "score": 7.47,
+    "scored": 7.47,
+    "scored_by": 2815,
+    "rank": null,
+    "popularity": 4258,
+    "members": 5256,
+    "favorites": 10,
+    "synopsis": "Kimi ga Koi ni Ochiru (You Fall in Love) by Takanaga Hinako starts when Mochizuki Haru has subbed in to teach and is made student advisor of the Archery club and is forced to deal with painful memories involving one of the students (Tsukasa) and the student's brother (Reiichirou). \n\n(Source: Hochuuami)",
+    "background": "Kimi ga Koi ni Ochiru was published in English as You Will Fall in Love by Tokyopop's Blu Manga imprint on December 2, 2008.",
+    "authors": [
+        {
+            "mal_id": 2273,
+            "type": "people",
+            "name": "Takanaga, Hinako",
+            "url": "https://myanimelist.net/people/2273/Hinako_Takanaga"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 6304,
+                    "type": "manga",
+                    "name": "Kimi ga Koi ni Oboreru",
+                    "url": "https://myanimelist.net/manga/6304/Kimi_ga_Koi_ni_Oboreru"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

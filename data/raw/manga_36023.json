@@ -1,0 +1,162 @@
+{
+    "mal_id": 36023,
+    "url": "https://myanimelist.net/manga/36023/Sunao_ja_Nai_kedo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/86339.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/86339t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/86339l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/86339.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/86339t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/86339l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sunao ja Nai kedo"
+        },
+        {
+            "type": "Synonym",
+            "title": "I'm Not Honest"
+        },
+        {
+            "type": "Japanese",
+            "title": "素直じゃないけど"
+        }
+    ],
+    "title": "Sunao ja Nai kedo",
+    "title_english": null,
+    "title_japanese": "素直じゃないけど",
+    "title_synonyms": [
+        "I'm Not Honest"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-03-01T00:00:00+00:00",
+        "to": "2012-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            }
+        },
+        "string": "Mar 2012 to 2012"
+    },
+    "score": 7.83,
+    "scored": 7.83,
+    "scored_by": 2183,
+    "rank": null,
+    "popularity": 5228,
+    "members": 4168,
+    "favorites": 12,
+    "synopsis": "The love troubles continue for Yukimura Shuuji and Shinonome Ryuuichi as obstacles arise between them under the guise of Kousaka Nao, Shinonome's friend. Can they finally reach an understanding and solve their miscommunication?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3272,
+            "type": "people",
+            "name": "Sakuraga, Mei",
+            "url": "https://myanimelist.net/people/3272/Mei_Sakuraga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 26606,
+                    "type": "manga",
+                    "name": "Kare ja Nai kedo",
+                    "url": "https://myanimelist.net/manga/26606/Kare_ja_Nai_kedo"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 92612,
+                    "type": "manga",
+                    "name": "Himitsu ja Nai kedo: Yukimura Shuuji ni Tsuite no Kansatsu",
+                    "url": "https://myanimelist.net/manga/92612/Himitsu_ja_Nai_kedo__Yukimura_Shuuji_ni_Tsuite_no_Kansatsu"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 71589,
+                    "type": "manga",
+                    "name": "Shouwaru Ookami ga Koi wo Shita Rashii",
+                    "url": "https://myanimelist.net/manga/71589/Shouwaru_Ookami_ga_Koi_wo_Shita_Rashii"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

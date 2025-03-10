@@ -1,0 +1,134 @@
+{
+    "mal_id": 106612,
+    "url": "https://myanimelist.net/manga/106612/Eguchi-kun_wa_Minogasanai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/195212.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/195212t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/195212l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/195212.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/195212t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/195212l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Eguchi-kun wa Minogasanai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mr. Eguchi doesn't miss \"Choi Ero.\""
+        },
+        {
+            "type": "Synonym",
+            "title": "Eguchi-kun Doesn't Miss a Thing"
+        },
+        {
+            "type": "Japanese",
+            "title": "江口くんは見逃さない"
+        }
+    ],
+    "title": "Eguchi-kun wa Minogasanai",
+    "title_english": null,
+    "title_japanese": "江口くんは見逃さない",
+    "title_synonyms": [
+        "Mr. Eguchi doesn't miss \"Choi Ero.\"",
+        "Eguchi-kun Doesn't Miss a Thing"
+    ],
+    "type": "Manga",
+    "chapters": 101,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-12-25T00:00:00+00:00",
+        "to": "2019-01-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 12,
+                "year": 2013
+            },
+            "to": {
+                "day": 25,
+                "month": 1,
+                "year": 2019
+            }
+        },
+        "string": "Dec 25, 2013 to Jan 25, 2019"
+    },
+    "score": 6.56,
+    "scored": 6.56,
+    "scored_by": 1674,
+    "rank": 15708,
+    "popularity": 4549,
+    "members": 4878,
+    "favorites": 12,
+    "synopsis": "Eguchi Hajime is an elementary school boy with the worst (best?) super power ever: being able to notice every little erotic moment that happens in daily life.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 41712,
+            "type": "people",
+            "name": "Nozawa, Yukiko",
+            "url": "https://myanimelist.net/people/41712/Yukiko_Nozawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 719,
+            "type": "manga",
+            "name": "Comic Zenon",
+            "url": "https://myanimelist.net/manga/magazine/719/Comic_Zenon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 99979,
+                    "type": "manga",
+                    "name": "Yokoshima na Eguchi-kun",
+                    "url": "https://myanimelist.net/manga/99979/Yokoshima_na_Eguchi-kun"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

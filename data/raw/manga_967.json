@@ -1,0 +1,138 @@
+{
+    "mal_id": 967,
+    "url": "https://myanimelist.net/manga/967/Kurozuka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/156364.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/156364t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/156364l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/156364.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/156364t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/156364l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kurozuka"
+        },
+        {
+            "type": "Japanese",
+            "title": "KUROZUKA-黒塚-"
+        }
+    ],
+    "title": "Kurozuka",
+    "title_english": null,
+    "title_japanese": "KUROZUKA-黒塚-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 40,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-07-17T00:00:00+00:00",
+        "to": "2006-10-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 7,
+                "year": 2002
+            },
+            "to": {
+                "day": 18,
+                "month": 10,
+                "year": 2006
+            }
+        },
+        "string": "Jul 17, 2002 to Oct 18, 2006"
+    },
+    "score": 6.99,
+    "scored": 6.99,
+    "scored_by": 2255,
+    "rank": 9117,
+    "popularity": 2972,
+    "members": 7560,
+    "favorites": 69,
+    "synopsis": "A tale of obsessive love and constant pursuit, told over a 1000 years.\n\nEscaping from a brother who had just ascended the throne, Yoshitsune, along with his servant, comes across a house in the middle of a desolate mountain. Oddly enough, only a young woman lives there, who seems to possess a very dark and ominous past.\n\n(Source: Izumo no Ryuu)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2026,
+            "type": "people",
+            "name": "Yumemakura, Baku",
+            "url": "https://myanimelist.net/people/2026/Baku_Yumemakura"
+        },
+        {
+            "mal_id": 2775,
+            "type": "people",
+            "name": "Noguchi, Takashi",
+            "url": "https://myanimelist.net/people/2775/Takashi_Noguchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 485,
+            "type": "manga",
+            "name": "Oh Super Jump",
+            "url": "https://myanimelist.net/manga/magazine/485/Oh_Super_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 5039,
+                    "type": "anime",
+                    "name": "Kurozuka",
+                    "url": "https://myanimelist.net/anime/5039/Kurozuka"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 96376,
+                    "type": "manga",
+                    "name": "Hokuto no Ken Gaiden: Kinyoku no Garuda - Nanto Goshasei Zenshi",
+                    "url": "https://myanimelist.net/manga/96376/Hokuto_no_Ken_Gaiden__Kinyoku_no_Garuda_-_Nanto_Goshasei_Zenshi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%BB%92%E5%A1%9A_KUROZUKA"
+        }
+    ]
+}

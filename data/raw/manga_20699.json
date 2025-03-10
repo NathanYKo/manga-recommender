@@ -1,0 +1,131 @@
+{
+    "mal_id": 20699,
+    "url": "https://myanimelist.net/manga/20699/Steins_Gate__Boukan_no_Rebellion",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/41878.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/41878t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/41878l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/41878.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/41878t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/41878l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Steins;Gate: Boukan no Rebellion"
+        },
+        {
+            "type": "Synonym",
+            "title": "Steins,Gate: Rebellion of the Missing Ring"
+        },
+        {
+            "type": "Japanese",
+            "title": "STEINS;GATE 亡環のリベリオン"
+        }
+    ],
+    "title": "Steins;Gate: Boukan no Rebellion",
+    "title_english": null,
+    "title_japanese": "STEINS;GATE 亡環のリベリオン",
+    "title_synonyms": [
+        "Steins,Gate: Rebellion of the Missing Ring"
+    ],
+    "type": "Manga",
+    "chapters": 18,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-12-28T00:00:00+00:00",
+        "to": "2011-07-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 12,
+                "year": 2009
+            },
+            "to": {
+                "day": 30,
+                "month": 7,
+                "year": 2011
+            }
+        },
+        "string": "Dec 28, 2009 to Jul 30, 2011"
+    },
+    "score": 7.55,
+    "scored": 7.55,
+    "scored_by": 2156,
+    "rank": 2623,
+    "popularity": 3962,
+    "members": 5673,
+    "favorites": 49,
+    "synopsis": "This is an original story expanded from the STEINS;GATE game, and focusing on the heroine Amane Suzuha. In 2036, a monopoly on time machines has created world peace, but at the cost of human liberty.\n\nSuzuha has followed in her late father's footsteps in fighting alongside the Valkyrie rebellion force to change the world. After the group fails on a major mission, Suzuha has almost no hope left. But then she discovers that her father left something for her: a time machine. Using this, maybe Suzuha will have the power to finally destroy this dystopian society and create a better present and future!\n\n(Source: MangaHelpers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4960,
+            "type": "people",
+            "name": "Nitroplus",
+            "url": "https://myanimelist.net/people/4960/Nitroplus"
+        },
+        {
+            "mal_id": 16717,
+            "type": "people",
+            "name": "Mizuta, Kenji",
+            "url": "https://myanimelist.net/people/16717/Kenji_Mizuta"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Comic Blade",
+            "url": "https://myanimelist.net/manga/magazine/28/Comic_Blade"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 17517,
+                    "type": "manga",
+                    "name": "Steins;Gate",
+                    "url": "https://myanimelist.net/manga/17517/Steins_Gate"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/STEINS;GATE"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Steins;Gate"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "mal_id": 114872,
+    "url": "https://myanimelist.net/manga/114872/Kaguya-sama_wo_Kataritai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/287702.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/287702t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/287702l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/287702.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/287702t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/287702l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kaguya-sama wo Kataritai"
+        },
+        {
+            "type": "Synonym",
+            "title": "We Want to Talk About Kaguya"
+        },
+        {
+            "type": "Japanese",
+            "title": "かぐや様を語りたい"
+        }
+    ],
+    "title": "Kaguya-sama wo Kataritai",
+    "title_english": null,
+    "title_japanese": "かぐや様を語りたい",
+    "title_synonyms": [
+        "We Want to Talk About Kaguya"
+    ],
+    "type": "Manga",
+    "chapters": 207,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-07-26T00:00:00+00:00",
+        "to": "2022-12-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 1,
+                "month": 12,
+                "year": 2022
+            }
+        },
+        "string": "Jul 26, 2018 to Dec 1, 2022"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 3900,
+    "rank": 4240,
+    "popularity": 2048,
+    "members": 10499,
+    "favorites": 91,
+    "synopsis": "Kaguya-sama wo Kataritai follows the daily antics of two members of Shuchiin Academy's Mass Media Club, Erika Kose and Karen Kino. Erika is a fervent admirer of Student Council Vice-President Kaguya Shinomiya, while Karen loves the idea of President Miyuki Shirogane and Kaguya as a couple. As a result, their delusional minds are filled to the brim with horribly misguided ideas on how their seemingly perfect idols actually behave!\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 33437,
+            "type": "people",
+            "name": "G3 Ida",
+            "url": "https://myanimelist.net/people/33437/G3_Ida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 90125,
+                    "type": "manga",
+                    "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+                    "url": "https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://youngjump.jp/manga/kaguyakatari/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%90%E3%82%84%E6%A7%98%E3%81%AF%E5%91%8A%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84%E3%80%9C%E5%A4%A9%E6%89%8D%E3%81%9F%E3%81%A1%E3%81%AE%E6%81%8B%E6%84%9B%E9%A0%AD%E8%84%B3%E6%88%A6%E3%80%9C"
+        }
+    ]
+}

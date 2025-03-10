@@ -1,0 +1,101 @@
+{
+    "mal_id": 9837,
+    "url": "https://myanimelist.net/manga/9837/Cocoa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/23346.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/23346t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/23346l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/23346.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/23346t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/23346l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Cocoa!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kokoa!"
+        },
+        {
+            "type": "Japanese",
+            "title": "ココア!"
+        },
+        {
+            "type": "English",
+            "title": "Cocoa!"
+        }
+    ],
+    "title": "Cocoa!",
+    "title_english": "Cocoa!",
+    "title_japanese": "ココア!",
+    "title_synonyms": [
+        "Kokoa!"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-12-01T00:00:00+00:00",
+        "to": "2005-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 2004
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            }
+        },
+        "string": "Dec 2004 to 2005"
+    },
+    "score": 7.5,
+    "scored": 7.5,
+    "scored_by": 1351,
+    "rank": 2988,
+    "popularity": 8228,
+    "members": 2471,
+    "favorites": 11,
+    "synopsis": "Tsubame's school has two sections: the school for regular students, and a school for \"celebrities\" (known as the fine arts course, or the \"celeb course\"). Tsubame's stuck in the normal school, and has no interest in the upper class life. Then she meets Chio, a male model taking the celeb course. Her life will never be the same again. (Source: Nagareboshi Manga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6075,
+            "type": "people",
+            "name": "Kashiwagi, Shiho",
+            "url": "https://myanimelist.net/people/6075/Shiho_Kashiwagi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 547,
+            "type": "manga",
+            "name": "Nakayoshi Lovely",
+            "url": "https://myanimelist.net/manga/magazine/547/Nakayoshi_Lovely"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

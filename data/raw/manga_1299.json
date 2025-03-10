@@ -1,0 +1,146 @@
+{
+    "mal_id": 1299,
+    "url": "https://myanimelist.net/manga/1299/Amatsuki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/200099.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/200099t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/200099l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/200099.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/200099t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/200099l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Amatsuki"
+        },
+        {
+            "type": "Japanese",
+            "title": "あまつき"
+        }
+    ],
+    "title": "Amatsuki",
+    "title_english": null,
+    "title_japanese": "あまつき",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 158,
+    "volumes": 24,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-07-28T00:00:00+00:00",
+        "to": "2017-08-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 7,
+                "year": 2004
+            },
+            "to": {
+                "day": 28,
+                "month": 8,
+                "year": 2017
+            }
+        },
+        "string": "Jul 28, 2004 to Aug 28, 2017"
+    },
+    "score": 7.59,
+    "scored": 7.59,
+    "scored_by": 2928,
+    "rank": 2368,
+    "popularity": 1859,
+    "members": 11699,
+    "favorites": 209,
+    "synopsis": "History isn't Tokidoki's strong subject. He's even forced to do make-up work at a high-tech history museum to bring up his failing grades. After losing an eye to a virtual reality monster in an Edo period simulation, he finds himself unable to leave the game. Could it be real?\n\n(Source: Easy Going Scans)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2926,
+            "type": "people",
+            "name": "Takayama, Shinobu",
+            "url": "https://myanimelist.net/people/2926/Shinobu_Takayama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 110,
+            "type": "manga",
+            "name": "Comic ZERO-SUM",
+            "url": "https://myanimelist.net/manga/magazine/110/Comic_ZERO-SUM"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 79,
+            "type": "manga",
+            "name": "Time Travel",
+            "url": "https://myanimelist.net/manga/genre/79/Time_Travel"
+        },
+        {
+            "mal_id": 80,
+            "type": "manga",
+            "name": "Video Game",
+            "url": "https://myanimelist.net/manga/genre/80/Video_Game"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3359,
+                    "type": "anime",
+                    "name": "Amatsuki",
+                    "url": "https://myanimelist.net/anime/3359/Amatsuki"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%BE%E3%81%A4%E3%81%8D"
+        }
+    ]
+}

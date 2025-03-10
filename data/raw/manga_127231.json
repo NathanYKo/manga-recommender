@@ -1,0 +1,136 @@
+{
+    "mal_id": 127231,
+    "url": "https://myanimelist.net/manga/127231/Hoshikuzu_Telepath",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/235166.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/235166t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/235166l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/235166.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/235166t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/235166l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hoshikuzu Telepath"
+        },
+        {
+            "type": "Synonym",
+            "title": "Stardust Telepath"
+        },
+        {
+            "type": "Japanese",
+            "title": "星屑テレパス"
+        }
+    ],
+    "title": "Hoshikuzu Telepath",
+    "title_english": null,
+    "title_japanese": "星屑テレパス",
+    "title_synonyms": [
+        "Stardust Telepath"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-06-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 6,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 9, 2019 to ?"
+    },
+    "score": 7.62,
+    "scored": 7.62,
+    "scored_by": 456,
+    "rank": 2200,
+    "popularity": 7189,
+    "members": 2911,
+    "favorites": 53,
+    "synopsis": "Fifteen-year-old Umika Konohoshi is having a hard time socializing at school, but she hopes her words will someday reach other people. When self-proclaimed alien Yuu Akeuchi enters her life, Umika will learn more about being open.\n\n(Source: MAL News)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 52215,
+            "type": "people",
+            "name": "Ookuma, Rasuko",
+            "url": "https://myanimelist.net/people/52215/Rasuko_Ookuma"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 182,
+            "type": "manga",
+            "name": "Manga Time Kirara",
+            "url": "https://myanimelist.net/manga/magazine/182/Manga_Time_Kirara"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 53262,
+                    "type": "anime",
+                    "name": "Hoshikuzu Telepath",
+                    "url": "https://myanimelist.net/anime/53262/Hoshikuzu_Telepath"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stardust_Telepath"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%98%9F%E5%B1%91%E3%83%86%E3%83%AC%E3%83%91%E3%82%B9"
+        }
+    ]
+}

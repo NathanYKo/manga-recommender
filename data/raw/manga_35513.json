@@ -1,0 +1,130 @@
+{
+    "mal_id": 35513,
+    "url": "https://myanimelist.net/manga/35513/Koten-bu_Series",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/80983.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/80983t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/80983l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/80983.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/80983t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/80983l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koten-bu Series"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hyouka"
+        },
+        {
+            "type": "Japanese",
+            "title": "〈古典部〉シリーズ"
+        }
+    ],
+    "title": "Koten-bu Series",
+    "title_english": null,
+    "title_japanese": "〈古典部〉シリーズ",
+    "title_synonyms": [
+        "Hyouka"
+    ],
+    "type": "Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2001-10-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 10,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 31, 2001 to ?"
+    },
+    "score": 8.61,
+    "scored": 8.61,
+    "scored_by": 3738,
+    "rank": 94,
+    "popularity": 1057,
+    "members": 19071,
+    "favorites": 626,
+    "synopsis": "Houtarou Oreki is a high school student who lives his life conserving as much energy as possible, only delving into matters that feel absolutely necessary to him. So when his older sister forces him to join the Classics Club to keep it from disbanding, he finds himself terribly inconvenienced.\n\nTo his surprise, Oreki finds that the Classics Club already has a single member: the inquisitive Eru Chitanda. Not long after, Oreki's friends—the knowledgeable Satoshi Fukube and the headstrong Mayaka Ibara—also join. Although the club does not have any set activities, Chitanda's constant curiosity soon begins to drag the members into all sorts of mystery-solving escapades.\n\nKoten-bu Series revolves around the members of the Classics Club as their eccentric day-to-day activities slowly begin to brighten up Oreki's drab way of life.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 15803,
+            "type": "people",
+            "name": "Yonezawa, Honobu",
+            "url": "https://myanimelist.net/people/15803/Honobu_Yonezawa"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 41629,
+                    "type": "manga",
+                    "name": "Hyouka",
+                    "url": "https://myanimelist.net/manga/41629/Hyouka"
+                },
+                {
+                    "mal_id": 12189,
+                    "type": "anime",
+                    "name": "Hyouka",
+                    "url": "https://myanimelist.net/anime/12189/Hyouka"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Hyoka"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%80%88%E5%8F%A4%E5%85%B8%E9%83%A8%E3%80%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+        }
+    ]
+}

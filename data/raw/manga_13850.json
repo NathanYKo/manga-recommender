@@ -1,0 +1,117 @@
+{
+    "mal_id": 13850,
+    "url": "https://myanimelist.net/manga/13850/Yakusoku_Siren",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/19642.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/19642t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/19642l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/19642.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/19642t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/19642l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yakusoku Siren"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Promise Siren"
+        },
+        {
+            "type": "Japanese",
+            "title": "約束サイレン"
+        }
+    ],
+    "title": "Yakusoku Siren",
+    "title_english": null,
+    "title_japanese": "約束サイレン",
+    "title_synonyms": [
+        "The Promise Siren"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-01-24T00:00:00+00:00",
+        "to": "2010-05-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 1,
+                "year": 2009
+            },
+            "to": {
+                "day": 24,
+                "month": 5,
+                "year": 2010
+            }
+        },
+        "string": "Jan 24, 2009 to May 24, 2010"
+    },
+    "score": 7.75,
+    "scored": 7.75,
+    "scored_by": 999,
+    "rank": 1526,
+    "popularity": 8049,
+    "members": 2538,
+    "favorites": 12,
+    "synopsis": "A heartrending and heartwarming story about two twins: one who hates everything like himself and one who wishes to keep his promise from long ago.\n\n(Source: Psycho Pandas)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2867,
+            "type": "people",
+            "name": "Yumeka, Sumomo",
+            "url": "https://myanimelist.net/people/2867/Sumomo_Yumeka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Asuka",
+            "url": "https://myanimelist.net/manga/magazine/14/Asuka"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

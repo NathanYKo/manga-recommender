@@ -1,0 +1,109 @@
+{
+    "mal_id": 112336,
+    "url": "https://myanimelist.net/manga/112336/Trap_Heroine",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/210473.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/210473t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/210473l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/210473.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/210473t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/210473l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Trap Heroine"
+        },
+        {
+            "type": "Japanese",
+            "title": "トラップヒロイン"
+        }
+    ],
+    "title": "Trap Heroine",
+    "title_english": null,
+    "title_japanese": "トラップヒロイン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 30,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-12-31T00:00:00+00:00",
+        "to": "2021-05-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "to": {
+                "day": 30,
+                "month": 5,
+                "year": 2021
+            }
+        },
+        "string": "Dec 31, 2017 to May 30, 2021"
+    },
+    "score": 6.45,
+    "scored": 6.45,
+    "scored_by": 1400,
+    "rank": 17141,
+    "popularity": 5574,
+    "members": 3884,
+    "favorites": 31,
+    "synopsis": "Traps have existed since time immemorial; a fact that Chiroda Taishi laments, as he seems to have both an affinity and an aversion to being trapped.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 47789,
+            "type": "people",
+            "name": "Tomiki, Takashi",
+            "url": "https://myanimelist.net/people/47789/Takashi_Tomiki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1361,
+            "type": "manga",
+            "name": "MangaONE",
+            "url": "https://myanimelist.net/manga/magazine/1361/MangaONE"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://urasunday.com/trapheroine/index.html"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "mal_id": 35313,
+    "url": "https://myanimelist.net/manga/35313/Majo_no_Shinzou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/104305.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/104305t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/104305l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/104305.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/104305t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/104305l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Majo no Shinzou"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔女の心臓"
+        },
+        {
+            "type": "English",
+            "title": "Witch's Heart"
+        }
+    ],
+    "title": "Majo no Shinzou",
+    "title_english": "Witch's Heart",
+    "title_japanese": "魔女の心臓",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 46,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-03-01T00:00:00+00:00",
+        "to": "2016-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 3,
+                "year": 2012
+            },
+            "to": {
+                "day": 7,
+                "month": 1,
+                "year": 2016
+            }
+        },
+        "string": "Mar 1, 2012 to Jan 7, 2016"
+    },
+    "score": 7.71,
+    "scored": 7.71,
+    "scored_by": 1027,
+    "rank": 1684,
+    "popularity": 5874,
+    "members": 3672,
+    "favorites": 74,
+    "synopsis": "Accompanied by a talking lantern, Mika pursues her sister on a quest to retrieve that which was stolen from her long ago.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10352,
+            "type": "people",
+            "name": "matoba",
+            "url": "https://myanimelist.net/people/10352/matoba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 419,
+            "type": "manga",
+            "name": "Gangan Online",
+            "url": "https://myanimelist.net/manga/magazine/419/Gangan_Online"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.com/jp/magazine/ganganonline/comic/witch/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3%E3%81%AE%E5%BF%83%E8%87%93"
+        }
+    ]
+}

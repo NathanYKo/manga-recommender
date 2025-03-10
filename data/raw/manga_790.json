@@ -1,0 +1,132 @@
+{
+    "mal_id": 790,
+    "url": "https://myanimelist.net/manga/790/Denkou_Sekka_BOYS",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/20851.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/20851t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/20851l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/20851.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/20851t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/20851l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Denkou Sekka BOYS"
+        },
+        {
+            "type": "Synonym",
+            "title": "Flash Boys"
+        },
+        {
+            "type": "Synonym",
+            "title": "Denko Sekka Boys"
+        },
+        {
+            "type": "Synonym",
+            "title": "Thunderbolt Boys"
+        },
+        {
+            "type": "Japanese",
+            "title": "電光石火BOYS"
+        }
+    ],
+    "title": "Denkou Sekka BOYS",
+    "title_english": null,
+    "title_japanese": "電光石火BOYS",
+    "title_synonyms": [
+        "Flash Boys",
+        "Denko Sekka Boys",
+        "Thunderbolt Boys"
+    ],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-01-01T00:00:00+00:00",
+        "to": "2002-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            }
+        },
+        "string": "2000 to 2002"
+    },
+    "score": 7.4,
+    "scored": 7.4,
+    "scored_by": 1454,
+    "rank": null,
+    "popularity": 7138,
+    "members": 2937,
+    "favorites": 9,
+    "synopsis": "Four-eyed Nobita is ignored by everyone at school or they highly suspect he's an anime dork. Little does he know, sexy Ritsu has been staring at him from afar. What happens when the glasses come off and what's next... the shirts?\n\n(Source: Hochuuami Scanlations)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2510,
+            "type": "people",
+            "name": "Toujou, Asami",
+            "url": "https://myanimelist.net/people/2510/Asami_Toujou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 133,
+            "type": "manga",
+            "name": "Chara",
+            "url": "https://myanimelist.net/manga/magazine/133/Chara"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 791,
+                    "type": "manga",
+                    "name": "Chouhatsu Denkou Sekka BOYS",
+                    "url": "https://myanimelist.net/manga/791/Chouhatsu_Denkou_Sekka_BOYS"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

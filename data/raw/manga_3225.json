@@ -1,0 +1,123 @@
+{
+    "mal_id": 3225,
+    "url": "https://myanimelist.net/manga/3225/B-Shock",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/11408.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/11408t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/11408l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/11408.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/11408t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/11408l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "B-Shock"
+        },
+        {
+            "type": "Synonym",
+            "title": "B Shock"
+        },
+        {
+            "type": "English",
+            "title": "B-Shock"
+        }
+    ],
+    "title": "B-Shock",
+    "title_english": "B-Shock",
+    "title_japanese": null,
+    "title_synonyms": [
+        "B Shock"
+    ],
+    "type": "Manga",
+    "chapters": 52,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-01-01T00:00:00+00:00",
+        "to": "2002-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            }
+        },
+        "string": "1999 to 2002"
+    },
+    "score": 6.95,
+    "scored": 6.95,
+    "scored_by": 1962,
+    "rank": 9816,
+    "popularity": 6528,
+    "members": 3256,
+    "favorites": 16,
+    "synopsis": "\"B-Shock!\" is mostly a screwball romantic comedy, a showcase for Nakano's wry sense of humor that does not often show in her work in \"Young You\". However, \"B-Shock!\" is also a shrewd commentary on the relationship between the upper and working classes. As much as the Japanese pride themselves as being a homogeneous society, there still exists economic \"haves\" and \"have-nots\" as in all industrial societies. What would happen if you force together two people from different social strata who would normally not give each other even a passing glance? (Source: Manga-Sketchbook)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3908,
+            "type": "people",
+            "name": "Nakano, Junko",
+            "url": "https://myanimelist.net/people/3908/Junko_Nakano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

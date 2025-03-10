@@ -1,0 +1,151 @@
+{
+    "mal_id": 84649,
+    "url": "https://myanimelist.net/manga/84649/Biohazard__Heavenly_Island",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/164464.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/164464t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/164464l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/164464.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/164464t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/164464l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Biohazard: Heavenly Island"
+        },
+        {
+            "type": "Synonym",
+            "title": "Resident Evil: Heavenly Island"
+        },
+        {
+            "type": "Japanese",
+            "title": "バイオハザード ～ヘヴンリーアイランド～"
+        }
+    ],
+    "title": "Biohazard: Heavenly Island",
+    "title_english": null,
+    "title_japanese": "バイオハザード ～ヘヴンリーアイランド～",
+    "title_synonyms": [
+        "Resident Evil: Heavenly Island"
+    ],
+    "type": "Manga",
+    "chapters": 50,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-01-15T00:00:00+00:00",
+        "to": "2017-02-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 2,
+                "month": 2,
+                "year": 2017
+            }
+        },
+        "string": "Jan 15, 2015 to Feb 2, 2017"
+    },
+    "score": 6.54,
+    "scored": 6.54,
+    "scored_by": 1112,
+    "rank": 16060,
+    "popularity": 7308,
+    "members": 2848,
+    "favorites": 19,
+    "synopsis": "Biohazard: Heavenly Island centers around the film crew for \"Idol Survival,\" the internationally popular television program where swimsuited idols compete in games. The crew arrives on the same isolated South American island that TerraSave member Claire Redfield is visiting on an investigation.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4093,
+            "type": "people",
+            "name": "Serizawa, Naoki",
+            "url": "https://myanimelist.net/people/4093/Naoki_Serizawa"
+        },
+        {
+            "mal_id": 14955,
+            "type": "people",
+            "name": "Capcom",
+            "url": "https://myanimelist.net/people/14955/Capcom"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 32315,
+                    "type": "manga",
+                    "name": "Biohazard: Marhawa Desire",
+                    "url": "https://myanimelist.net/manga/32315/Biohazard__Marhawa_Desire"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 162899,
+                    "type": "manga",
+                    "name": "Biohazard: Death Island",
+                    "url": "https://myanimelist.net/manga/162899/Biohazard__Death_Island"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89%E3%80%9C%E3%83%9E%E3%83%AB%E3%83%8F%E3%83%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%82%A2%E3%80%9C"
+        }
+    ]
+}

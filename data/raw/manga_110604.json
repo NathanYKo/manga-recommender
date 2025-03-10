@@ -1,0 +1,133 @@
+{
+    "mal_id": 110604,
+    "url": "https://myanimelist.net/manga/110604/Dokgo_Rewind",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/207422.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/207422t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/207422l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/207422.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/207422t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/207422l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dokgo Rewind"
+        },
+        {
+            "type": "Japanese",
+            "title": "독고 리와인드"
+        }
+    ],
+    "title": "Dokgo Rewind",
+    "title_english": null,
+    "title_japanese": "독고 리와인드",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": null,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-03-07T00:00:00+00:00",
+        "to": "2015-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 3,
+                "year": 2014
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Mar 7, 2014 to Dec 25, 2015"
+    },
+    "score": 7.69,
+    "scored": 7.69,
+    "scored_by": 1003,
+    "rank": 1796,
+    "popularity": 7289,
+    "members": 2856,
+    "favorites": 31,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 43687,
+            "type": "people",
+            "name": "Baek, Seung Hoon",
+            "url": "https://myanimelist.net/people/43687/Seung_Hoon_Baek"
+        },
+        {
+            "mal_id": 43688,
+            "type": "people",
+            "name": "Meen",
+            "url": "https://myanimelist.net/people/43688/Meen"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1447,
+            "type": "manga",
+            "name": "Sports Today Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/1447/Sports_Today_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 103293,
+                    "type": "manga",
+                    "name": "Dokgo",
+                    "url": "https://myanimelist.net/manga/103293/Dokgo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EB%8F%85%EA%B3%A0%20%EB%A6%AC%EC%99%80%EC%9D%B8%EB%93%9C"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "mal_id": 101851,
+    "url": "https://myanimelist.net/manga/101851/Akebi-chan_no_Sailor-fuku",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/250312.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/250312t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/250312l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/250312.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/250312t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/250312l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Akebi-chan no Sailor-fuku"
+        },
+        {
+            "type": "Japanese",
+            "title": "明日ちゃんのセーラー服"
+        },
+        {
+            "type": "English",
+            "title": "Akebi's Sailor Uniform"
+        }
+    ],
+    "title": "Akebi-chan no Sailor-fuku",
+    "title_english": "Akebi's Sailor Uniform",
+    "title_japanese": "明日ちゃんのセーラー服",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-08-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 8,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 2, 2016 to ?"
+    },
+    "score": 7.77,
+    "scored": 7.77,
+    "scored_by": 2743,
+    "rank": 1461,
+    "popularity": 1691,
+    "members": 12781,
+    "favorites": 270,
+    "synopsis": "Akebi Komichi lives out in the countryside with her family. She's won entrance to the prestigious Roubai Academy middle school for girls and now she wants only two things—to wear the school's sailor uniform and to make a hundred friends!",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 15359,
+            "type": "people",
+            "name": "Hiro",
+            "url": "https://myanimelist.net/people/15359/Hiro"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 290,
+            "type": "manga",
+            "name": "Tonari no Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/290/Tonari_no_Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 48553,
+                    "type": "anime",
+                    "name": "Akebi-chan no Sailor-fuku",
+                    "url": "https://myanimelist.net/anime/48553/Akebi-chan_no_Sailor-fuku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.tonarinoyj.jp/manga/akebi/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Akebi%27s_Sailor_Uniform"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%BC%E6%9C%8D"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "mal_id": 3356,
+    "url": "https://myanimelist.net/manga/3356/Usotsuki_wa_Dareda",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/155931.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/155931t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/155931l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/155931.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/155931t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/155931l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Usotsuki wa Dareda"
+        },
+        {
+            "type": "Synonym",
+            "title": "Usotsuki wa dare da"
+        },
+        {
+            "type": "Japanese",
+            "title": "嘘つきはだれだ"
+        }
+    ],
+    "title": "Usotsuki wa Dareda",
+    "title_english": null,
+    "title_japanese": "嘘つきはだれだ",
+    "title_synonyms": [
+        "Usotsuki wa dare da"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2006 to ?"
+    },
+    "score": 7.04,
+    "scored": 7.04,
+    "scored_by": 1803,
+    "rank": null,
+    "popularity": 6336,
+    "members": 3365,
+    "favorites": 2,
+    "synopsis": "Ichita and Hiromu are childhood friends and neighbors. But when Hiromu sees Ichita making out with another guy, he calls it \"disgusting\" and stops speaking to Ichita. Does Ichita just want his friend back? Or does he want something more from Hiromu? \n\n(Source: Dangerous Pleasure)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2036,
+            "type": "people",
+            "name": "Yukimura",
+            "url": "https://myanimelist.net/people/2036/Yukimura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 156,
+            "type": "manga",
+            "name": "drap",
+            "url": "https://myanimelist.net/manga/magazine/156/drap"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 14654,
+                    "type": "manga",
+                    "name": "Rush!",
+                    "url": "https://myanimelist.net/manga/14654/Rush"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

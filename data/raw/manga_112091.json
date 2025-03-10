@@ -1,0 +1,124 @@
+{
+    "mal_id": 112091,
+    "url": "https://myanimelist.net/manga/112091/Hidamari_ga_Kikoeru__Limit",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/240673.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/240673t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/240673l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/240673.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/240673t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/240673l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hidamari ga Kikoeru: Limit"
+        },
+        {
+            "type": "Japanese",
+            "title": "ひだまりが聴こえる -リミット-"
+        },
+        {
+            "type": "English",
+            "title": "I Hear the Sunspot: Limit"
+        }
+    ],
+    "title": "Hidamari ga Kikoeru: Limit",
+    "title_english": "I Hear the Sunspot: Limit",
+    "title_japanese": "ひだまりが聴こえる -リミット-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 19,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-10-22T00:00:00+00:00",
+        "to": "2019-12-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2019
+            }
+        },
+        "string": "Oct 22, 2016 to Dec 27, 2019"
+    },
+    "score": 8.24,
+    "scored": 8.24,
+    "scored_by": 3151,
+    "rank": 385,
+    "popularity": 2970,
+    "members": 7560,
+    "favorites": 100,
+    "synopsis": "In this new addition to the I Hear the Sunspot series, Kouhei continues on as a student, while Taichi makes his way out into the working world to pursue his own calling and the two begin a new life together!\n\n(Source: One Peace Books)",
+    "background": "Hidamari ga Kikoeru: Limit was published in English as I Hear the Sunspot: Limit by One Peace Books from November 20, 2018, to April 13, 2021. It was also released in Polish by Dango from February 25, 2018, to September 28, 2020.",
+    "authors": [
+        {
+            "mal_id": 36149,
+            "type": "people",
+            "name": "Fumino, Yuki",
+            "url": "https://myanimelist.net/people/36149/Yuki_Fumino"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 550,
+            "type": "manga",
+            "name": "Canna",
+            "url": "https://myanimelist.net/manga/magazine/550/Canna"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 112090,
+                    "type": "manga",
+                    "name": "Hidamari ga Kikoeru: Koufukuron",
+                    "url": "https://myanimelist.net/manga/112090/Hidamari_ga_Kikoeru__Koufukuron"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 139289,
+                    "type": "manga",
+                    "name": "Hidamari ga Kikoeru: Shunkashuutou",
+                    "url": "https://myanimelist.net/manga/139289/Hidamari_ga_Kikoeru__Shunkashuutou"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

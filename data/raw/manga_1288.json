@@ -1,0 +1,168 @@
+{
+    "mal_id": 1288,
+    "url": "https://myanimelist.net/manga/1288/School_Days",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/264110.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/264110t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/264110l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/264110.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/264110t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/264110l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "School Days"
+        },
+        {
+            "type": "Japanese",
+            "title": "スクールデイズ"
+        }
+    ],
+    "title": "School Days",
+    "title_english": null,
+    "title_japanese": "スクールデイズ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-05-26T00:00:00+00:00",
+        "to": "2007-09-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 2006
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "May 26, 2006 to Sep 26, 2007"
+    },
+    "score": 6.27,
+    "scored": 6.27,
+    "scored_by": 9487,
+    "rank": 18668,
+    "popularity": 1274,
+    "members": 16157,
+    "favorites": 218,
+    "synopsis": "Every day when he rides the train to school, Makoto Itou can't help but notice the beautiful Kotonoha Katsura, but he is too shy to talk to her. There are rumors of a charm at his school in which you take a picture of your crush, set it as your phone background, and if no one sees it for three weeks, your love will be realized. So Makoto takes a picture of the raven-haired beauty, and he continues to admire her from afar. \n\nHowever, when Sekai Saionji—the girl who sits next to him in class—sees the picture, she realizes he has a crush on Kotonoha, and she decides to help him with his romantic troubles. Eventually, Kotonoha and Makoto start dating thanks to Sekai, and he wonders how he will ever repay her for her kindness. But, to his shock, Sekai takes her payment in a startling form: a kiss.\n\nSchool Days follows the complicated romantic entanglements of these three high school students, and the consequences that await them as a result of their poor decisions.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10690,
+            "type": "people",
+            "name": "Sakazuki, Homare",
+            "url": "https://myanimelist.net/people/10690/Homare_Sakazuki"
+        },
+        {
+            "mal_id": 35697,
+            "type": "people",
+            "name": "0verflow",
+            "url": "https://myanimelist.net/people/35697/0verflow"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 112,
+            "type": "manga",
+            "name": "Comp Ace",
+            "url": "https://myanimelist.net/manga/magazine/112/Comp_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2476,
+                    "type": "anime",
+                    "name": "School Days",
+                    "url": "https://myanimelist.net/anime/2476/School_Days"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 24907,
+                    "type": "manga",
+                    "name": "Summer Days",
+                    "url": "https://myanimelist.net/manga/24907/Summer_Days"
+                },
+                {
+                    "mal_id": 23438,
+                    "type": "manga",
+                    "name": "Cross Days",
+                    "url": "https://myanimelist.net/manga/23438/Cross_Days"
+                },
+                {
+                    "mal_id": 94053,
+                    "type": "manga",
+                    "name": "Shiny Days",
+                    "url": "https://myanimelist.net/manga/94053/Shiny_Days"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 119827,
+                    "type": "manga",
+                    "name": "School Days",
+                    "url": "https://myanimelist.net/manga/119827/School_Days"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/School_Days"
+        }
+    ]
+}

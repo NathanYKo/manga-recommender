@@ -1,0 +1,163 @@
+{
+    "mal_id": 83187,
+    "url": "https://myanimelist.net/manga/83187/Magical_Pâtissière_Kosaki-chan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/157716.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/157716t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/157716l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/157716.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/157716t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/157716l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Magical Pâtissière Kosaki-chan!!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Magical Patissiere Kosaki-chan!!"
+        },
+        {
+            "type": "Japanese",
+            "title": "マジカルパティシエ小咲ちゃん!!"
+        }
+    ],
+    "title": "Magical Pâtissière Kosaki-chan!!",
+    "title_english": null,
+    "title_japanese": "マジカルパティシエ小咲ちゃん!!",
+    "title_synonyms": [
+        "Magical Patissiere Kosaki-chan!!"
+    ],
+    "type": "Manga",
+    "chapters": 43,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-12-01T00:00:00+00:00",
+        "to": "2016-09-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "to": {
+                "day": 22,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Dec 1, 2014 to Sep 22, 2016"
+    },
+    "score": 6.8,
+    "scored": 6.8,
+    "scored_by": 1667,
+    "rank": 12160,
+    "popularity": 4228,
+    "members": 5303,
+    "favorites": 29,
+    "synopsis": "Kosaki, Chitoge and Marika are bestowed upon powers of a magical girl who shall preserve peace in the world with Kosaki serving as their leader.\n\n(Source: Nisekoi WIkia)",
+    "background": "Magical Pâtissière Kosaki-chan!! has been published in Spanish by Ivrea beginning since December 2015.",
+    "authors": [
+        {
+            "mal_id": 7447,
+            "type": "people",
+            "name": "Tsutsui, Taishi",
+            "url": "https://myanimelist.net/people/7447/Taishi_Tsutsui"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1209,
+            "type": "manga",
+            "name": "Shounen Jump+",
+            "url": "https://myanimelist.net/manga/magazine/1209/Shounen_Jump_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 66,
+            "type": "manga",
+            "name": "Mahou Shoujo",
+            "url": "https://myanimelist.net/manga/genre/66/Mahou_Shoujo"
+        },
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 27787,
+                    "type": "anime",
+                    "name": "Nisekoi:",
+                    "url": "https://myanimelist.net/anime/27787/Nisekoi_"
+                },
+                {
+                    "mal_id": 32553,
+                    "type": "anime",
+                    "name": "Nisekoi: OVA",
+                    "url": "https://myanimelist.net/anime/32553/Nisekoi__OVA"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 31499,
+                    "type": "manga",
+                    "name": "Nisekoi",
+                    "url": "https://myanimelist.net/manga/31499/Nisekoi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%BB%E3%82%B3%E3%82%A4"
+        }
+    ]
+}

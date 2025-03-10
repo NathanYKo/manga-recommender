@@ -1,0 +1,131 @@
+{
+    "mal_id": 68813,
+    "url": "https://myanimelist.net/manga/68813/Koi_nanka_Shitakunai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/160803.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/160803t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/160803l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/160803.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/160803t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/160803l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koi nanka Shitakunai"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Do Not Want to Fall in Love"
+        },
+        {
+            "type": "Japanese",
+            "title": "恋なんかしたくない"
+        },
+        {
+            "type": "English",
+            "title": "I don't want to love"
+        }
+    ],
+    "title": "Koi nanka Shitakunai",
+    "title_english": "I don't want to love",
+    "title_japanese": "恋なんかしたくない",
+    "title_synonyms": [
+        "I Do Not Want to Fall in Love"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-10-19T00:00:00+00:00",
+        "to": "2015-07-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 21,
+                "month": 7,
+                "year": 2015
+            }
+        },
+        "string": "Oct 19, 2013 to Jul 21, 2015"
+    },
+    "score": 7.51,
+    "scored": 7.51,
+    "scored_by": 1692,
+    "rank": null,
+    "popularity": 6143,
+    "members": 3499,
+    "favorites": 23,
+    "synopsis": "When Nakajima's mother decided to remarry he was afraid but everything turned out to be even better than he expected. His new older brother helps him and spoils him a lot and they're getting along very well until the moment when Nakajima comes home earlier and sees his big bro playing with another guy in bedroom. What's gonna happen from now on?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2245,
+            "type": "people",
+            "name": "Itsuki, Kaname",
+            "url": "https://myanimelist.net/people/2245/Kaname_Itsuki"
+        },
+        {
+            "mal_id": 24453,
+            "type": "people",
+            "name": "Tsukimura, Kei",
+            "url": "https://myanimelist.net/people/24453/Kei_Tsukimura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 188,
+            "type": "manga",
+            "name": "Craft",
+            "url": "https://myanimelist.net/manga/magazine/188/Craft"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 56689,
+                    "type": "manga",
+                    "name": "Koi ni Nare!",
+                    "url": "https://myanimelist.net/manga/56689/Koi_ni_Nare"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

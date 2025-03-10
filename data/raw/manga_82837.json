@@ -1,0 +1,140 @@
+{
+    "mal_id": 82837,
+    "url": "https://myanimelist.net/manga/82837/Nanba_MG5",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/143649.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/143649t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/143649l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/143649.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/143649t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/143649l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nanba MG5"
+        },
+        {
+            "type": "Synonym",
+            "title": "Number MG5"
+        },
+        {
+            "type": "Japanese",
+            "title": "ナンバMG5 (エム·ジー·ファイブ)"
+        }
+    ],
+    "title": "Nanba MG5",
+    "title_english": null,
+    "title_japanese": "ナンバMG5 (エム·ジー·ファイブ)",
+    "title_synonyms": [
+        "Number MG5"
+    ],
+    "type": "Manga",
+    "chapters": 160,
+    "volumes": 18,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-06-02T00:00:00+00:00",
+        "to": "2008-09-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 6,
+                "year": 2005
+            },
+            "to": {
+                "day": 18,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Jun 2, 2005 to Sep 18, 2008"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 798,
+    "rank": 4698,
+    "popularity": 7556,
+    "members": 2742,
+    "favorites": 28,
+    "synopsis": "Tsuyoshi Nanba, born into a family of delinquents, is expected to rule the country someday. After taking over 14 middle schools, he is ready to begin the next phase of his life—as a normal student!. \n\nUnbeknownst to his family, Tsuyoshi has enrolled in a completely normal high school to experience the youth he otherwise would have never had. But trouble is always around the corner, and Tsuyoshi will soon learn that maintaining his two personas is going to be the hardest fight of his life.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 35557,
+            "type": "people",
+            "name": "Ozawa, Toshio",
+            "url": "https://myanimelist.net/people/35557/Toshio_Ozawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 82839,
+                    "type": "manga",
+                    "name": "Nanba Deadend",
+                    "url": "https://myanimelist.net/manga/82839/Nanba_Deadend"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/ナンバMG5"
+        }
+    ]
+}

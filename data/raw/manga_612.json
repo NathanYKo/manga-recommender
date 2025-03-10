@@ -1,0 +1,100 @@
+{
+    "mal_id": 612,
+    "url": "https://myanimelist.net/manga/612/Koukyuu_no_Arika",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/40363.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/40363t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/40363l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/40363.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/40363t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/40363l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koukyuu no Arika"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Permanent Place"
+        },
+        {
+            "type": "Japanese",
+            "title": "恒久の在り処"
+        },
+        {
+            "type": "English",
+            "title": "Endless Comfort"
+        }
+    ],
+    "title": "Koukyuu no Arika",
+    "title_english": "Endless Comfort",
+    "title_japanese": "恒久の在り処",
+    "title_synonyms": [
+        "A Permanent Place"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2007"
+    },
+    "score": 7.22,
+    "scored": 7.22,
+    "scored_by": 1224,
+    "rank": null,
+    "popularity": 8688,
+    "members": 2307,
+    "favorites": 4,
+    "synopsis": "Young businessman has just returned to his childhood home where he must contend with the memories he left behind and the handsome new dog trainer with a troubled past.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2538,
+            "type": "people",
+            "name": "Sakura, Sakuya",
+            "url": "https://myanimelist.net/people/2538/Sakuya_Sakura"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

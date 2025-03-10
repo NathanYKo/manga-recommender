@@ -1,0 +1,121 @@
+{
+    "mal_id": 43287,
+    "url": "https://myanimelist.net/manga/43287/GT-R",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/82436.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/82436t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/82436l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/82436.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/82436t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/82436l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "GT-R"
+        },
+        {
+            "type": "Synonym",
+            "title": "GT-R: Great Transporter Ryuji"
+        },
+        {
+            "type": "Japanese",
+            "title": "GT-R ジーティー・アール"
+        }
+    ],
+    "title": "GT-R",
+    "title_english": null,
+    "title_japanese": "GT-R ジーティー・アール",
+    "title_synonyms": [
+        "GT-R: Great Transporter Ryuji"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-06-27T00:00:00+00:00",
+        "to": "2012-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 6,
+                "year": 2012
+            },
+            "to": {
+                "day": 3,
+                "month": 10,
+                "year": 2012
+            }
+        },
+        "string": "Jun 27, 2012 to Oct 3, 2012"
+    },
+    "score": 6.64,
+    "scored": 6.64,
+    "scored_by": 1047,
+    "rank": 14614,
+    "popularity": 6955,
+    "members": 3032,
+    "favorites": 12,
+    "synopsis": "Being one of the few longtime friends with Onizuka (GTO), Danma Ryuji has seen all the fiascoes he has gotten into. But the motorcycle shop owner and self proclaimed fastest driver in the city is about to get into a world of trouble. A hot teenager named Ishikawa Mimon starts taking interest in Ryuji, but contrary to her appearance, she's a dangerous person that will put Ryuji into life threatening situations. Even though he has a beautiful girlfriend named Nagisa, Mimon is about to wreak havoc in Ryuji's peaceful life.\n\n(Source: MangaHelpers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2318,
+            "type": "people",
+            "name": "Fujisawa, Tooru",
+            "url": "https://myanimelist.net/people/2318/Tooru_Fujisawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 336,
+                    "type": "manga",
+                    "name": "GTO",
+                    "url": "https://myanimelist.net/manga/336/GTO"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/GTO_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

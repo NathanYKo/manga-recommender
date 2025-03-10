@@ -1,0 +1,122 @@
+{
+    "mal_id": 12885,
+    "url": "https://myanimelist.net/manga/12885/Miman_Renai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/209660.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/209660t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/209660l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/209660.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/209660t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/209660l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Miman Renai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Insufficient Affections"
+        },
+        {
+            "type": "Japanese",
+            "title": "未満れんあい"
+        }
+    ],
+    "title": "Miman Renai",
+    "title_english": null,
+    "title_japanese": "未満れんあい",
+    "title_synonyms": [
+        "Insufficient Affections"
+    ],
+    "type": "Manga",
+    "chapters": 30,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-02-22T00:00:00+00:00",
+        "to": "2010-11-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 2,
+                "year": 2008
+            },
+            "to": {
+                "day": 22,
+                "month": 11,
+                "year": 2010
+            }
+        },
+        "string": "Feb 22, 2008 to Nov 22, 2010"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 2324,
+    "rank": 4360,
+    "popularity": 4578,
+    "members": 4841,
+    "favorites": 55,
+    "synopsis": "Twenty-nine-year old Kurose Kazumi is a programmer in a eroge company and has played plenty of galge when he was younger, but he's completely uninterested in young girls. A chance encounter changes that when he meets a middle schooler who suddenly says she can't date him, but he realizes how cute she is and wants to keep her with him.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7336,
+            "type": "people",
+            "name": "Takashima, Hiromi",
+            "url": "https://myanimelist.net/people/7336/Hiromi_Takashima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 122,
+            "type": "manga",
+            "name": "Comic High!",
+            "url": "https://myanimelist.net/manga/magazine/122/Comic_High"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 22996,
+                    "type": "manga",
+                    "name": "Miman Renai dj - Summer Story",
+                    "url": "https://myanimelist.net/manga/22996/Miman_Renai_dj_-_Summer_Story"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

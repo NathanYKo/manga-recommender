@@ -1,0 +1,131 @@
+{
+    "mal_id": 51069,
+    "url": "https://myanimelist.net/manga/51069/Uso_Kano",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/91183.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/91183t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/91183l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/91183.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/91183t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/91183l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Uso Kano"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fake Girlfriend"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yureru"
+        },
+        {
+            "type": "Synonym",
+            "title": "Komorebi-tei."
+        },
+        {
+            "type": "Synonym",
+            "title": "Natsu no Hate"
+        },
+        {
+            "type": "Synonym",
+            "title": "Soredemo Koi to Yobu no Nara"
+        },
+        {
+            "type": "Japanese",
+            "title": "うそカノ"
+        }
+    ],
+    "title": "Uso Kano",
+    "title_english": null,
+    "title_japanese": "うそカノ",
+    "title_synonyms": [
+        "Fake Girlfriend",
+        "Yureru",
+        "Komorebi-tei.",
+        "Natsu no Hate",
+        "Soredemo Koi to Yobu no Nara"
+    ],
+    "type": "Manga",
+    "chapters": 66,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-12-24T00:00:00+00:00",
+        "to": "2018-03-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Dec 24, 2012 to Mar 24, 2018"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 1020,
+    "rank": 4691,
+    "popularity": 5027,
+    "members": 4366,
+    "favorites": 20,
+    "synopsis": "Included one-shot:\nVolume 1: Yureru, Komorebi-tei., Natsu no Hate\nVolume 11: Soredemo Koi to Yobu no Nara",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4026,
+            "type": "people",
+            "name": "Hayashi, Mikase",
+            "url": "https://myanimelist.net/people/4026/Mikase_Hayashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "LaLa",
+            "url": "https://myanimelist.net/manga/magazine/11/LaLa"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

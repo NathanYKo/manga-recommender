@@ -1,0 +1,122 @@
+{
+    "mal_id": 98989,
+    "url": "https://myanimelist.net/manga/98989/Pink_to_Mameshiba",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/195959.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/195959t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/195959l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/195959.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/195959t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/195959l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Pink to Mameshiba"
+        },
+        {
+            "type": "Synonym",
+            "title": "Pink and Mameshiba"
+        },
+        {
+            "type": "Japanese",
+            "title": "ピンクとまめしば"
+        }
+    ],
+    "title": "Pink to Mameshiba",
+    "title_english": null,
+    "title_japanese": "ピンクとまめしば",
+    "title_synonyms": [
+        "Pink and Mameshiba"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-04-28T00:00:00+00:00",
+        "to": "2017-02-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 28,
+                "month": 2,
+                "year": 2017
+            }
+        },
+        "string": "Apr 28, 2016 to Feb 28, 2017"
+    },
+    "score": 7.08,
+    "scored": 7.08,
+    "scored_by": 1996,
+    "rank": null,
+    "popularity": 4900,
+    "members": 4487,
+    "favorites": 10,
+    "synopsis": "Ken is a super fan of the the idol group Planet, or to be precise, a hardcore idol otaku. One day, while pre-ordering the latest idol goods, he notices that salesperson is a really flashy guy. But the guy turns out to be a student at the school where Ken works!\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 34105,
+            "type": "people",
+            "name": "Kurahashi, Tomo",
+            "url": "https://myanimelist.net/people/34105/Tomo_Kurahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 51,
+            "type": "manga",
+            "name": "Be x Boy GOLD",
+            "url": "https://myanimelist.net/manga/magazine/51/Be_x_Boy_GOLD"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 109677,
+                    "type": "manga",
+                    "name": "Hello Morning Star",
+                    "url": "https://myanimelist.net/manga/109677/Hello_Morning_Star"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

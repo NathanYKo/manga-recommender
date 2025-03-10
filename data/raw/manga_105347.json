@@ -1,0 +1,141 @@
+{
+    "mal_id": 105347,
+    "url": "https://myanimelist.net/manga/105347/Date_A_Live_Fragment__Date_A_Bullet",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/193018.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/193018t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/193018l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/193018.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/193018t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/193018l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Date A Live Fragment: Date A Bullet"
+        },
+        {
+            "type": "Japanese",
+            "title": "デート・ア・ライブ フラグメント デート・ア・バレット"
+        }
+    ],
+    "title": "Date A Live Fragment: Date A Bullet",
+    "title_english": null,
+    "title_japanese": "デート・ア・ライブ フラグメント デート・ア・バレット",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 64,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-03-18T00:00:00+00:00",
+        "to": "2022-01-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 3,
+                "year": 2017
+            },
+            "to": {
+                "day": 20,
+                "month": 1,
+                "year": 2022
+            }
+        },
+        "string": "Mar 18, 2017 to Jan 20, 2022"
+    },
+    "score": 7.76,
+    "scored": 7.76,
+    "scored_by": 505,
+    "rank": 1479,
+    "popularity": 7300,
+    "members": 2852,
+    "favorites": 113,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 18537,
+            "type": "people",
+            "name": "Higashide, Yuuichirou",
+            "url": "https://myanimelist.net/people/18537/Yuuichirou_Higashide"
+        },
+        {
+            "mal_id": 24599,
+            "type": "people",
+            "name": "NOCO",
+            "url": "https://myanimelist.net/people/24599/NOCO"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 40416,
+                    "type": "anime",
+                    "name": "Date A Bullet: Dead or Bullet",
+                    "url": "https://myanimelist.net/anime/40416/Date_A_Bullet__Dead_or_Bullet"
+                },
+                {
+                    "mal_id": 42423,
+                    "type": "anime",
+                    "name": "Date A Bullet: Nightmare or Queen",
+                    "url": "https://myanimelist.net/anime/42423/Date_A_Bullet__Nightmare_or_Queen"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 37523,
+                    "type": "manga",
+                    "name": "Date A Live",
+                    "url": "https://myanimelist.net/manga/37523/Date_A_Live"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Date_A_Live_Fragment:_Date_A_Bullet"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96"
+        }
+    ]
+}

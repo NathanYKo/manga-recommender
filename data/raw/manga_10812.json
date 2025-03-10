@@ -1,0 +1,161 @@
+{
+    "mal_id": 10812,
+    "url": "https://myanimelist.net/manga/10812/Vampire_Knight__Noir_no_Wana",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/14547.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/14547t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/14547l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/14547.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/14547t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/14547l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Vampire Knight: Noir no Wana"
+        },
+        {
+            "type": "Synonym",
+            "title": "Vampire Knight: Nowauru no Wana"
+        },
+        {
+            "type": "Japanese",
+            "title": "ヴァンパイア騎士〈ナイト〉凝黒の罠"
+        },
+        {
+            "type": "English",
+            "title": "Vampire Knight: The Noir Trap"
+        }
+    ],
+    "title": "Vampire Knight: Noir no Wana",
+    "title_english": "Vampire Knight: The Noir Trap",
+    "title_japanese": "ヴァンパイア騎士〈ナイト〉凝黒の罠",
+    "title_synonyms": [
+        "Vampire Knight: Nowauru no Wana"
+    ],
+    "type": "Light Novel",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-10-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 3, 2008"
+    },
+    "score": 7.57,
+    "scored": 7.57,
+    "scored_by": 911,
+    "rank": 2509,
+    "popularity": 5359,
+    "members": 4061,
+    "favorites": 68,
+    "synopsis": "Three short stories are contained in this novel. In the first, we see the events leading up to Zero's decision to attend senior high school. The second features Shindo-san—the girl who tried to give Valentines chocolates to Zero in the beginning of the manga.  The last features the class rep.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2543,
+            "type": "people",
+            "name": "Hino, Matsuri",
+            "url": "https://myanimelist.net/people/2543/Matsuri_Hino"
+        },
+        {
+            "mal_id": 6505,
+            "type": "people",
+            "name": "Fujisaki, Ayuna",
+            "url": "https://myanimelist.net/people/6505/Ayuna_Fujisaki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 618,
+                    "type": "manga",
+                    "name": "Vampire Knight",
+                    "url": "https://myanimelist.net/manga/618/Vampire_Knight"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Vampire_Knight"
+        }
+    ]
+}

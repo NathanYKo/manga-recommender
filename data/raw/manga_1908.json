@@ -1,0 +1,156 @@
+{
+    "mal_id": 1908,
+    "url": "https://myanimelist.net/manga/1908/Hatsukoi_Limited",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/191732.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/191732t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/191732l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/191732.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/191732t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/191732l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hatsukoi Limited."
+        },
+        {
+            "type": "Synonym",
+            "title": "Hatsukoi Gentei."
+        },
+        {
+            "type": "Synonym",
+            "title": "First Love Limited"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gentei Shoujo"
+        },
+        {
+            "type": "Japanese",
+            "title": "初恋限定。〈ハツコイリミテッド〉"
+        }
+    ],
+    "title": "Hatsukoi Limited.",
+    "title_english": null,
+    "title_japanese": "初恋限定。〈ハツコイリミテッド〉",
+    "title_synonyms": [
+        "Hatsukoi Gentei.",
+        "First Love Limited",
+        "Gentei Shoujo"
+    ],
+    "type": "Manga",
+    "chapters": 33,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-10-01T00:00:00+00:00",
+        "to": "2008-05-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 26,
+                "month": 5,
+                "year": 2008
+            }
+        },
+        "string": "Oct 1, 2007 to May 26, 2008"
+    },
+    "score": 7.37,
+    "scored": 7.37,
+    "scored_by": 7188,
+    "rank": 4131,
+    "popularity": 1374,
+    "members": 15319,
+    "favorites": 134,
+    "synopsis": "Being an adolescent girl is just one problem after another. Middle-schooler Arihara Ayumi receives a note from a high-schooler, a very large and intimidating boy, Zaitsu Misao, asking her out. Frightened and intrigued, she doesn't know what to do!",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1905,
+            "type": "people",
+            "name": "Kawashita, Mizuki",
+            "url": "https://myanimelist.net/people/1905/Mizuki_Kawashita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 5150,
+                    "type": "anime",
+                    "name": "Hatsukoi Limited.",
+                    "url": "https://myanimelist.net/anime/5150/Hatsukoi_Limited"
+                },
+                {
+                    "mal_id": 6882,
+                    "type": "anime",
+                    "name": "Hatsukoi Limited.: Gentei Shoujo",
+                    "url": "https://myanimelist.net/anime/6882/Hatsukoi_Limited__Gentei_Shoujo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%88%9D%E6%81%8B%E9%99%90%E5%AE%9A%E3%80%82"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "mal_id": 4421,
+    "url": "https://myanimelist.net/manga/4421/CAT",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/54565.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/54565t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/54565l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/54565.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/54565t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/54565l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "C.A.T."
+        },
+        {
+            "type": "Synonym",
+            "title": "CAT"
+        },
+        {
+            "type": "Synonym",
+            "title": "Confidential Assassination Troop"
+        },
+        {
+            "type": "Japanese",
+            "title": "密殺戰群"
+        }
+    ],
+    "title": "C.A.T.",
+    "title_english": null,
+    "title_japanese": "密殺戰群",
+    "title_synonyms": [
+        "CAT",
+        "Confidential Assassination Troop"
+    ],
+    "type": "Manhua",
+    "chapters": 18,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-08-01T00:00:00+00:00",
+        "to": "2008-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 2003
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2008
+            }
+        },
+        "string": "Aug 2003 to Apr 2008"
+    },
+    "score": 7.1,
+    "scored": 7.1,
+    "scored_by": 1709,
+    "rank": 7472,
+    "popularity": 4028,
+    "members": 5584,
+    "favorites": 50,
+    "synopsis": "The third World War is nearing. Each super power country is going through a communications war to prepare for it, a war to obtain the top profiles' information of enemy countries using the Russian's secret weapon BEAR, China's Hao Long, and the United State's Confidential Assassination Troop, a.k.a. CAT.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4007,
+            "type": "people",
+            "name": "Pang, Fung Chin",
+            "url": "https://myanimelist.net/people/4007/Fung_Chin_Pang"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Confidential_Assassination_Troop"
+        }
+    ]
+}

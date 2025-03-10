@@ -1,0 +1,135 @@
+{
+    "mal_id": 94396,
+    "url": "https://myanimelist.net/manga/94396/Shoujo_Fujuubun",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/177186.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/177186t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/177186l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/177186.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/177186t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/177186l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shoujo Fujuubun"
+        },
+        {
+            "type": "Synonym",
+            "title": "Insufficient Girl"
+        },
+        {
+            "type": "Japanese",
+            "title": "少女不十分"
+        },
+        {
+            "type": "English",
+            "title": "Imperfect Girl"
+        }
+    ],
+    "title": "Shoujo Fujuubun",
+    "title_english": "Imperfect Girl",
+    "title_japanese": "少女不十分",
+    "title_synonyms": [
+        "Insufficient Girl"
+    ],
+    "type": "Manga",
+    "chapters": 27,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-11-30T00:00:00+00:00",
+        "to": "2016-08-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 11,
+                "year": 2015
+            },
+            "to": {
+                "day": 29,
+                "month": 8,
+                "year": 2016
+            }
+        },
+        "string": "Nov 30, 2015 to Aug 29, 2016"
+    },
+    "score": 7.61,
+    "scored": 7.61,
+    "scored_by": 6874,
+    "rank": 2238,
+    "popularity": 1102,
+    "members": 18302,
+    "favorites": 318,
+    "synopsis": "Biking home after another day at college, the protagonist witnesses a terrible accident: a young girl crossing the street is hit and killed by a truck. However, to his horror and amazement, the girl's friend calmly puts away the game she had been playing before rushing to the lifeless body of her companion. He leaves the scene thoroughly shaken, having no idea about the true significance of this event and what this strange girl has in store for her unsuspecting witness.\n\nAn adaptation of the light novel by ISIN NISIO, Shoujo Fujuubun is a psychological thriller that follows an aspiring author through his extraordinary experience with a girl he nicknames \"U.U.\" More than just a thriller, it also deals with themes such as the human struggle to find purpose and the social utility of art.\n\n[Written by MAL Rewrite]",
+    "background": "Shoujo Fujuubun was published in English as Imperfect Girl by Vertical Inc. from October 24, 2017 to April 17, 2018, and in German by Egmont Manga since November 2, 2017.",
+    "authors": [
+        {
+            "mal_id": 2628,
+            "type": "people",
+            "name": "Hattori, Mitsuru",
+            "url": "https://myanimelist.net/people/2628/Mitsuru_Hattori"
+        },
+        {
+            "mal_id": 5254,
+            "type": "people",
+            "name": "NISIO, ISIN",
+            "url": "https://myanimelist.net/people/5254/ISIN_NISIO"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 129436,
+                    "type": "manga",
+                    "name": "Shoujo Fujuubun",
+                    "url": "https://myanimelist.net/manga/129436/Shoujo_Fujuubun"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/imperfect-girl/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%B0%91%E5%A5%B3%E4%B8%8D%E5%8D%81%E5%88%86"
+        }
+    ]
+}

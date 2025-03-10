@@ -1,0 +1,121 @@
+{
+    "mal_id": 17668,
+    "url": "https://myanimelist.net/manga/17668/Koujitsusei_no_Tobira",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/168592.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/168592t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/168592l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/168592.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/168592t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/168592l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koujitsusei no Tobira"
+        },
+        {
+            "type": "Japanese",
+            "title": "向日性のとびら"
+        }
+    ],
+    "title": "Koujitsusei no Tobira",
+    "title_english": null,
+    "title_japanese": "向日性のとびら",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-03-29T00:00:00+00:00",
+        "to": "2008-11-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 3,
+                "year": 2008
+            },
+            "to": {
+                "day": 29,
+                "month": 11,
+                "year": 2008
+            }
+        },
+        "string": "Mar 29, 2008 to Nov 29, 2008"
+    },
+    "score": 7.73,
+    "scored": 7.73,
+    "scored_by": 2500,
+    "rank": null,
+    "popularity": 4752,
+    "members": 4641,
+    "favorites": 38,
+    "synopsis": "Cys Buegette learns of the sudden death of his brother he didn't see for 10 years. His only legacy: a disk and a son, Kai. Kai now lives with Cys and every night, comes to his bed.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9617,
+            "type": "people",
+            "name": "SHOOWA",
+            "url": "https://myanimelist.net/people/9617/SHOOWA"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 480,
+            "type": "manga",
+            "name": "Hanaoto DX",
+            "url": "https://myanimelist.net/manga/magazine/480/Hanaoto_DX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 20383,
+                    "type": "manga",
+                    "name": "Jin to Neko wa Yobu to Konai",
+                    "url": "https://myanimelist.net/manga/20383/Jin_to_Neko_wa_Yobu_to_Konai"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

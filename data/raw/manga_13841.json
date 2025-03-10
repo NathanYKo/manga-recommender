@@ -1,0 +1,106 @@
+{
+    "mal_id": 13841,
+    "url": "https://myanimelist.net/manga/13841/Mimi_no_Kaidan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/25805.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/25805t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/25805l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/25805.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/25805t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/25805l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mimi no Kaidan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mimi's Ghost Stories"
+        },
+        {
+            "type": "Japanese",
+            "title": "ミミの怪談"
+        },
+        {
+            "type": "English",
+            "title": "Mimi's Tales of Terror"
+        }
+    ],
+    "title": "Mimi no Kaidan",
+    "title_english": "Mimi's Tales of Terror",
+    "title_japanese": "ミミの怪談",
+    "title_synonyms": [
+        "Mimi's Ghost Stories"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-01-01T00:00:00+00:00",
+        "to": "2003-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            }
+        },
+        "string": "2002 to 2003"
+    },
+    "score": 7.23,
+    "scored": 7.23,
+    "scored_by": 6999,
+    "rank": 5741,
+    "popularity": 1635,
+    "members": 13195,
+    "favorites": 78,
+    "synopsis": "1. The Woman Next Door\n2. Sound of Grass\n3. Graveman\n4. The Seashore\n5. Just the Two of Us\n6. The Scarlet Circle",
+    "background": "Mimi no Kaidan was published in English as Mimi's Tales of Terror by VIZ Media under the VIZ Signature imprint on October 24, 2023.",
+    "authors": [
+        {
+            "mal_id": 2410,
+            "type": "people",
+            "name": "Itou, Junji",
+            "url": "https://myanimelist.net/people/2410/Junji_Itou"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 119536,
+                    "type": "manga",
+                    "name": "Obake Ningyou",
+                    "url": "https://myanimelist.net/manga/119536/Obake_Ningyou"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

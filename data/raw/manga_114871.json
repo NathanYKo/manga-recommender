@@ -1,0 +1,141 @@
+{
+    "mal_id": 114871,
+    "url": "https://myanimelist.net/manga/114871/Kaguya-sama_wa_Kokurasetai__Doujin-ban",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/215758.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/215758t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/215758l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/215758.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/215758t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/215758l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kaguya-sama wa Kokurasetai: Doujin-ban"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kaguya Wants to be Confessed to Official Doujin"
+        },
+        {
+            "type": "Japanese",
+            "title": "かぐや様は告らせたい 同人版"
+        }
+    ],
+    "title": "Kaguya-sama wa Kokurasetai: Doujin-ban",
+    "title_english": null,
+    "title_japanese": "かぐや様は告らせたい 同人版",
+    "title_synonyms": [
+        "Kaguya Wants to be Confessed to Official Doujin"
+    ],
+    "type": "Manga",
+    "chapters": 35,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-06-14T00:00:00+00:00",
+        "to": "2020-06-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 6,
+                "year": 2018
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 2020
+            }
+        },
+        "string": "Jun 14, 2018 to Jun 25, 2020"
+    },
+    "score": 7.13,
+    "scored": 7.13,
+    "scored_by": 7680,
+    "rank": 7117,
+    "popularity": 1206,
+    "members": 16860,
+    "favorites": 240,
+    "synopsis": "Kaguya-sama wa Kokurasetai is a manga about \"the war of love and brains\" between two high school geniuses who try to make the other confess. This, however, is an \"ero spinoff\" that'll make you wish it were part of the main series!\n\n(Source: Jaimini's Box)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 15173,
+            "type": "people",
+            "name": "Sakayama, Shinta",
+            "url": "https://myanimelist.net/people/15173/Shinta_Sakayama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 290,
+            "type": "manga",
+            "name": "Tonari no Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/290/Tonari_no_Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 90125,
+                    "type": "manga",
+                    "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+                    "url": "https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://tonarinoyj.jp/episode/10834108156631093439"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%90%E3%82%84%E6%A7%98%E3%81%AF%E5%91%8A%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84%E3%80%9C%E5%A4%A9%E6%89%8D%E3%81%9F%E3%81%A1%E3%81%AE%E6%81%8B%E6%84%9B%E9%A0%AD%E8%84%B3%E6%88%A6%E3%80%9C"
+        }
+    ]
+}

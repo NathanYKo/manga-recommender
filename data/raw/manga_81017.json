@@ -1,0 +1,138 @@
+{
+    "mal_id": 81017,
+    "url": "https://myanimelist.net/manga/81017/Fukigen_Kareshi_no_Nadamekata",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/155984.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/155984t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/155984l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/155984.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/155984t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/155984l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fukigen Kareshi no Nadamekata"
+        },
+        {
+            "type": "Japanese",
+            "title": "不機嫌彼氏のなだめ方"
+        }
+    ],
+    "title": "Fukigen Kareshi no Nadamekata",
+    "title_english": null,
+    "title_japanese": "不機嫌彼氏のなだめ方",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-10-14T00:00:00+00:00",
+        "to": "2015-01-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 14,
+                "month": 1,
+                "year": 2015
+            }
+        },
+        "string": "Oct 14, 2014 to Jan 14, 2015"
+    },
+    "score": 7.44,
+    "scored": 7.44,
+    "scored_by": 2007,
+    "rank": null,
+    "popularity": 5470,
+    "members": 3985,
+    "favorites": 11,
+    "synopsis": "A side-story based off of the 'Kuroneko Kareshi' series; follows Kagami Keiichi's older brothers (Kagami Yuujin) relationship with his childhood friend/butler/secretary (Takamizawa Ei). \n\nKagami Yuuji constantly hounds Keiichi for picking up and living with \"a useless stray cat\" and \"not marrying the proper candidate in order to continue the superior bloodline of the Kagami family.\" \n\nBut is Yuuji-san really upset because Keiichi-kun has enjoyed the company of Shingo, a basic black shape-shifting cat, or is his just bitter because it leaves his own life unfulfilled?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2812,
+            "type": "people",
+            "name": "Ukyou, Ayane",
+            "url": "https://myanimelist.net/people/2812/Ayane_Ukyou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 99,
+            "type": "manga",
+            "name": "Dear+",
+            "url": "https://myanimelist.net/manga/magazine/99/Dear_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 101986,
+                    "type": "manga",
+                    "name": "Fukigen Kareshi no Saraikata",
+                    "url": "https://myanimelist.net/manga/101986/Fukigen_Kareshi_no_Saraikata"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 66001,
+                    "type": "manga",
+                    "name": "Kuroneko Kareshi no Aishikata",
+                    "url": "https://myanimelist.net/manga/66001/Kuroneko_Kareshi_no_Aishikata"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

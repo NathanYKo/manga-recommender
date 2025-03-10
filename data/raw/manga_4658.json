@@ -1,0 +1,167 @@
+{
+    "mal_id": 4658,
+    "url": "https://myanimelist.net/manga/4658/Fullmetal_Alchemist",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/202288.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/202288t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/202288l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/202288.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/202288t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/202288l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fullmetal Alchemist"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hagane no Renkinjutsushi"
+        },
+        {
+            "type": "Synonym",
+            "title": "FMA"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fullmetal Alchemist Novel"
+        },
+        {
+            "type": "Japanese",
+            "title": "鋼の錬金術師"
+        },
+        {
+            "type": "English",
+            "title": "Fullmetal Alchemist"
+        }
+    ],
+    "title": "Fullmetal Alchemist",
+    "title_english": "Fullmetal Alchemist",
+    "title_japanese": "鋼の錬金術師",
+    "title_synonyms": [
+        "Hagane no Renkinjutsushi",
+        "FMA",
+        "Fullmetal Alchemist Novel"
+    ],
+    "type": "Light Novel",
+    "chapters": 35,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-02-28T00:00:00+00:00",
+        "to": "2007-03-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 2,
+                "year": 2003
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 2007
+            }
+        },
+        "string": "Feb 28, 2003 to Mar 22, 2007"
+    },
+    "score": 8.45,
+    "scored": 8.45,
+    "scored_by": 6223,
+    "rank": 184,
+    "popularity": 1144,
+    "members": 17669,
+    "favorites": 477,
+    "synopsis": "Somewhere between magic, art and science exists a world of alchemy. And into this world travel Edward and Alphonse Elric—two brothers in search of the Philosopher's Stone, the ultimate alchemical treasure!\n\n(Source: VIZ Media)",
+    "background": "Fullmetal Alchemist was published in English by VIZ Media from October 4, 2005, to October 12, 2021. The novels are published under the subtitles The Land of Sand, The Abducted Alchemist, The Valley of White Petals, Under the Faraway Sky, The Ties that Bind, and A New Beginning. The Land of Sand novel inspired episodes 11, 12, and part of 37 in the 2003 Fullmetal Alchemist TV anime.",
+    "authors": [
+        {
+            "mal_id": 1874,
+            "type": "people",
+            "name": "Arakawa, Hiromu",
+            "url": "https://myanimelist.net/people/1874/Hiromu_Arakawa"
+        },
+        {
+            "mal_id": 4113,
+            "type": "people",
+            "name": "Inoue, Makoto",
+            "url": "https://myanimelist.net/people/4113/Makoto_Inoue"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 121,
+                    "type": "anime",
+                    "name": "Fullmetal Alchemist",
+                    "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Fullmetal Alchemist",
+                    "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fullmetal_Alchemist#Light_novels"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/鋼の錬金術師#ノベライズ"
+        }
+    ]
+}

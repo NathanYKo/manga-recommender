@@ -1,0 +1,111 @@
+{
+    "mal_id": 105028,
+    "url": "https://myanimelist.net/manga/105028/Satanophany",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/196977.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/196977t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/196977l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/196977.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/196977t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/196977l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Satanophany"
+        },
+        {
+            "type": "Japanese",
+            "title": "サタノファニ"
+        }
+    ],
+    "title": "Satanophany",
+    "title_english": null,
+    "title_japanese": "サタノファニ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-03-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 3,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 13, 2017 to ?"
+    },
+    "score": 6.1,
+    "scored": 6.1,
+    "scored_by": 1942,
+    "rank": null,
+    "popularity": 2612,
+    "members": 8482,
+    "favorites": 64,
+    "synopsis": "A mysterious \"Medusa Syndrome\" turns schoolgirls into homicidal monsters who are behind numerous atrocities in Japan. However, nothing is what it seems when Chika Amagi is arrested for the brutal murder of five people...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7210,
+            "type": "people",
+            "name": "Yamada, Yoshinobu",
+            "url": "https://myanimelist.net/people/7210/Yoshinobu_Yamada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

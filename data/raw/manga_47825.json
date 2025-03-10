@@ -1,0 +1,122 @@
+{
+    "mal_id": 47825,
+    "url": "https://myanimelist.net/manga/47825/Steins_Gate__Aishin_Meizu_no_Babel",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/84307.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/84307t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/84307l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/84307.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/84307t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/84307l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Steins;Gate: Aishin Meizu no Babel"
+        },
+        {
+            "type": "Japanese",
+            "title": "STEINS;GATE 哀心迷図のバベル"
+        }
+    ],
+    "title": "Steins;Gate: Aishin Meizu no Babel",
+    "title_english": null,
+    "title_japanese": "STEINS;GATE 哀心迷図のバベル",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 19,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-05-19T00:00:00+00:00",
+        "to": "2014-01-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 5,
+                "year": 2012
+            },
+            "to": {
+                "day": 18,
+                "month": 1,
+                "year": 2014
+            }
+        },
+        "string": "May 19, 2012 to Jan 18, 2014"
+    },
+    "score": 8.23,
+    "scored": 8.23,
+    "scored_by": 1466,
+    "rank": 392,
+    "popularity": 4688,
+    "members": 4706,
+    "favorites": 63,
+    "synopsis": "A drama CD adaptation of Steins;Gate: Aishin Meizu no Babel, an alternate take on the original Steins;Gate story, told from Makise Kurisu's point of view, being illustrated by Shinichirou Nariie.\n\nAfter meeting Okabe Rintarou and the rest of the Lab Members, Kurisu reflects on her past with her estranged father and seeks to set things right with him, not knowing of the fate that awaits her.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4960,
+            "type": "people",
+            "name": "Nitroplus",
+            "url": "https://myanimelist.net/people/4960/Nitroplus"
+        },
+        {
+            "mal_id": 7650,
+            "type": "people",
+            "name": "Naruse, Yoshiki",
+            "url": "https://myanimelist.net/people/7650/Yoshiki_Naruse"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 17517,
+                    "type": "manga",
+                    "name": "Steins;Gate",
+                    "url": "https://myanimelist.net/manga/17517/Steins_Gate"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

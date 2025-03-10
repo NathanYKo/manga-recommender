@@ -1,0 +1,120 @@
+{
+    "mal_id": 28897,
+    "url": "https://myanimelist.net/manga/28897/Steins_Gate__Shijou_Saikyou_no_Slight_Fever",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/209061.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/209061t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/209061l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/209061.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/209061t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/209061l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Steins;Gate: Shijou Saikyou no Slight Fever"
+        },
+        {
+            "type": "Synonym",
+            "title": "Steins,Gate: History's Strongest Slight Fever"
+        },
+        {
+            "type": "Japanese",
+            "title": "STEINS;GATE 史上最強のスライトフィーバー"
+        }
+    ],
+    "title": "Steins;Gate: Shijou Saikyou no Slight Fever",
+    "title_english": null,
+    "title_japanese": "STEINS;GATE 史上最強のスライトフィーバー",
+    "title_synonyms": [
+        "Steins,Gate: History's Strongest Slight Fever"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 2,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "2011-01-10T00:00:00+00:00",
+        "to": "2013-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Jan 10, 2011 to Mar 26, 2013"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 465,
+    "rank": 3105,
+    "popularity": 8423,
+    "members": 2399,
+    "favorites": 12,
+    "synopsis": "A manga set in the Steins;Gate's universe told from the viewpoint of Makise Kurisu.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6294,
+            "type": "people",
+            "name": "Morita, Yuzuka",
+            "url": "https://myanimelist.net/people/6294/Yuzuka_Morita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 17517,
+                    "type": "manga",
+                    "name": "Steins;Gate",
+                    "url": "https://myanimelist.net/manga/17517/Steins_Gate"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/STEINS;GATE"
+        }
+    ]
+}

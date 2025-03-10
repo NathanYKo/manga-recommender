@@ -1,0 +1,127 @@
+{
+    "mal_id": 6642,
+    "url": "https://myanimelist.net/manga/6642/Metroid",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/153968.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/153968t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/153968l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/153968.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/153968t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/153968l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Metroid"
+        },
+        {
+            "type": "Japanese",
+            "title": "メトロイド"
+        }
+    ],
+    "title": "Metroid",
+    "title_english": null,
+    "title_japanese": "メトロイド",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-11-26T00:00:00+00:00",
+        "to": "2004-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 11,
+                "year": 2002
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2004
+            }
+        },
+        "string": "Nov 26, 2002 to Mar 26, 2004"
+    },
+    "score": 6.93,
+    "scored": 6.93,
+    "scored_by": 2077,
+    "rank": 10090,
+    "popularity": 5310,
+    "members": 4100,
+    "favorites": 92,
+    "synopsis": "Earth colony K-2L—important to the Galactic Federation for its mass reserves of the mineral Afloraltite—is visited by the Chozo, a tribe of ancient bird-like aliens renowned for their wisdom. Old Bird, a notable Chozo elder, takes a liking to the bold human toddler Samus Aran. Although Samus lives peacefully on K-2L with her parents, their stability is destroyed by the arrival of the ruthless Space Pirate Ridley and his crew of monstrous aliens.\n\nRidley rips through the inhabitants of K-2L, but Samus narrowly escapes a violent death. Old Bird and the other Chozo take her to Zebes, their home planet, and raise her as one of their own. Due to the harsh environment on Zebes, Samus is infused with Chozo DNA to strengthen her fledgling body.\n\nAs a young adult, Samus makes a name for herself as a bounty hunter in service of the Galactic Federation. Grappling with PTSD stemming from the massacre she witnessed as a child, Samus defeats deadly alien forces across the galaxy and strives to maintain peace for the innocent lives around her.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 18657,
+            "type": "people",
+            "name": "Tazawa, Kouji",
+            "url": "https://myanimelist.net/people/18657/Kouji_Tazawa"
+        },
+        {
+            "mal_id": 37576,
+            "type": "people",
+            "name": "Ishikawa, Kenji",
+            "url": "https://myanimelist.net/people/37576/Kenji_Ishikawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 70,
+            "type": "manga",
+            "name": "Magazine-Z",
+            "url": "https://myanimelist.net/manga/magazine/70/Magazine-Z"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 22788,
+                    "type": "manga",
+                    "name": "Metroid: Shounen Ou! Shorts",
+                    "url": "https://myanimelist.net/manga/22788/Metroid__Shounen_Ou_Shorts"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%88%E3%83%AD%E3%82%A4%E3%83%89"
+        }
+    ]
+}

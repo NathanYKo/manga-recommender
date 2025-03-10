@@ -1,0 +1,155 @@
+{
+    "mal_id": 7247,
+    "url": "https://myanimelist.net/manga/7247/Kumo_no_Mukou_Yakusoku_no_Basho",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/128765.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/128765t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/128765l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/128765.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/128765t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/128765l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kumo no Mukou, Yakusoku no Basho"
+        },
+        {
+            "type": "Synonym",
+            "title": "Beyond the Clouds"
+        },
+        {
+            "type": "Synonym",
+            "title": "the Promised Place"
+        },
+        {
+            "type": "Japanese",
+            "title": "雲のむこう、約束の場所"
+        },
+        {
+            "type": "English",
+            "title": "The Place Promised in Our Early Days"
+        }
+    ],
+    "title": "Kumo no Mukou, Yakusoku no Basho",
+    "title_english": "The Place Promised in Our Early Days",
+    "title_japanese": "雲のむこう、約束の場所",
+    "title_synonyms": [
+        "Beyond the Clouds",
+        "the Promised Place"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-02-01T00:00:00+00:00",
+        "to": "2006-08-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 2,
+                "year": 2006
+            },
+            "to": {
+                "day": 25,
+                "month": 8,
+                "year": 2006
+            }
+        },
+        "string": "Feb 2006 to Aug 25, 2006"
+    },
+    "score": 6.74,
+    "scored": 6.74,
+    "scored_by": 629,
+    "rank": 13105,
+    "popularity": 7299,
+    "members": 2853,
+    "favorites": 12,
+    "synopsis": "In an alternate history of the aftermath of World War II, Japan has been cleaved in half, with the south—Honshu and the other islands—allied with the United States and the northern island Hokkaido annexed by the enigmatic Union. It was on Hokkaido that a mysterious tower had been built, a strand of metal reaching up out of the atmosphere, visible from the northern tip of Honshu. In 1996, three teenagers, Hiroki, Takuya and Sayuri, make a pact—they will build an experimental aircraft, almost invisible to surveillance, cross over to Hokkaido and unlock the secrets of the tower. Their dream was never realized, because Sayuri was sent to Tokyo for treatment after she fell into a coma. It is now three years later. The rosy illusions of youth have fallen away, but not the unbreakable strength of the trio’s promise. The truth of the tower will be uncovered, and with it, the link between it and Sayuri’s mysterious, carefully tended condition.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1117,
+            "type": "people",
+            "name": "Shinkai, Makoto",
+            "url": "https://myanimelist.net/people/1117/Makoto_Shinkai"
+        },
+        {
+            "mal_id": 2867,
+            "type": "people",
+            "name": "Yumeka, Sumomo",
+            "url": "https://myanimelist.net/people/2867/Sumomo_Yumeka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 154990,
+                    "type": "manga",
+                    "name": "Kumo no Mukou, Yakusoku no Basho",
+                    "url": "https://myanimelist.net/manga/154990/Kumo_no_Mukou_Yakusoku_no_Basho"
+                },
+                {
+                    "mal_id": 433,
+                    "type": "anime",
+                    "name": "Kumo no Mukou, Yakusoku no Basho",
+                    "url": "https://myanimelist.net/anime/433/Kumo_no_Mukou_Yakusoku_no_Basho"
+                },
+                {
+                    "mal_id": 433,
+                    "type": "anime",
+                    "name": "Kumo no Mukou, Yakusoku no Basho",
+                    "url": "https://myanimelist.net/anime/433/Kumo_no_Mukou_Yakusoku_no_Basho"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

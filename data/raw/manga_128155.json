@@ -1,0 +1,124 @@
+{
+    "mal_id": 128155,
+    "url": "https://myanimelist.net/manga/128155/Hyoujou_ga_Issai_Wakaranai_Shirogane-san",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/241772.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/241772t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/241772l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/241772.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/241772t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/241772l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hyoujou ga Issai Wakaranai Shirogane-san"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hyoujou ga Issai Wakaranai Onnanoko no Manga"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shirogane Who Does Not Know Any Facial Expression"
+        },
+        {
+            "type": "Japanese",
+            "title": "表情が一切わからない白銀さん"
+        },
+        {
+            "type": "English",
+            "title": "I Don't Understand Shirogane Facial Expression at All"
+        }
+    ],
+    "title": "Hyoujou ga Issai Wakaranai Shirogane-san",
+    "title_english": "I Don't Understand Shirogane Facial Expression at All",
+    "title_japanese": "表情が一切わからない白銀さん",
+    "title_synonyms": [
+        "Hyoujou ga Issai Wakaranai Onnanoko no Manga",
+        "Shirogane Who Does Not Know Any Facial Expression"
+    ],
+    "type": "Manga",
+    "chapters": 26,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-05-27T00:00:00+00:00",
+        "to": "2022-10-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 5,
+                "year": 2020
+            },
+            "to": {
+                "day": 27,
+                "month": 10,
+                "year": 2022
+            }
+        },
+        "string": "May 27, 2020 to Oct 27, 2022"
+    },
+    "score": 6.58,
+    "scored": 6.58,
+    "scored_by": 1119,
+    "rank": 15548,
+    "popularity": 6233,
+    "members": 3434,
+    "favorites": 13,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 52260,
+            "type": "people",
+            "name": "Byte",
+            "url": "https://myanimelist.net/people/52260/Byte"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://dengekidaioh.jp/product/shiroganesan/"
+        }
+    ]
+}

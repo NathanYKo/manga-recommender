@@ -1,0 +1,134 @@
+{
+    "mal_id": 10886,
+    "url": "https://myanimelist.net/manga/10886/Ichi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/61699.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/61699t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/61699l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/61699.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/61699t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/61699l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ichi"
+        },
+        {
+            "type": "Japanese",
+            "title": "市"
+        }
+    ],
+    "title": "Ichi",
+    "title_english": null,
+    "title_japanese": "市",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 39,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-10-23T00:00:00+00:00",
+        "to": "2011-08-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 23,
+                "month": 8,
+                "year": 2011
+            }
+        },
+        "string": "Oct 23, 2008 to Aug 23, 2011"
+    },
+    "score": 7.41,
+    "scored": 7.41,
+    "scored_by": 1115,
+    "rank": 3728,
+    "popularity": 6292,
+    "members": 3400,
+    "favorites": 28,
+    "synopsis": "Ichi is a lone goze (blind woman singer) who has become separated from her traveling entertainment troupe. Wondering how she will find her place in life, she carries only a shamisen (a traditional Japanese stringed instrument) and a walking stick with a hidden blade inside. When necessary, she uses her exceptional sword skills to fight off yakuza and other villains. \n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11589,
+            "type": "people",
+            "name": "Shinohara, Hana",
+            "url": "https://myanimelist.net/people/11589/Hana_Shinohara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 171,
+            "type": "manga",
+            "name": "Evening",
+            "url": "https://myanimelist.net/manga/magazine/171/Evening"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 17617,
+                    "type": "manga",
+                    "name": "Zatouichi",
+                    "url": "https://myanimelist.net/manga/17617/Zatouichi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/ICHI"
+        }
+    ]
+}

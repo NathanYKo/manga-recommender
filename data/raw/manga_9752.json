@@ -1,0 +1,115 @@
+{
+    "mal_id": 9752,
+    "url": "https://myanimelist.net/manga/9752/Kakusan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/250725.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/250725t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/250725l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/250725.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/250725t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/250725l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kakusan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dispersion"
+        },
+        {
+            "type": "Japanese",
+            "title": "拡散"
+        },
+        {
+            "type": "English",
+            "title": "A Diffusion Disease"
+        }
+    ],
+    "title": "Kakusan",
+    "title_english": "A Diffusion Disease",
+    "title_japanese": "拡散",
+    "title_synonyms": [
+        "Dispersion"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1992-11-25T00:00:00+00:00",
+        "to": "1998-01-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 11,
+                "year": 1992
+            },
+            "to": {
+                "day": 25,
+                "month": 1,
+                "year": 1998
+            }
+        },
+        "string": "Nov 25, 1992 to Jan 25, 1998"
+    },
+    "score": 6.91,
+    "scored": 6.91,
+    "scored_by": 584,
+    "rank": 10388,
+    "popularity": 7355,
+    "members": 2821,
+    "favorites": 25,
+    "synopsis": "Katsuhiko Tobe faces an odd dilemma. Losing control of his physical self, his body diffuses into nothingness as his disembodied consciousness flows throughout the world constantly contemplating both the world and his current situation. Meanwhile, his best friend Azami Seshimo waits in their native Japan for Katsuhiko's return.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2689,
+            "type": "people",
+            "name": "Oda, Hideji",
+            "url": "https://myanimelist.net/people/2689/Hideji_Oda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

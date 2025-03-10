@@ -1,0 +1,115 @@
+{
+    "mal_id": 2234,
+    "url": "https://myanimelist.net/manga/2234/Dekiru_Otoko_no_Sodatekata",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/2425.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/2425t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/2425l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/2425.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/2425t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/2425l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dekiru Otoko no Sodatekata"
+        },
+        {
+            "type": "Synonym",
+            "title": "How to Raise a Competent Man"
+        },
+        {
+            "type": "Japanese",
+            "title": "デキる男の育て方"
+        }
+    ],
+    "title": "Dekiru Otoko no Sodatekata",
+    "title_english": null,
+    "title_japanese": "デキる男の育て方",
+    "title_synonyms": [
+        "How to Raise a Competent Man"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-03-25T00:00:00+00:00",
+        "to": "2007-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 3,
+                "year": 2006
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "Mar 25, 2006 to 2007"
+    },
+    "score": 7.44,
+    "scored": 7.44,
+    "scored_by": 1353,
+    "rank": null,
+    "popularity": 8039,
+    "members": 2541,
+    "favorites": 4,
+    "synopsis": "Kazuha, a naïve boy from the countryside dreamed about working under Hongou, who manages a restaurant in Tokyo. After cheerfully arriving in Tokyo, what awaits is a person who is totally different from the Hongou he admires. He never hides his temper and is a super selfish guy! While disregarding Kazuha's uneasiness, Hongo made Kazuha live with him?!\n\n(Source: Forever More)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3018,
+            "type": "people",
+            "name": "Yamato, Nase",
+            "url": "https://myanimelist.net/people/3018/Nase_Yamato"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 133,
+            "type": "manga",
+            "name": "Chara",
+            "url": "https://myanimelist.net/manga/magazine/133/Chara"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 26718,
+                    "type": "manga",
+                    "name": "Mukuchi na Koi no Tsutaekata",
+                    "url": "https://myanimelist.net/manga/26718/Mukuchi_na_Koi_no_Tsutaekata"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

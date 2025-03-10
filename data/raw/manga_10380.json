@@ -1,0 +1,107 @@
+{
+    "mal_id": 10380,
+    "url": "https://myanimelist.net/manga/10380/Aishiteru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/280064.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/280064t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/280064l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/280064.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/280064t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/280064l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Aishiteru"
+        },
+        {
+            "type": "Japanese",
+            "title": "愛してる"
+        },
+        {
+            "type": "English",
+            "title": "I Love You"
+        }
+    ],
+    "title": "Aishiteru",
+    "title_english": "I Love You",
+    "title_japanese": "愛してる",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-02-01T00:00:00+00:00",
+        "to": "2007-12-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 2,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 12,
+                "year": 2007
+            }
+        },
+        "string": "Feb 2007 to Dec 2007"
+    },
+    "score": 7.44,
+    "scored": 7.44,
+    "scored_by": 2255,
+    "rank": null,
+    "popularity": 5102,
+    "members": 4285,
+    "favorites": 10,
+    "synopsis": "Kazushi, an elite, met Harutomo, a cleaner whose dream is to become a chef. Because Harutomo has always been treasuring the change in seasons, after falling in love with him, Kazushi started to treasure the changes too. He found his world started to fill with colors and he finally understood the happiness of \"giving.\" Let Fujitani-sensei take you through the seasons with this very lovely story on how this couple work hard towards their future together and how they manage through their long-distance relationship when Kazushi was posted overseas.\n\n(Source: Attractive Fascinate)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5134,
+            "type": "people",
+            "name": "Fujitani, Youko",
+            "url": "https://myanimelist.net/people/5134/Youko_Fujitani"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 156,
+            "type": "manga",
+            "name": "drap",
+            "url": "https://myanimelist.net/manga/magazine/156/drap"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

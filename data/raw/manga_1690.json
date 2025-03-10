@@ -1,0 +1,152 @@
+{
+    "mal_id": 1690,
+    "url": "https://myanimelist.net/manga/1690/Kamichu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/34714.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/34714t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/34714l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/34714.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/34714t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/34714l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kamichu!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kami-chu!"
+        },
+        {
+            "type": "Japanese",
+            "title": "かみちゅ!"
+        }
+    ],
+    "title": "Kamichu!",
+    "title_english": null,
+    "title_japanese": "かみちゅ!",
+    "title_synonyms": [
+        "Kami-chu!"
+    ],
+    "type": "Manga",
+    "chapters": 19,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-06-01T00:00:00+00:00",
+        "to": "2007-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 6,
+                "year": 2005
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "Jun 2005 to Jan 2007"
+    },
+    "score": 7.19,
+    "scored": 7.19,
+    "scored_by": 1040,
+    "rank": 6180,
+    "popularity": 7447,
+    "members": 2788,
+    "favorites": 10,
+    "synopsis": "Yurie Hitotsubashi was just an average middle school student living in the city of Onomichi on Japan's inland sea. She spent her days worrying about exams and trying to get Kenji, the clueless boy she likes, to notice her. Then during lunch one day she suddenly announces to her friend Mitsue that she had become a goddess the night before. Their classmate Matsuri quickly latches on to Yurie's newfound divinity as a way to promote her family's financially struggling Shinto shrine. She hopes that in replacing Yashima-sama, their ineffective local god, with Yurie, it will make the shrine more popular. Now all Yurie has to do is figure out what she's supposed to do with her power.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1967,
+            "type": "people",
+            "name": "Kurata, Hideyuki",
+            "url": "https://myanimelist.net/people/1967/Hideyuki_Kurata"
+        },
+        {
+            "mal_id": 3315,
+            "type": "people",
+            "name": "Naruko, Hanaharu",
+            "url": "https://myanimelist.net/people/3315/Hanaharu_Naruko"
+        },
+        {
+            "mal_id": 9015,
+            "type": "people",
+            "name": "Uon, Taraku",
+            "url": "https://myanimelist.net/people/9015/Taraku_Uon"
+        },
+        {
+            "mal_id": 12414,
+            "type": "people",
+            "name": "Besame Mucho",
+            "url": "https://myanimelist.net/people/12414/Besame_Mucho"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 489,
+                    "type": "anime",
+                    "name": "Kamichu!",
+                    "url": "https://myanimelist.net/anime/489/Kamichu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Kamichu%21"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "mal_id": 15495,
+    "url": "https://myanimelist.net/manga/15495/Lock_On",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/22538.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/22538t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/22538l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/22538.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/22538t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/22538l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Lock On!"
+        },
+        {
+            "type": "Japanese",
+            "title": "LOCK ON！ ーロックオンー"
+        }
+    ],
+    "title": "Lock On!",
+    "title_english": null,
+    "title_japanese": "LOCK ON！ ーロックオンー",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-06-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 6,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 29, 2009"
+    },
+    "score": 7.23,
+    "scored": 7.23,
+    "scored_by": 2728,
+    "rank": 5743,
+    "popularity": 4944,
+    "members": 4435,
+    "favorites": 10,
+    "synopsis": "Kurohari Nico thinks all men are wolves. When an exchange student arrives at her school, he turns out to be an pro-photographer who wants to take her photo. She rejects him and doesn't trust him. Will her man hating be cured?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 8575,
+            "type": "people",
+            "name": "Tsuchida, Kenta",
+            "url": "https://myanimelist.net/people/8575/Kenta_Tsuchida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 18361,
+                    "type": "manga",
+                    "name": "Lock On!",
+                    "url": "https://myanimelist.net/manga/18361/Lock_On"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,123 @@
+{
+    "mal_id": 50155,
+    "url": "https://myanimelist.net/manga/50155/Kiken_Mania",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/146407.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/146407t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/146407l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/146407.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/146407t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/146407l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kiken Mania"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dangerous Mania"
+        },
+        {
+            "type": "Japanese",
+            "title": "キケンマニア"
+        }
+    ],
+    "title": "Kiken Mania",
+    "title_english": null,
+    "title_japanese": "キケンマニア",
+    "title_synonyms": [
+        "Dangerous Mania"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-04-20T00:00:00+00:00",
+        "to": "2013-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 4,
+                "month": 10,
+                "year": 2013
+            }
+        },
+        "string": "Apr 20, 2013 to Oct 4, 2013"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 2576,
+    "rank": 8623,
+    "popularity": 4038,
+    "members": 5575,
+    "favorites": 4,
+    "synopsis": "Nono, a 15-year-old, dislikes flirty men because of previous experience, so she wants to date a serious, honest guy. When Akkun, a 25-year-old, confesses to her, it's like a dream come true. But does he really love her?\n\n(Source: Shoujo Sense)",
+    "background": "Kiken Mania was published in French by Soleil from November 12, 2015 to February 10, 2016.",
+    "authors": [
+        {
+            "mal_id": 5525,
+            "type": "people",
+            "name": "Nanajima, Kana",
+            "url": "https://myanimelist.net/people/5525/Kana_Nanajima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Sho-Comi",
+            "url": "https://myanimelist.net/manga/magazine/22/Sho-Comi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 28827,
+                    "type": "manga",
+                    "name": "Natsumeki!!",
+                    "url": "https://myanimelist.net/manga/28827/Natsumeki"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,152 @@
+{
+    "mal_id": 102330,
+    "url": "https://myanimelist.net/manga/102330/Majo_no_Tabitabi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/212049.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/212049t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/212049l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/212049.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/212049t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/212049l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Majo no Tabitabi"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔女の旅々"
+        },
+        {
+            "type": "English",
+            "title": "Wandering Witch: The Journey of Elaina"
+        }
+    ],
+    "title": "Majo no Tabitabi",
+    "title_english": "Wandering Witch: The Journey of Elaina",
+    "title_japanese": "魔女の旅々",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-04-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 15, 2016 to ?"
+    },
+    "score": 8.2,
+    "scored": 8.2,
+    "scored_by": 2259,
+    "rank": 445,
+    "popularity": 1790,
+    "members": 12098,
+    "favorites": 493,
+    "synopsis": "Although Elaina spends her free time reading various works, one particular book stands out from the rest: The Adventures of Nike—a short collection of stories recounting the exhilarating undertakings of a traveling witch. Inspired by Nike's fascinating journey, Elaina wishes to follow in her footsteps and explore the world herself.\n\nAfter Elaina announces her dreams to her family, they set but one condition: Elaina must become a capable witch like Nike. Fueled by her desire to venture into the unknown, Elaina becomes the youngest girl to achieve the title of Apprentice Witch and subsequently advances to a full-fledged witch.\n\nNow dubbed the Ashen Witch—thanks to her unique silver hair—Elaina leaves her home and sets out on her own journey. She soon visits all sorts of mysterious and fascinating countries, meets and befriends a range of personalities, and most importantly, fulfills her lifelong quench for exploration.\n\n[Written by MAL Rewrite]",
+    "background": "Majo no Tabitabi has been published in English as Wandering Witch: The Journey of Elaina by Yen Press under the Yen On imprint since January 28, 2020.",
+    "authors": [
+        {
+            "mal_id": 42322,
+            "type": "people",
+            "name": "Azure",
+            "url": "https://myanimelist.net/people/42322/Azure"
+        },
+        {
+            "mal_id": 42323,
+            "type": "people",
+            "name": "Shiraishi, Jougi",
+            "url": "https://myanimelist.net/people/42323/Jougi_Shiraishi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 116831,
+                    "type": "manga",
+                    "name": "Majo no Tabitabi",
+                    "url": "https://myanimelist.net/manga/116831/Majo_no_Tabitabi"
+                },
+                {
+                    "mal_id": 40571,
+                    "type": "anime",
+                    "name": "Majo no Tabitabi",
+                    "url": "https://myanimelist.net/anime/40571/Majo_no_Tabitabi"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 104128,
+                    "type": "manga",
+                    "name": "Riviere to Inori no Kuni",
+                    "url": "https://myanimelist.net/manga/104128/Riviere_to_Inori_no_Kuni"
+                },
+                {
+                    "mal_id": 142953,
+                    "type": "manga",
+                    "name": "Inori no Kuni no Riviere",
+                    "url": "https://myanimelist.net/manga/142953/Inori_no_Kuni_no_Riviere"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://ga.sbcr.jp/sp/tabitabi"
+        },
+        {
+            "name": "@majotabi_PR",
+            "url": "https://twitter.com/majotabi_PR"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wandering_Witch:_The_Journey_of_Elaina"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3%E3%81%AE%E6%97%85%E3%80%85"
+        }
+    ]
+}

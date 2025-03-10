@@ -1,0 +1,123 @@
+{
+    "mal_id": 149083,
+    "url": "https://myanimelist.net/manga/149083/Kaya-chan_wa_Kowakunai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/266329.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/266329t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/266329l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/266329.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/266329t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/266329l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kaya-chan wa Kowakunai"
+        },
+        {
+            "type": "Japanese",
+            "title": "カヤちゃんはコワくない"
+        },
+        {
+            "type": "English",
+            "title": "Kaya-chan Isn't Scary"
+        }
+    ],
+    "title": "Kaya-chan wa Kowakunai",
+    "title_english": "Kaya-chan Isn't Scary",
+    "title_japanese": "カヤちゃんはコワくない",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2022-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2022
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 1, 2022 to ?"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 632,
+    "rank": 4433,
+    "popularity": 7096,
+    "members": 2958,
+    "favorites": 14,
+    "synopsis": "Kaya-chan is a notorious problem child in her kindergarten, but none of the adults know her secret—till Chie-sensei is put in charge and learns of Kaya-chan's hidden ability to see evil spirits and vanquish them with a punch! What will happen to this five-year-old who gets in trouble when she's only trying to help?\n\n(Source: Seven Seas Entertainment)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 55128,
+            "type": "people",
+            "name": "Yuri, Tarou",
+            "url": "https://myanimelist.net/people/55128/Tarou_Yuri"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1063,
+            "type": "manga",
+            "name": "Kurage Bunch",
+            "url": "https://myanimelist.net/manga/magazine/1063/Kurage_Bunch"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 60223,
+                    "type": "anime",
+                    "name": "Kaya-chan wa Kowakunai",
+                    "url": "https://myanimelist.net/anime/60223/Kaya-chan_wa_Kowakunai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://kuragebunch.com/episode/3270296674399739202"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kaya-chan_wa_Kowakunai"
+        }
+    ]
+}

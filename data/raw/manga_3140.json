@@ -1,0 +1,140 @@
+{
+    "mal_id": 3140,
+    "url": "https://myanimelist.net/manga/3140/Five",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/9661.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/9661t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/9661l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/9661.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/9661t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/9661l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Five"
+        },
+        {
+            "type": "Japanese",
+            "title": "ファイブ"
+        }
+    ],
+    "title": "Five",
+    "title_english": null,
+    "title_japanese": "ファイブ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 77,
+    "volumes": 15,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-01-01T00:00:00+00:00",
+        "to": "2011-02-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": 12,
+                "month": 2,
+                "year": 2011
+            }
+        },
+        "string": "2004 to Feb 12, 2011"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 3322,
+    "rank": 3291,
+    "popularity": 2301,
+    "members": 9504,
+    "favorites": 140,
+    "synopsis": "Hina has repeatedly transferred schools due to her father's job, and has always dreamed of a normal high-school life. At her new school, however, she finds that her class is comprised solely of guys! On top of that, five mischievous boys from her class have taken a liking to her...!?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3529,
+            "type": "people",
+            "name": "Furukawa, Shiori",
+            "url": "https://myanimelist.net/people/3529/Shiori_Furukawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Bessatsu Margaret",
+            "url": "https://myanimelist.net/manga/magazine/53/Bessatsu_Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 74,
+            "type": "manga",
+            "name": "Reverse Harem",
+            "url": "https://myanimelist.net/manga/genre/74/Reverse_Harem"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 99315,
+                    "type": "manga",
+                    "name": "Five Plus",
+                    "url": "https://myanimelist.net/manga/99315/Five_Plus"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96_%28%E3%81%B5%E3%82%8B%E3%81%8B%E3%82%8F%E3%81%97%E3%81%8A%E3%82%8A%29"
+        }
+    ]
+}

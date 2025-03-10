@@ -1,0 +1,143 @@
+{
+    "mal_id": 5114,
+    "url": "https://myanimelist.net/manga/5114/Romance_Dawn",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/263631.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/263631t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/263631l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/263631.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/263631t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/263631l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Romance Dawn"
+        },
+        {
+            "type": "Japanese",
+            "title": "ROMANCE DAWN"
+        }
+    ],
+    "title": "Romance Dawn",
+    "title_english": null,
+    "title_japanese": "ROMANCE DAWN",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1996
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1996"
+    },
+    "score": 7.09,
+    "scored": 7.09,
+    "scored_by": 4653,
+    "rank": 7610,
+    "popularity": 2780,
+    "members": 8055,
+    "favorites": 19,
+    "synopsis": "First of two One Piece prototype one-shots, which was later collected in One Piece Red: Grand Characters data book, published in 2002.",
+    "background": "Romance Dawn refers to two separate manga chapters drawn by mangaka Eiichiro Oda in 1996, culminating in the first chapter of the ongoing series One Piece. The subtitle of the first volume of the series is also called \"Romance Dawn.\" Romance Dawn represents the slow progression of the author's ideas in his desire to create a manga about pirates, whose inspiration was drawn largely from his own childhood interests. While a first-year junior high school student, he began sketching out ideas for a pirate-themed manga in a notebook, in pencil. Years later, as an assistant to Rurouni Kenshin author Nobuhiro Watsuki, he began refining his ideas into what would become Romance Dawn, and later, One Piece. The author made significant alterations to the premise and plot over the course of the three chapters. (Source: One Piece Wiki)",
+    "authors": [
+        {
+            "mal_id": 1881,
+            "type": "people",
+            "name": "Oda, Eiichiro",
+            "url": "https://myanimelist.net/people/1881/Eiichiro_Oda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1866,
+            "type": "manga",
+            "name": "Shounen Jump Season Special",
+            "url": "https://myanimelist.net/manga/magazine/1866/Shounen_Jump_Season_Special"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 5252,
+                    "type": "anime",
+                    "name": "One Piece: Romance Dawn Story",
+                    "url": "https://myanimelist.net/anime/5252/One_Piece__Romance_Dawn_Story"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 13,
+                    "type": "manga",
+                    "name": "One Piece",
+                    "url": "https://myanimelist.net/manga/13/One_Piece"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 793,
+                    "type": "manga",
+                    "name": "Wanted!",
+                    "url": "https://myanimelist.net/manga/793/Wanted"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/WANTED!_%E5%B0%BE%E7%94%B0%E6%A0%84%E4%B8%80%E9%83%8E%E7%9F%AD%E7%B7%A8%E9%9B%86#ROMANCE_DAWN"
+        }
+    ]
+}

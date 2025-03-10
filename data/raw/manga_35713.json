@@ -1,0 +1,154 @@
+{
+    "mal_id": 35713,
+    "url": "https://myanimelist.net/manga/35713/Ano_Natsu_de_Matteru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/64739.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/64739t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/64739l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/64739.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/64739t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/64739l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ano Natsu de Matteru"
+        },
+        {
+            "type": "Synonym",
+            "title": "Waiting in the Summer"
+        },
+        {
+            "type": "Japanese",
+            "title": "あの夏で待ってる"
+        }
+    ],
+    "title": "Ano Natsu de Matteru",
+    "title_english": null,
+    "title_japanese": "あの夏で待ってる",
+    "title_synonyms": [
+        "Waiting in the Summer"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-01-27T00:00:00+00:00",
+        "to": "2012-12-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Jan 27, 2012 to Dec 27, 2012"
+    },
+    "score": 7.1,
+    "scored": 7.1,
+    "scored_by": 1156,
+    "rank": 7424,
+    "popularity": 6097,
+    "members": 3522,
+    "favorites": 22,
+    "synopsis": "When a group of friends decide to make a movie over a long summer holiday, they end up learning a little about filmmaking and a lot more about each other and themselves. What begins as a simple way to avoid the summer doldrums quickly turns into something much more complex, intimate and revealing, as the maturing relationships between the members of the young cast take on new, and sometimes very unexpected, turns.\n\n(Source: Sentai Filmworks)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 16377,
+            "type": "people",
+            "name": "Dokuta, Pepako",
+            "url": "https://myanimelist.net/people/16377/Pepako_Dokuta"
+        },
+        {
+            "mal_id": 16379,
+            "type": "people",
+            "name": "I*Chi*Ka",
+            "url": "https://myanimelist.net/people/16379/IChiKa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 64,
+            "type": "manga",
+            "name": "Love Polygon",
+            "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 11433,
+                    "type": "anime",
+                    "name": "Ano Natsu de Matteru",
+                    "url": "https://myanimelist.net/anime/11433/Ano_Natsu_de_Matteru"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 54597,
+                    "type": "manga",
+                    "name": "Ano Natsu de Matteru",
+                    "url": "https://myanimelist.net/manga/54597/Ano_Natsu_de_Matteru"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.ichika-ichika.com/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%A7%E5%BE%85%E3%81%A3%E3%81%A6%E3%82%8B"
+        }
+    ]
+}

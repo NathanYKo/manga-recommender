@@ -1,0 +1,169 @@
+{
+    "mal_id": 3010,
+    "url": "https://myanimelist.net/manga/3010/Astro_Boy__Tetsuwan_Atom",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/132309.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/132309t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/132309l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/132309.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/132309t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/132309l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Astro Boy: Tetsuwan Atom"
+        },
+        {
+            "type": "Japanese",
+            "title": "ASTRO BOY 鉄腕アトム"
+        }
+    ],
+    "title": "Astro Boy: Tetsuwan Atom",
+    "title_english": null,
+    "title_japanese": "ASTRO BOY 鉄腕アトム",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 30,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-04-01T00:00:00+00:00",
+        "to": "2003-08-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2003
+            },
+            "to": {
+                "day": 1,
+                "month": 8,
+                "year": 2003
+            }
+        },
+        "string": "Apr 2003 to Aug 2003"
+    },
+    "score": 6.74,
+    "scored": 6.74,
+    "scored_by": 918,
+    "rank": 13125,
+    "popularity": 7754,
+    "members": 2657,
+    "favorites": 18,
+    "synopsis": "A more modern version of Tetsuwan Atom.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1938,
+            "type": "people",
+            "name": "Tezuka, Osamu",
+            "url": "https://myanimelist.net/people/1938/Osamu_Tezuka"
+        },
+        {
+            "mal_id": 2564,
+            "type": "people",
+            "name": "Himekawa, Akira",
+            "url": "https://myanimelist.net/people/2564/Akira_Himekawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 831,
+            "type": "manga",
+            "name": "Bessatsu CoroCoro Comic",
+            "url": "https://myanimelist.net/manga/magazine/831/Bessatsu_CoroCoro_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 15,
+            "type": "manga",
+            "name": "Kids",
+            "url": "https://myanimelist.net/manga/genre/15/Kids"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 971,
+                    "type": "anime",
+                    "name": "Astro Boy: Tetsuwan Atom",
+                    "url": "https://myanimelist.net/anime/971/Astro_Boy__Tetsuwan_Atom"
+                },
+                {
+                    "mal_id": 39362,
+                    "type": "anime",
+                    "name": "Astro Boy: Tetsuwan Atom - Getsumen Kichi - Kieta Robot no Nazo",
+                    "url": "https://myanimelist.net/anime/39362/Astro_Boy__Tetsuwan_Atom_-_Getsumen_Kichi_-_Kieta_Robot_no_Nazo"
+                },
+                {
+                    "mal_id": 39361,
+                    "type": "anime",
+                    "name": "Tetsuwan Atom to Sagurou! Dosei wo Mawaru Shinpi no Hoshi Titan",
+                    "url": "https://myanimelist.net/anime/39361/Tetsuwan_Atom_to_Sagurou_Dosei_wo_Mawaru_Shinpi_no_Hoshi_Titan"
+                },
+                {
+                    "mal_id": 39363,
+                    "type": "anime",
+                    "name": "Astro Boy: Tetsuwan Atom - 10-man Kounen no Raihousha - IGZA",
+                    "url": "https://myanimelist.net/anime/39363/Astro_Boy__Tetsuwan_Atom_-_10-man_Kounen_no_Raihousha_-_IGZA"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 728,
+                    "type": "manga",
+                    "name": "Tetsuwan Atom",
+                    "url": "https://myanimelist.net/manga/728/Tetsuwan_Atom"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%BB%E9%89%84%E8%85%95%E3%82%A2%E3%83%88%E3%83%A0"
+        }
+    ]
+}

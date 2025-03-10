@@ -1,0 +1,135 @@
+{
+    "mal_id": 19109,
+    "url": "https://myanimelist.net/manga/19109/Pink_Lady",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/113049.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/113049t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/113049l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/113049.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/113049t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/113049l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Pink Lady"
+        },
+        {
+            "type": "Japanese",
+            "title": "핑크레이디"
+        }
+    ],
+    "title": "Pink Lady",
+    "title_english": null,
+    "title_japanese": "핑크레이디",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": 78,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-05-02T00:00:00+00:00",
+        "to": "2009-02-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 5,
+                "year": 2007
+            },
+            "to": {
+                "day": 23,
+                "month": 2,
+                "year": 2009
+            }
+        },
+        "string": "May 2, 2007 to Feb 23, 2009"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 1379,
+    "rank": 3266,
+    "popularity": 4953,
+    "members": 4429,
+    "favorites": 24,
+    "synopsis": "Gyeo-wool, an art student, is having having trouble drawing. One day, she bumps into a handsome guy and takes his notebook by mistake. The notebook had drawings with an art style she is not used to and tries to draw better than him. But, it turns out that the guy knows who she is...! \n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11238,
+            "type": "people",
+            "name": "Woo, Yeong-Wook",
+            "url": "https://myanimelist.net/people/11238/Yeong-Wook_Woo"
+        },
+        {
+            "mal_id": 28851,
+            "type": "people",
+            "name": "Suna",
+            "url": "https://myanimelist.net/people/28851/Suna"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 50713,
+                    "type": "manga",
+                    "name": "Pink Lady Classic",
+                    "url": "https://myanimelist.net/manga/50713/Pink_Lady_Classic"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic.naver.com/webtoon/list.nhn?titleId=22896"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Pink_Lady_(manhwa)"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%ED%95%91%ED%81%AC%EB%A0%88%EC%9D%B4%EB%94%94"
+        }
+    ]
+}

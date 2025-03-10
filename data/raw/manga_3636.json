@@ -1,0 +1,131 @@
+{
+    "mal_id": 3636,
+    "url": "https://myanimelist.net/manga/3636/Rasetsu_no_Hana",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/158188.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/158188t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/158188l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/158188.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/158188t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/158188l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rasetsu no Hana"
+        },
+        {
+            "type": "Japanese",
+            "title": "らせつの花"
+        },
+        {
+            "type": "English",
+            "title": "Rasetsu"
+        }
+    ],
+    "title": "Rasetsu no Hana",
+    "title_english": "Rasetsu",
+    "title_japanese": "らせつの花",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 36,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": "2010-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            }
+        },
+        "string": "2005 to 2010"
+    },
+    "score": 7.81,
+    "scored": 7.81,
+    "scored_by": 1524,
+    "rank": 1311,
+    "popularity": 5276,
+    "members": 4134,
+    "favorites": 62,
+    "synopsis": "Yakou Hoshino has the ability to create barriers made of water. He then lends his powers to a ‘ghost buster’ company led by a woman named Rasetsu. Though Rasetsu has mysteries of her own including the fact that she’s cursed by an evil spirit, and that she’s the spitting image of Yakou’s guardian ghost.",
+    "background": "Rasetsu no Hana was published in English as Rasetsu by VIZ Media under the Shojo Beat imprint from June 2, 2009 to June 7, 2011.",
+    "authors": [
+        {
+            "mal_id": 2546,
+            "type": "people",
+            "name": "Shiomi, Chika",
+            "url": "https://myanimelist.net/people/2546/Chika_Shiomi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 176,
+            "type": "manga",
+            "name": "Bessatsu Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/176/Bessatsu_Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 826,
+                    "type": "manga",
+                    "name": "Yurara no Tsuki",
+                    "url": "https://myanimelist.net/manga/826/Yurara_no_Tsuki"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 83387,
+                    "type": "manga",
+                    "name": "Yume no Moribito",
+                    "url": "https://myanimelist.net/manga/83387/Yume_no_Moribito"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

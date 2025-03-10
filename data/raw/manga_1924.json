@@ -1,0 +1,128 @@
+{
+    "mal_id": 1924,
+    "url": "https://myanimelist.net/manga/1924/Inumimi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/67777.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/67777t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/67777l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/67777.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/67777t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/67777l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Inumimi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Inu-mimi"
+        },
+        {
+            "type": "Japanese",
+            "title": "いぬみみ"
+        }
+    ],
+    "title": "Inumimi",
+    "title_english": null,
+    "title_japanese": "いぬみみ",
+    "title_synonyms": [
+        "Inu-mimi"
+    ],
+    "type": "Manga",
+    "chapters": 19,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": "2007-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "2005 to 2007"
+    },
+    "score": 7.13,
+    "scored": 7.13,
+    "scored_by": 3794,
+    "rank": 7035,
+    "popularity": 3249,
+    "members": 6926,
+    "favorites": 60,
+    "synopsis": "After spending half a year abroad, Kinosaki Yuichiro is in for a shocking homecoming when he discovers that his inventor/scientist father has given his 3 dogs the appearance and abilities of girls. Now he is in for a ton of grief as he tries to cope with these changes.\n\n(Source: Solaris-SVU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3164,
+            "type": "people",
+            "name": "Nakajima, Rei",
+            "url": "https://myanimelist.net/people/3164/Rei_Nakajima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 118,
+            "type": "manga",
+            "name": "Young Animal Arashi",
+            "url": "https://myanimelist.net/manga/magazine/118/Young_Animal_Arashi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Inumimi"
+        }
+    ]
+}

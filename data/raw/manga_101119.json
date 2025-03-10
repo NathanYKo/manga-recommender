@@ -1,0 +1,143 @@
+{
+    "mal_id": 101119,
+    "url": "https://myanimelist.net/manga/101119/Origin",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/187163.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/187163t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/187163l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/187163.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/187163t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/187163l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Origin"
+        },
+        {
+            "type": "Japanese",
+            "title": "ORIGIN"
+        },
+        {
+            "type": "English",
+            "title": "Origin"
+        }
+    ],
+    "title": "Origin",
+    "title_english": "Origin",
+    "title_japanese": "ORIGIN",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 87,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-09-05T00:00:00+00:00",
+        "to": "2019-02-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 9,
+                "year": 2016
+            },
+            "to": {
+                "day": 9,
+                "month": 2,
+                "year": 2019
+            }
+        },
+        "string": "Sep 5, 2016 to Feb 9, 2019"
+    },
+    "score": 7.61,
+    "scored": 7.61,
+    "scored_by": 10325,
+    "rank": 2241,
+    "popularity": 552,
+    "members": 34335,
+    "favorites": 436,
+    "synopsis": "Tokyo, 2048. Japan is now connected to the entire northern hemisphere by the Eurasian Railroad, and all manner of crime and vice pour into the megalopolis at its eastern terminus. Little do the people know that inhuman beings live among us, however—robots with high-level AI, who will kill to survive. Only one \"man\" can stop them—their prototype: ORIGIN.\n\n(Source: Kodansha USA)",
+    "background": "Origin has been published in English by Kodansha USA since November 21, 2023.",
+    "authors": [
+        {
+            "mal_id": 3537,
+            "type": "people",
+            "name": "Boichi",
+            "url": "https://myanimelist.net/people/3537/Boichi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 154542,
+                    "type": "manga",
+                    "name": "Boichi Original SF Tanpenshuu",
+                    "url": "https://myanimelist.net/manga/154542/Boichi_Original_SF_Tanpenshuu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/origin"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/origin/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Origin_(manga)"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ORIGIN_(漫画)"
+        }
+    ]
+}

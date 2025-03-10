@@ -1,0 +1,119 @@
+{
+    "mal_id": 33083,
+    "url": "https://myanimelist.net/manga/33083/Montage",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/160210.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/160210t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/160210l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/160210.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/160210t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/160210l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Montage"
+        },
+        {
+            "type": "Synonym",
+            "title": "San Oku En Jiken Kitan"
+        },
+        {
+            "type": "Japanese",
+            "title": "三億円事件奇譚 モンタージュ SINCE 1968.12.10"
+        }
+    ],
+    "title": "Montage",
+    "title_english": null,
+    "title_japanese": "三億円事件奇譚 モンタージュ SINCE 1968.12.10",
+    "title_synonyms": [
+        "San Oku En Jiken Kitan"
+    ],
+    "type": "Manga",
+    "chapters": 193,
+    "volumes": 19,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-06-07T00:00:00+00:00",
+        "to": "2015-02-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 6,
+                "year": 2010
+            },
+            "to": {
+                "day": 16,
+                "month": 2,
+                "year": 2015
+            }
+        },
+        "string": "Jun 7, 2010 to Feb 16, 2015"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 1117,
+    "rank": 5178,
+    "popularity": 3867,
+    "members": 5805,
+    "favorites": 31,
+    "synopsis": "In a story that moves through different time periods, mostly between 1968 and the present day, two teenagers (cousins) in the present day are learning the truth about the deaths of their parents, which appear to be tied to a murderer who has been a fugitive for over 40 years...\n\n(Source: MU)\n\nThe San Oku En Jiken, (300 million yen robbery),\"...was the single largest heist in Japanese history. It occurred on the morning of December 10, 1968 in Tokyo, Japan. The case still remains unsolved.\"",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 15715,
+            "type": "people",
+            "name": "Watanabe, Jun",
+            "url": "https://myanimelist.net/people/15715/Jun_Watanabe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://yanmaga.jp/contents/montage"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5_%28%E6%BC%AB%E7%94%BB%29"
+        }
+    ]
+}

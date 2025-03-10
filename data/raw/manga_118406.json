@@ -1,0 +1,124 @@
+{
+    "mal_id": 118406,
+    "url": "https://myanimelist.net/manga/118406/Kekkai_no_Noah",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/225593.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/225593t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/225593l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/225593.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/225593t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/225593l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kekkai no Noah"
+        },
+        {
+            "type": "Japanese",
+            "title": "血海のノア"
+        },
+        {
+            "type": "English",
+            "title": "Noah of the Blood Sea"
+        }
+    ],
+    "title": "Kekkai no Noah",
+    "title_english": "Noah of the Blood Sea",
+    "title_japanese": "血海のノア",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 25,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-08-30T00:00:00+00:00",
+        "to": "2021-06-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 8,
+                "year": 2018
+            },
+            "to": {
+                "day": 10,
+                "month": 6,
+                "year": 2021
+            }
+        },
+        "string": "Aug 30, 2018 to Jun 10, 2021"
+    },
+    "score": 6.66,
+    "scored": 6.66,
+    "scored_by": 2105,
+    "rank": 14371,
+    "popularity": 3918,
+    "members": 5727,
+    "favorites": 63,
+    "synopsis": "When a family of three book passage on a luxury liner, they soon realize that the glamorous cruise ship is nothing but a facade as a series of mysterious killings spread throughout the ship. With the sea providing no escape, how will they survive?\n\n(Source: Takeshobo, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 38667,
+            "type": "people",
+            "name": "Satomi, Yuu",
+            "url": "https://myanimelist.net/people/38667/Yuu_Satomi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1103,
+            "type": "manga",
+            "name": "Web Comic Gamma",
+            "url": "https://myanimelist.net/manga/magazine/1103/Web_Comic_Gamma"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 179180,
+                    "type": "manga",
+                    "name": "Ketsuen no Jiya",
+                    "url": "https://myanimelist.net/manga/179180/Ketsuen_no_Jiya"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://webcomicgamma.takeshobo.co.jp/manga/kekkainonoah/"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "mal_id": 103809,
+    "url": "https://myanimelist.net/manga/103809/Assassins_Pride",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190010.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190010t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190010l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190010.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190010t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190010l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Assassins Pride"
+        },
+        {
+            "type": "Japanese",
+            "title": "アサシンズプライド"
+        }
+    ],
+    "title": "Assassins Pride",
+    "title_english": null,
+    "title_japanese": "アサシンズプライド",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-01-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 20, 2016 to ?"
+    },
+    "score": 6.98,
+    "scored": 6.98,
+    "scored_by": 364,
+    "rank": 9350,
+    "popularity": 8301,
+    "members": 2445,
+    "favorites": 29,
+    "synopsis": "In the world where only the aristocrats have the power to fight the monster—mana. A youth named Kufa is dispatched as a tutor to find Mareida's talent, a nuisance girl born in a duke's family. If she is not talented, assassinate her—that, is the dark side of his task...\n\n(Source: Novel Updates)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 43294,
+            "type": "people",
+            "name": "Amagi, Kei",
+            "url": "https://myanimelist.net/people/43294/Kei_Amagi"
+        },
+        {
+            "mal_id": 43295,
+            "type": "people",
+            "name": "Ninomotonino",
+            "url": "https://myanimelist.net/people/43295/Ninomotonino"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 105405,
+                    "type": "manga",
+                    "name": "Assassins Pride",
+                    "url": "https://myanimelist.net/manga/105405/Assassins_Pride"
+                },
+                {
+                    "mal_id": 38572,
+                    "type": "anime",
+                    "name": "Assassins Pride",
+                    "url": "https://myanimelist.net/anime/38572/Assassins_Pride"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 133208,
+                    "type": "manga",
+                    "name": "Assassins Pride: Secret Garden",
+                    "url": "https://myanimelist.net/manga/133208/Assassins_Pride__Secret_Garden"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.fujimishobo.co.jp/sp/201606assassins/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%E3%82%BA%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89"
+        }
+    ]
+}

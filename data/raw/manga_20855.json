@@ -1,0 +1,152 @@
+{
+    "mal_id": 20855,
+    "url": "https://myanimelist.net/manga/20855/A-Channel",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/57067.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/57067t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/57067l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/57067.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/57067t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/57067l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "A-Channel"
+        },
+        {
+            "type": "Japanese",
+            "title": "Aチャンネル"
+        }
+    ],
+    "title": "A-Channel",
+    "title_english": null,
+    "title_japanese": "Aチャンネル",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 170,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-08-28T00:00:00+00:00",
+        "to": "2020-11-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 8,
+                "year": 2008
+            },
+            "to": {
+                "day": 27,
+                "month": 11,
+                "year": 2020
+            }
+        },
+        "string": "Aug 28, 2008 to Nov 27, 2020"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 1290,
+    "rank": 3402,
+    "popularity": 4380,
+    "members": 5105,
+    "favorites": 59,
+    "synopsis": "A-Channel depicts the daily lives of Run, Tooru, Yuuko and Nagi in high school. The natural airheaded Run spreading her liveliness and indiscretion is just a small part of the four girls hectic life in high school.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 8561,
+            "type": "people",
+            "name": "Kuroda bb",
+            "url": "https://myanimelist.net/people/8561/Kuroda_bb"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 361,
+            "type": "manga",
+            "name": "Manga Time Kirara Carat",
+            "url": "https://myanimelist.net/manga/magazine/361/Manga_Time_Kirara_Carat"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9776,
+                    "type": "anime",
+                    "name": "A-Channel",
+                    "url": "https://myanimelist.net/anime/9776/A-Channel"
+                },
+                {
+                    "mal_id": 11339,
+                    "type": "anime",
+                    "name": "A-Channel+smile",
+                    "url": "https://myanimelist.net/anime/11339/A-Channel_smile"
+                },
+                {
+                    "mal_id": 35285,
+                    "type": "anime",
+                    "name": "A-Channel: Nabe wo Tabeyou",
+                    "url": "https://myanimelist.net/anime/35285/A-Channel__Nabe_wo_Tabeyou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/A%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
+        }
+    ]
+}

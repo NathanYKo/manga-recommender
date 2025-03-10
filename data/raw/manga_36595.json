@@ -1,0 +1,128 @@
+{
+    "mal_id": 36595,
+    "url": "https://myanimelist.net/manga/36595/Cocoon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/280453.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/280453t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/280453l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/280453.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/280453t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/280453l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Cocoon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kokuun"
+        },
+        {
+            "type": "Japanese",
+            "title": "コクーン"
+        }
+    ],
+    "title": "Cocoon",
+    "title_english": null,
+    "title_japanese": "コクーン",
+    "title_synonyms": [
+        "Kokuun"
+    ],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-05-01T00:00:00+00:00",
+        "to": "2010-07-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 5,
+                "year": 2008
+            },
+            "to": {
+                "day": 1,
+                "month": 7,
+                "year": 2010
+            }
+        },
+        "string": "May 2008 to Jul 2010"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 1163,
+    "rank": 4468,
+    "popularity": 5273,
+    "members": 4133,
+    "favorites": 26,
+    "synopsis": "San and Mayu are two schoolgirls living in Okinawa during the closing months of the Pacific War. Together with their classmates, the two friends are drafted into the war effort as nurses for wounded soldiers. When ordered to die for their country, the remaining members of the group escape only to face the harsh environment of a tropical paradise that has become a hellish battlefield.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 16947,
+            "type": "people",
+            "name": "Kyou, Machiko",
+            "url": "https://myanimelist.net/people/16947/Machiko_Kyou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 749,
+            "type": "manga",
+            "name": "Elegance Eve",
+            "url": "https://myanimelist.net/manga/magazine/749/Elegance_Eve"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 55779,
+                    "type": "anime",
+                    "name": "Cocoon: Aru Natsu no Shoujo-tachi yori",
+                    "url": "https://myanimelist.net/anime/55779/Cocoon__Aru_Natsu_no_Shoujo-tachi_yori"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cocoon_(manga)"
+        }
+    ]
+}

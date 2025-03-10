@@ -1,0 +1,138 @@
+{
+    "mal_id": 11434,
+    "url": "https://myanimelist.net/manga/11434/Jisatsutou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/182071.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/182071t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/182071l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/182071.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/182071t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/182071l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Jisatsutou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Suicide Island"
+        },
+        {
+            "type": "Japanese",
+            "title": "自殺島"
+        }
+    ],
+    "title": "Jisatsutou",
+    "title_english": null,
+    "title_japanese": "自殺島",
+    "title_synonyms": [
+        "Suicide Island"
+    ],
+    "type": "Manga",
+    "chapters": 168,
+    "volumes": 17,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-11-14T00:00:00+00:00",
+        "to": "2016-08-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 11,
+                "year": 2008
+            },
+            "to": {
+                "day": 26,
+                "month": 8,
+                "year": 2016
+            }
+        },
+        "string": "Nov 14, 2008 to Aug 26, 2016"
+    },
+    "score": 7.47,
+    "scored": 7.47,
+    "scored_by": 8654,
+    "rank": 3203,
+    "popularity": 612,
+    "members": 30969,
+    "favorites": 387,
+    "synopsis": "Treating non-successful suicidal patients requires a lot of money and resources. With low budget and a personal respect argumentation, a doctor will ask a non-successful suicidal patient if they still want to live on or not. If not, the government will respect their wish. However, the government doesn't just simply kill them...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6748,
+            "type": "people",
+            "name": "Mori, Kouji",
+            "url": "https://myanimelist.net/people/6748/Kouji_Mori"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Young Animal",
+            "url": "https://myanimelist.net/manga/magazine/2/Young_Animal"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 121953,
+                    "type": "manga",
+                    "name": "Muhoutou",
+                    "url": "https://myanimelist.net/manga/121953/Muhoutou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.younganimal.com/jisatsutou/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E8%87%AA%E6%AE%BA%E5%B3%B6"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "mal_id": 1324,
+    "url": "https://myanimelist.net/manga/1324/Blue_Drop",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/1119.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/1119t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/1119l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/1119.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/1119t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/1119l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Blue Drop"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yoshitomi Akihito Sakuhinshuu"
+        },
+        {
+            "type": "Japanese",
+            "title": "BLUE DROP―吉富昭仁作品集"
+        },
+        {
+            "type": "English",
+            "title": "Blue Drop"
+        }
+    ],
+    "title": "Blue Drop",
+    "title_english": "Blue Drop",
+    "title_japanese": "BLUE DROP―吉富昭仁作品集",
+    "title_synonyms": [
+        "Yoshitomi Akihito Sakuhinshuu"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-06-27T00:00:00+00:00",
+        "to": "2005-12-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 6,
+                "year": 2004
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2005
+            }
+        },
+        "string": "Jun 27, 2004 to Dec 27, 2005"
+    },
+    "score": 6.42,
+    "scored": 6.42,
+    "scored_by": 1552,
+    "rank": null,
+    "popularity": 5608,
+    "members": 3858,
+    "favorites": 17,
+    "synopsis": "The story takes place in a future where mankind has been defeated by an alien race comprised entirely of females. Having completely taken over the Earth the aliens do as they please, genetically modifying humans for their fancies and needs.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2054,
+            "type": "people",
+            "name": "Yoshitomi, Akihito",
+            "url": "https://myanimelist.net/people/2054/Akihito_Yoshitomi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Dengeki Comic Gao!",
+            "url": "https://myanimelist.net/manga/magazine/18/Dengeki_Comic_Gao"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 2694,
+                    "type": "manga",
+                    "name": "Blue Drop: Tenshi no Bokura",
+                    "url": "https://myanimelist.net/manga/2694/Blue_Drop__Tenshi_no_Bokura"
+                },
+                {
+                    "mal_id": 6896,
+                    "type": "manga",
+                    "name": "Blue Drop: Maiorita Tenshi",
+                    "url": "https://myanimelist.net/manga/6896/Blue_Drop__Maiorita_Tenshi"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2964,
+                    "type": "anime",
+                    "name": "Blue Drop: Tenshi-tachi no Gikyoku",
+                    "url": "https://myanimelist.net/anime/2964/Blue_Drop__Tenshi-tachi_no_Gikyoku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Blue_Drop"
+        }
+    ]
+}

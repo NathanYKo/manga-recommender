@@ -1,0 +1,110 @@
+{
+    "mal_id": 19517,
+    "url": "https://myanimelist.net/manga/19517/13_Club",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/30313.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/30313t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/30313l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/30313.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/30313t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/30313l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "13 Club"
+        },
+        {
+            "type": "Synonym",
+            "title": "13Club"
+        },
+        {
+            "type": "Japanese",
+            "title": "サーティーンクラブ"
+        }
+    ],
+    "title": "13 Club",
+    "title_english": null,
+    "title_japanese": "サーティーンクラブ",
+    "title_synonyms": [
+        "13Club"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-10-18T00:00:00+00:00",
+        "to": "2009-12-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2009
+            }
+        },
+        "string": "Oct 18, 2008 to Dec 19, 2009"
+    },
+    "score": 6.66,
+    "scored": 6.66,
+    "scored_by": 1657,
+    "rank": 14388,
+    "popularity": 5907,
+    "members": 3643,
+    "favorites": 24,
+    "synopsis": "If you could find out a little something about the future, what would you do? Get rich off of the stock market? Use the media to become famous as a prophet? Or… \n\n(Source: M-U)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9683,
+            "type": "people",
+            "name": "Shihira, Tatsuya",
+            "url": "https://myanimelist.net/people/9683/Tatsuya_Shihira"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

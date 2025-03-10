@@ -1,0 +1,123 @@
+{
+    "mal_id": 114976,
+    "url": "https://myanimelist.net/manga/114976/Baikoku_Kikan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/215767.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/215767t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/215767l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/215767.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/215767t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/215767l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Baikoku Kikan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Treason Agency"
+        },
+        {
+            "type": "Japanese",
+            "title": "売国機関"
+        },
+        {
+            "type": "English",
+            "title": "The Queen of the Opera"
+        }
+    ],
+    "title": "Baikoku Kikan",
+    "title_english": "The Queen of the Opera",
+    "title_japanese": "売国機関",
+    "title_synonyms": [
+        "Treason Agency"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2018-06-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 6,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 29, 2018 to ?"
+    },
+    "score": 7.25,
+    "scored": 7.25,
+    "scored_by": 491,
+    "rank": 5445,
+    "popularity": 7437,
+    "members": 2792,
+    "favorites": 41,
+    "synopsis": "In the early 20th century, a small republic found itself stuck between a kingdom and an empire—both of whom wanted to manipulate the republic to suit their own needs.\n\nIn order to protect itself from both sides of the conflict, the republic created a small group of soldiers whose job it is to suppress revolution and dissent in any way possible. This is the story of the Opera House.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 37854,
+            "type": "people",
+            "name": "Zen, Carlo",
+            "url": "https://myanimelist.net/people/37854/Carlo_Zen"
+        },
+        {
+            "mal_id": 45336,
+            "type": "people",
+            "name": "Shina, Yoshinao",
+            "url": "https://myanimelist.net/people/45336/Yoshinao_Shina"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1063,
+            "type": "manga",
+            "name": "Kurage Bunch",
+            "url": "https://myanimelist.net/manga/magazine/1063/Kurage_Bunch"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://kuragebunch.com/episode/10834108156630826048"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%A3%B2%E5%9B%BD%E6%A9%9F%E9%96%A2"
+        }
+    ]
+}

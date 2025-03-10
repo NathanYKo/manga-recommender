@@ -1,0 +1,150 @@
+{
+    "mal_id": 1631,
+    "url": "https://myanimelist.net/manga/1631/Yaiba",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/315259.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/315259t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/315259l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/315259.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/315259t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/315259l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yaiba"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kenyuu Densetsu Yaiba"
+        },
+        {
+            "type": "Japanese",
+            "title": "YAIBA"
+        },
+        {
+            "type": "English",
+            "title": "Yaiba: Samurai Legend"
+        }
+    ],
+    "title": "Yaiba",
+    "title_english": "Yaiba: Samurai Legend",
+    "title_japanese": "YAIBA",
+    "title_synonyms": [
+        "Kenyuu Densetsu Yaiba"
+    ],
+    "type": "Manga",
+    "chapters": 255,
+    "volumes": 24,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1988-08-24T00:00:00+00:00",
+        "to": "1993-11-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 8,
+                "year": 1988
+            },
+            "to": {
+                "day": 17,
+                "month": 11,
+                "year": 1993
+            }
+        },
+        "string": "Aug 24, 1988 to Nov 17, 1993"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 1439,
+    "rank": 3325,
+    "popularity": 6119,
+    "members": 3509,
+    "favorites": 56,
+    "synopsis": "The light-hearted manga is about an adventuring samurai named Kurogane Yaiba who knows how to be a samurai, and little else. Yaiba lives with his father, Kenjurou, in the forest. One day, while Yaiba was eating, a troop of gorillas came to attack. Yaiba and his father escaped and hid inside a box, but they didn't know that the box was full of pineapples and was going to be transported into the city. In the city, Yaiba finds out that he is a legendary warrior and has to fight the evil of a demonic looking high-school student named Takeshi.\n\nThe people that Yaiba meets along his journey to become a true samurai encourage him, train him, or inspire him to greatness, though at heart he is still a child, and his incredible skill with a sword is matched only by his kindness towards his friends. Though, he tends to leap before he looks, and his thick-headedness tends to turn potential allies into enemies, though his friends soon clobber him, and salvage the situation. This unlikely group embarks on a host of incredible adventures where they meet legendary figures from Japanese history, and finally overcome impossible odds, and put everything on the line, to save the entire planet from a threat not of this world.\n\nIt's a story of love, friendship, hard work, and never giving up.\n\n(Source: Wikipedia)",
+    "background": "Yaiba won the 38th Shogakukan Manga Award in 1993.",
+    "authors": [
+        {
+            "mal_id": 2804,
+            "type": "people",
+            "name": "Aoyama, Gosho",
+            "url": "https://myanimelist.net/people/2804/Gosho_Aoyama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Samurai",
+            "url": "https://myanimelist.net/manga/genre/21/Samurai"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 59093,
+                    "type": "anime",
+                    "name": "Kenyuu Densetsu Yaiba Pilot",
+                    "url": "https://myanimelist.net/anime/59093/Kenyuu_Densetsu_Yaiba_Pilot"
+                },
+                {
+                    "mal_id": 2335,
+                    "type": "anime",
+                    "name": "Kenyuu Densetsu Yaiba",
+                    "url": "https://myanimelist.net/anime/2335/Kenyuu_Densetsu_Yaiba"
+                },
+                {
+                    "mal_id": 58812,
+                    "type": "anime",
+                    "name": "Shin Samurai-den Yaiba",
+                    "url": "https://myanimelist.net/anime/58812/Shin_Samurai-den_Yaiba"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/YAIBA"
+        }
+    ]
+}

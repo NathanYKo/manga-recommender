@@ -1,0 +1,167 @@
+{
+    "mal_id": 2935,
+    "url": "https://myanimelist.net/manga/2935/hack__XXXX",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/126083.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/126083t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/126083l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/126083.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/126083t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/126083l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": ".hack//XXXX"
+        },
+        {
+            "type": "Synonym",
+            "title": ".hack//X Fourth"
+        },
+        {
+            "type": "Japanese",
+            "title": ".hack//XXXX"
+        },
+        {
+            "type": "English",
+            "title": ".hack//XXXX"
+        }
+    ],
+    "title": ".hack//XXXX",
+    "title_english": ".hack//XXXX",
+    "title_japanese": ".hack//XXXX",
+    "title_synonyms": [
+        ".hack//X Fourth"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-01-01T00:00:00+00:00",
+        "to": "2007-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "2006 to 2007"
+    },
+    "score": 7.13,
+    "scored": 7.13,
+    "scored_by": 2354,
+    "rank": 7038,
+    "popularity": 4313,
+    "members": 5188,
+    "favorites": 71,
+    "synopsis": "In .hack//Legend of the Twilight, Shugo and Rena were given the avatars of the famous dot hackers, Kite and BlackRose... Now learn how their legend was born! While playing in The World,the most successful online game in history, a young boy suddenly loses consciousness and falls into a coma after taking a blow to protect his friend Kite from the deadly beams of a strange monster. To save his fallen friend, Kite must log back into this most dangerous game and begin to unravel the mysteries behind his friend's affliction. But understanding the true power of The World may prove as dangerous as it is crucial!\n\n(Source: Tokyopop)",
+    "background": ".hack//XXXX was published in English by Tokyopop from June 17, 2008 to September 16, 2008.",
+    "authors": [
+        {
+            "mal_id": 3448,
+            "type": "people",
+            "name": "Kikuya, Megane",
+            "url": "https://myanimelist.net/people/3448/Megane_Kikuya"
+        },
+        {
+            "mal_id": 3449,
+            "type": "people",
+            "name": "Matsuyama, Hiroshi",
+            "url": "https://myanimelist.net/people/3449/Hiroshi_Matsuyama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": ".hack//G.U. The World",
+            "url": "https://myanimelist.net/manga/magazine/37/hack__GU_The_World"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 80,
+            "type": "manga",
+            "name": "Video Game",
+            "url": "https://myanimelist.net/manga/genre/80/Video_Game"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 117,
+                    "type": "manga",
+                    "name": ".hack//Tasogare no Udewa Densetsu",
+                    "url": "https://myanimelist.net/manga/117/hack__Tasogare_no_Udewa_Densetsu"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 1355,
+                    "type": "manga",
+                    "name": ".hack//Another Birth",
+                    "url": "https://myanimelist.net/manga/1355/hack__Another_Birth"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/.hack//XXXX"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "mal_id": 101482,
+    "url": "https://myanimelist.net/manga/101482/Mahouka_Koukou_no_Rettousei__Double_Seven-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/200962.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/200962t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/200962l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/200962.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/200962t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/200962l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mahouka Koukou no Rettousei: Double Seven-hen"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔法科高校の劣等生 ダブルセブン編"
+        }
+    ],
+    "title": "Mahouka Koukou no Rettousei: Double Seven-hen",
+    "title_english": null,
+    "title_japanese": "魔法科高校の劣等生 ダブルセブン編",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 32,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-10-18T00:00:00+00:00",
+        "to": "2019-07-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 18,
+                "month": 7,
+                "year": 2019
+            }
+        },
+        "string": "Oct 18, 2016 to Jul 18, 2019"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 513,
+    "rank": 4326,
+    "popularity": 8365,
+    "members": 2420,
+    "favorites": 6,
+    "synopsis": "The second year has started! Mikihiko has been promoted to Course 1, Tatsuya has entered the new Magical Engineering Course, and trouble is brewing between Saegusa Mayumi's younger twin sisters and 1st year representative Shippou Takuma, a member of the 18 Assistant House's Shippou Household.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 15591,
+            "type": "people",
+            "name": "Kitaumi, Tsuna",
+            "url": "https://myanimelist.net/people/15591/Tsuna_Kitaumi"
+        },
+        {
+            "mal_id": 15613,
+            "type": "people",
+            "name": "Satou, Tsutomu",
+            "url": "https://myanimelist.net/people/15613/Tsutomu_Satou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "GFantasy",
+            "url": "https://myanimelist.net/manga/magazine/35/GFantasy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 93234,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei: Raihousha-hen",
+                    "url": "https://myanimelist.net/manga/93234/Mahouka_Koukou_no_Rettousei__Raihousha-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 119295,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei: Steeplechase-hen",
+                    "url": "https://myanimelist.net/manga/119295/Mahouka_Koukou_no_Rettousei__Steeplechase-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 34127,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei",
+                    "url": "https://myanimelist.net/manga/34127/Mahouka_Koukou_no_Rettousei"
+                },
+                {
+                    "mal_id": 50713,
+                    "type": "anime",
+                    "name": "Mahouka Koukou no Rettousei 3rd Season",
+                    "url": "https://myanimelist.net/anime/50713/Mahouka_Koukou_no_Rettousei_3rd_Season"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E7%A7%91%E9%AB%98%E6%A0%A1%E3%81%AE%E5%8A%A3%E7%AD%89%E7%94%9F"
+        }
+    ]
+}

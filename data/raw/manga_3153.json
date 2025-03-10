@@ -1,0 +1,148 @@
+{
+    "mal_id": 3153,
+    "url": "https://myanimelist.net/manga/3153/QED__Shoumei_Shuuryou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/156124.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/156124t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/156124l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/156124.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/156124t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/156124l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Q.E.D.: Shoumei Shuuryou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Quod Erat Demonstrandum"
+        },
+        {
+            "type": "Synonym",
+            "title": "Wonder Little Detective"
+        },
+        {
+            "type": "Synonym",
+            "title": "QED: Shomei Shuryo"
+        },
+        {
+            "type": "Japanese",
+            "title": "Q.E.D. 証明終了"
+        }
+    ],
+    "title": "Q.E.D.: Shoumei Shuuryou",
+    "title_english": null,
+    "title_japanese": "Q.E.D. 証明終了",
+    "title_synonyms": [
+        "Quod Erat Demonstrandum",
+        "Wonder Little Detective",
+        "QED: Shomei Shuryo"
+    ],
+    "type": "Manga",
+    "chapters": 99,
+    "volumes": 50,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-06-20T00:00:00+00:00",
+        "to": "2015-02-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 6,
+                "year": 1997
+            },
+            "to": {
+                "day": 17,
+                "month": 2,
+                "year": 2015
+            }
+        },
+        "string": "Jun 20, 1997 to Feb 17, 2015"
+    },
+    "score": 7.8,
+    "scored": 7.8,
+    "scored_by": 1354,
+    "rank": 1335,
+    "popularity": 4734,
+    "members": 4655,
+    "favorites": 114,
+    "synopsis": "Touma Sou is an MIT-graduated-student who comes back to Japan because he wants to know how it feels to be a high school student.\n\nMizuhara Kana is a strong girl who loves sports.\n\nTogether, they are partners in solving cases that happen around them.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3536,
+            "type": "people",
+            "name": "Katou, Motohiro",
+            "url": "https://myanimelist.net/people/3536/Motohiro_Katou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 116,
+            "type": "manga",
+            "name": "Magazine E-no",
+            "url": "https://myanimelist.net/manga/magazine/116/Magazine_E-no"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 89264,
+                    "type": "manga",
+                    "name": "Q.E.D. iff: Shoumei Shuuryou",
+                    "url": "https://myanimelist.net/manga/89264/QED_iff__Shoumei_Shuuryou"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 10318,
+                    "type": "manga",
+                    "name": "C.M.B. Shinra Hakubutsukan no Jiken Mokuroku",
+                    "url": "https://myanimelist.net/manga/10318/CMB_Shinra_Hakubutsukan_no_Jiken_Mokuroku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Q.E.D._%28manga%29"
+        }
+    ]
+}

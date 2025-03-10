@@ -1,0 +1,156 @@
+{
+    "mal_id": 10740,
+    "url": "https://myanimelist.net/manga/10740/Ilegenes__Kokuyou_no_Kiseki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/14440.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/14440t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/14440l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/14440.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/14440t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/14440l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ilegenes: Kokuyou no Kiseki"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Genetic Sodom Ilegenes"
+        },
+        {
+            "type": "Japanese",
+            "title": "イルゲネス～黒耀の軌跡～"
+        },
+        {
+            "type": "English",
+            "title": "Ilegenes: Track of a Black Gleam"
+        }
+    ],
+    "title": "Ilegenes: Kokuyou no Kiseki",
+    "title_english": "Ilegenes: Track of a Black Gleam",
+    "title_japanese": "イルゲネス～黒耀の軌跡～",
+    "title_synonyms": [
+        "The Genetic Sodom Ilegenes"
+    ],
+    "type": "Manga",
+    "chapters": 30,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-10-15T00:00:00+00:00",
+        "to": "2010-07-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 15,
+                "month": 7,
+                "year": 2010
+            }
+        },
+        "string": "Oct 15, 2007 to Jul 15, 2010"
+    },
+    "score": 7.84,
+    "scored": 7.84,
+    "scored_by": 2357,
+    "rank": 1201,
+    "popularity": 2741,
+    "members": 8148,
+    "favorites": 118,
+    "synopsis": "Ilegenes—an island globally recognized for its innovation in science and technology—has monopolized the world of genetic engineering. Behind closed doors, the country invests its resources in the black market, proliferating a breeding ground for cloning and illegal profiting. Due to Ilegenes' fall from grace and unrepentant nature, the island is notoriously nicknamed after a notable research project, the \"Genetic Sodom.\"\n\nFon Fortinbras Littenber, a diligent student representative of Ilegenes Military Academy, is the adopted son of Doctor Michael Littenber, a well-known expert in brain research and the founder of the Genetic Sodom. Due to his parents' dreadful death, Fon seeks to avenge them by annihilating the black market. Although he desires an uninterrupted life in school, he grows close to his roommate Jacques \"Jake\" Berne—an outgoing 22-year-old man who holds suspicions of Fon's character. As they carry on with school, Fon must find a way to survive his academic environment while remaining true to a vow he made long ago.\n\n[Written by MAL Rewrite]",
+    "background": "Ilegenes: Kokuyou no Kiseki was published in Polish by Studio JG from July 10, 2015 to March 18, 2016.",
+    "authors": [
+        {
+            "mal_id": 3983,
+            "type": "people",
+            "name": "Kuwabara, Mizuna",
+            "url": "https://myanimelist.net/people/3983/Mizuna_Kuwabara"
+        },
+        {
+            "mal_id": 6511,
+            "type": "people",
+            "name": "Ishizue, Kachiru",
+            "url": "https://myanimelist.net/people/6511/Kachiru_Ishizue"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 269,
+            "type": "manga",
+            "name": "Comic Avarus",
+            "url": "https://myanimelist.net/manga/magazine/269/Comic_Avarus"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 23036,
+                    "type": "manga",
+                    "name": "Ilegenes: Giyoku no Koukyoukyoku",
+                    "url": "https://myanimelist.net/manga/23036/Ilegenes__Giyoku_no_Koukyoukyoku"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 50247,
+                    "type": "manga",
+                    "name": "Ilegenes: The Genetic Sodom Ilegenes",
+                    "url": "https://myanimelist.net/manga/50247/Ilegenes__The_Genetic_Sodom_Ilegenes"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

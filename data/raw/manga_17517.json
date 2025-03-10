@@ -1,0 +1,279 @@
+{
+    "mal_id": 17517,
+    "url": "https://myanimelist.net/manga/17517/Steins_Gate",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/121341.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/121341t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/121341l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/121341.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/121341t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/121341l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Steins;Gate"
+        },
+        {
+            "type": "Japanese",
+            "title": "STEINS;GATE"
+        },
+        {
+            "type": "English",
+            "title": "Steins;Gate"
+        }
+    ],
+    "title": "Steins;Gate",
+    "title_english": "Steins;Gate",
+    "title_japanese": "STEINS;GATE",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 23,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-09-26T00:00:00+00:00",
+        "to": "2013-07-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 9,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 7,
+                "year": 2013
+            }
+        },
+        "string": "Sep 26, 2009 to Jul 27, 2013"
+    },
+    "score": 8.05,
+    "scored": 8.05,
+    "scored_by": 10032,
+    "rank": 660,
+    "popularity": 683,
+    "members": 27906,
+    "favorites": 817,
+    "synopsis": "The story of Steins;Gate takes place in Akihabara and is about a group of friends who have managed to customize their microwave into a device that can send text messages to the past. As they perform different experiments, an organization named SERN who has been doing their own research on time travel tracks them down and now the characters have to find a way to avoid being captured by them.\n\n(Source: Wikipedia)",
+    "background": "Steins;Gate is based on 5pb. and Nitroplus' visual novel of the same name. The series was published in English by Udon Entertainment from November 12, 2015, to April 26, 2016. It was also released in Brazilian Portuguese by Editora JBC from April 2015 to June 2015; and in Russian by XL Media from May 23, 2015, to November 10, 2015.",
+    "authors": [
+        {
+            "mal_id": 4960,
+            "type": "people",
+            "name": "Nitroplus",
+            "url": "https://myanimelist.net/people/4960/Nitroplus"
+        },
+        {
+            "mal_id": 13513,
+            "type": "people",
+            "name": "Sarachi, Yomi",
+            "url": "https://myanimelist.net/people/13513/Yomi_Sarachi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 137,
+            "type": "manga",
+            "name": "Comic Alive",
+            "url": "https://myanimelist.net/manga/magazine/137/Comic_Alive"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 28899,
+                    "type": "manga",
+                    "name": "Steins;Gate: Onshuu no Brownian Motion",
+                    "url": "https://myanimelist.net/manga/28899/Steins_Gate__Onshuu_no_Brownian_Motion"
+                },
+                {
+                    "mal_id": 107548,
+                    "type": "manga",
+                    "name": "Steins;Gate 0",
+                    "url": "https://myanimelist.net/manga/107548/Steins_Gate_0"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 62951,
+                    "type": "manga",
+                    "name": "Gekijouban Steins;Gate: Fuka Ryouiki no Déjà vu",
+                    "url": "https://myanimelist.net/manga/62951/Gekijouban_Steins_Gate__Fuka_Ryouiki_no_Déjà_vu"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9253,
+                    "type": "anime",
+                    "name": "Steins;Gate",
+                    "url": "https://myanimelist.net/anime/9253/Steins_Gate"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 47417,
+                    "type": "manga",
+                    "name": "Steins;Gate: Youen no Valhalla",
+                    "url": "https://myanimelist.net/manga/47417/Steins_Gate__Youen_no_Valhalla"
+                },
+                {
+                    "mal_id": 74337,
+                    "type": "manga",
+                    "name": "Steins;Gate: Mugen Enten no Arc Light",
+                    "url": "https://myanimelist.net/manga/74337/Steins_Gate__Mugen_Enten_no_Arc_Light"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 28897,
+                    "type": "manga",
+                    "name": "Steins;Gate: Shijou Saikyou no Slight Fever",
+                    "url": "https://myanimelist.net/manga/28897/Steins_Gate__Shijou_Saikyou_no_Slight_Fever"
+                },
+                {
+                    "mal_id": 74335,
+                    "type": "manga",
+                    "name": "Steins Gate!",
+                    "url": "https://myanimelist.net/manga/74335/Steins_Gate"
+                },
+                {
+                    "mal_id": 39859,
+                    "type": "manga",
+                    "name": "Steins;Gate",
+                    "url": "https://myanimelist.net/manga/39859/Steins_Gate"
+                },
+                {
+                    "mal_id": 74343,
+                    "type": "manga",
+                    "name": "Steins;Gate: Drops",
+                    "url": "https://myanimelist.net/manga/74343/Steins_Gate__Drops"
+                },
+                {
+                    "mal_id": 74345,
+                    "type": "manga",
+                    "name": "Steins;Gate: Hoshikuzu no Duplet",
+                    "url": "https://myanimelist.net/manga/74345/Steins_Gate__Hoshikuzu_no_Duplet"
+                },
+                {
+                    "mal_id": 27965,
+                    "type": "manga",
+                    "name": "Steins;Gate: Hiyoku Renri no Sweets Honey",
+                    "url": "https://myanimelist.net/manga/27965/Steins_Gate__Hiyoku_Renri_no_Sweets_Honey"
+                },
+                {
+                    "mal_id": 74595,
+                    "type": "manga",
+                    "name": "Steins;Gate: Hiyoku Renri no Future Honey",
+                    "url": "https://myanimelist.net/manga/74595/Steins_Gate__Hiyoku_Renri_no_Future_Honey"
+                },
+                {
+                    "mal_id": 106311,
+                    "type": "manga",
+                    "name": "Steins;Gate: Hiyoku Renri no +Nyan² Crisis☆",
+                    "url": "https://myanimelist.net/manga/106311/Steins_Gate__Hiyoku_Renri_no__Nyan²_Crisis☆"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 47825,
+                    "type": "manga",
+                    "name": "Steins;Gate: Aishin Meizu no Babel",
+                    "url": "https://myanimelist.net/manga/47825/Steins_Gate__Aishin_Meizu_no_Babel"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 20699,
+                    "type": "manga",
+                    "name": "Steins;Gate: Boukan no Rebellion",
+                    "url": "https://myanimelist.net/manga/20699/Steins_Gate__Boukan_no_Rebellion"
+                },
+                {
+                    "mal_id": 35063,
+                    "type": "manga",
+                    "name": "Robotics;Notes",
+                    "url": "https://myanimelist.net/manga/35063/Robotics_Notes"
+                },
+                {
+                    "mal_id": 74341,
+                    "type": "manga",
+                    "name": "Steins;Gate: Heiji Kyokusen no Epigraph",
+                    "url": "https://myanimelist.net/manga/74341/Steins_Gate__Heiji_Kyokusen_no_Epigraph"
+                },
+                {
+                    "mal_id": 59669,
+                    "type": "manga",
+                    "name": "Steins;Gate: Eigou Kaiki no Pandora",
+                    "url": "https://myanimelist.net/manga/59669/Steins_Gate__Eigou_Kaiki_no_Pandora"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Steins;Gate"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/STEINS;GATE"
+        }
+    ]
+}

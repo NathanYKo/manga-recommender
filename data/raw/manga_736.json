@@ -1,0 +1,183 @@
+{
+    "mal_id": 736,
+    "url": "https://myanimelist.net/manga/736/Shin_Angyo_Onshi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/161805.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/161805t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/161805l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/161805.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/161805t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/161805l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shin Angyo Onshi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Phantom Master: Dark Hero from Ruined Empire"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shin-am Heng-uhsah"
+        },
+        {
+            "type": "Synonym",
+            "title": "The New Secret Royal Inspector"
+        },
+        {
+            "type": "Japanese",
+            "title": "新暗行御史"
+        },
+        {
+            "type": "English",
+            "title": "Blade of the Phantom Master"
+        }
+    ],
+    "title": "Shin Angyo Onshi",
+    "title_english": "Blade of the Phantom Master",
+    "title_japanese": "新暗行御史",
+    "title_synonyms": [
+        "Phantom Master: Dark Hero from Ruined Empire",
+        "Shin-am Heng-uhsah",
+        "The New Secret Royal Inspector"
+    ],
+    "type": "Manga",
+    "chapters": 76,
+    "volumes": 17,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-03-19T00:00:00+00:00",
+        "to": "2007-08-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 3,
+                "year": 2001
+            },
+            "to": {
+                "day": 18,
+                "month": 8,
+                "year": 2007
+            }
+        },
+        "string": "Mar 19, 2001 to Aug 18, 2007"
+    },
+    "score": 8.31,
+    "scored": 8.31,
+    "scored_by": 10230,
+    "rank": 295,
+    "popularity": 526,
+    "members": 35813,
+    "favorites": 1210,
+    "synopsis": "In Jushin, there once lived secret government agents called the amen osa (or angyō onshi in the Japanese version), who traveled the countryside in disguise. They were charged by the king with finding and punishing corrupt government officials, and bringing justice to the country's citizens.\n\n(Source: Wikipedia)",
+    "background": "Shin Angyo Onshi was serialized in both Japanese and Korean; chapters were released in Japanese first in Sunday Gene-X, and then in Korean in Young Champ. The series was rereleased in webtoon format on Naver Webtoon from November 18, 2017 to August 5, 2019. The webtoon version was published digitally in English as Blade of the Phantom Master by Webtoon Entertainment from June 9, 2022 to December 20, 2024.",
+    "authors": [
+        {
+            "mal_id": 2049,
+            "type": "people",
+            "name": "Yoon, In-Wan",
+            "url": "https://myanimelist.net/people/2049/In-Wan_Yoon"
+        },
+        {
+            "mal_id": 2202,
+            "type": "people",
+            "name": "Yang, Kyung-il",
+            "url": "https://myanimelist.net/people/2202/Kyung-il_Yang"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Sunday Gene-X",
+            "url": "https://myanimelist.net/manga/magazine/40/Sunday_Gene-X"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 884,
+                    "type": "anime",
+                    "name": "Shin Angyo Onshi",
+                    "url": "https://myanimelist.net/anime/884/Shin_Angyo_Onshi"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 7312,
+                    "type": "manga",
+                    "name": "Shin Angyo Onshi Gaiden",
+                    "url": "https://myanimelist.net/manga/7312/Shin_Angyo_Onshi_Gaiden"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%96%B0%E6%9A%97%E8%A1%8C%E5%BE%A1%E5%8F%B2"
+        }
+    ]
+}

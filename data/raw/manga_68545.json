@@ -1,0 +1,115 @@
+{
+    "mal_id": 68545,
+    "url": "https://myanimelist.net/manga/68545/Love_and_Baseball",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165420.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165420t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165420l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165420.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165420t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165420l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Love and Baseball"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラブ アンド ベースボール"
+        }
+    ],
+    "title": "Love and Baseball",
+    "title_english": null,
+    "title_japanese": "ラブ アンド ベースボール",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-10-25T00:00:00+00:00",
+        "to": "2014-09-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 22,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Oct 25, 2013 to Sep 22, 2014"
+    },
+    "score": 7.13,
+    "scored": 7.13,
+    "scored_by": 1315,
+    "rank": 7118,
+    "popularity": 7747,
+    "members": 2659,
+    "favorites": 2,
+    "synopsis": "Sakagou is a young man who is unlucky-upon joining a professional baseball team, he's sent to the minor leagues when his leg is injured. However, the season of love is about to begin...!",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3240,
+            "type": "people",
+            "name": "Yamamoto, Kotetsuko",
+            "url": "https://myanimelist.net/people/3240/Kotetsuko_Yamamoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 436,
+            "type": "manga",
+            "name": "Hanamaru",
+            "url": "https://myanimelist.net/manga/magazine/436/Hanamaru"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 45699,
+                    "type": "manga",
+                    "name": "Fukurou-kun to Kare",
+                    "url": "https://myanimelist.net/manga/45699/Fukurou-kun_to_Kare"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

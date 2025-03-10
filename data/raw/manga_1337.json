@@ -1,0 +1,129 @@
+{
+    "mal_id": 1337,
+    "url": "https://myanimelist.net/manga/1337/Girlfriend",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/58687.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/58687t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/58687l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/58687.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/58687t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/58687l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Girlfriend"
+        },
+        {
+            "type": "Japanese",
+            "title": "ガールフレンド"
+        }
+    ],
+    "title": "Girlfriend",
+    "title_english": null,
+    "title_japanese": "ガールフレンド",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 26,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-06-18T00:00:00+00:00",
+        "to": "2007-06-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 6,
+                "year": 2004
+            },
+            "to": {
+                "day": 19,
+                "month": 6,
+                "year": 2007
+            }
+        },
+        "string": "Jun 18, 2004 to Jun 19, 2007"
+    },
+    "score": 6.59,
+    "scored": 6.59,
+    "scored_by": 1830,
+    "rank": 15369,
+    "popularity": 5568,
+    "members": 3891,
+    "favorites": 23,
+    "synopsis": "Penned by Masaya Hokazono (Inugami, Watashi wa ai) and illustrated by Court Betten (Prince Standard, Harukaze - Bitterpop), Girlfriend features charming and sexy short stories involving romantic relationships between high-schoolers in contemporary Japan.\n\n(Source: Kotonoha)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2896,
+            "type": "people",
+            "name": "Hokazono, Masaya",
+            "url": "https://myanimelist.net/people/2896/Masaya_Hokazono"
+        },
+        {
+            "mal_id": 2897,
+            "type": "people",
+            "name": "Betten, Court",
+            "url": "https://myanimelist.net/people/2897/Court_Betten"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

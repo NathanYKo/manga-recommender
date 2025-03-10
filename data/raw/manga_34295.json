@@ -1,0 +1,151 @@
+{
+    "mal_id": 34295,
+    "url": "https://myanimelist.net/manga/34295/Shin_Kozure_Ookami__Lone_Wolf",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/62443.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/62443t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/62443l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/62443.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/62443t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/62443l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shin Kozure Ookami: Lone Wolf"
+        },
+        {
+            "type": "Synonym",
+            "title": "New Lone Wolf and Cub"
+        },
+        {
+            "type": "Japanese",
+            "title": "新・子連れ狼 LONE WOLF"
+        },
+        {
+            "type": "English",
+            "title": "New Lone Wolf & Cub"
+        }
+    ],
+    "title": "Shin Kozure Ookami: Lone Wolf",
+    "title_english": "New Lone Wolf & Cub",
+    "title_japanese": "新・子連れ狼 LONE WOLF",
+    "title_synonyms": [
+        "New Lone Wolf and Cub"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-01-01T00:00:00+00:00",
+        "to": "2006-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            }
+        },
+        "string": "2003 to 2006"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 358,
+    "rank": 4233,
+    "popularity": 7466,
+    "members": 2776,
+    "favorites": 13,
+    "synopsis": "Sequel of Lone Wolf and Cub with a grown up Daigorou as main character.",
+    "background": "Shin Kozure Ookami: Lone Wolf was published in English as New Lone Wolf and Cub by Dark Horse from July 1, 2014 to December 27, 2016. It will also be published in Spanish by Planeta Comic.",
+    "authors": [
+        {
+            "mal_id": 3020,
+            "type": "people",
+            "name": "Koike, Kazuo",
+            "url": "https://myanimelist.net/people/3020/Kazuo_Koike"
+        },
+        {
+            "mal_id": 4569,
+            "type": "people",
+            "name": "Mori, Hideki",
+            "url": "https://myanimelist.net/people/4569/Hideki_Mori"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Samurai",
+            "url": "https://myanimelist.net/manga/genre/21/Samurai"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 904,
+                    "type": "manga",
+                    "name": "Kozure Ookami",
+                    "url": "https://myanimelist.net/manga/904/Kozure_Ookami"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 34297,
+                    "type": "manga",
+                    "name": "Soshite - Kozure Ookami: Shikaku no Ko",
+                    "url": "https://myanimelist.net/manga/34297/Soshite_-_Kozure_Ookami__Shikaku_no_Ko"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%96%B0%E3%83%BB%E5%AD%90%E9%80%A3%E3%82%8C%E7%8B%BC"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/New_Lone_Wolf_and_Cub"
+        }
+    ]
+}

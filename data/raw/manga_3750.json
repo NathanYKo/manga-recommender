@@ -1,0 +1,181 @@
+{
+    "mal_id": 3750,
+    "url": "https://myanimelist.net/manga/3750/Gyakuten_Saiban",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/164137.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/164137t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/164137l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/164137.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/164137t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/164137l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gyakuten Saiban"
+        },
+        {
+            "type": "Synonym",
+            "title": "Phoenix Wright: Ace Attorney"
+        },
+        {
+            "type": "Synonym",
+            "title": "Turnabout Courtroom"
+        },
+        {
+            "type": "Japanese",
+            "title": "逆転裁判"
+        }
+    ],
+    "title": "Gyakuten Saiban",
+    "title_english": null,
+    "title_japanese": "逆転裁判",
+    "title_synonyms": [
+        "Phoenix Wright: Ace Attorney",
+        "Turnabout Courtroom"
+    ],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-08-11T00:00:00+00:00",
+        "to": "2008-10-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 8,
+                "year": 2006
+            },
+            "to": {
+                "day": 17,
+                "month": 10,
+                "year": 2008
+            }
+        },
+        "string": "Aug 11, 2006 to Oct 17, 2008"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 1535,
+    "rank": 4234,
+    "popularity": 5121,
+    "members": 4269,
+    "favorites": 121,
+    "synopsis": "A series of extra cases based on the GBA and DS game series.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4857,
+            "type": "people",
+            "name": "Kuroda, Kenji",
+            "url": "https://myanimelist.net/people/4857/Kenji_Kuroda"
+        },
+        {
+            "mal_id": 4858,
+            "type": "people",
+            "name": "Maekawa, Kazuo",
+            "url": "https://myanimelist.net/people/4858/Kazuo_Maekawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 240,
+            "type": "manga",
+            "name": "Bessatsu Young Magazine",
+            "url": "https://myanimelist.net/manga/magazine/240/Bessatsu_Young_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        },
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 6048,
+                    "type": "manga",
+                    "name": "Gyakuten Saiban: Turnabout Crossover",
+                    "url": "https://myanimelist.net/manga/6048/Gyakuten_Saiban__Turnabout_Crossover"
+                },
+                {
+                    "mal_id": 10604,
+                    "type": "manga",
+                    "name": "Gyakuten Saiban Official Anthology Comic: Mitsurugi-hen",
+                    "url": "https://myanimelist.net/manga/10604/Gyakuten_Saiban_Official_Anthology_Comic__Mitsurugi-hen"
+                },
+                {
+                    "mal_id": 10603,
+                    "type": "manga",
+                    "name": "Gyakuten Saiban Official Anthology Comic: Naruhodou-hen",
+                    "url": "https://myanimelist.net/manga/10603/Gyakuten_Saiban_Official_Anthology_Comic__Naruhodou-hen"
+                },
+                {
+                    "mal_id": 13469,
+                    "type": "manga",
+                    "name": "Gyakuten Kenji",
+                    "url": "https://myanimelist.net/manga/13469/Gyakuten_Kenji"
+                },
+                {
+                    "mal_id": 99915,
+                    "type": "manga",
+                    "name": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
+                    "url": "https://myanimelist.net/manga/99915/Gyakuten_Saiban__Sono_Shinjitsu_Igi_Ari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%80%86%E8%BB%A2%E8%A3%81%E5%88%A4"
+        }
+    ]
+}

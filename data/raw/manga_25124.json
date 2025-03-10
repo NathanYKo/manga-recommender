@@ -1,0 +1,109 @@
+{
+    "mal_id": 25124,
+    "url": "https://myanimelist.net/manga/25124/Kimi_to_Parade",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/40450.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/40450t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/40450l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/40450.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/40450t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/40450l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi to Parade"
+        },
+        {
+            "type": "Japanese",
+            "title": "君とパレード"
+        }
+    ],
+    "title": "Kimi to Parade",
+    "title_english": null,
+    "title_japanese": "君とパレード",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-04-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 26, 2011"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 1810,
+    "rank": null,
+    "popularity": 5753,
+    "members": 3746,
+    "favorites": 7,
+    "synopsis": "Kikuchi woke up one fine morning to a message from his ex-girlfriend telling him that she was seeing someone else. Having to go to work after such a crappy experience, he was faced with his uni friend, Sera’s boyfriend, Akaboshi who was also his adorable student. Usually Akaboshi’s rather stoic and aloof but in front of Sera, he just brimmed with so much happiness. Sadly, Sera harboured a secret that will threaten their relationship and poor Kikuchi, being Sera’s good friend, knew about it is caught in between. It didn’t help that Kikuchi’s falling for his student too…\n\n(Source: Echoichi)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 12184,
+            "type": "people",
+            "name": "Kojima, Lalako",
+            "url": "https://myanimelist.net/people/12184/Lalako_Kojima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 550,
+            "type": "manga",
+            "name": "Canna",
+            "url": "https://myanimelist.net/manga/magazine/550/Canna"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 67223,
+                    "type": "manga",
+                    "name": "Paradise View",
+                    "url": "https://myanimelist.net/manga/67223/Paradise_View"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

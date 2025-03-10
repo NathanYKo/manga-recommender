@@ -1,0 +1,132 @@
+{
+    "mal_id": 1193,
+    "url": "https://myanimelist.net/manga/1193/Level_E",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/280699.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/280699t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/280699l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/280699.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/280699t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/280699l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Level E"
+        },
+        {
+            "type": "Japanese",
+            "title": "レベルE"
+        }
+    ],
+    "title": "Level E",
+    "title_english": null,
+    "title_japanese": "レベルE",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1995-09-19T00:00:00+00:00",
+        "to": "1996-12-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 9,
+                "year": 1995
+            },
+            "to": {
+                "day": 3,
+                "month": 12,
+                "year": 1996
+            }
+        },
+        "string": "Sep 19, 1995 to Dec 3, 1996"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 3411,
+    "rank": 3937,
+    "popularity": 2378,
+    "members": 9214,
+    "favorites": 104,
+    "synopsis": "In the present day, hundreds of extraterrestrial species walk the Earth. Some are pacifistic, others violent. Some are here for research purposes, others are career criminals. However, humans don't know they are here.\n\nNow, one more alien has arrived on Earth. One of the universe's foremost geniuses with a personality that's bound to attract all sorts of trouble.\n\n(Source: AniDB)",
+    "background": "Level E was published in Brazilian Portuguese by Editora JBC from March 2013 to May 2013.",
+    "authors": [
+        {
+            "mal_id": 1893,
+            "type": "people",
+            "name": "Togashi, Yoshihiro",
+            "url": "https://myanimelist.net/people/1893/Yoshihiro_Togashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9834,
+                    "type": "anime",
+                    "name": "Level E",
+                    "url": "https://myanimelist.net/anime/9834/Level_E"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%99%E3%83%ABE"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Level_E"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "mal_id": 3128,
+    "url": "https://myanimelist.net/manga/3128/The_Ring",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/270802.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/270802t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/270802l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/270802.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/270802t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/270802l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "The Ring"
+        },
+        {
+            "type": "Japanese",
+            "title": "リング"
+        },
+        {
+            "type": "English",
+            "title": "The Ring"
+        }
+    ],
+    "title": "The Ring",
+    "title_english": "The Ring",
+    "title_japanese": "リング",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1998"
+    },
+    "score": 6.65,
+    "scored": 6.65,
+    "scored_by": 1262,
+    "rank": 14475,
+    "popularity": 7200,
+    "members": 2902,
+    "favorites": 16,
+    "synopsis": "A series of mysterious murders all surround a video tape. Supposedly, anyone viewing this tape will die within 7 days. Reporter Reiko Asakawa, an aunt to one of the victims, decides to do a story on this tape. Upon viewing it however, she finds she has more to worry about than whether her boss will like her story or not...\n\nAs she begins to experience horrifying visions, she comes to realize that she has no other choice but to find a way to break this horrible curse... or die.\n\n(Source: Dark Horse)",
+    "background": "The Ring was published in English by Dark Horse on November 12, 2003. It was published as a single volume, rather than the original two.",
+    "authors": [
+        {
+            "mal_id": 3288,
+            "type": "people",
+            "name": "Suzuki, Koji",
+            "url": "https://myanimelist.net/people/3288/Koji_Suzuki"
+        },
+        {
+            "mal_id": 3520,
+            "type": "people",
+            "name": "Inagaki, Misao",
+            "url": "https://myanimelist.net/people/3520/Misao_Inagaki"
+        },
+        {
+            "mal_id": 10398,
+            "type": "people",
+            "name": "Takahashi, Hiroshi",
+            "url": "https://myanimelist.net/people/10398/Hiroshi_Takahashi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 3131,
+                    "type": "manga",
+                    "name": "The Ring 0: Birthday",
+                    "url": "https://myanimelist.net/manga/3131/The_Ring_0__Birthday"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 3129,
+                    "type": "manga",
+                    "name": "Ring 2",
+                    "url": "https://myanimelist.net/manga/3129/Ring_2"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 13583,
+                    "type": "manga",
+                    "name": "Ring",
+                    "url": "https://myanimelist.net/manga/13583/Ring"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%B0_(%E9%88%B4%E6%9C%A8%E5%85%89%E5%8F%B8%E3%81%AE%E5%B0%8F%E8%AA%AC)"
+        }
+    ]
+}

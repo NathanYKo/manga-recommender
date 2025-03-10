@@ -1,0 +1,148 @@
+{
+    "mal_id": 15469,
+    "url": "https://myanimelist.net/manga/15469/Nyan_Koi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/270766.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/270766t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/270766l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/270766.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/270766t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/270766l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nyan Koi!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nyankoi!"
+        },
+        {
+            "type": "Japanese",
+            "title": "にゃんこい!"
+        },
+        {
+            "type": "English",
+            "title": "Nyan Koi!"
+        }
+    ],
+    "title": "Nyan Koi!",
+    "title_english": "Nyan Koi!",
+    "title_japanese": "にゃんこい!",
+    "title_synonyms": [
+        "Nyankoi!"
+    ],
+    "type": "Manga",
+    "chapters": 35,
+    "volumes": 6,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "2007-08-10T00:00:00+00:00",
+        "to": "2015-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 8,
+                "year": 2007
+            },
+            "to": {
+                "day": 7,
+                "month": 1,
+                "year": 2015
+            }
+        },
+        "string": "Aug 10, 2007 to Jan 7, 2015"
+    },
+    "score": 7.63,
+    "scored": 7.63,
+    "scored_by": 2954,
+    "rank": 2155,
+    "popularity": 2191,
+    "members": 9851,
+    "favorites": 83,
+    "synopsis": "The hapless hero of Nyankoi! is Junpei Kosaka, a guy who not only hates cats, he's deathly allergic to them. So it's kind of bummer that he has a crush on a classmate who adores kitties, and things go from bad to worse when he accidentally angers a guardian deity of cats who bestows upon him a gift and a curse. He can now understand what cats say, but he must grant 100 wishes from cats or he'll be turned into a cat himself!\n\n(Source: CMX)",
+    "background": "Nyan Koi! had one volume published in English by CMX Manga on July 13, 2010 before the publisher went defunct.",
+    "authors": [
+        {
+            "mal_id": 8562,
+            "type": "people",
+            "name": "Fujiwara, Sato",
+            "url": "https://myanimelist.net/people/8562/Sato_Fujiwara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 827,
+            "type": "manga",
+            "name": "Comic Meteor",
+            "url": "https://myanimelist.net/manga/magazine/827/Comic_Meteor"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 6512,
+                    "type": "anime",
+                    "name": "Nyan Koi!",
+                    "url": "https://myanimelist.net/anime/6512/Nyan_Koi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic-meteor.jp/nyankoi/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%AB%E3%82%83%E3%82%93%E3%81%93%E3%81%84!"
+        }
+    ]
+}

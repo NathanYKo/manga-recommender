@@ -1,0 +1,114 @@
+{
+    "mal_id": 128080,
+    "url": "https://myanimelist.net/manga/128080/Tomie__Nottori",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/233732.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/233732t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/233732l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/233732.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/233732t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/233732l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tomie: Nottori"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tomie: Takeover"
+        },
+        {
+            "type": "Japanese",
+            "title": "富江・乗っ取り"
+        }
+    ],
+    "title": "Tomie: Nottori",
+    "title_english": null,
+    "title_japanese": "富江・乗っ取り",
+    "title_synonyms": [
+        "Tomie: Takeover"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-03-30T00:00:00+00:00",
+        "to": "2018-05-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 3,
+                "year": 2018
+            },
+            "to": {
+                "day": 25,
+                "month": 5,
+                "year": 2018
+            }
+        },
+        "string": "Mar 30, 2018 to May 25, 2018"
+    },
+    "score": 6.93,
+    "scored": 6.93,
+    "scored_by": 1355,
+    "rank": 10154,
+    "popularity": 6784,
+    "members": 3126,
+    "favorites": 12,
+    "synopsis": "Tomie is once again the target of a flirtatious man, but things change once this man takes over her body.\n\n[Written by DrStupid]",
+    "background": "Each part of Tomie: Nottori was released as a booklet bundled with the three-part kanzenban version of the DVDs.",
+    "authors": [
+        {
+            "mal_id": 2410,
+            "type": "people",
+            "name": "Itou, Junji",
+            "url": "https://myanimelist.net/people/2410/Junji_Itou"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 912,
+                    "type": "manga",
+                    "name": "Tomie",
+                    "url": "https://myanimelist.net/manga/912/Tomie"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

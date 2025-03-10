@@ -1,0 +1,139 @@
+{
+    "mal_id": 7875,
+    "url": "https://myanimelist.net/manga/7875/Secret_Journey",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/71323.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/71323t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/71323l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/71323.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/71323t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/71323l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Secret Journey"
+        },
+        {
+            "type": "Japanese",
+            "title": "SECRET JOURNEY"
+        }
+    ],
+    "title": "Secret Journey",
+    "title_english": null,
+    "title_japanese": "SECRET JOURNEY",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-02-17T00:00:00+00:00",
+        "to": "2009-08-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 2,
+                "year": 2006
+            },
+            "to": {
+                "day": 17,
+                "month": 8,
+                "year": 2009
+            }
+        },
+        "string": "Feb 17, 2006 to Aug 17, 2009"
+    },
+    "score": 7.16,
+    "scored": 7.16,
+    "scored_by": 948,
+    "rank": null,
+    "popularity": 8410,
+    "members": 2404,
+    "favorites": 34,
+    "synopsis": "Sanzou is on a journey, he has to travel to India to retrieve the holy sutras. Along the way, he happens to free Goku, a sex-addicted monkey sealed by Buddha. Together they travel to the west.\n\nBased on \"Journey to the West.\"\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2004,
+            "type": "people",
+            "name": "Zappa, Gou",
+            "url": "https://myanimelist.net/people/2004/Gou_Zappa"
+        },
+        {
+            "mal_id": 5410,
+            "type": "people",
+            "name": "Po-ju",
+            "url": "https://myanimelist.net/people/5410/Po-ju"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 404,
+            "type": "manga",
+            "name": "Comic Megastore",
+            "url": "https://myanimelist.net/manga/magazine/404/Comic_Megastore"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        },
+        {
+            "mal_id": 12,
+            "type": "manga",
+            "name": "Hentai",
+            "url": "https://myanimelist.net/manga/genre/12/Hentai"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 32016,
+                    "type": "anime",
+                    "name": "Secret Journey",
+                    "url": "https://myanimelist.net/anime/32016/Secret_Journey"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

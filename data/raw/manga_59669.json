@@ -1,0 +1,145 @@
+{
+    "mal_id": 59669,
+    "url": "https://myanimelist.net/manga/59669/Steins_Gate__Eigou_Kaiki_no_Pandora",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/175916.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/175916t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/175916l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/175916.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/175916t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/175916l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Steins;Gate: Eigou Kaiki no Pandora"
+        },
+        {
+            "type": "Synonym",
+            "title": "Steins,Gate: Pandora of Eternal Return"
+        },
+        {
+            "type": "Japanese",
+            "title": "STEINS;GATE 永劫回帰のパンドラ"
+        }
+    ],
+    "title": "Steins;Gate: Eigou Kaiki no Pandora",
+    "title_english": null,
+    "title_japanese": "STEINS;GATE 永劫回帰のパンドラ",
+    "title_synonyms": [
+        "Steins,Gate: Pandora of Eternal Return"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "2014-05-23T00:00:00+00:00",
+        "to": "2015-04-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 5,
+                "year": 2014
+            },
+            "to": {
+                "day": 24,
+                "month": 4,
+                "year": 2015
+            }
+        },
+        "string": "May 23, 2014 to Apr 24, 2015"
+    },
+    "score": 7.94,
+    "scored": 7.94,
+    "scored_by": 586,
+    "rank": 892,
+    "popularity": 6128,
+    "members": 3508,
+    "favorites": 13,
+    "synopsis": "The second part of the Steins;Gate Epigraph Trilogy, a continuation of Heiji Kyokusen no Epigraph.",
+    "background": "Steins;Gate: Eigou Kaiki no Pandora is a reboot of the manga by Yoshida Tadayasu.",
+    "authors": [
+        {
+            "mal_id": 25857,
+            "type": "people",
+            "name": "Takimoto, Masashi",
+            "url": "https://myanimelist.net/people/25857/Masashi_Takimoto"
+        },
+        {
+            "mal_id": 32623,
+            "type": "people",
+            "name": "Torikai, Yasuyuki",
+            "url": "https://myanimelist.net/people/32623/Yasuyuki_Torikai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 532,
+            "type": "manga",
+            "name": "Famitsu Comic Clear",
+            "url": "https://myanimelist.net/manga/magazine/532/Famitsu_Comic_Clear"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 49381,
+                    "type": "manga",
+                    "name": "Steins;Gate: Heiji Kyokusen no Epigraph",
+                    "url": "https://myanimelist.net/manga/49381/Steins_Gate__Heiji_Kyokusen_no_Epigraph"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 17517,
+                    "type": "manga",
+                    "name": "Steins;Gate",
+                    "url": "https://myanimelist.net/manga/17517/Steins_Gate"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.famitsu.com/comic_clear/se_sg_pandora/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/STEINS;GATE"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Steins;Gate"
+        }
+    ]
+}

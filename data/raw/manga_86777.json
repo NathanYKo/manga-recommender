@@ -1,0 +1,111 @@
+{
+    "mal_id": 86777,
+    "url": "https://myanimelist.net/manga/86777/Seirou_Opera",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166673.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166673t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166673l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166673.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166673t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166673l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Seirou Opera"
+        },
+        {
+            "type": "Synonym",
+            "title": "Brothel Opera"
+        },
+        {
+            "type": "Japanese",
+            "title": "青楼オペラ"
+        }
+    ],
+    "title": "Seirou Opera",
+    "title_english": null,
+    "title_japanese": "青楼オペラ",
+    "title_synonyms": [
+        "Brothel Opera"
+    ],
+    "type": "Manga",
+    "chapters": 58,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-01-13T00:00:00+00:00",
+        "to": "2019-11-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 13,
+                "month": 11,
+                "year": 2019
+            }
+        },
+        "string": "Jan 13, 2015 to Nov 13, 2019"
+    },
+    "score": 7.53,
+    "scored": 7.53,
+    "scored_by": 755,
+    "rank": 2772,
+    "popularity": 6002,
+    "members": 3583,
+    "favorites": 33,
+    "synopsis": "Set in the Yoshiwara pleasure quarters during the Edo period of Japan. Akane, the daughter of a samurai family, has lost all of her living relatives and has to sell herself to a brothel. A courtesan of that brothel tells her to go attract a customer, and as a result she ends up getting involved with a strange man who asks the brothel to buy her freedom...\n\n(Source: Clairparfait)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2548,
+            "type": "people",
+            "name": "Sakurakouji, Kanoko",
+            "url": "https://myanimelist.net/people/2548/Kanoko_Sakurakouji"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

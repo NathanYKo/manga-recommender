@@ -1,0 +1,142 @@
+{
+    "mal_id": 122464,
+    "url": "https://myanimelist.net/manga/122464/Dr_Stone_Reboot__Byakuya",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/227742.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/227742t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/227742l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/227742.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/227742t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/227742l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dr. Stone Reboot: Byakuya"
+        },
+        {
+            "type": "Japanese",
+            "title": "Dr.STONE reboot：百夜"
+        },
+        {
+            "type": "English",
+            "title": "Dr. Stone Reboot: Byakuya"
+        }
+    ],
+    "title": "Dr. Stone Reboot: Byakuya",
+    "title_english": "Dr. Stone Reboot: Byakuya",
+    "title_japanese": "Dr.STONE reboot：百夜",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-10-28T00:00:00+00:00",
+        "to": "2019-12-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 10,
+                "year": 2019
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2019
+            }
+        },
+        "string": "Oct 28, 2019 to Dec 23, 2019"
+    },
+    "score": 7.75,
+    "scored": 7.75,
+    "scored_by": 9457,
+    "rank": 1514,
+    "popularity": 1169,
+    "members": 17342,
+    "favorites": 139,
+    "synopsis": "What did humanity's final astronaut, Byakuya Ishigami, do when he saw everyone on earth turn to stone from the international space station? A special side story written and drawn by Boichi Sensei himself! The first simultaneous series and side story serialization in Weekly Shonen Jump history!\n\n(Source: MANGA Plus)",
+    "background": "Dr. Stone Reboot: Byakuya was simulpub in English through MANGA Plus service. It was published in English by VIZ Media under the Shonen Jump imprint on March 2, 2021.",
+    "authors": [
+        {
+            "mal_id": 1902,
+            "type": "people",
+            "name": "Inagaki, Riichiro",
+            "url": "https://myanimelist.net/people/1902/Riichiro_Inagaki"
+        },
+        {
+            "mal_id": 3537,
+            "type": "people",
+            "name": "Boichi",
+            "url": "https://myanimelist.net/people/3537/Boichi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 29,
+            "type": "manga",
+            "name": "Space",
+            "url": "https://myanimelist.net/manga/genre/29/Space"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 103897,
+                    "type": "manga",
+                    "name": "Dr. Stone",
+                    "url": "https://myanimelist.net/manga/103897/Dr_Stone"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.shonenjump.com/j/rensai/drstone-re.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/Dr.STONE"
+        }
+    ]
+}

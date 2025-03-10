@@ -1,0 +1,134 @@
+{
+    "mal_id": 77247,
+    "url": "https://myanimelist.net/manga/77247/Kichikujima",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/133709.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/133709t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/133709l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/133709.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/133709t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/133709l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kichikujima"
+        },
+        {
+            "type": "Japanese",
+            "title": "鬼畜島"
+        },
+        {
+            "type": "English",
+            "title": "Freak Island"
+        }
+    ],
+    "title": "Kichikujima",
+    "title_english": "Freak Island",
+    "title_japanese": "鬼畜島",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 24,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-12-26T00:00:00+00:00",
+        "to": "2022-09-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 12,
+                "year": 2013
+            },
+            "to": {
+                "day": 12,
+                "month": 9,
+                "year": 2022
+            }
+        },
+        "string": "Dec 26, 2013 to Sep 12, 2022"
+    },
+    "score": 5.58,
+    "scored": 5.58,
+    "scored_by": 3180,
+    "rank": 20300,
+    "popularity": 1744,
+    "members": 12419,
+    "favorites": 75,
+    "synopsis": "Kichikujima is an unknown island that is inhabited by a bloodthirsty, mutant family. Anyone who happens to stumble upon the island either gets brutally murdered by the freaky family, or becomes a mutant to survive.\n\nA group of university students were vacationing on the water as they came upon an unknown island with a man sitting next to a fire. In an attempt to save him one student leaps to his rescue, only to be brutally slaughtered. In shock, the other students frantically seek a way to save their friend, not realizing the dangerous waters below would leave the students stranded with inhuman savages. They soon began to flee into the depths of the island, not knowing what true horror awaits.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2896,
+            "type": "people",
+            "name": "Hokazono, Masaya",
+            "url": "https://myanimelist.net/people/2896/Masaya_Hokazono"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1540,
+            "type": "manga",
+            "name": "LINE Manga",
+            "url": "https://myanimelist.net/manga/magazine/1540/LINE_Manga"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 120326,
+                    "type": "manga",
+                    "name": "Zoumotsujima",
+                    "url": "https://myanimelist.net/manga/120326/Zoumotsujima"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 154971,
+                    "type": "manga",
+                    "name": "Kichikujima: Dust Emperor",
+                    "url": "https://myanimelist.net/manga/154971/Kichikujima__Dust_Emperor"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 145505,
+                    "type": "manga",
+                    "name": "Koisuru Kichikujima",
+                    "url": "https://myanimelist.net/manga/145505/Koisuru_Kichikujima"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/鬼畜島"
+        }
+    ]
+}

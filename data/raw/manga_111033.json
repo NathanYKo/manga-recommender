@@ -1,0 +1,133 @@
+{
+    "mal_id": 111033,
+    "url": "https://myanimelist.net/manga/111033/Soukyuu_no_Ariadne",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/209182.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/209182t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/209182l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/209182.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/209182t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/209182l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Soukyuu no Ariadne"
+        },
+        {
+            "type": "Japanese",
+            "title": "蒼穹のアリアドネ"
+        },
+        {
+            "type": "English",
+            "title": "Ariadne in the Blue Sky."
+        }
+    ],
+    "title": "Soukyuu no Ariadne",
+    "title_english": "Ariadne in the Blue Sky.",
+    "title_japanese": "蒼穹のアリアドネ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 217,
+    "volumes": 22,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-12-06T00:00:00+00:00",
+        "to": "2023-02-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 12,
+                "year": 2017
+            },
+            "to": {
+                "day": 9,
+                "month": 2,
+                "year": 2023
+            }
+        },
+        "string": "Dec 6, 2017 to Feb 9, 2023"
+    },
+    "score": 6.73,
+    "scored": 6.73,
+    "scored_by": 1218,
+    "rank": 13332,
+    "popularity": 3830,
+    "members": 5854,
+    "favorites": 17,
+    "synopsis": "The manga centers around a certain boy who lives alone away from people, but harbors a special dream. One day, he meets a lone girl, and the story begins as he becomes part of the girl's destiny.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2517,
+            "type": "people",
+            "name": "Yagi, Norihiro",
+            "url": "https://myanimelist.net/people/2517/Norihiro_Yagi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1410,
+            "type": "manga",
+            "name": "Sunday Webry",
+            "url": "https://myanimelist.net/manga/magazine/1410/Sunday_Webry"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 105110,
+                    "type": "manga",
+                    "name": "Gekkou no Arcadia",
+                    "url": "https://myanimelist.net/manga/105110/Gekkou_no_Arcadia"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.sunday-webry.com/episode/3269754496548997946"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ariadne_in_the_Blue_Sky"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/蒼穹のアリアドネ"
+        }
+    ]
+}

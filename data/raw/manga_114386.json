@@ -1,0 +1,128 @@
+{
+    "mal_id": 114386,
+    "url": "https://myanimelist.net/manga/114386/Black_Clover",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/224262.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/224262t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/224262l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/224262.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/224262t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/224262l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Black Clover"
+        },
+        {
+            "type": "Synonym",
+            "title": "Black Clover One-Shot"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブラック・クローバー"
+        }
+    ],
+    "title": "Black Clover",
+    "title_english": null,
+    "title_japanese": "ブラック・クローバー",
+    "title_synonyms": [
+        "Black Clover One-Shot"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-05-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 5,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 7, 2014"
+    },
+    "score": 6.81,
+    "scored": 6.81,
+    "scored_by": 1162,
+    "rank": 12041,
+    "popularity": 8139,
+    "members": 2506,
+    "favorites": 151,
+    "synopsis": "The prototype one-shot of Black Clover.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 15063,
+            "type": "people",
+            "name": "Tabata, Yuuki",
+            "url": "https://myanimelist.net/people/15063/Yuuki_Tabata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 548,
+            "type": "manga",
+            "name": "Shounen Jump NEXT!",
+            "url": "https://myanimelist.net/manga/magazine/548/Shounen_Jump_NEXT"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 86337,
+                    "type": "manga",
+                    "name": "Black Clover",
+                    "url": "https://myanimelist.net/manga/86337/Black_Clover"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

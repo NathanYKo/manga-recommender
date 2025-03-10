@@ -1,0 +1,117 @@
+{
+    "mal_id": 85247,
+    "url": "https://myanimelist.net/manga/85247/Seishun_Note",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/158497.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/158497t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/158497l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/158497.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/158497t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/158497l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Seishun Note"
+        },
+        {
+            "type": "Synonym",
+            "title": "Youth Note"
+        },
+        {
+            "type": "Japanese",
+            "title": "セイシュンノート"
+        }
+    ],
+    "title": "Seishun Note",
+    "title_english": null,
+    "title_japanese": "セイシュンノート",
+    "title_synonyms": [
+        "Youth Note"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-11-13T00:00:00+00:00",
+        "to": "2015-06-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 11,
+                "year": 2014
+            },
+            "to": {
+                "day": 13,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Nov 13, 2014 to Jun 13, 2015"
+    },
+    "score": 6.99,
+    "scored": 6.99,
+    "scored_by": 991,
+    "rank": 9225,
+    "popularity": 7682,
+    "members": 2683,
+    "favorites": 6,
+    "synopsis": "Due to changing schools constantly, Hime has been unable to make any friends. Now, at a brand new school, Hime sets out to celebrate her youth and live a dream high school life.\n\n(Source: Batoto)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 21663,
+            "type": "people",
+            "name": "Ayase, Umi",
+            "url": "https://myanimelist.net/people/21663/Umi_Ayase"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Bessatsu Margaret",
+            "url": "https://myanimelist.net/manga/magazine/53/Bessatsu_Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

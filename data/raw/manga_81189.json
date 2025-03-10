@@ -1,0 +1,180 @@
+{
+    "mal_id": 81189,
+    "url": "https://myanimelist.net/manga/81189/Renai_Ruby_no_Tadashii_Furikata",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/165378.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/165378t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/165378l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/165378.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/165378t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/165378l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Renai Ruby no Tadashii Furikata"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Proper Way to Write Love"
+        },
+        {
+            "type": "Synonym",
+            "title": "Renai-rubi no Tadashii Furikata"
+        },
+        {
+            "type": "Synonym",
+            "title": "Renai Ruby no Yarashii Furikata"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hodokeru Kaibutsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Monster Sugar"
+        },
+        {
+            "type": "Japanese",
+            "title": "恋愛ルビの正しいふりかた"
+        }
+    ],
+    "title": "Renai Ruby no Tadashii Furikata",
+    "title_english": null,
+    "title_japanese": "恋愛ルビの正しいふりかた",
+    "title_synonyms": [
+        "The Proper Way to Write Love",
+        "Renai-rubi no Tadashii Furikata",
+        "Renai Ruby no Yarashii Furikata",
+        "Hodokeru Kaibutsu",
+        "Monster Sugar"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-03-14T00:00:00+00:00",
+        "to": "2015-01-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 3,
+                "year": 2014
+            },
+            "to": {
+                "day": 30,
+                "month": 1,
+                "year": 2015
+            }
+        },
+        "string": "Mar 14, 2014 to Jan 30, 2015"
+    },
+    "score": 7.63,
+    "scored": 7.63,
+    "scored_by": 4341,
+    "rank": null,
+    "popularity": 2132,
+    "members": 10112,
+    "favorites": 71,
+    "synopsis": "1-2. Renai Ruby no Tadashii Furikata\n3. Renai Ruby no Yarashii Furikata\n4-5. Hodokeru Kaibutsu\n6. Monster Sugar",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 34943,
+            "type": "people",
+            "name": "Ogeretsu, Tanaka",
+            "url": "https://myanimelist.net/people/34943/Tanaka_Ogeretsu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 99,
+            "type": "manga",
+            "name": "Dear+",
+            "url": "https://myanimelist.net/manga/magazine/99/Dear_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35746,
+                    "type": "anime",
+                    "name": "6 Lovers",
+                    "url": "https://myanimelist.net/anime/35746/6_Lovers"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 97034,
+                    "type": "manga",
+                    "name": "Narrow: Place Collection",
+                    "url": "https://myanimelist.net/manga/97034/Narrow__Place_Collection"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 88314,
+                    "type": "manga",
+                    "name": "Sabita Yoru demo Koi wa Sasayaku",
+                    "url": "https://myanimelist.net/manga/88314/Sabita_Yoru_demo_Koi_wa_Sasayaku"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 94696,
+                    "type": "manga",
+                    "name": "Hadakeru Kaibutsu",
+                    "url": "https://myanimelist.net/manga/94696/Hadakeru_Kaibutsu"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

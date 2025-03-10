@@ -1,0 +1,143 @@
+{
+    "mal_id": 21600,
+    "url": "https://myanimelist.net/manga/21600/G-Maru_Edition",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/70733.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/70733t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/70733l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/70733.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/70733t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/70733l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "G-Maru Edition"
+        },
+        {
+            "type": "Synonym",
+            "title": "(G) Edition"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ⓖ Edition"
+        },
+        {
+            "type": "Japanese",
+            "title": "ジーまるえでぃしょん"
+        }
+    ],
+    "title": "G-Maru Edition",
+    "title_english": null,
+    "title_japanese": "ジーまるえでぃしょん",
+    "title_synonyms": [
+        "(G) Edition",
+        "Ⓖ Edition"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-05-19T00:00:00+00:00",
+        "to": "2012-12-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 5,
+                "year": 2010
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "May 19, 2010 to Dec 19, 2012"
+    },
+    "score": 6.34,
+    "scored": 6.34,
+    "scored_by": 1681,
+    "rank": 18140,
+    "popularity": 5448,
+    "members": 3997,
+    "favorites": 14,
+    "synopsis": "Kaburagi Aruto, an average high school student, wishes to become a Shoujo manga artist. One day, she is visited by something from the future. He tells her that she now has to become an amazing ero-manga artist.",
+    "background": "G-Maru Edition was published in Italian by Panini Comics under the Planet Manga imprint from November 15, 2014 to January 17, 2015.",
+    "authors": [
+        {
+            "mal_id": 1905,
+            "type": "people",
+            "name": "Kawashita, Mizuki",
+            "url": "https://myanimelist.net/people/1905/Mizuki_Kawashita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 484,
+            "type": "manga",
+            "name": "Jump SQ.19",
+            "url": "https://myanimelist.net/manga/magazine/484/Jump_SQ19"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://jumpsq.shueisha.co.jp/rensai/gmaru/index.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%28G%29%E3%81%88%E3%81%A7%E3%81%83%E3%81%97%E3%82%87%E3%82%93"
+        }
+    ]
+}

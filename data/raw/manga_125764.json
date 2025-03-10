@@ -1,0 +1,153 @@
+{
+    "mal_id": 125764,
+    "url": "https://myanimelist.net/manga/125764/Shuumatsu_no_Walküre__Lu_Bu_Housen_Hishouden",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/228927.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/228927t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/228927l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/228927.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/228927t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/228927l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shuumatsu no Walküre: Lu Bu Housen Hishouden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shuumatsu no Valkyrie: Ryo Fu Housen Hishouden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Record of Ragnarok: The Legend of Lu Bu Fengxiang"
+        },
+        {
+            "type": "Japanese",
+            "title": "終末のワルキューレ異聞 呂布奉先飛将伝"
+        },
+        {
+            "type": "English",
+            "title": "The Legend of Lu Bu"
+        }
+    ],
+    "title": "Shuumatsu no Walküre: Lu Bu Housen Hishouden",
+    "title_english": "The Legend of Lu Bu",
+    "title_japanese": "終末のワルキューレ異聞 呂布奉先飛将伝",
+    "title_synonyms": [
+        "Shuumatsu no Valkyrie: Ryo Fu Housen Hishouden",
+        "Record of Ragnarok: The Legend of Lu Bu Fengxiang"
+    ],
+    "type": "Manga",
+    "chapters": 29,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-10-25T00:00:00+00:00",
+        "to": "2022-11-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 10,
+                "year": 2019
+            },
+            "to": {
+                "day": 25,
+                "month": 11,
+                "year": 2022
+            }
+        },
+        "string": "Oct 25, 2019 to Nov 25, 2022"
+    },
+    "score": 7.13,
+    "scored": 7.13,
+    "scored_by": 992,
+    "rank": 7124,
+    "popularity": 7067,
+    "members": 2973,
+    "favorites": 25,
+    "synopsis": "The ultimate Shuumatsu no Walküre spin-off!! Lu Bu was the first to fight for the mortals in the final battle between god and man, Ragnarok. The legends of his martial prowess are portrayed in this Three Kingdoms Wuxia story!\n\n(Source: Coamix, edited)",
+    "background": "Shuumatsu no Walküre: Lu Bu Housen Hishouden has been published digitally in English as The Legend of Lu Bu by Coamix through Manga Hot.",
+    "authors": [
+        {
+            "mal_id": 10563,
+            "type": "people",
+            "name": "Fukui, Takumi",
+            "url": "https://myanimelist.net/people/10563/Takumi_Fukui"
+        },
+        {
+            "mal_id": 22491,
+            "type": "people",
+            "name": "Umemura, Shinya",
+            "url": "https://myanimelist.net/people/22491/Shinya_Umemura"
+        },
+        {
+            "mal_id": 38885,
+            "type": "people",
+            "name": "Ono, Takeo",
+            "url": "https://myanimelist.net/people/38885/Takeo_Ono"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 719,
+            "type": "manga",
+            "name": "Comic Zenon",
+            "url": "https://myanimelist.net/manga/magazine/719/Comic_Zenon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 110485,
+                    "type": "manga",
+                    "name": "Shuumatsu no Walküre",
+                    "url": "https://myanimelist.net/manga/110485/Shuumatsu_no_Walküre"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-zenon.com/episode/10834108156717158306"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%B5%82%E6%9C%AB%E3%81%AE%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC"
+        }
+    ]
+}

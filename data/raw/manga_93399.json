@@ -1,0 +1,177 @@
+{
+    "mal_id": 93399,
+    "url": "https://myanimelist.net/manga/93399/Konohana_Kitan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165035.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165035t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165035l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165035.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165035t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165035l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Konohana Kitan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fox Spirit Tales"
+        },
+        {
+            "type": "Japanese",
+            "title": "このはな綺譚"
+        },
+        {
+            "type": "English",
+            "title": "Konohana Kitan"
+        }
+    ],
+    "title": "Konohana Kitan",
+    "title_english": "Konohana Kitan",
+    "title_japanese": "このはな綺譚",
+    "title_synonyms": [
+        "Fox Spirit Tales"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-12-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 12,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 29, 2014 to ?"
+    },
+    "score": 7.5,
+    "scored": 7.5,
+    "scored_by": 366,
+    "rank": 3006,
+    "popularity": 6920,
+    "members": 3051,
+    "favorites": 64,
+    "synopsis": "Konohana Kitan is the heartwarming story of a new apprentice named Yuzu, and the other fox girls who work at a hot spring hotel called Konohatei. The staff at Konohatei live by one belief: no matter who one may truly be, no matter what, anyone who is a guest is a god. Of course, that includes you. Let the hospitality of Yuzu and the Konohatei heal your tired soul.\n\n(Source: Tokyopop)",
+    "background": "Konohana Kitan has been published in English by Tokyopop since July 24, 2018.",
+    "authors": [
+        {
+            "mal_id": 3514,
+            "type": "people",
+            "name": "Amano, Sakuya",
+            "url": "https://myanimelist.net/people/3514/Sakuya_Amano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 91,
+            "type": "manga",
+            "name": "Comic Birz",
+            "url": "https://myanimelist.net/manga/magazine/91/Comic_Birz"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 51,
+            "type": "manga",
+            "name": "Anthropomorphic",
+            "url": "https://myanimelist.net/manga/genre/51/Anthropomorphic"
+        },
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        },
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 24455,
+                    "type": "manga",
+                    "name": "Konohanatei Kitan",
+                    "url": "https://myanimelist.net/manga/24455/Konohanatei_Kitan"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35241,
+                    "type": "anime",
+                    "name": "Konohana Kitan",
+                    "url": "https://myanimelist.net/anime/35241/Konohana_Kitan"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Konohana_Kitan"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%AD%A4%E8%8A%B1%E4%BA%AD%E5%A5%87%E8%AD%9A"
+        }
+    ]
+}

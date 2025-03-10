@@ -1,0 +1,116 @@
+{
+    "mal_id": 106074,
+    "url": "https://myanimelist.net/manga/106074/Meshinuma",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/194264.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/194264t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/194264l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/194264.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/194264t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/194264l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Meshinuma."
+        },
+        {
+            "type": "Japanese",
+            "title": "めしぬま。"
+        }
+    ],
+    "title": "Meshinuma.",
+    "title_english": null,
+    "title_japanese": "めしぬま。",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-01-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 25, 2016 to ?"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 712,
+    "rank": 4367,
+    "popularity": 8404,
+    "members": 2406,
+    "favorites": 47,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 44865,
+            "type": "people",
+            "name": "Amidamuku",
+            "url": "https://myanimelist.net/people/44865/Amidamuku"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 719,
+            "type": "manga",
+            "name": "Comic Zenon",
+            "url": "https://myanimelist.net/manga/magazine/719/Comic_Zenon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 37904,
+                    "type": "anime",
+                    "name": "Meshinuma.",
+                    "url": "https://myanimelist.net/anime/37904/Meshinuma"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

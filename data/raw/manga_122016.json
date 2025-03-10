@@ -1,0 +1,110 @@
+{
+    "mal_id": 122016,
+    "url": "https://myanimelist.net/manga/122016/Madou_no_Keifu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/226391.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/226391t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/226391l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/226391.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/226391t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/226391l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Madou no Keifu"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔導の系譜"
+        },
+        {
+            "type": "English",
+            "title": "Truth Weavers"
+        }
+    ],
+    "title": "Madou no Keifu",
+    "title_english": "Truth Weavers",
+    "title_japanese": "魔導の系譜",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 32,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-09-25T00:00:00+00:00",
+        "to": "2023-10-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 9,
+                "year": 2019
+            },
+            "to": {
+                "day": 25,
+                "month": 10,
+                "year": 2023
+            }
+        },
+        "string": "Sep 25, 2019 to Oct 25, 2023"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 945,
+    "rank": 4381,
+    "popularity": 7307,
+    "members": 2849,
+    "favorites": 7,
+    "synopsis": "In the country of Lavarta, mages are oppressed and seen as filthy beings. Leon is a talented but rather weak mage. Zechs is an orphan boy with great innate magical talent. Their meeting will change their lives as well as the world around them.\n\n(Source: Mag Garden, translated)",
+    "background": "Madou no Keifu is an adaptation of Satou Sakura's novel of the same title.",
+    "authors": [
+        {
+            "mal_id": 50477,
+            "type": "people",
+            "name": "Satou, Sakura",
+            "url": "https://myanimelist.net/people/50477/Sakura_Satou"
+        },
+        {
+            "mal_id": 50478,
+            "type": "people",
+            "name": "Inuzuka, Hiro",
+            "url": "https://myanimelist.net/people/50478/Hiro_Inuzuka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1349,
+            "type": "manga",
+            "name": "MAGCOMI",
+            "url": "https://myanimelist.net/manga/magazine/1349/MAGCOMI"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magcomi.com/episode/10834108156763618258"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Madō_no_Keifu"
+        }
+    ]
+}

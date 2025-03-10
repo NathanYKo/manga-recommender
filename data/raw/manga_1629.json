@@ -1,0 +1,122 @@
+{
+    "mal_id": 1629,
+    "url": "https://myanimelist.net/manga/1629/Spider-Man",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/75931.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/75931t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/75931l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/75931.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/75931t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/75931l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Spider-Man"
+        },
+        {
+            "type": "Synonym",
+            "title": "Spiderman"
+        },
+        {
+            "type": "Japanese",
+            "title": "スパイダーマン"
+        }
+    ],
+    "title": "Spider-Man",
+    "title_english": null,
+    "title_japanese": "スパイダーマン",
+    "title_synonyms": [
+        "Spiderman"
+    ],
+    "type": "Manga",
+    "chapters": 21,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1970-01-01T00:00:00+00:00",
+        "to": "1971-09-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1970
+            },
+            "to": {
+                "day": 1,
+                "month": 9,
+                "year": 1971
+            }
+        },
+        "string": "Jan 1970 to Sep 1971"
+    },
+    "score": 6.14,
+    "scored": 6.14,
+    "scored_by": 665,
+    "rank": 19314,
+    "popularity": 8446,
+    "members": 2392,
+    "favorites": 22,
+    "synopsis": "A high school student named Komori Yuu is bitten by a radioactive spider, which gave him spider-like powers.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2201,
+            "type": "people",
+            "name": "Hirai, Kazumasa",
+            "url": "https://myanimelist.net/people/2201/Kazumasa_Hirai"
+        },
+        {
+            "mal_id": 2207,
+            "type": "people",
+            "name": "Ikegami, Ryouichi",
+            "url": "https://myanimelist.net/people/2207/Ryouichi_Ikegami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Shounen Magazine (Monthly)",
+            "url": "https://myanimelist.net/manga/magazine/48/Shounen_Magazine_Monthly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3"
+        }
+    ]
+}

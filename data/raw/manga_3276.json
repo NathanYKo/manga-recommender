@@ -1,0 +1,137 @@
+{
+    "mal_id": 3276,
+    "url": "https://myanimelist.net/manga/3276/Nanairo_Sekai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/13201.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/13201t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/13201l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/13201.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/13201t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/13201l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nanairo Sekai"
+        },
+        {
+            "type": "Synonym",
+            "title": "The World in Seven Colors"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Glasses Thief"
+        },
+        {
+            "type": "Synonym",
+            "title": "Convenience Store Honey"
+        },
+        {
+            "type": "Synonym",
+            "title": "Adult-Uniform"
+        },
+        {
+            "type": "Synonym",
+            "title": "Refrigerator Chocolate"
+        },
+        {
+            "type": "Japanese",
+            "title": "ナナイロセカイ"
+        }
+    ],
+    "title": "Nanairo Sekai",
+    "title_english": null,
+    "title_japanese": "ナナイロセカイ",
+    "title_synonyms": [
+        "The World in Seven Colors",
+        "The Glasses Thief",
+        "Convenience Store Honey",
+        "Adult-Uniform",
+        "Refrigerator Chocolate"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-11-28T00:00:00+00:00",
+        "to": "2006-02-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 11,
+                "year": 2005
+            },
+            "to": {
+                "day": 28,
+                "month": 2,
+                "year": 2006
+            }
+        },
+        "string": "Nov 28, 2005 to Feb 28, 2006"
+    },
+    "score": 7.77,
+    "scored": 7.77,
+    "scored_by": 3312,
+    "rank": 1448,
+    "popularity": 3606,
+    "members": 6241,
+    "favorites": 39,
+    "synopsis": "A series of one-shots that ran in Monthly Melody (before it became Melody).\n\n1. Megane Dorobou (The Glasses Thief)\n2. Conveni Honey (Convenience Store Honey); (Shounen Ai)\n3. Otona no Seifuku (Adult-Uniform)\n4. Reizouko ni Chocholate (Refrigerator Chocolate)\n\nNote: Stories 1 and 3 were collected in Bus Hashiru.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2867,
+            "type": "people",
+            "name": "Yumeka, Sumomo",
+            "url": "https://myanimelist.net/people/2867/Sumomo_Yumeka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 71,
+            "type": "manga",
+            "name": "Melody",
+            "url": "https://myanimelist.net/manga/magazine/71/Melody"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,117 @@
+{
+    "mal_id": 1934,
+    "url": "https://myanimelist.net/manga/1934/Netsutai_no_Citron",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/22594.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/22594t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/22594l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/22594.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/22594t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/22594l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Netsutai no Citron"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tropical Citron"
+        },
+        {
+            "type": "Japanese",
+            "title": "熱帯のシトロン"
+        }
+    ],
+    "title": "Netsutai no Citron",
+    "title_english": null,
+    "title_japanese": "熱帯のシトロン",
+    "title_synonyms": [
+        "Tropical Citron"
+    ],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2001"
+    },
+    "score": 6.73,
+    "scored": 6.73,
+    "scored_by": 1980,
+    "rank": 13311,
+    "popularity": 4033,
+    "members": 5579,
+    "favorites": 45,
+    "synopsis": "A coming-of-age story from Jiro Matsumoto (the author of Freesia) about a young, aspiring photographer named Soma. He's going nowhere, stuck in a mire of sex and drugs, until a horrible end to a one night stand sets him on a path that changes his life forever.\n\nWARNING: Mature content. Do not be surprised if you come across disturbing imagery.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2845,
+            "type": "people",
+            "name": "Matsumoto, Jiro",
+            "url": "https://myanimelist.net/people/2845/Jiro_Matsumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 408,
+            "type": "manga",
+            "name": "Manga Erotics F",
+            "url": "https://myanimelist.net/manga/magazine/408/Manga_Erotics_F"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

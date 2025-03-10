@@ -1,0 +1,110 @@
+{
+    "mal_id": 3322,
+    "url": "https://myanimelist.net/manga/3322/PositioN",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/86083.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/86083t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/86083l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/86083.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/86083t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/86083l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "PositioN"
+        },
+        {
+            "type": "Japanese",
+            "title": "PositioN -ポジション-"
+        }
+    ],
+    "title": "PositioN",
+    "title_english": null,
+    "title_japanese": "PositioN -ポジション-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-10-08T00:00:00+00:00",
+        "to": "2004-03-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 1999
+            },
+            "to": {
+                "day": 1,
+                "month": 3,
+                "year": 2004
+            }
+        },
+        "string": "Oct 8, 1999 to Mar 2004"
+    },
+    "score": 6.67,
+    "scored": 6.67,
+    "scored_by": 1241,
+    "rank": 14253,
+    "popularity": 7879,
+    "members": 2607,
+    "favorites": 5,
+    "synopsis": "This manga is about the every day occurrences in Sukiya Keiko's not all that ordinary life. From meeting a person that can fly to being all alone in the world she experiences things beyond and within your average day.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1869,
+            "type": "people",
+            "name": "Ashinano, Hitoshi",
+            "url": "https://myanimelist.net/people/1869/Hitoshi_Ashinano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1550,
+            "type": "manga",
+            "name": "Afternoon Season Zoukan",
+            "url": "https://myanimelist.net/manga/magazine/1550/Afternoon_Season_Zoukan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

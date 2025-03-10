@@ -1,0 +1,141 @@
+{
+    "mal_id": 76965,
+    "url": "https://myanimelist.net/manga/76965/Higurashi_no_Naku_Koro_ni_-_Dai_1-wa__Onikakushi-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/286726.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/286726t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/286726l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/286726.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/286726t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/286726l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Higurashi no Naku Koro ni - Dai 1-wa: Onikakushi-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Higurashi WHEN THEY CRY: Abducted by Demons Arc"
+        },
+        {
+            "type": "Synonym",
+            "title": "When They Cry Episode 1 Demoned Away Arc"
+        },
+        {
+            "type": "Japanese",
+            "title": "ひぐらしのなく頃に 第一話~鬼隠し編~"
+        }
+    ],
+    "title": "Higurashi no Naku Koro ni - Dai 1-wa: Onikakushi-hen",
+    "title_english": null,
+    "title_japanese": "ひぐらしのなく頃に 第一話~鬼隠し編~",
+    "title_synonyms": [
+        "Higurashi WHEN THEY CRY: Abducted by Demons Arc",
+        "When They Cry Episode 1 Demoned Away Arc"
+    ],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-08-02T00:00:00+00:00",
+        "to": "2007-09-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 8,
+                "year": 2007
+            },
+            "to": {
+                "day": 4,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "Aug 2, 2007 to Sep 4, 2007"
+    },
+    "score": 8.08,
+    "scored": 8.08,
+    "scored_by": 855,
+    "rank": 621,
+    "popularity": 8718,
+    "members": 2299,
+    "favorites": 149,
+    "synopsis": "After recently moving to the rural village called Hinamizawa, Maebara Keiichi joins a club and makes new friends. He soon learns about the village's dark secret, Oyashiro-sama's curse, where one person dies, and one person disappears every year, and he also learns that his friends might be behind it...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5092,
+            "type": "people",
+            "name": "Ryukishi07",
+            "url": "https://myanimelist.net/people/5092/Ryukishi07"
+        },
+        {
+            "mal_id": 29057,
+            "type": "people",
+            "name": "Tomohi",
+            "url": "https://myanimelist.net/people/29057/Tomohi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 77463,
+                    "type": "manga",
+                    "name": "Higurashi no Naku Koro ni - Dai 2-wa: Watanagashi-hen",
+                    "url": "https://myanimelist.net/manga/77463/Higurashi_no_Naku_Koro_ni_-_Dai_2-wa__Watanagashi-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 1257,
+                    "type": "manga",
+                    "name": "Higurashi no Naku Koro ni: Onikakushi-hen",
+                    "url": "https://myanimelist.net/manga/1257/Higurashi_no_Naku_Koro_ni__Onikakushi-hen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB_%E9%AC%BC%E9%9A%A0%E3%81%97%E7%B7%A8"
+        }
+    ]
+}

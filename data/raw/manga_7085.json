@@ -1,0 +1,121 @@
+{
+    "mal_id": 7085,
+    "url": "https://myanimelist.net/manga/7085/Aoi_Destruction",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/9493.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/9493t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/9493l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/9493.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/9493t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/9493l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Aoi Destruction!"
+        },
+        {
+            "type": "Japanese",
+            "title": "葵DESTRUCTION!"
+        },
+        {
+            "type": "English",
+            "title": "Aoi Destruction!"
+        }
+    ],
+    "title": "Aoi Destruction!",
+    "title_english": "Aoi Destruction!",
+    "title_japanese": "葵DESTRUCTION!",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-04-01T00:00:00+00:00",
+        "to": "2007-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "Apr 2007 to 2007"
+    },
+    "score": 6.89,
+    "scored": 6.89,
+    "scored_by": 1563,
+    "rank": 10754,
+    "popularity": 7483,
+    "members": 2769,
+    "favorites": 4,
+    "synopsis": "Aoi Destruction is a compilation of short storied by Kazurou Inoue (Midori no Hibi and Aikora).\n\nThe first 3 chapters are dedicated to the title story (Aoi Destruction). Which continues the adventures of Samejima, Tetsuo and his trap father Aoi from Midori no Hibi.\n\nStory 2 is \"Koshoten Yakou Funsenki\" (古書店夜光奮戦記- Rare Bookshop Owner Yakou's Hard-Fighting Chronicles).\"\n\nStory 3 is \"Full Scratch Eiji (フルスクラッチ・エイジ)\", about a boy who tries to get away from his otaku past.\n\nStory 4 is \"Otone no Naisho (音禰のないしょ - Otone's Predicament)\", a story about a young samurai girl who finds herself the owner of a perverted possessed katana.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2541,
+            "type": "people",
+            "name": "Inoue, Kazurou",
+            "url": "https://myanimelist.net/people/2541/Kazurou_Inoue"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 572,
+                    "type": "manga",
+                    "name": "Midori no Hibi",
+                    "url": "https://myanimelist.net/manga/572/Midori_no_Hibi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

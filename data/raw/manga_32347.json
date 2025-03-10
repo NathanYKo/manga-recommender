@@ -1,0 +1,107 @@
+{
+    "mal_id": 32347,
+    "url": "https://myanimelist.net/manga/32347/JoJos_Bizarre_Adventure__Over_Heaven",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/270480.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/270480t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/270480l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/270480.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/270480t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/270480l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "JoJo's Bizarre Adventure: Over Heaven"
+        },
+        {
+            "type": "Japanese",
+            "title": "JOJO'S BIZARRE ADVENTURE OVER HEAVEN"
+        }
+    ],
+    "title": "JoJo's Bizarre Adventure: Over Heaven",
+    "title_english": null,
+    "title_japanese": "JOJO'S BIZARRE ADVENTURE OVER HEAVEN",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 82,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-12-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 12,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 16, 2011"
+    },
+    "score": 7.8,
+    "scored": 7.8,
+    "scored_by": 3066,
+    "rank": 1326,
+    "popularity": 1877,
+    "members": 11547,
+    "favorites": 138,
+    "synopsis": "A novel centered on Dio.",
+    "background": "JoJo's Bizarre Adventure: Over Heaven was one of three novels released in celebration of the 25th anniversary of the JoJo no Kimyou na Bouken series.",
+    "authors": [
+        {
+            "mal_id": 2619,
+            "type": "people",
+            "name": "Araki, Hirohiko",
+            "url": "https://myanimelist.net/people/2619/Hirohiko_Araki"
+        },
+        {
+            "mal_id": 5254,
+            "type": "people",
+            "name": "NISIO, ISIN",
+            "url": "https://myanimelist.net/people/5254/ISIN_NISIO"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 872,
+                    "type": "manga",
+                    "name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+                    "url": "https://myanimelist.net/manga/872/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/JOJO%27S_BIZARRE_ADVENTURE_OVER_HEAVEN"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "mal_id": 42879,
+    "url": "https://myanimelist.net/manga/42879/Hana_to_Rakurai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/88999.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/88999t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/88999l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/88999.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/88999t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/88999l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hana to Rakurai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Flower and Thunderbolt"
+        },
+        {
+            "type": "Japanese",
+            "title": "花と落雷"
+        }
+    ],
+    "title": "Hana to Rakurai",
+    "title_english": null,
+    "title_japanese": "花と落雷",
+    "title_synonyms": [
+        "Flower and Thunderbolt"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-09-13T00:00:00+00:00",
+        "to": "2013-04-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 9,
+                "year": 2012
+            },
+            "to": {
+                "day": 13,
+                "month": 4,
+                "year": 2013
+            }
+        },
+        "string": "Sep 13, 2012 to Apr 13, 2013"
+    },
+    "score": 7.56,
+    "scored": 7.56,
+    "scored_by": 2307,
+    "rank": 2542,
+    "popularity": 3590,
+    "members": 6263,
+    "favorites": 31,
+    "synopsis": "The story centers on Umiho, a high school girl who has a crush on schoolmate Namose, a boy from a different class whom Umiho manages to meet through an integrated math class. Because Namose is often busy with club work, he always uses Umiho's notes to study, and she falls in love with him after spending time together. But after Namose drops out of the class due to bad grades and they are separated, Umiho is saddened. At that point, she meets and befriends Yachiyo, a girl who supports Umiho in pursuing a relationship with Namose.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 15793,
+            "type": "people",
+            "name": "Watanabe, Kana",
+            "url": "https://myanimelist.net/people/15793/Kana_Watanabe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Bessatsu Margaret",
+            "url": "https://myanimelist.net/manga/magazine/53/Bessatsu_Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://betsuma.shueisha.co.jp/lineup/hanato_rakurai.html"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "mal_id": 114760,
+    "url": "https://myanimelist.net/manga/114760/Shokugeki_no_Sanji",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/265963.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/265963t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/265963l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/265963.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/265963t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/265963l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shokugeki no Sanji"
+        },
+        {
+            "type": "Synonym",
+            "title": "Food Wars! Shokugeki no Sanji"
+        },
+        {
+            "type": "Japanese",
+            "title": "食戟のサンジ"
+        },
+        {
+            "type": "English",
+            "title": "One Piece: Shokugeki no Sanji"
+        }
+    ],
+    "title": "Shokugeki no Sanji",
+    "title_english": "One Piece: Shokugeki no Sanji",
+    "title_japanese": "食戟のサンジ",
+    "title_synonyms": [
+        "Food Wars! Shokugeki no Sanji"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-07-23T00:00:00+00:00",
+        "to": "2022-07-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 25,
+                "month": 7,
+                "year": 2022
+            }
+        },
+        "string": "Jul 23, 2018 to Jul 25, 2022"
+    },
+    "score": 7.12,
+    "scored": 7.12,
+    "scored_by": 6424,
+    "rank": 7152,
+    "popularity": 1972,
+    "members": 10978,
+    "favorites": 75,
+    "synopsis": "On the morning before he meets the crew of the Straw Hat Pirates, young sous-chef Sanji enjoys a peaceful day at work onboard the floating restaurant Baratie. His momentary stasis is broken by the arrival of a food critic with gourmet tastes—a woman who is completely unimpressed with the food she's served by Baratie's staff.\n\nWith Baratie's head chef Zeff away on business, Sanji must deliver a meal capable of silencing the complaining critic before she can depart with a bad taste in her mouth.\n\n[Written by MAL Rewrite]",
+    "background": "Shokugeki no Sanji is a one-shot special written by Shokugeki no Souma creators Tsukuda Yuuto and Saeki Shun to celebrate the 21st anniversary of One Piece. A continuation was written to celebrate the series's 1000th chapter. It was published in English as One Piece: Shokugeki no Sanji by VIZ Media under the Shonen Jump imprint on March 12, 2024.",
+    "authors": [
+        {
+            "mal_id": 11085,
+            "type": "people",
+            "name": "Saeki, Shun",
+            "url": "https://myanimelist.net/people/11085/Shun_Saeki"
+        },
+        {
+            "mal_id": 19791,
+            "type": "people",
+            "name": "Tsukuda, Yuuto",
+            "url": "https://myanimelist.net/people/19791/Yuuto_Tsukuda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 13,
+                    "type": "manga",
+                    "name": "One Piece",
+                    "url": "https://myanimelist.net/manga/13/One_Piece"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ONE_PIECE"
+        }
+    ]
+}

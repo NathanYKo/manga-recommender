@@ -1,0 +1,115 @@
+{
+    "mal_id": 91326,
+    "url": "https://myanimelist.net/manga/91326/8-shaku_8-wa_Kerakumeguri__Igyou_Kaikitan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/195196.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/195196t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/195196l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/195196.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/195196t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/195196l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "8-shaku 8-wa Kerakumeguri: Igyou Kaikitan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hachishaku Hachiwa Kerakumeguri"
+        },
+        {
+            "type": "Japanese",
+            "title": "八尺八話快樂巡り 異形怪奇譚"
+        }
+    ],
+    "title": "8-shaku 8-wa Kerakumeguri: Igyou Kaikitan",
+    "title_english": null,
+    "title_japanese": "八尺八話快樂巡り 異形怪奇譚",
+    "title_synonyms": [
+        "Hachishaku Hachiwa Kerakumeguri"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-10-28T00:00:00+00:00",
+        "to": "2015-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Oct 28, 2014 to Sep 28, 2015"
+    },
+    "score": 7.08,
+    "scored": 7.08,
+    "scored_by": 1193,
+    "rank": null,
+    "popularity": 7875,
+    "members": 2608,
+    "favorites": 33,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 25561,
+            "type": "people",
+            "name": "Jyoka",
+            "url": "https://myanimelist.net/people/25561/Jyoka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1243,
+            "type": "manga",
+            "name": "Monthly QooPA!",
+            "url": "https://myanimelist.net/manga/magazine/1243/Monthly_QooPA"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 12,
+            "type": "manga",
+            "name": "Hentai",
+            "url": "https://myanimelist.net/manga/genre/12/Hentai"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 33865,
+                    "type": "anime",
+                    "name": "8-shaku 8-wa Kerakumeguri: Igyou Kaikitan The Animation",
+                    "url": "https://myanimelist.net/anime/33865/8-shaku_8-wa_Kerakumeguri__Igyou_Kaikitan_The_Animation"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

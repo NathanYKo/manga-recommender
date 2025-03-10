@@ -1,0 +1,189 @@
+{
+    "mal_id": 10447,
+    "url": "https://myanimelist.net/manga/10447/Getter_Robo_Go",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/272711.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/272711t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/272711l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/272711.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/272711t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/272711l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Getter Robo Go"
+        },
+        {
+            "type": "Synonym",
+            "title": "Getter Robo Gou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Venger Robo"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゲッターロボ號"
+        }
+    ],
+    "title": "Getter Robo Go",
+    "title_english": null,
+    "title_japanese": "ゲッターロボ號",
+    "title_synonyms": [
+        "Getter Robo Gou",
+        "Venger Robo"
+    ],
+    "type": "Manga",
+    "chapters": 28,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1991-02-11T00:00:00+00:00",
+        "to": "1992-01-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 2,
+                "year": 1991
+            },
+            "to": {
+                "day": 27,
+                "month": 1,
+                "year": 1992
+            }
+        },
+        "string": "Feb 11, 1991 to Jan 27, 1992"
+    },
+    "score": 8.09,
+    "scored": 8.09,
+    "scored_by": 1723,
+    "rank": 614,
+    "popularity": 5870,
+    "members": 3675,
+    "favorites": 216,
+    "synopsis": "Following the disaster at the end of Shin Getter Robo, Hayato Jin has become the new leader of the Saotome Research Institute and Ryoma has retired to the countryside. Robot technology has advanced to the point that most major countries own them, but Getter Rays research is now forbidden and kept secret from the rest of the world. In order to defeat the madman Randou whose base lies the Arctic, a new team of Getter Robo pilots is formed, piloting a new form of Getter Robo which runs on simple plasma energy. Allying with the militaries of various nations, the war with Randou's army begins.\n\nThis series marks the debut of the Shin Getter Robo.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5374,
+            "type": "people",
+            "name": "Ishikawa, Ken",
+            "url": "https://myanimelist.net/people/5374/Ken_Ishikawa"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1551,
+                    "type": "manga",
+                    "name": "Getter Robo",
+                    "url": "https://myanimelist.net/manga/1551/Getter_Robo"
+                },
+                {
+                    "mal_id": 7759,
+                    "type": "manga",
+                    "name": "Getter Robo G",
+                    "url": "https://myanimelist.net/manga/7759/Getter_Robo_G"
+                },
+                {
+                    "mal_id": 8571,
+                    "type": "manga",
+                    "name": "Shin Getter Robo",
+                    "url": "https://myanimelist.net/manga/8571/Shin_Getter_Robo"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 15359,
+                    "type": "manga",
+                    "name": "Getter Robo Āḥ",
+                    "url": "https://myanimelist.net/manga/15359/Getter_Robo_Āḥ"
+                },
+                {
+                    "mal_id": 6891,
+                    "type": "manga",
+                    "name": "Getter Robo Hien: The Earth Suicide",
+                    "url": "https://myanimelist.net/manga/6891/Getter_Robo_Hien__The_Earth_Suicide"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 978,
+                    "type": "anime",
+                    "name": "Change!! Getter Robo: Sekai Saigo no Hi",
+                    "url": "https://myanimelist.net/anime/978/Change_Getter_Robo__Sekai_Saigo_no_Hi"
+                },
+                {
+                    "mal_id": 938,
+                    "type": "anime",
+                    "name": "Shin Getter Robo tai Neo Getter Robo",
+                    "url": "https://myanimelist.net/anime/938/Shin_Getter_Robo_tai_Neo_Getter_Robo"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 18074,
+                    "type": "manga",
+                    "name": "Getter Robo Saga",
+                    "url": "https://myanimelist.net/manga/18074/Getter_Robo_Saga"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Getter_Robo_Go"
+        }
+    ]
+}

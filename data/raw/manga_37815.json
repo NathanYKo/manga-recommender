@@ -1,0 +1,165 @@
+{
+    "mal_id": 37815,
+    "url": "https://myanimelist.net/manga/37815/Mix",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/77591.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/77591t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/77591l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/77591.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/77591t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/77591l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mix"
+        },
+        {
+            "type": "Japanese",
+            "title": "MIX ミックス"
+        }
+    ],
+    "title": "Mix",
+    "title_english": null,
+    "title_japanese": "MIX ミックス",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2012-05-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 5,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 12, 2012 to ?"
+    },
+    "score": 7.57,
+    "scored": 7.57,
+    "scored_by": 847,
+    "rank": 2475,
+    "popularity": 6134,
+    "members": 3502,
+    "favorites": 23,
+    "synopsis": "The story takes place in the same Meisei Gakuen high school as Touch, only it is set 26 years later. Like Touch, Mix revolves around brothers and baseball as a main theme.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2104,
+            "type": "people",
+            "name": "Adachi, Mitsuru",
+            "url": "https://myanimelist.net/people/2104/Mitsuru_Adachi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 591,
+            "type": "manga",
+            "name": "Gessan",
+            "url": "https://myanimelist.net/manga/magazine/591/Gessan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38098,
+                    "type": "anime",
+                    "name": "Mix: Meisei Story",
+                    "url": "https://myanimelist.net/anime/38098/Mix__Meisei_Story"
+                },
+                {
+                    "mal_id": 52614,
+                    "type": "anime",
+                    "name": "Mix: Meisei Story 2nd Season - Nidome no Natsu, Sora no Mukou e",
+                    "url": "https://myanimelist.net/anime/52614/Mix__Meisei_Story_2nd_Season_-_Nidome_no_Natsu_Sora_no_Mukou_e"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 1013,
+                    "type": "manga",
+                    "name": "Touch",
+                    "url": "https://myanimelist.net/manga/1013/Touch"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://gekkansunday.net/rensai/mix/120512.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/MIX_%28%E6%BC%AB%E7%94%BB%29"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mix_(manga)"
+        }
+    ]
+}

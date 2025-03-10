@@ -1,0 +1,107 @@
+{
+    "mal_id": 4694,
+    "url": "https://myanimelist.net/manga/4694/R-18_Love_Report",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/5791.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/5791t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/5791l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/5791.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/5791t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/5791l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "R-18 Love Report!"
+        },
+        {
+            "type": "Synonym",
+            "title": "R-18"
+        }
+    ],
+    "title": "R-18 Love Report!",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [
+        "R-18"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2004"
+    },
+    "score": 6.82,
+    "scored": 6.82,
+    "scored_by": 1691,
+    "rank": 11801,
+    "popularity": 5982,
+    "members": 3598,
+    "favorites": 12,
+    "synopsis": "Riko Mitsumi is sixteen year-old girl who is pretty and a good student. She would be like most girls if she wasn't constantly dreaming about sex and using a pseudonym to write about it. (Source: M-U)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3924,
+            "type": "people",
+            "name": "Sugi, Emiko",
+            "url": "https://myanimelist.net/people/3924/Emiko_Sugi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 124,
+            "type": "manga",
+            "name": "Cheese!",
+            "url": "https://myanimelist.net/manga/magazine/124/Cheese"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

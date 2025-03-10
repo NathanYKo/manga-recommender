@@ -1,0 +1,152 @@
+{
+    "mal_id": 3203,
+    "url": "https://myanimelist.net/manga/3203/ef__A_Fairy_Tale_of_the_Two",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/153812.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/153812t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/153812l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/153812.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/153812t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/153812l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "ef: A Fairy Tale of the Two."
+        },
+        {
+            "type": "Japanese",
+            "title": "ef - a fairy tale of the two."
+        }
+    ],
+    "title": "ef: A Fairy Tale of the Two.",
+    "title_english": null,
+    "title_japanese": "ef - a fairy tale of the two.",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 63,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-27T00:00:00+00:00",
+        "to": "2015-01-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 27,
+                "month": 1,
+                "year": 2015
+            }
+        },
+        "string": "Jan 27, 2005 to Jan 27, 2015"
+    },
+    "score": 7.54,
+    "scored": 7.54,
+    "scored_by": 878,
+    "rank": 2712,
+    "popularity": 5863,
+    "members": 3682,
+    "favorites": 51,
+    "synopsis": "The story revolves around the protagonist Hirono Hiro, a poor high school boy who draws shoujo manga for his living. One cold Christmas night after meeting a very strange woman in church, his bike gets stolen by another strange girl. He runs after her and finds her collapsed on the street. Her name is Miyamura Miyako and her bag got stolen by a man on a motorbike. Soon after, they start hanging out together, enjoying highschool life and whatnot. Hiro's life is also strongly dictated by Shindou Kei, his childhood friend.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3550,
+            "type": "people",
+            "name": "Mikage",
+            "url": "https://myanimelist.net/people/3550/Mikage"
+        },
+        {
+            "mal_id": 3551,
+            "type": "people",
+            "name": "Kagami, Yuu",
+            "url": "https://myanimelist.net/people/3551/Yuu_Kagami"
+        },
+        {
+            "mal_id": 3552,
+            "type": "people",
+            "name": "minori",
+            "url": "https://myanimelist.net/people/3552/minori"
+        },
+        {
+            "mal_id": 3553,
+            "type": "people",
+            "name": "Miyabi, Juri",
+            "url": "https://myanimelist.net/people/3553/Juri_Miyabi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Dengeki Comic Gao!",
+            "url": "https://myanimelist.net/manga/magazine/18/Dengeki_Comic_Gao"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2924,
+                    "type": "anime",
+                    "name": "ef: A Tale of Memories.",
+                    "url": "https://myanimelist.net/anime/2924/ef__A_Tale_of_Memories"
+                },
+                {
+                    "mal_id": 4789,
+                    "type": "anime",
+                    "name": "ef: A Tale of Melodies.",
+                    "url": "https://myanimelist.net/anime/4789/ef__A_Tale_of_Melodies"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/Ef_-_a_fairy_tale_of_the_two."
+        }
+    ]
+}

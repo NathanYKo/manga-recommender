@@ -1,0 +1,115 @@
+{
+    "mal_id": 51399,
+    "url": "https://myanimelist.net/manga/51399/Asagao_to_Kase-san_dj_-_Chocolate_to_Kase-san",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/92321.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/92321t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/92321l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/92321.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/92321t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/92321l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Asagao to Kase-san. dj - Chocolate to Kase-san."
+        },
+        {
+            "type": "Synonym",
+            "title": "Chocolate and Kase-san"
+        },
+        {
+            "type": "Japanese",
+            "title": "チョコレートと加瀬さん。"
+        }
+    ],
+    "title": "Asagao to Kase-san. dj - Chocolate to Kase-san.",
+    "title_english": null,
+    "title_japanese": "チョコレートと加瀬さん。",
+    "title_synonyms": [
+        "Chocolate and Kase-san"
+    ],
+    "type": "Doujinshi",
+    "chapters": 1,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-05-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 5,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 5, 2012"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 1685,
+    "rank": 3278,
+    "popularity": 5949,
+    "members": 3617,
+    "favorites": 18,
+    "synopsis": "It's Valentine's Day, and Yamada has baked chocolates for Kase-san, but so have the rest of the girls in school.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7336,
+            "type": "people",
+            "name": "Takashima, Hiromi",
+            "url": "https://myanimelist.net/people/7336/Hiromi_Takashima"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 38105,
+                    "type": "manga",
+                    "name": "Kase-san Series",
+                    "url": "https://myanimelist.net/manga/38105/Kase-san_Series"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

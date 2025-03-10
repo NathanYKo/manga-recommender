@@ -1,0 +1,167 @@
+{
+    "mal_id": 127114,
+    "url": "https://myanimelist.net/manga/127114/One_Piece_Novel__A",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/232216.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/232216t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/232216l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/232216.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/232216t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/232216l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "One Piece Novel: A"
+        },
+        {
+            "type": "Japanese",
+            "title": "ONE PIECE novel A"
+        },
+        {
+            "type": "English",
+            "title": "One Piece: Ace's Story"
+        }
+    ],
+    "title": "One Piece Novel: A",
+    "title_english": "One Piece: Ace's Story",
+    "title_japanese": "ONE PIECE novel A",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-07-07T00:00:00+00:00",
+        "to": "2018-06-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 4,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Jul 7, 2017 to Jun 4, 2018"
+    },
+    "score": 7.91,
+    "scored": 7.91,
+    "scored_by": 1848,
+    "rank": 955,
+    "popularity": 4703,
+    "members": 4692,
+    "favorites": 67,
+    "synopsis": "Washed up on the shores of a deserted island at the edge of the East Blue Sea, two men from different backgrounds unite in their shared thirst for adventure. One of them, Portgaz D. Ace, will follow in his infamous father’s footsteps as the fearless captain of a pirate crew. The other, Masked Deuce, becomes the reluctant first member of Ace’s Spade Pirates. Survival is not enough for these seafaring buccaneers, as together they seek treasure, excitement, and a route to the New World.\n\n(Source: Viz Media)",
+    "background": "One Piece Novel: A was published in English as One Piece: Ace's Story by VIZ Media from May 5, 2020 to September 1, 2020.",
+    "authors": [
+        {
+            "mal_id": 1881,
+            "type": "people",
+            "name": "Oda, Eiichiro",
+            "url": "https://myanimelist.net/people/1881/Eiichiro_Oda"
+        },
+        {
+            "mal_id": 1955,
+            "type": "people",
+            "name": "Hamazaki, Tatsuya",
+            "url": "https://myanimelist.net/people/1955/Tatsuya_Hamazaki"
+        },
+        {
+            "mal_id": 29559,
+            "type": "people",
+            "name": "Hinata, Shou",
+            "url": "https://myanimelist.net/people/29559/Shou_Hinata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1564,
+            "type": "manga",
+            "name": "One Piece Magazine",
+            "url": "https://myanimelist.net/manga/magazine/1564/One_Piece_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 128594,
+                    "type": "manga",
+                    "name": "One Piece: Episode A",
+                    "url": "https://myanimelist.net/manga/128594/One_Piece__Episode_A"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 13,
+                    "type": "manga",
+                    "name": "One Piece",
+                    "url": "https://myanimelist.net/manga/13/One_Piece"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ONE_PIECE"
+        }
+    ]
+}

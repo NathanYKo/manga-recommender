@@ -1,0 +1,149 @@
+{
+    "mal_id": 11777,
+    "url": "https://myanimelist.net/manga/11777/Clannad__Tomoyo_Dearest",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/34937.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/34937t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/34937l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/34937.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/34937t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/34937l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Clannad: Tomoyo Dearest"
+        },
+        {
+            "type": "Japanese",
+            "title": "CLANNAD 〜tomoyo dearest〜"
+        }
+    ],
+    "title": "Clannad: Tomoyo Dearest",
+    "title_english": null,
+    "title_japanese": "CLANNAD 〜tomoyo dearest〜",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-02-20T00:00:00+00:00",
+        "to": "2008-08-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 2,
+                "year": 2008
+            },
+            "to": {
+                "day": 20,
+                "month": 8,
+                "year": 2008
+            }
+        },
+        "string": "Feb 20, 2008 to Aug 20, 2008"
+    },
+    "score": 7.85,
+    "scored": 7.85,
+    "scored_by": 1118,
+    "rank": 1168,
+    "popularity": 6114,
+    "members": 3508,
+    "favorites": 29,
+    "synopsis": "The story centers on Tomoyo's route from the Clannad visual novel.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2885,
+            "type": "people",
+            "name": "Key",
+            "url": "https://myanimelist.net/people/2885/Key"
+        },
+        {
+            "mal_id": 3830,
+            "type": "people",
+            "name": "Sumiyoshi, Yukiko",
+            "url": "https://myanimelist.net/people/3830/Yukiko_Sumiyoshi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 260,
+            "type": "manga",
+            "name": "Dragon Age Pure",
+            "url": "https://myanimelist.net/manga/magazine/260/Dragon_Age_Pure"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 3941,
+                    "type": "manga",
+                    "name": "Clannad: Tomoyo After",
+                    "url": "https://myanimelist.net/manga/3941/Clannad__Tomoyo_After"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 4059,
+                    "type": "anime",
+                    "name": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+                    "url": "https://myanimelist.net/anime/4059/Clannad__Mou_Hitotsu_no_Sekai_Tomoyo-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 2598,
+                    "type": "manga",
+                    "name": "Clannad",
+                    "url": "https://myanimelist.net/manga/2598/Clannad"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)"
+        }
+    ]
+}

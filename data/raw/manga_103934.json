@@ -1,0 +1,119 @@
+{
+    "mal_id": 103934,
+    "url": "https://myanimelist.net/manga/103934/Yuusha-sama_Yukagen_wa_Ikaga_desu_ka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/198535.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/198535t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/198535l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/198535.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/198535t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/198535l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yuusha-sama, Yukagen wa Ikaga desu ka?"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hero"
+        },
+        {
+            "type": "Synonym",
+            "title": "How is the Water Temperature?"
+        },
+        {
+            "type": "Japanese",
+            "title": "勇者様、湯加減はいかがですか？"
+        }
+    ],
+    "title": "Yuusha-sama, Yukagen wa Ikaga desu ka?",
+    "title_english": null,
+    "title_japanese": "勇者様、湯加減はいかがですか？",
+    "title_synonyms": [
+        "Hero",
+        "How is the Water Temperature?"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-01-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 2, 2017 to ?"
+    },
+    "score": 6.44,
+    "scored": 6.44,
+    "scored_by": 596,
+    "rank": 17195,
+    "popularity": 7091,
+    "members": 2960,
+    "favorites": 3,
+    "synopsis": "The story of the former hero, Loki, and his time working at an onsen with his monster co-workers!",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 8771,
+            "type": "people",
+            "name": "Marimo",
+            "url": "https://myanimelist.net/people/8771/Marimo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1005,
+            "type": "manga",
+            "name": "Ura Sunday",
+            "url": "https://myanimelist.net/manga/magazine/1005/Ura_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://urasunday.com/yukagen/index.html"
+        }
+    ]
+}

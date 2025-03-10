@@ -1,0 +1,115 @@
+{
+    "mal_id": 99775,
+    "url": "https://myanimelist.net/manga/99775/Kuroneko_to_Kareshi_to_Ouji",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/180256.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/180256t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/180256l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/180256.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/180256t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/180256l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kuroneko to Kareshi to Ouji"
+        },
+        {
+            "type": "Japanese",
+            "title": "クロネコと彼氏と王子"
+        }
+    ],
+    "title": "Kuroneko to Kareshi to Ouji",
+    "title_english": null,
+    "title_japanese": "クロネコと彼氏と王子",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-06-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 6,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 14, 2016 to ?"
+    },
+    "score": 7.78,
+    "scored": 7.78,
+    "scored_by": 801,
+    "rank": null,
+    "popularity": 8572,
+    "members": 2347,
+    "favorites": 9,
+    "synopsis": "Keiichi finally returns home to Shingo after spending over four months in America. Just as they start to celebrate their reunion, the two are suddenly expected to watch over Keiichi's young nephew, Rio.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2812,
+            "type": "people",
+            "name": "Ukyou, Ayane",
+            "url": "https://myanimelist.net/people/2812/Ayane_Ukyou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 99,
+            "type": "manga",
+            "name": "Dear+",
+            "url": "https://myanimelist.net/manga/magazine/99/Dear_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 88850,
+                    "type": "manga",
+                    "name": "Kuroneko Kareshi no Afurekata",
+                    "url": "https://myanimelist.net/manga/88850/Kuroneko_Kareshi_no_Afurekata"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

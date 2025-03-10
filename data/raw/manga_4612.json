@@ -1,0 +1,161 @@
+{
+    "mal_id": 4612,
+    "url": "https://myanimelist.net/manga/4612/Needless",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/55177.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/55177t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/55177l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/55177.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/55177t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/55177l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Needless"
+        },
+        {
+            "type": "Japanese",
+            "title": "ニードレス"
+        }
+    ],
+    "title": "Needless",
+    "title_english": null,
+    "title_japanese": "ニードレス",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 114,
+    "volumes": 16,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-10-18T00:00:00+00:00",
+        "to": "2013-06-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 10,
+                "year": 2003
+            },
+            "to": {
+                "day": 19,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Oct 18, 2003 to Jun 19, 2013"
+    },
+    "score": 7.57,
+    "scored": 7.57,
+    "scored_by": 3804,
+    "rank": 2475,
+    "popularity": 2192,
+    "members": 9842,
+    "favorites": 255,
+    "synopsis": "Year 2130 -- after the third world war, large contaminated areas known as \"Blackspots\" formed all over Japan. Large Walls were used to quarantine off these \"Blackspots\". In time, signs of inhabitance appeared within these wastelands. Among the survivors who had been abandoned inside the Blackspots, labeled as \"those who were unneeded\", came forth possessors of uncanny abilities -- Fire, wind, brute strength...they were defined by their supernatural abilities. Others, fearful of their powers, expelled them and named them --- Needless!\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4092,
+            "type": "people",
+            "name": "Imai, Kami",
+            "url": "https://myanimelist.net/people/4092/Kami_Imai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 6030,
+                    "type": "anime",
+                    "name": "Needless",
+                    "url": "https://myanimelist.net/anime/6030/Needless"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 23811,
+                    "type": "manga",
+                    "name": "Needless Zero",
+                    "url": "https://myanimelist.net/manga/23811/Needless_Zero"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://needless.jp/index.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Needless"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "mal_id": 926,
+    "url": "https://myanimelist.net/manga/926/Penguin_Kakumei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/183168.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/183168t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/183168l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/183168.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/183168t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/183168l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Penguin Kakumei"
+        },
+        {
+            "type": "Japanese",
+            "title": "ペンギン革命"
+        },
+        {
+            "type": "English",
+            "title": "Penguin Revolution"
+        }
+    ],
+    "title": "Penguin Kakumei",
+    "title_english": "Penguin Revolution",
+    "title_japanese": "ペンギン革命",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 35,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-08-24T00:00:00+00:00",
+        "to": "2007-12-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 8,
+                "year": 2004
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2007
+            }
+        },
+        "string": "Aug 24, 2004 to Dec 22, 2007"
+    },
+    "score": 7.96,
+    "scored": 7.96,
+    "scored_by": 4631,
+    "rank": 841,
+    "popularity": 2174,
+    "members": 9913,
+    "favorites": 152,
+    "synopsis": "High school student Yukari Fujimaru knows a potential star when she sees one…because she sees the special \"aura\" they give off, in the form of angelic wings. Yukari's fellow student, the beautiful Ryouko Katsuragi, has a small pair of wings herself, and is one of these aspiring talents. She's so talented, in fact, that no one even knows that \"she\" is actually a boy in disguise. Now, to make her own down-to-earth dream come true, Yukari must help her new friend become a star.\n\n(Source: CMX)",
+    "background": "Penguin Kakumei was published in English as Penguin Revolution by CMX Manga from October 25, 2006 to March 17, 2009.",
+    "authors": [
+        {
+            "mal_id": 2682,
+            "type": "people",
+            "name": "Tsukuba, Sakura",
+            "url": "https://myanimelist.net/people/2682/Sakura_Tsukuba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "LaLa",
+            "url": "https://myanimelist.net/manga/magazine/11/LaLa"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 64,
+            "type": "manga",
+            "name": "Love Polygon",
+            "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+        },
+        {
+            "mal_id": 76,
+            "type": "manga",
+            "name": "Showbiz",
+            "url": "https://myanimelist.net/manga/genre/76/Showbiz"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 1830,
+                    "type": "manga",
+                    "name": "Yoroshiku Master",
+                    "url": "https://myanimelist.net/manga/1830/Yoroshiku_Master"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E9%9D%A9%E5%91%BD"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "mal_id": 644,
+    "url": "https://myanimelist.net/manga/644/Bremen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/167613.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/167613t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/167613l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/167613.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/167613t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/167613l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bremen"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Uninvited Guys of Bremen"
+        },
+        {
+            "type": "Japanese",
+            "title": "無頼男－ブレーメン－"
+        }
+    ],
+    "title": "Bremen",
+    "title_english": null,
+    "title_japanese": "無頼男－ブレーメン－",
+    "title_synonyms": [
+        "The Uninvited Guys of Bremen"
+    ],
+    "type": "Manga",
+    "chapters": 82,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-12-14T00:00:00+00:00",
+        "to": "2001-09-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 12,
+                "year": 1999
+            },
+            "to": {
+                "day": 11,
+                "month": 9,
+                "year": 2001
+            }
+        },
+        "string": "Dec 14, 1999 to Sep 11, 2001"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 2085,
+    "rank": 4204,
+    "popularity": 4744,
+    "members": 4646,
+    "favorites": 86,
+    "synopsis": "Reiji and Kasuga head out to Tokyo to become the \"Gods of Rock,\" but they seem to always attract trouble. On their way, Hayama Ryo and Fujii Ran join them in their quest.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2585,
+            "type": "people",
+            "name": "Umezawa, Haruto",
+            "url": "https://myanimelist.net/people/2585/Haruto_Umezawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Bremen_%28manga%29"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "mal_id": 13992,
+    "url": "https://myanimelist.net/manga/13992/Azumanga_Daioh__Hoshuu-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/19903.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/19903t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/19903l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/19903.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/19903t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/19903l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Azumanga Daioh: Hoshuu-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Azumanga Daioh: Supplementary Lessons"
+        },
+        {
+            "type": "Synonym",
+            "title": "Azumanga Daioh: Supplementary Materials"
+        },
+        {
+            "type": "Synonym",
+            "title": "Azumanga Daioh 10th Anniversary Special"
+        },
+        {
+            "type": "Synonym",
+            "title": "Azumanga Daioh Hoshuuhen"
+        },
+        {
+            "type": "Japanese",
+            "title": "あずまんが大王 補習編"
+        }
+    ],
+    "title": "Azumanga Daioh: Hoshuu-hen",
+    "title_english": null,
+    "title_japanese": "あずまんが大王 補習編",
+    "title_synonyms": [
+        "Azumanga Daioh: Supplementary Lessons",
+        "Azumanga Daioh: Supplementary Materials",
+        "Azumanga Daioh 10th Anniversary Special",
+        "Azumanga Daioh Hoshuuhen"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-05-12T00:00:00+00:00",
+        "to": "2009-07-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 5,
+                "year": 2009
+            },
+            "to": {
+                "day": 10,
+                "month": 7,
+                "year": 2009
+            }
+        },
+        "string": "May 12, 2009 to Jul 10, 2009"
+    },
+    "score": 7.86,
+    "scored": 7.86,
+    "scored_by": 2650,
+    "rank": 1131,
+    "popularity": 4024,
+    "members": 5589,
+    "favorites": 30,
+    "synopsis": "To celebrate the 10th anniversary of Azumanga Daioh, the manga is being repackaged into a new three-volume set, which will include three chapters of new material called Supplementary Materials.\n\nEach new chapter covers one year of high school, with all new adventures for Sakaki, Yomi, Tomo, Chiyo, Osaka, and Kagura.\n\n(Source: MangaPark)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1939,
+            "type": "people",
+            "name": "Azuma, Kiyohiko",
+            "url": "https://myanimelist.net/people/1939/Kiyohiko_Azuma"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 591,
+            "type": "manga",
+            "name": "Gessan",
+            "url": "https://myanimelist.net/manga/magazine/591/Gessan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 85,
+                    "type": "manga",
+                    "name": "Azumanga Daioh",
+                    "url": "https://myanimelist.net/manga/85/Azumanga_Daioh"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Azumanga_Daioh"
+        }
+    ]
+}

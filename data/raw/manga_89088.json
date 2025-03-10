@@ -1,0 +1,123 @@
+{
+    "mal_id": 89088,
+    "url": "https://myanimelist.net/manga/89088/Nejimage_Factor",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/155743.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/155743t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/155743l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/155743.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/155743t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/155743l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nejimage Factor"
+        },
+        {
+            "type": "Synonym",
+            "title": "Our Abnormalities in a Fate Factor"
+        },
+        {
+            "type": "Japanese",
+            "title": "捻じ曲げファクター"
+        }
+    ],
+    "title": "Nejimage Factor",
+    "title_english": null,
+    "title_japanese": "捻じ曲げファクター",
+    "title_synonyms": [
+        "Our Abnormalities in a Fate Factor"
+    ],
+    "type": "Manga",
+    "chapters": 32,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-03-19T00:00:00+00:00",
+        "to": "2018-05-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 3,
+                "year": 2014
+            },
+            "to": {
+                "day": 2,
+                "month": 5,
+                "year": 2018
+            }
+        },
+        "string": "Mar 19, 2014 to May 2, 2018"
+    },
+    "score": 5.87,
+    "scored": 5.87,
+    "scored_by": 616,
+    "rank": 20013,
+    "popularity": 4883,
+    "members": 4498,
+    "favorites": 7,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 17005,
+            "type": "people",
+            "name": "Kamizuki, Shiki",
+            "url": "https://myanimelist.net/people/17005/Shiki_Kamizuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 118,
+            "type": "manga",
+            "name": "Young Animal Arashi",
+            "url": "https://myanimelist.net/manga/magazine/118/Young_Animal_Arashi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,157 @@
+{
+    "mal_id": 133431,
+    "url": "https://myanimelist.net/manga/133431/Uma_Musume_Cinderella_Gray",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/240780.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/240780t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/240780l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/240780.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/240780t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/240780l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Uma Musume Cinderella Gray"
+        },
+        {
+            "type": "Synonym",
+            "title": "UmaMusu Cinderella Gray"
+        },
+        {
+            "type": "Synonym",
+            "title": "Uma Musume Cinderella Gray Gaiden: The Mermaid Left Behind"
+        },
+        {
+            "type": "Japanese",
+            "title": "ウマ娘 シンデレラグレイ"
+        }
+    ],
+    "title": "Uma Musume Cinderella Gray",
+    "title_english": null,
+    "title_japanese": "ウマ娘 シンデレラグレイ",
+    "title_synonyms": [
+        "UmaMusu Cinderella Gray",
+        "Uma Musume Cinderella Gray Gaiden: The Mermaid Left Behind"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-06-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 6,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 11, 2020 to ?"
+    },
+    "score": 8.34,
+    "scored": 8.34,
+    "scored_by": 773,
+    "rank": 273,
+    "popularity": 7026,
+    "members": 2990,
+    "favorites": 189,
+    "synopsis": "Uma Musume Cinderella Gray is a spin-off title of the Uma Musume project by Cygames. It follows Oguri Cap through her time at Kasamatsu Training Center Academy and on her journey of becoming a legendary horse girl.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 51811,
+            "type": "people",
+            "name": "Kuzumi, Taiyou",
+            "url": "https://myanimelist.net/people/51811/Taiyou_Kuzumi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 59636,
+                    "type": "anime",
+                    "name": "Uma Musume: Cinderella Gray",
+                    "url": "https://myanimelist.net/anime/59636/Uma_Musume__Cinderella_Gray"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 106804,
+                    "type": "manga",
+                    "name": "Starting Gate!: Uma Musume Pretty Derby",
+                    "url": "https://myanimelist.net/manga/106804/Starting_Gate__Uma_Musume_Pretty_Derby"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://youngjump.jp/manga/umamusume/"
+        },
+        {
+            "name": "@yj_umaCG",
+            "url": "https://twitter.com/yj_umaCG"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%9E%E5%A8%98_%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%B0%E3%83%AC%E3%82%A4"
+        }
+    ]
+}

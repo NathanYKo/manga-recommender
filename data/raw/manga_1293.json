@@ -1,0 +1,151 @@
+{
+    "mal_id": 1293,
+    "url": "https://myanimelist.net/manga/1293/Ill",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/136553.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/136553t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/136553l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/136553.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/136553t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/136553l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "I'll"
+        },
+        {
+            "type": "Synonym",
+            "title": "I'll (Generation Basket)"
+        },
+        {
+            "type": "Synonym",
+            "title": "I'll CKBC"
+        },
+        {
+            "type": "Japanese",
+            "title": "I'll アイル"
+        }
+    ],
+    "title": "I'll",
+    "title_english": null,
+    "title_japanese": "I'll アイル",
+    "title_synonyms": [
+        "I'll (Generation Basket)",
+        "I'll CKBC"
+    ],
+    "type": "Manga",
+    "chapters": 88,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1995-11-06T00:00:00+00:00",
+        "to": "2004-05-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 11,
+                "year": 1995
+            },
+            "to": {
+                "day": 6,
+                "month": 5,
+                "year": 2004
+            }
+        },
+        "string": "Nov 6, 1995 to May 6, 2004"
+    },
+    "score": 7.55,
+    "scored": 7.55,
+    "scored_by": 1089,
+    "rank": 2611,
+    "popularity": 5454,
+    "members": 3995,
+    "favorites": 65,
+    "synopsis": "Akane Tachibana is a freshman high school student who, despite his talent for basketball, decides to abandon sports clubs due to the pressure put on him by them. Once he arrives at Kouzu High, however, he meets the only other basketball player who has ever caught his eye on the courts and decides to join the team. The first match of the season is an exhibition game against the league's strongest team, Hyamazaki—the team that Hiiragi's father coaches and in which his older brother plays for. Hiiragi ends up playing in the second half of the game, and they seem to not be working well together on the court, losing the game, until unintentionally one of the senior players on the team challenges them to beat him. They join forces, inspiring the team to victory. Thus starts the story of a group of teenagers working to reach the top, fighting tooth and nail the entire way.\n\n(Soure: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2922,
+            "type": "people",
+            "name": "Asada, Hiroyuki",
+            "url": "https://myanimelist.net/people/2922/Hiroyuki_Asada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 129,
+            "type": "manga",
+            "name": "Shounen Jump (Monthly)",
+            "url": "https://myanimelist.net/manga/magazine/129/Shounen_Jump_Monthly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 359,
+                    "type": "anime",
+                    "name": "I'll/CKBC",
+                    "url": "https://myanimelist.net/anime/359/Ill_CKBC"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/I%27ll"
+        }
+    ]
+}

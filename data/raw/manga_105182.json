@@ -1,0 +1,108 @@
+{
+    "mal_id": 105182,
+    "url": "https://myanimelist.net/manga/105182/Violence_Action",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/194155.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/194155t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/194155l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/194155.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/194155t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/194155l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Violence Action"
+        },
+        {
+            "type": "Japanese",
+            "title": "バイオレンスアクション"
+        }
+    ],
+    "title": "Violence Action",
+    "title_english": null,
+    "title_japanese": "バイオレンスアクション",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-04-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 25, 2016 to ?"
+    },
+    "score": 7.2,
+    "scored": 7.2,
+    "scored_by": 1166,
+    "rank": 6063,
+    "popularity": 4091,
+    "members": 5502,
+    "favorites": 45,
+    "synopsis": "Kikuno Kei, nicknamed \"Kay\", is a normal university student and a part-time hitwoman with John Wick like skills. \n\n(Source: Batoto)",
+    "background": "Violence Action was adapted into a live-action movie released on August 19, 2022.",
+    "authors": [
+        {
+            "mal_id": 5566,
+            "type": "people",
+            "name": "Sawada, Shin",
+            "url": "https://myanimelist.net/people/5566/Shin_Sawada"
+        },
+        {
+            "mal_id": 19537,
+            "type": "people",
+            "name": "Asai, Renji",
+            "url": "https://myanimelist.net/people/19537/Renji_Asai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1097,
+            "type": "manga",
+            "name": "Yawaraka Spirits",
+            "url": "https://myanimelist.net/manga/magazine/1097/Yawaraka_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://yawaspi.com/violence_action/"
+        }
+    ]
+}

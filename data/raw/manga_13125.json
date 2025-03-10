@@ -1,0 +1,141 @@
+{
+    "mal_id": 13125,
+    "url": "https://myanimelist.net/manga/13125/Houkago_Play",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/246901.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/246901t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/246901l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/246901.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/246901t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/246901l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Houkago Play"
+        },
+        {
+            "type": "Synonym",
+            "title": "Houkago Replay"
+        },
+        {
+            "type": "Japanese",
+            "title": "放課後プレイ"
+        },
+        {
+            "type": "English",
+            "title": "Afterschool Play"
+        }
+    ],
+    "title": "Houkago Play",
+    "title_english": "Afterschool Play",
+    "title_japanese": "放課後プレイ",
+    "title_synonyms": [
+        "Houkago Replay"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-10-26T00:00:00+00:00",
+        "to": "2008-08-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 8,
+                "month": 8,
+                "year": 2008
+            }
+        },
+        "string": "Oct 26, 2007 to Aug 8, 2008"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 2018,
+    "rank": 5204,
+    "popularity": 3720,
+    "members": 6066,
+    "favorites": 98,
+    "synopsis": "A 4-koma about a typical geek of a guy and his tsundere girlfriend. As the two talk about and play games, they slowly grow closer.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7441,
+            "type": "people",
+            "name": "Kurosaki, Rendou",
+            "url": "https://myanimelist.net/people/7441/Rendou_Kurosaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 402,
+            "type": "manga",
+            "name": "Dengeki PlayStation",
+            "url": "https://myanimelist.net/manga/magazine/402/Dengeki_PlayStation"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 20131,
+                    "type": "manga",
+                    "name": "Houkago Play 2",
+                    "url": "https://myanimelist.net/manga/20131/Houkago_Play_2"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 21429,
+                    "type": "manga",
+                    "name": "Receptacle",
+                    "url": "https://myanimelist.net/manga/21429/Receptacle"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%83%97%E3%83%AC%E3%82%A4"
+        }
+    ]
+}

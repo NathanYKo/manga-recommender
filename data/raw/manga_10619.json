@@ -1,0 +1,95 @@
+{
+    "mal_id": 10619,
+    "url": "https://myanimelist.net/manga/10619/Heureka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/14286.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/14286t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/14286l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/14286.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/14286t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/14286l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Heureka"
+        },
+        {
+            "type": "Japanese",
+            "title": "ヘウレーカ"
+        },
+        {
+            "type": "English",
+            "title": "Eureka"
+        }
+    ],
+    "title": "Heureka",
+    "title_english": "Eureka",
+    "title_japanese": "ヘウレーカ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2002"
+    },
+    "score": 6.86,
+    "scored": 6.86,
+    "scored_by": 1485,
+    "rank": 11289,
+    "popularity": 6454,
+    "members": 3300,
+    "favorites": 9,
+    "synopsis": "Heureka is a manga set in antiquity, during the Second Punic War between the small city state of Syracuse and the Roman Empire. The comic is based around the life and times of the famous mathematician Archimedes. Archimedes was not only a gifted mathematician but also an engineer of repute. During the conflict with the Romans, Archimedes was supposedly responsible for creating a number of war machines that devastated the Roman legions before they eventually got the upper hand. The exact nature and use of these devices is controversial, and exists more in the realm of legend than actual historical fact.  (Source: Manga-Updates)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2377,
+            "type": "people",
+            "name": "Iwaaki, Hitoshi",
+            "url": "https://myanimelist.net/people/2377/Hitoshi_Iwaaki"
+        }
+    ],
+    "serializations": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,181 @@
+{
+    "mal_id": 80151,
+    "url": "https://myanimelist.net/manga/80151/Gekkan_Shoujo_Nozaki-kun_Anthology",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/138923.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/138923t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/138923l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/138923.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/138923t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/138923l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gekkan Shoujo Nozaki-kun Anthology"
+        },
+        {
+            "type": "Japanese",
+            "title": "月刊少女野崎くん アンソロジー"
+        }
+    ],
+    "title": "Gekkan Shoujo Nozaki-kun Anthology",
+    "title_english": null,
+    "title_japanese": "月刊少女野崎くん アンソロジー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-08-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 8,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 22, 2014"
+    },
+    "score": 7.38,
+    "scored": 7.38,
+    "scored_by": 964,
+    "rank": 4032,
+    "popularity": 6140,
+    "members": 3500,
+    "favorites": 12,
+    "synopsis": "An anthology of Gekkan Shoujo Nozaki-kun by various mangaka.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3624,
+            "type": "people",
+            "name": "Tsubaki, Izumi",
+            "url": "https://myanimelist.net/people/3624/Izumi_Tsubaki"
+        },
+        {
+            "mal_id": 5701,
+            "type": "people",
+            "name": "mikimaki",
+            "url": "https://myanimelist.net/people/5701/mikimaki"
+        },
+        {
+            "mal_id": 13289,
+            "type": "people",
+            "name": "Kawakami, Masaki",
+            "url": "https://myanimelist.net/people/13289/Masaki_Kawakami"
+        },
+        {
+            "mal_id": 14135,
+            "type": "people",
+            "name": "Kuroha",
+            "url": "https://myanimelist.net/people/14135/Kuroha"
+        },
+        {
+            "mal_id": 18025,
+            "type": "people",
+            "name": "namo",
+            "url": "https://myanimelist.net/people/18025/namo"
+        },
+        {
+            "mal_id": 18639,
+            "type": "people",
+            "name": "Minami, Toutarou",
+            "url": "https://myanimelist.net/people/18639/Toutarou_Minami"
+        },
+        {
+            "mal_id": 18817,
+            "type": "people",
+            "name": "Mijinkouka",
+            "url": "https://myanimelist.net/people/18817/Mijinkouka"
+        },
+        {
+            "mal_id": 21165,
+            "type": "people",
+            "name": "Asakura, Ryousuke",
+            "url": "https://myanimelist.net/people/21165/Ryousuke_Asakura"
+        },
+        {
+            "mal_id": 32467,
+            "type": "people",
+            "name": "Nohara, Yuta",
+            "url": "https://myanimelist.net/people/32467/Yuta_Nohara"
+        },
+        {
+            "mal_id": 34287,
+            "type": "people",
+            "name": "Namisaki, Yuka",
+            "url": "https://myanimelist.net/people/34287/Yuka_Namisaki"
+        },
+        {
+            "mal_id": 37532,
+            "type": "people",
+            "name": "Ichikawa, Dan",
+            "url": "https://myanimelist.net/people/37532/Dan_Ichikawa"
+        },
+        {
+            "mal_id": 39820,
+            "type": "people",
+            "name": "Konkichi",
+            "url": "https://myanimelist.net/people/39820/Konkichi"
+        },
+        {
+            "mal_id": 45713,
+            "type": "people",
+            "name": "Akino, Kisara",
+            "url": "https://myanimelist.net/people/45713/Kisara_Akino"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 29211,
+                    "type": "manga",
+                    "name": "Gekkan Shoujo Nozaki-kun",
+                    "url": "https://myanimelist.net/manga/29211/Gekkan_Shoujo_Nozaki-kun"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

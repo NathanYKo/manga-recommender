@@ -1,0 +1,128 @@
+{
+    "mal_id": 1331,
+    "url": "https://myanimelist.net/manga/1331/Koi_Kaze",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/318113.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/318113t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/318113l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/318113.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/318113t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/318113l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koi Kaze"
+        },
+        {
+            "type": "Japanese",
+            "title": "恋風"
+        }
+    ],
+    "title": "Koi Kaze",
+    "title_english": null,
+    "title_japanese": "恋風",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 35,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-01T00:00:00+00:00",
+        "to": "2004-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            }
+        },
+        "string": "2001 to 2004"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 3675,
+    "rank": 3939,
+    "popularity": 2563,
+    "members": 8640,
+    "favorites": 116,
+    "synopsis": "Born twelve years apart, siblings Koshiro and Nanoka were separated when their parents divorced and moved to different parts of Japan; as a result, they both grew up hardly aware of the other's existence.\n\nThe story begins when 15-year-old Nanoka moves to Tokyo to live with her father and brother, the latter being 28 years old and employed by a marriage-arranging company. Koshiro first encounters Nanoka on the train one morning, and returns her dropped train pass. Despite their age difference, they feel a brief spark of connection before they go their separate ways.\n\nSoon after that, they encounter each other once again near an amusement park, where they go on an impromptu date. While riding the Ferris wheel, the two open their hearts to each other and discuss their recent romantic woes. Nanoka comforts Koshiro when he breaks down and cries, and he realizes that he is very attracted to her. Right after the date, they meet their father, and are startled to realize they are siblings.\n\nKoi Kaze is about Koshiro's love for Nanoka, his conflicting drive to obey societal norms, and Nanoka's growth into womanhood and her growing feelings for her brother.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2078,
+            "type": "people",
+            "name": "Yoshida, Motoi",
+            "url": "https://myanimelist.net/people/2078/Motoi_Yoshida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 171,
+            "type": "manga",
+            "name": "Evening",
+            "url": "https://myanimelist.net/manga/magazine/171/Evening"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 634,
+                    "type": "anime",
+                    "name": "Koi Kaze",
+                    "url": "https://myanimelist.net/anime/634/Koi_Kaze"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Koi_Kaze"
+        }
+    ]
+}

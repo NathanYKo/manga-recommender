@@ -1,0 +1,109 @@
+{
+    "mal_id": 28715,
+    "url": "https://myanimelist.net/manga/28715/Kimi_ga_Koi_ni_Midareru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/83635.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/83635t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/83635l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/83635.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/83635t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/83635l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi ga Koi ni Midareru"
+        },
+        {
+            "type": "Japanese",
+            "title": "きみが恋に乱れる"
+        }
+    ],
+    "title": "Kimi ga Koi ni Midareru",
+    "title_english": null,
+    "title_japanese": "きみが恋に乱れる",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-07-30T00:00:00+00:00",
+        "to": "2013-11-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 30,
+                "month": 11,
+                "year": 2013
+            }
+        },
+        "string": "Jul 30, 2011 to Nov 30, 2013"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 1175,
+    "rank": null,
+    "popularity": 7762,
+    "members": 2653,
+    "favorites": 5,
+    "synopsis": "After a fairly futile attempt at capturing the heart of Jinnai, Kijima finds himself dealt with a lucky hand once again.\n\nOne day, dazzled by the pattern of a beautiful kimono, he suddenly finds himself enchanted by the talent behind its simple genius. Just how far will he go for such a lovely masterpiece?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2273,
+            "type": "people",
+            "name": "Takanaga, Hinako",
+            "url": "https://myanimelist.net/people/2273/Hinako_Takanaga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 149,
+            "type": "manga",
+            "name": "Asuka Ciel",
+            "url": "https://myanimelist.net/manga/magazine/149/Asuka_Ciel"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 6304,
+                    "type": "manga",
+                    "name": "Kimi ga Koi ni Oboreru",
+                    "url": "https://myanimelist.net/manga/6304/Kimi_ga_Koi_ni_Oboreru"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

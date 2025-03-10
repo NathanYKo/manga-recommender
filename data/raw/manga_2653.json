@@ -1,0 +1,131 @@
+{
+    "mal_id": 2653,
+    "url": "https://myanimelist.net/manga/2653/Love_Neco",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/172163.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/172163t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/172163l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/172163.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/172163t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/172163l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Love Neco"
+        },
+        {
+            "type": "Synonym",
+            "title": "Love Cat"
+        },
+        {
+            "type": "Synonym",
+            "title": "Love Neko"
+        },
+        {
+            "type": "Synonym",
+            "title": "Good Awakening to the Master"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラブネコ"
+        }
+    ],
+    "title": "Love Neco",
+    "title_english": null,
+    "title_japanese": "ラブネコ",
+    "title_synonyms": [
+        "Love Cat",
+        "Love Neko",
+        "Good Awakening to the Master"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-08-06T00:00:00+00:00",
+        "to": "2005-11-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 8,
+                "year": 2005
+            },
+            "to": {
+                "day": 7,
+                "month": 11,
+                "year": 2005
+            }
+        },
+        "string": "Aug 6, 2005 to Nov 7, 2005"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 7041,
+    "rank": null,
+    "popularity": 1651,
+    "members": 13081,
+    "favorites": 219,
+    "synopsis": "A new twist on the \"love doll\" genre. Tempted by an internet advertisement for a \"Necoco\" doll series, Eiji orders one on a whim, imagining a moe-tastic hadaka-apron-wearing girl to show up on his doorstep. Instead he gets a scrappy looking boy, and to make matters worse...he's an aggressive, tough-talking little brat.\n\n(Source: MU)\n\nIncluded one-shot: Good Awakening to the Master",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2959,
+            "type": "people",
+            "name": "Mishima, Kazuhiko",
+            "url": "https://myanimelist.net/people/2959/Kazuhiko_Mishima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 126,
+            "type": "manga",
+            "name": "Magazine Be x Boy",
+            "url": "https://myanimelist.net/manga/magazine/126/Magazine_Be_x_Boy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 51925,
+                    "type": "manga",
+                    "name": "Aigan Kitty",
+                    "url": "https://myanimelist.net/manga/51925/Aigan_Kitty"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

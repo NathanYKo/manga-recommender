@@ -1,0 +1,127 @@
+{
+    "mal_id": 106706,
+    "url": "https://myanimelist.net/manga/106706/Next_Life",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/203708.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/203708t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/203708l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/203708.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/203708t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/203708l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Next Life"
+        },
+        {
+            "type": "Japanese",
+            "title": "ネクストライフ"
+        }
+    ],
+    "title": "Next Life",
+    "title_english": null,
+    "title_japanese": "ネクストライフ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-05-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 26, 2017 to ?"
+    },
+    "score": 6.63,
+    "scored": 6.63,
+    "scored_by": 1264,
+    "rank": 14745,
+    "popularity": 4571,
+    "members": 4847,
+    "favorites": 4,
+    "synopsis": "Yamada Takashi lost his life in the snowy mountains—that is what he thought, but he then appeared in an unknown place; another world that looked like the game he played. Moreover there are many things that he doesn't know... While puzzled, he still retains the strongest class ability and is relieved.\n\nHigh rank magician, \"Wise man\" Marius is still living till today.\n\n(Source: Novel Updates)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 25275,
+            "type": "people",
+            "name": "Aino, Jin",
+            "url": "https://myanimelist.net/people/25275/Jin_Aino"
+        },
+        {
+            "mal_id": 45157,
+            "type": "people",
+            "name": "Ichikura, Tokage",
+            "url": "https://myanimelist.net/people/45157/Tokage_Ichikura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 58173,
+                    "type": "manga",
+                    "name": "Next Life",
+                    "url": "https://myanimelist.net/manga/58173/Next_Life"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://web-ace.jp/shonenace/contents/244/"
+        }
+    ]
+}

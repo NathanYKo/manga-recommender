@@ -1,0 +1,149 @@
+{
+    "mal_id": 3571,
+    "url": "https://myanimelist.net/manga/3571/Ten__Tenhou-doori_no_Kaidanji",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/260697.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/260697t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/260697l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/260697.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/260697t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/260697l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ten: Tenhou-doori no Kaidanji"
+        },
+        {
+            "type": "Japanese",
+            "title": "天 天和通りの快男児"
+        }
+    ],
+    "title": "Ten: Tenhou-doori no Kaidanji",
+    "title_english": null,
+    "title_japanese": "天 天和通りの快男児",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 164,
+    "volumes": 18,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1989-08-01T00:00:00+00:00",
+        "to": "2002-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 1989
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2002
+            }
+        },
+        "string": "Aug 1989 to Apr 2002"
+    },
+    "score": 8.34,
+    "scored": 8.34,
+    "scored_by": 2082,
+    "rank": 274,
+    "popularity": 3394,
+    "members": 6585,
+    "favorites": 312,
+    "synopsis": "It is 23 years after Akagi Shigeru's deadly battle with Washizu Iwao. Ten Takashi is living his life as a rep mahjong player. A kind person at heart, he also possesses a ingenious talent in mahjong. One day Ten meets Igawa Hiroyuki, a student player who 'plays by logic.' Hiroyuki is overwhelmed at Ten's playing style which involves anything besides logic, and soon becomes one of his close friends.\n\nBeing the rep player he is, Ten had to play against some Yakuza. The chance of victory seemed to be on Ten's side, then the yakuza decides to call their secret weapon, a legendary rep player called...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2539,
+            "type": "people",
+            "name": "Fukumoto, Nobuyuki",
+            "url": "https://myanimelist.net/people/2539/Nobuyuki_Fukumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 391,
+            "type": "manga",
+            "name": "Kindai Mahjong Gold",
+            "url": "https://myanimelist.net/manga/magazine/391/Kindai_Mahjong_Gold"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1218,
+                    "type": "manga",
+                    "name": "Akagi: Yami ni Oritatta Tensai",
+                    "url": "https://myanimelist.net/manga/1218/Akagi__Yami_ni_Oritatta_Tensai"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 16197,
+                    "type": "manga",
+                    "name": "Hero",
+                    "url": "https://myanimelist.net/manga/16197/Hero"
+                },
+                {
+                    "mal_id": 120369,
+                    "type": "manga",
+                    "name": "Yami-ma no Mamiya",
+                    "url": "https://myanimelist.net/manga/120369/Yami-ma_no_Mamiya"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 112780,
+                    "type": "manga",
+                    "name": "Fukumoto All Stars",
+                    "url": "https://myanimelist.net/manga/112780/Fukumoto_All_Stars"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%A4%A9_%E5%A4%A9%E5%92%8C%E9%80%9A%E3%82%8A%E3%81%AE%E5%BF%AB%E7%94%B7%E5%85%90#.E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9"
+        }
+    ]
+}

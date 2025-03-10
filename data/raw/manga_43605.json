@@ -1,0 +1,122 @@
+{
+    "mal_id": 43605,
+    "url": "https://myanimelist.net/manga/43605/Bleach__Spirits_Are_Forever_with_You",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/76783.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/76783t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/76783l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/76783.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/76783t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/76783l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bleach: Spirits Are Forever with You"
+        },
+        {
+            "type": "Japanese",
+            "title": "BLEACH Spirits Are Forever With You"
+        }
+    ],
+    "title": "Bleach: Spirits Are Forever with You",
+    "title_english": null,
+    "title_japanese": "BLEACH Spirits Are Forever With You",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 28,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-06-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 6,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 4, 2012"
+    },
+    "score": 7.91,
+    "scored": 7.91,
+    "scored_by": 1111,
+    "rank": 976,
+    "popularity": 5391,
+    "members": 4042,
+    "favorites": 61,
+    "synopsis": "Follows the events during the seventeen month timeskip after the Aizen battle, involving the eighth generation Kenpachi and a revived Szayel Aporro Granz.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1880,
+            "type": "people",
+            "name": "Kubo, Tite",
+            "url": "https://myanimelist.net/people/1880/Tite_Kubo"
+        },
+        {
+            "mal_id": 2948,
+            "type": "people",
+            "name": "Narita, Ryohgo",
+            "url": "https://myanimelist.net/people/2948/Ryohgo_Narita"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 12,
+                    "type": "manga",
+                    "name": "Bleach",
+                    "url": "https://myanimelist.net/manga/12/Bleach"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

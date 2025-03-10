@@ -1,0 +1,133 @@
+{
+    "mal_id": 114939,
+    "url": "https://myanimelist.net/manga/114939/Under_Ninja",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/220916.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/220916t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/220916l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/220916.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/220916t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/220916l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Under Ninja"
+        },
+        {
+            "type": "Japanese",
+            "title": "アンダーニンジャ"
+        },
+        {
+            "type": "English",
+            "title": "Under Ninja"
+        }
+    ],
+    "title": "Under Ninja",
+    "title_english": "Under Ninja",
+    "title_japanese": "アンダーニンジャ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2018-07-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 23, 2018 to ?"
+    },
+    "score": 7.17,
+    "scored": 7.17,
+    "scored_by": 1137,
+    "rank": 6461,
+    "popularity": 3005,
+    "members": 7482,
+    "favorites": 52,
+    "synopsis": "After World War II, Allied Command in Japan developed a new agency to help manage terrorism and violence within the Pacific region. The agency was staffed with ninja and they were initially tasked to handle domestic affairs. Eventually that program grew to its current form, managing 20,000 ninja across a range of domestic and international affairs. One of those ninja happens to be Kudo. The seventeen-year-old high school loser is now poised to be the next line of defense against a potential surge in foreign assassins invading Tokyo.\n\n(Source: Denpa)",
+    "background": "Under Ninja has been published in English by Denpa since January 10, 2023. It has also been released in Italian by J-POP since February 23, 2022; in German by Carlsen Verlag since January 31, 2023, and in French by Pika Édition since March 1, 2023.",
+    "authors": [
+        {
+            "mal_id": 2895,
+            "type": "people",
+            "name": "Hanazawa, Kengo",
+            "url": "https://myanimelist.net/people/2895/Kengo_Hanazawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 49766,
+                    "type": "anime",
+                    "name": "Under Ninja",
+                    "url": "https://myanimelist.net/anime/49766/Under_Ninja"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/underninja/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Under_Ninja"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+        }
+    ]
+}

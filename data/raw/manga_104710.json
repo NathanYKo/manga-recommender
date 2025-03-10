@@ -1,0 +1,153 @@
+{
+    "mal_id": 104710,
+    "url": "https://myanimelist.net/manga/104710/Koroshi_Ai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/192048.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/192048t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/192048l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/192048.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/192048t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/192048l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koroshi Ai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Koroshi Ai Bangai-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Koroshi Ai: After the File"
+        },
+        {
+            "type": "Japanese",
+            "title": "殺し愛"
+        },
+        {
+            "type": "English",
+            "title": "Love of Kill"
+        }
+    ],
+    "title": "Koroshi Ai",
+    "title_english": "Love of Kill",
+    "title_japanese": "殺し愛",
+    "title_synonyms": [
+        "Koroshi Ai Bangai-hen",
+        "Koroshi Ai: After the File"
+    ],
+    "type": "Manga",
+    "chapters": 102,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-10-15T00:00:00+00:00",
+        "to": "2023-01-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 14,
+                "month": 1,
+                "year": 2023
+            }
+        },
+        "string": "Oct 15, 2015 to Jan 14, 2023"
+    },
+    "score": 7.51,
+    "scored": 7.51,
+    "scored_by": 5243,
+    "rank": 2923,
+    "popularity": 1002,
+    "members": 19922,
+    "favorites": 302,
+    "synopsis": "The silent and stoic Chateau Dankworth is a bounty hunter. Her target: Song Ryang-ha, a notorious killer known for killing 18 high-class officials in a single night. To this day, his murders remain swift, efficient, and bloody. However, after Song Ryang-ha overpowers Chateau in their first encounter, he reveals his own intentions: he too is after her, aiming for her heart. \n\nSong Ryang-ha's attempts to catch her eye are quite unique, to say the least. He offers gifts to her in the form of her current targets, tied up and battered, and will do anything to spend more time together. Reluctantly, Chateau goes along with this act, and so begins the cat-and-mouse game of love between two killers.\n\n[Written by MAL Rewrite]",
+    "background": "Koroshi Ai was published in English as Love of Kill by Yen Press from March 30, 2021 to February 18, 2025.",
+    "authors": [
+        {
+            "mal_id": 44349,
+            "type": "people",
+            "name": "Fe",
+            "url": "https://myanimelist.net/people/44349/Fe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 573,
+            "type": "manga",
+            "name": "Comic Gene",
+            "url": "https://myanimelist.net/manga/magazine/573/Comic_Gene"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 69,
+            "type": "manga",
+            "name": "Organized Crime",
+            "url": "https://myanimelist.net/manga/genre/69/Organized_Crime"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 44516,
+                    "type": "anime",
+                    "name": "Koroshi Ai",
+                    "url": "https://myanimelist.net/anime/44516/Koroshi_Ai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Love_of_Kill"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/殺し愛"
+        }
+    ]
+}

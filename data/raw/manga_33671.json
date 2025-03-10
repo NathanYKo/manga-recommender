@@ -1,0 +1,158 @@
+{
+    "mal_id": 33671,
+    "url": "https://myanimelist.net/manga/33671/Owari_no_Chronicle",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/133157.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/133157t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/133157l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/133157.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/133157t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/133157l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Owari no Chronicle"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Ending Chronicle"
+        },
+        {
+            "type": "Synonym",
+            "title": "AHEAD Series"
+        },
+        {
+            "type": "Japanese",
+            "title": "終わりのクロニクル"
+        }
+    ],
+    "title": "Owari no Chronicle",
+    "title_english": null,
+    "title_japanese": "終わりのクロニクル",
+    "title_synonyms": [
+        "The Ending Chronicle",
+        "AHEAD Series"
+    ],
+    "type": "Light Novel",
+    "chapters": 258,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-06-25T00:00:00+00:00",
+        "to": "2005-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 2003
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2005
+            }
+        },
+        "string": "Jun 25, 2003 to Dec 25, 2005"
+    },
+    "score": 7.69,
+    "scored": 7.69,
+    "scored_by": 428,
+    "rank": 1811,
+    "popularity": 7339,
+    "members": 2832,
+    "favorites": 48,
+    "synopsis": "The world once fought a war with ten other worlds that exist alongside ours. That war was known as the Concept War and sixty years have passed since it was won. It was all kept secret and time has passed to the present without the ordinary people knowing.\n\nAfter the death of his grandfather, the high school student Sayama Mikoto is suddenly summoned by the giant corporation IAI. He learns this world is headed for destruction due to the acceleration of the Minus Concepts. To prevent this, negotiations must be undertaken with the survivors of the other parallel worlds so their ten concepts can be released.\n\nAnd so Sayama is caught up in the final battle to clean up after the Concept War which left behind so much enmity.\n\n(Source: Baka-Tsuki)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 12639,
+            "type": "people",
+            "name": "Kawakami, Minoru",
+            "url": "https://myanimelist.net/people/12639/Minoru_Kawakami"
+        },
+        {
+            "mal_id": 21297,
+            "type": "people",
+            "name": "Satoyasu",
+            "url": "https://myanimelist.net/people/21297/Satoyasu"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 143931,
+                    "type": "manga",
+                    "name": "Kamigami no Inai Hoshi de",
+                    "url": "https://myanimelist.net/manga/143931/Kamigami_no_Inai_Hoshi_de"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 13669,
+                    "type": "anime",
+                    "name": "Owari no Chronicle",
+                    "url": "https://myanimelist.net/anime/13669/Owari_no_Chronicle"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 94698,
+                    "type": "manga",
+                    "name": "Owari no Chronicle DC",
+                    "url": "https://myanimelist.net/manga/94698/Owari_no_Chronicle_DC"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%AE%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%AB"
+        }
+    ]
+}

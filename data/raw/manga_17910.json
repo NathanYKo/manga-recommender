@@ -1,0 +1,144 @@
+{
+    "mal_id": 17910,
+    "url": "https://myanimelist.net/manga/17910/Yomawari_Sensei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185367.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185367t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185367l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185367.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185367t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185367l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yomawari Sensei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nightwatch Teacher"
+        },
+        {
+            "type": "Japanese",
+            "title": "夜回り先生"
+        }
+    ],
+    "title": "Yomawari Sensei",
+    "title_english": null,
+    "title_japanese": "夜回り先生",
+    "title_synonyms": [
+        "Nightwatch Teacher"
+    ],
+    "type": "Manga",
+    "chapters": 45,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-10-25T00:00:00+00:00",
+        "to": "2008-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 10,
+                "year": 2004
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Oct 25, 2004 to Dec 25, 2008"
+    },
+    "score": 8.26,
+    "scored": 8.26,
+    "scored_by": 2738,
+    "rank": 360,
+    "popularity": 1303,
+    "members": 15891,
+    "favorites": 231,
+    "synopsis": "The author, a high school teacher, recounts his 12 years on \"night patrol\" in Yokohama City, where he comes face to face with youth dealing with issues ranging from self-mutilation to drug abuse.\n\n(Source: MU)",
+    "background": "Yomawari Sensei is based on Osamu Mizutani's life.",
+    "authors": [
+        {
+            "mal_id": 9724,
+            "type": "people",
+            "name": "Mizutani, Osamu",
+            "url": "https://myanimelist.net/people/9724/Osamu_Mizutani"
+        },
+        {
+            "mal_id": 9725,
+            "type": "people",
+            "name": "Tsuchida, Seiki",
+            "url": "https://myanimelist.net/people/9725/Seiki_Tsuchida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 136,
+            "type": "manga",
+            "name": "Ikki",
+            "url": "https://myanimelist.net/manga/magazine/136/Ikki"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 50057,
+                    "type": "manga",
+                    "name": "Yomawari Sensei Tokubetsu-hen: Sayonara ga Ienakute",
+                    "url": "https://myanimelist.net/manga/50057/Yomawari_Sensei_Tokubetsu-hen__Sayonara_ga_Ienakute"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Yomawari_Sensei"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%A4%9C%E5%9B%9E%E3%82%8A%E5%85%88%E7%94%9F_(%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

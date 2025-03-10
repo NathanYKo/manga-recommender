@@ -1,0 +1,148 @@
+{
+    "mal_id": 15221,
+    "url": "https://myanimelist.net/manga/15221/Usotsuki_Paradox",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/52965.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/52965t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/52965l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/52965.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/52965t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/52965l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Usotsuki Paradox"
+        },
+        {
+            "type": "Synonym",
+            "title": "Usotsuki Paradox: You Can Never Be Mine"
+        },
+        {
+            "type": "Synonym",
+            "title": "Liar's Paradox: You Can Never Be Mine"
+        },
+        {
+            "type": "Japanese",
+            "title": "うそつきパラドクス"
+        }
+    ],
+    "title": "Usotsuki Paradox",
+    "title_english": null,
+    "title_japanese": "うそつきパラドクス",
+    "title_synonyms": [
+        "Usotsuki Paradox: You Can Never Be Mine",
+        "Liar's Paradox: You Can Never Be Mine"
+    ],
+    "type": "Manga",
+    "chapters": 75,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-08-29T00:00:00+00:00",
+        "to": "2012-06-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 8,
+                "year": 2008
+            },
+            "to": {
+                "day": 29,
+                "month": 6,
+                "year": 2012
+            }
+        },
+        "string": "Aug 29, 2008 to Jun 29, 2012"
+    },
+    "score": 6.43,
+    "scored": 6.43,
+    "scored_by": 1799,
+    "rank": 17301,
+    "popularity": 3820,
+    "members": 5878,
+    "favorites": 17,
+    "synopsis": "Youkadou, a young man working at a certain office is in love with Seiyuu, an extremely beautiful coworker of his. She is in a long distance relationship with her boyfriend, but she agrees to go out with him with one condition: they'll never have sex.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7436,
+            "type": "people",
+            "name": "Kizuki, Akira",
+            "url": "https://myanimelist.net/people/7436/Akira_Kizuki"
+        },
+        {
+            "mal_id": 7582,
+            "type": "people",
+            "name": "Satou, Nanki",
+            "url": "https://myanimelist.net/people/7582/Nanki_Satou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Young Animal",
+            "url": "https://myanimelist.net/manga/magazine/2/Young_Animal"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 97568,
+                    "type": "manga",
+                    "name": "Butter Neko no Paradox",
+                    "url": "https://myanimelist.net/manga/97568/Butter_Neko_no_Paradox"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.younganimal.com/magazine/list/usotuki/index.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%86%E3%81%9D%E3%81%A4%E3%81%8D%E3%83%91%E3%83%A9%E3%83%89%E3%82%AF%E3%82%B9"
+        }
+    ]
+}

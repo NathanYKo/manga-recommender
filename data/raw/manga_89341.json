@@ -1,0 +1,138 @@
+{
+    "mal_id": 89341,
+    "url": "https://myanimelist.net/manga/89341/Nana-iro_Kakumei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/165397.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/165397t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/165397l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/165397.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/165397t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/165397l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nana-iro Kakumei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nana's Revolution"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rainbow Revolution"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nanairo Kakumei"
+        },
+        {
+            "type": "Japanese",
+            "title": "なないろ革命"
+        }
+    ],
+    "title": "Nana-iro Kakumei",
+    "title_english": null,
+    "title_japanese": "なないろ革命",
+    "title_synonyms": [
+        "Nana's Revolution",
+        "Rainbow Revolution",
+        "Nanairo Kakumei"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-08-02T00:00:00+00:00",
+        "to": "2017-08-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 8,
+                "year": 2014
+            },
+            "to": {
+                "day": 3,
+                "month": 8,
+                "year": 2017
+            }
+        },
+        "string": "Aug 2, 2014 to Aug 3, 2017"
+    },
+    "score": 6.85,
+    "scored": 6.85,
+    "scored_by": 879,
+    "rank": 11359,
+    "popularity": 7952,
+    "members": 2576,
+    "favorites": 44,
+    "synopsis": "Ever since primary school, Nana has never been able to refuse the wishes of her friend, Yuyu, even if they were unpleasant things like matching outfits and hairstyles... She wanted to change herself!\n\nA story about real friendship and sympathy.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4172,
+            "type": "people",
+            "name": "Yuzuhara, Mizuka",
+            "url": "https://myanimelist.net/people/4172/Mizuka_Yuzuhara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ribon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 31738,
+                    "type": "anime",
+                    "name": "Nanairo Kakumei",
+                    "url": "https://myanimelist.net/anime/31738/Nanairo_Kakumei"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%AA%E3%81%84%E3%82%8D%E9%9D%A9%E5%91%BD"
+        }
+    ]
+}

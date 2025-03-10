@@ -1,0 +1,128 @@
+{
+    "mal_id": 80371,
+    "url": "https://myanimelist.net/manga/80371/Kimi_to_Korekara",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186240.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186240t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186240l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186240.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186240t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186240l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi to Korekara"
+        },
+        {
+            "type": "Synonym",
+            "title": "Here on Out with You"
+        },
+        {
+            "type": "Japanese",
+            "title": "キミトコレカラ"
+        }
+    ],
+    "title": "Kimi to Korekara",
+    "title_english": null,
+    "title_japanese": "キミトコレカラ",
+    "title_synonyms": [
+        "Here on Out with You"
+    ],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-09-22T00:00:00+00:00",
+        "to": "2016-11-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 9,
+                "year": 2014
+            },
+            "to": {
+                "day": 22,
+                "month": 11,
+                "year": 2016
+            }
+        },
+        "string": "Sep 22, 2014 to Nov 22, 2016"
+    },
+    "score": 7.75,
+    "scored": 7.75,
+    "scored_by": 3026,
+    "rank": null,
+    "popularity": 3536,
+    "members": 6344,
+    "favorites": 27,
+    "synopsis": "Konya mo Nemurenai spin-off series, focusing more on Gorou and Verde's relationship.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3240,
+            "type": "people",
+            "name": "Yamamoto, Kotetsuko",
+            "url": "https://myanimelist.net/people/3240/Kotetsuko_Yamamoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 159,
+            "type": "manga",
+            "name": "RuTile",
+            "url": "https://myanimelist.net/manga/magazine/159/RuTile"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 33251,
+                    "type": "manga",
+                    "name": "Konya mo Nemurenai",
+                    "url": "https://myanimelist.net/manga/33251/Konya_mo_Nemurenai"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

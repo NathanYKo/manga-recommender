@@ -1,0 +1,144 @@
+{
+    "mal_id": 35211,
+    "url": "https://myanimelist.net/manga/35211/Kurayami_ni_Strobe",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/113549.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/113549t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/113549l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/113549.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/113549t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/113549l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kurayami ni Strobe"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Strobe in the Darkness"
+        },
+        {
+            "type": "Japanese",
+            "title": "くらやみにストロボ"
+        }
+    ],
+    "title": "Kurayami ni Strobe",
+    "title_english": null,
+    "title_japanese": "くらやみにストロボ",
+    "title_synonyms": [
+        "A Strobe in the Darkness"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-12-22T00:00:00+00:00",
+        "to": "2013-08-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 12,
+                "year": 2011
+            },
+            "to": {
+                "day": 26,
+                "month": 8,
+                "year": 2013
+            }
+        },
+        "string": "Dec 22, 2011 to Aug 26, 2013"
+    },
+    "score": 7.64,
+    "scored": 7.64,
+    "scored_by": 4003,
+    "rank": 2058,
+    "popularity": 2495,
+    "members": 8831,
+    "favorites": 80,
+    "synopsis": "Arata who is in love with his childhood friend Miyamoto, always eavesdrops on the confessions his friend receives from girls but Miyamoto constantly rejects the confessions saying he already has someone he likes. One day Miyamoto catches Arata eavesdropping and asks, \"Want to know who?\"",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 14181,
+            "type": "people",
+            "name": "Hayakawa, Nojiko",
+            "url": "https://myanimelist.net/people/14181/Nojiko_Hayakawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 460,
+            "type": "manga",
+            "name": "Cab",
+            "url": "https://myanimelist.net/manga/magazine/460/Cab"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 99755,
+                    "type": "manga",
+                    "name": "Kurayami no Shutter Speed",
+                    "url": "https://myanimelist.net/manga/99755/Kurayami_no_Shutter_Speed"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 94811,
+                    "type": "manga",
+                    "name": "Utsusemi ni Akari",
+                    "url": "https://myanimelist.net/manga/94811/Utsusemi_ni_Akari"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 81071,
+                    "type": "manga",
+                    "name": "Imamade, Korekara",
+                    "url": "https://myanimelist.net/manga/81071/Imamade_Korekara"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

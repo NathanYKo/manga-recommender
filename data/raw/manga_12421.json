@@ -1,0 +1,104 @@
+{
+    "mal_id": 12421,
+    "url": "https://myanimelist.net/manga/12421/Sensei_to_Watashi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/28502.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/28502t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/28502l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/28502.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/28502t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/28502l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sensei to Watashi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Teacher and Me"
+        },
+        {
+            "type": "Japanese",
+            "title": "センセイと私。"
+        }
+    ],
+    "title": "Sensei to Watashi",
+    "title_english": null,
+    "title_japanese": "センセイと私。",
+    "title_synonyms": [
+        "Teacher and Me"
+    ],
+    "type": "Manga",
+    "chapters": 23,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-09-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 9,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 20, 2008 to ?"
+    },
+    "score": 6.97,
+    "scored": 6.97,
+    "scored_by": 1234,
+    "rank": 9454,
+    "popularity": 5469,
+    "members": 3986,
+    "favorites": 12,
+    "synopsis": "Yoshino Haruka, 16 years old, substitutes for her sister at an arranged meeting and ends up falling in love with Kunihiro-san... To discover the day after that he is her new home room teacher! How are the two of them going to deal with this forbidden relationship?\n\n(Source: B-U)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5342,
+            "type": "people",
+            "name": "Minase, Ai",
+            "url": "https://myanimelist.net/people/5342/Ai_Minase"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Sho-Comi",
+            "url": "https://myanimelist.net/manga/magazine/22/Sho-Comi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

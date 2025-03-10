@@ -1,0 +1,110 @@
+{
+    "mal_id": 99296,
+    "url": "https://myanimelist.net/manga/99296/Hero_Killer",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/181487.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/181487t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/181487l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/181487.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/181487t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/181487l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hero Killer"
+        },
+        {
+            "type": "Japanese",
+            "title": "HERO KILLER"
+        }
+    ],
+    "title": "Hero Killer",
+    "title_english": null,
+    "title_japanese": "HERO KILLER",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-04-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 15, 2016"
+    },
+    "score": 6.65,
+    "scored": 6.65,
+    "scored_by": 1337,
+    "rank": 14454,
+    "popularity": 7541,
+    "members": 2751,
+    "favorites": 6,
+    "synopsis": "The story of a young man's revenge on the heroes that failed him.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 14017,
+            "type": "people",
+            "name": "Katou, Daiki",
+            "url": "https://myanimelist.net/people/14017/Daiki_Katou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1316,
+            "type": "manga",
+            "name": "Jump SQ.Crown",
+            "url": "https://myanimelist.net/manga/magazine/1316/Jump_SQCrown"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

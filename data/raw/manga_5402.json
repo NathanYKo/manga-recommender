@@ -1,0 +1,127 @@
+{
+    "mal_id": 5402,
+    "url": "https://myanimelist.net/manga/5402/Barbara",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/6815.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/6815t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/6815l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/6815.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/6815t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/6815l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Barbara"
+        },
+        {
+            "type": "Japanese",
+            "title": "ばるぼら"
+        },
+        {
+            "type": "English",
+            "title": "Barbara"
+        }
+    ],
+    "title": "Barbara",
+    "title_english": "Barbara",
+    "title_japanese": "ばるぼら",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1973-06-25T00:00:00+00:00",
+        "to": "1974-05-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 1973
+            },
+            "to": {
+                "day": 10,
+                "month": 5,
+                "year": 1974
+            }
+        },
+        "string": "Jun 25, 1973 to May 10, 1974"
+    },
+    "score": 6.97,
+    "scored": 6.97,
+    "scored_by": 1365,
+    "rank": 9508,
+    "popularity": 6783,
+    "members": 3126,
+    "favorites": 21,
+    "synopsis": "Barbara is a girl living in the streets of Tokyo. She become the muse of Yosuke Mikura, a popular writer, especially with the ladies. Between Yosuka and Barbara starts a relationship which is beneficial for his writings, but can end up in despair when Barbara chooses her freedom above the luxury she can get.\n\n(Source: ANN)",
+    "background": "Barbara was published in English by Digital Manga Publishing on August 29, 2012 and in Spanish by ECC Ediciones in November 2016.",
+    "authors": [
+        {
+            "mal_id": 1938,
+            "type": "people",
+            "name": "Tezuka, Osamu",
+            "url": "https://myanimelist.net/people/1938/Osamu_Tezuka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Big Comic",
+            "url": "https://myanimelist.net/manga/magazine/55/Big_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 142572,
+                    "type": "manga",
+                    "name": "Nagai Go-ban Barbara",
+                    "url": "https://myanimelist.net/manga/142572/Nagai_Go-ban_Barbara"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 133882,
+                    "type": "manga",
+                    "name": "Mitsume ga Warau",
+                    "url": "https://myanimelist.net/manga/133882/Mitsume_ga_Warau"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://en.tezuka.co.jp/manga/backlist/ha05/ha05_00201.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%B0%E3%82%8B%E3%81%BC%E3%82%89"
+        }
+    ]
+}

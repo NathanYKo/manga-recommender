@@ -1,0 +1,148 @@
+{
+    "mal_id": 1148,
+    "url": "https://myanimelist.net/manga/1148/Souten_no_Ken",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/829.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/829t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/829l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/829.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/829t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/829l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Souten no Ken"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fist of the Blue Sky"
+        },
+        {
+            "type": "Japanese",
+            "title": "蒼天の拳"
+        },
+        {
+            "type": "English",
+            "title": "Fist of the Blue Sky"
+        }
+    ],
+    "title": "Souten no Ken",
+    "title_english": "Fist of the Blue Sky",
+    "title_japanese": "蒼天の拳",
+    "title_synonyms": [
+        "Fist of the Blue Sky"
+    ],
+    "type": "Manga",
+    "chapters": 260,
+    "volumes": 22,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-05-01T00:00:00+00:00",
+        "to": "2010-08-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 5,
+                "year": 2001
+            },
+            "to": {
+                "day": 27,
+                "month": 8,
+                "year": 2010
+            }
+        },
+        "string": "May 2001 to Aug 27, 2010"
+    },
+    "score": 7.67,
+    "scored": 7.67,
+    "scored_by": 1955,
+    "rank": 1925,
+    "popularity": 3622,
+    "members": 6216,
+    "favorites": 80,
+    "synopsis": "A mysterious man known as \"the King of Death\" roams the streets of pre-war Shanghai in this action-packed prequel to Fist of the North Star.\n\nShanghai in the 1930s is a dangerous place. Foreign governments and Chinese factions have carved the city into different quarters, each with its own laws and government, and all rife with corruption. As the major powers vie for political control, the streets are left to local gangs. Life is cheap, and death is always near.\n\nIn days past, one man walked these mean streets battling the forces of evil. He was known only as Yan Wang, \"the King of Death.\" Few knew who he really was, but many knew that he was a master of Hokuto Shinken - Fist of the North Star - a lethal martial art. He disappeared years ago after dispatching the city's worst gangsters, and is now rumored to be in Japan. Various people have come to Japan in search of him, but who will find him first?",
+    "background": "Souten no Ken was first published in English as Fist of the Blue Sky in the manga anthology Raijin Comics, published by Gutsoon! Entertainment, from December 2002 (issue #0) to July 2004 (final issue #46). Four collected volumes, also published by Gutsoon! Entertainment under the Raijin Graphic Novels imprint, from June 18, 2003 to March 1, 2004, were released before the publisher became defunct.",
+    "authors": [
+        {
+            "mal_id": 2847,
+            "type": "people",
+            "name": "Hara, Tetsuo",
+            "url": "https://myanimelist.net/people/2847/Tetsuo_Hara"
+        },
+        {
+            "mal_id": 2848,
+            "type": "people",
+            "name": "Buronson",
+            "url": "https://myanimelist.net/people/2848/Buronson"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 92,
+            "type": "manga",
+            "name": "Comic Bunch",
+            "url": "https://myanimelist.net/manga/magazine/92/Comic_Bunch"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1149,
+                    "type": "manga",
+                    "name": "Hokuto no Ken",
+                    "url": "https://myanimelist.net/manga/1149/Hokuto_no_Ken"
+                },
+                {
+                    "mal_id": 109341,
+                    "type": "manga",
+                    "name": "Souten no Ken: Regenesis",
+                    "url": "https://myanimelist.net/manga/109341/Souten_no_Ken__Regenesis"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1541,
+                    "type": "anime",
+                    "name": "Souten no Ken",
+                    "url": "https://myanimelist.net/anime/1541/Souten_no_Ken"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Fist_of_the_Blue_Sky"
+        }
+    ]
+}

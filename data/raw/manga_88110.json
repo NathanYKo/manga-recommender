@@ -1,0 +1,166 @@
+{
+    "mal_id": 88110,
+    "url": "https://myanimelist.net/manga/88110/Fate_stay_night__Heavens_Feel",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/159383.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/159383t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/159383l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/159383.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/159383t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/159383l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fate/stay night: Heaven's Feel"
+        },
+        {
+            "type": "Japanese",
+            "title": "Fate/stay night [Heaven's Feel]"
+        }
+    ],
+    "title": "Fate/stay night: Heaven's Feel",
+    "title_english": null,
+    "title_japanese": "Fate/stay night [Heaven's Feel]",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-05-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 5,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 2, 2015 to ?"
+    },
+    "score": 8.03,
+    "scored": 8.03,
+    "scored_by": 2058,
+    "rank": 704,
+    "popularity": 2506,
+    "members": 8803,
+    "favorites": 180,
+    "synopsis": "Ten years after the Holy Grail War, a devastating clash between Masters and Servants, another war erupts. Shirou Emiya, whose father fought in the first battle, was leading a peaceful life with the warmhearted Sakura Matou. But when hidden forces begin to stir, Shirou resolves to fulfill his father's dying wish, protect Sakura, and fight for the Holy Grail.\n\n(Source: Crunchyroll)",
+    "background": "Fate/stay night: Heaven's Feel is an adaptation of the third route of TYPE-MOON's 2004 visual novel Fate/stay night for PC.",
+    "authors": [
+        {
+            "mal_id": 2582,
+            "type": "people",
+            "name": "Type-Moon",
+            "url": "https://myanimelist.net/people/2582/Type-Moon"
+        },
+        {
+            "mal_id": 18487,
+            "type": "people",
+            "name": "Ohna, Task",
+            "url": "https://myanimelist.net/people/18487/Task_Ohna"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 403,
+            "type": "manga",
+            "name": "Young Ace",
+            "url": "https://myanimelist.net/manga/magazine/403/Young_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 25537,
+                    "type": "anime",
+                    "name": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+                    "url": "https://myanimelist.net/anime/25537/Fate_stay_night_Movie__Heavens_Feel_-_I_Presage_Flower"
+                },
+                {
+                    "mal_id": 33049,
+                    "type": "anime",
+                    "name": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+                    "url": "https://myanimelist.net/anime/33049/Fate_stay_night_Movie__Heavens_Feel_-_II_Lost_Butterfly"
+                },
+                {
+                    "mal_id": 33050,
+                    "type": "anime",
+                    "name": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
+                    "url": "https://myanimelist.net/anime/33050/Fate_stay_night_Movie__Heavens_Feel_-_III_Spring_Song"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 715,
+                    "type": "manga",
+                    "name": "Fate/stay night",
+                    "url": "https://myanimelist.net/manga/715/Fate_stay_night"
+                },
+                {
+                    "mal_id": 135178,
+                    "type": "manga",
+                    "name": "Fate/stay night: Unlimited Blade Works",
+                    "url": "https://myanimelist.net/manga/135178/Fate_stay_night__Unlimited_Blade_Works"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fate/stay_night:_Heaven%27s_Feel"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/Fate/stay_night"
+        }
+    ]
+}

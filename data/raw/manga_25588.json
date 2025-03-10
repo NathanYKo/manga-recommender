@@ -1,0 +1,119 @@
+{
+    "mal_id": 25588,
+    "url": "https://myanimelist.net/manga/25588/Rakshasa_Street",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/258933.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/258933t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/258933l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/258933.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/258933t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/258933l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rakshasa Street"
+        },
+        {
+            "type": "Synonym",
+            "title": "Requiem Street"
+        },
+        {
+            "type": "Synonym",
+            "title": "ZhenHunJie"
+        },
+        {
+            "type": "Japanese",
+            "title": "镇魂街"
+        }
+    ],
+    "title": "Rakshasa Street",
+    "title_english": null,
+    "title_japanese": "镇魂街",
+    "title_synonyms": [
+        "Requiem Street",
+        "ZhenHunJie"
+    ],
+    "type": "Manhua",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2010-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2010 to ?"
+    },
+    "score": 7.16,
+    "scored": 7.16,
+    "scored_by": 450,
+    "rank": 6561,
+    "popularity": 6014,
+    "members": 3575,
+    "favorites": 43,
+    "synopsis": "Requiem Street, where evil spirits are attracted to in order to destroy them. A place where spirits and humans co-exist, not all humans can enter Requiem Street. Only those rare-soul users with guardian spirits can enter. Xia Ling was just a normal university intern, but a meeting by chance changes her ordinary life... In this world full of evil spirits, can you cooperate with your guardian spirit in order to survive? \n\n(Source: MU)",
+    "background": "Rakshasa Street was adapted to a 16-episode TV drama which broadcast in China from August 2 to September 6, 2017.",
+    "authors": [
+        {
+            "mal_id": 12391,
+            "type": "people",
+            "name": "Xu, Chen",
+            "url": "https://myanimelist.net/people/12391/Chen_Xu"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 33350,
+                    "type": "anime",
+                    "name": "Zhen Hun Jie",
+                    "url": "https://myanimelist.net/anime/33350/Zhen_Hun_Jie"
+                },
+                {
+                    "mal_id": 42359,
+                    "type": "anime",
+                    "name": "Zhen Hun Jie: Bei Luo Shi Men Pian Part 2",
+                    "url": "https://myanimelist.net/anime/42359/Zhen_Hun_Jie__Bei_Luo_Shi_Men_Pian_Part_2"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

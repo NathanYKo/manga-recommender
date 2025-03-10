@@ -1,0 +1,154 @@
+{
+    "mal_id": 761,
+    "url": "https://myanimelist.net/manga/761/Rockman_EXE",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/256646.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/256646t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/256646l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/256646.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/256646t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/256646l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rockman EXE"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rockman.EXE"
+        },
+        {
+            "type": "Japanese",
+            "title": "ロックマン エグゼ"
+        },
+        {
+            "type": "English",
+            "title": "MegaMan NT Warrior"
+        }
+    ],
+    "title": "Rockman EXE",
+    "title_english": "MegaMan NT Warrior",
+    "title_japanese": "ロックマン エグゼ",
+    "title_synonyms": [
+        "Rockman.EXE"
+    ],
+    "type": "Manga",
+    "chapters": 74,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-15T00:00:00+00:00",
+        "to": "2006-08-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": 15,
+                "month": 8,
+                "year": 2006
+            }
+        },
+        "string": "Jan 15, 2001 to Aug 15, 2006"
+    },
+    "score": 7.3,
+    "scored": 7.3,
+    "scored_by": 1294,
+    "rank": 4890,
+    "popularity": 7680,
+    "members": 2683,
+    "favorites": 118,
+    "synopsis": "The year is 200X and everyone is now connected to the Cyber Network. People carry their own PET (Personal Terminal) and are paired up with an artificial intelligence program called a NetNavi (or NetNavigator). Computers have turned the world into a bright and shiny utopia but there's always trouble in paradise. While the invention of the PET and NetNavis has brought great benefits to the world, computer hacking, virus spreading and other high-tech crimes are becoming a major problem. A sinister organization by the name of World Three has appeared and they've vowed to destroy this technological wonderland. Enter our young hero, Lan Hikari, an intensely curious and cheerful fifth grader. Synchronized with his NetNavigator, MegaMan, he becomes a super-charged dynamo. In and out of the Net, Lan and MegaMan do their best to thwart World Three's never-ending quest to take over the world!\n\n(Source: Viz Media)",
+    "background": "Rockman.EXE was published in English as MegaMan NT Warrior by VIZ Media from April 21, 2004 to February 5, 2008.",
+    "authors": [
+        {
+            "mal_id": 2595,
+            "type": "people",
+            "name": "Takamisaki, Ryou",
+            "url": "https://myanimelist.net/people/2595/Ryou_Takamisaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 213,
+            "type": "manga",
+            "name": "CoroCoro Comic",
+            "url": "https://myanimelist.net/manga/magazine/213/CoroCoro_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 15,
+            "type": "manga",
+            "name": "Kids",
+            "url": "https://myanimelist.net/manga/genre/15/Kids"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1710,
+                    "type": "anime",
+                    "name": "Rockman.EXE",
+                    "url": "https://myanimelist.net/anime/1710/RockmanEXE"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 16702,
+                    "type": "manga",
+                    "name": "Battle Story Rockman.EXE",
+                    "url": "https://myanimelist.net/manga/16702/Battle_Story_RockmanEXE"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%82%A8%E3%82%B0%E3%82%BC_(%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

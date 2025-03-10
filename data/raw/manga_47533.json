@@ -1,0 +1,118 @@
+{
+    "mal_id": 47533,
+    "url": "https://myanimelist.net/manga/47533/Jolyne_Gucci_de_Tobu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/83837.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/83837t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/83837l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/83837.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/83837t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/83837l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Jolyne, Gucci de Tobu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Jolyne"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fly High with Gucci"
+        },
+        {
+            "type": "Japanese",
+            "title": "徐倫、GUCCIで飛ぶ"
+        }
+    ],
+    "title": "Jolyne, Gucci de Tobu",
+    "title_english": null,
+    "title_japanese": "徐倫、GUCCIで飛ぶ",
+    "title_synonyms": [
+        "Jolyne",
+        "Fly High with Gucci"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-12-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 22, 2012"
+    },
+    "score": 6.4,
+    "scored": 6.4,
+    "scored_by": 4524,
+    "rank": 17613,
+    "popularity": 2701,
+    "members": 8246,
+    "favorites": 21,
+    "synopsis": "A standalone one-shot published by Araki, accompanying the multi-media campaign for his window illustrations on the new collection of the fashion brand Gucci.\n\nThe story is about Jolyne Kujo, who goes on a fantastic adventure when she tries to unravel the mystery behind a vintage piece she inherited from her mother's Gucci collection.\n\n(Source: Japan Daily Press)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2619,
+            "type": "people",
+            "name": "Araki, Hirohiko",
+            "url": "https://myanimelist.net/people/2619/Hirohiko_Araki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 3008,
+                    "type": "manga",
+                    "name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+                    "url": "https://myanimelist.net/manga/3008/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze"
+                },
+                {
+                    "mal_id": 3009,
+                    "type": "manga",
+                    "name": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+                    "url": "https://myanimelist.net/manga/3009/JoJo_no_Kimyou_na_Bouken_Part_6__Stone_Ocean"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%BE%90%E5%80%AB%E3%80%81GUCCI%E3%81%A7%E9%A3%9B%E3%81%B6"
+        }
+    ]
+}

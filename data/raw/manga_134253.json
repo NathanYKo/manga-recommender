@@ -1,0 +1,161 @@
+{
+    "mal_id": 134253,
+    "url": "https://myanimelist.net/manga/134253/Genshin__Dengeki_Comic_Anthology",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/241703.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/241703t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/241703l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/241703.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/241703t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/241703l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Genshin: Dengeki Comic Anthology"
+        },
+        {
+            "type": "Synonym",
+            "title": "Genshin Impact Comic Anthology"
+        },
+        {
+            "type": "Japanese",
+            "title": "原神 電撃コミックアンソロジー"
+        }
+    ],
+    "title": "Genshin: Dengeki Comic Anthology",
+    "title_english": null,
+    "title_japanese": "原神 電撃コミックアンソロジー",
+    "title_synonyms": [
+        "Genshin Impact Comic Anthology"
+    ],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2021-02-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 2,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 27, 2021"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 1790,
+    "rank": 3907,
+    "popularity": 3686,
+    "members": 6128,
+    "favorites": 138,
+    "synopsis": "An anthology of stories set in the world of the game Genshin Impact.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 13099,
+            "type": "people",
+            "name": "Mikage, Baku",
+            "url": "https://myanimelist.net/people/13099/Baku_Mikage"
+        },
+        {
+            "mal_id": 13591,
+            "type": "people",
+            "name": "Kanyapyi",
+            "url": "https://myanimelist.net/people/13591/Kanyapyi"
+        },
+        {
+            "mal_id": 23241,
+            "type": "people",
+            "name": "Sakurai, Energy",
+            "url": "https://myanimelist.net/people/23241/Energy_Sakurai"
+        },
+        {
+            "mal_id": 30673,
+            "type": "people",
+            "name": "Hirose, Madoka",
+            "url": "https://myanimelist.net/people/30673/Madoka_Hirose"
+        },
+        {
+            "mal_id": 40965,
+            "type": "people",
+            "name": "Arito, Arayuru",
+            "url": "https://myanimelist.net/people/40965/Arayuru_Arito"
+        },
+        {
+            "mal_id": 49456,
+            "type": "people",
+            "name": "Enda, Marimo",
+            "url": "https://myanimelist.net/people/49456/Marimo_Enda"
+        },
+        {
+            "mal_id": 49879,
+            "type": "people",
+            "name": "Tsumumi",
+            "url": "https://myanimelist.net/people/49879/Tsumumi"
+        },
+        {
+            "mal_id": 51341,
+            "type": "people",
+            "name": "Kanbara, Erika",
+            "url": "https://myanimelist.net/people/51341/Erika_Kanbara"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 138079,
+                    "type": "manga",
+                    "name": "Genshin Comic Anthology",
+                    "url": "https://myanimelist.net/manga/138079/Genshin_Comic_Anthology"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/原神"
+        }
+    ]
+}

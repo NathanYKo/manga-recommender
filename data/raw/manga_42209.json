@@ -1,0 +1,151 @@
+{
+    "mal_id": 42209,
+    "url": "https://myanimelist.net/manga/42209/Girls___Panzer__Little_Army",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/205710.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/205710t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/205710l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/205710.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/205710t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/205710l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Girls & Panzer: Little Army"
+        },
+        {
+            "type": "Synonym",
+            "title": "Girls and Panzer: Little Army"
+        },
+        {
+            "type": "Synonym",
+            "title": "Girls und Panzer"
+        },
+        {
+            "type": "Japanese",
+            "title": "ガールズ & パンツァー リトルアーミー"
+        }
+    ],
+    "title": "Girls & Panzer: Little Army",
+    "title_english": null,
+    "title_japanese": "ガールズ & パンツァー リトルアーミー",
+    "title_synonyms": [
+        "Girls and Panzer: Little Army",
+        "Girls und Panzer"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-06-27T00:00:00+00:00",
+        "to": "2013-01-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 6,
+                "year": 2012
+            },
+            "to": {
+                "day": 26,
+                "month": 1,
+                "year": 2013
+            }
+        },
+        "string": "Jun 27, 2012 to Jan 26, 2013"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 1563,
+    "rank": 4938,
+    "popularity": 6401,
+    "members": 3332,
+    "favorites": 53,
+    "synopsis": "Prequel of the anime story, telling the story when Nishizumi Miho first meet her friends to ride tank together during elementary school and how she eventually choose to avoid tanks.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 18637,
+            "type": "people",
+            "name": "Tsuchii",
+            "url": "https://myanimelist.net/people/18637/Tsuchii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 137,
+            "type": "manga",
+            "name": "Comic Alive",
+            "url": "https://myanimelist.net/manga/magazine/137/Comic_Alive"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 42223,
+                    "type": "manga",
+                    "name": "Girls & Panzer",
+                    "url": "https://myanimelist.net/manga/42223/Girls___Panzer"
+                },
+                {
+                    "mal_id": 89824,
+                    "type": "manga",
+                    "name": "Girls & Panzer: Little Army II",
+                    "url": "https://myanimelist.net/manga/89824/Girls___Panzer__Little_Army_II"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%26%E3%83%91%E3%83%B3%E3%83%84%E3%82%A1%E3%83%BC"
+        }
+    ]
+}

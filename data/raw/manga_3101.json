@@ -1,0 +1,133 @@
+{
+    "mal_id": 3101,
+    "url": "https://myanimelist.net/manga/3101/Deep_Love__Pao_no_Monogatari",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/36589.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/36589t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/36589l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/36589.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/36589t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/36589l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Deep Love: Pao no Monogatari"
+        },
+        {
+            "type": "Synonym",
+            "title": "Deep Love: Pao's Tale"
+        },
+        {
+            "type": "Japanese",
+            "title": "ＤｅｅｐＬｏｖｅ パオの物語"
+        }
+    ],
+    "title": "Deep Love: Pao no Monogatari",
+    "title_english": null,
+    "title_japanese": "ＤｅｅｐＬｏｖｅ パオの物語",
+    "title_synonyms": [
+        "Deep Love: Pao's Tale"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2005"
+    },
+    "score": 7.86,
+    "scored": 7.86,
+    "scored_by": 3615,
+    "rank": 1132,
+    "popularity": 2765,
+    "members": 8092,
+    "favorites": 85,
+    "synopsis": "Being abandoned by his owners, having his mother die of starvation, a puppy who suffered lifelong separation from his siblings wandered around the city. Meeting and parting with kind people, experiencing brutal treatment from unjust people. Pao, who learned to live within the harshness of reality, awaits even more ordeals...\n\n(Source: MangaTraders)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2083,
+            "type": "people",
+            "name": "Yoshi",
+            "url": "https://myanimelist.net/people/2083/Yoshi"
+        },
+        {
+            "mal_id": 8746,
+            "type": "people",
+            "name": "Kurosawa, Akiyo",
+            "url": "https://myanimelist.net/people/8746/Akiyo_Kurosawa"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1250,
+                    "type": "manga",
+                    "name": "Deep Love: Ayu no Monogatari",
+                    "url": "https://myanimelist.net/manga/1250/Deep_Love__Ayu_no_Monogatari"
+                },
+                {
+                    "mal_id": 1848,
+                    "type": "manga",
+                    "name": "Deep Love: Host",
+                    "url": "https://myanimelist.net/manga/1848/Deep_Love__Host"
+                },
+                {
+                    "mal_id": 1975,
+                    "type": "manga",
+                    "name": "Deep Love: Reina no Unmei",
+                    "url": "https://myanimelist.net/manga/1975/Deep_Love__Reina_no_Unmei"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

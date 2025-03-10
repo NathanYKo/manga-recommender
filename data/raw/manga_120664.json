@@ -1,0 +1,170 @@
+{
+    "mal_id": 120664,
+    "url": "https://myanimelist.net/manga/120664/Douluo_Dalu_4__Zhongji_Douluo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/220677.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/220677t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/220677l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/220677.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/220677t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/220677l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Douluo Dalu 4: Zhongji Douluo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Soul Land 4"
+        },
+        {
+            "type": "Synonym",
+            "title": "Combat Continent 4"
+        },
+        {
+            "type": "Synonym",
+            "title": "Douluo Dalu IV: The Ultimate Combat"
+        },
+        {
+            "type": "Japanese",
+            "title": "斗罗大陆4终极斗罗"
+        },
+        {
+            "type": "English",
+            "title": "Soul Land IV: Ultimate Fighting"
+        }
+    ],
+    "title": "Douluo Dalu 4: Zhongji Douluo",
+    "title_english": "Soul Land IV: Ultimate Fighting",
+    "title_japanese": "斗罗大陆4终极斗罗",
+    "title_synonyms": [
+        "Soul Land 4",
+        "Combat Continent 4",
+        "Douluo Dalu IV: The Ultimate Combat"
+    ],
+    "type": "Manhua",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-01-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 31, 2019 to ?"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 1060,
+    "rank": 3895,
+    "popularity": 6106,
+    "members": 3517,
+    "favorites": 47,
+    "synopsis": "The Douluo federal expedition team found an egg with golden and silver patterns in the Northernmost Land. After detecting, they found signs of life inside. They quickly brought it back to their Institute for incubation. The egg hatched and a human baby came out; at the same time, the Federal Academy of Sciences was unfreezing a silver-haired woman, and a blue-haired young man was found on the waterfront.\n\n(Source: Webnovel)",
+    "background": "Douluo Dalu 4: Zhongji Douluo has been published digitally in English as Soul Land IV: Ultimate Fighting by Webnovel since April 23, 2019.",
+    "authors": [
+        {
+            "mal_id": 31915,
+            "type": "people",
+            "name": "Tang Jia San Shao",
+            "url": "https://myanimelist.net/people/31915/Tang_Jia_San_Shao"
+        },
+        {
+            "mal_id": 49359,
+            "type": "people",
+            "name": "Dr. Daji",
+            "url": "https://myanimelist.net/people/49359/Dr_Daji"
+        },
+        {
+            "mal_id": 49361,
+            "type": "people",
+            "name": "Bart. D",
+            "url": "https://myanimelist.net/people/49361/Bart_D"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1434,
+            "type": "manga",
+            "name": "Tencent Animation",
+            "url": "https://myanimelist.net/manga/magazine/1434/Tencent_Animation"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 111279,
+                    "type": "manga",
+                    "name": "Douluo Dalu 3: Longwang Chuanshuo",
+                    "url": "https://myanimelist.net/manga/111279/Douluo_Dalu_3__Longwang_Chuanshuo"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 161089,
+                    "type": "manga",
+                    "name": "Douluo Dalu 5: Chongsheng Tang San",
+                    "url": "https://myanimelist.net/manga/161089/Douluo_Dalu_5__Chongsheng_Tang_San"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://ac.qq.com/Comic/comicInfo/id/638790"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "mal_id": 109119,
+    "url": "https://myanimelist.net/manga/109119/Kashikomarimashita_Destiny__Answer",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/208044.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/208044t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/208044l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/208044.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/208044t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/208044l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kashikomarimashita, Destiny: Answer"
+        },
+        {
+            "type": "Japanese",
+            "title": "かしこまりました、デスティニー ~Answer~"
+        },
+        {
+            "type": "English",
+            "title": "Yes, My Destiny, Answer"
+        }
+    ],
+    "title": "Kashikomarimashita, Destiny: Answer",
+    "title_english": "Yes, My Destiny, Answer",
+    "title_japanese": "かしこまりました、デスティニー ~Answer~",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-10-24T00:00:00+00:00",
+        "to": "2017-03-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Oct 24, 2016 to Mar 24, 2017"
+    },
+    "score": 8.25,
+    "scored": 8.25,
+    "scored_by": 1496,
+    "rank": null,
+    "popularity": 7086,
+    "members": 2961,
+    "favorites": 82,
+    "synopsis": "Continuation of Kashikomarimashita, Destiny.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 43451,
+            "type": "people",
+            "name": "Sachimo",
+            "url": "https://myanimelist.net/people/43451/Sachimo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1344,
+            "type": "manga",
+            "name": "Omegaverse Project",
+            "url": "https://myanimelist.net/manga/magazine/1344/Omegaverse_Project"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 102504,
+                    "type": "manga",
+                    "name": "Kashikomarimashita, Destiny",
+                    "url": "https://myanimelist.net/manga/102504/Kashikomarimashita_Destiny"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

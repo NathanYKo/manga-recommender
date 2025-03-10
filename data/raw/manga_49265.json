@@ -1,0 +1,167 @@
+{
+    "mal_id": 49265,
+    "url": "https://myanimelist.net/manga/49265/Drag-On_Dragoon__Shi_ni_Itaru_Aka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/114671.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/114671t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/114671l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/114671.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/114671t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/114671l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Drag-On Dragoon: Shi ni Itaru Aka"
+        },
+        {
+            "type": "Synonym",
+            "title": "Drakengard: The Red Unto Death"
+        },
+        {
+            "type": "Synonym",
+            "title": "Drakengard: Fatal Crimson"
+        },
+        {
+            "type": "Japanese",
+            "title": "DRAG-ON DRAGOON 死ニ至ル赤"
+        }
+    ],
+    "title": "Drag-On Dragoon: Shi ni Itaru Aka",
+    "title_english": null,
+    "title_japanese": "DRAG-ON DRAGOON 死ニ至ル赤",
+    "title_synonyms": [
+        "Drakengard: The Red Unto Death",
+        "Drakengard: Fatal Crimson"
+    ],
+    "type": "Manga",
+    "chapters": 21,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-01-03T00:00:00+00:00",
+        "to": "2014-08-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            }
+        },
+        "string": "Jan 3, 2013 to Aug 1, 2014"
+    },
+    "score": 6.44,
+    "scored": 6.44,
+    "scored_by": 1264,
+    "rank": 17243,
+    "popularity": 6223,
+    "members": 3439,
+    "favorites": 33,
+    "synopsis": "The first portion of the manga takes place three years before the original Drakengard. One, along with his elven companion Nero, travel through Midgard killing all those that suffer from the Red Eye disease, eventually killing the current head of the Cult of Watchers, Fey.\n\nThe second portion of the manga consists of a flashback that takes place six years before the original Drakengard, on the day of Caim's birthday. It details the spread of the Red Eye disease throughout Caerleon and the death of Caim's parents at the hands of Legna\n\n(Source: Drakengard Wikia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 12833,
+            "type": "people",
+            "name": "Yoo, Jetae",
+            "url": "https://myanimelist.net/people/12833/Jetae_Yoo"
+        },
+        {
+            "mal_id": 16027,
+            "type": "people",
+            "name": "Eishima, Jun",
+            "url": "https://myanimelist.net/people/16027/Jun_Eishima"
+        },
+        {
+            "mal_id": 29087,
+            "type": "people",
+            "name": "Yoko, Taro",
+            "url": "https://myanimelist.net/people/29087/Taro_Yoko"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 60419,
+                    "type": "manga",
+                    "name": "Drag-on Dragoon: Judgement",
+                    "url": "https://myanimelist.net/manga/60419/Drag-on_Dragoon__Judgement"
+                },
+                {
+                    "mal_id": 65667,
+                    "type": "manga",
+                    "name": "Drag-On Dragoon: Utahime Five",
+                    "url": "https://myanimelist.net/manga/65667/Drag-On_Dragoon__Utahime_Five"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 79165,
+                    "type": "manga",
+                    "name": "Drag-On Dragoon 3: Story Side",
+                    "url": "https://myanimelist.net/manga/79165/Drag-On_Dragoon_3__Story_Side"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.square-enix.co.jp/magazine/yg/introduction/dragondragoon/"
+        }
+    ]
+}

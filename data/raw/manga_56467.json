@@ -1,0 +1,139 @@
+{
+    "mal_id": 56467,
+    "url": "https://myanimelist.net/manga/56467/Baroque_K_night",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/139335.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/139335t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/139335l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/139335.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/139335t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/139335l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Baroque K/night"
+        },
+        {
+            "type": "Synonym",
+            "title": "Baroque Knight"
+        },
+        {
+            "type": "Synonym",
+            "title": "Baroque Night"
+        },
+        {
+            "type": "Japanese",
+            "title": "バロックナイト"
+        }
+    ],
+    "title": "Baroque K/night",
+    "title_english": null,
+    "title_japanese": "バロックナイト",
+    "title_synonyms": [
+        "Baroque Knight",
+        "Baroque Night"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-06-27T00:00:00+00:00",
+        "to": "2014-07-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 6,
+                "year": 2013
+            },
+            "to": {
+                "day": 26,
+                "month": 7,
+                "year": 2014
+            }
+        },
+        "string": "Jun 27, 2013 to Jul 26, 2014"
+    },
+    "score": 6.28,
+    "scored": 6.28,
+    "scored_by": 1075,
+    "rank": 18600,
+    "popularity": 8563,
+    "members": 2351,
+    "favorites": 2,
+    "synopsis": "One day a strange, new girl named Baroque shows up at Kyouya's average high school. She has been searching for him, and invites him to play in a virtual reality video game with her. He turns her down repeatedly, but things end up progressing quickly anyway.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 17943,
+            "type": "people",
+            "name": "Hamura, Tetsu",
+            "url": "https://myanimelist.net/people/17943/Tetsu_Hamura"
+        },
+        {
+            "mal_id": 17945,
+            "type": "people",
+            "name": "Mori, Misaki",
+            "url": "https://myanimelist.net/people/17945/Misaki_Mori"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 137,
+            "type": "manga",
+            "name": "Comic Alive",
+            "url": "https://myanimelist.net/manga/magazine/137/Comic_Alive"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 56469,
+                    "type": "manga",
+                    "name": "Baroque K/night",
+                    "url": "https://myanimelist.net/manga/56469/Baroque_K_night"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

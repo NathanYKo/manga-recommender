@@ -1,0 +1,156 @@
+{
+    "mal_id": 93398,
+    "url": "https://myanimelist.net/manga/93398/Nanbaka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166984.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166984t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166984l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166984.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166984t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166984l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nanbaka"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nambaka"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Numbers"
+        },
+        {
+            "type": "Synonym",
+            "title": "Numbaka"
+        },
+        {
+            "type": "Japanese",
+            "title": "ナンバカ"
+        },
+        {
+            "type": "English",
+            "title": "Nanbaka"
+        }
+    ],
+    "title": "Nanbaka",
+    "title_english": "Nanbaka",
+    "title_japanese": "ナンバカ",
+    "title_synonyms": [
+        "Nambaka",
+        "The Numbers",
+        "Numbaka"
+    ],
+    "type": "Manga",
+    "chapters": 423,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-10-13T00:00:00+00:00",
+        "to": "2022-06-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 2022
+            }
+        },
+        "string": "Oct 13, 2013 to Jun 25, 2022"
+    },
+    "score": 7.82,
+    "scored": 7.82,
+    "scored_by": 1930,
+    "rank": 1238,
+    "popularity": 2465,
+    "members": 8911,
+    "favorites": 281,
+    "synopsis": "A super exciting action comedy starring the inmates and guards of the world's most formidable prison.\n\n(Source: Crunchyroll)",
+    "background": "Nanbaka has been digitally simulpublished in English by Crunchyroll since December 21, 2015.",
+    "authors": [
+        {
+            "mal_id": 37057,
+            "type": "people",
+            "name": "Futamata, Shou",
+            "url": "https://myanimelist.net/people/37057/Shou_Futamata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1278,
+            "type": "manga",
+            "name": "comico",
+            "url": "https://myanimelist.net/manga/magazine/1278/comico"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 30016,
+                    "type": "anime",
+                    "name": "Nanbaka",
+                    "url": "https://myanimelist.net/anime/30016/Nanbaka"
+                },
+                {
+                    "mal_id": 34414,
+                    "type": "anime",
+                    "name": "Nanbaka 2",
+                    "url": "https://myanimelist.net/anime/34414/Nanbaka_2"
+                },
+                {
+                    "mal_id": 34533,
+                    "type": "anime",
+                    "name": "Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!",
+                    "url": "https://myanimelist.net/anime/34533/Nanbaka__Shusseki_Bangou_no_Tsuita_Baka-tachi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.comico.jp/articleList.nhn?titleNo=49"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%B3%E3%83%90%E3%82%AB"
+        }
+    ]
+}

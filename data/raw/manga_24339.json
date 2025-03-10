@@ -1,0 +1,109 @@
+{
+    "mal_id": 24339,
+    "url": "https://myanimelist.net/manga/24339/Ouran_Koukou_Host_Club_Short_Special",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/39258.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/39258t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/39258l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/39258.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/39258t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/39258l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ouran Koukou Host Club Short Special"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ouran High School Host Club Short Special"
+        },
+        {
+            "type": "Japanese",
+            "title": "桜蘭高校ホスト部"
+        }
+    ],
+    "title": "Ouran Koukou Host Club Short Special",
+    "title_english": null,
+    "title_japanese": "桜蘭高校ホスト部",
+    "title_synonyms": [
+        "Ouran High School Host Club Short Special"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-11-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 11,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 2010"
+    },
+    "score": 8.03,
+    "scored": 8.03,
+    "scored_by": 2522,
+    "rank": 696,
+    "popularity": 3660,
+    "members": 6158,
+    "favorites": 20,
+    "synopsis": "Two months after the Ouran Host Club members move to Boston, Mitsukuni \"Hunny\" Haninozuka experiences a very dramatic growth spurt. Now the shortest among their group, Haruhi Fujioka feels claustrophobic in her tiny apartment and self-conscious about her own height. The others in the club wonder what exactly happened to allow Hunny to grow so much in a brief time.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1895,
+            "type": "people",
+            "name": "Hatori, Bisco",
+            "url": "https://myanimelist.net/people/1895/Bisco_Hatori"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "LaLa",
+            "url": "https://myanimelist.net/manga/magazine/11/LaLa"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 30,
+                    "type": "manga",
+                    "name": "Ouran Koukou Host Club",
+                    "url": "https://myanimelist.net/manga/30/Ouran_Koukou_Host_Club"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

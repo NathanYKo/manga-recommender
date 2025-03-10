@@ -1,0 +1,102 @@
+{
+    "mal_id": 103574,
+    "url": "https://myanimelist.net/manga/103574/Eiga_Koe_no_Katachi_Special_Book",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190693.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190693t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190693l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/190693.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/190693t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/190693l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Eiga Koe no Katachi Special Book"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Silent Voice Special Book"
+        },
+        {
+            "type": "Japanese",
+            "title": "映画『聲の形』Special Book"
+        }
+    ],
+    "title": "Eiga Koe no Katachi Special Book",
+    "title_english": null,
+    "title_japanese": "映画『聲の形』Special Book",
+    "title_synonyms": [
+        "A Silent Voice Special Book"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-09-17T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 9,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 17, 2016"
+    },
+    "score": 7.73,
+    "scored": 7.73,
+    "scored_by": 4417,
+    "rank": 1600,
+    "popularity": 2446,
+    "members": 8979,
+    "favorites": 60,
+    "synopsis": "Yaeko Nishimiya is a cold-hearted single mother tasked with raising Shouko, her daughter, who has impaired hearing. Though Shouko's disability is a cumbersome one, Yaeko remains determined to raise her daughter into an independent young woman—no matter what parenting tactics she must use.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10951,
+            "type": "people",
+            "name": "Ooima, Yoshitoki",
+            "url": "https://myanimelist.net/people/10951/Yoshitoki_Ooima"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 56805,
+                    "type": "manga",
+                    "name": "Koe no Katachi",
+                    "url": "https://myanimelist.net/manga/56805/Koe_no_Katachi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

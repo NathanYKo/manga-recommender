@@ -1,0 +1,161 @@
+{
+    "mal_id": 4018,
+    "url": "https://myanimelist.net/manga/4018/Top_Secret",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/164139.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/164139t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/164139l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/164139.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/164139t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/164139l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Top Secret"
+        },
+        {
+            "type": "Synonym",
+            "title": "Himitsu The Top Secret"
+        },
+        {
+            "type": "Japanese",
+            "title": "秘密 －トップ・シークレット－"
+        }
+    ],
+    "title": "Top Secret",
+    "title_english": null,
+    "title_japanese": "秘密 －トップ・シークレット－",
+    "title_synonyms": [
+        "Himitsu The Top Secret"
+    ],
+    "type": "Manga",
+    "chapters": 22,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-02-16T00:00:00+00:00",
+        "to": "2012-06-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 2,
+                "year": 1999
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2012
+            }
+        },
+        "string": "Feb 16, 1999 to Jun 28, 2012"
+    },
+    "score": 7.81,
+    "scored": 7.81,
+    "scored_by": 632,
+    "rank": 1312,
+    "popularity": 5098,
+    "members": 4294,
+    "favorites": 65,
+    "synopsis": "What if it's possible to extract some two or more years of a person's memories (projected onto visual display for all to see) from the brain after the person's death? It would certainly be beneficial for solving difficult murder cases since the memories would display the victims' last moments. But at what cost? What of the dead's privacy as strangers poke about in their most private memories? What about the effects the imageries may have on the persons whose jobs require going through psychotic murderers' minds and experience whatever emotions and feelings these murderers felt as they skin and disembowel their victims? In The Top Secret, Shimizu-sensei explores the idea of re-displaying images of decedents' memories from their brains.",
+    "background": "Top Secret won the Excellence Award at the 15th Japan Media Arts Festival in 2011. The series was adapted into a Japanese live-action movie that was released on August 6, 2016.",
+    "authors": [
+        {
+            "mal_id": 2958,
+            "type": "people",
+            "name": "Shimizu, Reiko",
+            "url": "https://myanimelist.net/people/2958/Reiko_Shimizu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 71,
+            "type": "manga",
+            "name": "Melody",
+            "url": "https://myanimelist.net/manga/magazine/71/Melody"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 47513,
+                    "type": "manga",
+                    "name": "Top Secret Season 0",
+                    "url": "https://myanimelist.net/manga/47513/Top_Secret_Season_0"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3859,
+                    "type": "anime",
+                    "name": "Top Secret: The Revelation",
+                    "url": "https://myanimelist.net/anime/3859/Top_Secret__The_Revelation"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%A7%98%E5%AF%86_-%E3%83%88%E3%83%83%E3%83%97%E3%83%BB%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88-"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Himitsu_%E2%80%93_Top_Secret"
+        }
+    ]
+}

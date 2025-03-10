@@ -1,0 +1,149 @@
+{
+    "mal_id": 767,
+    "url": "https://myanimelist.net/manga/767/Yellow",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/261211.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/261211t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/261211l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/261211.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/261211t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/261211l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yellow"
+        },
+        {
+            "type": "Japanese",
+            "title": "YELLOW"
+        },
+        {
+            "type": "English",
+            "title": "Yellow"
+        }
+    ],
+    "title": "Yellow",
+    "title_english": "Yellow",
+    "title_japanese": "YELLOW",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-10-04T00:00:00+00:00",
+        "to": "2004-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2001
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            }
+        },
+        "string": "Oct 4, 2001 to 2004"
+    },
+    "score": 7.9,
+    "scored": 7.9,
+    "scored_by": 2637,
+    "rank": null,
+    "popularity": 4178,
+    "members": 5388,
+    "favorites": 131,
+    "synopsis": "Gou and Taki are a pair of \"drug snatchers\", often employed by an unknown third party to take drugs and many other things from the mafia, and sometimes private vendors. Gou is gay while Taki is straight, yet they form a solid partnership to carry out their dangerous work. Yet Gou makes no secret of his undying affections for Taki, no matter how Taki resists them, Gou never gives up. With this determination, will Taki forever be able to refuse Gou's feelings? or will he be forced to man up to something larger than himself?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2211,
+            "type": "people",
+            "name": "Tateno, Makoto",
+            "url": "https://myanimelist.net/people/2211/Makoto_Tateno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 126,
+            "type": "manga",
+            "name": "Magazine Be x Boy",
+            "url": "https://myanimelist.net/manga/magazine/126/Magazine_Be_x_Boy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 16758,
+                    "type": "manga",
+                    "name": "Yellow/R",
+                    "url": "https://myanimelist.net/manga/16758/Yellow_R"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/YELLOW_(立野真琴の漫画)"
+        }
+    ]
+}

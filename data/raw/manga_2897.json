@@ -1,0 +1,147 @@
+{
+    "mal_id": 2897,
+    "url": "https://myanimelist.net/manga/2897/Neko_Majin",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/111781.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/111781t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/111781l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/111781.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/111781t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/111781l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Neko Majin"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nekomajin Z"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nekomajin"
+        },
+        {
+            "type": "Japanese",
+            "title": "ネコマジン"
+        },
+        {
+            "type": "English",
+            "title": "Neko Majin"
+        }
+    ],
+    "title": "Neko Majin",
+    "title_english": "Neko Majin",
+    "title_japanese": "ネコマジン",
+    "title_synonyms": [
+        "Nekomajin Z",
+        "Nekomajin"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-04-27T00:00:00+00:00",
+        "to": "2005-02-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 4,
+                "year": 1999
+            },
+            "to": {
+                "day": 1,
+                "month": 2,
+                "year": 2005
+            }
+        },
+        "string": "Apr 27, 1999 to Feb 2005"
+    },
+    "score": 6.65,
+    "scored": 6.65,
+    "scored_by": 3027,
+    "rank": 14512,
+    "popularity": 4112,
+    "members": 5469,
+    "favorites": 32,
+    "synopsis": "Neko Majin is a parody of Dragonball Z by Akira Toriyama. The protagonist Neko Majin fights evil-doers and has a few other Dragonball Z-esque adventures.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1901,
+            "type": "people",
+            "name": "Toriyama, Akira",
+            "url": "https://myanimelist.net/people/1901/Akira_Toriyama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 42,
+                    "type": "manga",
+                    "name": "Dragon Ball",
+                    "url": "https://myanimelist.net/manga/42/Dragon_Ball"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://mj.shueisha.co.jp/nekomajin/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Neko_Majin"
+        }
+    ]
+}

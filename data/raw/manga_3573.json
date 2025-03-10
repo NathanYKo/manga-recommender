@@ -1,0 +1,172 @@
+{
+    "mal_id": 3573,
+    "url": "https://myanimelist.net/manga/3573/Tobaku_Hakairoku_Kaiji",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/302202.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/302202t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/302202l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/302202.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/302202t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/302202l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tobaku Hakairoku Kaiji"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gambling Heathen Kaiji"
+        },
+        {
+            "type": "Japanese",
+            "title": "賭博破戒録カイジ"
+        }
+    ],
+    "title": "Tobaku Hakairoku Kaiji",
+    "title_english": null,
+    "title_japanese": "賭博破戒録カイジ",
+    "title_synonyms": [
+        "Gambling Heathen Kaiji"
+    ],
+    "type": "Manga",
+    "chapters": 134,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-11-01T00:00:00+00:00",
+        "to": "2004-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 11,
+                "year": 2000
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2004
+            }
+        },
+        "string": "Nov 2000 to Apr 2004"
+    },
+    "score": 8.4,
+    "scored": 8.4,
+    "scored_by": 5212,
+    "rank": 221,
+    "popularity": 1826,
+    "members": 11909,
+    "favorites": 188,
+    "synopsis": "After Kaiji's showdown with Chairman Hyoudou at Starside Hotel, Kaiji is forced into labor at an underground mine. With meager wages each day, he will work for decades unless he doesn't do something.\n\nNow Kaiji must wager his earnings in underground Chinchirorin gambles for a ticket to the rest of the world. But even if he surfaces, he only has one chance to pay back his enormous debt, and that is by challenging the \"unbeatable\" Pachinko machine, The Bog.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2539,
+            "type": "people",
+            "name": "Fukumoto, Nobuyuki",
+            "url": "https://myanimelist.net/people/2539/Nobuyuki_Fukumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 59,
+            "type": "manga",
+            "name": "High Stakes Game",
+            "url": "https://myanimelist.net/manga/genre/59/High_Stakes_Game"
+        },
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 3572,
+                    "type": "manga",
+                    "name": "Tobaku Mokushiroku Kaiji",
+                    "url": "https://myanimelist.net/manga/3572/Tobaku_Mokushiroku_Kaiji"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 3574,
+                    "type": "manga",
+                    "name": "Tobaku Datenroku Kaiji",
+                    "url": "https://myanimelist.net/manga/3574/Tobaku_Datenroku_Kaiji"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 10271,
+                    "type": "anime",
+                    "name": "Gyakkyou Burai Kaiji: Hakairoku-hen",
+                    "url": "https://myanimelist.net/anime/10271/Gyakkyou_Burai_Kaiji__Hakairoku-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 110996,
+                    "type": "manga",
+                    "name": "1-nichi Gaishutsuroku Hanchou",
+                    "url": "https://myanimelist.net/manga/110996/1-nichi_Gaishutsuroku_Hanchou"
+                },
+                {
+                    "mal_id": 132938,
+                    "type": "manga",
+                    "name": "Joukyou Seikatsuroku Ichijou",
+                    "url": "https://myanimelist.net/manga/132938/Joukyou_Seikatsuroku_Ichijou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%82%B8"
+        }
+    ]
+}

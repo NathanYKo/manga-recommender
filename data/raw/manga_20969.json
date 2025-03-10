@@ -1,0 +1,121 @@
+{
+    "mal_id": 20969,
+    "url": "https://myanimelist.net/manga/20969/Kaori_no_Keishou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/159886.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/159886t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/159886l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/159886.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/159886t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/159886l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kaori no Keishou"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Inheritance of Aroma"
+        },
+        {
+            "type": "Japanese",
+            "title": "薫りの継承"
+        }
+    ],
+    "title": "Kaori no Keishou",
+    "title_english": null,
+    "title_japanese": "薫りの継承",
+    "title_synonyms": [
+        "The Inheritance of Aroma"
+    ],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-12-27T00:00:00+00:00",
+        "to": "2015-04-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 12,
+                "year": 2008
+            },
+            "to": {
+                "day": 28,
+                "month": 4,
+                "year": 2015
+            }
+        },
+        "string": "Dec 27, 2008 to Apr 28, 2015"
+    },
+    "score": 7.64,
+    "scored": 7.64,
+    "scored_by": 1324,
+    "rank": null,
+    "popularity": 7068,
+    "members": 2973,
+    "favorites": 38,
+    "synopsis": "The story of Shinobu and his step brother Takezou's adulthood.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5583,
+            "type": "people",
+            "name": "Nakamura, Asumiko",
+            "url": "https://myanimelist.net/people/5583/Asumiko_Nakamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 51,
+            "type": "manga",
+            "name": "Be x Boy GOLD",
+            "url": "https://myanimelist.net/manga/magazine/51/Be_x_Boy_GOLD"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 20968,
+                    "type": "manga",
+                    "name": "Kaori no Yuuwaku",
+                    "url": "https://myanimelist.net/manga/20968/Kaori_no_Yuuwaku"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

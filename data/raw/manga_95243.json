@@ -1,0 +1,136 @@
+{
+    "mal_id": 95243,
+    "url": "https://myanimelist.net/manga/95243/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_Ex",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/170079.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/170079t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/170079l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/170079.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/170079t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/170079l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu Ex"
+        },
+        {
+            "type": "Synonym",
+            "title": "Re: Life in a different world from zero Ex"
+        },
+        {
+            "type": "Japanese",
+            "title": "Re:ゼロから始める異世界生活Ex"
+        },
+        {
+            "type": "English",
+            "title": "Re:ZERO -Starting Life in Another World- Ex"
+        }
+    ],
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu Ex",
+    "title_english": "Re:ZERO -Starting Life in Another World- Ex",
+    "title_japanese": "Re:ゼロから始める異世界生活Ex",
+    "title_synonyms": [
+        "Re: Life in a different world from zero Ex"
+    ],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-06-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 25, 2015 to ?"
+    },
+    "score": 8.31,
+    "scored": 8.31,
+    "scored_by": 1624,
+    "rank": 304,
+    "popularity": 3489,
+    "members": 6414,
+    "favorites": 121,
+    "synopsis": "The first novel focuses on Lugnica king candidate Crusch Karsten, her knight Ferris, and a boy who had a profound influence on their lives. That boy is Fourier, the fourth prince of Lugnica.\n\n(Source: ANN)",
+    "background": "Re:Zero kara Hajimeru Isekai Seikatsu Ex has been published in English as Re:ZERO -Starting Life in Another World- Ex by Yen Press under the Yen On imprint since November 21, 2017.",
+    "authors": [
+        {
+            "mal_id": 32649,
+            "type": "people",
+            "name": "Nagatsuki, Tappei",
+            "url": "https://myanimelist.net/people/32649/Tappei_Nagatsuki"
+        },
+        {
+            "mal_id": 32651,
+            "type": "people",
+            "name": "Ootsuka, Shinichirou",
+            "url": "https://myanimelist.net/people/32651/Shinichirou_Ootsuka"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 120412,
+                    "type": "manga",
+                    "name": "Kenki Renka: Re:Zero kara Hajimeru Isekai Seikatsu†Shinmeitan",
+                    "url": "https://myanimelist.net/manga/120412/Kenki_Renka__Re_Zero_kara_Hajimeru_Isekai_Seikatsu†Shinmeitan"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 74697,
+                    "type": "manga",
+                    "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
+                    "url": "https://myanimelist.net/manga/74697/Re_Zero_kara_Hajimeru_Isekai_Seikatsu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://re-zero.com/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Re:Zero_kara_Hajimeru_Isekai_Seikatsu"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/Re:%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8B%E7%95%B0%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB"
+        }
+    ]
+}

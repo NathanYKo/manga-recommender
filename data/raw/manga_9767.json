@@ -1,0 +1,127 @@
+{
+    "mal_id": 9767,
+    "url": "https://myanimelist.net/manga/9767/Tengen_Toppa_Gurren_Lagann__Gurren_Gakuen-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/94741.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/94741t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/94741l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/94741.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/94741t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/94741l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tengen Toppa Gurren Lagann: Gurren Gakuen-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gurren Lagann School Edition"
+        },
+        {
+            "type": "Japanese",
+            "title": "天元突破グレンラガン -紅蓮学園篇-"
+        }
+    ],
+    "title": "Tengen Toppa Gurren Lagann: Gurren Gakuen-hen",
+    "title_english": null,
+    "title_japanese": "天元突破グレンラガン -紅蓮学園篇-",
+    "title_synonyms": [
+        "Gurren Lagann School Edition"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-08-26T00:00:00+00:00",
+        "to": "2009-01-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 8,
+                "year": 2008
+            },
+            "to": {
+                "day": 26,
+                "month": 1,
+                "year": 2009
+            }
+        },
+        "string": "Aug 26, 2008 to Jan 26, 2009"
+    },
+    "score": 7.08,
+    "scored": 7.08,
+    "scored_by": 2631,
+    "rank": 7820,
+    "popularity": 4564,
+    "members": 4850,
+    "favorites": 35,
+    "synopsis": "Tengen Toppa Gurren Lagann: Gurren Gakuen-Hen (Gurren School Edition) will feature the cast of Gainax's robot mecha anime in a school in a parallel world in multidimensional space. As the character Kamina puts it, the cast will \"enjoy school life\" and \"sweat under the glittering sun.\"\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3328,
+            "type": "people",
+            "name": "Nakashima, Kazuki",
+            "url": "https://myanimelist.net/people/3328/Kazuki_Nakashima"
+        },
+        {
+            "mal_id": 3511,
+            "type": "people",
+            "name": "Kikkawa, Kabao",
+            "url": "https://myanimelist.net/people/3511/Kabao_Kikkawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 112,
+            "type": "manga",
+            "name": "Comp Ace",
+            "url": "https://myanimelist.net/manga/magazine/112/Comp_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 1648,
+                    "type": "manga",
+                    "name": "Tengen Toppa Gurren Lagann",
+                    "url": "https://myanimelist.net/manga/1648/Tengen_Toppa_Gurren_Lagann"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Gurren_lagann#Manga"
+        }
+    ]
+}

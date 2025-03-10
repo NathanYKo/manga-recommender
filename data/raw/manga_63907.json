@@ -1,0 +1,133 @@
+{
+    "mal_id": 63907,
+    "url": "https://myanimelist.net/manga/63907/Sungeki_no_Kyojin",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/136001.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/136001t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/136001l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/136001.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/136001t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/136001l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sungeki no Kyojin"
+        },
+        {
+            "type": "Synonym",
+            "title": "Short Play On Titan"
+        },
+        {
+            "type": "Japanese",
+            "title": "寸劇の巨人"
+        },
+        {
+            "type": "English",
+            "title": "Spoof on Titan"
+        }
+    ],
+    "title": "Sungeki no Kyojin",
+    "title_english": "Spoof on Titan",
+    "title_japanese": "寸劇の巨人",
+    "title_synonyms": [
+        "Short Play On Titan"
+    ],
+    "type": "Manga",
+    "chapters": 55,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-12-04T00:00:00+00:00",
+        "to": "2014-12-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 12,
+                "year": 2013
+            },
+            "to": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Dec 4, 2013 to Dec 31, 2014"
+    },
+    "score": 7.01,
+    "scored": 7.01,
+    "scored_by": 1506,
+    "rank": 8778,
+    "popularity": 5737,
+    "members": 3754,
+    "favorites": 31,
+    "synopsis": "Though the 104th Training Corps cadets undergo rigorous training on a regular basis, it does not void their days of any shenanigans. The usual mischievous crew—Eren Yeager, Mikasa Ackerman, Armin Arlert, and the rest of the squad—turn their tiring lives as soldiers into a number of absurd antics. Be it studying for tests or simply trying to get a good night's rest, their activities are never short of fun and laughter.\n\n[Written by MAL Rewrite]",
+    "background": "Sungeki no Kyojin was simultaneously published in Japanese, Chinese and English (as Spoof on Titan) on DeNA's Manga Box app. Kodansha Comics USA physically published the series from September 13 to December 13, 2016.",
+    "authors": [
+        {
+            "mal_id": 28169,
+            "type": "people",
+            "name": "hounori",
+            "url": "https://myanimelist.net/people/28169/hounori"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1061,
+            "type": "manga",
+            "name": "Manga Box",
+            "url": "https://myanimelist.net/manga/magazine/1061/Manga_Box"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 23390,
+                    "type": "manga",
+                    "name": "Shingeki no Kyojin",
+                    "url": "https://myanimelist.net/manga/23390/Shingeki_no_Kyojin"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/spoof-on-titan/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Spoof_on_Titan"
+        }
+    ]
+}

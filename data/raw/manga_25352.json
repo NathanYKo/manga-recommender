@@ -1,0 +1,127 @@
+{
+    "mal_id": 25352,
+    "url": "https://myanimelist.net/manga/25352/Hatsukoi_no_Atosaki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/187022.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/187022t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/187022l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/187022.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/187022t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/187022l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hatsukoi no Atosaki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Double Line"
+        },
+        {
+            "type": "Japanese",
+            "title": "初恋のあとさき"
+        }
+    ],
+    "title": "Hatsukoi no Atosaki",
+    "title_english": null,
+    "title_japanese": "初恋のあとさき",
+    "title_synonyms": [
+        "Double Line"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-04-14T00:00:00+00:00",
+        "to": "2011-10-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 14,
+                "month": 10,
+                "year": 2011
+            }
+        },
+        "string": "Apr 14, 2011 to Oct 14, 2011"
+    },
+    "score": 7.37,
+    "scored": 7.37,
+    "scored_by": 2604,
+    "rank": null,
+    "popularity": 4531,
+    "members": 4895,
+    "favorites": 12,
+    "synopsis": "Nishima is doing well at his prestigious company but after divorcing from a loveless marriage his success at work seems empty. A chance meeting at a cafe brings him into contact with the owner, Miyama, an old high school classmate. It seems that Miyama has forgotten him until he asks Nishima why he's no longer wearing a wedding ring and what Nishina said to him 10 years ago in high school.\n\n(Source: MU)\n\nIncluded one-shot:\nDouble Line",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2276,
+            "type": "people",
+            "name": "Hidaka, Shoko",
+            "url": "https://myanimelist.net/people/2276/Shoko_Hidaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 8227,
+                    "type": "manga",
+                    "name": "Arashi no Ato",
+                    "url": "https://myanimelist.net/manga/8227/Arashi_no_Ato"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

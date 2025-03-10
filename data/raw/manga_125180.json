@@ -1,0 +1,120 @@
+{
+    "mal_id": 125180,
+    "url": "https://myanimelist.net/manga/125180/Kono_Healer_Mendokusai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/228186.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/228186t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/228186l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/228186.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/228186t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/228186l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kono Healer, Mendokusai"
+        },
+        {
+            "type": "Japanese",
+            "title": "このヒーラー、めんどくさい"
+        }
+    ],
+    "title": "Kono Healer, Mendokusai",
+    "title_english": null,
+    "title_japanese": "このヒーラー、めんどくさい",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-07-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 31, 2019 to ?"
+    },
+    "score": 6.88,
+    "scored": 6.88,
+    "scored_by": 996,
+    "rank": 10950,
+    "popularity": 5403,
+    "members": 4034,
+    "favorites": 28,
+    "synopsis": "A fantasy and adventure comedy starring Karla, a dark elf cleric who invested too much in her insulting skills, and Alvin, a swordsman who has to put up with her antics.\n\n(Source: Kadokawa, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 50990,
+            "type": "people",
+            "name": "Tannen ni Hakkou",
+            "url": "https://myanimelist.net/people/50990/Tannen_ni_Hakkou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1159,
+            "type": "manga",
+            "name": "ComicWalker",
+            "url": "https://myanimelist.net/manga/magazine/1159/ComicWalker"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 48742,
+                    "type": "anime",
+                    "name": "Kono Healer, Mendokusai",
+                    "url": "https://myanimelist.net/anime/48742/Kono_Healer_Mendokusai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-walker.com/contents/detail/KDCW_MF00000230010000_68/"
+        }
+    ]
+}

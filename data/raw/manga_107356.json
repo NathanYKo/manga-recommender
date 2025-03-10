@@ -1,0 +1,110 @@
+{
+    "mal_id": 107356,
+    "url": "https://myanimelist.net/manga/107356/Blue_Phobia",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/196946.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/196946t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/196946l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/196946.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/196946t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/196946l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Blue Phobia"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブルーフォビア"
+        }
+    ],
+    "title": "Blue Phobia",
+    "title_english": null,
+    "title_japanese": "ブルーフォビア",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-03-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 3,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 23, 2017"
+    },
+    "score": 6.67,
+    "scored": 6.67,
+    "scored_by": 1484,
+    "rank": 14219,
+    "popularity": 6606,
+    "members": 3216,
+    "favorites": 6,
+    "synopsis": "After the discovery of a mysterious \"sea ore\" native to a particular island, the military becomes invested in harvesting the newfound resource. While prisoners on death row are tasked with the dangerous job of retrieving the ore from underwater, soldiers are enlisted to prevent any escapes.\n\nThe operation has already been running for 10 years by the time Credo arrives as one of the latest group of guards. However, he realizes that a certain young worker must have been born on the island and, without intervention, that child is fated to die here too—for the nature of the ore is that of a slow-acting killer that thrives on each new body added to the sea floor.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 45509,
+            "type": "people",
+            "name": "Tsuruyoshi, Eri",
+            "url": "https://myanimelist.net/people/45509/Eri_Tsuruyoshi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 111571,
+                    "type": "manga",
+                    "name": "Blue Phobia",
+                    "url": "https://myanimelist.net/manga/111571/Blue_Phobia"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

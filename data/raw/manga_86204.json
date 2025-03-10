@@ -1,0 +1,157 @@
+{
+    "mal_id": 86204,
+    "url": "https://myanimelist.net/manga/86204/Kageki_Shoujo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/149763.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/149763t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/149763l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/149763.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/149763t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/149763l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kageki Shoujo!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Opera Girl!"
+        },
+        {
+            "type": "Japanese",
+            "title": "かげきしょうじょ!"
+        },
+        {
+            "type": "English",
+            "title": "Kageki Shojo!! The Curtain Rises"
+        }
+    ],
+    "title": "Kageki Shoujo!",
+    "title_english": "Kageki Shojo!! The Curtain Rises",
+    "title_japanese": "かげきしょうじょ!",
+    "title_synonyms": [
+        "Opera Girl!"
+    ],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-05-10T00:00:00+00:00",
+        "to": "2014-10-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 5,
+                "year": 2012
+            },
+            "to": {
+                "day": 10,
+                "month": 10,
+                "year": 2014
+            }
+        },
+        "string": "May 10, 2012 to Oct 10, 2014"
+    },
+    "score": 7.63,
+    "scored": 7.63,
+    "scored_by": 883,
+    "rank": 2121,
+    "popularity": 5713,
+    "members": 3769,
+    "favorites": 30,
+    "synopsis": "Ever since she was a little girl, Sarasa has wanted to play the role of Oscar as part of the Kouka Acting Troupe, an all-female acting troupe similar to Takarazuka Revue. But before she can do that, she has to attend two years at the Kouka School of Musical and Theatrical Arts. As Sarasa practices singing, dancing, and acting, she grows closer to the other girls in her year, including her roommate, the stoic former J-idol, Ai. Though Sarasa is great at making friends, her outspoken nature and grand ambitions earn her lots of enemies as well. Can Sarasa keep her upbeat attitude and achieve her dream of stardom?\n\n(Source: Seven Seas Entertainment)",
+    "background": "Kageki Shoujo! was published in English as Kageki Shojo!! The Curtain Rises by Seven Seas Entertainment as a 2-in-1 omnibus volume on November 24, 2020.",
+    "authors": [
+        {
+            "mal_id": 4314,
+            "type": "people",
+            "name": "Saiki, Kumiko",
+            "url": "https://myanimelist.net/people/4314/Kumiko_Saiki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 567,
+            "type": "manga",
+            "name": "Jump X",
+            "url": "https://myanimelist.net/manga/magazine/567/Jump_X"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 71,
+            "type": "manga",
+            "name": "Performing Arts",
+            "url": "https://myanimelist.net/manga/genre/71/Performing_Arts"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 94251,
+                    "type": "manga",
+                    "name": "Kageki Shoujo!!",
+                    "url": "https://myanimelist.net/manga/94251/Kageki_Shoujo"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 43691,
+                    "type": "anime",
+                    "name": "Kageki Shoujo!!",
+                    "url": "https://myanimelist.net/anime/43691/Kageki_Shoujo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://jumpx.jp/w/kageki/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kageki_Shojo!!"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%92%E3%81%8D%E3%81%97%E3%82%87%E3%81%86%E3%81%98%E3%82%87!!"
+        }
+    ]
+}

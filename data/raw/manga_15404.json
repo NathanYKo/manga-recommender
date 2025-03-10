@@ -1,0 +1,106 @@
+{
+    "mal_id": 15404,
+    "url": "https://myanimelist.net/manga/15404/Yami_no_Hou_e",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/22370.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/22370t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/22370l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/22370.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/22370t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/22370l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yami no Hou e"
+        },
+        {
+            "type": "Synonym",
+            "title": "Towards the Darkness"
+        },
+        {
+            "type": "Synonym",
+            "title": "AX: A Collection of Alternative Manga"
+        },
+        {
+            "type": "Japanese",
+            "title": "闇の方へ"
+        },
+        {
+            "type": "English",
+            "title": "Into Darkness"
+        }
+    ],
+    "title": "Yami no Hou e",
+    "title_english": "Into Darkness",
+    "title_japanese": "闇の方へ",
+    "title_synonyms": [
+        "Towards the Darkness",
+        "AX: A Collection of Alternative Manga"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-12-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 12,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 30, 2002"
+    },
+    "score": 6.2,
+    "scored": 6.2,
+    "scored_by": 860,
+    "rank": 19044,
+    "popularity": 8284,
+    "members": 2451,
+    "favorites": 16,
+    "synopsis": "A bizarre one-shot by Takato Yamamoto, a Japanese artist known for incorporating \"Heisei Estheticism\" style to his works.",
+    "background": "Yami no Hou e was published in English as Into Darkness by Top Shelf in their manga anthology AX: A Collection of Alternative Manga on October 18, 2010.",
+    "authors": [
+        {
+            "mal_id": 8669,
+            "type": "people",
+            "name": "Yamamoto, Takato",
+            "url": "https://myanimelist.net/people/8669/Takato_Yamamoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 283,
+            "type": "manga",
+            "name": "AX",
+            "url": "https://myanimelist.net/manga/magazine/283/AX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

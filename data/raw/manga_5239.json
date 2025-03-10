@@ -1,0 +1,104 @@
+{
+    "mal_id": 5239,
+    "url": "https://myanimelist.net/manga/5239/Hajime",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260793.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260793t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260793l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260793.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260793t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260793l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hajime"
+        },
+        {
+            "type": "Japanese",
+            "title": "はじめ"
+        }
+    ],
+    "title": "Hajime",
+    "title_english": null,
+    "title_japanese": "はじめ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-12-31T00:00:00+00:00",
+        "to": "2003-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 12,
+                "year": 2002
+            },
+            "to": {
+                "day": 7,
+                "month": 1,
+                "year": 2003
+            }
+        },
+        "string": "Dec 31, 2002 to Jan 7, 2003"
+    },
+    "score": 6.89,
+    "scored": 6.89,
+    "scored_by": 1507,
+    "rank": 10776,
+    "popularity": 6614,
+    "members": 3213,
+    "favorites": 7,
+    "synopsis": "Two kids, Kouhei and Akio, made up an imaginary girl named Hajime to take the blame for destruction of the principal's copper statue. But one day, they meet a girl that is exactly like their description of Hajime, but only they can see her. \n\n(Source: AnimeWaves)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1888,
+            "type": "people",
+            "name": "Obata, Takeshi",
+            "url": "https://myanimelist.net/people/1888/Takeshi_Obata"
+        },
+        {
+            "mal_id": 2765,
+            "type": "people",
+            "name": "Otsuichi",
+            "url": "https://myanimelist.net/people/2765/Otsuichi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

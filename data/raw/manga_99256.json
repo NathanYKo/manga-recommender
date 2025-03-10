@@ -1,0 +1,131 @@
+{
+    "mal_id": 99256,
+    "url": "https://myanimelist.net/manga/99256/Miira_no_Kaikata",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/178999.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/178999t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/178999l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/178999.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/178999t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/178999l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Miira no Kaikata"
+        },
+        {
+            "type": "Japanese",
+            "title": "ミイラの飼い方"
+        },
+        {
+            "type": "English",
+            "title": "How to keep a mummy"
+        }
+    ],
+    "title": "Miira no Kaikata",
+    "title_english": "How to keep a mummy",
+    "title_japanese": "ミイラの飼い方",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-11-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 11,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 2, 2014 to ?"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 591,
+    "rank": 3654,
+    "popularity": 5903,
+    "members": 3648,
+    "favorites": 48,
+    "synopsis": "When high school student Sora Kashiwagi finds himself staring down a mysterious oversized package sent to him by his self-proclaimed \"adventurer\" father, the last thing he expects is for it to be opened from the inside... by a little mummy so small it can fit in the palm of his hand!\n\n(Source: Crunchyroll)",
+    "background": "Miira no Kaikata is simulpub in English as How to keep a mummy by Crunchyroll.",
+    "authors": [
+        {
+            "mal_id": 41498,
+            "type": "people",
+            "name": "Utsugi, Kakeru",
+            "url": "https://myanimelist.net/people/41498/Kakeru_Utsugi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1278,
+            "type": "manga",
+            "name": "comico",
+            "url": "https://myanimelist.net/manga/magazine/1278/comico"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Pets",
+            "url": "https://myanimelist.net/manga/genre/72/Pets"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35828,
+                    "type": "anime",
+                    "name": "Miira no Kaikata",
+                    "url": "https://myanimelist.net/anime/35828/Miira_no_Kaikata"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.comico.jp/articleList.nhn?titleNo=3410"
+        }
+    ]
+}

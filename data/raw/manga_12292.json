@@ -1,0 +1,140 @@
+{
+    "mal_id": 12292,
+    "url": "https://myanimelist.net/manga/12292/Higurashi_no_Naku_Koro_ni__Kokoroiyashi-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260097.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260097t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260097l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/260097.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/260097t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/260097l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Higurashi no Naku Koro ni: Kokoroiyashi-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Higurashi When They Cry: Heart Healing Arc"
+        },
+        {
+            "type": "Japanese",
+            "title": "ひぐらしのなく頃に 心癒し編"
+        }
+    ],
+    "title": "Higurashi no Naku Koro ni: Kokoroiyashi-hen",
+    "title_english": null,
+    "title_japanese": "ひぐらしのなく頃に 心癒し編",
+    "title_synonyms": [
+        "Higurashi When They Cry: Heart Healing Arc"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-08-26T00:00:00+00:00",
+        "to": "2009-02-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 8,
+                "year": 2008
+            },
+            "to": {
+                "day": 26,
+                "month": 2,
+                "year": 2009
+            }
+        },
+        "string": "Aug 26, 2008 to Feb 26, 2009"
+    },
+    "score": 7.13,
+    "scored": 7.13,
+    "scored_by": 1763,
+    "rank": 7042,
+    "popularity": 4195,
+    "members": 5357,
+    "favorites": 18,
+    "synopsis": "In the aftermath of Matsuribayashi-hen, Rika Furude and her friends start their summer break. Wanting to make it memorable, each of them has their own idea of the best summer vacation. However, Rika finds herself despondent after all the suffering she has endured in the past. Hanyuu, not wanting her best friend to spend the summer sulking in Hinamizawa, decides to try and help Rika.\n\nHowever, Rika's help comes not from Hanyuu, but an old friend named Mamoru Akasaka, who invites Rika to spend time with him and his family in Tokyo. As luck would have it, her friends decide to join her, and together they set off for the city without telling their parents, which causes a panic in the village. But their journey ends up being more fun than the destination, as they camp in woods and remember all the things they have been through, while looking forward to a brighter future.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2363,
+            "type": "people",
+            "name": "Kagesaki, Yuna",
+            "url": "https://myanimelist.net/people/2363/Yuna_Kagesaki"
+        },
+        {
+            "mal_id": 5092,
+            "type": "people",
+            "name": "Ryukishi07",
+            "url": "https://myanimelist.net/people/5092/Ryukishi07"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 112,
+            "type": "manga",
+            "name": "Comp Ace",
+            "url": "https://myanimelist.net/manga/magazine/112/Comp_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 9738,
+                    "type": "manga",
+                    "name": "Higurashi no Naku Koro ni Kai: Matsuribayashi-hen",
+                    "url": "https://myanimelist.net/manga/9738/Higurashi_no_Naku_Koro_ni_Kai__Matsuribayashi-hen"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

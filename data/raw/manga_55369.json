@@ -1,0 +1,111 @@
+{
+    "mal_id": 55369,
+    "url": "https://myanimelist.net/manga/55369/Kare_Kano_Hajimemashita",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/111205.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/111205t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/111205l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/111205.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/111205t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/111205l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kare Kano Hajimemashita"
+        },
+        {
+            "type": "Synonym",
+            "title": "Karekano Hajimemashita"
+        },
+        {
+            "type": "Japanese",
+            "title": "カレカノ始めました"
+        }
+    ],
+    "title": "Kare Kano Hajimemashita",
+    "title_english": null,
+    "title_japanese": "カレカノ始めました",
+    "title_synonyms": [
+        "Karekano Hajimemashita"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-06-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 6,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 20, 2013"
+    },
+    "score": 6.49,
+    "scored": 6.49,
+    "scored_by": 1040,
+    "rank": 16663,
+    "popularity": 8497,
+    "members": 2375,
+    "favorites": 5,
+    "synopsis": "Hanamori has had a crush on Ryoutarou for ages and is over the moon when he asks her to be his girlfriend. It's the first few days of a first love...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 22735,
+            "type": "people",
+            "name": "Momoi, Sumire",
+            "url": "https://myanimelist.net/people/22735/Sumire_Momoi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Sho-Comi",
+            "url": "https://myanimelist.net/manga/magazine/22/Sho-Comi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

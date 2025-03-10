@@ -1,0 +1,110 @@
+{
+    "mal_id": 27317,
+    "url": "https://myanimelist.net/manga/27317/Okusan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/72701.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/72701t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/72701l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/72701.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/72701t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/72701l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Okusan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Oku-san: Oh! My Sweet Honey!!"
+        },
+        {
+            "type": "Japanese",
+            "title": "おくさん"
+        }
+    ],
+    "title": "Okusan",
+    "title_english": null,
+    "title_japanese": "おくさん",
+    "title_synonyms": [
+        "Oku-san: Oh! My Sweet Honey!!"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2008-12-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 12,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 23, 2008 to ?"
+    },
+    "score": 6.91,
+    "scored": 6.91,
+    "scored_by": 2350,
+    "rank": 10443,
+    "popularity": 1988,
+    "members": 10844,
+    "favorites": 81,
+    "synopsis": "The story is about a housewife that has moved into a new town, trying to adjust to her fairly-new married life with certain quirks and encounters with neighbors along the way.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4027,
+            "type": "people",
+            "name": "Ooi, Masakazu",
+            "url": "https://myanimelist.net/people/4027/Masakazu_Ooi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Young King OURs GH",
+            "url": "https://myanimelist.net/manga/magazine/46/Young_King_OURs_GH"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

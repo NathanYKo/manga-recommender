@@ -1,0 +1,137 @@
+{
+    "mal_id": 1819,
+    "url": "https://myanimelist.net/manga/1819/hack__Alcor__Hagun_no_Jokyoku",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/162793.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/162793t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/162793l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/162793.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/162793t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/162793l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": ".hack//Alcor: Hagun no Jokyoku"
+        },
+        {
+            "type": "Synonym",
+            "title": ".hack//Alcor: Battle Overture"
+        },
+        {
+            "type": "Japanese",
+            "title": ".hack//Alcor 破軍の序曲"
+        },
+        {
+            "type": "English",
+            "title": ".hack//Alcor"
+        }
+    ],
+    "title": ".hack//Alcor: Hagun no Jokyoku",
+    "title_english": ".hack//Alcor",
+    "title_japanese": ".hack//Alcor 破軍の序曲",
+    "title_synonyms": [
+        ".hack//Alcor: Battle Overture"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-07-26T00:00:00+00:00",
+        "to": "2007-01-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 7,
+                "year": 2006
+            },
+            "to": {
+                "day": 18,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "Jul 26, 2006 to Jan 18, 2007"
+    },
+    "score": 6.58,
+    "scored": 6.58,
+    "scored_by": 1108,
+    "rank": 15445,
+    "popularity": 7865,
+    "members": 2610,
+    "favorites": 16,
+    "synopsis": ".hack//Alcor: Hagun no Jokyoku takes place in the online game \"The World.\" Nanase is a shy and naive girl belonging to the newbie helping guild \"Canard.\" All she wants is to be with Silabus, the guild master whom she has deep admiration for. However, when the guild members are targeted by player killers (or PKs) from the guild Kestrel, will Nanase be able to brave the situation?\n\n(Source: MU)",
+    "background": ".hack//Alcor: Hagun no Jokyoku was published in English as .hack//Alcor by TokyoPop on December 1, 2009.",
+    "authors": [
+        {
+            "mal_id": 4565,
+            "type": "people",
+            "name": "Izumibara, Rena",
+            "url": "https://myanimelist.net/people/4565/Rena_Izumibara"
+        },
+        {
+            "mal_id": 8592,
+            "type": "people",
+            "name": "Amou, Kanami",
+            "url": "https://myanimelist.net/people/8592/Kanami_Amou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": ".hack//G.U. The World",
+            "url": "https://myanimelist.net/manga/magazine/37/hack__GU_The_World"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 80,
+            "type": "manga",
+            "name": "Video Game",
+            "url": "https://myanimelist.net/manga/genre/80/Video_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 116,
+                    "type": "manga",
+                    "name": ".hack//G.U.+",
+                    "url": "https://myanimelist.net/manga/116/hack__GU_"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/.hack//Alcor_%E7%A0%B4%E8%BB%8D%E3%81%AE%E5%BA%8F%E6%9B%B2"
+        }
+    ]
+}

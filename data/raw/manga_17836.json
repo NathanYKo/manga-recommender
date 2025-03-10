@@ -1,0 +1,176 @@
+{
+    "mal_id": 17836,
+    "url": "https://myanimelist.net/manga/17836/Hakuouki_Junrenka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/30530.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/30530t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/30530l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/30530.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/30530t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/30530l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hakuouki Junrenka"
+        },
+        {
+            "type": "Japanese",
+            "title": "薄桜鬼 巡恋華"
+        }
+    ],
+    "title": "Hakuouki Junrenka",
+    "title_english": null,
+    "title_japanese": "薄桜鬼 巡恋華",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-01-01T00:00:00+00:00",
+        "to": "2010-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            }
+        },
+        "string": "2009 to 2010"
+    },
+    "score": 7.18,
+    "scored": 7.18,
+    "scored_by": 630,
+    "rank": 6319,
+    "popularity": 8431,
+    "members": 2397,
+    "favorites": 15,
+    "synopsis": "A collection of short stories, each split into two parts, all based on the famous otome game and anime series, Hakuouki, which follows Yukimura Chizuru as she begins her journey to find her missing father in Kyo and meets members of the Shinsengumi, who harbor an awful secret. Each story is written by different authors and is meant to individually highlight Chizuru's relationship with one of the main characters of the series. Consequently, there is a story dedicated to Hijikata, Okita, Saitou, Harada, and Heisuke.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 8330,
+            "type": "people",
+            "name": "RURU",
+            "url": "https://myanimelist.net/people/8330/RURU"
+        },
+        {
+            "mal_id": 11588,
+            "type": "people",
+            "name": "Akatsuki, Kaori",
+            "url": "https://myanimelist.net/people/11588/Kaori_Akatsuki"
+        },
+        {
+            "mal_id": 11589,
+            "type": "people",
+            "name": "Shinohara, Hana",
+            "url": "https://myanimelist.net/people/11589/Hana_Shinohara"
+        },
+        {
+            "mal_id": 11590,
+            "type": "people",
+            "name": "Kiri, Mochi",
+            "url": "https://myanimelist.net/people/11590/Mochi_Kiri"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 421,
+            "type": "manga",
+            "name": "Sylph",
+            "url": "https://myanimelist.net/manga/magazine/421/Sylph"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 6895,
+                    "type": "anime",
+                    "name": "Hakuouki",
+                    "url": "https://myanimelist.net/anime/6895/Hakuouki"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 23352,
+                    "type": "manga",
+                    "name": "Hakuouki",
+                    "url": "https://myanimelist.net/manga/23352/Hakuouki"
+                },
+                {
+                    "mal_id": 23353,
+                    "type": "manga",
+                    "name": "Hakuouki",
+                    "url": "https://myanimelist.net/manga/23353/Hakuouki"
+                },
+                {
+                    "mal_id": 29375,
+                    "type": "manga",
+                    "name": "Hakuouki Shinsengumi Kitan",
+                    "url": "https://myanimelist.net/manga/29375/Hakuouki_Shinsengumi_Kitan"
+                },
+                {
+                    "mal_id": 126006,
+                    "type": "manga",
+                    "name": "Hakuouki Shinkai",
+                    "url": "https://myanimelist.net/manga/126006/Hakuouki_Shinkai"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

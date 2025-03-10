@@ -1,0 +1,130 @@
+{
+    "mal_id": 109141,
+    "url": "https://myanimelist.net/manga/109141/Change_World",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/204520.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/204520t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/204520l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/204520.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/204520t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/204520l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Change World"
+        },
+        {
+            "type": "Japanese",
+            "title": "チェンジワールド"
+        },
+        {
+            "type": "English",
+            "title": "Change World"
+        }
+    ],
+    "title": "Change World",
+    "title_english": "Change World",
+    "title_japanese": "チェンジワールド",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-03-14T00:00:00+00:00",
+        "to": "2017-11-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 3,
+                "year": 2017
+            },
+            "to": {
+                "day": 14,
+                "month": 11,
+                "year": 2017
+            }
+        },
+        "string": "Mar 14, 2017 to Nov 14, 2017"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 1122,
+    "rank": null,
+    "popularity": 8227,
+    "members": 2472,
+    "favorites": 4,
+    "synopsis": "Arimura Ikou and Itou Yousuke have been going out for several months after Ikou confessed his love to Yousuke. Yousuke is the most worried about their relationship because he feels like he cannot express his love as well at Ikou. Will he be able to finally shower Ikou with his love forever?\n\n(Source: Exiled Rebels Scanlations)",
+    "background": "Change World was published in English by SuBLime from February 8, 2022 to May 10, 2022.",
+    "authors": [
+        {
+            "mal_id": 3438,
+            "type": "people",
+            "name": "Minazuki, Yuu",
+            "url": "https://myanimelist.net/people/3438/Yuu_Minazuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 99,
+            "type": "manga",
+            "name": "Dear+",
+            "url": "https://myanimelist.net/manga/magazine/99/Dear_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 105835,
+                    "type": "manga",
+                    "name": "Sayonara Game",
+                    "url": "https://myanimelist.net/manga/105835/Sayonara_Game"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 115103,
+                    "type": "manga",
+                    "name": "Love Nest",
+                    "url": "https://myanimelist.net/manga/115103/Love_Nest"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

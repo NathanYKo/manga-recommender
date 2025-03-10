@@ -1,0 +1,146 @@
+{
+    "mal_id": 43707,
+    "url": "https://myanimelist.net/manga/43707/DRAMAtical_Murder",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/310850.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/310850t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/310850l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/310850.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/310850t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/310850l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "DRAMAtical Murder"
+        },
+        {
+            "type": "Synonym",
+            "title": "DMMd"
+        },
+        {
+            "type": "Japanese",
+            "title": "DRAMAtical Murder"
+        }
+    ],
+    "title": "DRAMAtical Murder",
+    "title_english": null,
+    "title_japanese": "DRAMAtical Murder",
+    "title_synonyms": [
+        "DMMd"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2012-08-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 8,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 11, 2012 to ?"
+    },
+    "score": 6.49,
+    "scored": 6.49,
+    "scored_by": 242,
+    "rank": 16677,
+    "popularity": 7502,
+    "members": 2763,
+    "favorites": 26,
+    "synopsis": "The story takes place many years in the future where the game \"Rhyme,\" a virtual fighting game, is incredibly popular and people possess \"AllMates,\" convenient AI computers. Aoba leads an ordinary life, working at a junk shop and living with his grandmother on the Island of Midorijima. Unlike his friends, he doesn't participate in Rhyme, nor does he belong in a gang. However, when rumors of people disappearing spread, Aoba finds himself needing to unravel the mysteries behind the island in order to protect his everyday life.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4960,
+            "type": "people",
+            "name": "Nitroplus",
+            "url": "https://myanimelist.net/people/4960/Nitroplus"
+        },
+        {
+            "mal_id": 11182,
+            "type": "people",
+            "name": "Asada, Torao",
+            "url": "https://myanimelist.net/people/11182/Torao_Asada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 528,
+            "type": "manga",
+            "name": "Comic B's-LOG Kyun!",
+            "url": "https://myanimelist.net/manga/magazine/528/Comic_B_039_s-LOG_Kyun"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 23333,
+                    "type": "anime",
+                    "name": "DRAMAtical Murder",
+                    "url": "https://myanimelist.net/anime/23333/DRAMAtical_Murder"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 56099,
+                    "type": "manga",
+                    "name": "DRAMAtical Murder Anthology",
+                    "url": "https://myanimelist.net/manga/56099/DRAMAtical_Murder_Anthology"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

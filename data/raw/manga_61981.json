@@ -1,0 +1,160 @@
+{
+    "mal_id": 61981,
+    "url": "https://myanimelist.net/manga/61981/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui_Anthology",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/107211.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/107211t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/107211l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/107211.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/107211t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/107211l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! Anthology"
+        },
+        {
+            "type": "Synonym",
+            "title": "It's Not My Fault That I'm Not Popular! Anthology"
+        },
+        {
+            "type": "Synonym",
+            "title": "No Matter How I Look at It"
+        },
+        {
+            "type": "Synonym",
+            "title": "It's You Guys' Fault I'm Not Popular! Anthology"
+        },
+        {
+            "type": "Synonym",
+            "title": "WataMote"
+        },
+        {
+            "type": "Japanese",
+            "title": "私がモテないのはどう考えてもお前らが悪い! アンソロジー"
+        }
+    ],
+    "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! Anthology",
+    "title_english": null,
+    "title_japanese": "私がモテないのはどう考えてもお前らが悪い! アンソロジー",
+    "title_synonyms": [
+        "It's Not My Fault That I'm Not Popular! Anthology",
+        "No Matter How I Look at It",
+        "It's You Guys' Fault I'm Not Popular! Anthology",
+        "WataMote"
+    ],
+    "type": "Manga",
+    "chapters": 17,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-06-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 6,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 22, 2013"
+    },
+    "score": 7.12,
+    "scored": 7.12,
+    "scored_by": 1003,
+    "rank": 7222,
+    "popularity": 6681,
+    "members": 3175,
+    "favorites": 45,
+    "synopsis": "Collection of short stories by various mangaka about the misadventures of Tomoko Kuroki.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2593,
+            "type": "people",
+            "name": "Hayashi, Fumino",
+            "url": "https://myanimelist.net/people/2593/Fumino_Hayashi"
+        },
+        {
+            "mal_id": 15373,
+            "type": "people",
+            "name": "Katou, Yoshie",
+            "url": "https://myanimelist.net/people/15373/Yoshie_Katou"
+        },
+        {
+            "mal_id": 15485,
+            "type": "people",
+            "name": "Doumoto, Yuuki",
+            "url": "https://myanimelist.net/people/15485/Yuuki_Doumoto"
+        },
+        {
+            "mal_id": 17647,
+            "type": "people",
+            "name": "Hiiragi, Yuuichi",
+            "url": "https://myanimelist.net/people/17647/Yuuichi_Hiiragi"
+        },
+        {
+            "mal_id": 26395,
+            "type": "people",
+            "name": "Kurafuji, Kazuki",
+            "url": "https://myanimelist.net/people/26395/Kazuki_Kurafuji"
+        },
+        {
+            "mal_id": 33147,
+            "type": "people",
+            "name": "Tadaura, Fumi",
+            "url": "https://myanimelist.net/people/33147/Fumi_Tadaura"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 28533,
+                    "type": "manga",
+                    "name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+                    "url": "https://myanimelist.net/manga/28533/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

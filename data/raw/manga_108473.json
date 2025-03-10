@@ -1,0 +1,110 @@
+{
+    "mal_id": 108473,
+    "url": "https://myanimelist.net/manga/108473/Koi_to_Utatane",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/201246.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/201246t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/201246l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/201246.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/201246t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/201246l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koi to Utatane"
+        },
+        {
+            "type": "Japanese",
+            "title": "こいとうたたね"
+        }
+    ],
+    "title": "Koi to Utatane",
+    "title_english": null,
+    "title_japanese": "こいとうたたね",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 28,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-01-27T00:00:00+00:00",
+        "to": "2018-04-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 27,
+                "month": 4,
+                "year": 2018
+            }
+        },
+        "string": "Jan 27, 2016 to Apr 27, 2018"
+    },
+    "score": 7.14,
+    "scored": 7.14,
+    "scored_by": 3519,
+    "rank": 6946,
+    "popularity": 2592,
+    "members": 8540,
+    "favorites": 48,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 46824,
+            "type": "people",
+            "name": "Toriu, Chinori",
+            "url": "https://myanimelist.net/people/46824/Chinori_Toriu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

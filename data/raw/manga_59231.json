@@ -1,0 +1,127 @@
+{
+    "mal_id": 59231,
+    "url": "https://myanimelist.net/manga/59231/Magi__Sinbad_no_Bouken_-_Prototype",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/104553.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/104553t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/104553l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/104553.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/104553t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/104553l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Magi: Sinbad no Bouken - Prototype"
+        },
+        {
+            "type": "Synonym",
+            "title": "Adventure of Sinbad - Prototype"
+        },
+        {
+            "type": "Japanese",
+            "title": "マギ シンドバッドの冒険 ～プロトタイプ～"
+        }
+    ],
+    "title": "Magi: Sinbad no Bouken - Prototype",
+    "title_english": null,
+    "title_japanese": "マギ シンドバッドの冒険 ～プロトタイプ～",
+    "title_synonyms": [
+        "Adventure of Sinbad - Prototype"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-01-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 30, 2013"
+    },
+    "score": 7.47,
+    "scored": 7.47,
+    "scored_by": 1993,
+    "rank": 3193,
+    "popularity": 5267,
+    "members": 4138,
+    "favorites": 23,
+    "synopsis": "A prologue manga series that tells the story of Sinbad's early life and the conquest of the first Dungeon, Baal.\n\n(Source: Magi Wikia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2703,
+            "type": "people",
+            "name": "Ohtaka, Shinobu",
+            "url": "https://myanimelist.net/people/2703/Shinobu_Ohtaka"
+        },
+        {
+            "mal_id": 21439,
+            "type": "people",
+            "name": "Ohtera, Yoshifumi",
+            "url": "https://myanimelist.net/people/21439/Yoshifumi_Ohtera"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 48025,
+                    "type": "manga",
+                    "name": "Magi: Sinbad no Bouken",
+                    "url": "https://myanimelist.net/manga/48025/Magi__Sinbad_no_Bouken"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,104 @@
+{
+    "mal_id": 12585,
+    "url": "https://myanimelist.net/manga/12585/Undercurrent",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/17475.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/17475t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/17475l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/17475.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/17475t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/17475l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Undercurrent"
+        },
+        {
+            "type": "Synonym",
+            "title": "Under Current"
+        },
+        {
+            "type": "Japanese",
+            "title": "アンダーカレント"
+        }
+    ],
+    "title": "Undercurrent",
+    "title_english": null,
+    "title_japanese": "アンダーカレント",
+    "title_synonyms": [
+        "Under Current"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-08-25T00:00:00+00:00",
+        "to": "2005-08-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 8,
+                "year": 2004
+            },
+            "to": {
+                "day": 25,
+                "month": 8,
+                "year": 2005
+            }
+        },
+        "string": "Aug 25, 2004 to Aug 25, 2005"
+    },
+    "score": 7.33,
+    "scored": 7.33,
+    "scored_by": 2360,
+    "rank": 4531,
+    "popularity": 3555,
+    "members": 6322,
+    "favorites": 74,
+    "synopsis": "Kanae Sekiguchi's bathhouse Tsuki no Yu has now reopened. However, Kanae's husband Satoru has been missing for four months after departing for his business trip. Having left without a trace, she considers two possible reasons: a secret affair or an accident, although she is more inclined to believe he is out committing adultery.\n\nSatoru's company The Public Baths Union aids Kanae in managing the bathhouse by sending Mr. Hori as an assistant. While handling bathhouse duties, Kanae is bombarded with appointments that may help her uncover the truth about the unexplained disappearance of Satoru.\n\n[Written by MAL Rewrite]",
+    "background": "Undercurrent was published in Spain by MilkyWay Ediciones and in France by Kana.",
+    "authors": [
+        {
+            "mal_id": 7209,
+            "type": "people",
+            "name": "Toyoda, Tetsuya",
+            "url": "https://myanimelist.net/people/7209/Tetsuya_Toyoda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

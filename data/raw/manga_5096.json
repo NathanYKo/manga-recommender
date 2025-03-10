@@ -1,0 +1,124 @@
+{
+    "mal_id": 5096,
+    "url": "https://myanimelist.net/manga/5096/Border",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/25554.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/25554t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/25554l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/25554.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/25554t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/25554l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Border"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kyoukaisen"
+        },
+        {
+            "type": "Japanese",
+            "title": "BORDER-境界線-"
+        },
+        {
+            "type": "English",
+            "title": "Border"
+        }
+    ],
+    "title": "Border",
+    "title_english": "Border",
+    "title_japanese": "BORDER-境界線-",
+    "title_synonyms": [
+        "Kyoukaisen"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2007-05-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 5,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 12, 2007 to ?"
+    },
+    "score": 7.81,
+    "scored": 7.81,
+    "scored_by": 810,
+    "rank": null,
+    "popularity": 8544,
+    "members": 2360,
+    "favorites": 25,
+    "synopsis": "Yamato runs a detective agency that will use any means to get the job done, no matter how unconventional. His three misfit employees are more than his teammates, they're his family too. Also tells the dramatic and surprising story of Yamato's past.\n\n(Source: MU)",
+    "background": "Border has been published in English by Digital Manga Publishing since June 28, 2011.",
+    "authors": [
+        {
+            "mal_id": 2842,
+            "type": "people",
+            "name": "Kodaka, Kazuma",
+            "url": "https://myanimelist.net/people/2842/Kazuma_Kodaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 104,
+            "type": "manga",
+            "name": "Comique Hug",
+            "url": "https://myanimelist.net/manga/magazine/104/Comique_Hug"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.comihug.jp/booklist/border.php"
+        }
+    ]
+}

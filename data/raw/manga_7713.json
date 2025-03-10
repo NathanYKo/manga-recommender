@@ -1,0 +1,116 @@
+{
+    "mal_id": 7713,
+    "url": "https://myanimelist.net/manga/7713/Drug-On",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180313.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180313t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180313l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180313.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180313t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180313l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Drug-On"
+        },
+        {
+            "type": "Synonym",
+            "title": "Drug-On: Dragon"
+        },
+        {
+            "type": "Japanese",
+            "title": "DRUG-ON ドラゴン"
+        }
+    ],
+    "title": "Drug-On",
+    "title_english": null,
+    "title_japanese": "DRUG-ON ドラゴン",
+    "title_synonyms": [
+        "Drug-On: Dragon"
+    ],
+    "type": "Manga",
+    "chapters": 31,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-10-30T00:00:00+00:00",
+        "to": "2009-01-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 30,
+                "month": 1,
+                "year": 2009
+            }
+        },
+        "string": "Oct 30, 2006 to Jan 30, 2009"
+    },
+    "score": 6.84,
+    "scored": 6.84,
+    "scored_by": 1690,
+    "rank": 11519,
+    "popularity": 5515,
+    "members": 3943,
+    "favorites": 53,
+    "synopsis": "It's said that on a prohibited island called \"Dragon's Beak\" the \"power of the gods\" resides. Anyone who obtains the power will have all their wishes fulfilled.\n\n(Source: Storm in Heaven)",
+    "background": "Drug-On was published in Brazilian Portuguese by NewPOP Editora from March 2015 to March 2016.",
+    "authors": [
+        {
+            "mal_id": 5554,
+            "type": "people",
+            "name": "Saitou, Misaki",
+            "url": "https://myanimelist.net/people/5554/Misaki_Saitou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 91,
+            "type": "manga",
+            "name": "Comic Birz",
+            "url": "https://myanimelist.net/manga/magazine/91/Comic_Birz"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

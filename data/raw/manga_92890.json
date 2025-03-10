@@ -1,0 +1,128 @@
+{
+    "mal_id": 92890,
+    "url": "https://myanimelist.net/manga/92890/Legend",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/180328.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/180328t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/180328l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/180328.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/180328t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/180328l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Legend"
+        },
+        {
+            "type": "Japanese",
+            "title": "レジェンド"
+        }
+    ],
+    "title": "Legend",
+    "title_english": null,
+    "title_japanese": "レジェンド",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-09-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 9,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 9, 2015 to ?"
+    },
+    "score": 6.83,
+    "scored": 6.83,
+    "scored_by": 2402,
+    "rank": 11715,
+    "popularity": 2711,
+    "members": 8210,
+    "favorites": 26,
+    "synopsis": "Living in the Tohoku countryside, Reiji Saeki lost his life in an accident during summer vacation. However, he found himself in a white world with a strange glowing orb in front of his eyes. The orb claimed to be a magician of a different world, and he was looking for a person who would inherit the magic he had perfected in order to prevent the knowledge from disappearing. With that, Reiji, equipped with a new body and powerful magic, went to live in the world of Elgin.\n\n(Source: Silent TL)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 24855,
+            "type": "people",
+            "name": "Takano, Masaharu",
+            "url": "https://myanimelist.net/people/24855/Masaharu_Takano"
+        },
+        {
+            "mal_id": 37020,
+            "type": "people",
+            "name": "Kannazuki, Kou",
+            "url": "https://myanimelist.net/people/37020/Kou_Kannazuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 98,
+            "type": "manga",
+            "name": "Dragon Age",
+            "url": "https://myanimelist.net/manga/magazine/98/Dragon_Age"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 86808,
+                    "type": "manga",
+                    "name": "Legend",
+                    "url": "https://myanimelist.net/manga/86808/Legend"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

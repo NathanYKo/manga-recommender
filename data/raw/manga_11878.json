@@ -1,0 +1,133 @@
+{
+    "mal_id": 11878,
+    "url": "https://myanimelist.net/manga/11878/The_Circle",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/42565.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/42565t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/42565l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/42565.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/42565t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/42565l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "The Circle"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Box"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blood Hope"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blood Trap"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blood Chip"
+        },
+        {
+            "type": "Synonym",
+            "title": "Akuma to Issho"
+        },
+        {
+            "type": "Japanese",
+            "title": "サークル"
+        },
+        {
+            "type": "English",
+            "title": "The Circle"
+        }
+    ],
+    "title": "The Circle",
+    "title_english": "The Circle",
+    "title_japanese": "サークル",
+    "title_synonyms": [
+        "The Box",
+        "Blood Hope",
+        "Blood Trap",
+        "Blood Chip",
+        "Akuma to Issho"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": "2009-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            }
+        },
+        "string": "2008 to 2009"
+    },
+    "score": 7.07,
+    "scored": 7.07,
+    "scored_by": 1337,
+    "rank": null,
+    "popularity": 8076,
+    "members": 2528,
+    "favorites": 4,
+    "synopsis": "A collection of oneshots.  Some were published in Reijin, others as a series of doujinshi.\n\n1) The Circle\n2) The Box\n3) Blood Hope\n4) Blood Trap\n5) Blood Chip\n6) Akuma to Issho\n7) Sono Ato",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2625,
+            "type": "people",
+            "name": "Naono, Bohra",
+            "url": "https://myanimelist.net/people/2625/Bohra_Naono"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 184,
+            "type": "manga",
+            "name": "Reijin",
+            "url": "https://myanimelist.net/manga/magazine/184/Reijin"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

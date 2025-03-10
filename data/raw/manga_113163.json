@@ -1,0 +1,151 @@
+{
+    "mal_id": 113163,
+    "url": "https://myanimelist.net/manga/113163/Bungou_Stray_Dogs__Dead_Apple",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/208101.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/208101t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/208101l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/208101.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/208101t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/208101l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bungou Stray Dogs: Dead Apple"
+        },
+        {
+            "type": "Japanese",
+            "title": "文豪ストレイドッグス DEAD APPLE"
+        },
+        {
+            "type": "English",
+            "title": "Bungo Stray Dogs: Dead Apple"
+        }
+    ],
+    "title": "Bungou Stray Dogs: Dead Apple",
+    "title_english": "Bungo Stray Dogs: Dead Apple",
+    "title_japanese": "文豪ストレイドッグス DEAD APPLE",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-03-09T00:00:00+00:00",
+        "to": "2023-06-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 3,
+                "year": 2018
+            },
+            "to": {
+                "day": 29,
+                "month": 6,
+                "year": 2023
+            }
+        },
+        "string": "Mar 9, 2018 to Jun 29, 2023"
+    },
+    "score": 8.16,
+    "scored": 8.16,
+    "scored_by": 1591,
+    "rank": 496,
+    "popularity": 3160,
+    "members": 7105,
+    "favorites": 95,
+    "synopsis": "An unexplained series of suicides among skill users sends the Armed Detective Agency on a search for a man who may be connected. But when the same phenomenon descends upon Yokohama, they’ll have to fight for their lives if they want a chance to reach the truth and save the city from certain destruction!\n\n(Source: Yen Press)",
+    "background": "Bungou Stray Dogs: Dead Apple was published in English by Yen Press from August 23, 2022 to June 18, 2024.",
+    "authors": [
+        {
+            "mal_id": 30957,
+            "type": "people",
+            "name": "Ganjii",
+            "url": "https://myanimelist.net/people/30957/Ganjii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1340,
+            "type": "manga",
+            "name": "Young Ace UP",
+            "url": "https://myanimelist.net/manga/magazine/1340/Young_Ace_UP"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 98380,
+                    "type": "manga",
+                    "name": "Bungou Stray Dogs",
+                    "url": "https://myanimelist.net/manga/98380/Bungou_Stray_Dogs"
+                },
+                {
+                    "mal_id": 32867,
+                    "type": "anime",
+                    "name": "Bungou Stray Dogs 2nd Season",
+                    "url": "https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season"
+                },
+                {
+                    "mal_id": 34944,
+                    "type": "anime",
+                    "name": "Bungou Stray Dogs: Dead Apple",
+                    "url": "https://myanimelist.net/anime/34944/Bungou_Stray_Dogs__Dead_Apple"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://web-ace.jp/youngaceup/contents/1000082/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bungo_Stray_Dogs"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%96%87%E8%B1%AA%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%89%E3%83%83%E3%82%B0%E3%82%B9"
+        }
+    ]
+}

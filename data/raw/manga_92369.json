@@ -1,0 +1,103 @@
+{
+    "mal_id": 92369,
+    "url": "https://myanimelist.net/manga/92369/Kudan_no_Gotoshi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/168681.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/168681t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/168681l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/168681.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/168681t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/168681l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kudan no Gotoshi"
+        },
+        {
+            "type": "Japanese",
+            "title": "クダンノゴトシ"
+        }
+    ],
+    "title": "Kudan no Gotoshi",
+    "title_english": null,
+    "title_japanese": "クダンノゴトシ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 57,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-08-10T00:00:00+00:00",
+        "to": "2017-01-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 8,
+                "year": 2015
+            },
+            "to": {
+                "day": 23,
+                "month": 1,
+                "year": 2017
+            }
+        },
+        "string": "Aug 10, 2015 to Jan 23, 2017"
+    },
+    "score": 5.57,
+    "scored": 5.57,
+    "scored_by": 1388,
+    "rank": 20309,
+    "popularity": 5292,
+    "members": 4123,
+    "favorites": 7,
+    "synopsis": "Seven college students are coming back from their graduations. During the travel they are shocked to see a strange, cow-like creature with a human face. This accident means they only have seven days left to live. What will they do to stay alive until the fated day?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 15715,
+            "type": "people",
+            "name": "Watanabe, Jun",
+            "url": "https://myanimelist.net/people/15715/Jun_Watanabe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://yanmaga.jp/contents/kudannogotoshi/"
+        }
+    ]
+}

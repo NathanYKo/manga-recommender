@@ -1,0 +1,128 @@
+{
+    "mal_id": 4654,
+    "url": "https://myanimelist.net/manga/4654/Mamotte_Agemasu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/212480.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/212480t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/212480l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/212480.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/212480t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/212480l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mamotte Agemasu"
+        },
+        {
+            "type": "Synonym",
+            "title": "I'll Give You My Protection"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Will Protect You"
+        },
+        {
+            "type": "Japanese",
+            "title": "守ってあげます"
+        }
+    ],
+    "title": "Mamotte Agemasu",
+    "title_english": null,
+    "title_japanese": "守ってあげます",
+    "title_synonyms": [
+        "I'll Give You My Protection",
+        "I Will Protect You"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-10-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 26, 2007"
+    },
+    "score": 7.02,
+    "scored": 7.02,
+    "scored_by": 2191,
+    "rank": 8706,
+    "popularity": 5309,
+    "members": 4100,
+    "favorites": 17,
+    "synopsis": "Hiragi Kotome - if its for you whom I fell in love with at first sight, anytime you wish, I'll become a monster. Because I am Demon Zuka Takashi, leader of the strongest deliqent group in the Kanou region, he \"Kinjinka\" (fierce god group). And in front of you, is the me that sweet, naive, cute. Ah, my sweet honey. I am your body guard from bad luck.\n\n(Source: Manga Abyss)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3365,
+            "type": "people",
+            "name": "Saijou, Ayano",
+            "url": "https://myanimelist.net/people/3365/Ayano_Saijou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 11504,
+                    "type": "manga",
+                    "name": "Ubatte Agemasu",
+                    "url": "https://myanimelist.net/manga/11504/Ubatte_Agemasu"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

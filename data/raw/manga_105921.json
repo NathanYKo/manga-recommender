@@ -1,0 +1,152 @@
+{
+    "mal_id": 105921,
+    "url": "https://myanimelist.net/manga/105921/Henkyou_no_Roukishi_Bard_Roehn",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/193916.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/193916t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/193916l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/193916.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/193916t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/193916l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Henkyou no Roukishi Bard Roehn"
+        },
+        {
+            "type": "Synonym",
+            "title": "Henkyou no Roukishi Bard Loen"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Old Knight in Frontier Bard Loen"
+        },
+        {
+            "type": "Japanese",
+            "title": "辺境の老騎士 バルド・ローエン"
+        },
+        {
+            "type": "English",
+            "title": "Old Knight in the Frontier: Bard Roehn"
+        }
+    ],
+    "title": "Henkyou no Roukishi Bard Roehn",
+    "title_english": "Old Knight in the Frontier: Bard Roehn",
+    "title_japanese": "辺境の老騎士 バルド・ローエン",
+    "title_synonyms": [
+        "Henkyou no Roukishi Bard Loen",
+        "The Old Knight in Frontier Bard Loen"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-09-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 9,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 6, 2016 to ?"
+    },
+    "score": 7.56,
+    "scored": 7.56,
+    "scored_by": 1630,
+    "rank": 2566,
+    "popularity": 3630,
+    "members": 6201,
+    "favorites": 44,
+    "synopsis": "Abandoning money, fame, and honor, the knight Bard embarks on a journey to find his final resting place. Tasting delicious food, admiring the unfamiliar scenery all by himself, his journey to find a place to die quietly begins. What he doesn't know, however, is that this is the beginning of a new adventure for him.\n\n(Source: MU)",
+    "background": "Henkyou no Roukishi Bard Roehn has been published digitally as an English simulpub as Old Knight in the Frontier: Bard Roehn by Kodansha USA through K Manga.",
+    "authors": [
+        {
+            "mal_id": 44760,
+            "type": "people",
+            "name": "Kikuishi, Morio",
+            "url": "https://myanimelist.net/people/44760/Morio_Kikuishi"
+        },
+        {
+            "mal_id": 44761,
+            "type": "people",
+            "name": "Shienbis",
+            "url": "https://myanimelist.net/people/44761/Shienbis"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1592,
+            "type": "manga",
+            "name": "Young Magazine Web",
+            "url": "https://myanimelist.net/manga/magazine/1592/Young_Magazine_Web"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 171091,
+                    "type": "manga",
+                    "name": "Henkyou no Roukishi",
+                    "url": "https://myanimelist.net/manga/171091/Henkyou_no_Roukishi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/old_knight_in_frontier/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://yanmaga.jp/comics/辺境の老騎士_バルド_ローエン"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "mal_id": 113294,
+    "url": "https://myanimelist.net/manga/113294/Blue_Blue_Blue",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/225558.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/225558t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/225558l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/225558.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/225558t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/225558l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Blue! Blue! Blue!"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブルー！ブルー！ブルー！"
+        }
+    ],
+    "title": "Blue! Blue! Blue!",
+    "title_english": null,
+    "title_japanese": "ブルー！ブルー！ブルー！",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-07-12T00:00:00+00:00",
+        "to": "2018-04-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 18,
+                "month": 4,
+                "year": 2018
+            }
+        },
+        "string": "Jul 12, 2017 to Apr 18, 2018"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 1522,
+    "rank": 3076,
+    "popularity": 6864,
+    "members": 3085,
+    "favorites": 25,
+    "synopsis": "When Kippei Takiya, the brother of two older sisters, realizes that he desperately needs money to buy a birthday present for his lover, he decides to live and work onsite at a ryokan (a traditional Japanese inn). There, he meets the well-educated Masumi Honjou, a man who is neither too strict nor too lenient, and who has a charm which embodies the word \"mature.\" As Takiya continues working at the ryokan, he starts to become interested in Honjou...\n\n(Source: honyakusha)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 47979,
+            "type": "people",
+            "name": "Amamiya",
+            "url": "https://myanimelist.net/people/47979/Amamiya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1277,
+            "type": "manga",
+            "name": "Comic fleur",
+            "url": "https://myanimelist.net/manga/magazine/1277/Comic_fleur"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 130214,
+                    "type": "manga",
+                    "name": "Blue! Blue! Blue! After Story",
+                    "url": "https://myanimelist.net/manga/130214/Blue_Blue_Blue_After_Story"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.mf-fleur.jp/cb052/"
+        }
+    ]
+}

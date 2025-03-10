@@ -1,0 +1,155 @@
+{
+    "mal_id": 62951,
+    "url": "https://myanimelist.net/manga/62951/Gekijouban_Steins_Gate__Fuka_Ryouiki_no_Déjà_vu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/108051.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/108051t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/108051l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/108051.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/108051t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/108051l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gekijouban Steins;Gate: Fuka Ryouiki no Déjà vu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Steins,Gate: Loading Area of Déjà vu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Steins,Gate: Load Region of Déjà vu"
+        },
+        {
+            "type": "Japanese",
+            "title": "劇場版 STEINS；GATE 負荷領域のデジャヴ"
+        }
+    ],
+    "title": "Gekijouban Steins;Gate: Fuka Ryouiki no Déjà vu",
+    "title_english": null,
+    "title_japanese": "劇場版 STEINS；GATE 負荷領域のデジャヴ",
+    "title_synonyms": [
+        "Steins,Gate: Loading Area of Déjà vu",
+        "Steins,Gate: Load Region of Déjà vu"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-03-26T00:00:00+00:00",
+        "to": "2013-10-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 3,
+                "year": 2013
+            },
+            "to": {
+                "day": 26,
+                "month": 10,
+                "year": 2013
+            }
+        },
+        "string": "Mar 26, 2013 to Oct 26, 2013"
+    },
+    "score": 7.64,
+    "scored": 7.64,
+    "scored_by": 527,
+    "rank": 2041,
+    "popularity": 7760,
+    "members": 2654,
+    "favorites": 12,
+    "synopsis": "The manga adapts the anime film that revolves around Kurisu Makise as she tries to save Okabe Rintarou from his uncontrolled leaps in time. Kurisu must decide if she will save him as his lover, or not bring him back to the main timeline with her morals as a scientist.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4960,
+            "type": "people",
+            "name": "Nitroplus",
+            "url": "https://myanimelist.net/people/4960/Nitroplus"
+        },
+        {
+            "mal_id": 8295,
+            "type": "people",
+            "name": "Kugayama, Reki",
+            "url": "https://myanimelist.net/people/8295/Reki_Kugayama"
+        },
+        {
+            "mal_id": 19313,
+            "type": "people",
+            "name": "Shikura, Chiyomaru",
+            "url": "https://myanimelist.net/people/19313/Chiyomaru_Shikura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 17517,
+                    "type": "manga",
+                    "name": "Steins;Gate",
+                    "url": "https://myanimelist.net/manga/17517/Steins_Gate"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 11577,
+                    "type": "anime",
+                    "name": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+                    "url": "https://myanimelist.net/anime/11577/Steins_Gate_Movie__Fuka_Ryouiki_no_Déjà_vu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Steins;Gate:_Fuka_Ry%C5%8Diki_no_D%C3%A9j%C3%A0_vu#Other_media"
+        }
+    ]
+}

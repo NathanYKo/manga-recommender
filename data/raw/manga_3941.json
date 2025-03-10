@@ -1,0 +1,146 @@
+{
+    "mal_id": 3941,
+    "url": "https://myanimelist.net/manga/3941/Clannad__Tomoyo_After",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6141.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6141t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6141l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6141.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6141t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6141l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Clannad: Tomoyo After"
+        },
+        {
+            "type": "Japanese",
+            "title": "智代アフター ～Dear Shining Memories～"
+        },
+        {
+            "type": "English",
+            "title": "Tomoyo After ~Dear Shining Memories~"
+        }
+    ],
+    "title": "Clannad: Tomoyo After",
+    "title_english": "Tomoyo After ~Dear Shining Memories~",
+    "title_japanese": "智代アフター ～Dear Shining Memories～",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-04-20T00:00:00+00:00",
+        "to": "2007-10-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 20,
+                "month": 10,
+                "year": 2007
+            }
+        },
+        "string": "Apr 20, 2007 to Oct 20, 2007"
+    },
+    "score": 7.94,
+    "scored": 7.94,
+    "scored_by": 4091,
+    "rank": 902,
+    "popularity": 2802,
+    "members": 7990,
+    "favorites": 198,
+    "synopsis": "Manga adaptation of the visual novel Tomoyo After: It's a Wonderful Life. Can be taken as what happens after the Tomoyo route from the Clannad game, with Tomoyo and Tomoya being a pair.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2885,
+            "type": "people",
+            "name": "Key",
+            "url": "https://myanimelist.net/people/2885/Key"
+        },
+        {
+            "mal_id": 3830,
+            "type": "people",
+            "name": "Sumiyoshi, Yukiko",
+            "url": "https://myanimelist.net/people/3830/Yukiko_Sumiyoshi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 98,
+            "type": "manga",
+            "name": "Dragon Age",
+            "url": "https://myanimelist.net/manga/magazine/98/Dragon_Age"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 11777,
+                    "type": "manga",
+                    "name": "Clannad: Tomoyo Dearest",
+                    "url": "https://myanimelist.net/manga/11777/Clannad__Tomoyo_Dearest"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 4059,
+                    "type": "anime",
+                    "name": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+                    "url": "https://myanimelist.net/anime/4059/Clannad__Mou_Hitotsu_no_Sekai_Tomoyo-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 2598,
+                    "type": "manga",
+                    "name": "Clannad",
+                    "url": "https://myanimelist.net/manga/2598/Clannad"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Tomoyo_After:_It%27s_a_Wonderful_Life"
+        }
+    ]
+}

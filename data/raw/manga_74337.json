@@ -1,0 +1,122 @@
+{
+    "mal_id": 74337,
+    "url": "https://myanimelist.net/manga/74337/Steins_Gate__Mugen_Enten_no_Arc_Light",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/146871.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/146871t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/146871l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/146871.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/146871t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/146871l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Steins;Gate: Mugen Enten no Arc Light"
+        },
+        {
+            "type": "Synonym",
+            "title": "Steins,Gate: Arc Light of the Point at Infinity"
+        },
+        {
+            "type": "Japanese",
+            "title": "STEINS;GATE 無限遠点のアークライト"
+        }
+    ],
+    "title": "Steins;Gate: Mugen Enten no Arc Light",
+    "title_english": null,
+    "title_japanese": "STEINS;GATE 無限遠点のアークライト",
+    "title_synonyms": [
+        "Steins,Gate: Arc Light of the Point at Infinity"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-03-19T00:00:00+00:00",
+        "to": "2014-08-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 3,
+                "year": 2014
+            },
+            "to": {
+                "day": 19,
+                "month": 8,
+                "year": 2014
+            }
+        },
+        "string": "Mar 19, 2014 to Aug 19, 2014"
+    },
+    "score": 7.84,
+    "scored": 7.84,
+    "scored_by": 811,
+    "rank": 1184,
+    "popularity": 7835,
+    "members": 2624,
+    "favorites": 18,
+    "synopsis": "The manga, based on 2010 drama CD, tells the story of what Mayuri experiences during the final chapter of the visual novel (anime episode 23) and the lives of Mayuri, Okabe, Daru, Suzuha, and Ruka in the year after Okabe's first failed attempt to save Kurisu in the 1.129848% β world line divergence.\n\n(Source: Steins;Gate Wikia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4960,
+            "type": "people",
+            "name": "Nitroplus",
+            "url": "https://myanimelist.net/people/4960/Nitroplus"
+        },
+        {
+            "mal_id": 7650,
+            "type": "people",
+            "name": "Naruse, Yoshiki",
+            "url": "https://myanimelist.net/people/7650/Yoshiki_Naruse"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 17517,
+                    "type": "manga",
+                    "name": "Steins;Gate",
+                    "url": "https://myanimelist.net/manga/17517/Steins_Gate"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

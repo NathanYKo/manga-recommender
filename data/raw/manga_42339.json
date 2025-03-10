@@ -1,0 +1,126 @@
+{
+    "mal_id": 42339,
+    "url": "https://myanimelist.net/manga/42339/Black★Rock_Shooter__The_Game",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/156580.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/156580t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/156580l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/156580.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/156580t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/156580l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Black★Rock Shooter: The Game"
+        },
+        {
+            "type": "Synonym",
+            "title": "Black Rock Shooter - The Game"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブラック★ロックシューター THE GAME"
+        }
+    ],
+    "title": "Black★Rock Shooter: The Game",
+    "title_english": null,
+    "title_japanese": "ブラック★ロックシューター THE GAME",
+    "title_synonyms": [
+        "Black Rock Shooter - The Game"
+    ],
+    "type": "Manga",
+    "chapters": 14,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-08-10T00:00:00+00:00",
+        "to": "2012-08-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 8,
+                "year": 2011
+            },
+            "to": {
+                "day": 10,
+                "month": 8,
+                "year": 2012
+            }
+        },
+        "string": "Aug 10, 2011 to Aug 10, 2012"
+    },
+    "score": 6.8,
+    "scored": 6.8,
+    "scored_by": 1807,
+    "rank": 12130,
+    "popularity": 4809,
+    "members": 4574,
+    "favorites": 93,
+    "synopsis": "In the year 2032, Earth suffers from a sudden invasion by alien forces. Nineteen years passed after that event, and with chaos ruling the globe, the only way to rescue the world from utter destruction is to survive and fight against those who force Earth into complete annihilation.\n\nBlack Rock Shooter (in the game a \"living weapon\" designated with the name BRS), is entrusted with the responsibility to protect mankind, possessing the abilities to fight against the invaders as the ultimate weapon. She emerges from the ruins of San Francisco, and witnesses an amassing of surviving troops which becomes her support throughout her mission.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10145,
+            "type": "people",
+            "name": "huke",
+            "url": "https://myanimelist.net/people/10145/huke"
+        },
+        {
+            "mal_id": 18745,
+            "type": "people",
+            "name": "TNSK",
+            "url": "https://myanimelist.net/people/18745/TNSK"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Comptiq",
+            "url": "https://myanimelist.net/manga/magazine/38/Comptiq"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 26292,
+                    "type": "manga",
+                    "name": "Black★Rock Shooter: Innocent Soul",
+                    "url": "https://myanimelist.net/manga/26292/Black★Rock_Shooter__Innocent_Soul"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E2%98%85%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC#.E3.83.96.E3.83.A9.E3.83.83.E3.82.AF.E2.98.85.E3.83.AD.E3.83.83.E3.82.AF.E3.82.B7.E3.83.A5.E3.83.BC.E3.82.BF"
+        }
+    ]
+}

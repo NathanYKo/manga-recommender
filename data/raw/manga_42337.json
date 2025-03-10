@@ -1,0 +1,121 @@
+{
+    "mal_id": 42337,
+    "url": "https://myanimelist.net/manga/42337/Kimi_ni_Happiness",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/268778.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/268778t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/268778l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/268778.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/268778t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/268778l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi ni Happiness"
+        },
+        {
+            "type": "Japanese",
+            "title": "キミにハピネス"
+        },
+        {
+            "type": "English",
+            "title": "Happiness for You."
+        }
+    ],
+    "title": "Kimi ni Happiness",
+    "title_english": "Happiness for You.",
+    "title_japanese": "キミにハピネス",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-12-13T00:00:00+00:00",
+        "to": "2012-03-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 12,
+                "year": 2011
+            },
+            "to": {
+                "day": 13,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Dec 13, 2011 to Mar 13, 2012"
+    },
+    "score": 6.97,
+    "scored": 6.97,
+    "scored_by": 4869,
+    "rank": 9462,
+    "popularity": 2121,
+    "members": 10153,
+    "favorites": 24,
+    "synopsis": "Bouyant girl Aizawa Yume falls for the cool boy in her class, Kashiwagi Kou—who tickles people’s noses with a sweet scent and only smiles from time to time. Slowly, Yume develops feelings for Kou-kun... but one day after school, she catches him with Hitohana-san, the girl with a bad personality and equally bad reputation!\n\n(Source: Leaping into Puddles)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 18695,
+            "type": "people",
+            "name": "Ichinose, Ruka",
+            "url": "https://myanimelist.net/people/18695/Ruka_Ichinose"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

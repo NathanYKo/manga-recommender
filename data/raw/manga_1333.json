@@ -1,0 +1,132 @@
+{
+    "mal_id": 1333,
+    "url": "https://myanimelist.net/manga/1333/Gekkou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/260241.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/260241t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/260241l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/260241.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/260241t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/260241l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gekkou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Crimson Moon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gekkoh"
+        },
+        {
+            "type": "Japanese",
+            "title": "月紅GEKKOH"
+        }
+    ],
+    "title": "Gekkou",
+    "title_english": null,
+    "title_japanese": "月紅GEKKOH",
+    "title_synonyms": [
+        "Crimson Moon",
+        "Gekkoh"
+    ],
+    "type": "Manga",
+    "chapters": 59,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-06-22T00:00:00+00:00",
+        "to": "2004-07-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 6,
+                "year": 2001
+            },
+            "to": {
+                "day": 23,
+                "month": 7,
+                "year": 2004
+            }
+        },
+        "string": "Jun 22, 2001 to Jul 23, 2004"
+    },
+    "score": 6.42,
+    "scored": 6.42,
+    "scored_by": 2178,
+    "rank": 17399,
+    "popularity": 4541,
+    "members": 4889,
+    "favorites": 13,
+    "synopsis": "Kyoutarou is just an ordinary guy trying to lead an ordinary high school life despite the fact that he is the son of a Yakuza boss. Then comes Kumiko, his half-sister he's never met before, who's looking for a man with a centipede tattoo who killed her loved ones in the past. Will Kumiko and Kyoutarou be able to manage their family business? Will Kumiko ever find and avenge the man with the centipede tattoo? And will they be able to control their sexual urges for each other?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2947,
+            "type": "people",
+            "name": "Himuro, Serika",
+            "url": "https://myanimelist.net/people/2947/Serika_Himuro"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Young Animal",
+            "url": "https://myanimelist.net/manga/magazine/2/Young_Animal"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%9C%88%E7%B4%85_GEKKOH"
+        }
+    ]
+}

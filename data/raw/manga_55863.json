@@ -1,0 +1,146 @@
+{
+    "mal_id": 55863,
+    "url": "https://myanimelist.net/manga/55863/Rokka_no_Yuusha",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/161314.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/161314t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/161314l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/161314.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/161314t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/161314l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rokka no Yuusha"
+        },
+        {
+            "type": "Synonym",
+            "title": "Heroes of the Six Flowers"
+        },
+        {
+            "type": "Japanese",
+            "title": "六花の勇者"
+        },
+        {
+            "type": "English",
+            "title": "Rokka: Braves of the Six Flowers"
+        }
+    ],
+    "title": "Rokka no Yuusha",
+    "title_english": "Rokka: Braves of the Six Flowers",
+    "title_japanese": "六花の勇者",
+    "title_synonyms": [
+        "Heroes of the Six Flowers"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-02-25T00:00:00+00:00",
+        "to": "2014-11-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 2,
+                "year": 2012
+            },
+            "to": {
+                "day": 20,
+                "month": 11,
+                "year": 2014
+            }
+        },
+        "string": "Feb 25, 2012 to Nov 20, 2014"
+    },
+    "score": 7.09,
+    "scored": 7.09,
+    "scored_by": 1263,
+    "rank": 7704,
+    "popularity": 4270,
+    "members": 5238,
+    "favorites": 55,
+    "synopsis": "When the world is threatened with destruction, six chosen heroes will rise to save it. One of them is Adlet Meyer—who calls himself \"the strongest man in the world.\" But when he answers the call to assemble with the other heroes and face the darkness, there are not six heroes, but seven. Who is the traitor in their midst?\n\n(Source: Yen Press)",
+    "background": "Rokka no Yuusha was published in English as Rokka: Braves of the Six Flowers by Yen Press from January 24 to November 14, 2017.",
+    "authors": [
+        {
+            "mal_id": 15419,
+            "type": "people",
+            "name": "Toru, Kei",
+            "url": "https://myanimelist.net/people/15419/Kei_Toru"
+        },
+        {
+            "mal_id": 16969,
+            "type": "people",
+            "name": "Yamagata, Ishio",
+            "url": "https://myanimelist.net/people/16969/Ishio_Yamagata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 693,
+            "type": "manga",
+            "name": "Super Dash & Go!",
+            "url": "https://myanimelist.net/manga/magazine/693/Super_Dash__amp__Go"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 55869,
+                    "type": "manga",
+                    "name": "Rokka no Yuusha",
+                    "url": "https://myanimelist.net/manga/55869/Rokka_no_Yuusha"
+                },
+                {
+                    "mal_id": 28497,
+                    "type": "anime",
+                    "name": "Rokka no Yuusha",
+                    "url": "https://myanimelist.net/anime/28497/Rokka_no_Yuusha"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://sdgo.shueisha.co.jp/_rokka/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%85%AD%E8%8A%B1%E3%81%AE%E5%8B%87%E8%80%85"
+        }
+    ]
+}

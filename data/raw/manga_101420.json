@@ -1,0 +1,115 @@
+{
+    "mal_id": 101420,
+    "url": "https://myanimelist.net/manga/101420/1_2_Cigarette",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/190478.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/190478t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/190478l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/190478.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/190478t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/190478l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "1/2 Cigarette"
+        },
+        {
+            "type": "Synonym",
+            "title": "Half Cigarette"
+        },
+        {
+            "type": "Japanese",
+            "title": "1/2シガレット"
+        }
+    ],
+    "title": "1/2 Cigarette",
+    "title_english": null,
+    "title_japanese": "1/2シガレット",
+    "title_synonyms": [
+        "Half Cigarette"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-10-30T00:00:00+00:00",
+        "to": "2016-02-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 29,
+                "month": 2,
+                "year": 2016
+            }
+        },
+        "string": "Oct 30, 2015 to Feb 29, 2016"
+    },
+    "score": 6.97,
+    "scored": 6.97,
+    "scored_by": 1341,
+    "rank": null,
+    "popularity": 7571,
+    "members": 2735,
+    "favorites": 5,
+    "synopsis": "A young salaryman finds a secret that was kept between his brother and his boss.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 43538,
+            "type": "people",
+            "name": "Kayama, Aori",
+            "url": "https://myanimelist.net/people/43538/Aori_Kayama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1381,
+            "type": "manga",
+            "name": "WEBgateau",
+            "url": "https://myanimelist.net/manga/magazine/1381/WEBgateau"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

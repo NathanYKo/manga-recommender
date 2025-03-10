@@ -1,0 +1,109 @@
+{
+    "mal_id": 100027,
+    "url": "https://myanimelist.net/manga/100027/Batsu_Gal",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/181531.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/181531t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/181531l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/181531.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/181531t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/181531l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Batsu Gal"
+        },
+        {
+            "type": "Synonym",
+            "title": "Punishment Gal"
+        },
+        {
+            "type": "Synonym",
+            "title": "Batsu Gyaru"
+        },
+        {
+            "type": "Japanese",
+            "title": "バツギャル"
+        }
+    ],
+    "title": "Batsu Gal",
+    "title_english": null,
+    "title_japanese": "バツギャル",
+    "title_synonyms": [
+        "Punishment Gal",
+        "Batsu Gyaru"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-07-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 14, 2016"
+    },
+    "score": 6.67,
+    "scored": 6.67,
+    "scored_by": 1957,
+    "rank": 14226,
+    "popularity": 6097,
+    "members": 3522,
+    "favorites": 5,
+    "synopsis": "A cute and sugary one-shot about a gal chasing a guy.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 39915,
+            "type": "people",
+            "name": "Sora, Egumi",
+            "url": "https://myanimelist.net/people/39915/Egumi_Sora"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

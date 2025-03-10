@@ -1,0 +1,129 @@
+{
+    "mal_id": 22103,
+    "url": "https://myanimelist.net/manga/22103/Hanazakari_no_Kimitachi_e__After_School",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/270293.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/270293t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/270293l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/270293.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/270293t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/270293l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hanazakari no Kimitachi e: After School"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hana-Kimi - Kayashima Arc"
+        },
+        {
+            "type": "Japanese",
+            "title": "花ざかりの君たちへ After School"
+        }
+    ],
+    "title": "Hanazakari no Kimitachi e: After School",
+    "title_english": null,
+    "title_japanese": "花ざかりの君たちへ After School",
+    "title_synonyms": [
+        "Hana-Kimi - Kayashima Arc"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-08-20T00:00:00+00:00",
+        "to": "2010-05-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 8,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 5,
+                "year": 2010
+            }
+        },
+        "string": "Aug 20, 2007 to May 1, 2010"
+    },
+    "score": 7.86,
+    "scored": 7.86,
+    "scored_by": 1675,
+    "rank": 1106,
+    "popularity": 5490,
+    "members": 3971,
+    "favorites": 14,
+    "synopsis": "A collection of HanaKimi side stories and an epilogue.\n\n1. Kayashima-kun no Yuuutsu\n2. Hibari Daisakusen\n3. Boys Be Ambitious\n4. Natsu no Raihousha\n5. Ryouchou no Susume\n6. Sakura Sake",
+    "background": "VIZ Media included Hanazakari no Kimitachi e: After School in the final volume of Hanazakari no Kimitachi e's omnibus edition.",
+    "authors": [
+        {
+            "mal_id": 1916,
+            "type": "people",
+            "name": "Nakajo, Hisaya",
+            "url": "https://myanimelist.net/people/1916/Hisaya_Nakajo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/21/Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 44,
+            "type": "manga",
+            "name": "Crossdressing",
+            "url": "https://myanimelist.net/manga/genre/44/Crossdressing"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 57,
+                    "type": "manga",
+                    "name": "Hanazakari no Kimitachi e",
+                    "url": "https://myanimelist.net/manga/57/Hanazakari_no_Kimitachi_e"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

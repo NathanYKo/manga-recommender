@@ -1,0 +1,96 @@
+{
+    "mal_id": 1933,
+    "url": "https://myanimelist.net/manga/1933/Fire_Candy",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/3292.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/3292t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/3292l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/3292.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/3292t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/3292l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fire Candy"
+        },
+        {
+            "type": "Japanese",
+            "title": "ファイヤーキャンディ"
+        }
+    ],
+    "title": "Fire Candy",
+    "title_english": null,
+    "title_japanese": "ファイヤーキャンディ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 19,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1999"
+    },
+    "score": 6.9,
+    "scored": 6.9,
+    "scored_by": 1651,
+    "rank": 10553,
+    "popularity": 4902,
+    "members": 4483,
+    "favorites": 45,
+    "synopsis": "Fire Candy is about a future where most of humanity has lost the ability to reproduce normally. This has brought about the existence of \"halves,\" people born from the genetic material of both humans and animals.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2091,
+            "type": "people",
+            "name": "Yonekura, Kengo",
+            "url": "https://myanimelist.net/people/2091/Kengo_Yonekura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Young Champion",
+            "url": "https://myanimelist.net/manga/magazine/47/Young_Champion"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Fire_Candy"
+        }
+    ]
+}

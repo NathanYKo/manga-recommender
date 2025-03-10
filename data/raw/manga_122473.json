@@ -1,0 +1,155 @@
+{
+    "mal_id": 122473,
+    "url": "https://myanimelist.net/manga/122473/Mashima_Heros",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/229267.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/229267t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/229267l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/229267.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/229267t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/229267l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mashima Hero's"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hero's"
+        },
+        {
+            "type": "Japanese",
+            "title": "Mashima HERO's"
+        },
+        {
+            "type": "English",
+            "title": "Mashima Hero's"
+        }
+    ],
+    "title": "Mashima Hero's",
+    "title_english": "Mashima Hero's",
+    "title_japanese": "Mashima HERO's",
+    "title_synonyms": [
+        "Hero's"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-10-16T00:00:00+00:00",
+        "to": "2019-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 10,
+                "year": 2019
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2019
+            }
+        },
+        "string": "Oct 16, 2019 to Dec 25, 2019"
+    },
+    "score": 7.24,
+    "scored": 7.24,
+    "scored_by": 2331,
+    "rank": 5529,
+    "popularity": 4695,
+    "members": 4696,
+    "favorites": 36,
+    "synopsis": "A crossover of Rave, Fairy Tail, and Edens Zero to celebrate the 60th anniversary of Shounen Magazine.",
+    "background": "Mashima Hero's was published in English by Kodansha USA on December 1, 2020.",
+    "authors": [
+        {
+            "mal_id": 1882,
+            "type": "people",
+            "name": "Mashima, Hiro",
+            "url": "https://myanimelist.net/people/1882/Hiro_Mashima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 14,
+                    "type": "manga",
+                    "name": "Rave",
+                    "url": "https://myanimelist.net/manga/14/Rave"
+                },
+                {
+                    "mal_id": 598,
+                    "type": "manga",
+                    "name": "Fairy Tail",
+                    "url": "https://myanimelist.net/manga/598/Fairy_Tail"
+                },
+                {
+                    "mal_id": 114548,
+                    "type": "manga",
+                    "name": "Edens Zero",
+                    "url": "https://myanimelist.net/manga/114548/Edens_Zero"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/heros/"
+        }
+    ]
+}

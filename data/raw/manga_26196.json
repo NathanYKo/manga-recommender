@@ -1,0 +1,148 @@
+{
+    "mal_id": 26196,
+    "url": "https://myanimelist.net/manga/26196/Aku_no_Meshitsukai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/69961.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/69961t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/69961l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/69961.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/69961t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/69961l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Aku no Meshitsukai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Servant of Evil"
+        },
+        {
+            "type": "Japanese",
+            "title": "悪ノ召使"
+        }
+    ],
+    "title": "Aku no Meshitsukai",
+    "title_english": null,
+    "title_japanese": "悪ノ召使",
+    "title_synonyms": [
+        "Servant of Evil"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 2,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "2010-09-25T00:00:00+00:00",
+        "to": "2015-09-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 9,
+                "year": 2010
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Sep 25, 2010 to Sep 25, 2015"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 703,
+    "rank": 2429,
+    "popularity": 7097,
+    "members": 2958,
+    "favorites": 46,
+    "synopsis": "A vast kingdom called Lucifenia, whose popular name was the \"Kingdom of Yellow\", was ruled by a tyrannical princess named Rillianne and she was still only fourteen years old. Under her absolute monarchism, everything was exploited from people and the ones who did not obey her were executed without mercy. Allen, a servant who looked like her, was always beside the princess who was called \"Daughter of Evil\" by the people. The princess's selfishness caused a war and many deaths, and thus the secret clockwork of fate was going to spin madly.\n\n(Source: Wikipedia)",
+    "background": "Aku no Meshitsukai initially went on hiatus, but Comic Rush was discontinued before any new chapters were released. Serialization resumed on Denshi Birz on July 31, 2015.",
+    "authors": [
+        {
+            "mal_id": 6446,
+            "type": "people",
+            "name": "Nekoyama, Miyao",
+            "url": "https://myanimelist.net/people/6446/Miyao_Nekoyama"
+        },
+        {
+            "mal_id": 12667,
+            "type": "people",
+            "name": "Akuno-P",
+            "url": "https://myanimelist.net/people/12667/Akuno-P"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 175,
+            "type": "manga",
+            "name": "Comic Rush",
+            "url": "https://myanimelist.net/manga/magazine/175/Comic_Rush"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 60559,
+                    "type": "manga",
+                    "name": "Aku no Musume",
+                    "url": "https://myanimelist.net/manga/60559/Aku_no_Musume"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 81691,
+                    "type": "manga",
+                    "name": "Aku no Meshitsukai: Opera Buffa!",
+                    "url": "https://myanimelist.net/manga/81691/Aku_no_Meshitsukai__Opera_Buffa"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic-rush.jp/content/comic/info/0000000017"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Story_of_Evil"
+        }
+    ]
+}

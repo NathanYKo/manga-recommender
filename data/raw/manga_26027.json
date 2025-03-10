@@ -1,0 +1,150 @@
+{
+    "mal_id": 26027,
+    "url": "https://myanimelist.net/manga/26027/Mahoutsukai_no_Yoru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/63637.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/63637t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/63637l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/63637.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/63637t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/63637l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mahoutsukai no Yoru"
+        },
+        {
+            "type": "Synonym",
+            "title": "A Magician's Night"
+        },
+        {
+            "type": "Synonym",
+            "title": "MahoYo"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔法使いの夜"
+        },
+        {
+            "type": "English",
+            "title": "Witch on the Holy Night"
+        }
+    ],
+    "title": "Mahoutsukai no Yoru",
+    "title_english": "Witch on the Holy Night",
+    "title_japanese": "魔法使いの夜",
+    "title_synonyms": [
+        "A Magician's Night",
+        "MahoYo"
+    ],
+    "type": "Light Novel",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-04-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 12, 2012"
+    },
+    "score": 8.63,
+    "scored": 8.63,
+    "scored_by": 855,
+    "rank": 90,
+    "popularity": 3962,
+    "members": 5672,
+    "favorites": 197,
+    "synopsis": "It is the late 1980s. Rumors of a witch living inside an old mansion circulate in the city. Unbeknownst to observers, living inside the mansion is an actual witch, Alice Kuonji, a stoic woman and a magus hiding in the present day. Under her tutelage studies Aoko Aozaki, a high school student studying magecraft as the head of the Aozaki family. As magi, the two of them secretly fight any threat that enters their town.\n\nThings start to change when a young man unfamiliar with city life, Soujuurou Shizuki, enters their lives. Slowly, he affects the lives of these two magi. And so their story begins...\n\n(Source: TV Tropes)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3250,
+            "type": "people",
+            "name": "Nasu, Kinoko",
+            "url": "https://myanimelist.net/people/3250/Kinoko_Nasu"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 50668,
+                    "type": "anime",
+                    "name": "Mahoutsukai no Yoru",
+                    "url": "https://myanimelist.net/anime/50668/Mahoutsukai_no_Yoru"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 87581,
+                    "type": "manga",
+                    "name": "Type-Moon Gakuen: Chibichuki!",
+                    "url": "https://myanimelist.net/manga/87581/Type-Moon_Gakuen__Chibichuki"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 2062,
+                    "type": "manga",
+                    "name": "Kara no Kyoukai: The Garden of Sinners",
+                    "url": "https://myanimelist.net/manga/2062/Kara_no_Kyoukai__The_Garden_of_Sinners"
+                },
+                {
+                    "mal_id": 705,
+                    "type": "manga",
+                    "name": "Shingetsutan Tsukihime",
+                    "url": "https://myanimelist.net/manga/705/Shingetsutan_Tsukihime"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Mahōtsukai_no_Yoru"
+        }
+    ]
+}

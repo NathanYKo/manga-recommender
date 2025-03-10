@@ -1,0 +1,130 @@
+{
+    "mal_id": 2335,
+    "url": "https://myanimelist.net/manga/2335/Abiru_Junjou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/132645.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/132645t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/132645l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/132645.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/132645t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/132645l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Abiru Junjou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Basking in Pure Feelings"
+        },
+        {
+            "type": "Synonym",
+            "title": "Be Covered with Pure Hearted"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kabuki-machi no Otoko"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Man from Kabuki City"
+        },
+        {
+            "type": "Japanese",
+            "title": "浴びる純情"
+        }
+    ],
+    "title": "Abiru Junjou",
+    "title_english": null,
+    "title_japanese": "浴びる純情",
+    "title_synonyms": [
+        "Basking in Pure Feelings",
+        "Be Covered with Pure Hearted",
+        "Kabuki-machi no Otoko",
+        "The Man from Kabuki City"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-02-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 2,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 10, 2005"
+    },
+    "score": 7.17,
+    "scored": 7.17,
+    "scored_by": 3226,
+    "rank": null,
+    "popularity": 3754,
+    "members": 5992,
+    "favorites": 12,
+    "synopsis": "First-year high school student Yuka happens to see his amazingly handsome neighbor kissing another man. However, he learns that the handsome neighbor is his math teacher. Having fallen in love at first sight, Yuka struggles to attract Gotou's attention, but Gotou restrains him with an, \"I have no interest in kids.\"\n\n(Source: MU)\n\nIncluded one-shot: Kabuki-machi no Otoko (The Man from Kabuki City)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2742,
+            "type": "people",
+            "name": "Ougi, Yuzuha",
+            "url": "https://myanimelist.net/people/2742/Yuzuha_Ougi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 131,
+            "type": "manga",
+            "name": "GUSH",
+            "url": "https://myanimelist.net/manga/magazine/131/GUSH"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 2338,
+                    "type": "manga",
+                    "name": "Star na Koi",
+                    "url": "https://myanimelist.net/manga/2338/Star_na_Koi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

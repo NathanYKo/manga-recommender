@@ -1,0 +1,152 @@
+{
+    "mal_id": 1470,
+    "url": "https://myanimelist.net/manga/1470/Gon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/149260.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/149260t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/149260l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/149260.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/149260t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/149260l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gon"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゴン"
+        },
+        {
+            "type": "English",
+            "title": "Gon"
+        }
+    ],
+    "title": "Gon",
+    "title_english": "Gon",
+    "title_japanese": "ゴン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 24,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1992-01-01T00:00:00+00:00",
+        "to": "2002-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1992
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            }
+        },
+        "string": "1992 to 2002"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 6213,
+    "rank": 5300,
+    "popularity": 1259,
+    "members": 16359,
+    "favorites": 263,
+    "synopsis": "Gon, a tiny dinosaur with a huge attitude, has adventures as he travels through forests and rivers, swims with fish and even flies with birds. Gon and his animal friends communicate without speaking, with Gon giving the occasional bite to teach a bully a lesson.\n\n(Source: ANN)",
+    "background": "Gon was published in English by Kodansha Comics USA from August 30, 2011 to August 21, 2012.",
+    "authors": [
+        {
+            "mal_id": 3030,
+            "type": "people",
+            "name": "Tanaka, Masashi",
+            "url": "https://myanimelist.net/people/3030/Masashi_Tanaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 72,
+            "type": "manga",
+            "name": "Morning",
+            "url": "https://myanimelist.net/manga/magazine/72/Morning"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 7867,
+                    "type": "anime",
+                    "name": "Gon",
+                    "url": "https://myanimelist.net/anime/7867/Gon"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 76959,
+                    "type": "manga",
+                    "name": "Gon: A Very, Very Lucky Birth",
+                    "url": "https://myanimelist.net/manga/76959/Gon__A_Very_Very_Lucky_Birth"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%B3_%28%E6%BC%AB%E7%94%BB%29"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gon_(manga)"
+        }
+    ]
+}

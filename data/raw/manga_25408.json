@@ -1,0 +1,144 @@
+{
+    "mal_id": 25408,
+    "url": "https://myanimelist.net/manga/25408/Hanasaku_Iroha",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/153536.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/153536t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/153536l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/153536.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/153536t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/153536l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hanasaku Iroha"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hana-saku Iroha"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blooming Flowers ABC"
+        },
+        {
+            "type": "Japanese",
+            "title": "花咲くいろは"
+        }
+    ],
+    "title": "Hanasaku Iroha",
+    "title_english": null,
+    "title_japanese": "花咲くいろは",
+    "title_synonyms": [
+        "Hana-saku Iroha",
+        "Blooming Flowers ABC"
+    ],
+    "type": "Manga",
+    "chapters": 24,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-11-22T00:00:00+00:00",
+        "to": "2012-09-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 11,
+                "year": 2010
+            },
+            "to": {
+                "day": 22,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "Nov 22, 2010 to Sep 22, 2012"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 648,
+    "rank": 4670,
+    "popularity": 7038,
+    "members": 2985,
+    "favorites": 6,
+    "synopsis": "Matsumae Ohana was a fairly ordinary high school girl who is suddenly sent to live with her grandmother when her mother and mother's boyfriend decide they want to be alone for a while. This catches her completely off guard, but she goes to the Onsen her grandmother own only to discover that she's expected to work there as well. At first she rejects the idea, but then decides to turn herself into that perfect Onsen hostess.\n\nBut it's not quite going exactly as planned...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 22631,
+            "type": "people",
+            "name": "Chida, Eight",
+            "url": "https://myanimelist.net/people/22631/Eight_Chida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 412,
+            "type": "manga",
+            "name": "Gangan Joker",
+            "url": "https://myanimelist.net/manga/magazine/412/Gangan_Joker"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9289,
+                    "type": "anime",
+                    "name": "Hanasaku Iroha",
+                    "url": "https://myanimelist.net/anime/9289/Hanasaku_Iroha"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 30089,
+                    "type": "manga",
+                    "name": "Hanasaku Iroha: Green Girls Graffiti",
+                    "url": "https://myanimelist.net/manga/30089/Hanasaku_Iroha__Green_Girls_Graffiti"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E8%8A%B1%E5%92%B2%E3%81%8F%E3%81%84%E3%82%8D%E3%81%AF"
+        }
+    ]
+}

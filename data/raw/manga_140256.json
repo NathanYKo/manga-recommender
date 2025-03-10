@@ -1,0 +1,147 @@
+{
+    "mal_id": 140256,
+    "url": "https://myanimelist.net/manga/140256/Kimetsu_Gakuen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/253850.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/253850t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/253850l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/253850.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/253850t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/253850l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimetsu Gakuen!"
+        },
+        {
+            "type": "Japanese",
+            "title": "キメツ学園!"
+        },
+        {
+            "type": "English",
+            "title": "Demon Slayer: Kimetsu Academy"
+        }
+    ],
+    "title": "Kimetsu Gakuen!",
+    "title_english": "Demon Slayer: Kimetsu Academy",
+    "title_japanese": "キメツ学園!",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 36,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2021-08-04T00:00:00+00:00",
+        "to": "2024-03-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 8,
+                "year": 2021
+            },
+            "to": {
+                "day": 4,
+                "month": 3,
+                "year": 2024
+            }
+        },
+        "string": "Aug 4, 2021 to Mar 4, 2024"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 771,
+    "rank": 4458,
+    "popularity": 6930,
+    "members": 3046,
+    "favorites": 39,
+    "synopsis": "Zenitsu is late for class, and the only thing between him and Giyu's bamboo sword is one good excuse. Next, when Inosuke, Murata, and Zenitsu fail their midterm, they must endure the harshest math lesson of their lives. Then there's Uzui's explosive art class, Nezuko's first cavity, and Rengoku's forbidden pizza!\n\n(Source: VIZ Media)",
+    "background": "Kimetsu Gakuen! has been published in English as Demon Slayer: Kimetsu Academy by VIZ Media under the Shonen Jump imprint since December 12, 2023.",
+    "authors": [
+        {
+            "mal_id": 49103,
+            "type": "people",
+            "name": "Hokami, Natsuki",
+            "url": "https://myanimelist.net/people/49103/Natsuki_Hokami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 697,
+            "type": "manga",
+            "name": "Saikyou Jump",
+            "url": "https://myanimelist.net/manga/magazine/697/Saikyou_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 96792,
+                    "type": "manga",
+                    "name": "Kimetsu no Yaiba",
+                    "url": "https://myanimelist.net/manga/96792/Kimetsu_no_Yaiba"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 143972,
+                    "type": "manga",
+                    "name": "Kimetsu no Yaiba Koushiki Fanbook: Kisatsutai Kenbunroku",
+                    "url": "https://myanimelist.net/manga/143972/Kimetsu_no_Yaiba_Koushiki_Fanbook__Kisatsutai_Kenbunroku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba#Spin-offs"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/鬼滅の刃#スピンオフ"
+        }
+    ]
+}

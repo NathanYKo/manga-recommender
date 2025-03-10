@@ -1,0 +1,113 @@
+{
+    "mal_id": 64157,
+    "url": "https://myanimelist.net/manga/64157/Hatarakanai_Futari",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/277293.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/277293t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/277293l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/277293.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/277293t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/277293l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hatarakanai Futari"
+        },
+        {
+            "type": "Synonym",
+            "title": "Two Not Working"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Jobless Siblings"
+        },
+        {
+            "type": "Japanese",
+            "title": "働かないふたり"
+        }
+    ],
+    "title": "Hatarakanai Futari",
+    "title_english": null,
+    "title_japanese": "働かないふたり",
+    "title_synonyms": [
+        "Two Not Working",
+        "The Jobless Siblings"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2013-12-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 12,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 20, 2013 to ?"
+    },
+    "score": 7.49,
+    "scored": 7.49,
+    "scored_by": 1716,
+    "rank": 3047,
+    "popularity": 3643,
+    "members": 6184,
+    "favorites": 130,
+    "synopsis": "Haruko is a teenage girl who shares with her brother a love of laying around the house in sweats, watching television and playing video games. Her brother has a few friends, but Haruko has a lot of problems with social anxiety. The two of them pass their days happily playing together, though their mother worries about how she's going to get Haruko to shape up enough to find a husband.\n\n(Source: MangaHelpers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 28131,
+            "type": "people",
+            "name": "Yoshida, Satoru",
+            "url": "https://myanimelist.net/people/28131/Satoru_Yoshida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1063,
+            "type": "manga",
+            "name": "Kurage Bunch",
+            "url": "https://myanimelist.net/manga/magazine/1063/Kurage_Bunch"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.kurage-bunch.com/manga/hatarakanai_futari/"
+        }
+    ]
+}

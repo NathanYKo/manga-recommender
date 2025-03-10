@@ -1,0 +1,180 @@
+{
+    "mal_id": 854,
+    "url": "https://myanimelist.net/manga/854/Code_Name_wa_Sailor_V",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/260688.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/260688t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/260688l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/260688.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/260688t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/260688l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Code Name wa Sailor V"
+        },
+        {
+            "type": "Synonym",
+            "title": "Codename Sailor V"
+        },
+        {
+            "type": "Synonym",
+            "title": "Codename Is Sailor V"
+        },
+        {
+            "type": "Synonym",
+            "title": "Codename wa Sailor V"
+        },
+        {
+            "type": "Japanese",
+            "title": "コードネームはセーラーV"
+        },
+        {
+            "type": "English",
+            "title": "Codename: Sailor V"
+        }
+    ],
+    "title": "Code Name wa Sailor V",
+    "title_english": "Codename: Sailor V",
+    "title_japanese": "コードネームはセーラーV",
+    "title_synonyms": [
+        "Codename Sailor V",
+        "Codename Is Sailor V",
+        "Codename wa Sailor V"
+    ],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1991-01-01T00:00:00+00:00",
+        "to": "1997-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1991
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            }
+        },
+        "string": "1991 to 1997"
+    },
+    "score": 7.5,
+    "scored": 7.5,
+    "scored_by": 6889,
+    "rank": 2982,
+    "popularity": 1550,
+    "members": 13770,
+    "favorites": 368,
+    "synopsis": "\"The Pretty Guardian in a Sailor Suit! Sailor Venus has arrived!\"\n\nThirteen-year-old Minako Aino is an active tomboy who loves idols and video games, and is a popular member of Shiba Koen Junior High School's volleyball team. One day during her PE class, Minako accidentally stumbles upon a white cat, who later sidetracks her from talking to her crush. At home, Minako wonders if she is beautiful, and hearing this, the cat introduces himself as Artemis and gives her a compact mirror that shows Minako more than just her beauty.\n\nBefore she can fully take in the cat's words, Minako receives a special pen that can transform her into the masked champion of justice, Sailor V! As her carefree love-seeking days begin to include adventures against the energy-seeking Dark Agency, Minako will learn to embrace the full extent of her destiny.\n\n[Written by MAL Rewrite]",
+    "background": "Code Name wa Sailor V was serialized in the RunRun magazine as the Bishoujo Senshi Sailor Moon manga ran in Nakayoshi, with a much slower release rate than the latter. The series was published in English by Kodansha Comics USA from September 13, 2011, to November 15, 2011, along with the republishing of the Bishoujo Senshi Sailor Moon manga. It was also released in Brazilian Portuguese by Editora JBC from August 2015 to October 2015. Code Name wa Sailor V had an OVA adaptation planned, but it never happened; the Bishoujo Senshi Sailor Moon anime was created instead.",
+    "authors": [
+        {
+            "mal_id": 1946,
+            "type": "people",
+            "name": "Takeuchi, Naoko",
+            "url": "https://myanimelist.net/people/1946/Naoko_Takeuchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1145,
+            "type": "manga",
+            "name": "Run Run",
+            "url": "https://myanimelist.net/manga/magazine/1145/Run_Run"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 66,
+            "type": "manga",
+            "name": "Mahou Shoujo",
+            "url": "https://myanimelist.net/manga/genre/66/Mahou_Shoujo"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 92,
+                    "type": "manga",
+                    "name": "Bishoujo Senshi Sailor Moon",
+                    "url": "https://myanimelist.net/manga/92/Bishoujo_Senshi_Sailor_Moon"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/codename-sailor-v/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%8D%E3%83%BC%E3%83%A0%E3%81%AF%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%BCV"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Codename:_Sailor_V"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "mal_id": 18685,
+    "url": "https://myanimelist.net/manga/18685/Re_Birth__The_Lunatic_Taker",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/221750.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/221750t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/221750l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/221750.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/221750t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/221750l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Re:Birth: The Lunatic Taker"
+        },
+        {
+            "type": "Japanese",
+            "title": "リバース -The Lunatic Taker-"
+        }
+    ],
+    "title": "Re:Birth: The Lunatic Taker",
+    "title_english": null,
+    "title_japanese": "リバース -The Lunatic Taker-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 29,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-05-27T00:00:00+00:00",
+        "to": "2011-10-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 5,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 10,
+                "year": 2011
+            }
+        },
+        "string": "May 27, 2009 to Oct 27, 2011"
+    },
+    "score": 6.91,
+    "scored": 6.91,
+    "scored_by": 2880,
+    "rank": 10324,
+    "popularity": 3030,
+    "members": 7404,
+    "favorites": 43,
+    "synopsis": "In the hometown of high school student Reiji Tachibana there has been an unusual string of suicides lately. Some people believe that this string of suicides might have something to do with the urban myth of \"death accessories,\" which are magical objects that cause people to die soon after they pick them up.\n\nReiji, who lives alone with his adoring older sister Ayaka, doesn't believe this kind of nonsense, so he has no problem picking up a strange bracelet he finds on the street. Almost immediately, he finds himself forced to form a \"contract\" with his new bracelet. Now, in order to remain alive, Reiji must use the power of his bracelet to fight and kill others like him! His only ally in this new life is his sister Ayaka, who is determined to protect her little brother at any cost!\n\n(Source: MangaHelpers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2827,
+            "type": "people",
+            "name": "Im, Dal Young",
+            "url": "https://myanimelist.net/people/2827/Dal_Young_Im"
+        },
+        {
+            "mal_id": 2828,
+            "type": "people",
+            "name": "Lee, Soo Hyun",
+            "url": "https://myanimelist.net/people/2828/Soo_Hyun_Lee"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 137,
+            "type": "manga",
+            "name": "Comic Alive",
+            "url": "https://myanimelist.net/manga/magazine/137/Comic_Alive"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 35121,
+                    "type": "manga",
+                    "name": "SAI:Taker: Futari no Artemis",
+                    "url": "https://myanimelist.net/manga/35121/SAI_Taker__Futari_no_Artemis"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.mediafactory.co.jp/comic-alive/rebirth_window.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/Re:BIRTH"
+        }
+    ]
+}

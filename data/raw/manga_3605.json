@@ -1,0 +1,129 @@
+{
+    "mal_id": 3605,
+    "url": "https://myanimelist.net/manga/3605/Kimi_ga_Suki",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/264417.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/264417t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/264417l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/264417.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/264417t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/264417l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi ga Suki"
+        },
+        {
+            "type": "Japanese",
+            "title": "キミがスキ"
+        }
+    ],
+    "title": "Kimi ga Suki",
+    "title_english": null,
+    "title_japanese": "キミがスキ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-01-01T00:00:00+00:00",
+        "to": "2007-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "2006 to 2007"
+    },
+    "score": 7.21,
+    "scored": 7.21,
+    "scored_by": 3931,
+    "rank": 5938,
+    "popularity": 2596,
+    "members": 8529,
+    "favorites": 34,
+    "synopsis": "Aki has always liked her basketball club friend, Mase. However, she can’t seem to gather her courage to confess to him. On the day when she finally decides to tell him, she is confessed to by a guy from a different Junior High!! A horrible accident follows and Aki finds herself not being able to choose between the two – Mase, whom she truly loves or Koichi, whom she’ll always feel indebted to…\n\n(Source: JShojo)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3958,
+            "type": "people",
+            "name": "Watanabe, Ayu",
+            "url": "https://myanimelist.net/people/3958/Ayu_Watanabe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 13436,
+                    "type": "manga",
+                    "name": "Kimi ga Suki Plus",
+                    "url": "https://myanimelist.net/manga/13436/Kimi_ga_Suki_Plus"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

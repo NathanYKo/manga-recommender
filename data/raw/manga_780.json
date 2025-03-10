@@ -1,0 +1,138 @@
+{
+    "mal_id": 780,
+    "url": "https://myanimelist.net/manga/780/Take_Moon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/163.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/163t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/163l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/163.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/163t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/163l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Take Moon"
+        },
+        {
+            "type": "Japanese",
+            "title": "TYPE-MOON作品集・TAKE MOON"
+        }
+    ],
+    "title": "Take Moon",
+    "title_english": null,
+    "title_japanese": "TYPE-MOON作品集・TAKE MOON",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 29,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-07-25T00:00:00+00:00",
+        "to": "2005-09-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 7,
+                "year": 2002
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2005
+            }
+        },
+        "string": "Jul 25, 2002 to Sep 24, 2005"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 655,
+    "rank": 3294,
+    "popularity": 6142,
+    "members": 3499,
+    "favorites": 18,
+    "synopsis": "A TYPE-MOON's staff member artist Takenashi Eri has created many side stories published in official anthology comics for the most of the group's projects: Shingetsutan Tsukihime, Kagetsu Tooya, Melty Blood, and Fate/stay night—you'll find your favorite characters in various hilarious situations that weren't covered by any of the original products.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2582,
+            "type": "people",
+            "name": "Type-Moon",
+            "url": "https://myanimelist.net/people/2582/Type-Moon"
+        },
+        {
+            "mal_id": 3264,
+            "type": "people",
+            "name": "Takenashi, Eri",
+            "url": "https://myanimelist.net/people/3264/Eri_Takenashi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 10012,
+                    "type": "anime",
+                    "name": "Carnival Phantasm",
+                    "url": "https://myanimelist.net/anime/10012/Carnival_Phantasm"
+                },
+                {
+                    "mal_id": 12187,
+                    "type": "anime",
+                    "name": "Carnival Phantasm EX Season",
+                    "url": "https://myanimelist.net/anime/12187/Carnival_Phantasm_EX_Season"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/TAKE_MOON"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "mal_id": 114623,
+    "url": "https://myanimelist.net/manga/114623/K-On_Shuffle",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/244141.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/244141t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/244141l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/244141.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/244141t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/244141l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "K-On! Shuffle"
+        },
+        {
+            "type": "Japanese",
+            "title": "けいおん!Shuffle"
+        },
+        {
+            "type": "English",
+            "title": "K-On! Shuffle"
+        }
+    ],
+    "title": "K-On! Shuffle",
+    "title_english": "K-On! Shuffle",
+    "title_japanese": "けいおん!Shuffle",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2018-07-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 9, 2018 to ?"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 850,
+    "rank": 4353,
+    "popularity": 5371,
+    "members": 4056,
+    "favorites": 63,
+    "synopsis": "Sakuma Yukari decided to start a band on her own after seeing a certain band during the Sakura High School festival, then with her best friend Shimizu Kaede, they want to join the Light Music Club only to discover that in their school there isn't a club like that. With help from Sawabe Maho, they discover there is a Light Music Appreciation Society with only one member, Satou Riko.",
+    "background": "K-On! Shuffle has been published in English by Yen Press since April 18, 2023.",
+    "authors": [
+        {
+            "mal_id": 7362,
+            "type": "people",
+            "name": "Kakifly",
+            "url": "https://myanimelist.net/people/7362/Kakifly"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 182,
+            "type": "manga",
+            "name": "Manga Time Kirara",
+            "url": "https://myanimelist.net/manga/magazine/182/Manga_Time_Kirara"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 13001,
+                    "type": "manga",
+                    "name": "K-On!",
+                    "url": "https://myanimelist.net/manga/13001/K-On"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/けいおん!"
+        }
+    ]
+}

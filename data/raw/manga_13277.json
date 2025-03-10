@@ -1,0 +1,135 @@
+{
+    "mal_id": 13277,
+    "url": "https://myanimelist.net/manga/13277/Mirai_Nikki__Paradox",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/307339.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/307339t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/307339l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/307339.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/307339t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/307339l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mirai Nikki: Paradox"
+        },
+        {
+            "type": "Synonym",
+            "title": "Future Diary Paradox"
+        },
+        {
+            "type": "Japanese",
+            "title": "未来日記・パラドックス"
+        }
+    ],
+    "title": "Mirai Nikki: Paradox",
+    "title_english": null,
+    "title_japanese": "未来日記・パラドックス",
+    "title_synonyms": [
+        "Future Diary Paradox"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-03-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 3,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 26, 2010"
+    },
+    "score": 7.25,
+    "scored": 7.25,
+    "scored_by": 9968,
+    "rank": 5443,
+    "popularity": 1071,
+    "members": 18850,
+    "favorites": 114,
+    "synopsis": "In the realm of time and space, deity Deus Ex Machina and his servant Mur Mur prepare for an upcoming battle royale in which the last-standing individual will become the god's successor. However, Mur Mur makes a grave mistake; she creates a hole in the Law of Cause and Effect and as a consequence, Yuno Gasai—the Second Future Diary owner—ceases to exist. Realizing that the future is now disturbed, Mur Mur takes Yuno's place as the Second in hopes of preventing further irregularities.\n\nAs time passes, Yukiteru Amano—the First—is brutally assaulted, leaving him unable to partake in the bloodshed any longer. With things looking bad, Mur Mur despairs and temporarily replaces Yukiteru with detective Aru Akise. Just how will Akise improve the injured boy's fate?\n\n[Written by MAL Rewrite]",
+    "background": "Mirai Nikki: Paradox was published in Italian by Edizioni Star Comics on November 9, 2013; and in Brazilian Portuguese by Editora JBC in April 2014.",
+    "authors": [
+        {
+            "mal_id": 2518,
+            "type": "people",
+            "name": "Esuno, Sakae",
+            "url": "https://myanimelist.net/people/2518/Sakae_Esuno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 503,
+            "type": "manga",
+            "name": "Ace Assault",
+            "url": "https://myanimelist.net/manga/magazine/503/Ace_Assault"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 59,
+            "type": "manga",
+            "name": "High Stakes Game",
+            "url": "https://myanimelist.net/manga/genre/59/High_Stakes_Game"
+        },
+        {
+            "mal_id": 77,
+            "type": "manga",
+            "name": "Survival",
+            "url": "https://myanimelist.net/manga/genre/77/Survival"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 584,
+                    "type": "manga",
+                    "name": "Mirai Nikki",
+                    "url": "https://myanimelist.net/manga/584/Mirai_Nikki"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

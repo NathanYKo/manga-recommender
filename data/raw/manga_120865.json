@@ -1,0 +1,161 @@
+{
+    "mal_id": 120865,
+    "url": "https://myanimelist.net/manga/120865/One_Piece__Roronoa_Zoro_Umi_ni_Chiru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/265729.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/265729t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/265729l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/265729.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/265729t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/265729l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "One Piece: Roronoa Zoro, Umi ni Chiru"
+        },
+        {
+            "type": "Synonym",
+            "title": "One Piece Cover Comic Project: Roronoa Zoro"
+        },
+        {
+            "type": "Synonym",
+            "title": "Umi ni Chiru"
+        },
+        {
+            "type": "Japanese",
+            "title": "ONE PIECE ロロノア・ゾロ, 海に散る"
+        },
+        {
+            "type": "English",
+            "title": "One Piece: Boichi Covers Zolo vs. Mihawk"
+        }
+    ],
+    "title": "One Piece: Roronoa Zoro, Umi ni Chiru",
+    "title_english": "One Piece: Boichi Covers Zolo vs. Mihawk",
+    "title_japanese": "ONE PIECE ロロノア・ゾロ, 海に散る",
+    "title_synonyms": [
+        "One Piece Cover Comic Project: Roronoa Zoro",
+        "Umi ni Chiru"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-07-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 7,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 22, 2019"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 3120,
+    "rank": 2409,
+    "popularity": 4257,
+    "members": 5256,
+    "favorites": 13,
+    "synopsis": "A remake of chapter 51 of One Piece drawn by Boichi to celebrate the series's 22nd anniversary.",
+    "background": "One Piece: Roronoa Zoro, Umi ni Chiru was intended to be the first in a series of remakes of One Piece chapters as part of the \"One Piece Comic Cover Project.\" The one-shot was simulpub in English as One Piece: Boichi Covers Zolo vs. Mihawk by Viz Media.",
+    "authors": [
+        {
+            "mal_id": 1881,
+            "type": "people",
+            "name": "Oda, Eiichiro",
+            "url": "https://myanimelist.net/people/1881/Eiichiro_Oda"
+        },
+        {
+            "mal_id": 3537,
+            "type": "people",
+            "name": "Boichi",
+            "url": "https://myanimelist.net/people/3537/Boichi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 13,
+                    "type": "manga",
+                    "name": "One Piece",
+                    "url": "https://myanimelist.net/manga/13/One_Piece"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ONE_PIECE"
+        }
+    ]
+}

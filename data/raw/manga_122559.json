@@ -1,0 +1,109 @@
+{
+    "mal_id": 122559,
+    "url": "https://myanimelist.net/manga/122559/Devil_May_Cry_5__Visions_of_V",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/223950.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/223950t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/223950l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/223950.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/223950t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/223950l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Devil May Cry 5: Visions of V"
+        },
+        {
+            "type": "Japanese",
+            "title": "Devil May Cry 5 -Visions of V-"
+        }
+    ],
+    "title": "Devil May Cry 5: Visions of V",
+    "title_english": null,
+    "title_japanese": "Devil May Cry 5 -Visions of V-",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 38,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-04-27T00:00:00+00:00",
+        "to": "2022-03-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 4,
+                "year": 2019
+            },
+            "to": {
+                "day": 19,
+                "month": 3,
+                "year": 2022
+            }
+        },
+        "string": "Apr 27, 2019 to Mar 19, 2022"
+    },
+    "score": 7.87,
+    "scored": 7.87,
+    "scored_by": 1291,
+    "rank": 1101,
+    "popularity": 6708,
+    "members": 3162,
+    "favorites": 124,
+    "synopsis": "Based on the game Devil May Cry 5, it's a spinoff story from the viewpoint of the mysterious man V. The story will go into V’s birth, how he meets his familiars, and other plot details in what is essentially a prequel to the game.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 49940,
+            "type": "people",
+            "name": "Ogata, Tomio",
+            "url": "https://myanimelist.net/people/49940/Tomio_Ogata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1540,
+            "type": "manga",
+            "name": "LINE Manga",
+            "url": "https://myanimelist.net/manga/magazine/1540/LINE_Manga"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 118242,
+                    "type": "manga",
+                    "name": "Devil May Cry 5: Before the Nightmare",
+                    "url": "https://myanimelist.net/manga/118242/Devil_May_Cry_5__Before_the_Nightmare"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

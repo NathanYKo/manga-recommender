@@ -1,0 +1,147 @@
+{
+    "mal_id": 12999,
+    "url": "https://myanimelist.net/manga/12999/Liar_Game__Roots_of_A",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/31976.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/31976t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/31976l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/31976.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/31976t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/31976l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Liar Game: Roots of A"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nine Darts"
+        },
+        {
+            "type": "Synonym",
+            "title": "Three Phase: The Forbidden Divination"
+        },
+        {
+            "type": "Synonym",
+            "title": "the Tale of Shinobu Kaitani's Dog"
+        },
+        {
+            "type": "Synonym",
+            "title": "Lovers"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kaitani Shinobu Tanpenshuu"
+        },
+        {
+            "type": "Japanese",
+            "title": "LIAR GAME roots of A 甲斐谷忍 短編集"
+        }
+    ],
+    "title": "Liar Game: Roots of A",
+    "title_english": null,
+    "title_japanese": "LIAR GAME roots of A 甲斐谷忍 短編集",
+    "title_synonyms": [
+        "Nine Darts",
+        "Three Phase: The Forbidden Divination",
+        "the Tale of Shinobu Kaitani's Dog",
+        "Lovers",
+        "Kaitani Shinobu Tanpenshuu"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-09-01T00:00:00+00:00",
+        "to": "2008-01-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 9,
+                "year": 1999
+            },
+            "to": {
+                "day": 24,
+                "month": 1,
+                "year": 2008
+            }
+        },
+        "string": "Sep 1999 to Jan 24, 2008"
+    },
+    "score": 7.25,
+    "scored": 7.25,
+    "scored_by": 3924,
+    "rank": 5504,
+    "popularity": 2709,
+    "members": 8218,
+    "favorites": 26,
+    "synopsis": "1. Liar Game: Roots of A (LIAR GAME roots of A)\n2. Nine Darts\n3-4. Sansou: Kindan no Senjutsu (Three Phase: The Forbidden Divination)\n5. Kaitani Shinobu no Aiken Monogatari (The Tale of Shinobu Kaitani's Dog)\n6. @Lovers",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2656,
+            "type": "people",
+            "name": "Kaitani, Shinobu",
+            "url": "https://myanimelist.net/people/2656/Shinobu_Kaitani"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 24012,
+                    "type": "manga",
+                    "name": "Liar Game: Roots of A #2",
+                    "url": "https://myanimelist.net/manga/24012/Liar_Game__Roots_of_A_2"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 1649,
+                    "type": "manga",
+                    "name": "Liar Game",
+                    "url": "https://myanimelist.net/manga/1649/Liar_Game"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

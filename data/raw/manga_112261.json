@@ -1,0 +1,115 @@
+{
+    "mal_id": 112261,
+    "url": "https://myanimelist.net/manga/112261/Watashitachi_wa_Koi_wo_Shiranai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/210499.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/210499t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/210499l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/210499.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/210499t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/210499l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Watashitachi wa Koi wo Shiranai"
+        },
+        {
+            "type": "Synonym",
+            "title": "We Don't Know a Thing About Love"
+        },
+        {
+            "type": "Japanese",
+            "title": "私たちは恋を知らない"
+        }
+    ],
+    "title": "Watashitachi wa Koi wo Shiranai",
+    "title_english": null,
+    "title_japanese": "私たちは恋を知らない",
+    "title_synonyms": [
+        "We Don't Know a Thing About Love"
+    ],
+    "type": "Manga",
+    "chapters": 30,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-08-24T00:00:00+00:00",
+        "to": "2019-12-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 8,
+                "year": 2017
+            },
+            "to": {
+                "day": 7,
+                "month": 12,
+                "year": 2019
+            }
+        },
+        "string": "Aug 24, 2017 to Dec 7, 2019"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 4894,
+    "rank": 5296,
+    "popularity": 1903,
+    "members": 11345,
+    "favorites": 47,
+    "synopsis": "Autumn of the first year of high school. Yuki Amano and Hayato Kuga are sitting next to each other after seat assignments changed. Kuga starts trying to meddle with Amano, who is shy and never seems to want to smile. Amano also starts to take an interest in Kuga, who is very popular. But neither has known their first love—they don't know what it is.\n\nA heartwarming love comedy about people who don't realize they're in love.\n\n(Source: Official Site)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 46915,
+            "type": "people",
+            "name": "Akiba, Ruiki",
+            "url": "https://myanimelist.net/people/46915/Ruiki_Akiba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 823,
+            "type": "manga",
+            "name": "Manga Life Win",
+            "url": "https://myanimelist.net/manga/magazine/823/Manga_Life_Win"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://mangalifewin.takeshobo.co.jp/rensai/watashitachihakoiwoshiranai/"
+        }
+    ]
+}

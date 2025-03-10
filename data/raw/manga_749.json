@@ -1,0 +1,112 @@
+{
+    "mal_id": 749,
+    "url": "https://myanimelist.net/manga/749/Zelda_no_Densetsu__Majora_no_Kamen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/126025.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/126025t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/126025l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/126025.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/126025t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/126025l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zelda no Densetsu: Majora no Kamen"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Legend of Zelda: Legendary Edition"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゼルダの伝説 ムジュラの仮面"
+        },
+        {
+            "type": "English",
+            "title": "The Legend of Zelda: Majora's Mask"
+        }
+    ],
+    "title": "Zelda no Densetsu: Majora no Kamen",
+    "title_english": "The Legend of Zelda: Majora's Mask",
+    "title_japanese": "ゼルダの伝説 ムジュラの仮面",
+    "title_synonyms": [
+        "The Legend of Zelda: Legendary Edition"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-03-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 3,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 2001"
+    },
+    "score": 7.53,
+    "scored": 7.53,
+    "scored_by": 9388,
+    "rank": 2785,
+    "popularity": 1327,
+    "members": 15690,
+    "favorites": 381,
+    "synopsis": "Based off the popular N64 game. Looking for a old friend in the lost woods, Link soon finds himself thrown into a parallel world by the mischievous actions of a possessed Skull Kid. Link finds a land in grave danger. The dark power of a relic called Majora's Mask has wreaked havoc on the citizens of Termina, but their most urgent problem is a suicidal moon crashing toward the world. Link has only 72 hours to find a way to stop its descent.\n\n(Source: ANN)",
+    "background": "Zelda no Densetsu: Majora no Kamen was published in English as The Legend of Zelda: Majora's Mask, the third volume in the The Legend of Zelda series, by VIZ Media under the VIZ Kids imprint on February 3, 2009. It was also included in the 10-volume box set released October 25, 2011. The series was rereleased, alongside , as the third volume of VIZ Media's The Legend of Zelda: Legendary Edition on March 14, 2017.",
+    "authors": [
+        {
+            "mal_id": 2564,
+            "type": "people",
+            "name": "Himekawa, Akira",
+            "url": "https://myanimelist.net/people/2564/Akira_Himekawa"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 726,
+                    "type": "manga",
+                    "name": "Zelda no Densetsu: Toki no Ocarina",
+                    "url": "https://myanimelist.net/manga/726/Zelda_no_Densetsu__Toki_no_Ocarina"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

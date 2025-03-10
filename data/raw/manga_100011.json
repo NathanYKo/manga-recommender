@@ -1,0 +1,126 @@
+{
+    "mal_id": 100011,
+    "url": "https://myanimelist.net/manga/100011/Sono_Mono_Nochi_ni",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/222532.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/222532t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/222532l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/222532.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/222532t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/222532l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sono Mono. Nochi ni..."
+        },
+        {
+            "type": "Synonym",
+            "title": "That Person. Later on..."
+        },
+        {
+            "type": "Japanese",
+            "title": "その者。のちに…"
+        }
+    ],
+    "title": "Sono Mono. Nochi ni...",
+    "title_english": null,
+    "title_japanese": "その者。のちに…",
+    "title_synonyms": [
+        "That Person. Later on..."
+    ],
+    "type": "Light Novel",
+    "chapters": 191,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-08-15T00:00:00+00:00",
+        "to": "2019-04-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 8,
+                "year": 2016
+            },
+            "to": {
+                "day": 15,
+                "month": 4,
+                "year": 2019
+            }
+        },
+        "string": "Aug 15, 2016 to Apr 15, 2019"
+    },
+    "score": 7.33,
+    "scored": 7.33,
+    "scored_by": 726,
+    "rank": 4497,
+    "popularity": 7233,
+    "members": 2888,
+    "favorites": 41,
+    "synopsis": "Wazu was an ordinary townsman who shut himself off in the \"mountain\" because of an unfortunate course of events. After 2 years, he decided to come down from the mountain to meet with people. But there were various misunderstanding about the \"mountain\" which he shut himself off in...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 39504,
+            "type": "people",
+            "name": "Miya, Kazutomo",
+            "url": "https://myanimelist.net/people/39504/Kazutomo_Miya"
+        },
+        {
+            "mal_id": 41729,
+            "type": "people",
+            "name": "NAHAaTO",
+            "url": "https://myanimelist.net/people/41729/NAHAaTO"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 105911,
+                    "type": "manga",
+                    "name": "Sono Mono. Nochi ni...: Futsuu no Otoko, Saikyou no Michi wo Yuku.",
+                    "url": "https://myanimelist.net/manga/105911/Sono_Mono_Nochi_ni__Futsuu_no_Otoko_Saikyou_no_Michi_wo_Yuku"
+                },
+                {
+                    "mal_id": 115696,
+                    "type": "manga",
+                    "name": "Sono Mono. Nochi ni...: Kigatsuitara S-kyuu Saikyou!? Yuusha Wazu no Daibouken",
+                    "url": "https://myanimelist.net/manga/115696/Sono_Mono_Nochi_ni__Kigatsuitara_S-kyuu_Saikyou_Yuusha_Wazu_no_Daibouken"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

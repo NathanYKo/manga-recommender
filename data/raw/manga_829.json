@@ -1,0 +1,166 @@
+{
+    "mal_id": 829,
+    "url": "https://myanimelist.net/manga/829/Yoru_made_Matenai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/15522.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/15522t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/15522l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/15522.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/15522t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/15522l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yoru made Matenai."
+        },
+        {
+            "type": "Synonym",
+            "title": "I Can't Wait Until Nightfall"
+        },
+        {
+            "type": "Synonym",
+            "title": "I Can't Wait Till the Night"
+        },
+        {
+            "type": "Synonym",
+            "title": "Night is too Late to Come"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yorumade Matenai"
+        },
+        {
+            "type": "Japanese",
+            "title": "夜まで待てない。"
+        }
+    ],
+    "title": "Yoru made Matenai.",
+    "title_english": null,
+    "title_japanese": "夜まで待てない。",
+    "title_synonyms": [
+        "I Can't Wait Until Nightfall",
+        "I Can't Wait Till the Night",
+        "Night is too Late to Come",
+        "Yorumade Matenai"
+    ],
+    "type": "Manga",
+    "chapters": 36,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-01-01T00:00:00+00:00",
+        "to": "2003-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1999
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            }
+        },
+        "string": "1999 to 2003"
+    },
+    "score": 6.98,
+    "scored": 6.98,
+    "scored_by": 1286,
+    "rank": 9289,
+    "popularity": 7180,
+    "members": 2916,
+    "favorites": 11,
+    "synopsis": "Haruka is a sweet, innocent high school girl who is very excited to meet her new step-brother, Tsukasa. Since her father works overseas, Haruka has been living alone, but now that her father has remarried, she'll have little grade schooler Tsukasa with her while both their parents are out of the country. When they finally meet, Tsukasa is even cuter than Haruka had hoped! He wants to get her help with his homework and sleep in her bed... and undress her and make love to her!?\n\n(Source: shoujomagic)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4436,
+            "type": "people",
+            "name": "Oota, Saki",
+            "url": "https://myanimelist.net/people/4436/Saki_Oota"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 124,
+            "type": "manga",
+            "name": "Cheese!",
+            "url": "https://myanimelist.net/manga/magazine/124/Cheese"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 13905,
+                    "type": "manga",
+                    "name": "Yappari Yoru Made Matenai.",
+                    "url": "https://myanimelist.net/manga/13905/Yappari_Yoru_Made_Matenai"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 1163,
+                    "type": "manga",
+                    "name": "Kimi wa Boku no Mono",
+                    "url": "https://myanimelist.net/manga/1163/Kimi_wa_Boku_no_Mono"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E5%A4%9C%E3%81%BE%E3%81%A7%E5%BE%85%E3%81%A6%E3%81%AA%E3%81%84%E3%80%82"
+        }
+    ]
+}

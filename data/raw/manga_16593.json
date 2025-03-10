@@ -1,0 +1,137 @@
+{
+    "mal_id": 16593,
+    "url": "https://myanimelist.net/manga/16593/Private_Opinion__Banana_Fish_Another_Story",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/202641.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/202641t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/202641l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/202641.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/202641t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/202641l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Private Opinion: Banana Fish Another Story"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ura Banana"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fly Boy"
+        },
+        {
+            "type": "Synonym",
+            "title": "In the Sky"
+        },
+        {
+            "type": "Synonym",
+            "title": "Private Garden"
+        },
+        {
+            "type": "Japanese",
+            "title": "PRIVATE OPINION―BANANA FISH ANOTHER STORY"
+        }
+    ],
+    "title": "Private Opinion: Banana Fish Another Story",
+    "title_english": null,
+    "title_japanese": "PRIVATE OPINION―BANANA FISH ANOTHER STORY",
+    "title_synonyms": [
+        "Ura Banana",
+        "Fly Boy",
+        "In the Sky",
+        "Private Garden"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1995-12-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 12,
+                "year": 1995
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 13, 1995"
+    },
+    "score": 8.22,
+    "scored": 8.22,
+    "scored_by": 1384,
+    "rank": 413,
+    "popularity": 4790,
+    "members": 4594,
+    "favorites": 56,
+    "synopsis": "1. Private Garden\n2. Fly Boy, In the Sky",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2082,
+            "type": "people",
+            "name": "Yoshida, Akimi",
+            "url": "https://myanimelist.net/people/2082/Akimi_Yoshida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 756,
+                    "type": "manga",
+                    "name": "Banana Fish",
+                    "url": "https://myanimelist.net/manga/756/Banana_Fish"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

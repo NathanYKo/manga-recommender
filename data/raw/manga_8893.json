@@ -1,0 +1,183 @@
+{
+    "mal_id": 8893,
+    "url": "https://myanimelist.net/manga/8893/Mouryou_no_Hako",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/120949.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/120949t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/120949l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/120949.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/120949t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/120949l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mouryou no Hako"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mouryou no Kou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Box of Goblins"
+        },
+        {
+            "type": "Synonym",
+            "title": "Moryo's Box"
+        },
+        {
+            "type": "Synonym",
+            "title": "Box of Spirits"
+        },
+        {
+            "type": "Japanese",
+            "title": "魍魎の匣"
+        }
+    ],
+    "title": "Mouryou no Hako",
+    "title_english": null,
+    "title_japanese": "魍魎の匣",
+    "title_synonyms": [
+        "Mouryou no Kou",
+        "Box of Goblins",
+        "Moryo's Box",
+        "Box of Spirits"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-08-22T00:00:00+00:00",
+        "to": "2010-04-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 8,
+                "year": 2007
+            },
+            "to": {
+                "day": 22,
+                "month": 4,
+                "year": 2010
+            }
+        },
+        "string": "Aug 22, 2007 to Apr 22, 2010"
+    },
+    "score": 7.32,
+    "scored": 7.32,
+    "scored_by": 582,
+    "rank": 4629,
+    "popularity": 8026,
+    "members": 2544,
+    "favorites": 17,
+    "synopsis": "The story follows a series of bizarre murders of schoolgirls who have been dismembered and stuffed into boxes. The private investigator hired by a missing daughter's mother joins forces with an antique book seller and others to unravel the murder spree.\n\n(Source: MangaToshokan)",
+    "background": "Mouryou no Hako is an adaptation of the second novel of Natsuhiko Kyogoku's Hyakki Yakou series.",
+    "authors": [
+        {
+            "mal_id": 2059,
+            "type": "people",
+            "name": "Shimizu, Aki",
+            "url": "https://myanimelist.net/people/2059/Aki_Shimizu"
+        },
+        {
+            "mal_id": 6978,
+            "type": "people",
+            "name": "Kyougoku, Natsuhiko",
+            "url": "https://myanimelist.net/people/6978/Natsuhiko_Kyougoku"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 523,
+            "type": "manga",
+            "name": "Comic Kwai",
+            "url": "https://myanimelist.net/manga/magazine/523/Comic_Kwai"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 70179,
+                    "type": "manga",
+                    "name": "Ubume no Natsu",
+                    "url": "https://myanimelist.net/manga/70179/Ubume_no_Natsu"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 20567,
+                    "type": "manga",
+                    "name": "Kyoukotsu no Yume",
+                    "url": "https://myanimelist.net/manga/20567/Kyoukotsu_no_Yume"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 4879,
+                    "type": "anime",
+                    "name": "Mouryou no Hako",
+                    "url": "https://myanimelist.net/anime/4879/Mouryou_no_Hako"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%AD%8D%E9%AD%8E%E3%81%AE%E5%8C%A3"
+        }
+    ]
+}

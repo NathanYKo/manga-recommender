@@ -1,0 +1,127 @@
+{
+    "mal_id": 93677,
+    "url": "https://myanimelist.net/manga/93677/Gantz_G",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/192968.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/192968t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/192968l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/192968.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/192968t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/192968l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gantz:G"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gantz G"
+        },
+        {
+            "type": "Japanese",
+            "title": "GANTZ：G"
+        }
+    ],
+    "title": "Gantz:G",
+    "title_english": null,
+    "title_japanese": "GANTZ：G",
+    "title_synonyms": [
+        "Gantz G"
+    ],
+    "type": "Manga",
+    "chapters": 18,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-11-17T00:00:00+00:00",
+        "to": "2017-03-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 11,
+                "year": 2015
+            },
+            "to": {
+                "day": 17,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Nov 17, 2015 to Mar 17, 2017"
+    },
+    "score": 6.36,
+    "scored": 6.36,
+    "scored_by": 7371,
+    "rank": 17950,
+    "popularity": 1381,
+    "members": 15256,
+    "favorites": 53,
+    "synopsis": "A group of high school students have an accident on their trip and all of them die, but they find themselves in a classroom with a black sphere instead...\n\n(Source: MU, edited)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2718,
+            "type": "people",
+            "name": "Oku, Hiroya",
+            "url": "https://myanimelist.net/people/2718/Hiroya_Oku"
+        },
+        {
+            "mal_id": 37911,
+            "type": "people",
+            "name": "Iizuka, Keita",
+            "url": "https://myanimelist.net/people/37911/Keita_Iizuka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 691,
+            "type": "manga",
+            "name": "Miracle Jump",
+            "url": "https://myanimelist.net/manga/magazine/691/Miracle_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 564,
+                    "type": "manga",
+                    "name": "Gantz",
+                    "url": "https://myanimelist.net/manga/564/Gantz"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/GANTZ:G"
+        }
+    ]
+}

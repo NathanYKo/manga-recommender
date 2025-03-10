@@ -1,0 +1,130 @@
+{
+    "mal_id": 34329,
+    "url": "https://myanimelist.net/manga/34329/Tsuki_no_Sango",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/62547.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/62547t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/62547l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/62547.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/62547t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/62547l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tsuki no Sango"
+        },
+        {
+            "type": "Synonym",
+            "title": "Coral of the Moon"
+        },
+        {
+            "type": "Japanese",
+            "title": "月の珊瑚"
+        }
+    ],
+    "title": "Tsuki no Sango",
+    "title_english": null,
+    "title_japanese": "月の珊瑚",
+    "title_synonyms": [
+        "Coral of the Moon"
+    ],
+    "type": "Light Novel",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-10-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 13, 2011"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 965,
+    "rank": 3290,
+    "popularity": 8397,
+    "members": 2408,
+    "favorites": 46,
+    "synopsis": "The story takes place in approximately the year 3000, when humankind arrived at the peak of its civilization, but is loosing it's will to keep living. It follows a girl, called \"princess\" by those around her, living on a small island with a fifty person colony and a shinning coral reef. She is descendent of Moon people, and it focuses upon how her ancestor supposedly came to Earth.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3250,
+            "type": "people",
+            "name": "Nasu, Kinoko",
+            "url": "https://myanimelist.net/people/3250/Kinoko_Nasu"
+        },
+        {
+            "mal_id": 4054,
+            "type": "people",
+            "name": "Takeuchi, Takashi",
+            "url": "https://myanimelist.net/people/4054/Takashi_Takeuchi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 12867,
+                    "type": "anime",
+                    "name": "Tsuki no Sango",
+                    "url": "https://myanimelist.net/anime/12867/Tsuki_no_Sango"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 41957,
+                    "type": "manga",
+                    "name": "Tsuki no Sango",
+                    "url": "https://myanimelist.net/manga/41957/Tsuki_no_Sango"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%9C%88%E3%81%AE%E7%8F%8A%E7%91%9A"
+        }
+    ]
+}

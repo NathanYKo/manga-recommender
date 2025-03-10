@@ -1,0 +1,147 @@
+{
+    "mal_id": 6997,
+    "url": "https://myanimelist.net/manga/6997/Clannad__Hikaru_Mimamoru_Sakamichi_de",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/162583.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/162583t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/162583l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/162583.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/162583t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/162583l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Clannad: Hikaru Mimamoru Sakamichi de"
+        },
+        {
+            "type": "Japanese",
+            "title": "CLANNAD～光見守る坂道で～"
+        },
+        {
+            "type": "English",
+            "title": "Clannad Official Another Story"
+        }
+    ],
+    "title": "Clannad: Hikaru Mimamoru Sakamichi de",
+    "title_english": "Clannad Official Another Story",
+    "title_japanese": "CLANNAD～光見守る坂道で～",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-07-21T00:00:00+00:00",
+        "to": "2008-08-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 7,
+                "year": 2007
+            },
+            "to": {
+                "day": 21,
+                "month": 8,
+                "year": 2008
+            }
+        },
+        "string": "Jul 21, 2007 to Aug 21, 2008"
+    },
+    "score": 7.93,
+    "scored": 7.93,
+    "scored_by": 929,
+    "rank": 914,
+    "popularity": 5755,
+    "members": 3743,
+    "favorites": 36,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 2347,
+            "type": "people",
+            "name": "Maeda, Jun",
+            "url": "https://myanimelist.net/people/2347/Jun_Maeda"
+        },
+        {
+            "mal_id": 2885,
+            "type": "people",
+            "name": "Key",
+            "url": "https://myanimelist.net/people/2885/Key"
+        },
+        {
+            "mal_id": 3918,
+            "type": "people",
+            "name": "Fujii, Rino",
+            "url": "https://myanimelist.net/people/3918/Rino_Fujii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 215,
+            "type": "manga",
+            "name": "Comi Digi",
+            "url": "https://myanimelist.net/manga/magazine/215/Comi_Digi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2167,
+                    "type": "anime",
+                    "name": "Clannad",
+                    "url": "https://myanimelist.net/anime/2167/Clannad"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 2598,
+                    "type": "manga",
+                    "name": "Clannad",
+                    "url": "https://myanimelist.net/manga/2598/Clannad"
+                },
+                {
+                    "mal_id": 136594,
+                    "type": "manga",
+                    "name": "Clannad",
+                    "url": "https://myanimelist.net/manga/136594/Clannad"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Clannad_(anime)#Manga"
+        }
+    ]
+}

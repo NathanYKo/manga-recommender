@@ -1,0 +1,137 @@
+{
+    "mal_id": 117780,
+    "url": "https://myanimelist.net/manga/117780/Super_Cub",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/224755.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/224755t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/224755l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/224755.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/224755t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/224755l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Super Cub"
+        },
+        {
+            "type": "Japanese",
+            "title": "スーパーカブ"
+        }
+    ],
+    "title": "Super Cub",
+    "title_english": null,
+    "title_japanese": "スーパーカブ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-12-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 12,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 29, 2017 to ?"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 529,
+    "rank": 3078,
+    "popularity": 7745,
+    "members": 2660,
+    "favorites": 34,
+    "synopsis": "Second year high school student Koguma doesn't lead a very interesting life. She has no parents, and no friends nor hobbies to keep her daily life busy. One day, she acquires a second-hand Honda Super Cub motorcycle and rides it to school. As time goes by, not only does Koguma have a new adventurous life, but she also forges precious friendships thanks to her precious little motorcycle.\n\n(Source: MAL News)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 44280,
+            "type": "people",
+            "name": "Kanitan",
+            "url": "https://myanimelist.net/people/44280/Kanitan"
+        },
+        {
+            "mal_id": 49923,
+            "type": "people",
+            "name": "Tone Kouken",
+            "url": "https://myanimelist.net/people/49923/Tone_Kouken"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1371,
+            "type": "manga",
+            "name": "Comic Newtype",
+            "url": "https://myanimelist.net/manga/magazine/1371/Comic_Newtype"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 122739,
+                    "type": "manga",
+                    "name": "Super Cub",
+                    "url": "https://myanimelist.net/manga/122739/Super_Cub"
+                },
+                {
+                    "mal_id": 40685,
+                    "type": "anime",
+                    "name": "Super Cub",
+                    "url": "https://myanimelist.net/anime/40685/Super_Cub"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.webnewtype.com/contents/cub/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%96_(%E5%B0%8F%E8%AA%AC)"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "mal_id": 135248,
+    "url": "https://myanimelist.net/manga/135248/Uchi_wa_Wakarete_Kurashiteru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/251414.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/251414t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/251414l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/251414.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/251414t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/251414l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Uchi wa Wakarete Kurashiteru"
+        },
+        {
+            "type": "Synonym",
+            "title": "We Were Living Apart"
+        },
+        {
+            "type": "Synonym",
+            "title": "So Let's Start Being a Family Again"
+        },
+        {
+            "type": "Japanese",
+            "title": "ウチは別れて暮らしてる"
+        },
+        {
+            "type": "English",
+            "title": "So Let's Start My Family Again."
+        }
+    ],
+    "title": "Uchi wa Wakarete Kurashiteru",
+    "title_english": "So Let's Start My Family Again.",
+    "title_japanese": "ウチは別れて暮らしてる",
+    "title_synonyms": [
+        "We Were Living Apart",
+        "So Let's Start Being a Family Again"
+    ],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2021-04-22T00:00:00+00:00",
+        "to": "2022-07-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 4,
+                "year": 2021
+            },
+            "to": {
+                "day": 22,
+                "month": 7,
+                "year": 2022
+            }
+        },
+        "string": "Apr 22, 2021 to Jul 22, 2022"
+    },
+    "score": 7.54,
+    "scored": 7.54,
+    "scored_by": 1978,
+    "rank": 2696,
+    "popularity": 5284,
+    "members": 4127,
+    "favorites": 30,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 10505,
+            "type": "people",
+            "name": "Kawahara, Ren",
+            "url": "https://myanimelist.net/people/10505/Ren_Kawahara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 345,
+            "type": "manga",
+            "name": "Morning Two",
+            "url": "https://myanimelist.net/manga/magazine/345/Morning_Two"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://morning.kodansha.co.jp/c/uchiwaka"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "mal_id": 8795,
+    "url": "https://myanimelist.net/manga/8795/Area_no_Kishi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/193643.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/193643t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/193643l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/193643.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/193643t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/193643l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Area no Kishi"
+        },
+        {
+            "type": "Japanese",
+            "title": "エリアの騎士"
+        },
+        {
+            "type": "English",
+            "title": "The Knight in the Area"
+        }
+    ],
+    "title": "Area no Kishi",
+    "title_english": "The Knight in the Area",
+    "title_japanese": "エリアの騎士",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 503,
+    "volumes": 57,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-04-26T00:00:00+00:00",
+        "to": "2017-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Apr 26, 2006 to Mar 29, 2017"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 3405,
+    "rank": 3099,
+    "popularity": 2236,
+    "members": 9730,
+    "favorites": 88,
+    "synopsis": "Kakeru Aizawa, the manager of an ordinary high school soccer team, believes that he does not have any proficiency in the sport. His brother, Suguru, is a skilled player, even starring as the ace for the Japanese national team. Although they are on good terms, Kakeru secretly envies his brother's soccer skills. Suguru, however, believes that Kakeru still holds some hidden talent and tries to awaken it.\n\nWhen an unexpected tragedy strikes, Kakeru is now forced to play soccer while also reuniting with a childhood crush, and he must finally face the scar that has held him back for so many years.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1886,
+            "type": "people",
+            "name": "Kibayashi, Shin",
+            "url": "https://myanimelist.net/people/1886/Shin_Kibayashi"
+        },
+        {
+            "mal_id": 7360,
+            "type": "people",
+            "name": "Tsukiyama, Kaya",
+            "url": "https://myanimelist.net/people/7360/Kaya_Tsukiyama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 78,
+            "type": "manga",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 65643,
+                    "type": "manga",
+                    "name": "Area no Kishi Gaiden: Enokou Early Days",
+                    "url": "https://myanimelist.net/manga/65643/Area_no_Kishi_Gaiden__Enokou_Early_Days"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 11697,
+                    "type": "anime",
+                    "name": "Area no Kishi",
+                    "url": "https://myanimelist.net/anime/11697/Area_no_Kishi"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 86414,
+                    "type": "manga",
+                    "name": "Magazine Boys' Valentine!",
+                    "url": "https://myanimelist.net/manga/86414/Magazine_Boys_Valentine"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%A2%E3%81%AE%E9%A8%8E%E5%A3%AB"
+        }
+    ]
+}

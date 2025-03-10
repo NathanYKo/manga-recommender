@@ -1,0 +1,138 @@
+{
+    "mal_id": 18753,
+    "url": "https://myanimelist.net/manga/18753/Nekojiru_Udon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/157941.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/157941t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/157941l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/157941.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/157941t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/157941l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nekojiru Udon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Cat Noodle Soup: The Story of a Soul"
+        },
+        {
+            "type": "Japanese",
+            "title": "ねこぢるうどん"
+        },
+        {
+            "type": "English",
+            "title": "Cat Soup"
+        }
+    ],
+    "title": "Nekojiru Udon",
+    "title_english": "Cat Soup",
+    "title_japanese": "ねこぢるうどん",
+    "title_synonyms": [
+        "Cat Noodle Soup: The Story of a Soul"
+    ],
+    "type": "Manga",
+    "chapters": 57,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1990-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1990
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1990"
+    },
+    "score": 7.53,
+    "scored": 7.53,
+    "scored_by": 1002,
+    "rank": 2768,
+    "popularity": 4580,
+    "members": 4838,
+    "favorites": 184,
+    "synopsis": "Short stories about two white cats who have no respect and are just plain cruel. Dark humor warning.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 8953,
+            "type": "people",
+            "name": "Nekojiru",
+            "url": "https://myanimelist.net/people/8953/Nekojiru"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 250,
+            "type": "manga",
+            "name": "Garo",
+            "url": "https://myanimelist.net/manga/magazine/250/Garo"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 51,
+            "type": "manga",
+            "name": "Anthropomorphic",
+            "url": "https://myanimelist.net/manga/genre/51/Anthropomorphic"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1062,
+                    "type": "anime",
+                    "name": "Nekojiru Gekijou Jirujiru Original",
+                    "url": "https://myanimelist.net/anime/1062/Nekojiru_Gekijou_Jirujiru_Original"
+                },
+                {
+                    "mal_id": 601,
+                    "type": "anime",
+                    "name": "Nekojiru-sou",
+                    "url": "https://myanimelist.net/anime/601/Nekojiru-sou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%93%E3%81%A2%E3%82%8B%E3%81%86%E3%81%A9%E3%82%93"
+        }
+    ]
+}

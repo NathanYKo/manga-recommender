@@ -1,0 +1,125 @@
+{
+    "mal_id": 86330,
+    "url": "https://myanimelist.net/manga/86330/Blend_S",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/149976.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/149976t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/149976l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/149976.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/149976t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/149976l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Blend S"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブレンド・S"
+        },
+        {
+            "type": "English",
+            "title": "Blend S"
+        }
+    ],
+    "title": "Blend S",
+    "title_english": "Blend S",
+    "title_japanese": "ブレンド・S",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-08-28T00:00:00+00:00",
+        "to": "2022-04-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 8,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 4,
+                "year": 2022
+            }
+        },
+        "string": "Aug 28, 2013 to Apr 28, 2022"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 1800,
+    "rank": 5363,
+    "popularity": 2424,
+    "members": 9048,
+    "favorites": 75,
+    "synopsis": "Sakuranomiya Maika is, by nature, a person with bad luck who always gets into trouble, but knows Dino, who manages a cafe. However, it is not any cafe, as the waitresses have to act according to their \"attributes.\"\n\n(Source: Group Dinamo Translation, edited)",
+    "background": "The first volume of Blend S was published in English by Sol Press on December 23, 2020. The series has been published by Yen Press since December 17, 2024.",
+    "authors": [
+        {
+            "mal_id": 17955,
+            "type": "people",
+            "name": "Nakayama, Miyuki",
+            "url": "https://myanimelist.net/people/17955/Miyuki_Nakayama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 361,
+            "type": "manga",
+            "name": "Manga Time Kirara Carat",
+            "url": "https://myanimelist.net/manga/magazine/361/Manga_Time_Kirara_Carat"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 34618,
+                    "type": "anime",
+                    "name": "Blend S",
+                    "url": "https://myanimelist.net/anime/34618/Blend_S"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ブレンド・S"
+        }
+    ]
+}

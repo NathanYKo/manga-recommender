@@ -1,0 +1,132 @@
+{
+    "mal_id": 113819,
+    "url": "https://myanimelist.net/manga/113819/Violet_Evergarden_Gaiden",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/224184.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/224184t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/224184l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/224184.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/224184t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/224184l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Violet Evergarden Gaiden"
+        },
+        {
+            "type": "Japanese",
+            "title": "ヴァイオレット・エヴァーガーデン 外伝"
+        }
+    ],
+    "title": "Violet Evergarden Gaiden",
+    "title_english": null,
+    "title_japanese": "ヴァイオレット・エヴァーガーデン 外伝",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-03-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 3,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 23, 2018"
+    },
+    "score": 8.33,
+    "scored": 8.33,
+    "scored_by": 871,
+    "rank": 278,
+    "popularity": 6057,
+    "members": 3550,
+    "favorites": 52,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 22715,
+            "type": "people",
+            "name": "Akatsuki, Kana",
+            "url": "https://myanimelist.net/people/22715/Kana_Akatsuki"
+        },
+        {
+            "mal_id": 41402,
+            "type": "people",
+            "name": "Takase, Akiko",
+            "url": "https://myanimelist.net/people/41402/Akiko_Takase"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 39741,
+                    "type": "anime",
+                    "name": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+                    "url": "https://myanimelist.net/anime/39741/Violet_Evergarden_Gaiden__Eien_to_Jidou_Shuki_Ningyou"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 98930,
+                    "type": "manga",
+                    "name": "Violet Evergarden",
+                    "url": "https://myanimelist.net/manga/98930/Violet_Evergarden"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.kyotoanimation.co.jp/books/violet/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Violet_Evergarden"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3"
+        }
+    ]
+}

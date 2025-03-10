@@ -1,0 +1,166 @@
+{
+    "mal_id": 95016,
+    "url": "https://myanimelist.net/manga/95016/Poputepipikku",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/169121.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/169121t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/169121l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/169121.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/169121t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/169121l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Poputepipikku"
+        },
+        {
+            "type": "Synonym",
+            "title": "Poputepipikku Second Season"
+        },
+        {
+            "type": "Japanese",
+            "title": "ポプテピピック"
+        },
+        {
+            "type": "English",
+            "title": "Pop Team Epic"
+        }
+    ],
+    "title": "Poputepipikku",
+    "title_english": "Pop Team Epic",
+    "title_japanese": "ポプテピピック",
+    "title_synonyms": [
+        "Poputepipikku Second Season"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-08-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 8,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 29, 2014 to ?"
+    },
+    "score": 7.77,
+    "scored": 7.77,
+    "scored_by": 3624,
+    "rank": 1467,
+    "popularity": 1623,
+    "members": 13285,
+    "favorites": 457,
+    "synopsis": "Two high school girls, the short and exceptionally quick to anger Popuko, and the tall and much more calm Pipimi, do insane things and swear like sailors in this absurdist comedy filled with references and meta humor.",
+    "background": "Poputepipikku has been published in English as Pop Team Epic by Vertical Inc. since October 2, 2018. It has also been published in French by Meian since October 16, 2020.",
+    "authors": [
+        {
+            "mal_id": 41278,
+            "type": "people",
+            "name": "Ookawa, bkub",
+            "url": "https://myanimelist.net/people/41278/bkub_Ookawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 823,
+            "type": "manga",
+            "name": "Manga Life Win",
+            "url": "https://myanimelist.net/manga/magazine/823/Manga_Life_Win"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        },
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35330,
+                    "type": "anime",
+                    "name": "Poputepipikku",
+                    "url": "https://myanimelist.net/anime/35330/Poputepipikku"
+                },
+                {
+                    "mal_id": 37596,
+                    "type": "anime",
+                    "name": "Poputepipikku TV Special",
+                    "url": "https://myanimelist.net/anime/37596/Poputepipikku_TV_Special"
+                },
+                {
+                    "mal_id": 50663,
+                    "type": "anime",
+                    "name": "Poputepipikku 2nd Season",
+                    "url": "https://myanimelist.net/anime/50663/Poputepipikku_2nd_Season"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 115579,
+                    "type": "manga",
+                    "name": "Hoshi-iro Girldrop: Comic Anthology",
+                    "url": "https://myanimelist.net/manga/115579/Hoshi-iro_Girldrop__Comic_Anthology"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/pop-team-epic/"
+        },
+        {
+            "name": "Official Site",
+            "url": "http://mangalifewin.takeshobo.co.jp/rensai/popute2/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%97%E3%83%86%E3%83%94%E3%83%94%E3%83%83%E3%82%AF"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Poputepipikku"
+        }
+    ]
+}

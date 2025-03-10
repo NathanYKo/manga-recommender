@@ -1,0 +1,152 @@
+{
+    "mal_id": 10750,
+    "url": "https://myanimelist.net/manga/10750/Arata_Kangatari",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/54659.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/54659t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/54659l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/54659.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/54659t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/54659l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Arata Kangatari"
+        },
+        {
+            "type": "Japanese",
+            "title": "アラタカンガタリ～革神語～"
+        },
+        {
+            "type": "English",
+            "title": "Arata: The Legend"
+        }
+    ],
+    "title": "Arata Kangatari",
+    "title_english": "Arata: The Legend",
+    "title_japanese": "アラタカンガタリ～革神語～",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 237,
+    "volumes": 24,
+    "status": "Discontinued",
+    "publishing": false,
+    "published": {
+        "from": "2008-10-01T00:00:00+00:00",
+        "to": "2015-08-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 26,
+                "month": 8,
+                "year": 2015
+            }
+        },
+        "string": "Oct 1, 2008 to Aug 26, 2015"
+    },
+    "score": 7.37,
+    "scored": 7.37,
+    "scored_by": 2603,
+    "rank": 4148,
+    "popularity": 2582,
+    "members": 8569,
+    "favorites": 88,
+    "synopsis": "In a world where humans and gods coexist, Arata is the unfortunate successor to the matriarchal Hime Clan—unfortunate because if he's not cross-dressing to hide his gender one minute, he's fleeing for his life the next! When Arata winds up in the modern world and switches places with a boy named Arata Hinohara, it's a wonder which Arata's actually better off...\n\nHinohara is the spitting image of Arata, so he suddenly finds himself fighting people after his life! As he navigates through this foreign world filled with power-hungry warriors, who will come to his aid? One thing's for sure—it's not easy being Arata!\n\n(Source: VIZ Media)",
+    "background": "Arata Kangatari was published in English as Arata: The Legend by VIZ Media under the Shonen Sunday imprint from March 9, 2010 to August 9, 2016. As a result of changes imposed by the mangaka's former editor in early volumes of this series, which were at odds with her initial plans for the story, a remastered version was started and the series was paused after volume 24 in order to allow for the remastered version to catch up. However, as the story in the remastered version had diverged significantly by volume 8, in 2021 it was decided to discontinue the Shounen Sunday version and to continue the story only in the remastered version.",
+    "authors": [
+        {
+            "mal_id": 1930,
+            "type": "people",
+            "name": "Watase, Yuu",
+            "url": "https://myanimelist.net/people/1930/Yuu_Watase"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 16518,
+                    "type": "anime",
+                    "name": "Arata Kangatari",
+                    "url": "https://myanimelist.net/anime/16518/Arata_Kangatari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://websunday.net/rensai/arata/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%BF%E3%82%AB%E3%83%B3%E3%82%AC%E3%82%BF%E3%83%AA%E3%80%9C%E9%9D%A9%E7%A5%9E%E8%AA%9E%E3%80%9C"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Arata:_The_Legend"
+        }
+    ]
+}

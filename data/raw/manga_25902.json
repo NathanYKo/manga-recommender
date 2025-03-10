@@ -1,0 +1,117 @@
+{
+    "mal_id": 25902,
+    "url": "https://myanimelist.net/manga/25902/Cardcaptor_Sakura_Extras",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/41655.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/41655t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/41655l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/41655.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/41655t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/41655l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Cardcaptor Sakura Extras"
+        },
+        {
+            "type": "Synonym",
+            "title": "Honey Tea"
+        },
+        {
+            "type": "Synonym",
+            "title": "Honey Milk"
+        },
+        {
+            "type": "Synonym",
+            "title": "Milk with Honey"
+        },
+        {
+            "type": "Synonym",
+            "title": "Cardcaptor Sakura: Short Stories"
+        },
+        {
+            "type": "Japanese",
+            "title": "カードキャプターさくら"
+        }
+    ],
+    "title": "Cardcaptor Sakura Extras",
+    "title_english": null,
+    "title_japanese": "カードキャプターさくら",
+    "title_synonyms": [
+        "Honey Tea",
+        "Honey Milk",
+        "Milk with Honey",
+        "Cardcaptor Sakura: Short Stories"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-07-28T00:00:00+00:00",
+        "to": "2000-04-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 7,
+                "year": 1998
+            },
+            "to": {
+                "day": 26,
+                "month": 4,
+                "year": 2000
+            }
+        },
+        "string": "Jul 28, 1998 to Apr 26, 2000"
+    },
+    "score": 7.5,
+    "scored": 7.5,
+    "scored_by": 1041,
+    "rank": 2961,
+    "popularity": 8105,
+    "members": 2520,
+    "favorites": 12,
+    "synopsis": "Two-part extra included in the Cardcaptor Sakura Illustration Collection Artbooks.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1877,
+            "type": "people",
+            "name": "CLAMP",
+            "url": "https://myanimelist.net/people/1877/CLAMP"
+        }
+    ],
+    "serializations": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 106,
+                    "type": "manga",
+                    "name": "Cardcaptor Sakura",
+                    "url": "https://myanimelist.net/manga/106/Cardcaptor_Sakura"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,125 @@
+{
+    "mal_id": 17839,
+    "url": "https://myanimelist.net/manga/17839/Kamui_Den",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/268898.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/268898t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/268898l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/268898.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/268898t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/268898l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kamui Den"
+        },
+        {
+            "type": "Japanese",
+            "title": "カムイ伝"
+        },
+        {
+            "type": "English",
+            "title": "The Legend of Kamui"
+        }
+    ],
+    "title": "Kamui Den",
+    "title_english": "The Legend of Kamui",
+    "title_japanese": "カムイ伝",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 71,
+    "volumes": 21,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1964-10-24T00:00:00+00:00",
+        "to": "1971-05-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 10,
+                "year": 1964
+            },
+            "to": {
+                "day": 24,
+                "month": 5,
+                "year": 1971
+            }
+        },
+        "string": "Oct 24, 1964 to May 24, 1971"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 240,
+    "rank": 3646,
+    "popularity": 8733,
+    "members": 2293,
+    "favorites": 22,
+    "synopsis": "Set in feudal Japan, this tells the story of a low-born ninja who tries to flee his clan. The series combines historical adventure with social commentary and themes of oppression and rebellion that reflect Shirato's leftist convictions.\n\n(Source: Wikipedia)",
+    "background": "Kamui Den has been published in English as The Legend of Kamui by Drawn & Quarterly since January 14, 2025.",
+    "authors": [
+        {
+            "mal_id": 6586,
+            "type": "people",
+            "name": "Shirato, Sanpei",
+            "url": "https://myanimelist.net/people/6586/Sanpei_Shirato"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 250,
+            "type": "manga",
+            "name": "Garo",
+            "url": "https://myanimelist.net/manga/magazine/250/Garo"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 11749,
+                    "type": "manga",
+                    "name": "Kamui Gaiden Daiichi-bu",
+                    "url": "https://myanimelist.net/manga/11749/Kamui_Gaiden_Daiichi-bu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A0%E3%82%A4%E4%BC%9D"
+        }
+    ]
+}

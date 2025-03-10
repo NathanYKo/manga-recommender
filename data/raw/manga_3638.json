@@ -1,0 +1,163 @@
+{
+    "mal_id": 3638,
+    "url": "https://myanimelist.net/manga/3638/Kurogane_no_Linebarrel",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/188887.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/188887t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/188887l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/188887.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/188887t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/188887l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kurogane no Linebarrel"
+        },
+        {
+            "type": "Synonym",
+            "title": "Linebarrels of Iron"
+        },
+        {
+            "type": "Japanese",
+            "title": "鉄のラインバレル"
+        }
+    ],
+    "title": "Kurogane no Linebarrel",
+    "title_english": null,
+    "title_japanese": "鉄のラインバレル",
+    "title_synonyms": [
+        "Linebarrels of Iron"
+    ],
+    "type": "Manga",
+    "chapters": 128,
+    "volumes": 25,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-12-18T00:00:00+00:00",
+        "to": "2015-04-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 12,
+                "year": 2004
+            },
+            "to": {
+                "day": 18,
+                "month": 4,
+                "year": 2015
+            }
+        },
+        "string": "Dec 18, 2004 to Apr 18, 2015"
+    },
+    "score": 7.08,
+    "scored": 7.08,
+    "scored_by": 1140,
+    "rank": 7821,
+    "popularity": 5384,
+    "members": 4049,
+    "favorites": 49,
+    "synopsis": "Kurogane no Linebarrel story takes place in a fictional alternate future, centering on a junior-high school student named Kouichi Hayase, who escaped his daily life of being bullied as a child by daydreaming about being a hero. His life was forever changed during a class trip in the year 2016 when an artificial satellite fell from orbit. Due to this \"accident,\" Kouichi was left in a coma for half a year, and upon awakening, found himself with strange powers, including superhuman strength.\n\n(Source: Wikipedia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6632,
+            "type": "people",
+            "name": "Shimizu, Eiichi",
+            "url": "https://myanimelist.net/people/6632/Eiichi_Shimizu"
+        },
+        {
+            "mal_id": 7634,
+            "type": "people",
+            "name": "Shimoguchi, Tomohiro",
+            "url": "https://myanimelist.net/people/7634/Tomohiro_Shimoguchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 186,
+            "type": "manga",
+            "name": "Champion RED",
+            "url": "https://myanimelist.net/manga/magazine/186/Champion_RED"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3653,
+                    "type": "anime",
+                    "name": "Kurogane no Linebarrels",
+                    "url": "https://myanimelist.net/anime/3653/Kurogane_no_Linebarrels"
+                },
+                {
+                    "mal_id": 33126,
+                    "type": "anime",
+                    "name": "Kurogane no Linebarrels Picture Drama",
+                    "url": "https://myanimelist.net/anime/33126/Kurogane_no_Linebarrels_Picture_Drama"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 92894,
+                    "type": "manga",
+                    "name": "Kurogane no Linebarrel 0",
+                    "url": "https://myanimelist.net/manga/92894/Kurogane_no_Linebarrel_0"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%89%84%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%90%E3%83%AC%E3%83%AB"
+        }
+    ]
+}

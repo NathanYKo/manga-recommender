@@ -1,0 +1,138 @@
+{
+    "mal_id": 17862,
+    "url": "https://myanimelist.net/manga/17862/Warui_Ko_Demo_Ii",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186948.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186948t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186948l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186948.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186948t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186948l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Warui Ko Demo Ii?"
+        },
+        {
+            "type": "Synonym",
+            "title": "Waruiko DemoIi?"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sukisugite Gomen ne"
+        },
+        {
+            "type": "Japanese",
+            "title": "悪いコでもイイ？"
+        }
+    ],
+    "title": "Warui Ko Demo Ii?",
+    "title_english": null,
+    "title_japanese": "悪いコでもイイ？",
+    "title_synonyms": [
+        "Waruiko DemoIi?",
+        "Sukisugite Gomen ne"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-02-14T00:00:00+00:00",
+        "to": "2007-08-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 2,
+                "year": 2007
+            },
+            "to": {
+                "day": 14,
+                "month": 8,
+                "year": 2007
+            }
+        },
+        "string": "Feb 14, 2007 to Aug 14, 2007"
+    },
+    "score": 7.76,
+    "scored": 7.76,
+    "scored_by": 3210,
+    "rank": null,
+    "popularity": 3672,
+    "members": 6141,
+    "favorites": 13,
+    "synopsis": "After ups and downs and lots of deep things went between, now the delinquent Towa Aikawa is a very \"deeply involved friend\" of the Student Council President, Mikado Shirahane. But when Towa visits Mikado's house for the very first time, Mikado's elder brother thought he was Mikado's sex-friend...\n\n(Source: MU)\n\nIncluded one-shot:\nSukisugite Gomen ne",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3272,
+            "type": "people",
+            "name": "Sakuraga, Mei",
+            "url": "https://myanimelist.net/people/3272/Mei_Sakuraga"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 138,
+            "type": "manga",
+            "name": "Hanaoto",
+            "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 2214,
+                    "type": "manga",
+                    "name": "Warui Koto Shitai",
+                    "url": "https://myanimelist.net/manga/2214/Warui_Koto_Shitai"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 17863,
+                    "type": "manga",
+                    "name": "Warui Yatsu Demo Ii",
+                    "url": "https://myanimelist.net/manga/17863/Warui_Yatsu_Demo_Ii"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

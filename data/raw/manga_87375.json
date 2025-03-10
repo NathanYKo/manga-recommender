@@ -1,0 +1,126 @@
+{
+    "mal_id": 87375,
+    "url": "https://myanimelist.net/manga/87375/High_School_DxD_DX",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/152737.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/152737t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/152737l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/152737.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/152737t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/152737l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "High School DxD DX"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハイスクールD×D DX"
+        }
+    ],
+    "title": "High School DxD DX",
+    "title_english": null,
+    "title_japanese": "ハイスクールD×D DX",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2011-09-17T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 9,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 17, 2011 to ?"
+    },
+    "score": 7.93,
+    "scored": 7.93,
+    "scored_by": 640,
+    "rank": 922,
+    "popularity": 7183,
+    "members": 2914,
+    "favorites": 45,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 12338,
+            "type": "people",
+            "name": "Ishibumi, Ichiei",
+            "url": "https://myanimelist.net/people/12338/Ichiei_Ishibumi"
+        },
+        {
+            "mal_id": 14799,
+            "type": "people",
+            "name": "Miyama-Zero",
+            "url": "https://myanimelist.net/people/14799/Miyama-Zero"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 312,
+            "type": "manga",
+            "name": "Dragon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/312/Dragon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 25409,
+                    "type": "manga",
+                    "name": "High School DxD",
+                    "url": "https://myanimelist.net/manga/25409/High_School_DxD"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%ABD%C3%97D"
+        }
+    ]
+}

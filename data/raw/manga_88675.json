@@ -1,0 +1,165 @@
+{
+    "mal_id": 88675,
+    "url": "https://myanimelist.net/manga/88675/Kyochuu_Rettou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/154671.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/154671t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/154671l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/154671.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/154671t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/154671l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kyochuu Rettou"
+        },
+        {
+            "type": "Japanese",
+            "title": "巨蟲列島"
+        },
+        {
+            "type": "English",
+            "title": "The Island of Giant Insects"
+        }
+    ],
+    "title": "Kyochuu Rettou",
+    "title_english": "The Island of Giant Insects",
+    "title_japanese": "巨蟲列島",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 24,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-10-21T00:00:00+00:00",
+        "to": "2019-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2019
+            }
+        },
+        "string": "Oct 21, 2014 to Mar 28, 2019"
+    },
+    "score": 5.36,
+    "scored": 5.36,
+    "scored_by": 2936,
+    "rank": 20396,
+    "popularity": 2958,
+    "members": 7583,
+    "favorites": 30,
+    "synopsis": "After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!\n\n(Source: MangaHelpers)",
+    "background": "Hirose Shuu replaced REDICE, due to poor health, as the illustrator of Kyochuu Rettou from chapter 21.",
+    "authors": [
+        {
+            "mal_id": 5377,
+            "type": "people",
+            "name": "Hirose, Shuu",
+            "url": "https://myanimelist.net/people/5377/Shuu_Hirose"
+        },
+        {
+            "mal_id": 9768,
+            "type": "people",
+            "name": "Fujimi, Yasutaka",
+            "url": "https://myanimelist.net/people/9768/Yasutaka_Fujimi"
+        },
+        {
+            "mal_id": 28143,
+            "type": "people",
+            "name": "REDICE",
+            "url": "https://myanimelist.net/people/28143/REDICE"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1298,
+            "type": "manga",
+            "name": "Champion Cross",
+            "url": "https://myanimelist.net/manga/magazine/1298/Champion_Cross"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        },
+        {
+            "mal_id": 77,
+            "type": "manga",
+            "name": "Survival",
+            "url": "https://myanimelist.net/manga/genre/77/Survival"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 121730,
+                    "type": "manga",
+                    "name": "Dai Kyochuu Rettou",
+                    "url": "https://myanimelist.net/manga/121730/Dai_Kyochuu_Rettou"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38915,
+                    "type": "anime",
+                    "name": "Kyochuu Rettou",
+                    "url": "https://myanimelist.net/anime/38915/Kyochuu_Rettou"
+                },
+                {
+                    "mal_id": 40332,
+                    "type": "anime",
+                    "name": "Kyochuu Rettou Movie",
+                    "url": "https://myanimelist.net/anime/40332/Kyochuu_Rettou_Movie"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 132167,
+                    "type": "manga",
+                    "name": "Kyochuu Sanmyaku",
+                    "url": "https://myanimelist.net/manga/132167/Kyochuu_Sanmyaku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%B7%A8%E8%9F%B2%E5%88%97%E5%B3%B6"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "mal_id": 12917,
+    "url": "https://myanimelist.net/manga/12917/Shaman_King_Kanzenban",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/143909.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/143909t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/143909l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/143909.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/143909t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/143909l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shaman King Kanzenban"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shaman King KZB"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shaman King Kang Zeng Bang"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shaman King Remix Track"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mappa Douji"
+        },
+        {
+            "type": "Japanese",
+            "title": "Shaman King シャーマンキング 完全版"
+        }
+    ],
+    "title": "Shaman King Kanzenban",
+    "title_english": null,
+    "title_japanese": "Shaman King シャーマンキング 完全版",
+    "title_synonyms": [
+        "Shaman King KZB",
+        "Shaman King Kang Zeng Bang",
+        "Shaman King Remix Track",
+        "Mappa Douji"
+    ],
+    "type": "Manga",
+    "chapters": 33,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-03-04T00:00:00+00:00",
+        "to": "2009-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 3,
+                "year": 2008
+            },
+            "to": {
+                "day": 3,
+                "month": 4,
+                "year": 2009
+            }
+        },
+        "string": "Mar 4, 2008 to Apr 3, 2009"
+    },
+    "score": 8.05,
+    "scored": 8.05,
+    "scored_by": 7589,
+    "rank": 669,
+    "popularity": 1310,
+    "members": 15825,
+    "favorites": 375,
+    "synopsis": "Shaman King Kanzenban is a reprint of the original Shaman King series but with differences including the addition of new chapters (which changes the chapter numbering). The releases also included 16 special bonus chapters called Shaman King Remix Track.\n\n(Source: MU)\n\nNote: This entry will only contain the extra chapters included in this edition. Please see here for more information.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1910,
+            "type": "people",
+            "name": "Takei, Hiroyuki",
+            "url": "https://myanimelist.net/people/1910/Hiroyuki_Takei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 33389,
+                    "type": "manga",
+                    "name": "Shaman King Zero",
+                    "url": "https://myanimelist.net/manga/33389/Shaman_King_Zero"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 16572,
+                    "type": "manga",
+                    "name": "Shaman King: Flowers",
+                    "url": "https://myanimelist.net/manga/16572/Shaman_King__Flowers"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 42205,
+                    "type": "anime",
+                    "name": "Shaman King (2021)",
+                    "url": "https://myanimelist.net/anime/42205/Shaman_King_2021"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 50,
+                    "type": "manga",
+                    "name": "Shaman King",
+                    "url": "https://myanimelist.net/manga/50/Shaman_King"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0"
+        }
+    ]
+}

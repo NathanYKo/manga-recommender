@@ -1,0 +1,160 @@
+{
+    "mal_id": 6979,
+    "url": "https://myanimelist.net/manga/6979/Ikoku_Meiro_no_Croisée",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/128771.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/128771t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/128771l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/128771.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/128771t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/128771l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ikoku Meiro no Croisée"
+        },
+        {
+            "type": "Synonym",
+            "title": "Crossroads of the Foreign Labyrinth"
+        },
+        {
+            "type": "Japanese",
+            "title": "異国迷路のクロワーゼ"
+        }
+    ],
+    "title": "Ikoku Meiro no Croisée",
+    "title_english": null,
+    "title_japanese": "異国迷路のクロワーゼ",
+    "title_synonyms": [
+        "Crossroads of the Foreign Labyrinth"
+    ],
+    "type": "Manga",
+    "chapters": 18,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-06-29T00:00:00+00:00",
+        "to": "2011-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 6,
+                "year": 2006
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            }
+        },
+        "string": "Jun 29, 2006 to 2011"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 708,
+    "rank": 3901,
+    "popularity": 7084,
+    "members": 2963,
+    "favorites": 25,
+    "synopsis": "The story takes place in the second half of the 19th century, as Japanese culture gains popularity in the West. A young Japanese girl, Yune, accompanies a French traveller, Oscar, on his journey back to France, and offers to help at the family's ironwork shop in Paris. Oscar's nephew and shopowner Claude reluctantly accepts to take care of Yune, and we learn how those two, who have so little in common, get to understand each other and live together in the Paris of the 1800s.",
+    "background": "Ikoku Meiro no Croisée was discontinued due to death of the author in 2017.",
+    "authors": [
+        {
+            "mal_id": 2939,
+            "type": "people",
+            "name": "Takeda, Hinata",
+            "url": "https://myanimelist.net/people/2939/Hinata_Takeda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 98,
+            "type": "manga",
+            "name": "Dragon Age",
+            "url": "https://myanimelist.net/manga/magazine/98/Dragon_Age"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 25896,
+                    "type": "manga",
+                    "name": "Ikoku Meiro no Alice-chan",
+                    "url": "https://myanimelist.net/manga/25896/Ikoku_Meiro_no_Alice-chan"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9938,
+                    "type": "anime",
+                    "name": "Ikoku Meiro no Croisée The Animation",
+                    "url": "https://myanimelist.net/anime/9938/Ikoku_Meiro_no_Croisée_The_Animation"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 74261,
+                    "type": "manga",
+                    "name": "Ikoku Meiro no Croisée: Le cahier d' Yune",
+                    "url": "https://myanimelist.net/manga/74261/Ikoku_Meiro_no_Croisée__Le_cahier_d_Yune"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Crois%C3%A9e_in_a_Foreign_Labyrinth"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%95%B0%E5%9B%BD%E8%BF%B7%E8%B7%AF%E3%81%AE%E3%82%AF%E3%83%AD%E3%83%AF%E3%83%BC%E3%82%BC"
+        }
+    ]
+}

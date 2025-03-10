@@ -1,0 +1,138 @@
+{
+    "mal_id": 93353,
+    "url": "https://myanimelist.net/manga/93353/Koro-sensei_Q",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186156.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186156t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186156l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186156.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186156t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186156l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koro-sensei Q!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Koro-sensei Quest"
+        },
+        {
+            "type": "Japanese",
+            "title": "殺せんせーQ!"
+        }
+    ],
+    "title": "Koro-sensei Q!",
+    "title_english": null,
+    "title_japanese": "殺せんせーQ!",
+    "title_synonyms": [
+        "Koro-sensei Quest"
+    ],
+    "type": "Manga",
+    "chapters": 33,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-10-02T00:00:00+00:00",
+        "to": "2019-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 4,
+                "month": 10,
+                "year": 2019
+            }
+        },
+        "string": "Oct 2, 2015 to Oct 4, 2019"
+    },
+    "score": 7.13,
+    "scored": 7.13,
+    "scored_by": 828,
+    "rank": 7040,
+    "popularity": 7353,
+    "members": 2824,
+    "favorites": 18,
+    "synopsis": "The world needs heroes. Kunugigaoka Magical Academy has a distinguished track record of turning out the greatest heroes in the kingdom. As a result, the students are held to extremely high standards. When a group of students consistently fails to live up to these expectations, they find themselves the target of ridicule, contempt, and discrimination in the \"E\" or End-Class.\"\n\nBefore they can give up, suddenly the Demon King appears before the class. He explains that their quirky hidden abilities, which seem to be the cause of their failure, are actually a sign that they are all special individuals. The archenemy of humanity also announces that he will act as Class-E's homeroom teacher with the sole purpose of nurturing them into heroes capable of killing him.\n\nUnder the supervision of this unkillable teacher, Koro-sensei, and the captain of the Royal Knights, Tadaomi Karasuma, Class-E embarks upon the ultimate quest. Against the opposition of their enemies—such as the Five Virtuosos, the Pope, and various monsters—the students must learn how to kill their teacher, the Big Bad, himself.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11001,
+            "type": "people",
+            "name": "Aoto, Jou",
+            "url": "https://myanimelist.net/people/11001/Jou_Aoto"
+        },
+        {
+            "mal_id": 11939,
+            "type": "people",
+            "name": "Watanabe, Kizuku",
+            "url": "https://myanimelist.net/people/11939/Kizuku_Watanabe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 697,
+            "type": "manga",
+            "name": "Saikyou Jump",
+            "url": "https://myanimelist.net/manga/magazine/697/Saikyou_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 34389,
+                    "type": "anime",
+                    "name": "Koro-sensei Quest!",
+                    "url": "https://myanimelist.net/anime/34389/Koro-sensei_Quest"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 39883,
+                    "type": "manga",
+                    "name": "Ansatsu Kyoushitsu",
+                    "url": "https://myanimelist.net/manga/39883/Ansatsu_Kyoushitsu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%AE%BA%E3%81%9B%E3%82%93%E3%81%9B%E3%83%BCQ!"
+        }
+    ]
+}

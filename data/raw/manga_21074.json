@@ -1,0 +1,125 @@
+{
+    "mal_id": 21074,
+    "url": "https://myanimelist.net/manga/21074/Ouji_no_Kikan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/33817.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/33817t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/33817l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/33817.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/33817t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/33817l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ouji no Kikan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Metamorphosis"
+        },
+        {
+            "type": "Synonym",
+            "title": "By His Side"
+        },
+        {
+            "type": "Japanese",
+            "title": "王子の帰還"
+        },
+        {
+            "type": "English",
+            "title": "Return of the Prince"
+        }
+    ],
+    "title": "Ouji no Kikan",
+    "title_english": "Return of the Prince",
+    "title_japanese": "王子の帰還",
+    "title_synonyms": [
+        "Metamorphosis",
+        "By His Side"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-05-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 5,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 1, 2010"
+    },
+    "score": 7.37,
+    "scored": 7.37,
+    "scored_by": 2894,
+    "rank": 4068,
+    "popularity": 3657,
+    "members": 6164,
+    "favorites": 4,
+    "synopsis": "1-2. Ouji no Kikan\n3-6. Metamorphosis\n7-9. By His Side",
+    "background": "Ouji no Kikan has been licensed in English as Return of the Prince by Digital Manga Publishing.",
+    "authors": [
+        {
+            "mal_id": 10867,
+            "type": "people",
+            "name": "Junko",
+            "url": "https://myanimelist.net/people/10867/Junko"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 219,
+            "type": "manga",
+            "name": "HertZ",
+            "url": "https://myanimelist.net/manga/magazine/219/HertZ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

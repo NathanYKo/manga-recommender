@@ -1,0 +1,110 @@
+{
+    "mal_id": 13194,
+    "url": "https://myanimelist.net/manga/13194/Boyfriend",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/23925.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/23925t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/23925l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/23925.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/23925t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/23925l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boyfriend"
+        },
+        {
+            "type": "Synonym",
+            "title": "Boy Friend"
+        },
+        {
+            "type": "Japanese",
+            "title": "ボーイフレンド"
+        }
+    ],
+    "title": "Boyfriend",
+    "title_english": null,
+    "title_japanese": "ボーイフレンド",
+    "title_synonyms": [
+        "Boy Friend"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-03-01T00:00:00+00:00",
+        "to": "2010-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 3,
+                "year": 2009
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            }
+        },
+        "string": "Mar 2009 to Jan 2010"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 4287,
+    "rank": 3369,
+    "popularity": 2684,
+    "members": 8294,
+    "favorites": 39,
+    "synopsis": "Hijiki (a girl with an unusual name) has just entered a new school, and on the way there she encounters a mysterious boy alongside a beautiful lake. Hijiki has some secrets of her own, and will this boy be able to listen to her silent pleas for help...? (Source: Nagareboshi Manga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5167,
+            "type": "people",
+            "name": "Yamada, Daisy",
+            "url": "https://myanimelist.net/people/5167/Daisy_Yamada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Nakayoshi",
+            "url": "https://myanimelist.net/manga/magazine/20/Nakayoshi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

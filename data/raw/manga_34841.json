@@ -1,0 +1,138 @@
+{
+    "mal_id": 34841,
+    "url": "https://myanimelist.net/manga/34841/Byousoku_5_Centimeter",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/281622.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/281622t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/281622l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/281622.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/281622t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/281622l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Byousoku 5 Centimeter"
+        },
+        {
+            "type": "Synonym",
+            "title": "5 Centimeters Per Second"
+        },
+        {
+            "type": "Japanese",
+            "title": "秒速5センチメートル"
+        },
+        {
+            "type": "English",
+            "title": "5 Centimeters per Second"
+        }
+    ],
+    "title": "Byousoku 5 Centimeter",
+    "title_english": "5 Centimeters per Second",
+    "title_japanese": "秒速5センチメートル",
+    "title_synonyms": [
+        "5 Centimeters Per Second"
+    ],
+    "type": "Novel",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-11-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 11,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 16, 2007"
+    },
+    "score": 8.03,
+    "scored": 8.03,
+    "scored_by": 2500,
+    "rank": 712,
+    "popularity": 3781,
+    "members": 5951,
+    "favorites": 192,
+    "synopsis": "Novel adaptation of Makoto Shinkai's Byousoku 5 Centimeter anime.\n\nA tale of two people, Toono Takaki and Shinohara Akari, who were close friends but gradually grow farther and farther apart as time moves on. They become separated because of their families yet continue to exchange contact in the form of letters. Yet as time continues to trudge on, their contact with one another begins to cease. Years pass and the rift between them grows ever larger. However, Takaki remembers the times they have shared together, but as life continues to unfold for him, he wonders if he would be given the chance to meet Akari again as the tale embarks on Takaki's realization of the world and people around him.",
+    "background": "Byousoku 5 Centimeter was published in English as 5 Centimeters per Second by Yen Press under the Yen On imprint in an omnibus volume with Hoshi wo Ou Kodomo on April 27, 2021. It was published in Spanish by Planeta Cómic.",
+    "authors": [
+        {
+            "mal_id": 1117,
+            "type": "people",
+            "name": "Shinkai, Makoto",
+            "url": "https://myanimelist.net/people/1117/Makoto_Shinkai"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 23419,
+                    "type": "manga",
+                    "name": "Byousoku 5 Centimeter",
+                    "url": "https://myanimelist.net/manga/23419/Byousoku_5_Centimeter"
+                },
+                {
+                    "mal_id": 1689,
+                    "type": "anime",
+                    "name": "Byousoku 5 Centimeter",
+                    "url": "https://myanimelist.net/anime/1689/Byousoku_5_Centimeter"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 120918,
+                    "type": "manga",
+                    "name": "Byousoku 5 Centimeter: One More Side",
+                    "url": "https://myanimelist.net/manga/120918/Byousoku_5_Centimeter__One_More_Side"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/5_Centimeters_Per_Second"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/秒速5センチメートル"
+        }
+    ]
+}

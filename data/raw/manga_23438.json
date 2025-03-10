@@ -1,0 +1,137 @@
+{
+    "mal_id": 23438,
+    "url": "https://myanimelist.net/manga/23438/Cross_Days",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/100765.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/100765t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/100765l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/100765.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/100765t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/100765l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Cross Days"
+        },
+        {
+            "type": "Japanese",
+            "title": "クロスデイズ"
+        }
+    ],
+    "title": "Cross Days",
+    "title_english": null,
+    "title_japanese": "クロスデイズ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-04-26T00:00:00+00:00",
+        "to": "2011-05-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 4,
+                "year": 2010
+            },
+            "to": {
+                "day": 26,
+                "month": 5,
+                "year": 2011
+            }
+        },
+        "string": "Apr 26, 2010 to May 26, 2011"
+    },
+    "score": 6.15,
+    "scored": 6.15,
+    "scored_by": 1489,
+    "rank": 19284,
+    "popularity": 6608,
+    "members": 3216,
+    "favorites": 21,
+    "synopsis": "Yuuki Ashikaga is a high school freshman in his second semester at Sakakino Academy, who from his regular visits to the school library, grows enamored by Kotonoha Katsura, a fellow classman who comes by to read. Despite already having a boyfriend, she genuinely reciprocates his interest. However things get complicated when, following a brief encounter, his sister, Chie Ashikaga, introduces him to Roka Kitsuregawa, an acquaintance who also becomes infatuated with him. Out of jealous spite for her rival, Roka attempts to dissuade Yuuki by claiming to like Makoto Itou, another schoolmate. Her lie dramatically backfires, as Yuuki, aware that Makoto is Kotonoha's boyfriend, goes to ask her about the affair.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10690,
+            "type": "people",
+            "name": "Sakazuki, Homare",
+            "url": "https://myanimelist.net/people/10690/Homare_Sakazuki"
+        },
+        {
+            "mal_id": 35697,
+            "type": "people",
+            "name": "0verflow",
+            "url": "https://myanimelist.net/people/35697/0verflow"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 112,
+            "type": "manga",
+            "name": "Comp Ace",
+            "url": "https://myanimelist.net/manga/magazine/112/Comp_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 44,
+            "type": "manga",
+            "name": "Crossdressing",
+            "url": "https://myanimelist.net/manga/genre/44/Crossdressing"
+        },
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 1288,
+                    "type": "manga",
+                    "name": "School Days",
+                    "url": "https://myanimelist.net/manga/1288/School_Days"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://crossdays.0verflow.com/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/Cross_Days"
+        }
+    ]
+}

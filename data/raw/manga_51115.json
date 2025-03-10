@@ -1,0 +1,119 @@
+{
+    "mal_id": 51115,
+    "url": "https://myanimelist.net/manga/51115/Marmalade_Boy_Little",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166223.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166223t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166223l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166223.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/166223t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/166223l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Marmalade Boy Little"
+        },
+        {
+            "type": "Japanese",
+            "title": "ママレード・ボーイ little"
+        }
+    ],
+    "title": "Marmalade Boy Little",
+    "title_english": null,
+    "title_japanese": "ママレード・ボーイ little",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 48,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-03-28T00:00:00+00:00",
+        "to": "2018-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 3,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Mar 28, 2013 to Sep 28, 2018"
+    },
+    "score": 7.04,
+    "scored": 7.04,
+    "scored_by": 639,
+    "rank": 8429,
+    "popularity": 8526,
+    "members": 2366,
+    "favorites": 12,
+    "synopsis": "Set 13 years after the original series. The story focuses on Miki and Yuu's little siblings, Ritsuka and Saku.",
+    "background": "The series has been published in Spanish by Planeta Cómic since October 14, 2015.",
+    "authors": [
+        {
+            "mal_id": 1945,
+            "type": "people",
+            "name": "Yoshizumi, Wataru",
+            "url": "https://myanimelist.net/people/1945/Wataru_Yoshizumi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 817,
+            "type": "manga",
+            "name": "Cocohana",
+            "url": "https://myanimelist.net/manga/magazine/817/Cocohana"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 91,
+                    "type": "manga",
+                    "name": "Marmalade Boy",
+                    "url": "https://myanimelist.net/manga/91/Marmalade_Boy"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Marmalade_Boy"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%9E%E3%83%AC%E3%83%BC%E3%83%89%E3%83%BB%E3%83%9C%E3%83%BC%E3%82%A4_little"
+        }
+    ]
+}

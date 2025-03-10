@@ -1,0 +1,145 @@
+{
+    "mal_id": 28091,
+    "url": "https://myanimelist.net/manga/28091/Tonari_no_Seki-kun",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/74647.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/74647t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/74647l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/74647.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/74647t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/74647l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tonari no Seki-kun"
+        },
+        {
+            "type": "Japanese",
+            "title": "となりの関くん"
+        },
+        {
+            "type": "English",
+            "title": "My Neighbor Seki"
+        }
+    ],
+    "title": "Tonari no Seki-kun",
+    "title_english": "My Neighbor Seki",
+    "title_japanese": "となりの関くん",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2010-07-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 5, 2010 to ?"
+    },
+    "score": 7.68,
+    "scored": 7.68,
+    "scored_by": 6236,
+    "rank": 1849,
+    "popularity": 977,
+    "members": 20312,
+    "favorites": 251,
+    "synopsis": "The boy who sits next to Yokoi in class, Seki-kun, is always up to something at his desk. He manages to somehow play very elaborate games without attracting the teacher's attention. From dominos, to shogi, to go, to mecha models, to playing with cats and more, he always has something new to do. Yokoi often finds herself getting reluctantly interested in his games, even though they always seem to end up getting HER in trouble with the teacher!\n\n(Source: MU)",
+    "background": "In 2012, Tonari no Seki-kun was nominated for the 5th Manga Taishou Award. The series has been published in English as My Neighbor Seki by Vertical Inc. under the Vertical Comics imprint since January 13, 2015 and in Spanish by Tomodomo Ediciones since May 18, 2015.",
+    "authors": [
+        {
+            "mal_id": 13154,
+            "type": "people",
+            "name": "Morishige, Takuma",
+            "url": "https://myanimelist.net/people/13154/Takuma_Morishige"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 174,
+            "type": "manga",
+            "name": "Comic Flapper",
+            "url": "https://myanimelist.net/manga/magazine/174/Comic_Flapper"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 130001,
+                    "type": "manga",
+                    "name": "Tonari no Seki-kun Junior",
+                    "url": "https://myanimelist.net/manga/130001/Tonari_no_Seki-kun_Junior"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 18139,
+                    "type": "anime",
+                    "name": "Tonari no Seki-kun",
+                    "url": "https://myanimelist.net/anime/18139/Tonari_no_Seki-kun"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/my-neighbor-seki/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E9%96%A2%E3%81%8F%E3%82%93"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/My_Neighbor_Seki"
+        }
+    ]
+}

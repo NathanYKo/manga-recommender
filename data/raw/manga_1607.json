@@ -1,0 +1,133 @@
+{
+    "mal_id": 1607,
+    "url": "https://myanimelist.net/manga/1607/Itsudatte_My_Santa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/1596.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/1596t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/1596l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/1596.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/1596t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/1596l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Itsudatte My Santa!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Always My Santa"
+        },
+        {
+            "type": "Japanese",
+            "title": "いつだってＭｙサンタ!"
+        }
+    ],
+    "title": "Itsudatte My Santa!",
+    "title_english": null,
+    "title_japanese": "いつだってＭｙサンタ!",
+    "title_synonyms": [
+        "Always My Santa"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-12-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 12,
+                "year": 1997
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 24, 1997"
+    },
+    "score": 6.47,
+    "scored": 6.47,
+    "scored_by": 1553,
+    "rank": 16863,
+    "popularity": 7841,
+    "members": 2622,
+    "favorites": 3,
+    "synopsis": "Mai, a Santa Claus in training, appears in front of an unlucky boy named Santa, on Christmas Eve, promising him, she will make him happy for one night.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1883,
+            "type": "people",
+            "name": "Akamatsu, Ken",
+            "url": "https://myanimelist.net/people/1883/Ken_Akamatsu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 588,
+                    "type": "anime",
+                    "name": "Itsudatte My Santa!",
+                    "url": "https://myanimelist.net/anime/588/Itsudatte_My_Santa"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%A6My%E3%82%B5%E3%83%B3%E3%82%BF!"
+        }
+    ]
+}

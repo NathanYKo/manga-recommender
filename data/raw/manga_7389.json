@@ -1,0 +1,111 @@
+{
+    "mal_id": 7389,
+    "url": "https://myanimelist.net/manga/7389/3_Years",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/248447.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/248447t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/248447l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/248447.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/248447t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/248447l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "3 Years"
+        },
+        {
+            "type": "Japanese",
+            "title": "3YEARS"
+        }
+    ],
+    "title": "3 Years",
+    "title_english": null,
+    "title_japanese": "3YEARS",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2004"
+    },
+    "score": 6.89,
+    "scored": 6.89,
+    "scored_by": 1376,
+    "rank": 10724,
+    "popularity": 7954,
+    "members": 2575,
+    "favorites": 11,
+    "synopsis": "With her brother's influence, China grew up to become very boyish. But she is a 15 year-old girl who dreams from her heart for a romantic relationship. Now that she's in high school, she meets a cute (kind of short) boy named Haruka, and a big bad boy named Shindou and...\n\n(Source: Perfect Illusions)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3971,
+            "type": "people",
+            "name": "Saitou, Rin",
+            "url": "https://myanimelist.net/people/3971/Rin_Saitou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 255,
+            "type": "manga",
+            "name": "Deluxe Margaret",
+            "url": "https://myanimelist.net/manga/magazine/255/Deluxe_Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,140 @@
+{
+    "mal_id": 150905,
+    "url": "https://myanimelist.net/manga/150905/Gokusotsu_Kraken",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/280592.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/280592t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/280592l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/280592.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/280592t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/280592l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gokusotsu Kraken"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hell's Tormentor Kraken"
+        },
+        {
+            "type": "Japanese",
+            "title": "獄卒クラーケン"
+        }
+    ],
+    "title": "Gokusotsu Kraken",
+    "title_english": null,
+    "title_japanese": "獄卒クラーケン",
+    "title_synonyms": [
+        "Hell's Tormentor Kraken"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2022-08-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 8,
+                "year": 2022
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 25, 2022 to ?"
+    },
+    "score": 6.82,
+    "scored": 6.82,
+    "scored_by": 1127,
+    "rank": null,
+    "popularity": 4619,
+    "members": 4786,
+    "favorites": 27,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 11423,
+            "type": "people",
+            "name": "Takahiro",
+            "url": "https://myanimelist.net/people/11423/Takahiro"
+        },
+        {
+            "mal_id": 15419,
+            "type": "people",
+            "name": "Toru, Kei",
+            "url": "https://myanimelist.net/people/15419/Kei_Toru"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 705,
+            "type": "manga",
+            "name": "Big Gangan",
+            "url": "https://myanimelist.net/manga/magazine/705/Big_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.jp.square-enix.com/biggangan/introduction/gokusotu/"
+        }
+    ]
+}

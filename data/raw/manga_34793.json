@@ -1,0 +1,122 @@
+{
+    "mal_id": 34793,
+    "url": "https://myanimelist.net/manga/34793/Joshikouhei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/152015.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/152015t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/152015l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/152015.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/152015t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/152015l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Joshikouhei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Jyoshikohei"
+        },
+        {
+            "type": "Japanese",
+            "title": "女子攻兵"
+        }
+    ],
+    "title": "Joshikouhei",
+    "title_english": null,
+    "title_japanese": "女子攻兵",
+    "title_synonyms": [
+        "Jyoshikohei"
+    ],
+    "type": "Manga",
+    "chapters": 45,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-01-21T00:00:00+00:00",
+        "to": "2015-11-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 21,
+                "month": 11,
+                "year": 2015
+            }
+        },
+        "string": "Jan 21, 2011 to Nov 21, 2015"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 665,
+    "rank": 3407,
+    "popularity": 5789,
+    "members": 3724,
+    "favorites": 72,
+    "synopsis": "A manga about giant mechs that are operated by soldiers and look exactly like teenage school girls.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2845,
+            "type": "people",
+            "name": "Matsumoto, Jiro",
+            "url": "https://myanimelist.net/people/2845/Jiro_Matsumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 605,
+            "type": "manga",
+            "name": "Comic@Bunch",
+            "url": "https://myanimelist.net/manga/magazine/605/ComicBunch"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.comicbunch.com/comicinfo/joshikouhei/"
+        }
+    ]
+}

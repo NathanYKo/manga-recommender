@@ -1,0 +1,142 @@
+{
+    "mal_id": 8872,
+    "url": "https://myanimelist.net/manga/8872/Fuan_no_Tane_",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/138393.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/138393t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/138393l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/138393.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/138393t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/138393l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fuan no Tane+"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fuan no Tane Plus"
+        },
+        {
+            "type": "Japanese",
+            "title": "不安の種+(プラス)"
+        }
+    ],
+    "title": "Fuan no Tane+",
+    "title_english": null,
+    "title_japanese": "不安の種+(プラス)",
+    "title_synonyms": [
+        "Fuan no Tane Plus"
+    ],
+    "type": "Manga",
+    "chapters": 116,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-01-25T00:00:00+00:00",
+        "to": "2008-03-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": 13,
+                "month": 3,
+                "year": 2008
+            }
+        },
+        "string": "Jan 25, 2007 to Mar 13, 2008"
+    },
+    "score": 7.14,
+    "scored": 7.14,
+    "scored_by": 2745,
+    "rank": 6987,
+    "popularity": 3213,
+    "members": 6984,
+    "favorites": 58,
+    "synopsis": "More collections of chilling short stories dealing with urban legends, ghosts and superstitions all organized around a specific theme (School, Visitors etc.).",
+    "background": "Fuan no Tane+ will be published in Spanish by ECC Ediciones.",
+    "authors": [
+        {
+            "mal_id": 3581,
+            "type": "people",
+            "name": "Nakayama, Masaaki",
+            "url": "https://myanimelist.net/people/3581/Masaaki_Nakayama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 3256,
+                    "type": "manga",
+                    "name": "Fuan no Tane",
+                    "url": "https://myanimelist.net/manga/3256/Fuan_no_Tane"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 125752,
+                    "type": "manga",
+                    "name": "Fuan no Tane*",
+                    "url": "https://myanimelist.net/manga/125752/Fuan_no_Tane"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.akitashoten.co.jp/comics/4253203876"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%AE%89%E3%81%AE%E7%A8%AE"
+        }
+    ]
+}

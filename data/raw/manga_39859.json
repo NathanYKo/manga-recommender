@@ -1,0 +1,138 @@
+{
+    "mal_id": 39859,
+    "url": "https://myanimelist.net/manga/39859/Steins_Gate",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/72649.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/72649t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/72649l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/72649.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/72649t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/72649l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Steins;Gate"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chouyoku no Divergence:Reverse"
+        },
+        {
+            "type": "Synonym",
+            "title": "Keijijou no Necrosis:Reverse"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kyoukai Menjou no Steins,Gate:Rebirth"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rokubungi no Idiom"
+        },
+        {
+            "type": "Japanese",
+            "title": "STEINS;GATE"
+        }
+    ],
+    "title": "Steins;Gate",
+    "title_english": null,
+    "title_japanese": "STEINS;GATE",
+    "title_synonyms": [
+        "Chouyoku no Divergence:Reverse",
+        "Keijijou no Necrosis:Reverse",
+        "Kyoukai Menjou no Steins,Gate:Rebirth",
+        "Rokubungi no Idiom"
+    ],
+    "type": "Light Novel",
+    "chapters": 17,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-06-30T00:00:00+00:00",
+        "to": "2012-05-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 6,
+                "year": 2011
+            },
+            "to": {
+                "day": 31,
+                "month": 5,
+                "year": 2012
+            }
+        },
+        "string": "Jun 30, 2011 to May 31, 2012"
+    },
+    "score": 8.51,
+    "scored": 8.51,
+    "scored_by": 3787,
+    "rank": 143,
+    "popularity": 1521,
+    "members": 14014,
+    "favorites": 199,
+    "synopsis": "The story of Steins;Gate takes place in Akihabara and is about a group of friends who have managed to customize their microwave into a device that can send text messages to the past. As they perform different experiments, an organization named SERN who has been doing their own research on time travel tracks them down and now the characters have to find a way to avoid being captured by them.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11111,
+            "type": "people",
+            "name": "Sakai, Kyuuta",
+            "url": "https://myanimelist.net/people/11111/Kyuuta_Sakai"
+        },
+        {
+            "mal_id": 18377,
+            "type": "people",
+            "name": "Miwa, Kiyomune",
+            "url": "https://myanimelist.net/people/18377/Kiyomune_Miwa"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 17517,
+                    "type": "manga",
+                    "name": "Steins;Gate",
+                    "url": "https://myanimelist.net/manga/17517/Steins_Gate"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Steins;Gate"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/STEINS;GATE"
+        }
+    ]
+}

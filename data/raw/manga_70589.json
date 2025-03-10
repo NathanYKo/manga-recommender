@@ -1,0 +1,143 @@
+{
+    "mal_id": 70589,
+    "url": "https://myanimelist.net/manga/70589/GTO__Paradise_Lost",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/135283.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/135283t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/135283l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/135283.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/135283t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/135283l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "GTO: Paradise Lost"
+        },
+        {
+            "type": "Synonym",
+            "title": "Great Teacher Onizuka: Paradise Lost"
+        },
+        {
+            "type": "Japanese",
+            "title": "GTO パラダイス・ロスト"
+        },
+        {
+            "type": "English",
+            "title": "GTO Paradise Lost"
+        }
+    ],
+    "title": "GTO: Paradise Lost",
+    "title_english": "GTO Paradise Lost",
+    "title_japanese": "GTO パラダイス・ロスト",
+    "title_synonyms": [
+        "Great Teacher Onizuka: Paradise Lost"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-04-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 14, 2014 to ?"
+    },
+    "score": 7.9,
+    "scored": 7.9,
+    "scored_by": 4414,
+    "rank": 1011,
+    "popularity": 1181,
+    "members": 17160,
+    "favorites": 163,
+    "synopsis": "Onizuka is a prisoner. For reasons that he only knows, he tells the story himself of what happened between him and Class G (which is basically an idol class), expect many troubles, adventures and of course many hilarious moments.\n\n(Source: MU)",
+    "background": "GTO: Paradise Lost has been published digitally by Kodansha USA since April 11, 2017.",
+    "authors": [
+        {
+            "mal_id": 2318,
+            "type": "people",
+            "name": "Fujisawa, Tooru",
+            "url": "https://myanimelist.net/people/2318/Tooru_Fujisawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        },
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 336,
+                    "type": "manga",
+                    "name": "GTO",
+                    "url": "https://myanimelist.net/manga/336/GTO"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/gto-paradise-lost/"
+        },
+        {
+            "name": "Official Site",
+            "url": "http://yanmaga.jp/contents/gto_paradiselost"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/GTO_%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%AD%E3%82%B9%E3%83%88"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Great_Teacher_Onizuka"
+        }
+    ]
+}

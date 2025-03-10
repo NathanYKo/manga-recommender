@@ -1,0 +1,153 @@
+{
+    "mal_id": 91943,
+    "url": "https://myanimelist.net/manga/91943/Signal_100",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/184766.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/184766t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/184766l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/184766.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/184766t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/184766l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Signal 100"
+        },
+        {
+            "type": "Japanese",
+            "title": "シグナル100"
+        }
+    ],
+    "title": "Signal 100",
+    "title_english": null,
+    "title_japanese": "シグナル100",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 27,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-07-24T00:00:00+00:00",
+        "to": "2016-10-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 14,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "Jul 24, 2015 to Oct 14, 2016"
+    },
+    "score": 6.45,
+    "scored": 6.45,
+    "scored_by": 3372,
+    "rank": 17099,
+    "popularity": 2497,
+    "members": 8827,
+    "favorites": 69,
+    "synopsis": "A group of high school students were spending their peaceful days freely until they have been chosen as the participants of the game where everyone is being hypnotized until they commit suicide. No one is safe from a sudden death, so what will they do to avoid their fates?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 32803,
+            "type": "people",
+            "name": "Miyatsuki, Arata",
+            "url": "https://myanimelist.net/people/32803/Arata_Miyatsuki"
+        },
+        {
+            "mal_id": 38668,
+            "type": "people",
+            "name": "Kondou, Shigure",
+            "url": "https://myanimelist.net/people/38668/Shigure_Kondou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Young Animal",
+            "url": "https://myanimelist.net/manga/magazine/2/Young_Animal"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 45,
+            "type": "manga",
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 122027,
+                    "type": "manga",
+                    "name": "Signal 100 Zero",
+                    "url": "https://myanimelist.net/manga/122027/Signal_100_Zero"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,169 @@
+{
+    "mal_id": 10410,
+    "url": "https://myanimelist.net/manga/10410/Blood_",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/38473.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/38473t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/38473l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/38473.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/38473t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/38473l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Blood+"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blood Plus"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブラッドプラス"
+        },
+        {
+            "type": "English",
+            "title": "Blood+"
+        }
+    ],
+    "title": "Blood+",
+    "title_english": "Blood+",
+    "title_japanese": "ブラッドプラス",
+    "title_synonyms": [
+        "Blood Plus"
+    ],
+    "type": "Light Novel",
+    "chapters": 13,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-04-28T00:00:00+00:00",
+        "to": "2007-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2007
+            }
+        },
+        "string": "Apr 28, 2006 to Apr 1, 2007"
+    },
+    "score": 7.64,
+    "scored": 7.64,
+    "scored_by": 766,
+    "rank": 2078,
+    "popularity": 8166,
+    "members": 2495,
+    "favorites": 65,
+    "synopsis": "It is the official novel adaptation of the anime series. It expands on the events of the anime and gives greater background information on the battle against chiropterans.",
+    "background": "Blood+ was published in English by Dark Horse from March 19, 2008 to August 12, 2009. The four volumes are subtitled First Kiss, Chevalier, Boy Meets Girl and Nankurunaisa",
+    "authors": [
+        {
+            "mal_id": 6337,
+            "type": "people",
+            "name": "Ikehata, Ryou",
+            "url": "https://myanimelist.net/people/6337/Ryou_Ikehata"
+        },
+        {
+            "mal_id": 6395,
+            "type": "people",
+            "name": "Hashii, Chizu",
+            "url": "https://myanimelist.net/people/6395/Chizu_Hashii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1734,
+                    "type": "manga",
+                    "name": "Blood+: Yakou Joushi",
+                    "url": "https://myanimelist.net/manga/1734/Blood___Yakou_Joushi"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 150,
+                    "type": "anime",
+                    "name": "Blood+",
+                    "url": "https://myanimelist.net/anime/150/Blood_"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 109867,
+                    "type": "manga",
+                    "name": "Blood♯",
+                    "url": "https://myanimelist.net/manga/109867/Blood♯"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 747,
+                    "type": "manga",
+                    "name": "Blood+",
+                    "url": "https://myanimelist.net/manga/747/Blood_"
+                },
+                {
+                    "mal_id": 10411,
+                    "type": "manga",
+                    "name": "Blood+ Russian Rose",
+                    "url": "https://myanimelist.net/manga/10411/Blood__Russian_Rose"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/List_of_Blood%2B_light_novels"
+        }
+    ]
+}

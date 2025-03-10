@@ -1,0 +1,121 @@
+{
+    "mal_id": 50203,
+    "url": "https://myanimelist.net/manga/50203/Ue_kara_Kataomoi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185990.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185990t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185990l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185990.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185990t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185990l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ue kara Kataomoi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ai no Shirushi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimi Bakkari no Natsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sweet☆Lesson"
+        },
+        {
+            "type": "Japanese",
+            "title": "上から片想い"
+        }
+    ],
+    "title": "Ue kara Kataomoi",
+    "title_english": null,
+    "title_japanese": "上から片想い",
+    "title_synonyms": [
+        "Ai no Shirushi",
+        "Kimi Bakkari no Natsu",
+        "Sweet☆Lesson"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-12-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 13, 2012"
+    },
+    "score": 6.99,
+    "scored": 6.99,
+    "scored_by": 1821,
+    "rank": 9173,
+    "popularity": 5545,
+    "members": 3911,
+    "favorites": 6,
+    "synopsis": "1. Ue kara Katamomoi\n2. Ai no Shirushi\n3. Kimi Bakkari no Natsu\n4. Sweet☆Lesson",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 22025,
+            "type": "people",
+            "name": "Makino",
+            "url": "https://myanimelist.net/people/22025/Makino"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

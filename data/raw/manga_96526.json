@@ -1,0 +1,147 @@
+{
+    "mal_id": 96526,
+    "url": "https://myanimelist.net/manga/96526/Gabriel_DropOut",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/263106.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/263106t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/263106l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/263106.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/263106t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/263106l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gabriel DropOut"
+        },
+        {
+            "type": "Japanese",
+            "title": "ガヴリールドロップアウト"
+        },
+        {
+            "type": "English",
+            "title": "Gabriel DropOut"
+        }
+    ],
+    "title": "Gabriel DropOut",
+    "title_english": "Gabriel DropOut",
+    "title_japanese": "ガヴリールドロップアウト",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2013-12-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 12,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 27, 2013 to ?"
+    },
+    "score": 7.71,
+    "scored": 7.71,
+    "scored_by": 4405,
+    "rank": 1713,
+    "popularity": 1270,
+    "members": 16228,
+    "favorites": 396,
+    "synopsis": "A fallen angel with falling grades! Gabriel White Tenma has descended from heaven to attend high school and guide humanity, but a newly found video game addiction might say otherwise.\n\n(Source: Yen Press)",
+    "background": "Gabriel Dropout has been published in English by Yen Press since October 31, 2017.",
+    "authors": [
+        {
+            "mal_id": 40288,
+            "type": "people",
+            "name": "Ukami",
+            "url": "https://myanimelist.net/people/40288/Ukami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1213,
+            "type": "manga",
+            "name": "Comic Dengeki Daioh \"g\"",
+            "url": "https://myanimelist.net/manga/magazine/1213/Comic_Dengeki_Daioh__quot_g_quot_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 33731,
+                    "type": "anime",
+                    "name": "Gabriel DropOut",
+                    "url": "https://myanimelist.net/anime/33731/Gabriel_DropOut"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 121334,
+                    "type": "manga",
+                    "name": "Tapris Sugar Step",
+                    "url": "https://myanimelist.net/manga/121334/Tapris_Sugar_Step"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://daiohg.dengeki.com/sp/gabriel/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B4%E3%83%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%A2%E3%82%A6%E3%83%88"
+        }
+    ]
+}

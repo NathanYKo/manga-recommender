@@ -1,0 +1,135 @@
+{
+    "mal_id": 5630,
+    "url": "https://myanimelist.net/manga/5630/Kurosagi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/161298.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/161298t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/161298l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/161298.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/161298t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/161298l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kurosagi"
+        },
+        {
+            "type": "Japanese",
+            "title": "クロサギ"
+        },
+        {
+            "type": "English",
+            "title": "The Black Swindler"
+        }
+    ],
+    "title": "Kurosagi",
+    "title_english": "The Black Swindler",
+    "title_japanese": "クロサギ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 220,
+    "volumes": 20,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-11-13T00:00:00+00:00",
+        "to": "2008-05-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 11,
+                "year": 2003
+            },
+            "to": {
+                "day": 29,
+                "month": 5,
+                "year": 2008
+            }
+        },
+        "string": "Nov 13, 2003 to May 29, 2008"
+    },
+    "score": 7.38,
+    "scored": 7.38,
+    "scored_by": 1857,
+    "rank": 4030,
+    "popularity": 2763,
+    "members": 8097,
+    "favorites": 43,
+    "synopsis": "White swindlers (shirosagi) are those that cheat people to take their money, red swindlers (akasagi) are those that swindle the opposite sex, and black swindlers (kurosagi) are those that cheat the white and red swindlers. After his family is swindled by white swindlers, Kurosagi sets out to avenge them by becoming a black swindler.\n\n(Source: ANN)",
+    "background": "Kurosagi won the 53rd Shogakukan Manga Award in the General category in 2007, along with Bambino!. The series was adapted into two Japanese live-action TV series and a live-action film.",
+    "authors": [
+        {
+            "mal_id": 3584,
+            "type": "people",
+            "name": "Natsuhara, Takeshi",
+            "url": "https://myanimelist.net/people/3584/Takeshi_Natsuhara"
+        },
+        {
+            "mal_id": 4672,
+            "type": "people",
+            "name": "Kuromaru",
+            "url": "https://myanimelist.net/people/4672/Kuromaru"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 89,
+            "type": "manga",
+            "name": "Young Sunday (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/89/Young_Sunday_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 15380,
+                    "type": "manga",
+                    "name": "Shin Kurosagi",
+                    "url": "https://myanimelist.net/manga/15380/Shin_Kurosagi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B5%E3%82%AE_%28%E6%BC%AB%E7%94%BB%29"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kurosagi_(manga)"
+        }
+    ]
+}

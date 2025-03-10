@@ -1,0 +1,215 @@
+{
+    "mal_id": 61999,
+    "url": "https://myanimelist.net/manga/61999/K__The_First",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/170852.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/170852t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/170852l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/170852.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/170852t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/170852l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "K: The First"
+        },
+        {
+            "type": "Japanese",
+            "title": "K ―THE FIRST―"
+        }
+    ],
+    "title": "K: The First",
+    "title_english": null,
+    "title_japanese": "K ―THE FIRST―",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-12-18T00:00:00+00:00",
+        "to": "2015-04-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 12,
+                "year": 2013
+            },
+            "to": {
+                "day": 18,
+                "month": 4,
+                "year": 2015
+            }
+        },
+        "string": "Dec 18, 2013 to Apr 18, 2015"
+    },
+    "score": 7.45,
+    "scored": 7.45,
+    "scored_by": 1040,
+    "rank": 3383,
+    "popularity": 5636,
+    "members": 3833,
+    "favorites": 19,
+    "synopsis": "The story takes place in a world where seven people with unusual powers are crowned as \"kings,\" and revolves around the \"bonds\" and \"fate\" between the people involved.\n\n(Source: ANN)",
+    "background": "K: The First is based on original TV anime series K.",
+    "authors": [
+        {
+            "mal_id": 18473,
+            "type": "people",
+            "name": "GoRA",
+            "url": "https://myanimelist.net/people/18473/GoRA"
+        },
+        {
+            "mal_id": 18837,
+            "type": "people",
+            "name": "Furuhashi, Hideyuki",
+            "url": "https://myanimelist.net/people/18837/Hideyuki_Furuhashi"
+        },
+        {
+            "mal_id": 22187,
+            "type": "people",
+            "name": "Kimura, Rin",
+            "url": "https://myanimelist.net/people/22187/Rin_Kimura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "GFantasy",
+            "url": "https://myanimelist.net/manga/magazine/35/GFantasy"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 88483,
+                    "type": "manga",
+                    "name": "K: Missing Kings",
+                    "url": "https://myanimelist.net/manga/88483/K__Missing_Kings"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 14467,
+                    "type": "anime",
+                    "name": "K",
+                    "url": "https://myanimelist.net/anime/14467/K"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 41435,
+                    "type": "manga",
+                    "name": "K: Memory of Red",
+                    "url": "https://myanimelist.net/manga/41435/K__Memory_of_Red"
+                },
+                {
+                    "mal_id": 47028,
+                    "type": "manga",
+                    "name": "K Side:Blue",
+                    "url": "https://myanimelist.net/manga/47028/K_Side_Blue"
+                },
+                {
+                    "mal_id": 45451,
+                    "type": "manga",
+                    "name": "K: Stray Dog Story",
+                    "url": "https://myanimelist.net/manga/45451/K__Stray_Dog_Story"
+                },
+                {
+                    "mal_id": 47030,
+                    "type": "manga",
+                    "name": "K Side:Red",
+                    "url": "https://myanimelist.net/manga/47030/K_Side_Red"
+                },
+                {
+                    "mal_id": 51769,
+                    "type": "manga",
+                    "name": "K Side:Black & White",
+                    "url": "https://myanimelist.net/manga/51769/K_Side_Black___White"
+                },
+                {
+                    "mal_id": 59675,
+                    "type": "manga",
+                    "name": "K: Days of Blue",
+                    "url": "https://myanimelist.net/manga/59675/K__Days_of_Blue"
+                },
+                {
+                    "mal_id": 62001,
+                    "type": "manga",
+                    "name": "Gakuen K",
+                    "url": "https://myanimelist.net/manga/62001/Gakuen_K"
+                },
+                {
+                    "mal_id": 69399,
+                    "type": "manga",
+                    "name": "K: Lost Small World",
+                    "url": "https://myanimelist.net/manga/69399/K__Lost_Small_World"
+                },
+                {
+                    "mal_id": 90284,
+                    "type": "manga",
+                    "name": "K: Dog & Cat",
+                    "url": "https://myanimelist.net/manga/90284/K__Dog___Cat"
+                },
+                {
+                    "mal_id": 114290,
+                    "type": "manga",
+                    "name": "K: R:B",
+                    "url": "https://myanimelist.net/manga/114290/K__R_B"
+                },
+                {
+                    "mal_id": 93261,
+                    "type": "manga",
+                    "name": "K: Ao no Jikenbo",
+                    "url": "https://myanimelist.net/manga/93261/K__Ao_no_Jikenbo"
+                },
+                {
+                    "mal_id": 112652,
+                    "type": "manga",
+                    "name": "K Side:Green",
+                    "url": "https://myanimelist.net/manga/112652/K_Side_Green"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/K_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
+        }
+    ]
+}

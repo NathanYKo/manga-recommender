@@ -1,0 +1,158 @@
+{
+    "mal_id": 16659,
+    "url": "https://myanimelist.net/manga/16659/Tobaku_Datenroku_Kaiji__Kazuya-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/24616.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/24616t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/24616l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/24616.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/24616t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/24616l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tobaku Datenroku Kaiji: Kazuya-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kaiji Part 4"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tobaku Datenroku Kaiji: Kazuya Arc"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gambling Outcast Kaiji: Kazuya Arc"
+        },
+        {
+            "type": "Japanese",
+            "title": "賭博堕天録カイジ 和也編"
+        }
+    ],
+    "title": "Tobaku Datenroku Kaiji: Kazuya-hen",
+    "title_english": null,
+    "title_japanese": "賭博堕天録カイジ 和也編",
+    "title_synonyms": [
+        "Kaiji Part 4",
+        "Tobaku Datenroku Kaiji: Kazuya Arc",
+        "Gambling Outcast Kaiji: Kazuya Arc"
+    ],
+    "type": "Manga",
+    "chapters": 100,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-06-01T00:00:00+00:00",
+        "to": "2012-02-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 6,
+                "year": 2009
+            },
+            "to": {
+                "day": 13,
+                "month": 2,
+                "year": 2012
+            }
+        },
+        "string": "Jun 1, 2009 to Feb 13, 2012"
+    },
+    "score": 7.89,
+    "scored": 7.89,
+    "scored_by": 4600,
+    "rank": 1032,
+    "popularity": 2379,
+    "members": 9213,
+    "favorites": 131,
+    "synopsis": "A direct sequel to Tobaku Datenroku Kaiji, picking up immediately after Part 3.\n\nAfter his tremendous victory in 2-Player Mahjong against the villainous President, Muraoka Takashi, Kaiji is being driven home by Kazuya, the son of Chairman Hyoudou. However, in the car, Kazuya asks Kaiji if he would be interested in one more gamble that night, and Kaiji accepts. What surprises lie in store for our dear Kaiji, and what will the gamble be?!\n\n(Source: Batoto)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2539,
+            "type": "people",
+            "name": "Fukumoto, Nobuyuki",
+            "url": "https://myanimelist.net/people/2539/Nobuyuki_Fukumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 59,
+            "type": "manga",
+            "name": "High Stakes Game",
+            "url": "https://myanimelist.net/manga/genre/59/High_Stakes_Game"
+        },
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 3574,
+                    "type": "manga",
+                    "name": "Tobaku Datenroku Kaiji",
+                    "url": "https://myanimelist.net/manga/3574/Tobaku_Datenroku_Kaiji"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 61579,
+                    "type": "manga",
+                    "name": "Tobaku Datenroku Kaiji: One Poker-hen",
+                    "url": "https://myanimelist.net/manga/61579/Tobaku_Datenroku_Kaiji__One_Poker-hen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%82%B8"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kaiji_(manga)"
+        }
+    ]
+}

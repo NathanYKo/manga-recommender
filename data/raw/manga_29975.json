@@ -1,0 +1,143 @@
+{
+    "mal_id": 29975,
+    "url": "https://myanimelist.net/manga/29975/Bokura_wa_Sore_wo_Hitei_Dekinai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/88619.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/88619t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/88619l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/88619.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/88619t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/88619l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bokura wa Sore wo Hitei Dekinai"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Equation of Our Future"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bokura wa Sore o Hitei Dekinai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bokura no Ashita no Houteishiki"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sono Te kara Tsutawaru"
+        },
+        {
+            "type": "Japanese",
+            "title": "僕らはそれを否定できない"
+        }
+    ],
+    "title": "Bokura wa Sore wo Hitei Dekinai",
+    "title_english": null,
+    "title_japanese": "僕らはそれを否定できない",
+    "title_synonyms": [
+        "The Equation of Our Future",
+        "Bokura wa Sore o Hitei Dekinai",
+        "Bokura no Ashita no Houteishiki",
+        "Sono Te kara Tsutawaru"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": "2013-03-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 23,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "2008 to Mar 23, 2013"
+    },
+    "score": 7.28,
+    "scored": 7.28,
+    "scored_by": 2208,
+    "rank": null,
+    "popularity": 5274,
+    "members": 4133,
+    "favorites": 5,
+    "synopsis": "1-2. Bokura wa Sore wo Hitei Dekinai\n3. Sono Te kara Tsutawaru\n4. Bokura no Ashita no Houteishiki",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3642,
+            "type": "people",
+            "name": "Kyuugou",
+            "url": "https://myanimelist.net/people/3642/Kyuugou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 159,
+            "type": "manga",
+            "name": "RuTile",
+            "url": "https://myanimelist.net/manga/magazine/159/RuTile"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 9643,
+                    "type": "manga",
+                    "name": "Bokura ni Matsuwaru etc.",
+                    "url": "https://myanimelist.net/manga/9643/Bokura_ni_Matsuwaru_etc"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

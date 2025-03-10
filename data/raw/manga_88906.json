@@ -1,0 +1,120 @@
+{
+    "mal_id": 88906,
+    "url": "https://myanimelist.net/manga/88906/Its_My_Life",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/216146.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/216146t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/216146l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/216146.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/216146t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/216146l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "It's My Life"
+        },
+        {
+            "type": "Japanese",
+            "title": "IT'S MY LIFE"
+        }
+    ],
+    "title": "It's My Life",
+    "title_english": null,
+    "title_japanese": "IT'S MY LIFE",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 78,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-12-15T00:00:00+00:00",
+        "to": "2018-09-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 12,
+                "year": 2014
+            },
+            "to": {
+                "day": 2,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Dec 15, 2014 to Sep 2, 2018"
+    },
+    "score": 7.33,
+    "scored": 7.33,
+    "scored_by": 2092,
+    "rank": 4500,
+    "popularity": 2273,
+    "members": 9606,
+    "favorites": 74,
+    "synopsis": "A knight captain at long last after a grueling ten years service has left and with what he saved over the years bought a new home... a castle fit for a man seeking a peaceful life. To relax and enjoy life. Alas... that peace will continue to last, but hijinks will come with his house warming gift. A hobbit/midget elf/child arrives seeking an evil god and assume he is what she seeks. Who is the knight captain to dash a child dreams? More so after losing the chance to correct the misunderstanding.\n\nAnd so this is where the adventure begins.\n\n(Source: KissManga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 37830,
+            "type": "people",
+            "name": "Narita, Imomushi",
+            "url": "https://myanimelist.net/people/37830/Imomushi_Narita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1005,
+            "type": "manga",
+            "name": "Ura Sunday",
+            "url": "https://myanimelist.net/manga/magazine/1005/Ura_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 37286,
+                    "type": "anime",
+                    "name": "It's My Life",
+                    "url": "https://myanimelist.net/anime/37286/Its_My_Life"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/IT%27S_MY_LIFE"
+        }
+    ]
+}

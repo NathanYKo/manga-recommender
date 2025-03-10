@@ -1,0 +1,150 @@
+{
+    "mal_id": 2906,
+    "url": "https://myanimelist.net/manga/2906/W-Juliet_II",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/256787.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/256787t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/256787l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/256787.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/256787t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/256787l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "W-Juliet II"
+        },
+        {
+            "type": "Synonym",
+            "title": "W Juliet 2"
+        },
+        {
+            "type": "Synonym",
+            "title": "W Juliet II"
+        },
+        {
+            "type": "Synonym",
+            "title": "W-Juliet 2"
+        },
+        {
+            "type": "Japanese",
+            "title": "WジュリエットII"
+        }
+    ],
+    "title": "W-Juliet II",
+    "title_english": null,
+    "title_japanese": "WジュリエットII",
+    "title_synonyms": [
+        "W Juliet 2",
+        "W Juliet II",
+        "W-Juliet 2"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2006-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2006 to ?"
+    },
+    "score": 7.79,
+    "scored": 7.79,
+    "scored_by": 842,
+    "rank": 1380,
+    "popularity": 7497,
+    "members": 2765,
+    "favorites": 17,
+    "synopsis": "Ito and Makoto have finally gotten married - but W Juliet is FAR from done!\n\nIto must learn to accept Makoto's dream to become an actor as well as cope with all the disasters and stress her friends and family have!\n\nContinuing from the hit and well loved manga W Juliet, W Juliet II is a whole new story with old and beloved characters!",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1917,
+            "type": "people",
+            "name": "Emura",
+            "url": "https://myanimelist.net/people/1917/Emura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/21/Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 44,
+            "type": "manga",
+            "name": "Crossdressing",
+            "url": "https://myanimelist.net/manga/genre/44/Crossdressing"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 58,
+                    "type": "manga",
+                    "name": "W-Juliet",
+                    "url": "https://myanimelist.net/manga/58/W-Juliet"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/W%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A8%E3%83%83%E3%83%88"
+        }
+    ]
+}

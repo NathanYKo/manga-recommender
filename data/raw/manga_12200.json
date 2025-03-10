@@ -1,0 +1,114 @@
+{
+    "mal_id": 12200,
+    "url": "https://myanimelist.net/manga/12200/High_School_Musical",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/215358.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/215358t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/215358l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/215358.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/215358t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/215358l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "High School Musical"
+        },
+        {
+            "type": "Synonym",
+            "title": "HSM"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハイスクール・ミュージカル"
+        },
+        {
+            "type": "English",
+            "title": "High School Musical"
+        }
+    ],
+    "title": "High School Musical",
+    "title_english": "High School Musical",
+    "title_japanese": "ハイスクール・ミュージカル",
+    "title_synonyms": [
+        "HSM"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2008"
+    },
+    "score": 2.45,
+    "scored": 2.45,
+    "scored_by": 1761,
+    "rank": 20476,
+    "popularity": 7713,
+    "members": 2669,
+    "favorites": 36,
+    "synopsis": "Coached by his father, high school student Troy Bolton has been playing basketball for his entire life. However, he has never been passionate about the sport and feels like he is unable to choose his own path—especially when compared to his girlfriend, the smart and beautiful Gabriella Montez. As the final day of high school approaches, Troy resolves to prepare himself for the future.\n\n[Written by MAL Rewrite]",
+    "background": "High School Musical is a short promotional manga made alongside the 2008 Disney Channel Original Movie High School Musical 3: Senior Year. The manga is set briefly at the beginning of the movie.",
+    "authors": [
+        {
+            "mal_id": 4897,
+            "type": "people",
+            "name": "Asabuki, Mari",
+            "url": "https://myanimelist.net/people/4897/Mari_Asabuki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

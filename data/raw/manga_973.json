@@ -1,0 +1,129 @@
+{
+    "mal_id": 973,
+    "url": "https://myanimelist.net/manga/973/Doujin_Work",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/358.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/358t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/358l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/358.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/358t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/358l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Doujin Work"
+        },
+        {
+            "type": "Japanese",
+            "title": "ドージンワーク"
+        },
+        {
+            "type": "English",
+            "title": "Dojin Work"
+        }
+    ],
+    "title": "Doujin Work",
+    "title_english": "Dojin Work",
+    "title_japanese": "ドージンワーク",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 76,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-10-28T00:00:00+00:00",
+        "to": "2008-09-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 10,
+                "year": 2004
+            },
+            "to": {
+                "day": 9,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Oct 28, 2004 to Sep 9, 2008"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 1729,
+    "rank": 5289,
+    "popularity": 5061,
+    "members": 4334,
+    "favorites": 46,
+    "synopsis": "A 4-koma style strip that follows Najimi Osana and her friends adventures in doujin—that is to say drawing (often perverted) fan comics. Najimi decides to join the \"circle\" as a doujin artist herself once she realizes how profitable it can be, but she soon realizes it's harder than it seems.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2785,
+            "type": "people",
+            "name": "Hiroyuki",
+            "url": "https://myanimelist.net/people/2785/Hiroyuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 182,
+            "type": "manga",
+            "name": "Manga Time Kirara",
+            "url": "https://myanimelist.net/manga/magazine/182/Manga_Time_Kirara"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 70,
+            "type": "manga",
+            "name": "Otaku Culture",
+            "url": "https://myanimelist.net/manga/genre/70/Otaku_Culture"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2166,
+                    "type": "anime",
+                    "name": "Doujin Work",
+                    "url": "https://myanimelist.net/anime/2166/Doujin_Work"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://seijunha.com/syoukai/syoukai.htm"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%BC%E3%82%B8%E3%83%B3%E3%83%AF%E3%83%BC%E3%82%AF"
+        }
+    ]
+}

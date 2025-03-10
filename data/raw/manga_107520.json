@@ -1,0 +1,109 @@
+{
+    "mal_id": 107520,
+    "url": "https://myanimelist.net/manga/107520/Watashi_wa_Kimi_wo_Nakasetai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/202225.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/202225t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/202225l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/202225.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/202225t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/202225l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Watashi wa Kimi wo Nakasetai"
+        },
+        {
+            "type": "Japanese",
+            "title": "私は君を泣かせたい"
+        },
+        {
+            "type": "English",
+            "title": "I want to make you cry"
+        }
+    ],
+    "title": "Watashi wa Kimi wo Nakasetai",
+    "title_english": "I want to make you cry",
+    "title_japanese": "私は君を泣かせたい",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 43,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-08-12T00:00:00+00:00",
+        "to": "2018-05-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 8,
+                "year": 2016
+            },
+            "to": {
+                "day": 25,
+                "month": 5,
+                "year": 2018
+            }
+        },
+        "string": "Aug 12, 2016 to May 25, 2018"
+    },
+    "score": 6.75,
+    "scored": 6.75,
+    "scored_by": 998,
+    "rank": 13055,
+    "popularity": 7641,
+    "members": 2700,
+    "favorites": 6,
+    "synopsis": "\"Tears\" connect people who have never met before. This is the story of an honor student and a delinquent who are connected through these tears.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 29429,
+            "type": "people",
+            "name": "Fumio, Aya",
+            "url": "https://myanimelist.net/people/29429/Aya_Fumio"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Young Animal",
+            "url": "https://myanimelist.net/manga/magazine/2/Young_Animal"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,185 @@
+{
+    "mal_id": 1648,
+    "url": "https://myanimelist.net/manga/1648/Tengen_Toppa_Gurren_Lagann",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/268490.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/268490t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/268490l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/268490.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/268490t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/268490l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tengen Toppa Gurren Lagann"
+        },
+        {
+            "type": "Synonym",
+            "title": "Break Through the Heavens Gurren Lagann"
+        },
+        {
+            "type": "Japanese",
+            "title": "天元突破グレンラガン"
+        }
+    ],
+    "title": "Tengen Toppa Gurren Lagann",
+    "title_english": null,
+    "title_japanese": "天元突破グレンラガン",
+    "title_synonyms": [
+        "Break Through the Heavens Gurren Lagann"
+    ],
+    "type": "Manga",
+    "chapters": 65,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-04-27T00:00:00+00:00",
+        "to": "2013-05-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 27,
+                "month": 5,
+                "year": 2013
+            }
+        },
+        "string": "Apr 27, 2007 to May 27, 2013"
+    },
+    "score": 7.95,
+    "scored": 7.95,
+    "scored_by": 4650,
+    "rank": 865,
+    "popularity": 1455,
+    "members": 14561,
+    "favorites": 263,
+    "synopsis": "In their closed-off underground village, Kamina and Simon chafe at the limits imposed by the village elder. Yet all this will change, when Simon stumbles across a fantastic device - just as the village's peace is broken by a violent intrusion.",
+    "background": "The first six volumes of Tengen Toppa Gurren Lagann were published in English as Gurren Lagann by Bandai Entertainment from May 5, 2009, to August 9, 2011, before the publisher became defunct. It was also published in Brazilian Portuguese by Nova Sampa from July 2013 to December 2015.",
+    "authors": [
+        {
+            "mal_id": 3328,
+            "type": "people",
+            "name": "Nakashima, Kazuki",
+            "url": "https://myanimelist.net/people/3328/Kazuki_Nakashima"
+        },
+        {
+            "mal_id": 6544,
+            "type": "people",
+            "name": "Mori, Kotarou",
+            "url": "https://myanimelist.net/people/6544/Kotarou_Mori"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2001,
+                    "type": "anime",
+                    "name": "Tengen Toppa Gurren Lagann",
+                    "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 16026,
+                    "type": "manga",
+                    "name": "Tengen Toppa Gurren Lagann 4-koma Kingdom: Yoko no Oheso-hen",
+                    "url": "https://myanimelist.net/manga/16026/Tengen_Toppa_Gurren_Lagann_4-koma_Kingdom__Yoko_no_Oheso-hen"
+                },
+                {
+                    "mal_id": 9767,
+                    "type": "manga",
+                    "name": "Tengen Toppa Gurren Lagann: Gurren Gakuen-hen",
+                    "url": "https://myanimelist.net/manga/9767/Tengen_Toppa_Gurren_Lagann__Gurren_Gakuen-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 96441,
+                    "type": "manga",
+                    "name": "Tengen Toppa Gurren Lagann",
+                    "url": "https://myanimelist.net/manga/96441/Tengen_Toppa_Gurren_Lagann"
+                },
+                {
+                    "mal_id": 24659,
+                    "type": "manga",
+                    "name": "Tengen Toppa Gurren Lagann: Rasen Shounentan",
+                    "url": "https://myanimelist.net/manga/24659/Tengen_Toppa_Gurren_Lagann__Rasen_Shounentan"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 75935,
+                    "type": "manga",
+                    "name": "Tengen Toppa Gurren Lagann: Otoko Ippiki-hen",
+                    "url": "https://myanimelist.net/manga/75935/Tengen_Toppa_Gurren_Lagann__Otoko_Ippiki-hen"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

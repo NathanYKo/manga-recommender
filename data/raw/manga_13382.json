@@ -1,0 +1,135 @@
+{
+    "mal_id": 13382,
+    "url": "https://myanimelist.net/manga/13382/No_Color",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/18822.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/18822t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/18822l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/18822.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/18822t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/18822l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "No Color"
+        },
+        {
+            "type": "Synonym",
+            "title": "No Colour"
+        },
+        {
+            "type": "Synonym",
+            "title": "Noo Karaa"
+        },
+        {
+            "type": "Japanese",
+            "title": "ノーカラー"
+        },
+        {
+            "type": "English",
+            "title": "No Color"
+        }
+    ],
+    "title": "No Color",
+    "title_english": "No Color",
+    "title_japanese": "ノーカラー",
+    "title_synonyms": [
+        "No Colour",
+        "Noo Karaa"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-11-01T00:00:00+00:00",
+        "to": "2005-06-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 11,
+                "year": 2003
+            },
+            "to": {
+                "day": 1,
+                "month": 6,
+                "year": 2005
+            }
+        },
+        "string": "Nov 2003 to Jun 2005"
+    },
+    "score": 7.69,
+    "scored": 7.69,
+    "scored_by": 2593,
+    "rank": 1815,
+    "popularity": 4610,
+    "members": 4796,
+    "favorites": 15,
+    "synopsis": "In Natsume Isaku's first work, No Colour, we follow the developing relationship between an energetic young photographer and a supergeek uni student which starts as a mere neighbourhood acquaintance and gradually turns into friendship and more.\n\n(Source: Simona's BL Research Lab)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2871,
+            "type": "people",
+            "name": "Natsume, Isaku",
+            "url": "https://myanimelist.net/people/2871/Isaku_Natsume"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 99,
+            "type": "manga",
+            "name": "Dear+",
+            "url": "https://myanimelist.net/manga/magazine/99/Dear_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 5026,
+                    "type": "manga",
+                    "name": "Doushiyoumonai keredo",
+                    "url": "https://myanimelist.net/manga/5026/Doushiyoumonai_keredo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.jmanga.com/no-color/"
+        }
+    ]
+}

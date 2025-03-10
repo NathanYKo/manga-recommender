@@ -1,0 +1,144 @@
+{
+    "mal_id": 13759,
+    "url": "https://myanimelist.net/manga/13759/Barairo_no_Hoho_no_Koro",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/27842.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/27842t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/27842l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/27842.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/27842t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/27842l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Barairo no Hoho no Koro"
+        },
+        {
+            "type": "Synonym",
+            "title": "Time of Rose-Colored Cheeks"
+        },
+        {
+            "type": "Synonym",
+            "title": "Barairo no Hoo no Koro"
+        },
+        {
+            "type": "Japanese",
+            "title": "ばら色の頬のころ"
+        }
+    ],
+    "title": "Barairo no Hoho no Koro",
+    "title_english": null,
+    "title_japanese": "ばら色の頬のころ",
+    "title_synonyms": [
+        "Time of Rose-Colored Cheeks",
+        "Barairo no Hoo no Koro"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-05-03T00:00:00+00:00",
+        "to": "2007-01-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 5,
+                "year": 2006
+            },
+            "to": {
+                "day": 10,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "May 3, 2006 to Jan 10, 2007"
+    },
+    "score": 7.31,
+    "scored": 7.31,
+    "scored_by": 1766,
+    "rank": 4778,
+    "popularity": 5424,
+    "members": 4014,
+    "favorites": 24,
+    "synopsis": "Paul, a serious honor student, meets the violent and rebellious Morgan in their all-boys school. What follows is a story of the struggles of youth and painful but powerful self-discovery.\n\nThis is a prequel to the series J no Subete, involving Paul and another boy named \"J.\"",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5583,
+            "type": "people",
+            "name": "Nakamura, Asumiko",
+            "url": "https://myanimelist.net/people/5583/Asumiko_Nakamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 408,
+            "type": "manga",
+            "name": "Manga Erotics F",
+            "url": "https://myanimelist.net/manga/magazine/408/Manga_Erotics_F"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 16276,
+                    "type": "manga",
+                    "name": "J no Subete",
+                    "url": "https://myanimelist.net/manga/16276/J_no_Subete"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 18746,
+                    "type": "manga",
+                    "name": "2-shuukan no Aventure",
+                    "url": "https://myanimelist.net/manga/18746/2-shuukan_no_Aventure"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

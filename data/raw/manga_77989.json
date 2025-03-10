@@ -1,0 +1,136 @@
+{
+    "mal_id": 77989,
+    "url": "https://myanimelist.net/manga/77989/Hanebado",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/135083.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/135083t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/135083l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/135083.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/135083t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/135083l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hanebado!"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Badminton play of Ayano Hanesaki!"
+        },
+        {
+            "type": "Japanese",
+            "title": "はねバド!"
+        }
+    ],
+    "title": "Hanebado!",
+    "title_english": null,
+    "title_japanese": "はねバド!",
+    "title_synonyms": [
+        "The Badminton play of Ayano Hanesaki!"
+    ],
+    "type": "Manga",
+    "chapters": 80,
+    "volumes": 16,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-06-07T00:00:00+00:00",
+        "to": "2019-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 6,
+                "year": 2013
+            },
+            "to": {
+                "day": 7,
+                "month": 10,
+                "year": 2019
+            }
+        },
+        "string": "Jun 7, 2013 to Oct 7, 2019"
+    },
+    "score": 7.3,
+    "scored": 7.3,
+    "scored_by": 1901,
+    "rank": 4856,
+    "popularity": 3608,
+    "members": 6240,
+    "favorites": 90,
+    "synopsis": "Enthusiastic former Olympic badminton player Kentarou Tachibana faces a seemingly insurmountable obstacle—the fact that the small Kitakomachi High School badminton team is anything but as dedicated as him to the sport. The club, led primarily by the talented yet moody Nagisa Aragaki, continues to shrink as the players are scared off by Nagisa's grueling drills that push them to their limits and frequently drive team members to tears.\n\nOne day, however, Coach Tachibana seems to find a ray of hope in the form of Ayano Hanesaki. Ayano has a natural gift for the sport—but she also has nothing but pure hatred for badminton. When Ayano first comes to the club, the source of Nagisa's sullen nature becomes obvious: six months prior, she suffered a devastating loss against Ayano in the National Junior Tournament, failing to score even a single point.\n\nNow finding themselves on the same team, the two girls must move past their negative experiences with badminton and come together to write a triumphant chapter for the school's team.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5424,
+            "type": "people",
+            "name": "Hamada, Kousuke",
+            "url": "https://myanimelist.net/people/5424/Kousuke_Hamada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 316,
+            "type": "manga",
+            "name": "good! Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/316/good_Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 37259,
+                    "type": "anime",
+                    "name": "Hanebado!",
+                    "url": "https://myanimelist.net/anime/37259/Hanebado"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 116750,
+                    "type": "manga",
+                    "name": "Shousetsu Hanebado!",
+                    "url": "https://myanimelist.net/manga/116750/Shousetsu_Hanebado"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://afternoon.moae.jp/lineup/278"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%AD%E3%83%90%E3%83%89!"
+        }
+    ]
+}

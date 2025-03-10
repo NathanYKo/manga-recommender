@@ -1,0 +1,147 @@
+{
+    "mal_id": 646,
+    "url": "https://myanimelist.net/manga/646/FLCL",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/113333.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/113333t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/113333l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/113333.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/113333t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/113333l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "FLCL"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fooly Cooly"
+        },
+        {
+            "type": "Synonym",
+            "title": "Furi Kuri"
+        },
+        {
+            "type": "Japanese",
+            "title": "フリクリ"
+        },
+        {
+            "type": "English",
+            "title": "FLCL"
+        }
+    ],
+    "title": "FLCL",
+    "title_english": "FLCL",
+    "title_japanese": "フリクリ",
+    "title_synonyms": [
+        "Fooly Cooly",
+        "Furi Kuri"
+    ],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1999-12-25T00:00:00+00:00",
+        "to": "2001-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 12,
+                "year": 1999
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2001
+            }
+        },
+        "string": "Dec 25, 1999 to Mar 26, 2001"
+    },
+    "score": 7.25,
+    "scored": 7.25,
+    "scored_by": 12848,
+    "rank": 5482,
+    "popularity": 716,
+    "members": 26973,
+    "favorites": 745,
+    "synopsis": "Naota is a normal Japanese 6th grade boy but when his older brother leaves for America to play baseball, his brother leaves his 17-year-old girlfriend Mamimi behind. Mamimi is sending mixed signals and advances to Naota, and he doesn't know what to do about her. But to make matters worse, Naota's world is totally turned upside down when he is run over by a woman on a Vespa. During their first encounter, she hits him over the head with her guitar, which then causes a horn to grow out of his forehead. She calls herself \"Haruko\" and her presence changes Naota's life to even further insanity.\n\n(Source: ANN)",
+    "background": "FLCL is an adaptation of the anime of the same title. The series was published in English by Dark Horse Comics in a omnibus volume on May 29, 2012.",
+    "authors": [
+        {
+            "mal_id": 2402,
+            "type": "people",
+            "name": "Ueda, Hajime",
+            "url": "https://myanimelist.net/people/2402/Hajime_Ueda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 70,
+            "type": "manga",
+            "name": "Magazine-Z",
+            "url": "https://myanimelist.net/manga/magazine/70/Magazine-Z"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 227,
+                    "type": "anime",
+                    "name": "FLCL",
+                    "url": "https://myanimelist.net/anime/227/FLCL"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 8173,
+                    "type": "manga",
+                    "name": "FLCL",
+                    "url": "https://myanimelist.net/manga/8173/FLCL"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%82%AF%E3%83%AA"
+        }
+    ]
+}

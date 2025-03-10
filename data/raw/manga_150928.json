@@ -1,0 +1,127 @@
+{
+    "mal_id": 150928,
+    "url": "https://myanimelist.net/manga/150928/Mietemasu_yo_Aizawa-san",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/278376.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/278376t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/278376l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/278376.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/278376t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/278376l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mietemasu yo! Aizawa-san"
+        },
+        {
+            "type": "Synonym",
+            "title": "I See You"
+        },
+        {
+            "type": "Synonym",
+            "title": "Aizawa-san!"
+        },
+        {
+            "type": "Japanese",
+            "title": "見えてますよ！愛沢さん"
+        }
+    ],
+    "title": "Mietemasu yo! Aizawa-san",
+    "title_english": null,
+    "title_japanese": "見えてますよ！愛沢さん",
+    "title_synonyms": [
+        "I See You",
+        "Aizawa-san!"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2022-06-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 6,
+                "year": 2022
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 30, 2022 to ?"
+    },
+    "score": 7.54,
+    "scored": 7.54,
+    "scored_by": 727,
+    "rank": 2674,
+    "popularity": 6911,
+    "members": 3060,
+    "favorites": 35,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 61339,
+            "type": "people",
+            "name": "Odoroo, Dorothy",
+            "url": "https://myanimelist.net/people/61339/Dorothy_Odoroo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 234,
+            "type": "manga",
+            "name": "Comic Valkyrie",
+            "url": "https://myanimelist.net/manga/magazine/234/Comic_Valkyrie"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.comic-valkyrie.com/aizawasan/"
+        }
+    ]
+}

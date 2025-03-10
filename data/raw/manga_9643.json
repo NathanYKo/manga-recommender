@@ -1,0 +1,128 @@
+{
+    "mal_id": 9643,
+    "url": "https://myanimelist.net/manga/9643/Bokura_ni_Matsuwaru_etc",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/12977.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/12977t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/12977l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/12977.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/12977t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/12977l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bokura ni Matsuwaru etc."
+        },
+        {
+            "type": "Synonym",
+            "title": "Bokura ni Matsuwaru Et Cetera"
+        },
+        {
+            "type": "Synonym",
+            "title": "Utsukushii Ashita"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sakura no Junrei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Itsuka Bokura wa"
+        },
+        {
+            "type": "Japanese",
+            "title": "僕らにまつわるエトセトラ"
+        },
+        {
+            "type": "English",
+            "title": "You and Me, Etc."
+        }
+    ],
+    "title": "Bokura ni Matsuwaru etc.",
+    "title_english": "You and Me, Etc.",
+    "title_japanese": "僕らにまつわるエトセトラ",
+    "title_synonyms": [
+        "Bokura ni Matsuwaru Et Cetera",
+        "Utsukushii Ashita",
+        "Sakura no Junrei",
+        "Itsuka Bokura wa"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-11-22T00:00:00+00:00",
+        "to": "2007-11-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 11,
+                "year": 2006
+            },
+            "to": {
+                "day": 22,
+                "month": 11,
+                "year": 2007
+            }
+        },
+        "string": "Nov 22, 2006 to Nov 22, 2007"
+    },
+    "score": 7.47,
+    "scored": 7.47,
+    "scored_by": 4220,
+    "rank": 3198,
+    "popularity": 2826,
+    "members": 7918,
+    "favorites": 48,
+    "synopsis": "1. Itsuka Bokura wa (Someday We'll....)\n2. Sakura no Junrei (The Sakura Pilgrimage)\n3-4. Utsukushii Ashita (The Beautiful Tomorrow)\n5. Bokura ni Matsuwaru etc.",
+    "background": "Bokura ni Matsuwaru etc. was published in English as You & Me, Etc. by Tokyopop's Blu Manga imprint on February 1, 2011.",
+    "authors": [
+        {
+            "mal_id": 3642,
+            "type": "people",
+            "name": "Kyuugou",
+            "url": "https://myanimelist.net/people/3642/Kyuugou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 159,
+            "type": "manga",
+            "name": "RuTile",
+            "url": "https://myanimelist.net/manga/magazine/159/RuTile"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 29975,
+                    "type": "manga",
+                    "name": "Bokura wa Sore wo Hitei Dekinai",
+                    "url": "https://myanimelist.net/manga/29975/Bokura_wa_Sore_wo_Hitei_Dekinai"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

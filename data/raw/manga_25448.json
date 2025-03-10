@@ -1,0 +1,119 @@
+{
+    "mal_id": 25448,
+    "url": "https://myanimelist.net/manga/25448/Boku_to_Majo_no_Jikan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/47895.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/47895t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/47895l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/47895.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/47895t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/47895l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Boku to Majo no Jikan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Time Between Witch and Me"
+        },
+        {
+            "type": "Japanese",
+            "title": "ボクと魔女の時間"
+        }
+    ],
+    "title": "Boku to Majo no Jikan",
+    "title_english": null,
+    "title_japanese": "ボクと魔女の時間",
+    "title_synonyms": [
+        "Time Between Witch and Me"
+    ],
+    "type": "Manga",
+    "chapters": 24,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-04-21T00:00:00+00:00",
+        "to": "2013-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 4,
+                "month": 4,
+                "year": 2013
+            }
+        },
+        "string": "Apr 21, 2011 to Apr 4, 2013"
+    },
+    "score": 7.09,
+    "scored": 7.09,
+    "scored_by": 1087,
+    "rank": 7586,
+    "popularity": 5387,
+    "members": 4046,
+    "favorites": 8,
+    "synopsis": "It was supposed to be a lucky day for Tsuzuri Enji, a fortune-telling loving high-schooler. With hopes of running into a girl on his way to school, he gets hit by a truck and dies. But then one week later he wakes up. How did he survive? And just who is this weird girl? A news series about a boy and a witch.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 12309,
+            "type": "people",
+            "name": "Arakawa, Shin",
+            "url": "https://myanimelist.net/people/12309/Shin_Arakawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://jumpsq.shueisha.co.jp/rensai/bokutomajyonojikan/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%AF%E3%81%A8%E9%AD%94%E5%A5%B3%E3%81%AE%E6%99%82%E9%96%93"
+        }
+    ]
+}

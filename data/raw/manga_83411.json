@@ -1,0 +1,159 @@
+{
+    "mal_id": 83411,
+    "url": "https://myanimelist.net/manga/83411/Atom__The_Beginning",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/157917.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/157917t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/157917l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/157917.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/157917t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/157917l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Atom: The Beginning"
+        },
+        {
+            "type": "Japanese",
+            "title": "アトム ザ・ビギニング"
+        },
+        {
+            "type": "English",
+            "title": "Atom: The Beginning"
+        }
+    ],
+    "title": "Atom: The Beginning",
+    "title_english": "Atom: The Beginning",
+    "title_japanese": "アトム ザ・ビギニング",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-12-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 1, 2014 to ?"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 489,
+    "rank": 3106,
+    "popularity": 6518,
+    "members": 3261,
+    "favorites": 35,
+    "synopsis": "The prequel to one of the most influential mangas of all time: Astro Boy by Osamu Tezuka!\n\nA sci-fi manga about the turbulent lives of two robotics engineering students and their latest revolutionary project: the unassuming yet insanely strong A106, or \"Six.\"\n\nAtom: The Beginning blazes its own trail, as well as speaking to fans of the iconic Astro Boy and Osamu Tezuka. It's story full of hear and humor for fans of action-packed science fiction, robots, and manga.\n\n(Source: Titan Comics)",
+    "background": "Atom: The Beginning has been published in English by Titan Comics under the Titan Manga imprint since October 11, 2022. The series has been published in Spanish by Milky Way Ediciones since April 27, 2017.",
+    "authors": [
+        {
+            "mal_id": 2011,
+            "type": "people",
+            "name": "Yuuki, Masami",
+            "url": "https://myanimelist.net/people/2011/Masami_Yuuki"
+        },
+        {
+            "mal_id": 5643,
+            "type": "people",
+            "name": "Kasahara, Tetsuroh",
+            "url": "https://myanimelist.net/people/5643/Tetsuroh_Kasahara"
+        },
+        {
+            "mal_id": 9143,
+            "type": "people",
+            "name": "Tezuka, Makoto",
+            "url": "https://myanimelist.net/people/9143/Makoto_Tezuka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 881,
+            "type": "manga",
+            "name": "Monthly Hero's",
+            "url": "https://myanimelist.net/manga/magazine/881/Monthly_Hero_039_s"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 728,
+                    "type": "manga",
+                    "name": "Tetsuwan Atom",
+                    "url": "https://myanimelist.net/manga/728/Tetsuwan_Atom"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 33371,
+                    "type": "anime",
+                    "name": "Atom: The Beginning",
+                    "url": "https://myanimelist.net/anime/33371/Atom__The_Beginning"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.heros-web.com/works/atom.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/アトム_ザ・ビギニング"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "mal_id": 92476,
+    "url": "https://myanimelist.net/manga/92476/Rakujitsu_no_Pathos",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/162658.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/162658t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/162658l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/162658.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/162658t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/162658l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rakujitsu no Pathos"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sunset of Passion"
+        },
+        {
+            "type": "Japanese",
+            "title": "落日のパトス"
+        }
+    ],
+    "title": "Rakujitsu no Pathos",
+    "title_english": null,
+    "title_japanese": "落日のパトス",
+    "title_synonyms": [
+        "Sunset of Passion"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-11-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 11,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 4, 2014 to ?"
+    },
+    "score": 6.46,
+    "scored": 6.46,
+    "scored_by": 3329,
+    "rank": null,
+    "popularity": 1932,
+    "members": 11234,
+    "favorites": 112,
+    "synopsis": "What happens when next door to Fujiwara, an upcoming mangaka, moves Yuuki, who was his teacher back in high school and first crush?\n\nYuuki, now a married woman, is starting a new life in the city, but her husband is always away on business trips so she finds comfort in the company of her former student, but what she doesn't realize is that Fujiwara can listen to everything happening in her apartment through the building's thin walls...\n\n(Source: Manga Fox)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 8023,
+            "type": "people",
+            "name": "Tsuyatsuya",
+            "url": "https://myanimelist.net/people/8023/Tsuyatsuya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 561,
+            "type": "manga",
+            "name": "Bessatsu Young Champion",
+            "url": "https://myanimelist.net/manga/magazine/561/Bessatsu_Young_Champion"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 124732,
+                    "type": "manga",
+                    "name": "Tasogare no Ethos",
+                    "url": "https://myanimelist.net/manga/124732/Tasogare_no_Ethos"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

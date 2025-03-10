@@ -1,0 +1,161 @@
+{
+    "mal_id": 5599,
+    "url": "https://myanimelist.net/manga/5599/Seirei_no_Moribito",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/208051.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/208051t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/208051l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/208051.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/208051t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/208051l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Seirei no Moribito"
+        },
+        {
+            "type": "Synonym",
+            "title": "Guardian of the Sacred Spirit"
+        },
+        {
+            "type": "Japanese",
+            "title": "精霊の守り人"
+        }
+    ],
+    "title": "Seirei no Moribito",
+    "title_english": null,
+    "title_japanese": "精霊の守り人",
+    "title_synonyms": [
+        "Guardian of the Sacred Spirit"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-03-12T00:00:00+00:00",
+        "to": "2008-07-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 3,
+                "year": 2007
+            },
+            "to": {
+                "day": 11,
+                "month": 7,
+                "year": 2008
+            }
+        },
+        "string": "Mar 12, 2007 to Jul 11, 2008"
+    },
+    "score": 7.19,
+    "scored": 7.19,
+    "scored_by": 536,
+    "rank": 6199,
+    "popularity": 8741,
+    "members": 2290,
+    "favorites": 5,
+    "synopsis": "Once every 100 years, a Water Fairy implants an egg into a person who then becomes the Guardian of Fairies. This time, the responsibility falls on Chagum, the second prince of the New Yogo Kingdom.\n\nChagum's life isn't easy. The king finds Chagum an inconvenience and attempts to have him killed. As a result, the queen asks a female guard, Balsa, to protect Chagum. In addition to this, beings from another world, known as Nayugu, constantly attack him in order to eat the egg carried in Chagumu's body.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2864,
+            "type": "people",
+            "name": "Fujiwara, Kamui",
+            "url": "https://myanimelist.net/people/2864/Kamui_Fujiwara"
+        },
+        {
+            "mal_id": 6325,
+            "type": "people",
+            "name": "Uehashi, Nahoko",
+            "url": "https://myanimelist.net/people/6325/Nahoko_Uehashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Shounen Gangan",
+            "url": "https://myanimelist.net/manga/magazine/13/Shounen_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 70935,
+                    "type": "manga",
+                    "name": "Yami no Moribito",
+                    "url": "https://myanimelist.net/manga/70935/Yami_no_Moribito"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 12070,
+                    "type": "manga",
+                    "name": "Moribito Series",
+                    "url": "https://myanimelist.net/manga/12070/Moribito_Series"
+                },
+                {
+                    "mal_id": 1827,
+                    "type": "anime",
+                    "name": "Seirei no Moribito",
+                    "url": "https://myanimelist.net/anime/1827/Seirei_no_Moribito"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 162652,
+                    "type": "manga",
+                    "name": "Jin: Anime Seirei no Moribito Gaiden",
+                    "url": "https://myanimelist.net/manga/162652/Jin__Anime_Seirei_no_Moribito_Gaiden"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%B2%BE%E9%9C%8A%E3%81%AE%E5%AE%88%E3%82%8A%E4%BA%BA"
+        }
+    ]
+}

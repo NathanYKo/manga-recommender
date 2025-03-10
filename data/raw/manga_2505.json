@@ -1,0 +1,104 @@
+{
+    "mal_id": 2505,
+    "url": "https://myanimelist.net/manga/2505/Kokoro_Kikai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/83933.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/83933t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/83933l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/83933.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/83933t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/83933l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kokoro Kikai."
+        },
+        {
+            "type": "Synonym",
+            "title": "Amaya no Hoshibito."
+        },
+        {
+            "type": "Japanese",
+            "title": "ココロ機械。"
+        }
+    ],
+    "title": "Kokoro Kikai.",
+    "title_english": null,
+    "title_japanese": "ココロ機械。",
+    "title_synonyms": [
+        "Amaya no Hoshibito."
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-07T00:00:00+00:00",
+        "to": "2005-04-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 11,
+                "month": 4,
+                "year": 2005
+            }
+        },
+        "string": "Jan 7, 2005 to Apr 11, 2005"
+    },
+    "score": 7.3,
+    "scored": 7.3,
+    "scored_by": 2291,
+    "rank": 4862,
+    "popularity": 5014,
+    "members": 4380,
+    "favorites": 18,
+    "synopsis": "\"Are we all really alive?\" Shinobu, a high school student, questions as he spends each day just passing the time away.\n\n(Source: mochi*mochi)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2867,
+            "type": "people",
+            "name": "Yumeka, Sumomo",
+            "url": "https://myanimelist.net/people/2867/Sumomo_Yumeka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 188,
+            "type": "manga",
+            "name": "Craft",
+            "url": "https://myanimelist.net/manga/magazine/188/Craft"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

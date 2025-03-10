@@ -1,0 +1,131 @@
+{
+    "mal_id": 99936,
+    "url": "https://myanimelist.net/manga/99936/Rouge",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180660.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180660t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180660l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/180660.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/180660t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/180660l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rouge"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ai wa Deban wo Matteiru"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ai wa Deban ga Yattekuru"
+        },
+        {
+            "type": "Japanese",
+            "title": "ROUGE"
+        }
+    ],
+    "title": "Rouge",
+    "title_english": null,
+    "title_japanese": "ROUGE",
+    "title_synonyms": [
+        "Ai wa Deban wo Matteiru",
+        "Ai wa Deban ga Yattekuru"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-01-24T00:00:00+00:00",
+        "to": "2016-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 7,
+                "month": 1,
+                "year": 2016
+            }
+        },
+        "string": "Jan 24, 2015 to Jan 7, 2016"
+    },
+    "score": 7.49,
+    "scored": 7.49,
+    "scored_by": 2256,
+    "rank": null,
+    "popularity": 4717,
+    "members": 4681,
+    "favorites": 43,
+    "synopsis": "1-4. Rouge\n5. Ai wa Deban wo Matteiru\n6. Ai wa Deban ga Yattekuru",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 41474,
+            "type": "people",
+            "name": "Katsura, Komachi",
+            "url": "https://myanimelist.net/people/41474/Komachi_Katsura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 924,
+            "type": "manga",
+            "name": "GUSH pêche",
+            "url": "https://myanimelist.net/manga/magazine/924/GUSH_p%C3%AAche"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 121237,
+                    "type": "manga",
+                    "name": "La Vie en Rose",
+                    "url": "https://myanimelist.net/manga/121237/La_Vie_en_Rose"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 106927,
+                    "type": "manga",
+                    "name": "Aka to Kuro",
+                    "url": "https://myanimelist.net/manga/106927/Aka_to_Kuro"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

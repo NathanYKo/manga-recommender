@@ -1,0 +1,121 @@
+{
+    "mal_id": 1801,
+    "url": "https://myanimelist.net/manga/1801/Kamisama_no_Iutoori",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/150338.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/150338t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/150338l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/150338.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/150338t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/150338l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kamisama no Iutoori"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kamisama no Iu Toori"
+        },
+        {
+            "type": "Synonym",
+            "title": "As The God of Death Dictates"
+        },
+        {
+            "type": "Japanese",
+            "title": "神様の言うとおり"
+        }
+    ],
+    "title": "Kamisama no Iutoori",
+    "title_english": null,
+    "title_japanese": "神様の言うとおり",
+    "title_synonyms": [
+        "Kamisama no Iu Toori",
+        "As The God of Death Dictates"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-01-01T00:00:00+00:00",
+        "to": "2003-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            }
+        },
+        "string": "2002 to 2003"
+    },
+    "score": 7.34,
+    "scored": 7.34,
+    "scored_by": 3415,
+    "rank": 4399,
+    "popularity": 3349,
+    "members": 6691,
+    "favorites": 49,
+    "synopsis": "Ayumi, a cheerful teen who's admittedly a bit stupid, is in love with her classmate Musashi. Before she can tell him how she feels, however, she sees a strange boy that no one else can see. He tells her that he's a god of death, and she only has one month to live, so she better make the most of it and take her love once and for all!",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2550,
+            "type": "people",
+            "name": "Mimori, Ao",
+            "url": "https://myanimelist.net/people/2550/Ao_Mimori"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Bessatsu Margaret",
+            "url": "https://myanimelist.net/manga/magazine/53/Bessatsu_Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

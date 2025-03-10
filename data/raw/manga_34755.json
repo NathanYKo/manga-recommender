@@ -1,0 +1,114 @@
+{
+    "mal_id": 34755,
+    "url": "https://myanimelist.net/manga/34755/Yozora_no_Sumikko_de",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/177221.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/177221t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/177221l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/177221.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/177221t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/177221l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yozora no Sumikko de,"
+        },
+        {
+            "type": "Synonym",
+            "title": "At the Corner of the Night Skies"
+        },
+        {
+            "type": "Japanese",
+            "title": "夜空のすみっこで、"
+        }
+    ],
+    "title": "Yozora no Sumikko de,",
+    "title_english": null,
+    "title_japanese": "夜空のすみっこで、",
+    "title_synonyms": [
+        "At the Corner of the Night Skies"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-10-01T00:00:00+00:00",
+        "to": "2013-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Oct 1, 2011 to Mar 30, 2013"
+    },
+    "score": 7.71,
+    "scored": 7.71,
+    "scored_by": 3462,
+    "rank": 1701,
+    "popularity": 2852,
+    "members": 7835,
+    "favorites": 62,
+    "synopsis": "The Astronomy Club that Kaoru Hoshino joined in high school was led by his upperclassman Akihiro Sudou. Being the only two members of the club, they inevitably formed a special relationship. Hoshino convinced himself that what he felt for Sudou was mere admiration, and after the senior student graduated, they would never see each other again. \n\nEleven years later, however, the two are reunited when Sudou walks into the elementary school where Hoshino teaches and then suddenly collapses. After carrying Sudou to the infirmary, Hoshino discovers that his former crush is the father of a precocious child in his homeroom class, Shouta, who sports his own crush on his teacher. Between the two adults, there lies a burning question: is it best to forget their past and focus only on the present, not daring to hope for anything more in their future?\n\n[Written by MAL Rewrite]",
+    "background": "Yozora no Sumikko de, was published in Spanish by Milky Way Ediciones on September 27, 2016.",
+    "authors": [
+        {
+            "mal_id": 14181,
+            "type": "people",
+            "name": "Hayakawa, Nojiko",
+            "url": "https://myanimelist.net/people/14181/Nojiko_Hayakawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 219,
+            "type": "manga",
+            "name": "HertZ",
+            "url": "https://myanimelist.net/manga/magazine/219/HertZ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 57723,
+                    "type": "manga",
+                    "name": "Yoake ni Furu,",
+                    "url": "https://myanimelist.net/manga/57723/Yoake_ni_Furu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.bs-garden.com/feature/yozoranosumikko/"
+        }
+    ]
+}

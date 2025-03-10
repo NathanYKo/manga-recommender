@@ -1,0 +1,165 @@
+{
+    "mal_id": 77815,
+    "url": "https://myanimelist.net/manga/77815/Tokyo_Ghoul__Jack",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/134713.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/134713t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/134713l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/134713.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/134713t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/134713l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tokyo Ghoul: \"Jack\""
+        },
+        {
+            "type": "Synonym",
+            "title": "Toukyou Kuushuu: Jack"
+        },
+        {
+            "type": "Japanese",
+            "title": "東京喰種－トーキョーグール－ [JACK]"
+        },
+        {
+            "type": "English",
+            "title": "Tokyo Ghoul [Jack]"
+        }
+    ],
+    "title": "Tokyo Ghoul: \"Jack\"",
+    "title_english": "Tokyo Ghoul [Jack]",
+    "title_japanese": "東京喰種－トーキョーグール－ [JACK]",
+    "title_synonyms": [
+        "Toukyou Kuushuu: Jack"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-08-01T00:00:00+00:00",
+        "to": "2013-09-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 2013
+            },
+            "to": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Aug 2013 to Sep 2013"
+    },
+    "score": 7.38,
+    "scored": 7.38,
+    "scored_by": 15933,
+    "rank": 3981,
+    "popularity": 578,
+    "members": 32481,
+    "favorites": 226,
+    "synopsis": "Long before becoming the infamous \"Reaper\" of the Commission of Counter Ghoul, a young Kishou Arima was once assigned to attend high school in order to investigate a series of murders caused by a ghoul with a fervent appetite. What was supposed to be a solo mission changed very quickly for the young genius as he became involved with his delinquent classmate Taishi Fura.\n\nWhen Fura witnesses the brutal death of his best friend at the hands of a masked ghoul named \"Lantern,\" it seems certain he will meet a similar fate. At the last minute he is saved by Arima, giving Fura a glimpse into the world of a ghoul investigator. Although the ghoul escapes, Fura decides to join forces with his savior and classmate, vowing to bring Lantern to justice.\n\n[Written by MAL Rewrite]",
+    "background": "Tokyo Ghoul: \"Jack\" was digitally published in English by VIZ Media on September 26, 2017.",
+    "authors": [
+        {
+            "mal_id": 15753,
+            "type": "people",
+            "name": "Ishida, Sui",
+            "url": "https://myanimelist.net/people/15753/Sui_Ishida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1013,
+            "type": "manga",
+            "name": "Jump LIVE",
+            "url": "https://myanimelist.net/manga/magazine/1013/Jump_LIVE"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 30458,
+                    "type": "anime",
+                    "name": "Tokyo Ghoul: \"Jack\"",
+                    "url": "https://myanimelist.net/anime/30458/Tokyo_Ghoul__Jack"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 33327,
+                    "type": "manga",
+                    "name": "Tokyo Ghoul",
+                    "url": "https://myanimelist.net/manga/33327/Tokyo_Ghoul"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tokyo_Ghoul"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%96%B0%E7%A8%AE%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%82%B0%E3%83%BC%E3%83%AB"
+        }
+    ]
+}

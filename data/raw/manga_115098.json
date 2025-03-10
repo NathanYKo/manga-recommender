@@ -1,0 +1,125 @@
+{
+    "mal_id": 115098,
+    "url": "https://myanimelist.net/manga/115098/Kengan_Ashura_0",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/225037.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/225037t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/225037l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/225037.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/225037t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/225037l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kengan Ashura 0"
+        },
+        {
+            "type": "Japanese",
+            "title": "ケンガンアシュラ0"
+        }
+    ],
+    "title": "Kengan Ashura 0",
+    "title_english": null,
+    "title_japanese": "ケンガンアシュラ0",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-08-20T00:00:00+00:00",
+        "to": "2015-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 8,
+                "year": 2015
+            },
+            "to": {
+                "day": 8,
+                "month": 10,
+                "year": 2015
+            }
+        },
+        "string": "Aug 20, 2015 to Oct 8, 2015"
+    },
+    "score": 7.21,
+    "scored": 7.21,
+    "scored_by": 2676,
+    "rank": 6016,
+    "popularity": 4244,
+    "members": 5269,
+    "favorites": 20,
+    "synopsis": "A prequel story to Kengan Ashura.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 25033,
+            "type": "people",
+            "name": "Daromeon",
+            "url": "https://myanimelist.net/people/25033/Daromeon"
+        },
+        {
+            "mal_id": 31905,
+            "type": "people",
+            "name": "Sandrovich, Yabako",
+            "url": "https://myanimelist.net/people/31905/Yabako_Sandrovich"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1005,
+            "type": "manga",
+            "name": "Ura Sunday",
+            "url": "https://myanimelist.net/manga/magazine/1005/Ura_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 72025,
+                    "type": "manga",
+                    "name": "Kengan Ashura",
+                    "url": "https://myanimelist.net/manga/72025/Kengan_Ashura"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://urasunday.com/kengan_zero/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%82%AC%E3%83%B3%E3%82%A2%E3%82%B7%E3%83%A5%E3%83%A9"
+        }
+    ]
+}

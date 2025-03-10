@@ -1,0 +1,150 @@
+{
+    "mal_id": 1618,
+    "url": "https://myanimelist.net/manga/1618/Lodoss-tou_Senki__Haiiro_no_Majo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/135797.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/135797t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/135797l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/135797.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/135797t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/135797l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Lodoss-tou Senki: Haiiro no Majo"
+        },
+        {
+            "type": "Japanese",
+            "title": "ロードス島戦記 灰色の魔女"
+        },
+        {
+            "type": "English",
+            "title": "Record of Lodoss War: The Grey Witch"
+        }
+    ],
+    "title": "Lodoss-tou Senki: Haiiro no Majo",
+    "title_english": "Record of Lodoss War: The Grey Witch",
+    "title_japanese": "ロードス島戦記 灰色の魔女",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 22,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1994-01-01T00:00:00+00:00",
+        "to": "1998-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1994
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            }
+        },
+        "string": "1994 to 1998"
+    },
+    "score": 7.19,
+    "scored": 7.19,
+    "scored_by": 1098,
+    "rank": 6231,
+    "popularity": 8788,
+    "members": 2276,
+    "favorites": 32,
+    "synopsis": "A long time ago, there was a tremendous war between the goddess of Creation and the goddess of Destruction, which made the earth trembled. Both goddesses perished in the war and created what people called a cursed land - Lodoss. Something evil is happening in the land of Lodoss. Parn, a reckless young warrior, along with his newfound friends, takes on a quest to find out the source of this evil and becomes involved in the greatest epic struggle between good and evil since the war of the goddesses.",
+    "background": "Lodoss-tou Senki: Haiiro no Majo was published in English as Record of Lodoss War: The Grey Witch by Central Park Media from September 15, 1999 to December 15, 2000.",
+    "authors": [
+        {
+            "mal_id": 2686,
+            "type": "people",
+            "name": "Ochi, Yoshihiko",
+            "url": "https://myanimelist.net/people/2686/Yoshihiko_Ochi"
+        },
+        {
+            "mal_id": 7265,
+            "type": "people",
+            "name": "Mizuno, Ryou",
+            "url": "https://myanimelist.net/people/7265/Ryou_Mizuno"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1621,
+                    "type": "manga",
+                    "name": "Lodoss-tou Senki: Pharis no Seijo",
+                    "url": "https://myanimelist.net/manga/1621/Lodoss-tou_Senki__Pharis_no_Seijo"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1622,
+                    "type": "manga",
+                    "name": "Lodoss-tou Senki: Honoo no Majin",
+                    "url": "https://myanimelist.net/manga/1622/Lodoss-tou_Senki__Honoo_no_Majin"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 78395,
+                    "type": "manga",
+                    "name": "Lodoss-tou Senki",
+                    "url": "https://myanimelist.net/manga/78395/Lodoss-tou_Senki"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 87657,
+                    "type": "manga",
+                    "name": "Lodoss-tou Senki: Haiiro no Majo",
+                    "url": "https://myanimelist.net/manga/87657/Lodoss-tou_Senki__Haiiro_no_Majo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Record_of_Lodoss_War"
+        }
+    ]
+}

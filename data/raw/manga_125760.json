@@ -1,0 +1,135 @@
+{
+    "mal_id": 125760,
+    "url": "https://myanimelist.net/manga/125760/Ame_demo_Hare_demo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/235586.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/235586t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/235586l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/235586.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/235586t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/235586l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ame demo Hare demo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rainy or Sunny"
+        },
+        {
+            "type": "Japanese",
+            "title": "雨でも晴れでも"
+        },
+        {
+            "type": "English",
+            "title": "Come Rain or Shine"
+        }
+    ],
+    "title": "Ame demo Hare demo",
+    "title_english": "Come Rain or Shine",
+    "title_japanese": "雨でも晴れでも",
+    "title_synonyms": [
+        "Rainy or Sunny"
+    ],
+    "type": "Manga",
+    "chapters": 21,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-12-26T00:00:00+00:00",
+        "to": "2022-02-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 12,
+                "year": 2019
+            },
+            "to": {
+                "day": 26,
+                "month": 2,
+                "year": 2022
+            }
+        },
+        "string": "Dec 26, 2019 to Feb 26, 2022"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 1362,
+    "rank": 5016,
+    "popularity": 6337,
+    "members": 3365,
+    "favorites": 32,
+    "synopsis": "Recently having moved away from her rural hometown, Mikoto Yamada struggles to make friends at Uchouten High School. Noticing Mikoto sitting alone, the student council secretary, Ren Nekozaki, decides to utilize her position to create a club specifically to allow the two to spend time together, using a shrine near the school as their club room.\n\nSoon enough, their club space is encroached upon by four strangers: Takuya Kumakura, Yozora Usagida, Airi Shishimaru, and Ritsu Pengin. These girls share the plight of having interests that are too niche to justify the creation of a club. As Uchouten requires all its students to participate in club activities, the four form their own club to let each member do whatever they want. This leaves but one remaining issue—a club room is required for a club to be official.\n\nAs a result, the four decide to do all they can to convince Mikoto to let them share the shrine. While Mikoto agrees, Ren is wary, as she believes the four stragglers will impede the time she shares with Mikoto. But despite her reservations, Ren eventually concedes. Although these girls all have different interests, they will nonetheless come to form an intimate, unbreakable bond.\n\n[Written by MAL Rewrite]",
+    "background": "Ame demo Hare demo is a remake of Arata Iri's previous work, Todo no Tsumari no Uchouten.",
+    "authors": [
+        {
+            "mal_id": 19319,
+            "type": "people",
+            "name": "Arata, Iri",
+            "url": "https://myanimelist.net/people/19319/Iri_Arata"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 115960,
+                    "type": "manga",
+                    "name": "Todo no Tsumari no Uchouten",
+                    "url": "https://myanimelist.net/manga/115960/Todo_no_Tsumari_no_Uchouten"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://dengekidaioh.jp/product/amehare/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%9B%A8%E3%81%A7%E3%82%82%E6%99%B4%E3%82%8C%E3%81%A7%E3%82%82"
+        }
+    ]
+}

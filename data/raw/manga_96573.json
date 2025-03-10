@@ -1,0 +1,127 @@
+{
+    "mal_id": 96573,
+    "url": "https://myanimelist.net/manga/96573/Something_About_Us",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/189603.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/189603t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/189603l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/189603.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/189603t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/189603l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Something About Us"
+        },
+        {
+            "type": "Synonym",
+            "title": "Woori"
+        },
+        {
+            "type": "Synonym",
+            "title": "Our Relationship Is"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ulisaineueun"
+        },
+        {
+            "type": "Japanese",
+            "title": "우리사이느은"
+        },
+        {
+            "type": "English",
+            "title": "Something About Us"
+        }
+    ],
+    "title": "Something About Us",
+    "title_english": "Something About Us",
+    "title_japanese": "우리사이느은",
+    "title_synonyms": [
+        "Woori",
+        "Our Relationship Is",
+        "Ulisaineueun"
+    ],
+    "type": "Manhwa",
+    "chapters": 101,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-10-01T00:00:00+00:00",
+        "to": "2016-10-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 19,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "Oct 1, 2014 to Oct 19, 2016"
+    },
+    "score": 8.15,
+    "scored": 8.15,
+    "scored_by": 10260,
+    "rank": 505,
+    "popularity": 651,
+    "members": 29317,
+    "favorites": 758,
+    "synopsis": "They consider themselves the best of friends. Others seem to think otherwise. There's something about their relationship that's hard to describe. What will become of these two \"friends?\"\n\n(Source: Lezhin Entertainment)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 43225,
+            "type": "people",
+            "name": "Lee, Yunji",
+            "url": "https://myanimelist.net/people/43225/Yunji_Lee"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1273,
+            "type": "manga",
+            "name": "Lezhin Comics Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/1273/Lezhin_Comics_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.lezhin.com/ko/comic/woori"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EC%9A%B0%EB%A6%AC%EC%82%AC%EC%9D%B4%EB%8A%90%EC%9D%80"
+        }
+    ]
+}

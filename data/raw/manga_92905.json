@@ -1,0 +1,133 @@
+{
+    "mal_id": 92905,
+    "url": "https://myanimelist.net/manga/92905/Bakuman_Bangai-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/164254.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/164254t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/164254l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/164254.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/164254t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/164254l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bakuman. Bangai-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bakuman.: Age 13"
+        },
+        {
+            "type": "Synonym",
+            "title": "Age 14"
+        },
+        {
+            "type": "Japanese",
+            "title": "バクマン。 番外編"
+        }
+    ],
+    "title": "Bakuman. Bangai-hen",
+    "title_english": null,
+    "title_japanese": "バクマン。 番外編",
+    "title_synonyms": [
+        "Bakuman.: Age 13",
+        "Age 14"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-09-19T00:00:00+00:00",
+        "to": "2015-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 9,
+                "year": 2015
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Sep 19, 2015 to Sep 28, 2015"
+    },
+    "score": 7.42,
+    "scored": 7.42,
+    "scored_by": 1710,
+    "rank": 3691,
+    "popularity": 5696,
+    "members": 3782,
+    "favorites": 9,
+    "synopsis": "While most kids his age like to play around for fun, 13-year-old Akito Takagi is determined to find his ambition in life. Manga has been his sole source of inspiration since he was a child; he always engages in reading manga when he takes a break from studying. Within school, Takagi never misses a beat, ranking first in every exam he has taken. However, this does not stop him from constantly worrying about his future, and, despite his indifference, he hopes that he can finally find a true friend he can share his destiny with.\n\nSubsequently, spurred by his love for manga, Takagi resolves himself into becoming a manga author. But before he can begin pursuing his dream, he must overcome one problem—to find an artist who would be willing to make manga with him.\n\n[Written by MAL Rewrite]",
+    "background": "The chapters were released to commemorate the theatrical opening of the live-action Bakuman. film. They were collected in the artbook Eiga Bakuman. Obata Takeshi Illustration Works (映画バクマン。 小畑健イラストワークス) which was published on October 2, 2015.",
+    "authors": [
+        {
+            "mal_id": 1888,
+            "type": "people",
+            "name": "Obata, Takeshi",
+            "url": "https://myanimelist.net/people/1888/Takeshi_Obata"
+        },
+        {
+            "mal_id": 2111,
+            "type": "people",
+            "name": "Ohba, Tsugumi",
+            "url": "https://myanimelist.net/people/2111/Tsugumi_Ohba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 70,
+            "type": "manga",
+            "name": "Otaku Culture",
+            "url": "https://myanimelist.net/manga/genre/70/Otaku_Culture"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 9711,
+                    "type": "manga",
+                    "name": "Bakuman.",
+                    "url": "https://myanimelist.net/manga/9711/Bakuman"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

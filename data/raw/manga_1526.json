@@ -1,0 +1,150 @@
+{
+    "mal_id": 1526,
+    "url": "https://myanimelist.net/manga/1526/Daa_Daa_Daa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6832.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6832t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6832l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/6832.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/6832t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/6832l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Daa! Daa! Daa!"
+        },
+        {
+            "type": "Synonym",
+            "title": "UFO Baby"
+        },
+        {
+            "type": "Synonym",
+            "title": "Da! Da! Da!"
+        },
+        {
+            "type": "Japanese",
+            "title": "だぁ!だぁ!だぁ!"
+        }
+    ],
+    "title": "Daa! Daa! Daa!",
+    "title_english": null,
+    "title_japanese": "だぁ!だぁ!だぁ!",
+    "title_synonyms": [
+        "UFO Baby",
+        "Da! Da! Da!"
+    ],
+    "type": "Manga",
+    "chapters": 47,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-02-01T00:00:00+00:00",
+        "to": "2002-03-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 2,
+                "year": 1998
+            },
+            "to": {
+                "day": 1,
+                "month": 3,
+                "year": 2002
+            }
+        },
+        "string": "Feb 1998 to Mar 2002"
+    },
+    "score": 7.72,
+    "scored": 7.72,
+    "scored_by": 2325,
+    "rank": 1647,
+    "popularity": 4778,
+    "members": 4606,
+    "favorites": 80,
+    "synopsis": "Miyu is an 8th grade student. Her parents went working in NASA and they left Miyu. For a moment, Miyu was sent to stay with her Uncle. The first day when Miyu arrive to her Uncle house, her uncle decide to go to India and left Miyu with his son, Kanata. First time, Miyu thought she will stay in her uncle house only with Kanata. But this no longer happen. Soon, there is an UFO landed in Miyu's uncle house. Inside the UFO, there is an cute baby, name Ruu and with his babysister, Wannya...\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3739,
+            "type": "people",
+            "name": "Kawamura, Mika",
+            "url": "https://myanimelist.net/people/3739/Mika_Kawamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Nakayoshi",
+            "url": "https://myanimelist.net/manga/magazine/20/Nakayoshi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Childcare",
+            "url": "https://myanimelist.net/manga/genre/53/Childcare"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 3664,
+                    "type": "manga",
+                    "name": "Shin☆Daa! Daa! Daa!",
+                    "url": "https://myanimelist.net/manga/3664/Shin☆Daa_Daa_Daa"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 233,
+                    "type": "anime",
+                    "name": "Daa! Daa! Daa!",
+                    "url": "https://myanimelist.net/anime/233/Daa_Daa_Daa"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/だぁ!だぁ!だぁ!"
+        }
+    ]
+}

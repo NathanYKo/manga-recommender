@@ -1,0 +1,158 @@
+{
+    "mal_id": 1080,
+    "url": "https://myanimelist.net/manga/1080/Blood__The_Last_Vampire_2002",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/12321.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/12321t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/12321l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/12321.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/12321t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/12321l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Blood: The Last Vampire (2002)"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blood"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blood the Last Vampire"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blood the Last Vampire 2000"
+        },
+        {
+            "type": "Japanese",
+            "title": "ブラッド ザ・ラストヴァンパイア 2000"
+        },
+        {
+            "type": "English",
+            "title": "Blood: The Last Vampire 2002"
+        }
+    ],
+    "title": "Blood: The Last Vampire (2002)",
+    "title_english": "Blood: The Last Vampire 2002",
+    "title_japanese": "ブラッド ザ・ラストヴァンパイア 2000",
+    "title_synonyms": [
+        "Blood",
+        "Blood the Last Vampire",
+        "Blood the Last Vampire 2000"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 2001"
+    },
+    "score": 6.41,
+    "scored": 6.41,
+    "scored_by": 2356,
+    "rank": 17520,
+    "popularity": 4395,
+    "members": 5075,
+    "favorites": 36,
+    "synopsis": "In 2000, 39 years after the events of the movie, Saya hunts another den of Chiropterans, but the one in charge of the Chiropterans appears to be Saya's twin. Meanwhile, more is learned of Saya's relationship with the US Government, her origin and that of the US Government.",
+    "background": "Blood: The Last Vampire 2002 was published in English by VIZ Media on November 5, 2002.",
+    "authors": [
+        {
+            "mal_id": 2892,
+            "type": "people",
+            "name": "Tamaoki, Benkyou",
+            "url": "https://myanimelist.net/people/2892/Benkyou_Tamaoki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 105,
+            "type": "manga",
+            "name": "Ace Next",
+            "url": "https://myanimelist.net/manga/magazine/105/Ace_Next"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 405,
+                    "type": "anime",
+                    "name": "Blood: The Last Vampire",
+                    "url": "https://myanimelist.net/anime/405/Blood__The_Last_Vampire"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 782,
+                    "type": "manga",
+                    "name": "Blood+ Adagio",
+                    "url": "https://myanimelist.net/manga/782/Blood__Adagio"
+                },
+                {
+                    "mal_id": 747,
+                    "type": "manga",
+                    "name": "Blood+",
+                    "url": "https://myanimelist.net/manga/747/Blood_"
+                },
+                {
+                    "mal_id": 10411,
+                    "type": "manga",
+                    "name": "Blood+ Russian Rose",
+                    "url": "https://myanimelist.net/manga/10411/Blood__Russian_Rose"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Blood:_The_Last_Vampire"
+        }
+    ]
+}

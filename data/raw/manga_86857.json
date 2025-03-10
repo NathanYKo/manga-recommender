@@ -1,0 +1,111 @@
+{
+    "mal_id": 86857,
+    "url": "https://myanimelist.net/manga/86857/Barairo_no_Yakusoku",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/165825.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/165825t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/165825l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/165825.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/165825t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/165825l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Barairo no Yakusoku"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rose-Colored Promise"
+        },
+        {
+            "type": "Japanese",
+            "title": "薔薇色ノ約束"
+        }
+    ],
+    "title": "Barairo no Yakusoku",
+    "title_english": null,
+    "title_japanese": "薔薇色ノ約束",
+    "title_synonyms": [
+        "Rose-Colored Promise"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2014-12-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 12,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 24, 2014 to ?"
+    },
+    "score": 7.39,
+    "scored": 7.39,
+    "scored_by": 646,
+    "rank": 3974,
+    "popularity": 7499,
+    "members": 2764,
+    "favorites": 11,
+    "synopsis": "Set in a Taisho era-esque world. Iroha, the daughter of a good family, has just lost her father and was grieving in her garden when an arrogant but handsome man dressed in a military uniform trespasses and changes her life forever...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2558,
+            "type": "people",
+            "name": "Miyasaka, Kaho",
+            "url": "https://myanimelist.net/people/2558/Kaho_Miyasaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 124,
+            "type": "manga",
+            "name": "Cheese!",
+            "url": "https://myanimelist.net/manga/magazine/124/Cheese"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,125 @@
+{
+    "mal_id": 103001,
+    "url": "https://myanimelist.net/manga/103001/Meikyuu_Black_Company",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/195931.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/195931t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/195931l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/195931.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/195931t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/195931l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Meikyuu Black Company"
+        },
+        {
+            "type": "Japanese",
+            "title": "迷宮ブラックカンパニー"
+        },
+        {
+            "type": "English",
+            "title": "The Dungeon of Black Company"
+        }
+    ],
+    "title": "Meikyuu Black Company",
+    "title_english": "The Dungeon of Black Company",
+    "title_japanese": "迷宮ブラックカンパニー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-12-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 12,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 5, 2016 to ?"
+    },
+    "score": 6.85,
+    "scored": 6.85,
+    "scored_by": 1622,
+    "rank": 11425,
+    "popularity": 2813,
+    "members": 7953,
+    "favorites": 41,
+    "synopsis": "Kinji, who lacks any kind of work ethic, is a layabout in his modern life. One day, he finds himself transported to another world—but not in a grand fantasy of a hero welcomed with open arms. He's immediately shoved into a terrible job! Now enslaved by an evil mining company in a fantasy world, Kinji's about to really learn the meaning of hard work!\n\n(Source: Seven Seas Entertainment)",
+    "background": "Meikyuu Black Company has been published in English as The Dungeon of Black Company by Seven Seas Entertainment since May 22, 2018.",
+    "authors": [
+        {
+            "mal_id": 38833,
+            "type": "people",
+            "name": "Yasumura, Youhei",
+            "url": "https://myanimelist.net/people/38833/Youhei_Yasumura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1349,
+            "type": "manga",
+            "name": "MAGCOMI",
+            "url": "https://myanimelist.net/manga/magazine/1349/MAGCOMI"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 42340,
+                    "type": "anime",
+                    "name": "Meikyuu Black Company",
+                    "url": "https://myanimelist.net/anime/42340/Meikyuu_Black_Company"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic.mag-garden.co.jp/blackcompany/"
+        }
+    ]
+}

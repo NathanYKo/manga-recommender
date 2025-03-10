@@ -1,0 +1,123 @@
+{
+    "mal_id": 75859,
+    "url": "https://myanimelist.net/manga/75859/Shingeki_no_Kyojin__Kakuzetsu_Toshi_no_Joou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/134205.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/134205t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/134205l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/134205.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/134205t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/134205l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shingeki no Kyojin: Kakuzetsu Toshi no Joou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Attack on Titan: The Queen of the Isolated City"
+        },
+        {
+            "type": "Japanese",
+            "title": "進撃の巨人 隔絶都市の女王"
+        },
+        {
+            "type": "English",
+            "title": "Attack on Titan: The Harsh Mistress of the City"
+        }
+    ],
+    "title": "Shingeki no Kyojin: Kakuzetsu Toshi no Joou",
+    "title_english": "Attack on Titan: The Harsh Mistress of the City",
+    "title_japanese": "進撃の巨人 隔絶都市の女王",
+    "title_synonyms": [
+        "Attack on Titan: The Queen of the Isolated City"
+    ],
+    "type": "Light Novel",
+    "chapters": 7,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-08-01T00:00:00+00:00",
+        "to": "2015-05-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "to": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            }
+        },
+        "string": "Aug 1, 2014 to May 1, 2015"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 1214,
+    "rank": 4931,
+    "popularity": 4447,
+    "members": 5007,
+    "favorites": 56,
+    "synopsis": "The future that was taken for granted was broken by the attack of the Titans. Wall Maria was pierced, and even in the Quinta District where Mathias and his allies live, Titans appear. Due to this, the line of supplies is cut off from the country, and the citizens begin to panic. Rita, a soldier who had joined the brigade of occupation troops, tries to protect the town that has fallen into chaos, but due to the forceful methods the brigade put into action using actual Titans, the entire city becomes afraid. In order to meet up with Rita, Mathias takes the helping hands of a band of thieves...",
+    "background": "Shingeki no Kyojin: Kakuzetsu Toshi no Joou was published in English as Attack on Titan: The Harsh Mistress of the City by Vertical Inc.; physically from August 25 to September 29, 2015 and in audiobook format on June 1, 2016.",
+    "authors": [
+        {
+            "mal_id": 3445,
+            "type": "people",
+            "name": "Murata, Range",
+            "url": "https://myanimelist.net/people/3445/Range_Murata"
+        },
+        {
+            "mal_id": 33141,
+            "type": "people",
+            "name": "Akiguchi, Giggle",
+            "url": "https://myanimelist.net/people/33141/Giggle_Akiguchi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 23390,
+                    "type": "manga",
+                    "name": "Shingeki no Kyojin",
+                    "url": "https://myanimelist.net/manga/23390/Shingeki_no_Kyojin"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/attack-on-titan-the-harsh-mistress-of-the-city/"
+        }
+    ]
+}

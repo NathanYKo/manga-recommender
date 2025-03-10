@@ -1,0 +1,145 @@
+{
+    "mal_id": 10354,
+    "url": "https://myanimelist.net/manga/10354/Wangan_Midnight",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/213693.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/213693t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/213693l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/213693.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/213693t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/213693l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Wangan Midnight"
+        },
+        {
+            "type": "Japanese",
+            "title": "湾岸ミッドナイト"
+        }
+    ],
+    "title": "Wangan Midnight",
+    "title_english": null,
+    "title_japanese": "湾岸ミッドナイト",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 42,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1990-01-01T00:00:00+00:00",
+        "to": "2008-07-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1990
+            },
+            "to": {
+                "day": 28,
+                "month": 7,
+                "year": 2008
+            }
+        },
+        "string": "1990 to Jul 28, 2008"
+    },
+    "score": 7.54,
+    "scored": 7.54,
+    "scored_by": 523,
+    "rank": 2705,
+    "popularity": 6650,
+    "members": 3188,
+    "favorites": 95,
+    "synopsis": "When high school student Akio Asakura loses a high speed race to a Porsche 911 Turbo known as \"Blackbird,\" he goes to a junkyard to find parts for his car—only to discover a blue first-generation Datsun Fairlady Z (S30), which he buys. Akio later discovers that not only is the Z tuned to 620 bhp, it's had a dark history of unfortunate accidents with its previous owners. Making matters more complicated is the fact that the last owner shared the same name with Akio. With the \"Devil Z,\" Akio forms a new rivalry with the Blackbird and its driver Tatsuya Shima.\n\n(Source: ANN)",
+    "background": "Wangan Midnight won the 23rd Kodansha Manga Award in the General category. The series was adapted into various Japanese live-action films and video games.",
+    "authors": [
+        {
+            "mal_id": 3395,
+            "type": "people",
+            "name": "Kusunoki, Michiharu",
+            "url": "https://myanimelist.net/people/3395/Michiharu_Kusunoki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Racing",
+            "url": "https://myanimelist.net/manga/genre/3/Racing"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 89400,
+                    "type": "manga",
+                    "name": "Wangan Midnight: C1 Runner",
+                    "url": "https://myanimelist.net/manga/89400/Wangan_Midnight__C1_Runner"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2608,
+                    "type": "anime",
+                    "name": "Wangan Midnight",
+                    "url": "https://myanimelist.net/anime/2608/Wangan_Midnight"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%B9%BE%E5%B2%B8%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88"
+        }
+    ]
+}

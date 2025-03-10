@@ -1,0 +1,146 @@
+{
+    "mal_id": 36277,
+    "url": "https://myanimelist.net/manga/36277/Time_Killers",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/65561.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/65561t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/65561l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/65561.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/65561t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/65561l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Time Killers"
+        },
+        {
+            "type": "Synonym",
+            "title": "Miyama Uguisu Yashika Jiken"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Miyama-Uguisu Mansion Incident"
+        },
+        {
+            "type": "Synonym",
+            "title": "Time Killers: Kazue Kato Short Story Collection"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hoshi Ota"
+        },
+        {
+            "type": "Synonym",
+            "title": "Astronerd"
+        },
+        {
+            "type": "Japanese",
+            "title": "TIME KILLERS 加藤和恵短編集"
+        },
+        {
+            "type": "English",
+            "title": "Time Killers: Kazue Kato Short Story Collection"
+        }
+    ],
+    "title": "Time Killers",
+    "title_english": "Time Killers: Kazue Kato Short Story Collection",
+    "title_japanese": "TIME KILLERS 加藤和恵短編集",
+    "title_synonyms": [
+        "Miyama Uguisu Yashika Jiken",
+        "The Miyama-Uguisu Mansion Incident",
+        "Time Killers: Kazue Kato Short Story Collection",
+        "Hoshi Ota",
+        "Astronerd"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-08-01T00:00:00+00:00",
+        "to": "2008-09-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 2000
+            },
+            "to": {
+                "day": 1,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Aug 2000 to Sep 2008"
+    },
+    "score": 7.37,
+    "scored": 7.37,
+    "scored_by": 3313,
+    "rank": 4158,
+    "popularity": 2793,
+    "members": 8023,
+    "favorites": 39,
+    "synopsis": "A collection of one shots by Kato Kazue, including the original pilot for Ao no Exorcist.\n\n1. Boku to Usagi\n2. Akanasu\n3. Akai Daichi ni Umareta Senshi no Hanashi\n4. USA Boy!!!\n5. Hime Goro mo Torisetsu Manga\n6. Jinsei Kaidou Hagure Hoshi\n7. Nirai\n8. Nushi to Bou\n9. Otome no Inori\n10. HoshiOta (Astronerd)\n11. Miyama Uguisutei Jiken (Ao no Exorcist pilot)",
+    "background": "Time Killers was published in English by VIZ Media under the Shonen Jump imprint on September 2, 2014 and in Italian by Panini Comics under the Planet Manga imprint on May 10, 2014.",
+    "authors": [
+        {
+            "mal_id": 8052,
+            "type": "people",
+            "name": "Katou, Kazue",
+            "url": "https://myanimelist.net/people/8052/Kazue_Katou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 161,
+            "type": "manga",
+            "name": "Jump SQ.",
+            "url": "https://myanimelist.net/manga/magazine/161/Jump_SQ"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 13492,
+                    "type": "manga",
+                    "name": "Ao no Exorcist",
+                    "url": "https://myanimelist.net/manga/13492/Ao_no_Exorcist"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

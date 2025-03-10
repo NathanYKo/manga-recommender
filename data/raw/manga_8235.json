@@ -1,0 +1,184 @@
+{
+    "mal_id": 8235,
+    "url": "https://myanimelist.net/manga/8235/Muv-Luv_Unlimited",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/135019.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/135019t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/135019l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/135019.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/135019t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/135019l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Muv-Luv Unlimited"
+        },
+        {
+            "type": "Synonym",
+            "title": "MuvLuv Unlimited"
+        },
+        {
+            "type": "Japanese",
+            "title": "マブラヴ アンリミテッド"
+        }
+    ],
+    "title": "Muv-Luv Unlimited",
+    "title_english": null,
+    "title_japanese": "マブラヴ アンリミテッド",
+    "title_synonyms": [
+        "MuvLuv Unlimited"
+    ],
+    "type": "Manga",
+    "chapters": 30,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-01-01T00:00:00+00:00",
+        "to": "2007-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "2004 to 2007"
+    },
+    "score": 7.11,
+    "scored": 7.11,
+    "scored_by": 1258,
+    "rank": 7304,
+    "popularity": 6120,
+    "members": 3506,
+    "favorites": 24,
+    "synopsis": "One day, boarding school student Takeru awakes to find himself in another world, one threatened by mysterious invaders. He soon learns that his only chance of returning home is to join forces with a group of beautiful female warriors, most of them mirror images of classmates and friends.\n\n(Source: Animaxis)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 17889,
+            "type": "people",
+            "name": "Age",
+            "url": "https://myanimelist.net/people/17889/Age"
+        },
+        {
+            "mal_id": 17893,
+            "type": "people",
+            "name": "Hirokawa, Tomo",
+            "url": "https://myanimelist.net/people/17893/Tomo_Hirokawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 4208,
+                    "type": "manga",
+                    "name": "Muv-Luv",
+                    "url": "https://myanimelist.net/manga/4208/Muv-Luv"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 17365,
+                    "type": "manga",
+                    "name": "Muv-Luv Alternative",
+                    "url": "https://myanimelist.net/manga/17365/Muv-Luv_Alternative"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 78337,
+                    "type": "manga",
+                    "name": "Muv-Luv",
+                    "url": "https://myanimelist.net/manga/78337/Muv-Luv"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.muvluv.com/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Muv-Luv#Muv-Luv_Unlimited"
+        }
+    ]
+}

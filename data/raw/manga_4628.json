@@ -1,0 +1,174 @@
+{
+    "mal_id": 4628,
+    "url": "https://myanimelist.net/manga/4628/Shin_Yami_no_Koe__Kaidan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/235816.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/235816t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/235816l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/235816.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/235816t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/235816l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shin Yami no Koe: Kaidan"
+        },
+        {
+            "type": "Synonym",
+            "title": "New Voices in the Dark"
+        },
+        {
+            "type": "Synonym",
+            "title": "Souichi Zensen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Souichi no Aigan Doubutsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Awase Kagamidani nite"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yuurei ni Naritakunai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Zousho Genei"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yami no Zesshou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Smashed: Junji Ito Story Collection"
+        },
+        {
+            "type": "Japanese",
+            "title": "新・闇の声 潰談"
+        }
+    ],
+    "title": "Shin Yami no Koe: Kaidan",
+    "title_english": null,
+    "title_japanese": "新・闇の声 潰談",
+    "title_synonyms": [
+        "New Voices in the Dark",
+        "Souichi Zensen",
+        "Souichi no Aigan Doubutsu",
+        "Awase Kagamidani nite",
+        "Yuurei ni Naritakunai",
+        "Zousho Genei",
+        "Yami no Zesshou",
+        "Smashed: Junji Ito Story Collection"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-10-13T00:00:00+00:00",
+        "to": "2006-08-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 10,
+                "year": 2004
+            },
+            "to": {
+                "day": 12,
+                "month": 8,
+                "year": 2006
+            }
+        },
+        "string": "Oct 13, 2004 to Aug 12, 2006"
+    },
+    "score": 7.49,
+    "scored": 7.49,
+    "scored_by": 8589,
+    "rank": 3028,
+    "popularity": 1210,
+    "members": 16814,
+    "favorites": 83,
+    "synopsis": "1. Souichi Zensen\n2. Souichi no Aigan Doubutsu\n3. Awase Kagamidani nite\n4. Yuurei ni Naritakunai\n5. Zousho Genei\n6. Yami no Zesshou\n7. Kaidan",
+    "background": "Shin Yami no Koe: Kaidan was published in English by VIZ Media as part of Smashed: Junji Ito Story Collection on April 16, 2019. The series was also published in Spanish by Ediciones Tomodomo on December 12, 2016; and in Brazilian Portuguese by Pipoca & Nanquim on April 20, 2023.",
+    "authors": [
+        {
+            "mal_id": 2410,
+            "type": "people",
+            "name": "Itou, Junji",
+            "url": "https://myanimelist.net/people/2410/Junji_Itou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 187,
+            "type": "manga",
+            "name": "Nemuki",
+            "url": "https://myanimelist.net/manga/magazine/187/Nemuki"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 3126,
+                    "type": "manga",
+                    "name": "Yami no Koe",
+                    "url": "https://myanimelist.net/manga/3126/Yami_no_Koe"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 36124,
+                    "type": "anime",
+                    "name": "Itou Junji: Collection",
+                    "url": "https://myanimelist.net/anime/36124/Itou_Junji__Collection"
+                },
+                {
+                    "mal_id": 52031,
+                    "type": "anime",
+                    "name": "Itou Junji: Maniac",
+                    "url": "https://myanimelist.net/anime/52031/Itou_Junji__Maniac"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

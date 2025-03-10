@@ -1,0 +1,109 @@
+{
+    "mal_id": 122869,
+    "url": "https://myanimelist.net/manga/122869/Kanojo_no_Idea",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/226052.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/226052t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/226052l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/226052.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/226052t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/226052l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kanojo no Idea"
+        },
+        {
+            "type": "Synonym",
+            "title": "Your True Color"
+        },
+        {
+            "type": "Japanese",
+            "title": "彼女のイデア"
+        }
+    ],
+    "title": "Kanojo no Idea",
+    "title_english": null,
+    "title_japanese": "彼女のイデア",
+    "title_synonyms": [
+        "Your True Color"
+    ],
+    "type": "Manga",
+    "chapters": 19,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-05-11T00:00:00+00:00",
+        "to": "2020-12-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 5,
+                "year": 2019
+            },
+            "to": {
+                "day": 5,
+                "month": 12,
+                "year": 2020
+            }
+        },
+        "string": "May 11, 2019 to Dec 5, 2020"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 1137,
+    "rank": 5172,
+    "popularity": 7361,
+    "members": 2820,
+    "favorites": 11,
+    "synopsis": "Hinata idolizes the dazzling actress Sumika, until one day she runs into the real deal, who is nothing like her ideal.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 21291,
+            "type": "people",
+            "name": "Fuyume, Saya",
+            "url": "https://myanimelist.net/people/21291/Saya_Fuyume"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1527,
+            "type": "manga",
+            "name": "Web DenPlay Comic",
+            "url": "https://myanimelist.net/manga/magazine/1527/Web_DenPlay_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-walker.com/contents/detail/KDCW_AM00000017010000_68/"
+        }
+    ]
+}

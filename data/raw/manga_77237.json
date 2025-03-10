@@ -1,0 +1,127 @@
+{
+    "mal_id": 77237,
+    "url": "https://myanimelist.net/manga/77237/Ao_Haru_Ride__Special_Booklet",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/133539.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/133539t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/133539l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/133539.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/133539t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/133539l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ao Haru Ride: Special Booklet"
+        },
+        {
+            "type": "Synonym",
+            "title": "Blue Spring Ride Special"
+        },
+        {
+            "type": "Synonym",
+            "title": "Aoharaido Special"
+        },
+        {
+            "type": "Japanese",
+            "title": "アオハライド SPECIAL BOOKLET"
+        }
+    ],
+    "title": "Ao Haru Ride: Special Booklet",
+    "title_english": null,
+    "title_japanese": "アオハライド SPECIAL BOOKLET",
+    "title_synonyms": [
+        "Blue Spring Ride Special",
+        "Aoharaido Special"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-05-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 5,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 23, 2014"
+    },
+    "score": 7.41,
+    "scored": 7.41,
+    "scored_by": 2036,
+    "rank": 3727,
+    "popularity": 4531,
+    "members": 4892,
+    "favorites": 19,
+    "synopsis": "Short story about Futaba preparing for the leaders camp.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4142,
+            "type": "people",
+            "name": "Sakisaka, Io",
+            "url": "https://myanimelist.net/people/4142/Io_Sakisaka"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 24294,
+                    "type": "manga",
+                    "name": "Ao Haru Ride",
+                    "url": "https://myanimelist.net/manga/24294/Ao_Haru_Ride"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

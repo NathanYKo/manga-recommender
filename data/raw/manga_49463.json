@@ -1,0 +1,132 @@
+{
+    "mal_id": 49463,
+    "url": "https://myanimelist.net/manga/49463/Koigokoro",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/109193.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/109193t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/109193l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/109193.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/109193t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/109193l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koigokoro"
+        },
+        {
+            "type": "Synonym",
+            "title": "Heart of Love"
+        },
+        {
+            "type": "Japanese",
+            "title": "恋心"
+        }
+    ],
+    "title": "Koigokoro",
+    "title_english": null,
+    "title_japanese": "恋心",
+    "title_synonyms": [
+        "Heart of Love"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-12-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 12,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 24, 2011"
+    },
+    "score": 7.86,
+    "scored": 7.86,
+    "scored_by": 2514,
+    "rank": null,
+    "popularity": 4365,
+    "members": 5124,
+    "favorites": 15,
+    "synopsis": "Saki and Jun's love story continues...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 14801,
+            "type": "people",
+            "name": "Kanda, Neko",
+            "url": "https://myanimelist.net/people/14801/Neko_Kanda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 156,
+            "type": "manga",
+            "name": "drap",
+            "url": "https://myanimelist.net/manga/magazine/156/drap"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 32035,
+                    "type": "manga",
+                    "name": "Koibitogokoro",
+                    "url": "https://myanimelist.net/manga/32035/Koibitogokoro"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 52021,
+                    "type": "manga",
+                    "name": "Tokimekigokoro",
+                    "url": "https://myanimelist.net/manga/52021/Tokimekigokoro"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

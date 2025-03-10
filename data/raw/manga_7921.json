@@ -1,0 +1,183 @@
+{
+    "mal_id": 7921,
+    "url": "https://myanimelist.net/manga/7921/Garouden",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/76259.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/76259t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/76259l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/76259.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/76259t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/76259l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Garouden"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ga-rou-den"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ga-Ro-Den"
+        },
+        {
+            "type": "Synonym",
+            "title": "Legend of the Hungry Wolves"
+        },
+        {
+            "type": "Japanese",
+            "title": "餓狼伝"
+        }
+    ],
+    "title": "Garouden",
+    "title_english": null,
+    "title_japanese": "餓狼伝",
+    "title_synonyms": [
+        "Ga-rou-den",
+        "Ga-Ro-Den",
+        "Legend of the Hungry Wolves"
+    ],
+    "type": "Manga",
+    "chapters": 238,
+    "volumes": 25,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "1996-06-26T00:00:00+00:00",
+        "to": "2010-10-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 6,
+                "year": 1996
+            },
+            "to": {
+                "day": 12,
+                "month": 10,
+                "year": 2010
+            }
+        },
+        "string": "Jun 26, 1996 to Oct 12, 2010"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 1051,
+    "rank": 8576,
+    "popularity": 5744,
+    "members": 3751,
+    "favorites": 32,
+    "synopsis": "The central plot revolves around a man named Bunshichi Tanba, a dojo-crasher who seeks stronger fighters to prove his strength to himself. While traveling to several schools and challenging the best each had to offer, Tanba came to the FAW (a gym that trains pro-wrestlers) and is pitted against T. Kajiwara. Tanba is defeated and humiliated after realizing that he is not strong enough and disappears for 3 years. Upon his return, he has become nearly unbeatable.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2026,
+            "type": "people",
+            "name": "Yumemakura, Baku",
+            "url": "https://myanimelist.net/people/2026/Baku_Yumemakura"
+        },
+        {
+            "mal_id": 4488,
+            "type": "people",
+            "name": "Itagaki, Keisuke",
+            "url": "https://myanimelist.net/people/4488/Keisuke_Itagaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 171,
+            "type": "manga",
+            "name": "Evening",
+            "url": "https://myanimelist.net/manga/magazine/171/Evening"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 106050,
+                    "type": "manga",
+                    "name": "Shin Garouden",
+                    "url": "https://myanimelist.net/manga/106050/Shin_Garouden"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 20649,
+                    "type": "manga",
+                    "name": "Garouden",
+                    "url": "https://myanimelist.net/manga/20649/Garouden"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 15998,
+                    "type": "manga",
+                    "name": "Garouden Boy",
+                    "url": "https://myanimelist.net/manga/15998/Garouden_Boy"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 125171,
+                    "type": "manga",
+                    "name": "Yuuenchi: Baki Gaiden",
+                    "url": "https://myanimelist.net/manga/125171/Yuuenchi__Baki_Gaiden"
+                },
+                {
+                    "mal_id": 158893,
+                    "type": "manga",
+                    "name": "Manga Yuuenchi: Baki Gaiden",
+                    "url": "https://myanimelist.net/manga/158893/Manga_Yuuenchi__Baki_Gaiden"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%A4%93%E7%8B%BC%E4%BC%9D"
+        }
+    ]
+}

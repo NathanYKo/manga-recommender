@@ -1,0 +1,104 @@
+{
+    "mal_id": 4134,
+    "url": "https://myanimelist.net/manga/4134/SOLD_OUT",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/4800.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/4800t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/4800l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/4800.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/4800t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/4800l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "SOLD OUT!"
+        },
+        {
+            "type": "Japanese",
+            "title": "ソールドアウト！"
+        }
+    ],
+    "title": "SOLD OUT!",
+    "title_english": null,
+    "title_japanese": "ソールドアウト！",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2005"
+    },
+    "score": 6.7,
+    "scored": 6.7,
+    "scored_by": 1660,
+    "rank": 13784,
+    "popularity": 7153,
+    "members": 2929,
+    "favorites": 6,
+    "synopsis": "Ina wants to meet a normal boy, so she asks her best friend, Mako, for help. At first, they went shopping in the new \"Se Rejouir\". There, Ina suddenly confesses her love to the Manager. Is that the romantic beginning of a love story?\n\n(Source: MangaUpdates)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3572,
+            "type": "people",
+            "name": "Kenjo, Sakura",
+            "url": "https://myanimelist.net/people/3572/Sakura_Kenjo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Margaret",
+            "url": "https://myanimelist.net/manga/magazine/17/Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

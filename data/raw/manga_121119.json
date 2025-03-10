@@ -1,0 +1,132 @@
+{
+    "mal_id": 121119,
+    "url": "https://myanimelist.net/manga/121119/Kimetsu_no_Yaiba__Kataha_no_Chou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/229953.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/229953t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/229953l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/229953.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/229953t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/229953l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimetsu no Yaiba: Kataha no Chou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimetsu no Yaiba: One-Winged Butterfly"
+        },
+        {
+            "type": "Japanese",
+            "title": "鬼滅の刃 片羽の蝶"
+        },
+        {
+            "type": "English",
+            "title": "Demon Slayer: Kimetsu no Yaiba - One-Winged Butterfly"
+        }
+    ],
+    "title": "Kimetsu no Yaiba: Kataha no Chou",
+    "title_english": "Demon Slayer: Kimetsu no Yaiba - One-Winged Butterfly",
+    "title_japanese": "鬼滅の刃 片羽の蝶",
+    "title_synonyms": [
+        "Kimetsu no Yaiba: One-Winged Butterfly"
+    ],
+    "type": "Light Novel",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2019-10-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 4, 2019"
+    },
+    "score": 7.63,
+    "scored": 7.63,
+    "scored_by": 1130,
+    "rank": 2161,
+    "popularity": 5461,
+    "members": 3992,
+    "favorites": 42,
+    "synopsis": "Shinobu and Kanae ask Himejima to teach them how to slay demons. After he refuses, they must complete the impossible task of moving a giant rock to convince him to introduce them to trainers. In other tales, Zenitsu tricks Inosuke into helping him dig a hot spring under Uzui's training, Mitsuri grapples with her reason for becoming a Demon Slayer, Genya discusses his family with Sumi, the Hashiras try to make Tomioka smile, and Kimetsu Academy forms a rock band—much to Shinobu's chagrin!\n\n(Source: VIZ Media)",
+    "background": "Kimetsu no Yaiba: Kataha no Chou was published in English as Demon Slayer: Kimetsu no Yaiba - One-Winged Butterfly by VIZ Media under the Shonen Jump imprint on February 28, 2023.",
+    "authors": [
+        {
+            "mal_id": 18635,
+            "type": "people",
+            "name": "Yajima, Aya",
+            "url": "https://myanimelist.net/people/18635/Aya_Yajima"
+        },
+        {
+            "mal_id": 40398,
+            "type": "people",
+            "name": "Gotouge, Koyoharu",
+            "url": "https://myanimelist.net/people/40398/Koyoharu_Gotouge"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 96792,
+                    "type": "manga",
+                    "name": "Kimetsu no Yaiba",
+                    "url": "https://myanimelist.net/manga/96792/Kimetsu_no_Yaiba"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

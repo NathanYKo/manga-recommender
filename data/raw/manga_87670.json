@@ -1,0 +1,110 @@
+{
+    "mal_id": 87670,
+    "url": "https://myanimelist.net/manga/87670/Kiriko",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/152620.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/152620t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/152620l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/152620.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/152620t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/152620l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kiriko"
+        },
+        {
+            "type": "Japanese",
+            "title": "切子"
+        }
+    ],
+    "title": "Kiriko",
+    "title_english": null,
+    "title_japanese": "切子",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-08-25T00:00:00+00:00",
+        "to": "2014-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 8,
+                "year": 2014
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Aug 25, 2014 to Dec 25, 2014"
+    },
+    "score": 5.64,
+    "scored": 5.64,
+    "scored_by": 3235,
+    "rank": 20257,
+    "popularity": 3409,
+    "members": 6562,
+    "favorites": 11,
+    "synopsis": "A small group of adults have been invited to a reunion at their old highschool to remember the loss of their classmate Kiriko, after receiving a letter \"From K.\"\n\nNot knowing who \"K\" is, Ryosuke, a young man with short black hair that used to know Kiriko, has to uncover the truth of Kiriko's mysterious death. As he slowly regains his memories as his fellow classmates start suddenly dying around him in the most horrific manner, he realises that it's far too late to say sorry.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5444,
+            "type": "people",
+            "name": "Honda, Shingo",
+            "url": "https://myanimelist.net/people/5444/Shingo_Honda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 910,
+            "type": "manga",
+            "name": "Bessatsu Manga Goraku",
+            "url": "https://myanimelist.net/manga/magazine/910/Bessatsu_Manga_Goraku"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 120669,
+                    "type": "manga",
+                    "name": "Kiriko Kill",
+                    "url": "https://myanimelist.net/manga/120669/Kiriko_Kill"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

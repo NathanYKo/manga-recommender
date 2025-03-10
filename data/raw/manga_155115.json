@@ -1,0 +1,140 @@
+{
+    "mal_id": 155115,
+    "url": "https://myanimelist.net/manga/155115/Solo_Leveling_Side_Story",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/275479.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/275479t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/275479l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/275479.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/275479t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/275479l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Solo Leveling Side Story"
+        },
+        {
+            "type": "Synonym",
+            "title": "Na Honjaman Level Up Oejeon"
+        },
+        {
+            "type": "Japanese",
+            "title": "나 혼자만 레벨업 외전"
+        }
+    ],
+    "title": "Solo Leveling Side Story",
+    "title_english": null,
+    "title_japanese": "나 혼자만 레벨업 외전",
+    "title_synonyms": [
+        "Na Honjaman Level Up Oejeon"
+    ],
+    "type": "Novel",
+    "chapters": 12,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-04-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 18, 2018"
+    },
+    "score": 7.9,
+    "scored": 7.9,
+    "scored_by": 1887,
+    "rank": 1006,
+    "popularity": 6024,
+    "members": 3568,
+    "favorites": 29,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 49667,
+            "type": "people",
+            "name": "Chugong",
+            "url": "https://myanimelist.net/people/49667/Chugong"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 119184,
+                    "type": "manga",
+                    "name": "Solo Leveling",
+                    "url": "https://myanimelist.net/manga/119184/Solo_Leveling"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://page.kakao.com/home?seriesId=48787313"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ko.wikipedia.org/wiki/%EB%82%98_%ED%98%BC%EC%9E%90%EB%A7%8C_%EB%A0%88%EB%B2%A8%EC%97%85"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EB%82%98%20%ED%98%BC%EC%9E%90%EB%A7%8C%20%EB%A0%88%EB%B2%A8%EC%97%85"
+        }
+    ]
+}

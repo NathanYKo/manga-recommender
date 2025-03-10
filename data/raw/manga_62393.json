@@ -1,0 +1,140 @@
+{
+    "mal_id": 62393,
+    "url": "https://myanimelist.net/manga/62393/Yankee-kun_na_Yamada-kun_to_Megane-chan_to_Majo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/109759.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/109759t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/109759l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/109759.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/109759t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/109759l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yankee-kun na Yamada-kun to Megane-chan to Majo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Megane-chan to 7-nin no Majo"
+        },
+        {
+            "type": "Japanese",
+            "title": "ヤンキー君な山田くんとメガネちゃんと魔女"
+        }
+    ],
+    "title": "Yankee-kun na Yamada-kun to Megane-chan to Majo",
+    "title_english": null,
+    "title_japanese": "ヤンキー君な山田くんとメガネちゃんと魔女",
+    "title_synonyms": [
+        "Megane-chan to 7-nin no Majo"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-12-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 12,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 20, 2013"
+    },
+    "score": 6.89,
+    "scored": 6.89,
+    "scored_by": 1467,
+    "rank": 10663,
+    "popularity": 6486,
+    "members": 3281,
+    "favorites": 16,
+    "synopsis": "Oneshot crossover between Yankee-kun to Megane-chan and Yamada-kun to 7-nin no Majo.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3703,
+            "type": "people",
+            "name": "Yoshikawa, Miki",
+            "url": "https://myanimelist.net/people/3703/Miki_Yoshikawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 128,
+            "type": "manga",
+            "name": "Magazine Special",
+            "url": "https://myanimelist.net/manga/magazine/128/Magazine_Special"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 30641,
+                    "type": "anime",
+                    "name": "Yankee-kun na Yamada-kun to Megane-chan to Majo",
+                    "url": "https://myanimelist.net/anime/30641/Yankee-kun_na_Yamada-kun_to_Megane-chan_to_Majo"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 3537,
+                    "type": "manga",
+                    "name": "Yankee-kun to Megane-chan",
+                    "url": "https://myanimelist.net/manga/3537/Yankee-kun_to_Megane-chan"
+                },
+                {
+                    "mal_id": 35003,
+                    "type": "manga",
+                    "name": "Yamada-kun to 7-nin no Majo",
+                    "url": "https://myanimelist.net/manga/35003/Yamada-kun_to_7-nin_no_Majo"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

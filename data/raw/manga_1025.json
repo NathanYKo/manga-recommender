@@ -1,0 +1,161 @@
+{
+    "mal_id": 1025,
+    "url": "https://myanimelist.net/manga/1025/-6mm_no_Taboo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/11878.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/11878t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/11878l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/11878.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/11878t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/11878l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "-6mm no Taboo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Half Moon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Private Gallery"
+        },
+        {
+            "type": "Synonym",
+            "title": "Lover's Return"
+        },
+        {
+            "type": "Synonym",
+            "title": "Night of Dismantlement"
+        },
+        {
+            "type": "Synonym",
+            "title": "Neji no Kaiten EX"
+        },
+        {
+            "type": "Synonym",
+            "title": "Minus 6mm no Kinki"
+        },
+        {
+            "type": "Japanese",
+            "title": "-6mmの禁忌〈タブー〉"
+        },
+        {
+            "type": "English",
+            "title": "-6mm no Taboo"
+        }
+    ],
+    "title": "-6mm no Taboo",
+    "title_english": "-6mm no Taboo",
+    "title_japanese": "-6mmの禁忌〈タブー〉",
+    "title_synonyms": [
+        "Half Moon",
+        "Private Gallery",
+        "Lover's Return",
+        "Night of Dismantlement",
+        "Neji no Kaiten EX",
+        "Minus 6mm no Kinki"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-07-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 7,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 31, 2006"
+    },
+    "score": 6.31,
+    "scored": 6.31,
+    "scored_by": 1265,
+    "rank": null,
+    "popularity": 8107,
+    "members": 2519,
+    "favorites": 6,
+    "synopsis": "1. Half Moon\n2. Private Gallery\n3. Lover's Return\n4. Night of Dismantlement\n5. -6mm no Taboo\n6. Neji no Kaiten EX",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2542,
+            "type": "people",
+            "name": "Sadahiro, Mika",
+            "url": "https://myanimelist.net/people/2542/Mika_Sadahiro"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 130,
+            "type": "manga",
+            "name": "June Comics",
+            "url": "https://myanimelist.net/manga/magazine/130/June_Comics"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 1998,
+                    "type": "manga",
+                    "name": "Neji no Kaiten",
+                    "url": "https://myanimelist.net/manga/1998/Neji_no_Kaiten"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 1998,
+                    "type": "manga",
+                    "name": "Neji no Kaiten",
+                    "url": "https://myanimelist.net/manga/1998/Neji_no_Kaiten"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

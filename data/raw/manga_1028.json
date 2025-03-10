@@ -1,0 +1,161 @@
+{
+    "mal_id": 1028,
+    "url": "https://myanimelist.net/manga/1028/Koukaku_Kidoutai_15__Human-Error_Processer",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/175989.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/175989t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/175989l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/175989.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/175989t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/175989l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koukaku Kidoutai 1.5: Human-Error Processer"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ghost in the Shell 1.5: Human-Error Processor"
+        },
+        {
+            "type": "Japanese",
+            "title": "攻殻機動隊1.5 HUMAN-ERROR PROCESSER"
+        },
+        {
+            "type": "English",
+            "title": "The Ghost in the Shell 1.5"
+        }
+    ],
+    "title": "Koukaku Kidoutai 1.5: Human-Error Processer",
+    "title_english": "The Ghost in the Shell 1.5",
+    "title_japanese": "攻殻機動隊1.5 HUMAN-ERROR PROCESSER",
+    "title_synonyms": [
+        "Ghost in the Shell 1.5: Human-Error Processor"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1991-01-01T00:00:00+00:00",
+        "to": "1996-07-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1991
+            },
+            "to": {
+                "day": 15,
+                "month": 7,
+                "year": 1996
+            }
+        },
+        "string": "1991 to Jul 15, 1996"
+    },
+    "score": 7.31,
+    "scored": 7.31,
+    "scored_by": 3232,
+    "rank": 4766,
+    "popularity": 2483,
+    "members": 8863,
+    "favorites": 67,
+    "synopsis": "Ghost in the Shell 1.5: Human-Error Processor presents the \"lost\" Ghost in the Shell stories, created by Shirow Masamune after completing work on the original Ghost in the Shell manga and prior to his tour-de-force, Ghost in the Shell 2: Man-Machine Interface, but never collected until now. Focusing on Section 9 agents in their daily battle against technocrime, Human-Error Processor has all the mind-twisting cybermadness you've come to expect from Ghost in the Shell but set in a more police-procedural context with action and suspense galore.\n\n(Source: Dark Horse Comics)",
+    "background": "Koukaku Kidoutai 1.5: Human-Error Processer contains four chapters previously released, but not published in tankoubon format. The original edition released on July 23, 2003, contained a booklet and a CD-ROM featuring the full stories and adding music to the manga scenes, as well as a screensaver. The series was published in English as The Ghost in the Shell 1.5 by Dark Horse Comics, initially as eight individual comic issues from November 1, 2006, to June 6, 2007, and later into a single volume on October 10, 2007. Kodansha Comics USA picked up the license and republished it on September 25, 2012. It was also released in Brazilian Portuguese by Editora JBC on December 19, 2019.",
+    "authors": [
+        {
+            "mal_id": 2609,
+            "type": "people",
+            "name": "Shirow, Masamune",
+            "url": "https://myanimelist.net/people/2609/Masamune_Shirow"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1023,
+                    "type": "manga",
+                    "name": "Koukaku Kidoutai: The Ghost in the Shell",
+                    "url": "https://myanimelist.net/manga/1023/Koukaku_Kidoutai__The_Ghost_in_the_Shell"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 121505,
+                    "type": "manga",
+                    "name": "Koukaku Kidoutai: The Human Algorithm",
+                    "url": "https://myanimelist.net/manga/121505/Koukaku_Kidoutai__The_Human_Algorithm"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A1.5_HUMAN-ERROR_PROCESSER"
+        }
+    ]
+}

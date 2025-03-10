@@ -1,0 +1,134 @@
+{
+    "mal_id": 142997,
+    "url": "https://myanimelist.net/manga/142997/The_Fable__The_Second_Contact",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/254075.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/254075t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/254075l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/254075.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/254075t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/254075l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "The Fable: The Second Contact"
+        },
+        {
+            "type": "Japanese",
+            "title": "ザ・ファブル The second contact"
+        },
+        {
+            "type": "English",
+            "title": "The Fable: The Second Contact"
+        }
+    ],
+    "title": "The Fable: The Second Contact",
+    "title_english": "The Fable: The Second Contact",
+    "title_japanese": "ザ・ファブル The second contact",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 86,
+    "volumes": 9,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2021-07-19T00:00:00+00:00",
+        "to": "2023-07-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 7,
+                "year": 2021
+            },
+            "to": {
+                "day": 10,
+                "month": 7,
+                "year": 2023
+            }
+        },
+        "string": "Jul 19, 2021 to Jul 10, 2023"
+    },
+    "score": 7.95,
+    "scored": 7.95,
+    "scored_by": 3338,
+    "rank": 862,
+    "popularity": 2779,
+    "members": 8057,
+    "favorites": 52,
+    "synopsis": "The story is set about one year after the ending to The Fable. Akira and Youko are forced to abort their latest mission due to the Covid-19 pandemic and return to Osaka to continue their quiet life as regular civilians, but the peace is not to last.\n\n(Source: MU)",
+    "background": "The Fable: The Second Contact was published digitally as an English simulpub through K Manga.",
+    "authors": [
+        {
+            "mal_id": 25249,
+            "type": "people",
+            "name": "Minami, Katsuhisa",
+            "url": "https://myanimelist.net/people/25249/Katsuhisa_Minami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 69,
+            "type": "manga",
+            "name": "Organized Crime",
+            "url": "https://myanimelist.net/manga/genre/69/Organized_Crime"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 87844,
+                    "type": "manga",
+                    "name": "The Fable",
+                    "url": "https://myanimelist.net/manga/87844/The_Fable"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/the_fable_2nd/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Fable"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%83%95%E3%82%A1%E3%83%96%E3%83%AB"
+        }
+    ]
+}

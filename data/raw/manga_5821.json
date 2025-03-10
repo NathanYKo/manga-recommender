@@ -1,0 +1,155 @@
+{
+    "mal_id": 5821,
+    "url": "https://myanimelist.net/manga/5821/Zettai_Karen_Children",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/231867.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/231867t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/231867l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/231867.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/231867t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/231867l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zettai Karen Children"
+        },
+        {
+            "type": "Japanese",
+            "title": "絶対可憐チルドレン"
+        }
+    ],
+    "title": "Zettai Karen Children",
+    "title_english": null,
+    "title_japanese": "絶対可憐チルドレン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 622,
+    "volumes": 63,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-08-25T00:00:00+00:00",
+        "to": "2021-07-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 8,
+                "year": 2005
+            },
+            "to": {
+                "day": 14,
+                "month": 7,
+                "year": 2021
+            }
+        },
+        "string": "Aug 25, 2005 to Jul 14, 2021"
+    },
+    "score": 7.64,
+    "scored": 7.64,
+    "scored_by": 2441,
+    "rank": 2058,
+    "popularity": 2604,
+    "members": 8495,
+    "favorites": 177,
+    "synopsis": "In the future, as people with ESP increase in numbers, so does the possible good and evil they can cause to society. The Japanese government establishes the Base of Backing ESP Laboratory (B.A.B.E.L.) a special esper organization tasked with dealing with situations that can't be resolved by ordinary means, including dealing with espers engaged in criminal activity. Kouichi Minamoto, a 20-year-old prodigy is assigned by B.A.B.E.L. to the task of supervising the most powerful espers in the country, a trio of gifted but mischievous 10-year-old girls known as \"The Children.\"\n\n(Source: Wikipedia)\n\nIncluded one-shot:\nVolume 1: Zettai Karen Children (pilot)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3776,
+            "type": "people",
+            "name": "Shiina, Takashi",
+            "url": "https://myanimelist.net/people/3776/Takashi_Shiina"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 52688,
+                    "type": "anime",
+                    "name": "Shounen Sunday CM: Zettai Karen Children",
+                    "url": "https://myanimelist.net/anime/52688/Shounen_Sunday_CM__Zettai_Karen_Children"
+                },
+                {
+                    "mal_id": 4038,
+                    "type": "anime",
+                    "name": "Zettai Karen Children",
+                    "url": "https://myanimelist.net/anime/4038/Zettai_Karen_Children"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 40375,
+                    "type": "manga",
+                    "name": "Zettai Karen Children the Novels ~ B.A.B.E.L. Houkai",
+                    "url": "https://myanimelist.net/manga/40375/Zettai_Karen_Children_the_Novels__BABEL_Houkai"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 49319,
+                    "type": "manga",
+                    "name": "The Unlimited: Hyoubu Kyousuke",
+                    "url": "https://myanimelist.net/manga/49319/The_Unlimited__Hyoubu_Kyousuke"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%B5%B6%E5%AF%BE%E5%8F%AF%E6%86%90%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3"
+        }
+    ]
+}

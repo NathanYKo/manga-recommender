@@ -1,0 +1,143 @@
+{
+    "mal_id": 130755,
+    "url": "https://myanimelist.net/manga/130755/Darwin_Jihen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/236307.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/236307t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/236307l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/236307.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/236307t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/236307l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Darwin Jihen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Darwin's Incident"
+        },
+        {
+            "type": "Japanese",
+            "title": "ダーウィン事変"
+        },
+        {
+            "type": "English",
+            "title": "The Darwin Incident"
+        }
+    ],
+    "title": "Darwin Jihen",
+    "title_english": "The Darwin Incident",
+    "title_japanese": "ダーウィン事変",
+    "title_synonyms": [
+        "Darwin's Incident"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-06-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 25, 2020 to ?"
+    },
+    "score": 7.33,
+    "scored": 7.33,
+    "scored_by": 782,
+    "rank": 4498,
+    "popularity": 4931,
+    "members": 4453,
+    "favorites": 25,
+    "synopsis": "The Animal Liberation Alliance, an eco-terrorist organization, rescues a pregnant chimpanzee from an animal testing lab—only for it to give birth to a half-human, half-chimpanzee \"humanzee\" named Charlie! Fifteen years later, Charlie's human foster parents are finally ready to send him to a normal high school, where he makes his first friend: a human girl named Lucy. In the meantime, however, the ALA's stance has become ever more extreme, and now they're here to drag Charlie into their terrorist plot...\n\n(Source: Kodansha USA)",
+    "background": "Darwin Jihen has been published in English as The Darwin Incident by Kodansha USA under the Vertical Comics imprint since September 5, 2023.",
+    "authors": [
+        {
+            "mal_id": 41675,
+            "type": "people",
+            "name": "Umezawa, Shun",
+            "url": "https://myanimelist.net/people/41675/Shun_Umezawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 58886,
+                    "type": "anime",
+                    "name": "Darwin Jihen",
+                    "url": "https://myanimelist.net/anime/58886/Darwin_Jihen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/the-darwin-incident/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://afternoon.kodansha.co.jp/c/darwinsincident/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Darwin_Incident"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/ダーウィン事変"
+        }
+    ]
+}

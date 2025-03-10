@@ -1,0 +1,119 @@
+{
+    "mal_id": 139289,
+    "url": "https://myanimelist.net/manga/139289/Hidamari_ga_Kikoeru__Shunkashuutou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/253037.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/253037t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/253037l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/253037.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/253037t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/253037l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hidamari ga Kikoeru: Shunkashuutou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hidamari ga Kikoeru Bangai-hen: Mushoku Toumei"
+        },
+        {
+            "type": "Japanese",
+            "title": "ひだまりが聴こえる－春夏秋冬－"
+        },
+        {
+            "type": "English",
+            "title": "I Hear the Sunspot: Four Seasons"
+        }
+    ],
+    "title": "Hidamari ga Kikoeru: Shunkashuutou",
+    "title_english": "I Hear the Sunspot: Four Seasons",
+    "title_japanese": "ひだまりが聴こえる－春夏秋冬－",
+    "title_synonyms": [
+        "Hidamari ga Kikoeru Bangai-hen: Mushoku Toumei"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2020-12-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 12,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 28, 2020 to ?"
+    },
+    "score": 7.87,
+    "scored": 7.87,
+    "scored_by": 444,
+    "rank": 1099,
+    "popularity": 7648,
+    "members": 2698,
+    "favorites": 9,
+    "synopsis": "Kohei Sugihara, college student with hearing loss, and Taichi Sagawa, his ever-optimistic former classmate, met in a chance encounter that ignited an undeniable spark that would eventually blossom into love.\n\nNow it's spring and as Kohei nears graduation, his search for a job begins. Meanwhile, Taichi finds himself in charge of someone new at work. Life is busier than ever, but all in all, things seem to be looking up for the pair. That is, until the sudden appearance of Ena, one of Kohei's old flames.\n\n(Source: One Peace Books)",
+    "background": "Hidamari ga Kikoeru: Shunkashuutou has been published in English as I Hear the Sunspot: Four Seasons by One Peace Books since April 18, 2023.",
+    "authors": [
+        {
+            "mal_id": 36149,
+            "type": "people",
+            "name": "Fumino, Yuki",
+            "url": "https://myanimelist.net/people/36149/Yuki_Fumino"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 550,
+            "type": "manga",
+            "name": "Canna",
+            "url": "https://myanimelist.net/manga/magazine/550/Canna"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 112091,
+                    "type": "manga",
+                    "name": "Hidamari ga Kikoeru: Limit",
+                    "url": "https://myanimelist.net/manga/112091/Hidamari_ga_Kikoeru__Limit"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

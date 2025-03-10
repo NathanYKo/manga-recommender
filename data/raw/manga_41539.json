@@ -1,0 +1,157 @@
+{
+    "mal_id": 41539,
+    "url": "https://myanimelist.net/manga/41539/Mahouka_Koukou_no_Yuutousei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/81456.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/81456t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/81456l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/81456.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/81456t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/81456l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mahouka Koukou no Yuutousei"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔法科高校の優等生"
+        },
+        {
+            "type": "English",
+            "title": "The Honor Student At Magic High School"
+        }
+    ],
+    "title": "Mahouka Koukou no Yuutousei",
+    "title_english": "The Honor Student At Magic High School",
+    "title_japanese": "魔法科高校の優等生",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 81,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-04-27T00:00:00+00:00",
+        "to": "2020-06-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2020
+            }
+        },
+        "string": "Apr 27, 2012 to Jun 27, 2020"
+    },
+    "score": 7.49,
+    "scored": 7.49,
+    "scored_by": 1881,
+    "rank": 3055,
+    "popularity": 3319,
+    "members": 6762,
+    "favorites": 54,
+    "synopsis": "A century has passed since magic—true magic, the stuff of legends—has returned to the world. It is spring, the season of new beginnings, and a new class of students is about to begin their studies at the First National Magic University Affiliated High School, nickname: First High. A manga spin-off of the immensely popular light novel series The Irregular at Magic High School, The Honor Student at Magic High School follows the events of the original series as seen through the eyes of Miyuki Shiba, Tatsuya's sister. The life of an honor student comes with a lot of expectations...and unexpected hidden feelings?!\n\n(Source: Yen Press)",
+    "background": "Mahouka Koukou no Yuutousei was published in English as The Honor Student At Magic High School by Yen Press from November 17, 2015 to June 29, 2021.",
+    "authors": [
+        {
+            "mal_id": 15613,
+            "type": "people",
+            "name": "Satou, Tsutomu",
+            "url": "https://myanimelist.net/people/15613/Tsutomu_Satou"
+        },
+        {
+            "mal_id": 18411,
+            "type": "people",
+            "name": "Mori, Yu",
+            "url": "https://myanimelist.net/people/18411/Yu_Mori"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 135743,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Yuutousei: 2nd Season",
+                    "url": "https://myanimelist.net/manga/135743/Mahouka_Koukou_no_Yuutousei__2nd_Season"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 45572,
+                    "type": "anime",
+                    "name": "Mahouka Koukou no Yuutousei",
+                    "url": "https://myanimelist.net/anime/45572/Mahouka_Koukou_no_Yuutousei"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 34127,
+                    "type": "manga",
+                    "name": "Mahouka Koukou no Rettousei",
+                    "url": "https://myanimelist.net/manga/34127/Mahouka_Koukou_no_Rettousei"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://daioh.dengeki.com/contents/mahoka/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E7%A7%91%E9%AB%98%E6%A0%A1%E3%81%AE%E5%8A%A3%E7%AD%89%E7%94%9F"
+        }
+    ]
+}

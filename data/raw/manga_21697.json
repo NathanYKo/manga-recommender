@@ -1,0 +1,140 @@
+{
+    "mal_id": 21697,
+    "url": "https://myanimelist.net/manga/21697/Golden_Boy_II__Sasurai_no_Obenkyou_Yarou_Geinoukai_Ooabare-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/113633.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/113633t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/113633l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/113633.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/113633t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/113633l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Golden Boy II: Sasurai no Obenkyou Yarou Geinoukai Ooabare-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Golden Boy 2"
+        },
+        {
+            "type": "Japanese",
+            "title": "GOLDEN BOY II 〜さすらいのお勉強野郎 芸能界大暴れ編〜"
+        }
+    ],
+    "title": "Golden Boy II: Sasurai no Obenkyou Yarou Geinoukai Ooabare-hen",
+    "title_english": null,
+    "title_japanese": "GOLDEN BOY II 〜さすらいのお勉強野郎 芸能界大暴れ編〜",
+    "title_synonyms": [
+        "Golden Boy 2"
+    ],
+    "type": "Manga",
+    "chapters": 16,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-09-15T00:00:00+00:00",
+        "to": "2011-05-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 9,
+                "year": 2010
+            },
+            "to": {
+                "day": 18,
+                "month": 5,
+                "year": 2011
+            }
+        },
+        "string": "Sep 15, 2010 to May 18, 2011"
+    },
+    "score": 6.51,
+    "scored": 6.51,
+    "scored_by": 353,
+    "rank": 16379,
+    "popularity": 7053,
+    "members": 2980,
+    "favorites": 16,
+    "synopsis": "The wandering protagonist Kintarō Oe now takes on the entertainment world for his next job(s).",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3034,
+            "type": "people",
+            "name": "Egawa, Tatsuya",
+            "url": "https://myanimelist.net/people/3034/Tatsuya_Egawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Business Jump",
+            "url": "https://myanimelist.net/manga/magazine/57/Business_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1458,
+                    "type": "manga",
+                    "name": "Golden Boy",
+                    "url": "https://myanimelist.net/manga/1458/Golden_Boy"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/GOLDEN_BOY"
+        }
+    ]
+}

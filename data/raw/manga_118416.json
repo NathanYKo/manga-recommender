@@ -1,0 +1,133 @@
+{
+    "mal_id": 118416,
+    "url": "https://myanimelist.net/manga/118416/Isekai_Cheat_Survival_Meshi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/222489.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/222489t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/222489l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/222489.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/222489t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/222489l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Isekai Cheat Survival Meshi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Another World Cheat Survival Meal"
+        },
+        {
+            "type": "Japanese",
+            "title": "異世界チートサバイバル飯"
+        }
+    ],
+    "title": "Isekai Cheat Survival Meshi",
+    "title_english": null,
+    "title_japanese": "異世界チートサバイバル飯",
+    "title_synonyms": [
+        "Another World Cheat Survival Meal"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2018-09-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 9,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 24, 2018 to ?"
+    },
+    "score": 6.5,
+    "scored": 6.5,
+    "scored_by": 1513,
+    "rank": 16550,
+    "popularity": 3813,
+    "members": 5885,
+    "favorites": 7,
+    "synopsis": "Kazusa Yuu is a high school student who loves food and the outdoors. After getting hit by a car, he is sent to another world, where he gains the ability to acquire the power of whatever he eats.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 34653,
+            "type": "people",
+            "name": "Akashi, Kakkaku",
+            "url": "https://myanimelist.net/people/34653/Kakkaku_Akashi"
+        },
+        {
+            "mal_id": 49089,
+            "type": "people",
+            "name": "Yamada, Mojimi",
+            "url": "https://myanimelist.net/people/49089/Mojimi_Yamada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1159,
+            "type": "manga",
+            "name": "ComicWalker",
+            "url": "https://myanimelist.net/manga/magazine/1159/ComicWalker"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 62,
+            "type": "manga",
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 118415,
+                    "type": "manga",
+                    "name": "Isekai Cheat Survival Meshi: Tabete, Tsuyoku Natte, Mata Taberu",
+                    "url": "https://myanimelist.net/manga/118415/Isekai_Cheat_Survival_Meshi__Tabete_Tsuyoku_Natte_Mata_Taberu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-walker.com/contents/detail/KDCW_MF00000081010000_68/"
+        }
+    ]
+}

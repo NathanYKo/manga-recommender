@@ -1,0 +1,102 @@
+{
+    "mal_id": 24499,
+    "url": "https://myanimelist.net/manga/24499/Bakemonogatari_Short_Stories",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/275369.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/275369t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/275369l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/275369.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/275369t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/275369l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bakemonogatari Short Stories"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bakemonogatari - Anime Complete Guidebook"
+        },
+        {
+            "type": "Japanese",
+            "title": "化物語アニメコンプリートガイドブック"
+        }
+    ],
+    "title": "Bakemonogatari Short Stories",
+    "title_english": null,
+    "title_japanese": "化物語アニメコンプリートガイドブック",
+    "title_synonyms": [
+        "Bakemonogatari - Anime Complete Guidebook"
+    ],
+    "type": "Light Novel",
+    "chapters": 5,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-10-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 28, 2010"
+    },
+    "score": 7.68,
+    "scored": 7.68,
+    "scored_by": 855,
+    "rank": 1840,
+    "popularity": 6951,
+    "members": 3034,
+    "favorites": 34,
+    "synopsis": "Five short stories, one for each of the Bakemonogatari girls which appeared in the complete guidebook.\n\nHitagi Buffet\nMayoi Room\nSuruga Court\nNadeko Pool\nTsubasa Song",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5254,
+            "type": "people",
+            "name": "NISIO, ISIN",
+            "url": "https://myanimelist.net/people/5254/ISIN_NISIO"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 14893,
+                    "type": "manga",
+                    "name": "Monogatari Series: First Season",
+                    "url": "https://myanimelist.net/manga/14893/Monogatari_Series__First_Season"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

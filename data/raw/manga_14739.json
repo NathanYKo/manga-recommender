@@ -1,0 +1,154 @@
+{
+    "mal_id": 14739,
+    "url": "https://myanimelist.net/manga/14739/Mousou_Elektel",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/28328.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/28328t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/28328l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/28328.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/28328t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/28328l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mousou Elektel"
+        },
+        {
+            "type": "Synonym",
+            "title": "Mousou Electricity"
+        },
+        {
+            "type": "Japanese",
+            "title": "妄想 エレキテル"
+        },
+        {
+            "type": "English",
+            "title": "Delusion elektel"
+        }
+    ],
+    "title": "Mousou Elektel",
+    "title_english": "Delusion elektel",
+    "title_japanese": "妄想 エレキテル",
+    "title_synonyms": [
+        "Mousou Electricity"
+    ],
+    "type": "Manga",
+    "chapters": 25,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-04-30T00:00:00+00:00",
+        "to": "2012-11-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 30,
+                "month": 11,
+                "year": 2012
+            }
+        },
+        "string": "Apr 30, 2009 to Nov 30, 2012"
+    },
+    "score": 7.96,
+    "scored": 7.96,
+    "scored_by": 7775,
+    "rank": null,
+    "popularity": 1214,
+    "members": 16787,
+    "favorites": 349,
+    "synopsis": "Skipping class on the rooftop one day, Shunpei's best friend Fumi tells him he thinks he might be gay. All set to freak out (\"Then up 'til now he's been thinking that way about me?!\") Shunpei's a bit nonplussed when Fumi's confession turns out...to have nothing to do with him at all! In fact, Fumi's already going out with someone else. Cue adolescent meltdown.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3243,
+            "type": "people",
+            "name": "Nekota, Yonezou",
+            "url": "https://myanimelist.net/people/3243/Yonezou_Nekota"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 156,
+            "type": "manga",
+            "name": "drap",
+            "url": "https://myanimelist.net/manga/magazine/156/drap"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1965,
+                    "type": "manga",
+                    "name": "Otona Keikenchi",
+                    "url": "https://myanimelist.net/manga/1965/Otona_Keikenchi"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 36523,
+                    "type": "manga",
+                    "name": "Mousou Elektel dj - Fumi-kun mo Mousou",
+                    "url": "https://myanimelist.net/manga/36523/Mousou_Elektel_dj_-_Fumi-kun_mo_Mousou"
+                },
+                {
+                    "mal_id": 44737,
+                    "type": "manga",
+                    "name": "Mousou Elektel dj - Shinaide + Elektel",
+                    "url": "https://myanimelist.net/manga/44737/Mousou_Elektel_dj_-_Shinaide___Elektel"
+                },
+                {
+                    "mal_id": 67481,
+                    "type": "manga",
+                    "name": "Mousou Elektel dj - Mousou Graffiti",
+                    "url": "https://myanimelist.net/manga/67481/Mousou_Elektel_dj_-_Mousou_Graffiti"
+                },
+                {
+                    "mal_id": 103931,
+                    "type": "manga",
+                    "name": "Mousou Elektel dj - Gosou-teki Mannerism",
+                    "url": "https://myanimelist.net/manga/103931/Mousou_Elektel_dj_-_Gosou-teki_Mannerism"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

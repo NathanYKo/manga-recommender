@@ -1,0 +1,147 @@
+{
+    "mal_id": 7570,
+    "url": "https://myanimelist.net/manga/7570/Pokémon_Pocket_Monsters",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/293049.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/293049t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/293049l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/293049.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/293049t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/293049l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Pokémon Pocket Monsters"
+        },
+        {
+            "type": "Synonym",
+            "title": "Pocket Monsters PM"
+        },
+        {
+            "type": "Synonym",
+            "title": "Pokemon PM"
+        },
+        {
+            "type": "Japanese",
+            "title": "ポケットモンスター"
+        },
+        {
+            "type": "English",
+            "title": "Pokémon Pocket Monsters"
+        }
+    ],
+    "title": "Pokémon Pocket Monsters",
+    "title_english": "Pokémon Pocket Monsters",
+    "title_japanese": "ポケットモンスター",
+    "title_synonyms": [
+        "Pocket Monsters PM",
+        "Pokemon PM"
+    ],
+    "type": "Manga",
+    "chapters": 180,
+    "volumes": 14,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-11-01T00:00:00+00:00",
+        "to": "2003-04-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 11,
+                "year": 1996
+            },
+            "to": {
+                "day": 28,
+                "month": 4,
+                "year": 2003
+            }
+        },
+        "string": "Nov 1996 to Apr 28, 2003"
+    },
+    "score": 7.24,
+    "scored": 7.24,
+    "scored_by": 982,
+    "rank": 5581,
+    "popularity": 7739,
+    "members": 2662,
+    "favorites": 72,
+    "synopsis": "In a world filled with talking Pokemon, Red and Green compete with each other in a race to gather all the data needed for the new Pokedex! Bumbling Clefairy frustrates Red with its extreme incompetence and silly behaviour... However, sometimes Clefairy's bizarre ideas to work out in the most surprising ways!\n\n(Source: Chuang-Yi)",
+    "background": "Pokémon Pocket Monsters was published in English by Chuang Yi Publishing.",
+    "authors": [
+        {
+            "mal_id": 11693,
+            "type": "people",
+            "name": "Anakubo, Kousaku",
+            "url": "https://myanimelist.net/people/11693/Kousaku_Anakubo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 213,
+            "type": "manga",
+            "name": "CoroCoro Comic",
+            "url": "https://myanimelist.net/manga/magazine/213/CoroCoro_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 15,
+            "type": "manga",
+            "name": "Kids",
+            "url": "https://myanimelist.net/manga/genre/15/Kids"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 22569,
+                    "type": "manga",
+                    "name": "Pocket Monsters: Ruby-Sapphire-hen",
+                    "url": "https://myanimelist.net/manga/22569/Pocket_Monsters__Ruby-Sapphire-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 928,
+                    "type": "manga",
+                    "name": "Pocket Monsters Special",
+                    "url": "https://myanimelist.net/manga/928/Pocket_Monsters_Special"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Pok%C3%A9mon_Pocket_Monsters"
+        }
+    ]
+}

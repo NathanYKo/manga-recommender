@@ -1,0 +1,157 @@
+{
+    "mal_id": 1213,
+    "url": "https://myanimelist.net/manga/1213/Okane_ga_Nai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/145339.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/145339t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/145339l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/145339.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/145339t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/145339l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Okane ga Nai"
+        },
+        {
+            "type": "Japanese",
+            "title": "お金がないっ"
+        },
+        {
+            "type": "English",
+            "title": "No Money!"
+        }
+    ],
+    "title": "Okane ga Nai",
+    "title_english": "No Money!",
+    "title_japanese": "お金がないっ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2002-03-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 3,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 26, 2002 to ?"
+    },
+    "score": 7.1,
+    "scored": 7.1,
+    "scored_by": 3535,
+    "rank": null,
+    "popularity": 2555,
+    "members": 8658,
+    "favorites": 178,
+    "synopsis": "Yukiya Ayase is a gentle, kind hearted, and innocent university student. The only relative he has left, his cousin Tetsuo, betrays Ayase by selling him to the highest bidder in an auction with hopes of making an enormous profit to be able to pay off his debts. Somuku Kanou, a bad-tempered (though very rich) loan shark, comes to Ayase's rescue and buys Ayase for an impressive 1.2 billion. Kanou apparently knows Ayase from something that happened between them in the past, but Ayase cannot remember who Kanou is nor does he understand why he \"saved\" him. In a desperate effort to keep Ayase close to him, Kanou demands the debt be repaid in full and suggests the perfect way to do it: by selling his body to Kanou for 500,000 each time. Ayase is horrified in the beginning, but something soon begins to grow between them that can't be bought for any price.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2882,
+            "type": "people",
+            "name": "Shinozaki, Hitoyo",
+            "url": "https://myanimelist.net/people/2882/Hitoyo_Shinozaki"
+        },
+        {
+            "mal_id": 2883,
+            "type": "people",
+            "name": "Kousaka, Tohru",
+            "url": "https://myanimelist.net/people/2883/Tohru_Kousaka"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 396,
+            "type": "manga",
+            "name": "Comic Magazine LYNX",
+            "url": "https://myanimelist.net/manga/magazine/396/Comic_Magazine_LYNX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2148,
+                    "type": "anime",
+                    "name": "Okane ga Nai",
+                    "url": "https://myanimelist.net/anime/2148/Okane_ga_Nai"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 35089,
+                    "type": "manga",
+                    "name": "Henshin Dekinai",
+                    "url": "https://myanimelist.net/manga/35089/Henshin_Dekinai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.gentosha-comics.net/story/cat563.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%81%8A%E9%87%91%E3%81%8C%E3%81%AA%E3%81%84%E3%81%A3"
+        }
+    ]
+}

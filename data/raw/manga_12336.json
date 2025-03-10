@@ -1,0 +1,163 @@
+{
+    "mal_id": 12336,
+    "url": "https://myanimelist.net/manga/12336/Junketsu_no_Maria",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/136847.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/136847t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/136847l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/136847.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/136847t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/136847l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Junketsu no Maria"
+        },
+        {
+            "type": "Synonym",
+            "title": "Chaste Mary"
+        },
+        {
+            "type": "Synonym",
+            "title": "Junketsu no Maria - Sorcière de gré"
+        },
+        {
+            "type": "Synonym",
+            "title": "Pucelle de Force"
+        },
+        {
+            "type": "Japanese",
+            "title": "純潔のマリア"
+        },
+        {
+            "type": "English",
+            "title": "Maria the Virgin Witch"
+        }
+    ],
+    "title": "Junketsu no Maria",
+    "title_english": "Maria the Virgin Witch",
+    "title_japanese": "純潔のマリア",
+    "title_synonyms": [
+        "Chaste Mary",
+        "Junketsu no Maria - Sorcière de gré",
+        "Pucelle de Force"
+    ],
+    "type": "Manga",
+    "chapters": 25,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-11-07T00:00:00+00:00",
+        "to": "2013-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 11,
+                "year": 2008
+            },
+            "to": {
+                "day": 5,
+                "month": 7,
+                "year": 2013
+            }
+        },
+        "string": "Nov 7, 2008 to Jul 5, 2013"
+    },
+    "score": 6.94,
+    "scored": 6.94,
+    "scored_by": 600,
+    "rank": 9957,
+    "popularity": 8005,
+    "members": 2552,
+    "favorites": 9,
+    "synopsis": "Maria is a witch living during the Hundred Years' War between England and France. Our young heroine hates war, so to keep the people of the village she protects safe, Maria will use all the power at her disposal to stop the fighting, whether that means conjuring giant dragons or sending her succubus familiar out to mesmerize the warring generals with her charms. But what do the villagers think of her \"help\"? And what will happen if Heaven notices her interference into human affairs? This story has a funny touch with a little history thrown in.\n\n(Source: MU)",
+    "background": "Junketsu no Maria was published in English as Maria The Virgin Witch by Kodansha Comics USA from February 24, 2015 to June 30, 2015.",
+    "authors": [
+        {
+            "mal_id": 4522,
+            "type": "people",
+            "name": "Ishikawa, Masayuki",
+            "url": "https://myanimelist.net/people/4522/Masayuki_Ishikawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 316,
+            "type": "manga",
+            "name": "good! Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/316/good_Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 26441,
+                    "type": "anime",
+                    "name": "Junketsu no Maria",
+                    "url": "https://myanimelist.net/anime/26441/Junketsu_no_Maria"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 79133,
+                    "type": "manga",
+                    "name": "Junketsu no Maria: Exhibition",
+                    "url": "https://myanimelist.net/manga/79133/Junketsu_no_Maria__Exhibition"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/maria-the-virgin-witch/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%B4%94%E6%BD%94%E3%81%AE%E3%83%9E%E3%83%AA%E3%82%A2"
+        }
+    ]
+}

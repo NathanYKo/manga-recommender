@@ -1,0 +1,169 @@
+{
+    "mal_id": 853,
+    "url": "https://myanimelist.net/manga/853/Yawara",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/280146.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/280146t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/280146l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/280146.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/280146t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/280146l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yawara!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yawara! A Fashionable Judo Girl"
+        },
+        {
+            "type": "Japanese",
+            "title": "YAWARA!"
+        }
+    ],
+    "title": "Yawara!",
+    "title_english": null,
+    "title_japanese": "YAWARA!",
+    "title_synonyms": [
+        "Yawara! A Fashionable Judo Girl"
+    ],
+    "type": "Manga",
+    "chapters": 331,
+    "volumes": 29,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1986-01-01T00:00:00+00:00",
+        "to": "1993-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1986
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1993
+            }
+        },
+        "string": "1986 to 1993"
+    },
+    "score": 7.43,
+    "scored": 7.43,
+    "scored_by": 1108,
+    "rank": 3500,
+    "popularity": 3042,
+    "members": 7366,
+    "favorites": 45,
+    "synopsis": "Inokuma Yawara is just another young high school girl. Well, not quite for Yawara is being raised by her grandfather, 7th dan Judo master Inokuma Jigorou, to be Japan's great hope for the women's Judo competition at the 1992 Olympics in Barcelona. All the same, Yawara just wants to live a normal life...",
+    "background": "Yawara! won the 35th Shogakukan Manga Award in the General category in 1989. It had two chapters published in English from May to June 1993 in the educational publication Mangajin's issues #26 and #27. The series was published in Italian by Panini Comics from February 9, 2013, to December 20, 2018; and in French by Kana since September 25, 2020. The manga was adapted into a Japanese live-action film that was released on April 15, 1989.",
+    "authors": [
+        {
+            "mal_id": 1867,
+            "type": "people",
+            "name": "Urasawa, Naoki",
+            "url": "https://myanimelist.net/people/1867/Naoki_Urasawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/manga/genre/54/Combat_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 856,
+                    "type": "manga",
+                    "name": "Jigoro!",
+                    "url": "https://myanimelist.net/manga/856/Jigoro"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 691,
+                    "type": "anime",
+                    "name": "Yawara!",
+                    "url": "https://myanimelist.net/anime/691/Yawara"
+                },
+                {
+                    "mal_id": 2008,
+                    "type": "anime",
+                    "name": "Yawara! Sore Yuke Koshinuke Kids!!",
+                    "url": "https://myanimelist.net/anime/2008/Yawara_Sore_Yuke_Koshinuke_Kids"
+                },
+                {
+                    "mal_id": 2009,
+                    "type": "anime",
+                    "name": "Yawara!: Zutto Kimi no Koto ga...",
+                    "url": "https://myanimelist.net/anime/2009/Yawara__Zutto_Kimi_no_Koto_ga"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/YAWARA!"
+        }
+    ]
+}

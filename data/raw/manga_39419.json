@@ -1,0 +1,139 @@
+{
+    "mal_id": 39419,
+    "url": "https://myanimelist.net/manga/39419/Lovely★Complex_Two",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/84657.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/84657t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/84657l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/84657.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/84657t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/84657l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Lovely★Complex Two"
+        },
+        {
+            "type": "Synonym",
+            "title": "Love Com Two"
+        },
+        {
+            "type": "Synonym",
+            "title": "Lovely★Complex Deluxe"
+        },
+        {
+            "type": "Synonym",
+            "title": "Honey Going"
+        },
+        {
+            "type": "Japanese",
+            "title": "ラブ★コンTWO"
+        }
+    ],
+    "title": "Lovely★Complex Two",
+    "title_english": null,
+    "title_japanese": "ラブ★コンTWO",
+    "title_synonyms": [
+        "Love Com Two",
+        "Lovely★Complex Deluxe",
+        "Honey Going"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-04-28T00:00:00+00:00",
+        "to": "2012-07-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 13,
+                "month": 7,
+                "year": 2012
+            }
+        },
+        "string": "Apr 28, 2009 to Jul 13, 2012"
+    },
+    "score": 7.55,
+    "scored": 7.55,
+    "scored_by": 2906,
+    "rank": 2654,
+    "popularity": 2798,
+    "members": 8008,
+    "favorites": 36,
+    "synopsis": "The original romantic comedy followed two close, but bickering, high school friends with height complexes: a tall girl named Risa Koizumi and a short boy named Atsushi Ohtani. The advertising blurb for Love★Com D promises that \"the family of Love★Com will return,\" but hints that Risa and Atsushi will not be main leads this time.\n\n(Source: ANN)\n\nIncluded one-shot: Honey Going",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1896,
+            "type": "people",
+            "name": "Nakahara, Aya",
+            "url": "https://myanimelist.net/people/1896/Aya_Nakahara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Bessatsu Margaret",
+            "url": "https://myanimelist.net/manga/magazine/53/Bessatsu_Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 31,
+                    "type": "manga",
+                    "name": "Lovely★Complex",
+                    "url": "https://myanimelist.net/manga/31/Lovely★Complex"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

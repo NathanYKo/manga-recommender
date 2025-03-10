@@ -1,0 +1,145 @@
+{
+    "mal_id": 22928,
+    "url": "https://myanimelist.net/manga/22928/07-Ghost_Children",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/172746.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/172746t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/172746l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/172746.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/172746t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/172746l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "07-Ghost Children"
+        },
+        {
+            "type": "Synonym",
+            "title": "Seven Ghost Children"
+        },
+        {
+            "type": "Japanese",
+            "title": "07-GHOST CHILDREN"
+        }
+    ],
+    "title": "07-Ghost Children",
+    "title_english": null,
+    "title_japanese": "07-GHOST CHILDREN",
+    "title_synonyms": [
+        "Seven Ghost Children"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-02-16T00:00:00+00:00",
+        "to": "2010-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 2,
+                "year": 2005
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Feb 16, 2005 to Mar 27, 2010"
+    },
+    "score": 7.51,
+    "scored": 7.51,
+    "scored_by": 561,
+    "rank": 2888,
+    "popularity": 8747,
+    "members": 2288,
+    "favorites": 10,
+    "synopsis": "Collection of side stories from the manga 07-Ghost.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2956,
+            "type": "people",
+            "name": "Amemiya, Yuki",
+            "url": "https://myanimelist.net/people/2956/Yuki_Amemiya"
+        },
+        {
+            "mal_id": 2957,
+            "type": "people",
+            "name": "Ichihara, Yukino",
+            "url": "https://myanimelist.net/people/2957/Yukino_Ichihara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 110,
+            "type": "manga",
+            "name": "Comic ZERO-SUM",
+            "url": "https://myanimelist.net/manga/magazine/110/Comic_ZERO-SUM"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 1349,
+                    "type": "manga",
+                    "name": "07-Ghost",
+                    "url": "https://myanimelist.net/manga/1349/07-Ghost"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/07-GHOST"
+        }
+    ]
+}

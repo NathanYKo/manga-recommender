@@ -1,0 +1,108 @@
+{
+    "mal_id": 36523,
+    "url": "https://myanimelist.net/manga/36523/Mousou_Elektel_dj_-_Fumi-kun_mo_Mousou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/65965.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/65965t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/65965l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/65965.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/65965t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/65965l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mousou Elektel dj - Fumi-kun mo Mousou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Elektel Delusion dj - Fumi-kun mo Mousou"
+        },
+        {
+            "type": "Japanese",
+            "title": "ふみくんも妄想"
+        }
+    ],
+    "title": "Mousou Elektel dj - Fumi-kun mo Mousou",
+    "title_english": null,
+    "title_japanese": "ふみくんも妄想",
+    "title_synonyms": [
+        "Elektel Delusion dj - Fumi-kun mo Mousou"
+    ],
+    "type": "Doujinshi",
+    "chapters": 1,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-12-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 12,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 30, 2009"
+    },
+    "score": 7.58,
+    "scored": 7.58,
+    "scored_by": 1337,
+    "rank": null,
+    "popularity": 7423,
+    "members": 2798,
+    "favorites": 2,
+    "synopsis": "This takes place after chapter 3 of Mousou Elektel.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3243,
+            "type": "people",
+            "name": "Nekota, Yonezou",
+            "url": "https://myanimelist.net/people/3243/Yonezou_Nekota"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 14739,
+                    "type": "manga",
+                    "name": "Mousou Elektel",
+                    "url": "https://myanimelist.net/manga/14739/Mousou_Elektel"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

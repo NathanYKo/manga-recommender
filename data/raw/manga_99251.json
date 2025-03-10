@@ -1,0 +1,116 @@
+{
+    "mal_id": 99251,
+    "url": "https://myanimelist.net/manga/99251/Zombie_Maria",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/181399.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/181399t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/181399l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/181399.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/181399t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/181399l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zombie Maria"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Zombie Maria"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゾンビマリア"
+        }
+    ],
+    "title": "Zombie Maria",
+    "title_english": null,
+    "title_japanese": "ゾンビマリア",
+    "title_synonyms": [
+        "The Zombie Maria"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-05-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 26, 2016"
+    },
+    "score": 7.17,
+    "scored": 7.17,
+    "scored_by": 2041,
+    "rank": 6520,
+    "popularity": 5936,
+    "members": 3625,
+    "favorites": 22,
+    "synopsis": "True love isn't something you awaken to... but something closer to a nightmare...\n\n(Source: Batoto)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 16705,
+            "type": "people",
+            "name": "Nakayama, Atsushi",
+            "url": "https://myanimelist.net/people/16705/Atsushi_Nakayama"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

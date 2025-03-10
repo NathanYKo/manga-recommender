@@ -1,0 +1,127 @@
+{
+    "mal_id": 3485,
+    "url": "https://myanimelist.net/manga/3485/Dear",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/14833.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/14833t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/14833l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/14833.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/14833t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/14833l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dear"
+        },
+        {
+            "type": "Japanese",
+            "title": "dear"
+        }
+    ],
+    "title": "Dear",
+    "title_english": null,
+    "title_japanese": "dear",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 66,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-02-26T00:00:00+00:00",
+        "to": "2007-11-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 2,
+                "year": 2002
+            },
+            "to": {
+                "day": 26,
+                "month": 11,
+                "year": 2007
+            }
+        },
+        "string": "Feb 26, 2002 to Nov 26, 2007"
+    },
+    "score": 7.66,
+    "scored": 7.66,
+    "scored_by": 1313,
+    "rank": 1946,
+    "popularity": 5111,
+    "members": 4277,
+    "favorites": 62,
+    "synopsis": "Chiruha lives alone in a small secluded house deep in a mountainous forest, the TV her only connection to the outside world. After years of watching and dreaming of what life must be like in the outside world, she has gathered up her courage to venture out and explore the local village. However, she must be careful not to stand out among the humans, for Chiruha holds a secret...\n\nKisara also holds a secret...and a grudge. He's searching for who—or whatever cursed him, and he may have finally found the answer...\n\n(Source: Tsuzuku Jinsei)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3118,
+            "type": "people",
+            "name": "Fujiwara, Cocoa",
+            "url": "https://myanimelist.net/people/3118/Cocoa_Fujiwara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 939,
+            "type": "manga",
+            "name": "Gangan Wing",
+            "url": "https://myanimelist.net/manga/magazine/939/Gangan_Wing"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1624,
+                    "type": "manga",
+                    "name": "Watashi no Ookami-san.",
+                    "url": "https://myanimelist.net/manga/1624/Watashi_no_Ookami-san"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/Dear_(%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

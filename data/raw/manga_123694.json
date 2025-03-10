@@ -1,0 +1,148 @@
+{
+    "mal_id": 123694,
+    "url": "https://myanimelist.net/manga/123694/Bukiyou_na_Senpai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/228416.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/228416t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/228416l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/228416.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/228416t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/228416l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bukiyou na Senpai."
+        },
+        {
+            "type": "Synonym",
+            "title": "Awkward Senpai"
+        },
+        {
+            "type": "Japanese",
+            "title": "不器用な先輩。"
+        },
+        {
+            "type": "English",
+            "title": "My Awkward Senpai"
+        }
+    ],
+    "title": "Bukiyou na Senpai.",
+    "title_english": "My Awkward Senpai",
+    "title_japanese": "不器用な先輩。",
+    "title_synonyms": [
+        "Awkward Senpai"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-12-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 12,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 6, 2019 to ?"
+    },
+    "score": 7.06,
+    "scored": 7.06,
+    "scored_by": 2906,
+    "rank": 8029,
+    "popularity": 1588,
+    "members": 13575,
+    "favorites": 52,
+    "synopsis": "Kannawa-senpai is considered many things, but smooth is definitely not one of them. Then she meets Kamegawa, her new Kouhai. He's cute, a little nerdy, and easy to talk to. How will this awkward Senpai be able to handle these new feelings?!\n\n(Source: Comikey Media)",
+    "background": "Bukiyou na Senpai. is published digitally in English as My Awkward Senpai through Comikey since April 25, 2022, and by Square Enix through Manga UP!",
+    "authors": [
+        {
+            "mal_id": 49593,
+            "type": "people",
+            "name": "Kudou, Makoto",
+            "url": "https://myanimelist.net/people/49593/Makoto_Kudou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 60531,
+                    "type": "anime",
+                    "name": "Bukiyou na Senpai.",
+                    "url": "https://myanimelist.net/anime/60531/Bukiyou_na_Senpai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.jp.square-enix.com/yg/introduction/bukiyou/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/My_Awkward_Senpai"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "mal_id": 56689,
+    "url": "https://myanimelist.net/manga/56689/Koi_ni_Nare",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/163638.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/163638t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/163638l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/163638.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/163638t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/163638l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koi ni Nare!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Let's Go Love!"
+        },
+        {
+            "type": "Japanese",
+            "title": "恋になれ！"
+        }
+    ],
+    "title": "Koi ni Nare!",
+    "title_english": null,
+    "title_japanese": "恋になれ！",
+    "title_synonyms": [
+        "Let's Go Love!"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-10-20T00:00:00+00:00",
+        "to": "2013-01-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 19,
+                "month": 1,
+                "year": 2013
+            }
+        },
+        "string": "Oct 20, 2011 to Jan 19, 2013"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 2710,
+    "rank": null,
+    "popularity": 4278,
+    "members": 5229,
+    "favorites": 15,
+    "synopsis": "Komatsu Shin was shaken when he was found out to be gay, but his roommate Nakajima was unaffected and arranged a blind date for him. However, the guy who showed up was actually the dorm supervisor, Shindo-sensei!\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2245,
+            "type": "people",
+            "name": "Itsuki, Kaname",
+            "url": "https://myanimelist.net/people/2245/Kaname_Itsuki"
+        },
+        {
+            "mal_id": 24453,
+            "type": "people",
+            "name": "Tsukimura, Kei",
+            "url": "https://myanimelist.net/people/24453/Kei_Tsukimura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 188,
+            "type": "manga",
+            "name": "Craft",
+            "url": "https://myanimelist.net/manga/magazine/188/Craft"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 68813,
+                    "type": "manga",
+                    "name": "Koi nanka Shitakunai",
+                    "url": "https://myanimelist.net/manga/68813/Koi_nanka_Shitakunai"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

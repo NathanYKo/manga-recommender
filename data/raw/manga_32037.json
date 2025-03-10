@@ -1,0 +1,131 @@
+{
+    "mal_id": 32037,
+    "url": "https://myanimelist.net/manga/32037/Drug___Drop",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/84971.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/84971t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/84971l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/84971.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/84971t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/84971l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Drug & Drop"
+        },
+        {
+            "type": "Japanese",
+            "title": "ドラッグ＆ドロップ"
+        },
+        {
+            "type": "English",
+            "title": "Drug & Drop"
+        }
+    ],
+    "title": "Drug & Drop",
+    "title_english": "Drug & Drop",
+    "title_japanese": "ドラッグ＆ドロップ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 19,
+    "volumes": 2,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "2011-11-04T00:00:00+00:00",
+        "to": "2014-05-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 11,
+                "year": 2011
+            },
+            "to": {
+                "day": 2,
+                "month": 5,
+                "year": 2014
+            }
+        },
+        "string": "Nov 4, 2011 to May 2, 2014"
+    },
+    "score": 7.51,
+    "scored": 7.51,
+    "scored_by": 1244,
+    "rank": 2933,
+    "popularity": 4944,
+    "members": 4435,
+    "favorites": 24,
+    "synopsis": "Long-awaited continuation of the manga \"Legal Drug,\" by bestselling group CLAMP. It picks up from where the plot in Legal Drug left off, with a short prologue catching readers up to the main events of the previous series.\n\nKazahaya has always had the ability to see the memories of items and people that he touches. When he collapses in the snow, desperately clinging to life, he is rescued by Rikuou, who takes him back to Green Drugstore, a pharmacy dealing in more than just your everyday items.\n\nKazahaya finds himself working in the store, indebted to the owner, Kakei, for giving him a job and a place to lodge. Somehow, Kakei knows about Kazahaya's abilities, and soon he and Rikuou are sent on the occasional side job, involving the use of their unique talents.\n\nAs the story progresses, more is revealed about the mysterious pasts of the two main characters. Why did Kazahaya end up collapsed in the snow? Who is the mysterious girl that Kazahaya keeps seeing in Rikuou's mind, and what exactly happened to her?",
+    "background": "Drug & Drop was published in English by Dark Horse from January 20, 2015 to May 26, 2015.",
+    "authors": [
+        {
+            "mal_id": 1877,
+            "type": "people",
+            "name": "CLAMP",
+            "url": "https://myanimelist.net/people/1877/CLAMP"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 403,
+            "type": "manga",
+            "name": "Young Ace",
+            "url": "https://myanimelist.net/manga/magazine/403/Young_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 108,
+                    "type": "manga",
+                    "name": "Gouhou Drug",
+                    "url": "https://myanimelist.net/manga/108/Gouhou_Drug"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 109,
+                    "type": "manga",
+                    "name": "Wish",
+                    "url": "https://myanimelist.net/manga/109/Wish"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

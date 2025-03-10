@@ -1,0 +1,149 @@
+{
+    "mal_id": 72303,
+    "url": "https://myanimelist.net/manga/72303/Douluo_Dalu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/221353.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/221353t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/221353l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/221353.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/221353t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/221353l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Douluo Dalu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Combat Continent"
+        },
+        {
+            "type": "Synonym",
+            "title": "Soul Land"
+        },
+        {
+            "type": "Japanese",
+            "title": "斗罗大陆"
+        }
+    ],
+    "title": "Douluo Dalu",
+    "title_english": null,
+    "title_japanese": "斗罗大陆",
+    "title_synonyms": [
+        "Combat Continent",
+        "Soul Land"
+    ],
+    "type": "Manhua",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2011-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2011 to ?"
+    },
+    "score": 7.84,
+    "scored": 7.84,
+    "scored_by": 10941,
+    "rank": 1182,
+    "popularity": 675,
+    "members": 28261,
+    "favorites": 838,
+    "synopsis": "Tang San spent his life in the Tang Outer Sect, dedicated to the creation and mastery of hidden weapons. Once he stole the secret lore of the Inner Sect to reach the pinnacle of his art, his only way out was death. But after throwing himself off the deadly Hell's Peak he was reborn in a different world, the world of Douluo Dalu, a world where every person has a spirit of their own, and those with powerful spirits can practice their spirit power to rise and become Spirit Masters.\n\nThe spirit that awakens within Tang San is Blue Silver Grass, a useless spirit. Can he overcome the difficulties to reach the high ranks of Spirit Masters and bring the glory of the Tang Sect into this new world?",
+    "background": "Douluo Dalu is an adaptation of the Chinese web novel of the same title.",
+    "authors": [
+        {
+            "mal_id": 31915,
+            "type": "people",
+            "name": "Tang Jia San Shao",
+            "url": "https://myanimelist.net/people/31915/Tang_Jia_San_Shao"
+        },
+        {
+            "mal_id": 31917,
+            "type": "people",
+            "name": "Mu, Feng Chun",
+            "url": "https://myanimelist.net/people/31917/Feng_Chun_Mu"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 73,
+            "type": "manga",
+            "name": "Reincarnation",
+            "url": "https://myanimelist.net/manga/genre/73/Reincarnation"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 103169,
+                    "type": "manga",
+                    "name": "Douluo Dalu II: Jueshi Tangmen",
+                    "url": "https://myanimelist.net/manga/103169/Douluo_Dalu_II__Jueshi_Tangmen"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 170885,
+                    "type": "manga",
+                    "name": "Douluo Dalu",
+                    "url": "https://myanimelist.net/manga/170885/Douluo_Dalu"
+                },
+                {
+                    "mal_id": 37150,
+                    "type": "anime",
+                    "name": "Douluo Dalu",
+                    "url": "https://myanimelist.net/anime/37150/Douluo_Dalu"
+                },
+                {
+                    "mal_id": 37822,
+                    "type": "anime",
+                    "name": "Douluo Dalu 2nd Season",
+                    "url": "https://myanimelist.net/anime/37822/Douluo_Dalu_2nd_Season"
+                },
+                {
+                    "mal_id": 37150,
+                    "type": "anime",
+                    "name": "Douluo Dalu",
+                    "url": "https://myanimelist.net/anime/37150/Douluo_Dalu"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

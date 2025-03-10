@@ -1,0 +1,141 @@
+{
+    "mal_id": 10809,
+    "url": "https://myanimelist.net/manga/10809/Suzumiya_Haruhi-chan_no_Yuuutsu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/52663.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/52663t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/52663l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/52663.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/52663t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/52663l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Suzumiya Haruhi-chan no Yuuutsu"
+        },
+        {
+            "type": "Japanese",
+            "title": "涼宮ハルヒちゃんの憂鬱"
+        },
+        {
+            "type": "English",
+            "title": "The Melancholy of Suzumiya Haruhi-chan: The Untold Adventures of the SOS Brigade"
+        }
+    ],
+    "title": "Suzumiya Haruhi-chan no Yuuutsu",
+    "title_english": "The Melancholy of Suzumiya Haruhi-chan: The Untold Adventures of the SOS Brigade",
+    "title_japanese": "涼宮ハルヒちゃんの憂鬱",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 164,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-07-10T00:00:00+00:00",
+        "to": "2018-12-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 7,
+                "year": 2007
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2018
+            }
+        },
+        "string": "Jul 10, 2007 to Dec 26, 2018"
+    },
+    "score": 7.71,
+    "scored": 7.71,
+    "scored_by": 1097,
+    "rank": 1703,
+    "popularity": 5734,
+    "members": 3754,
+    "favorites": 95,
+    "synopsis": "If you thought the SOS Brigade's adventures couldn't get any more outrageous...you've never met Haruhi-chan! Nagato has gone otaku! Asakura is her pint-size prisoner/plaything! Mikuru's so cute she turns into a sheep!\n\nYou'll find plenty of gags and guffaws as Haruhi dives into the world of four-panel and short comics.\n\n(Source: Yen Press)",
+    "background": "Suzumiya Haruhi-chan no Yuuutsu was published in English as The Melancholy of Suzumiya Haruhi-chan: The Untold Adventures of the SOS Brigade by Yen Press from October 26, 2010 to May 26, 2020.",
+    "authors": [
+        {
+            "mal_id": 7551,
+            "type": "people",
+            "name": "Puyo",
+            "url": "https://myanimelist.net/people/7551/Puyo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 5118,
+                    "type": "anime",
+                    "name": "Suzumiya Haruhi-chan no Yuuutsu",
+                    "url": "https://myanimelist.net/anime/5118/Suzumiya_Haruhi-chan_no_Yuuutsu"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 3083,
+                    "type": "manga",
+                    "name": "Suzumiya Haruhi Series",
+                    "url": "https://myanimelist.net/manga/3083/Suzumiya_Haruhi_Series"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Haruhi_Suzumiya"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%86%82%E9%AC%B1"
+        }
+    ]
+}

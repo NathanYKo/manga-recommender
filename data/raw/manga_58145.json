@@ -1,0 +1,112 @@
+{
+    "mal_id": 58145,
+    "url": "https://myanimelist.net/manga/58145/Pinocchio",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/100745.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/100745t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/100745l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/100745.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/100745t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/100745l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Pinocchio"
+        },
+        {
+            "type": "Japanese",
+            "title": "피노키오"
+        }
+    ],
+    "title": "Pinocchio",
+    "title_english": null,
+    "title_japanese": "피노키오",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": 81,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-04-06T00:00:00+00:00",
+        "to": "2013-03-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 1,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Apr 6, 2011 to Mar 2013"
+    },
+    "score": 7.81,
+    "scored": 7.81,
+    "scored_by": 1422,
+    "rank": 1295,
+    "popularity": 5871,
+    "members": 3675,
+    "favorites": 52,
+    "synopsis": "Choi Ha Ram, your typical high schooler, decides to buy a necklace on a whim, however, unknown to both her and the ghost of Yu Ga On, whoever wears it is able to see Yu Ga On, who seems to have no recollection of his past. What are the circumstances behind his death? What is his connection to the necklace? And just who is the mysterious yet familiar new neighbor of hers?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 20887,
+            "type": "people",
+            "name": "Maru",
+            "url": "https://myanimelist.net/people/20887/Maru"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 845,
+            "type": "manga",
+            "name": "Daum Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/845/Daum_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://cartoon.media.daum.net/webtoon/view/pinocchio"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%ED%94%BC%EB%85%B8%ED%82%A4%EC%98%A4(%EC%9B%B9%ED%88%B0)"
+        }
+    ]
+}

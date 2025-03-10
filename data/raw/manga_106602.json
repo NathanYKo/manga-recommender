@@ -1,0 +1,124 @@
+{
+    "mal_id": 106602,
+    "url": "https://myanimelist.net/manga/106602/Bleach__Cant_Fear_Your_Own_World",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/291343.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/291343t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/291343l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/291343.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/291343t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/291343l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bleach: Can't Fear Your Own World"
+        },
+        {
+            "type": "Japanese",
+            "title": "BLEACH Can't Fear Your Own World"
+        },
+        {
+            "type": "English",
+            "title": "Bleach: Can't Fear Your Own World"
+        }
+    ],
+    "title": "Bleach: Can't Fear Your Own World",
+    "title_english": "Bleach: Can't Fear Your Own World",
+    "title_japanese": "BLEACH Can't Fear Your Own World",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 32,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-08-04T00:00:00+00:00",
+        "to": "2018-12-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 8,
+                "year": 2017
+            },
+            "to": {
+                "day": 4,
+                "month": 12,
+                "year": 2018
+            }
+        },
+        "string": "Aug 4, 2017 to Dec 4, 2018"
+    },
+    "score": 8.35,
+    "scored": 8.35,
+    "scored_by": 2752,
+    "rank": 267,
+    "popularity": 2645,
+    "members": 8397,
+    "favorites": 201,
+    "synopsis": "The Quincies's Thousand Year Blood War is over, but the embers of turmoil still smolder in the Soul Society. Tokinada Tsunayashiro, elevated to head of his clan after a slew of assassinations take out every other claimant to the title, has a grand plan to create a new Soul King. His dark ambitions soon sow the seeds of a new total war across the realms, but all is not lost. There is one unlikely Soul Reaper who holds the key to defusing the conflict—Shuhei Hisagi, assistant captain of the Ninth Company and reporter for the Seireitei Bulletin!\n\n(Source: VIZ Media)",
+    "background": "Bleach: Can't Fear Your Own World was published in English by VIZ Media under the Shonen Jump imprint from July 7, 2020 to April 20, 2021.",
+    "authors": [
+        {
+            "mal_id": 1880,
+            "type": "people",
+            "name": "Kubo, Tite",
+            "url": "https://myanimelist.net/people/1880/Tite_Kubo"
+        },
+        {
+            "mal_id": 2948,
+            "type": "people",
+            "name": "Narita, Ryohgo",
+            "url": "https://myanimelist.net/people/2948/Ryohgo_Narita"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 12,
+                    "type": "manga",
+                    "name": "Bleach",
+                    "url": "https://myanimelist.net/manga/12/Bleach"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/BLEACH"
+        }
+    ]
+}

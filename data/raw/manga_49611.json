@@ -1,0 +1,127 @@
+{
+    "mal_id": 49611,
+    "url": "https://myanimelist.net/manga/49611/Hal",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/160819.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/160819t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/160819l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/160819.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/160819t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/160819l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hal"
+        },
+        {
+            "type": "Synonym",
+            "title": "Haru"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハル"
+        }
+    ],
+    "title": "Hal",
+    "title_english": null,
+    "title_japanese": "ハル",
+    "title_synonyms": [
+        "Haru"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-03-13T00:00:00+00:00",
+        "to": "2013-06-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 3,
+                "year": 2013
+            },
+            "to": {
+                "day": 13,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Mar 13, 2013 to Jun 13, 2013"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 3392,
+    "rank": 5256,
+    "popularity": 3420,
+    "members": 6528,
+    "favorites": 44,
+    "synopsis": "What if your lover died, you lost your will to live, and a robot was sent to you that looked like your lost lover?",
+    "background": "Hal was published in Brazilian Portuguese by Panini Comics/Planet Manga on May 24, 2017.",
+    "authors": [
+        {
+            "mal_id": 21663,
+            "type": "people",
+            "name": "Ayase, Umi",
+            "url": "https://myanimelist.net/people/21663/Umi_Ayase"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Bessatsu Margaret",
+            "url": "https://myanimelist.net/manga/magazine/53/Bessatsu_Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 16528,
+                    "type": "anime",
+                    "name": "Hal",
+                    "url": "https://myanimelist.net/anime/16528/Hal"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "mal_id": 21665,
+    "url": "https://myanimelist.net/manga/21665/Jigoku_no_Alice",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/76575.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/76575t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/76575l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/76575.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/76575t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/76575l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Jigoku no Alice"
+        },
+        {
+            "type": "Synonym",
+            "title": "Alice in Hell"
+        },
+        {
+            "type": "Japanese",
+            "title": "地獄のアリス"
+        }
+    ],
+    "title": "Jigoku no Alice",
+    "title_english": null,
+    "title_japanese": "地獄のアリス",
+    "title_synonyms": [
+        "Alice in Hell"
+    ],
+    "type": "Manga",
+    "chapters": 43,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-09-22T00:00:00+00:00",
+        "to": "2014-01-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 9,
+                "year": 2010
+            },
+            "to": {
+                "day": 22,
+                "month": 1,
+                "year": 2014
+            }
+        },
+        "string": "Sep 22, 2010 to Jan 22, 2014"
+    },
+    "score": 7.23,
+    "scored": 7.23,
+    "scored_by": 2224,
+    "rank": 5640,
+    "popularity": 2940,
+    "members": 7624,
+    "favorites": 62,
+    "synopsis": "This world is broken, so are humans. Shuu is one of them. He's a talented sniper who keeps a broken android, named Alice. Together they live like hermits and make living by exterminating caravan robbers, until one day the woman that Shuu saved invites him to live in a commune.\n\n(Source: Illuminati-Manga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2845,
+            "type": "people",
+            "name": "Matsumoto, Jiro",
+            "url": "https://myanimelist.net/people/2845/Jiro_Matsumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 889,
+            "type": "manga",
+            "name": "Grand Jump Premium",
+            "url": "https://myanimelist.net/manga/magazine/889/Grand_Jump_Premium"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://grandjump.shueisha.co.jp/manga/alice.html"
+        }
+    ]
+}

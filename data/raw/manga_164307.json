@@ -1,0 +1,138 @@
+{
+    "mal_id": 164307,
+    "url": "https://myanimelist.net/manga/164307/Nezumi_no_Hatsukoi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/298255.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/298255t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/298255l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/298255.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/298255t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/298255l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Nezumi no Hatsukoi"
+        },
+        {
+            "type": "Japanese",
+            "title": "ねずみの初恋"
+        },
+        {
+            "type": "English",
+            "title": "Nezumi's First Love"
+        }
+    ],
+    "title": "Nezumi no Hatsukoi",
+    "title_english": "Nezumi's First Love",
+    "title_japanese": "ねずみの初恋",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2023-11-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 11,
+                "year": 2023
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 6, 2023 to ?"
+    },
+    "score": 7.08,
+    "scored": 7.08,
+    "scored_by": 464,
+    "rank": 7774,
+    "popularity": 8326,
+    "members": 2434,
+    "favorites": 8,
+    "synopsis": "Nezumi is a maiden raised to be a hitman by the yakuza and never having experienced human love. Ao is an ordinary lad who knows nothing. They fall in love and start living together, but the clutches of evil are close at hand... This is a story of first love, so cruel and so heartrending.\n\n(Source: Kodansha, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 60010,
+            "type": "people",
+            "name": "Ooseto, Riku",
+            "url": "https://myanimelist.net/people/60010/Riku_Ooseto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 58,
+            "type": "manga",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        },
+        {
+            "mal_id": 69,
+            "type": "manga",
+            "name": "Organized Crime",
+            "url": "https://myanimelist.net/manga/genre/69/Organized_Crime"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 169163,
+                    "type": "manga",
+                    "name": "Gomennasai, Messiah-chan",
+                    "url": "https://myanimelist.net/manga/169163/Gomennasai_Messiah-chan"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://magazine.yanmaga.jp/c/nezuminohatsukoi"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "mal_id": 21054,
+    "url": "https://myanimelist.net/manga/21054/Touhou_Ibara_Kasen__Wild_and_Horned_Hermit",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/149288.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/149288t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/149288l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/149288.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/149288t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/149288l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Touhou Ibara Kasen: Wild and Horned Hermit."
+        },
+        {
+            "type": "Synonym",
+            "title": "Touhou Ibarakasen"
+        },
+        {
+            "type": "Japanese",
+            "title": "東方茨歌仙 ～Wild and Horned Hermit."
+        }
+    ],
+    "title": "Touhou Ibara Kasen: Wild and Horned Hermit.",
+    "title_english": null,
+    "title_japanese": "東方茨歌仙 ～Wild and Horned Hermit.",
+    "title_synonyms": [
+        "Touhou Ibarakasen"
+    ],
+    "type": "Manga",
+    "chapters": 51,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-07-24T00:00:00+00:00",
+        "to": "2019-06-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 14,
+                "month": 6,
+                "year": 2019
+            }
+        },
+        "string": "Jul 24, 2010 to Jun 14, 2019"
+    },
+    "score": 8.11,
+    "scored": 8.11,
+    "scored_by": 2838,
+    "rank": 564,
+    "popularity": 2583,
+    "members": 8565,
+    "favorites": 334,
+    "synopsis": "Marisa comes across a mysterious hermit outside the Human Village. However, as she tells Reimu about her, the hermit is seen sneaking around the Hakurei Shrine. She's Ibara Kasen, a strange, bandaged ascetic of unknown nature and ability who's far more aware of them and Gensoukyou than either realizes.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2003,
+            "type": "people",
+            "name": "ZUN",
+            "url": "https://myanimelist.net/people/2003/ZUN"
+        },
+        {
+            "mal_id": 36723,
+            "type": "people",
+            "name": "Azuma, Aya",
+            "url": "https://myanimelist.net/people/36723/Aya_Azuma"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 496,
+            "type": "manga",
+            "name": "Febri",
+            "url": "https://myanimelist.net/manga/magazine/496/Febri"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 139153,
+                    "type": "manga",
+                    "name": "Touhou Project Niji Sousaku Series: Shinigami wa Kyou mo Fune wo Kogu",
+                    "url": "https://myanimelist.net/manga/139153/Touhou_Project_Niji_Sousaku_Series__Shinigami_wa_Kyou_mo_Fune_wo_Kogu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.ichijinsha.co.jp/special/toho_ibarakasen/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9%E8%8C%A8%E6%AD%8C%E4%BB%99_%E3%80%9C_Wild_and_Horned_Hermit."
+        }
+    ]
+}

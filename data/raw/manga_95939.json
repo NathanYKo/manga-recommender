@@ -1,0 +1,142 @@
+{
+    "mal_id": 95939,
+    "url": "https://myanimelist.net/manga/95939/Good_Night_World",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/175852.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/175852t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/175852l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/175852.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/175852t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/175852l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Good Night World"
+        },
+        {
+            "type": "Japanese",
+            "title": "グッド・ナイト・ワールド"
+        }
+    ],
+    "title": "Good Night World",
+    "title_english": null,
+    "title_japanese": "グッド・ナイト・ワールド",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 52,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-12-28T00:00:00+00:00",
+        "to": "2017-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 12,
+                "year": 2015
+            },
+            "to": {
+                "day": 9,
+                "month": 1,
+                "year": 2017
+            }
+        },
+        "string": "Dec 28, 2015 to Jan 9, 2017"
+    },
+    "score": 7.14,
+    "scored": 7.14,
+    "scored_by": 3175,
+    "rank": 6935,
+    "popularity": 2625,
+    "members": 8452,
+    "favorites": 95,
+    "synopsis": "A story about four members of the same broken family who find peace in a game called \"Planet.\" The catch is: they don't know about each other.\n\nAs the story unfolds hidden things are discovered about each member and about the relation the virtual world has with reality and how they affect one another.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 26131,
+            "type": "people",
+            "name": "Okabe, Uru",
+            "url": "https://myanimelist.net/people/26131/Uru_Okabe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1005,
+            "type": "manga",
+            "name": "Ura Sunday",
+            "url": "https://myanimelist.net/manga/magazine/1005/Ura_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 80,
+            "type": "manga",
+            "name": "Video Game",
+            "url": "https://myanimelist.net/manga/genre/80/Video_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 161396,
+                    "type": "manga",
+                    "name": "Good Night World End",
+                    "url": "https://myanimelist.net/manga/161396/Good_Night_World_End"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 56146,
+                    "type": "anime",
+                    "name": "Good Night World",
+                    "url": "https://myanimelist.net/anime/56146/Good_Night_World"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Good_Night_World"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/グッド・ナイト・ワールド"
+        }
+    ]
+}

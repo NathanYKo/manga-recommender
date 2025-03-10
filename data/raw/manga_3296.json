@@ -1,0 +1,154 @@
+{
+    "mal_id": 3296,
+    "url": "https://myanimelist.net/manga/3296/Riki-Oh",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/194112.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/194112t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/194112l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/194112.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/194112t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/194112l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Riki-Oh"
+        },
+        {
+            "type": "Synonym",
+            "title": "Riki Oh"
+        },
+        {
+            "type": "Synonym",
+            "title": "Violence Hero Riki-Oh"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kirinji"
+        },
+        {
+            "type": "Synonym",
+            "title": "New York Dust"
+        },
+        {
+            "type": "Japanese",
+            "title": "力王"
+        }
+    ],
+    "title": "Riki-Oh",
+    "title_english": null,
+    "title_japanese": "力王",
+    "title_synonyms": [
+        "Riki Oh",
+        "Violence Hero Riki-Oh",
+        "Kirinji",
+        "New York Dust"
+    ],
+    "type": "Manga",
+    "chapters": 77,
+    "volumes": 12,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1988-01-01T00:00:00+00:00",
+        "to": "1990-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1988
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 1990
+            }
+        },
+        "string": "1988 to 1990"
+    },
+    "score": 6.76,
+    "scored": 6.76,
+    "scored_by": 1547,
+    "rank": 12814,
+    "popularity": 4464,
+    "members": 4992,
+    "favorites": 57,
+    "synopsis": "In the late 1990s, with society descending into totalitarianism and anarchy, comes Saiga Riki-Oh, a lone wolf devoted to rooting out people's evil karma. To reconnect with a long-lost brother and solve the mystery behind the separated family and its relation to the Star of David on his hand, he punches through gangsters, corrupt martial artists, and more, all while drawing an equal number of hotblooded supporters and insane enemies.\n\n(Source: unami)\n\nIncluded one-shots:\nVolume 11: Kirinji\nVolume 12: New York Dust",
+    "background": "In 1991, the series was adapted into the live-action Hong Kong film Riki Oh: The Story of Ricky.",
+    "authors": [
+        {
+            "mal_id": 7363,
+            "type": "people",
+            "name": "Saruwatari, Tetsuya",
+            "url": "https://myanimelist.net/people/7363/Tetsuya_Saruwatari"
+        },
+        {
+            "mal_id": 43982,
+            "type": "people",
+            "name": "Takajou, Masahiko",
+            "url": "https://myanimelist.net/people/43982/Masahiko_Takajou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Business Jump",
+            "url": "https://myanimelist.net/manga/magazine/57/Business_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3509,
+                    "type": "anime",
+                    "name": "Riki-Oh: Toukatsu Jigoku",
+                    "url": "https://myanimelist.net/anime/3509/Riki-Oh__Toukatsu_Jigoku"
+                },
+                {
+                    "mal_id": 3511,
+                    "type": "anime",
+                    "name": "Riki-Oh 2: Horobi no Ko",
+                    "url": "https://myanimelist.net/anime/3511/Riki-Oh_2__Horobi_no_Ko"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%8A%9B%E7%8E%8B"
+        }
+    ]
+}

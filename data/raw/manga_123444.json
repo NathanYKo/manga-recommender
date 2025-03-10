@@ -1,0 +1,120 @@
+{
+    "mal_id": 123444,
+    "url": "https://myanimelist.net/manga/123444/Teito_Seihai_Kitan__Fate_type_Redline",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/234884.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/234884t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/234884l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/234884.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/234884t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/234884l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Teito Seihai Kitan: Fate/type Redline"
+        },
+        {
+            "type": "Japanese",
+            "title": "帝都聖杯奇譚 Fate/type Redline"
+        }
+    ],
+    "title": "Teito Seihai Kitan: Fate/type Redline",
+    "title_english": null,
+    "title_japanese": "帝都聖杯奇譚 Fate/type Redline",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-12-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 12,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 20, 2019 to ?"
+    },
+    "score": 8.31,
+    "scored": 8.31,
+    "scored_by": 4590,
+    "rank": 296,
+    "popularity": 1388,
+    "members": 15189,
+    "favorites": 689,
+    "synopsis": "A remake of the comedy spin-off manga Koha-Ace GO: Teito Seihai Kitan.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 41709,
+            "type": "people",
+            "name": "Keikenchi",
+            "url": "https://myanimelist.net/people/41709/Keikenchi"
+        },
+        {
+            "mal_id": 41813,
+            "type": "people",
+            "name": "Hirano, Ryouji",
+            "url": "https://myanimelist.net/people/41813/Ryouji_Hirano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1492,
+            "type": "manga",
+            "name": "TYPE-MOON Comic Ace",
+            "url": "https://myanimelist.net/manga/magazine/1492/TYPE-MOON_Comic_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://web-ace.jp/tmca/contents/2000014/"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "mal_id": 20065,
+    "url": "https://myanimelist.net/manga/20065/SKET_Dance",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/31462.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/31462t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/31462l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/31462.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/31462t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/31462l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "SKET Dance"
+        },
+        {
+            "type": "Japanese",
+            "title": "スケットダンス"
+        }
+    ],
+    "title": "SKET Dance",
+    "title_english": null,
+    "title_japanese": "スケットダンス",
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-08-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 8,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 28, 2006"
+    },
+    "score": 7.3,
+    "scored": 7.3,
+    "scored_by": 1322,
+    "rank": 4880,
+    "popularity": 7992,
+    "members": 2556,
+    "favorites": 146,
+    "synopsis": "Tasked with the goal of helping people on their campus, \"Sket-dan'' is a club made up of three disparate individuals: Yuusuke Fujisaki, a somewhat shortsighted yet energetic boy sporting a red cap and a pair of goggles; Hime Onizuka, a tomboyish girl known for her extraordinary strength and extravagant makeup; and Kazuyoshi Usui, the smartest member who only speaks using a speech synthesizer. Despite their self-proclaimed skills, the club scarcely receives any tasks, which has made the members rather pessimistic and disheartened.\n\nOne day, much to the trio's surprise, a high school student named Ichiro Yamanaka visits the Sket-dan with a request. Ichiro elaborates that his girlfriend Nanako Watanabe suddenly broke up with him for seemingly no reason, and he wants to figure out why she is behaving so strangely. Elated about finally receiving a proper request, the trio resolves to assist Ichiro with his predicament. However, as they continue their investigation, the group realizes that the situation may be more complex than they initially thought.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2994,
+            "type": "people",
+            "name": "Shinohara, Kenta",
+            "url": "https://myanimelist.net/people/2994/Kenta_Shinohara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 1414,
+                    "type": "manga",
+                    "name": "SKET Dance",
+                    "url": "https://myanimelist.net/manga/1414/SKET_Dance"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.shonenjump.com/e/rensai/sketdance/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Sket_Dance"
+        }
+    ]
+}

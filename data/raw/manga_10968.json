@@ -1,0 +1,126 @@
+{
+    "mal_id": 10968,
+    "url": "https://myanimelist.net/manga/10968/Mou_Hitotsu_no_Monster__The_Investigative_Report",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/14776.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/14776t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/14776l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/14776.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/14776t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/14776l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mou Hitotsu no Monster: The Investigative Report"
+        },
+        {
+            "type": "Synonym",
+            "title": "Another Monster: The Investigative Report"
+        },
+        {
+            "type": "Japanese",
+            "title": "もうひとつのMONSTER -The investigative report-"
+        }
+    ],
+    "title": "Mou Hitotsu no Monster: The Investigative Report",
+    "title_english": null,
+    "title_japanese": "もうひとつのMONSTER -The investigative report-",
+    "title_synonyms": [
+        "Another Monster: The Investigative Report"
+    ],
+    "type": "Light Novel",
+    "chapters": 31,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-06-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 6,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 2002"
+    },
+    "score": 7.69,
+    "scored": 7.69,
+    "scored_by": 695,
+    "rank": 1807,
+    "popularity": 5891,
+    "members": 3656,
+    "favorites": 18,
+    "synopsis": "Details the events of the manga from an investigative reporter's point of view.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1867,
+            "type": "people",
+            "name": "Urasawa, Naoki",
+            "url": "https://myanimelist.net/people/1867/Naoki_Urasawa"
+        }
+    ],
+    "serializations": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 39,
+            "type": "manga",
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1,
+                    "type": "manga",
+                    "name": "Monster",
+                    "url": "https://myanimelist.net/manga/1/Monster"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/MONSTER"
+        }
+    ]
+}

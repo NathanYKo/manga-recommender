@@ -1,0 +1,135 @@
+{
+    "mal_id": 86648,
+    "url": "https://myanimelist.net/manga/86648/Net-juu_no_Susume",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/150436.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/150436t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/150436l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/150436.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/150436t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/150436l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Net-juu no Susume"
+        },
+        {
+            "type": "Synonym",
+            "title": "Netojuu no Susume"
+        },
+        {
+            "type": "Japanese",
+            "title": "ネト充のススメ"
+        },
+        {
+            "type": "English",
+            "title": "Recommendation of The Internet Enhancement"
+        }
+    ],
+    "title": "Net-juu no Susume",
+    "title_english": "Recommendation of The Internet Enhancement",
+    "title_japanese": "ネト充のススメ",
+    "title_synonyms": [
+        "Netojuu no Susume"
+    ],
+    "type": "Manga",
+    "chapters": 87,
+    "volumes": null,
+    "status": "Discontinued",
+    "publishing": false,
+    "published": {
+        "from": "2013-10-16T00:00:00+00:00",
+        "to": "2015-07-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 21,
+                "month": 7,
+                "year": 2015
+            }
+        },
+        "string": "Oct 16, 2013 to Jul 21, 2015"
+    },
+    "score": 7.3,
+    "scored": 7.3,
+    "scored_by": 723,
+    "rank": 4886,
+    "popularity": 3465,
+    "members": 6444,
+    "favorites": 40,
+    "synopsis": "After quitting her job, Morioka Moriko became a NEET and got addicted to an online game. In that game, even a wilting woman in her thirties like her can become a young, handsome guy and Moriko's new adventure as Hayashi began.",
+    "background": "Net-juu no Susume was officially discontinued on June 30, 2018 after being on hiatus for almost 3 years.",
+    "authors": [
+        {
+            "mal_id": 36951,
+            "type": "people",
+            "name": "Kokuyou, Rin",
+            "url": "https://myanimelist.net/people/36951/Rin_Kokuyou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1278,
+            "type": "manga",
+            "name": "comico",
+            "url": "https://myanimelist.net/manga/magazine/1278/comico"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 36038,
+                    "type": "anime",
+                    "name": "Net-juu no Susume",
+                    "url": "https://myanimelist.net/anime/36038/Net-juu_no_Susume"
+                },
+                {
+                    "mal_id": 36043,
+                    "type": "anime",
+                    "name": "Net-juu no Susume Special",
+                    "url": "https://myanimelist.net/anime/36043/Net-juu_no_Susume_Special"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.comico.jp/articleList.nhn?titleNo=27"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%88%E5%85%85%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1"
+        }
+    ]
+}

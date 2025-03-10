@@ -1,0 +1,164 @@
+{
+    "mal_id": 125341,
+    "url": "https://myanimelist.net/manga/125341/Spy_Kyoushitsu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/247351.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/247351t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/247351l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/247351.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/247351t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/247351l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Spy Kyoushitsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Spy Room"
+        },
+        {
+            "type": "Japanese",
+            "title": "スパイ教室"
+        },
+        {
+            "type": "English",
+            "title": "Spy Classroom"
+        }
+    ],
+    "title": "Spy Kyoushitsu",
+    "title_english": "Spy Classroom",
+    "title_japanese": "スパイ教室",
+    "title_synonyms": [
+        "Spy Room"
+    ],
+    "type": "Manga",
+    "chapters": 15,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-05-27T00:00:00+00:00",
+        "to": "2022-04-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 5,
+                "year": 2020
+            },
+            "to": {
+                "day": 27,
+                "month": 4,
+                "year": 2022
+            }
+        },
+        "string": "May 27, 2020 to Apr 27, 2022"
+    },
+    "score": 6.54,
+    "scored": 6.54,
+    "scored_by": 420,
+    "rank": 16034,
+    "popularity": 7515,
+    "members": 2760,
+    "favorites": 14,
+    "synopsis": "In a world torn apart by war and ruled by intelligence, Lily—code name Flower Garden—is determined to become a master spy and help bring peace to the nation. So, when she's offered to join an elite squad that takes on Impossible Missions with 90 percent mortality rates, she's ecstatic...until she finds out that said \"elite squad\" is made up entirely of spy academy washouts, like her. But each and every one of them has the potential to change the world, and under the tutelage of master spy Klaus, it's time for them to bloom!\n\n(Source: Yen Press)",
+    "background": "Spy Kyoushitsu was published in English as Spy Classroom by Yen Press from January 25, 2022, to May 23, 2023.",
+    "authors": [
+        {
+            "mal_id": 41415,
+            "type": "people",
+            "name": "Seu, Kaname",
+            "url": "https://myanimelist.net/people/41415/Kaname_Seu"
+        },
+        {
+            "mal_id": 52226,
+            "type": "people",
+            "name": "Takemachi",
+            "url": "https://myanimelist.net/people/52226/Takemachi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 137,
+            "type": "manga",
+            "name": "Comic Alive",
+            "url": "https://myanimelist.net/manga/magazine/137/Comic_Alive"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 175665,
+                    "type": "manga",
+                    "name": "Spy Kyoushitsu 2-bu: Manamusume",
+                    "url": "https://myanimelist.net/manga/175665/Spy_Kyoushitsu_2-bu__Manamusume"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 125340,
+                    "type": "manga",
+                    "name": "Spy Kyoushitsu",
+                    "url": "https://myanimelist.net/manga/125340/Spy_Kyoushitsu"
+                },
+                {
+                    "mal_id": 51252,
+                    "type": "anime",
+                    "name": "Spy Kyoushitsu",
+                    "url": "https://myanimelist.net/anime/51252/Spy_Kyoushitsu"
+                },
+                {
+                    "mal_id": 54947,
+                    "type": "anime",
+                    "name": "Spy Kyoushitsu 2nd Season",
+                    "url": "https://myanimelist.net/anime/54947/Spy_Kyoushitsu_2nd_Season"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Spy_Classroom"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E6%95%99%E5%AE%A4"
+        }
+    ]
+}

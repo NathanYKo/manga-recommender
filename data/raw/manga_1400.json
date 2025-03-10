@@ -1,0 +1,125 @@
+{
+    "mal_id": 1400,
+    "url": "https://myanimelist.net/manga/1400/Abara",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/171728.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/171728t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/171728l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/171728.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/171728t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/171728l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Abara"
+        },
+        {
+            "type": "Synonym",
+            "title": "Digimortal"
+        },
+        {
+            "type": "Japanese",
+            "title": "アバラ"
+        },
+        {
+            "type": "English",
+            "title": "Abara"
+        }
+    ],
+    "title": "Abara",
+    "title_english": "Abara",
+    "title_japanese": "アバラ",
+    "title_synonyms": [
+        "Digimortal"
+    ],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-05-19T00:00:00+00:00",
+        "to": "2006-03-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 5,
+                "year": 2005
+            },
+            "to": {
+                "day": 18,
+                "month": 3,
+                "year": 2006
+            }
+        },
+        "string": "May 19, 2005 to Mar 18, 2006"
+    },
+    "score": 6.67,
+    "scored": 6.67,
+    "scored_by": 12760,
+    "rank": 14247,
+    "popularity": 631,
+    "members": 30242,
+    "favorites": 253,
+    "synopsis": "Abara is set in a dystopian world, filled with large structures. The story revolves around creatures known as Gaunas, those who can shape bone like armor and weaponry around themselves by transforming. The transformation begins around the spine and then shapes layered armor. The story focuses on one such Gauna known as Kudou Denji, though he uses Itou Denji as a fake name earlier.\n\n(Source: Wikipedia)\n\nIncluded one-shot:\nVolume 2: Digimortal (two parts)",
+    "background": "Abara has been licensed in English by VIZ Media who plans to release the series in a complete deluxe edition. It was published in Italian by Panini Comics under the Planet Manga imprint from July 5 to August 2, 2007 and was rereleased in a single omnibus on February 8, 2014, in Polish by Japonica Polonica Fantastica on October 2014 as part of \"Mega Manga\" series, and in Brazilian Portuguese by Panini Comics from May to July 2009.",
+    "authors": [
+        {
+            "mal_id": 2000,
+            "type": "people",
+            "name": "Nihei, Tsutomu",
+            "url": "https://myanimelist.net/people/2000/Tsutomu_Nihei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/ABARA"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "mal_id": 5655,
+    "url": "https://myanimelist.net/manga/5655/Kaijuu_no_Kodomo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/161119.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/161119t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/161119l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/161119.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/161119t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/161119l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kaijuu no Kodomo"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Sea Monster's Children"
+        },
+        {
+            "type": "Japanese",
+            "title": "海獣の子供"
+        },
+        {
+            "type": "English",
+            "title": "Children of the Sea"
+        }
+    ],
+    "title": "Kaijuu no Kodomo",
+    "title_english": "Children of the Sea",
+    "title_japanese": "海獣の子供",
+    "title_synonyms": [
+        "The Sea Monster's Children"
+    ],
+    "type": "Manga",
+    "chapters": 43,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-12-24T00:00:00+00:00",
+        "to": "2011-09-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 12,
+                "year": 2005
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Dec 24, 2005 to Sep 24, 2011"
+    },
+    "score": 7.95,
+    "scored": 7.95,
+    "scored_by": 3895,
+    "rank": 867,
+    "popularity": 1141,
+    "members": 17702,
+    "favorites": 482,
+    "synopsis": "Ruka's dad and the other adults who work at the aquarium are only distantly aware of what the children are experiencing as they get caught up in the mystery of the worldwide disappearance of the oceans' fish.\n\n(Source: VIZ Media)",
+    "background": "Kaijuu no Kodomo was published in English as Children of the Sea by VIZ Media under the SigIkki imprint from July 21, 2009 to June 18, 2013.",
+    "authors": [
+        {
+            "mal_id": 2838,
+            "type": "people",
+            "name": "Igarashi, Daisuke",
+            "url": "https://myanimelist.net/people/2838/Daisuke_Igarashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 136,
+            "type": "manga",
+            "name": "Ikki",
+            "url": "https://myanimelist.net/manga/magazine/136/Ikki"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 37981,
+                    "type": "anime",
+                    "name": "Kaijuu no Kodomo",
+                    "url": "https://myanimelist.net/anime/37981/Kaijuu_no_Kodomo"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.ikki-para.com/comix/kaijunokodomo.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%B5%B7%E7%8D%A3%E3%81%AE%E5%AD%90%E4%BE%9B"
+        }
+    ]
+}

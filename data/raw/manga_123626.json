@@ -1,0 +1,135 @@
+{
+    "mal_id": 123626,
+    "url": "https://myanimelist.net/manga/123626/Dark_Heaven",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/226431.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/226431t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/226431l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/226431.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/226431t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/226431l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dark Heaven"
+        },
+        {
+            "type": "Japanese",
+            "title": "다크 헤븐"
+        },
+        {
+            "type": "English",
+            "title": "Dark Heaven"
+        }
+    ],
+    "title": "Dark Heaven",
+    "title_english": "Dark Heaven",
+    "title_japanese": "다크 헤븐",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": 84,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-02-13T00:00:00+00:00",
+        "to": "2017-10-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 2,
+                "year": 2016
+            },
+            "to": {
+                "day": 28,
+                "month": 10,
+                "year": 2017
+            }
+        },
+        "string": "Feb 13, 2016 to Oct 28, 2017"
+    },
+    "score": 8.22,
+    "scored": 8.22,
+    "scored_by": 1165,
+    "rank": null,
+    "popularity": 7085,
+    "members": 2962,
+    "favorites": 149,
+    "synopsis": "Conor, a Korean-American, lives in a city where same-sex marriage has been legalized, but where racist and homophobic hate crimes are still frequent. He joins a band with the blonde hair, blue-eyed Simon and the two go on to create their own \"dark heaven\" in an abandoned church. Feelings develop between the pair, but light cannot dwell with dark, and their time together will soon come to an end...\n\n(Source: Lezhin Comics)",
+    "background": "Dark Heaven was published digitally in English by Lezhin Comics from January 25, 2017 to December 15, 2017.",
+    "authors": [
+        {
+            "mal_id": 50500,
+            "type": "people",
+            "name": "JUNS",
+            "url": "https://myanimelist.net/people/50500/JUNS"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1273,
+            "type": "manga",
+            "name": "Lezhin Comics Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/1273/Lezhin_Comics_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 149197,
+                    "type": "manga",
+                    "name": "Guardians of the Lamb",
+                    "url": "https://myanimelist.net/manga/149197/Guardians_of_the_Lamb"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.lezhin.com/ko/comic/dark_heaven"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EB%8B%A4%ED%81%AC%ED%97%A4%EB%B8%90"
+        }
+    ]
+}

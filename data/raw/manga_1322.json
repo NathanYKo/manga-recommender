@@ -1,0 +1,162 @@
+{
+    "mal_id": 1322,
+    "url": "https://myanimelist.net/manga/1322/Saint_Seiya__Next_Dimension_-_Meiou_Shinwa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/163134.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/163134t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/163134l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/163134.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/163134t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/163134l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Saint Seiya: Next Dimension - Meiou Shinwa"
+        },
+        {
+            "type": "Synonym",
+            "title": "Saint Seiya: Next Dimension - The Myth of Hades"
+        },
+        {
+            "type": "Japanese",
+            "title": "聖闘士星矢 NEXT DIMENSION 冥王神話"
+        }
+    ],
+    "title": "Saint Seiya: Next Dimension - Meiou Shinwa",
+    "title_english": null,
+    "title_japanese": "聖闘士星矢 NEXT DIMENSION 冥王神話",
+    "title_synonyms": [
+        "Saint Seiya: Next Dimension - The Myth of Hades"
+    ],
+    "type": "Manga",
+    "chapters": 122,
+    "volumes": 16,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-04-27T00:00:00+00:00",
+        "to": "2024-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 4,
+                "month": 7,
+                "year": 2024
+            }
+        },
+        "string": "Apr 27, 2006 to Jul 4, 2024"
+    },
+    "score": 7.06,
+    "scored": 7.06,
+    "scored_by": 2378,
+    "rank": 8126,
+    "popularity": 3975,
+    "members": 5658,
+    "favorites": 139,
+    "synopsis": "In 1990, in Elysium; the five saints Seiya, Hyoga, Shun, Shiryu and Ikki are battling the god Hades. During the battle, Hades starts remembering that he has seen Seiya's face before and comes to the conclusion that he faced him before, and thus the story begins...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1999,
+            "type": "people",
+            "name": "Kurumada, Masami",
+            "url": "https://myanimelist.net/people/1999/Masami_Kurumada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 1045,
+                    "type": "manga",
+                    "name": "Saint Seiya",
+                    "url": "https://myanimelist.net/manga/1045/Saint_Seiya"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 176209,
+                    "type": "manga",
+                    "name": "Saint Seiya: Then - Haikyo no Hana",
+                    "url": "https://myanimelist.net/manga/176209/Saint_Seiya__Then_-_Haikyo_no_Hana"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 1047,
+                    "type": "manga",
+                    "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+                    "url": "https://myanimelist.net/manga/1047/Saint_Seiya__The_Lost_Canvas_-_Meiou_Shinwa"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E8%81%96%E9%97%98%E5%A3%AB%E6%98%9F%E7%9F%A2_NEXT_DIMENSION_%E5%86%A5%E7%8E%8B%E7%A5%9E%E8%A9%B1"
+        }
+    ]
+}

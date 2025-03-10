@@ -1,0 +1,165 @@
+{
+    "mal_id": 112993,
+    "url": "https://myanimelist.net/manga/112993/Monster_Musume_no_Oishasan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/215559.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/215559t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/215559l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/215559.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/215559t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/215559l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Monster Musume no Oishasan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Monster Girl Doctor"
+        },
+        {
+            "type": "Japanese",
+            "title": "モンスター娘のお医者さん"
+        },
+        {
+            "type": "English",
+            "title": "The doctor for \"Monster girls.\""
+        }
+    ],
+    "title": "Monster Musume no Oishasan",
+    "title_english": "The doctor for \"Monster girls.\"",
+    "title_japanese": "モンスター娘のお医者さん",
+    "title_synonyms": [
+        "Monster Girl Doctor"
+    ],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "On Hiatus",
+    "publishing": false,
+    "published": {
+        "from": "2018-02-26T00:00:00+00:00",
+        "to": "2019-12-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 2,
+                "year": 2018
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 2019
+            }
+        },
+        "string": "Feb 26, 2018 to Dec 20, 2019"
+    },
+    "score": 6.79,
+    "scored": 6.79,
+    "scored_by": 686,
+    "rank": 12355,
+    "popularity": 5850,
+    "members": 3687,
+    "favorites": 7,
+    "synopsis": "In the town of Lindworm where monsters and humans coexist, Dr. Glenn runs an exemplary medical clinic for monster girls with his lamia assistant, Sapphee. Whether receiving a marriage proposal by a centaur injured in battle, palpating the injury of a mermaid, or suturing the delicate wounds of a flesh golem, Dr. Glenn performs his job with grace and confidence. But when an unsavory character seeks to steal a harpy egg, how will the unflappable Dr. Glenn respond...?\n\n(Source: Seven Seas Entertainment)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 24973,
+            "type": "people",
+            "name": "Origuchi, Yoshino",
+            "url": "https://myanimelist.net/people/24973/Yoshino_Origuchi"
+        },
+        {
+            "mal_id": 25535,
+            "type": "people",
+            "name": "Kanemaki, Tomasu",
+            "url": "https://myanimelist.net/people/25535/Tomasu_Kanemaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1391,
+            "type": "manga",
+            "name": "Comic Ryu Web",
+            "url": "https://myanimelist.net/manga/magazine/1391/Comic_Ryu_Web"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 51,
+            "type": "manga",
+            "name": "Anthropomorphic",
+            "url": "https://myanimelist.net/manga/genre/51/Anthropomorphic"
+        },
+        {
+            "mal_id": 67,
+            "type": "manga",
+            "name": "Medical",
+            "url": "https://myanimelist.net/manga/genre/67/Medical"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 98532,
+                    "type": "manga",
+                    "name": "Monster Musume no Oishasan",
+                    "url": "https://myanimelist.net/manga/98532/Monster_Musume_no_Oishasan"
+                },
+                {
+                    "mal_id": 40708,
+                    "type": "anime",
+                    "name": "Monster Musume no Oishasan",
+                    "url": "https://myanimelist.net/anime/40708/Monster_Musume_no_Oishasan"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.comic-ryu.jp/_monisha/index.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E5%A8%98%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93"
+        }
+    ]
+}

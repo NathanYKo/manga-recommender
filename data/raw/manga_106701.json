@@ -1,0 +1,121 @@
+{
+    "mal_id": 106701,
+    "url": "https://myanimelist.net/manga/106701/Sayonara_Alpha",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/198399.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/198399t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/198399l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/198399.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/198399t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/198399l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sayonara Alpha"
+        },
+        {
+            "type": "Synonym",
+            "title": "Goodbye Alpha"
+        },
+        {
+            "type": "Japanese",
+            "title": "さよならアルファ"
+        }
+    ],
+    "title": "Sayonara Alpha",
+    "title_english": null,
+    "title_japanese": "さよならアルファ",
+    "title_synonyms": [
+        "Goodbye Alpha"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-08-18T00:00:00+00:00",
+        "to": "2017-04-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 8,
+                "year": 2016
+            },
+            "to": {
+                "day": 20,
+                "month": 4,
+                "year": 2017
+            }
+        },
+        "string": "Aug 18, 2016 to Apr 20, 2017"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 3548,
+    "rank": null,
+    "popularity": 3433,
+    "members": 6506,
+    "favorites": 58,
+    "synopsis": "A high school boy who's always considered himself to be an alpha finds out that he's an omega?? And his destined partner is a kid?\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 45174,
+            "type": "people",
+            "name": "Ichinashi, Kimi",
+            "url": "https://myanimelist.net/people/45174/Kimi_Ichinashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1416,
+            "type": "manga",
+            "name": "b-boy Omegaverse",
+            "url": "https://myanimelist.net/manga/magazine/1416/b-boy_Omegaverse"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 126942,
+                    "type": "manga",
+                    "name": "Sayonara Alpha Bangai-hen",
+                    "url": "https://myanimelist.net/manga/126942/Sayonara_Alpha_Bangai-hen"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

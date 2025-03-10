@@ -1,0 +1,117 @@
+{
+    "mal_id": 147290,
+    "url": "https://myanimelist.net/manga/147290/Hero_Killer",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/261229.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/261229t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/261229l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/261229.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/261229t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/261229l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hero Killer"
+        },
+        {
+            "type": "Japanese",
+            "title": "히어로 킬러"
+        },
+        {
+            "type": "English",
+            "title": "Hero Killer"
+        }
+    ],
+    "title": "Hero Killer",
+    "title_english": "Hero Killer",
+    "title_japanese": "히어로 킬러",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2021-02-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 2,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 25, 2021 to ?"
+    },
+    "score": 7.62,
+    "scored": 7.62,
+    "scored_by": 2927,
+    "rank": 2188,
+    "popularity": 2259,
+    "members": 9646,
+    "favorites": 168,
+    "synopsis": "The world is in constant turmoil, with constant wars breaking out between Heroes and Villains. Gifted with supernatural abilities, one lone girl sets out on a bloody path for revenge against the injustices of the world she lives in. With the constant clashes between titans, no one is safe. If no one is willing to protect the innocent, who are the real heroes, and who are the real villains? What truly separates one from the other?\n\n(Source: Webtoon Entertainment)",
+    "background": "Hero Killer has been published digitally in English, French, Spanish, Indonesian, and Thai by Webtoon Entertainment.",
+    "authors": [
+        {
+            "mal_id": 58334,
+            "type": "people",
+            "name": "Kkulbeol",
+            "url": "https://myanimelist.net/people/58334/Kkulbeol"
+        },
+        {
+            "mal_id": 58335,
+            "type": "people",
+            "name": "Beolkkul",
+            "url": "https://myanimelist.net/people/58335/Beolkkul"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 673,
+            "type": "manga",
+            "name": "Naver Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/673/Naver_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.naver.com/webtoon/list?titleId=766563"
+        },
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%ED%9E%88%EC%96%B4%EB%A1%9C%20%ED%82%AC%EB%9F%AC(%EC%9B%B9%ED%88%B0)"
+        }
+    ]
+}

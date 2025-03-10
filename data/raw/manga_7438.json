@@ -1,0 +1,151 @@
+{
+    "mal_id": 7438,
+    "url": "https://myanimelist.net/manga/7438/Outlaw_Star",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/310853.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/310853t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/310853l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/310853.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/310853t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/310853l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Outlaw Star"
+        },
+        {
+            "type": "Synonym",
+            "title": "Seihou Bukyou Outlaw Star"
+        },
+        {
+            "type": "Japanese",
+            "title": "アウトロースター"
+        }
+    ],
+    "title": "Outlaw Star",
+    "title_english": null,
+    "title_japanese": "アウトロースター",
+    "title_synonyms": [
+        "Seihou Bukyou Outlaw Star"
+    ],
+    "type": "Manga",
+    "chapters": 17,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-08-25T00:00:00+00:00",
+        "to": "1999-02-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 8,
+                "year": 1997
+            },
+            "to": {
+                "day": 24,
+                "month": 2,
+                "year": 1999
+            }
+        },
+        "string": "Aug 25, 1997 to Feb 24, 1999"
+    },
+    "score": 7.15,
+    "scored": 7.15,
+    "scored_by": 435,
+    "rank": 6726,
+    "popularity": 7370,
+    "members": 2818,
+    "favorites": 15,
+    "synopsis": "Gene dreams of life as an Outlaw, and fate smiles on him as he seems to suddenly wind up with a great job. But as things go awry, and he finds himself the new owner of the fastest, most technologically advanced space ship in the galaxy. Unfortunately, it's stolen and the owners want it back... Along with his partner Jim and the lovely Melfina, Gene must fight his way across the galaxy battling pirates, aliens, and assassins as he attempts to discover the secrets of the Outlaw Star.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3750,
+            "type": "people",
+            "name": "Itou, Takehiko",
+            "url": "https://myanimelist.net/people/3750/Takehiko_Itou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 87,
+            "type": "manga",
+            "name": "Young Jump",
+            "url": "https://myanimelist.net/manga/magazine/87/Young_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 29,
+            "type": "manga",
+            "name": "Space",
+            "url": "https://myanimelist.net/manga/genre/29/Space"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 400,
+                    "type": "anime",
+                    "name": "Seihou Bukyou Outlaw Star",
+                    "url": "https://myanimelist.net/anime/400/Seihou_Bukyou_Outlaw_Star"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 3718,
+                    "type": "manga",
+                    "name": "Uchuu Eiyuu Monogatari",
+                    "url": "https://myanimelist.net/manga/3718/Uchuu_Eiyuu_Monogatari"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/星方武侠アウトロースター"
+        }
+    ]
+}

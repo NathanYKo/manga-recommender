@@ -1,0 +1,126 @@
+{
+    "mal_id": 5102,
+    "url": "https://myanimelist.net/manga/5102/Sangen_Tonari_no_Tooi_Hito",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/6384.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/6384t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/6384l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/6384.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/6384t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/6384l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sangen Tonari no Tooi Hito"
+        },
+        {
+            "type": "Synonym",
+            "title": "3 ken Tonari no Tooi Hito"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Guy Three Doors Down"
+        },
+        {
+            "type": "Japanese",
+            "title": "3軒隣の遠い人"
+        }
+    ],
+    "title": "Sangen Tonari no Tooi Hito",
+    "title_english": null,
+    "title_japanese": "3軒隣の遠い人",
+    "title_synonyms": [
+        "3 ken Tonari no Tooi Hito",
+        "The Guy Three Doors Down"
+    ],
+    "type": "Manga",
+    "chapters": 5,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2007"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 2775,
+    "rank": null,
+    "popularity": 4453,
+    "members": 4997,
+    "favorites": 15,
+    "synopsis": "What if you were to meet your childhood friend again after ten years of separation? This was exactly the case for Mitsuya, a recently transferred company executive who found out that the person living three doors down from his new apartment was none other than Noboru, his older's brother best friend... and his first love. As a young and brash middle schooler, Mitsuya had forcefully kissed Noboru and drove him away. Deeply regretting his action, he kept a tight lid on his feelings. But now, being with Noboru again is bringing all those heated memories back, as if they were never gone to begin with.",
+    "background": "Sangen Tonari no Tooi Hito was published in Spanish by Ediciones Tomodomo on December 16, 2019.",
+    "authors": [
+        {
+            "mal_id": 4645,
+            "type": "people",
+            "name": "Suzuki, Tsuta",
+            "url": "https://myanimelist.net/people/4645/Tsuta_Suzuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 133,
+            "type": "manga",
+            "name": "Chara",
+            "url": "https://myanimelist.net/manga/magazine/133/Chara"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 16084,
+                    "type": "manga",
+                    "name": "Merry Checker",
+                    "url": "https://myanimelist.net/manga/16084/Merry_Checker"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

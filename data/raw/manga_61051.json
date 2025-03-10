@@ -1,0 +1,115 @@
+{
+    "mal_id": 61051,
+    "url": "https://myanimelist.net/manga/61051/Kyuusen_no_Shima",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/117501.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/117501t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/117501l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/117501.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/117501t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/117501l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kyuusen no Shima"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hades Island"
+        },
+        {
+            "type": "Japanese",
+            "title": "九泉之島"
+        }
+    ],
+    "title": "Kyuusen no Shima",
+    "title_english": null,
+    "title_japanese": "九泉之島",
+    "title_synonyms": [
+        "Hades Island"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-12-07T00:00:00+00:00",
+        "to": "2013-11-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": 7,
+                "month": 11,
+                "year": 2013
+            }
+        },
+        "string": "Dec 7, 2012 to Nov 7, 2013"
+    },
+    "score": 5.25,
+    "scored": 5.25,
+    "scored_by": 2513,
+    "rank": 20417,
+    "popularity": 4484,
+    "members": 4965,
+    "favorites": 15,
+    "synopsis": "Yuuma is summoned back to his home island after the death of his mother and asked to become the next head of the wealthy Nuenaki family. He has certain misgivings though and rejects the offer. However after the current head dies not a day after his arrival, he has no choice but to become involved.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 26741,
+            "type": "people",
+            "name": "Higashida, Yuusuke",
+            "url": "https://myanimelist.net/people/26741/Yuusuke_Higashida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 316,
+            "type": "manga",
+            "name": "good! Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/316/good_Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://afternoon.moae.jp/lineup/219"
+        }
+    ]
+}

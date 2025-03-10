@@ -1,0 +1,111 @@
+{
+    "mal_id": 5339,
+    "url": "https://myanimelist.net/manga/5339/Koi_Suta",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/10951.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/10951t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/10951l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/10951.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/10951t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/10951l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koi Suta"
+        },
+        {
+            "type": "Synonym",
+            "title": "Koisuta"
+        },
+        {
+            "type": "Japanese",
+            "title": "こい・すた"
+        }
+    ],
+    "title": "Koi Suta",
+    "title_english": null,
+    "title_japanese": "こい・すた",
+    "title_synonyms": [
+        "Koisuta"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2008"
+    },
+    "score": 7.09,
+    "scored": 7.09,
+    "scored_by": 1460,
+    "rank": 7694,
+    "popularity": 7121,
+    "members": 2943,
+    "favorites": 9,
+    "synopsis": "First year high school student Shizuku-chan is determined to find a boyfriend. She needs to move on because she knows that her first love, Kairi-kun, could never be hers. He is her older sister's boyfriend and he is very much in love with her. In fact, her sister is having a baby! In an effort to forget about Kairi-kun, Shizuku does everything she can to find someone new, but this will be difficult, as Kairi is a teacher at her school and she sees him every day! Then one day, her attention is caught by Hatori Sora, a very popular boy in her class...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2013,
+            "type": "people",
+            "name": "Yuuhi, Ryuu",
+            "url": "https://myanimelist.net/people/2013/Ryuu_Yuuhi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Sho-Comi",
+            "url": "https://myanimelist.net/manga/magazine/22/Sho-Comi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

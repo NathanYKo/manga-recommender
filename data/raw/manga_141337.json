@@ -1,0 +1,103 @@
+{
+    "mal_id": 141337,
+    "url": "https://myanimelist.net/manga/141337/Studio_Cabana",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/251546.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/251546t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/251546l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/251546.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/251546t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/251546l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Studio Cabana"
+        },
+        {
+            "type": "Japanese",
+            "title": "スタジオカバナ"
+        }
+    ],
+    "title": "Studio Cabana",
+    "title_english": null,
+    "title_japanese": "スタジオカバナ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2021-06-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 6,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 24, 2021 to ?"
+    },
+    "score": 7.59,
+    "scored": 7.59,
+    "scored_by": 695,
+    "rank": 2343,
+    "popularity": 5651,
+    "members": 3822,
+    "favorites": 60,
+    "synopsis": "Yukari Maki is an earnest high school girl. Recently, she has been interested in Yuusuke Kusaka, a classmate who is called a juvenile delinquent and is the exact opposite of her. In unfamiliar surroundings, Yukari sees Yuusuke enter a music studio called \"Studio Cabana\" one day. There, he sings a \"love\" song, something which seems to clash with how most see him.\n\n(Source: Kadokawa, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 51902,
+            "type": "people",
+            "name": "Uma, Aguri",
+            "url": "https://myanimelist.net/people/51902/Aguri_Uma"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1425,
+            "type": "manga",
+            "name": "pixiv Sylph",
+            "url": "https://myanimelist.net/manga/magazine/1425/pixiv_Sylph"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 19,
+            "type": "manga",
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic.pixiv.net/works/7567"
+        }
+    ]
+}

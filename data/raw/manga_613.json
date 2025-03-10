@@ -1,0 +1,132 @@
+{
+    "mal_id": 613,
+    "url": "https://myanimelist.net/manga/613/Buraiden_Gai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/3993.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/3993t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/3993l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/3993.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/3993t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/3993l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Buraiden Gai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Legend of Outlaw Gai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gai"
+        },
+        {
+            "type": "Japanese",
+            "title": "無頼伝　涯"
+        }
+    ],
+    "title": "Buraiden Gai",
+    "title_english": null,
+    "title_japanese": "無頼伝　涯",
+    "title_synonyms": [
+        "Legend of Outlaw Gai",
+        "Gai"
+    ],
+    "type": "Manga",
+    "chapters": 38,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-03-15T00:00:00+00:00",
+        "to": "2001-01-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 3,
+                "year": 2000
+            },
+            "to": {
+                "day": 24,
+                "month": 1,
+                "year": 2001
+            }
+        },
+        "string": "Mar 15, 2000 to Jan 24, 2001"
+    },
+    "score": 7.54,
+    "scored": 7.54,
+    "scored_by": 3146,
+    "rank": 2707,
+    "popularity": 3547,
+    "members": 6327,
+    "favorites": 83,
+    "synopsis": "The story revolves around Kudo Gai, a mischievous 13-year-old all alone in the world. He despises his classmates who live by their free will, although supported by parents, but taking it for granted. Gai soon finds out he is contradicting himself for he is being raised at an orphanage as well, and makes an attempt for independence. His actions lands him in trouble, where he is framed for murder and sent to a place in an unknown location called the \"human institute\".",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2539,
+            "type": "people",
+            "name": "Fukumoto, Nobuyuki",
+            "url": "https://myanimelist.net/people/2539/Nobuyuki_Fukumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 112780,
+                    "type": "manga",
+                    "name": "Fukumoto All Stars",
+                    "url": "https://myanimelist.net/manga/112780/Fukumoto_All_Stars"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%84%A1%E9%A0%BC%E4%BC%9D%E6%B6%AF"
+        }
+    ]
+}

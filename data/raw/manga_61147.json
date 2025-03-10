@@ -1,0 +1,166 @@
+{
+    "mal_id": 61147,
+    "url": "https://myanimelist.net/manga/61147/Fate_Extra_CCC__Fox_Tail",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/120387.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/120387t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/120387l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/120387.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/120387t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/120387l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fate/Extra CCC: Fox Tail"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fate/Extra CCC FoxTail"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fate/Extra: Miko-n! Cas-ko-chan!?"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fate/Extra: Mikoon! Kyasuko-chan!?"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fate/Extra: Mikoon! Caster Kitsune-chan!?"
+        },
+        {
+            "type": "Synonym",
+            "title": "Miko-n! Casko-chan!?"
+        },
+        {
+            "type": "Japanese",
+            "title": "Fate/EXTRA CCC FoxTail"
+        }
+    ],
+    "title": "Fate/Extra CCC: Fox Tail",
+    "title_english": null,
+    "title_japanese": "Fate/EXTRA CCC FoxTail",
+    "title_synonyms": [
+        "Fate/Extra CCC FoxTail",
+        "Fate/Extra: Miko-n! Cas-ko-chan!?",
+        "Fate/Extra: Mikoon! Kyasuko-chan!?",
+        "Fate/Extra: Mikoon! Caster Kitsune-chan!?",
+        "Miko-n! Casko-chan!?"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2013-10-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 26, 2013 to ?"
+    },
+    "score": 7.51,
+    "scored": 7.51,
+    "scored_by": 732,
+    "rank": 2943,
+    "popularity": 5549,
+    "members": 3908,
+    "favorites": 66,
+    "synopsis": "The series is set on the Far Side of the Moon Cell, where BB used her abilities to create the Sakura Labyrinth. She brought over various Masters and Servants from the Moon Cell Holy Grail War on the Near Side, some taken instantly before their deletion and others brought during the sixth week.\n\n(Source: Type-Moon Wikia)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2582,
+            "type": "people",
+            "name": "Type-Moon",
+            "url": "https://myanimelist.net/people/2582/Type-Moon"
+        },
+        {
+            "mal_id": 8220,
+            "type": "people",
+            "name": "Takenoko Seijin",
+            "url": "https://myanimelist.net/people/8220/Takenoko_Seijin"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 112,
+            "type": "manga",
+            "name": "Comp Ace",
+            "url": "https://myanimelist.net/manga/magazine/112/Comp_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 87581,
+                    "type": "manga",
+                    "name": "Type-Moon Gakuen: Chibichuki!",
+                    "url": "https://myanimelist.net/manga/87581/Type-Moon_Gakuen__Chibichuki"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 32425,
+                    "type": "manga",
+                    "name": "Fate/Extra",
+                    "url": "https://myanimelist.net/manga/32425/Fate_Extra"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

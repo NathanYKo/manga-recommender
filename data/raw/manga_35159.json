@@ -1,0 +1,166 @@
+{
+    "mal_id": 35159,
+    "url": "https://myanimelist.net/manga/35159/Beatless__Dystopia",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/112473.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/112473t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/112473l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/112473.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/112473t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/112473l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Beatless: Dystopia"
+        },
+        {
+            "type": "Japanese",
+            "title": "BEATLESS-dystopia"
+        }
+    ],
+    "title": "Beatless: Dystopia",
+    "title_english": null,
+    "title_japanese": "BEATLESS-dystopia",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-02-25T00:00:00+00:00",
+        "to": "2013-01-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 2,
+                "year": 2012
+            },
+            "to": {
+                "day": 26,
+                "month": 1,
+                "year": 2013
+            }
+        },
+        "string": "Feb 25, 2012 to Jan 26, 2013"
+    },
+    "score": 6.66,
+    "scored": 6.66,
+    "scored_by": 1875,
+    "rank": 14295,
+    "popularity": 4700,
+    "members": 4694,
+    "favorites": 47,
+    "synopsis": "\"I believe in that smile. Even if you don't have a soul.\"\n\n2105 A.D. Japan\n\nThe humanoid android hiE became part of people's life and was handling the things human could and couldn't do. Endou Arato, unlike his friends Kenko and Ryou who hate hiE, felt sympathy for hiE which are supposed to be just objects. One night, Arato suddenly gets assaulted by mysterious falling cherry blossoms that make hiE and machines run havoc. Will the cornered Arato be saved by the mysterious hiE Lacia...",
+    "background": "Beatless: Dystopia has been licensed in Spanish by Norma Editorial.",
+    "authors": [
+        {
+            "mal_id": 7257,
+            "type": "people",
+            "name": "Uguisu, Kagura",
+            "url": "https://myanimelist.net/people/7257/Kagura_Uguisu"
+        },
+        {
+            "mal_id": 16139,
+            "type": "people",
+            "name": "Hase, Satoshi",
+            "url": "https://myanimelist.net/people/16139/Satoshi_Hase"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 63717,
+                    "type": "manga",
+                    "name": "Beatless",
+                    "url": "https://myanimelist.net/manga/63717/Beatless"
+                },
+                {
+                    "mal_id": 36516,
+                    "type": "anime",
+                    "name": "Beatless",
+                    "url": "https://myanimelist.net/anime/36516/Beatless"
+                },
+                {
+                    "mal_id": 38020,
+                    "type": "anime",
+                    "name": "Beatless Final Stage",
+                    "url": "https://myanimelist.net/anime/38020/Beatless_Final_Stage"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 72717,
+                    "type": "manga",
+                    "name": "Tendou no Singularity",
+                    "url": "https://myanimelist.net/manga/72717/Tendou_no_Singularity"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Beatless"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/BEATLESS"
+        }
+    ]
+}

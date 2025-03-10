@@ -1,0 +1,111 @@
+{
+    "mal_id": 34735,
+    "url": "https://myanimelist.net/manga/34735/Heart_Assassin",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/63205.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/63205t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/63205l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/63205.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/63205t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/63205l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Heart Assassin"
+        },
+        {
+            "type": "Synonym",
+            "title": "Suteki Danshi Catalogue"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハートアサシン"
+        }
+    ],
+    "title": "Heart Assassin",
+    "title_english": null,
+    "title_japanese": "ハートアサシン",
+    "title_synonyms": [
+        "Suteki Danshi Catalogue"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-05-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 5,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 20, 2011"
+    },
+    "score": 7.16,
+    "scored": 7.16,
+    "scored_by": 1526,
+    "rank": 6686,
+    "popularity": 7706,
+    "members": 2673,
+    "favorites": 8,
+    "synopsis": "Shio deals with unwanted attention from a transfer student known as \"The Assassin.\"\n\n(Source: MU)",
+    "background": "Heart Assassin was included in the booklet, which sold with Hana to Yume issue no.12, 2011.",
+    "authors": [
+        {
+            "mal_id": 15881,
+            "type": "people",
+            "name": "Sora, Kakeru",
+            "url": "https://myanimelist.net/people/15881/Kakeru_Sora"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Hana to Yume",
+            "url": "https://myanimelist.net/manga/magazine/21/Hana_to_Yume"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

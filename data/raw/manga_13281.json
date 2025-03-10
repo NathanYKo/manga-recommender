@@ -1,0 +1,111 @@
+{
+    "mal_id": 13281,
+    "url": "https://myanimelist.net/manga/13281/Ichigo_Jikan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/175425.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/175425t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/175425l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/175425.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/175425t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/175425l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ichigo Jikan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ichigo Time"
+        },
+        {
+            "type": "Japanese",
+            "title": "苺時間"
+        }
+    ],
+    "title": "Ichigo Jikan",
+    "title_english": null,
+    "title_japanese": "苺時間",
+    "title_synonyms": [
+        "Ichigo Time"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-01-05T00:00:00+00:00",
+        "to": "2009-06-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 1,
+                "year": 2009
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2009
+            }
+        },
+        "string": "Jan 5, 2009 to Jun 20, 2009"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 3133,
+    "rank": 4362,
+    "popularity": 3695,
+    "members": 6110,
+    "favorites": 26,
+    "synopsis": "Ichiko is all set to move into her new dorm...except there isn't any space left! She ends up with a key to a small apartment nearby. But she's not the only one assigned to it...! It happens to belong to cool older guy Ran, and he isn't too happy with the new living arrangements!\n\n(Source: Nagareboshi Manga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3658,
+            "type": "people",
+            "name": "Kumagai, Kyouko",
+            "url": "https://myanimelist.net/people/3658/Kyouko_Kumagai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Sho-Comi",
+            "url": "https://myanimelist.net/manga/magazine/22/Sho-Comi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

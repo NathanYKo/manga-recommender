@@ -1,0 +1,123 @@
+{
+    "mal_id": 102452,
+    "url": "https://myanimelist.net/manga/102452/8-gatsu_no_Ghost",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/194156.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/194156t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/194156l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/194156.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/194156t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/194156l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "8-gatsu no Ghost"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hachigatsu no Ghost"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ghost of August"
+        },
+        {
+            "type": "Japanese",
+            "title": "8月のゴースト"
+        },
+        {
+            "type": "English",
+            "title": "She is in the summer"
+        }
+    ],
+    "title": "8-gatsu no Ghost",
+    "title_english": "She is in the summer",
+    "title_japanese": "8月のゴースト",
+    "title_synonyms": [
+        "Hachigatsu no Ghost",
+        "Ghost of August"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-08-10T00:00:00+00:00",
+        "to": "2016-12-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 8,
+                "year": 2016
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Aug 10, 2016 to Dec 28, 2016"
+    },
+    "score": 7.1,
+    "scored": 7.1,
+    "scored_by": 1636,
+    "rank": 7565,
+    "popularity": 6434,
+    "members": 3311,
+    "favorites": 24,
+    "synopsis": "Naoto, a young writer, comes back to the island where he lived 7 years ago. After randomly meeting the younger sister of his first love, he begins to remember that tragic summer that changed his life...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 42808,
+            "type": "people",
+            "name": "Furumoto, Takeru",
+            "url": "https://myanimelist.net/people/42808/Takeru_Furumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1097,
+            "type": "manga",
+            "name": "Yawaraka Spirits",
+            "url": "https://myanimelist.net/manga/magazine/1097/Yawaraka_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://yawaspi.com/ghost/index.html"
+        }
+    ]
+}

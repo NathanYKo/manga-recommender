@@ -1,0 +1,107 @@
+{
+    "mal_id": 125556,
+    "url": "https://myanimelist.net/manga/125556/Koi_ga_Fuufu_ni_Naru_Mae_ni",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/229532.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/229532t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/229532l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/229532.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/229532t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/229532l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koi ga Fuufu ni Naru Mae ni"
+        },
+        {
+            "type": "Synonym",
+            "title": "First Comes Love"
+        },
+        {
+            "type": "Synonym",
+            "title": "Then Comes Marriage"
+        },
+        {
+            "type": "Japanese",
+            "title": "恋が夫婦になる前に"
+        }
+    ],
+    "title": "Koi ga Fuufu ni Naru Mae ni",
+    "title_english": null,
+    "title_japanese": "恋が夫婦になる前に",
+    "title_synonyms": [
+        "First Comes Love",
+        "Then Comes Marriage"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-11-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 11,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 28, 2019 to ?"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 1017,
+    "rank": 5303,
+    "popularity": 5100,
+    "members": 4290,
+    "favorites": 8,
+    "synopsis": "Youth comedy master Niichi brings us a new story about an engaged couple, Maki and Tetsuya! While the things that were once new and exciting for them have long since become commonplace, their relationship continues to grow. This is a heartwarming story that depicts their transition from boyfriend and girlfriend to husband and wife.\n\n(Source: Kadokawa, translated)",
+    "background": "Koi ga Fuufu ni Naru Mae ni began as a web comic on the author's pixiv and Twitter accounts on August 6, 2017. The series has been published in book format by Kadokawa since November 28, 2019.",
+    "authors": [
+        {
+            "mal_id": 51200,
+            "type": "people",
+            "name": "Niichi",
+            "url": "https://myanimelist.net/people/51200/Niichi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

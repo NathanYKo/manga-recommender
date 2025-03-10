@@ -1,0 +1,150 @@
+{
+    "mal_id": 937,
+    "url": "https://myanimelist.net/manga/937/Ikinari_Full_Metal_Panic",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/126271.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/126271t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/126271l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/126271.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/126271t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/126271l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ikinari! Full Metal Panic!"
+        },
+        {
+            "type": "Japanese",
+            "title": "いきなり！ フルメタル・パニック！"
+        },
+        {
+            "type": "English",
+            "title": "Full Metal Panic! Overload!"
+        }
+    ],
+    "title": "Ikinari! Full Metal Panic!",
+    "title_english": "Full Metal Panic! Overload!",
+    "title_japanese": "いきなり！ フルメタル・パニック！",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 29,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-01-30T00:00:00+00:00",
+        "to": "2003-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2003
+            }
+        },
+        "string": "Jan 30, 2001 to Apr 1, 2003"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 991,
+    "rank": 5322,
+    "popularity": 7978,
+    "members": 2563,
+    "favorites": 26,
+    "synopsis": "Sousuke has finally lost his mind—and his memory! Rehashing his previous exploits will keep Kaname busy, but it doesn't take long for the military mind of this soldier to bounce back with a bang—literally! He's locked, loaded, and back to his old self by first period, as bombs and bullets grace the halls of high school!\n\n(Source: ADV)",
+    "background": "Ikinari! Full Metal Panic! was published in English as Full Metal Panic! Overload! by ADV Manga from June 6, 2005 to May 24, 2006.",
+    "authors": [
+        {
+            "mal_id": 2622,
+            "type": "people",
+            "name": "Gatou, Shouji",
+            "url": "https://myanimelist.net/people/2622/Shouji_Gatou"
+        },
+        {
+            "mal_id": 26985,
+            "type": "people",
+            "name": "Nagai, Tomohiro",
+            "url": "https://myanimelist.net/people/26985/Tomohiro_Nagai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 64,
+            "type": "manga",
+            "name": "Dragon Junior",
+            "url": "https://myanimelist.net/manga/magazine/64/Dragon_Junior"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 789,
+                    "type": "manga",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/789/Full_Metal_Panic"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AB%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%BB%E3%83%91%E3%83%8B%E3%83%83%E3%82%AF!"
+        }
+    ]
+}

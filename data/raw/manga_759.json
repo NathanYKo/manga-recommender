@@ -1,0 +1,173 @@
+{
+    "mal_id": 759,
+    "url": "https://myanimelist.net/manga/759/Seto_no_Hanayome",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/185286.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/185286t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/185286l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/185286.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/185286t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/185286l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Seto no Hanayome"
+        },
+        {
+            "type": "Synonym",
+            "title": "SetoYome"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Inland Sea Bride"
+        },
+        {
+            "type": "Japanese",
+            "title": "瀬戸の花嫁"
+        },
+        {
+            "type": "English",
+            "title": "My Bride is a Mermaid"
+        }
+    ],
+    "title": "Seto no Hanayome",
+    "title_english": "My Bride is a Mermaid",
+    "title_japanese": "瀬戸の花嫁",
+    "title_synonyms": [
+        "SetoYome",
+        "The Inland Sea Bride"
+    ],
+    "type": "Manga",
+    "chapters": 79,
+    "volumes": 16,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-07-26T00:00:00+00:00",
+        "to": "2010-11-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 7,
+                "year": 2002
+            },
+            "to": {
+                "day": 22,
+                "month": 11,
+                "year": 2010
+            }
+        },
+        "string": "Jul 26, 2002 to Nov 22, 2010"
+    },
+    "score": 7.5,
+    "scored": 7.5,
+    "scored_by": 2419,
+    "rank": 2975,
+    "popularity": 2441,
+    "members": 9010,
+    "favorites": 75,
+    "synopsis": "A young boy gets saved from drowning by a mermaid but, according to mermaid law, if a human sees a mermaid's true form, both have to be killed. The only solution to the problem is for him to marry her. But can they keep her secret from being found out?\n\n(Source: Animewaves)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2594,
+            "type": "people",
+            "name": "Kimura, Tahiko",
+            "url": "https://myanimelist.net/people/2594/Tahiko_Kimura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 939,
+            "type": "manga",
+            "name": "Gangan Wing",
+            "url": "https://myanimelist.net/manga/magazine/939/Gangan_Wing"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 69,
+            "type": "manga",
+            "name": "Organized Crime",
+            "url": "https://myanimelist.net/manga/genre/69/Organized_Crime"
+        },
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2104,
+                    "type": "anime",
+                    "name": "Seto no Hanayome",
+                    "url": "https://myanimelist.net/anime/2104/Seto_no_Hanayome"
+                },
+                {
+                    "mal_id": 4163,
+                    "type": "anime",
+                    "name": "Seto no Hanayome OVA",
+                    "url": "https://myanimelist.net/anime/4163/Seto_no_Hanayome_OVA"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E3%81%AE%E8%8A%B1%E5%AB%81_(%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

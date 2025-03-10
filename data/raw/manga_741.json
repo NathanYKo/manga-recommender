@@ -1,0 +1,158 @@
+{
+    "mal_id": 741,
+    "url": "https://myanimelist.net/manga/741/Onegai☆Twins",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/58097.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/58097t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/58097l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/58097.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/58097t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/58097l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Onegai☆Twins"
+        },
+        {
+            "type": "Synonym",
+            "title": "Please Twins"
+        },
+        {
+            "type": "Japanese",
+            "title": "おねがい☆ツインズ"
+        },
+        {
+            "type": "English",
+            "title": "Onegai Twins"
+        }
+    ],
+    "title": "Onegai☆Twins",
+    "title_english": "Onegai Twins",
+    "title_japanese": "おねがい☆ツインズ",
+    "title_synonyms": [
+        "Please Twins"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-09-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 9,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 27, 2005"
+    },
+    "score": 6.93,
+    "scored": 6.93,
+    "scored_by": 1598,
+    "rank": 10042,
+    "popularity": 6511,
+    "members": 3264,
+    "favorites": 21,
+    "synopsis": "Maiku Kamishiro has a problem. Actually, make that two problems. He has two young girls boarding at his house, each claiming that they're his long-lost twin sister! Which one is Maiku's sister? Which one is a total stranger?",
+    "background": "Onegai☆Twins was published in English by ComicsOne on July 17, 2006. It was also released in Brazilian Portuguese by Editora JBC in two volumes from June 2008 to July 2008.",
+    "authors": [
+        {
+            "mal_id": 5008,
+            "type": "people",
+            "name": "Please!",
+            "url": "https://myanimelist.net/people/5008/Please"
+        },
+        {
+            "mal_id": 5009,
+            "type": "people",
+            "name": "Akikan",
+            "url": "https://myanimelist.net/people/5009/Akikan"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "Dengeki Daioh",
+            "url": "https://myanimelist.net/manga/magazine/23/Dengeki_Daioh"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 196,
+                    "type": "anime",
+                    "name": "Onegai☆Twins",
+                    "url": "https://myanimelist.net/anime/196/Onegai☆Twins"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 155222,
+                    "type": "manga",
+                    "name": "Onegai☆Twins",
+                    "url": "https://myanimelist.net/manga/155222/Onegai☆Twins"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 874,
+                    "type": "manga",
+                    "name": "Onegai☆Teacher",
+                    "url": "https://myanimelist.net/manga/874/Onegai☆Teacher"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Please_Twins%21"
+        }
+    ]
+}

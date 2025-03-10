@@ -1,0 +1,108 @@
+{
+    "mal_id": 60797,
+    "url": "https://myanimelist.net/manga/60797/Kimi_no_Iru_Machi__Mousou_200-wa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/212732.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/212732t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/212732l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/212732.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/212732t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/212732l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi no Iru Machi: Mousou 200-wa"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimi no Iru Machi: Fantasy Chapter 200"
+        },
+        {
+            "type": "Japanese",
+            "title": "君のいる町 妄想200話"
+        }
+    ],
+    "title": "Kimi no Iru Machi: Mousou 200-wa",
+    "title_english": null,
+    "title_japanese": "君のいる町 妄想200話",
+    "title_synonyms": [
+        "Kimi no Iru Machi: Fantasy Chapter 200"
+    ],
+    "type": "Manga",
+    "chapters": 9,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-09-25T00:00:00+00:00",
+        "to": "2014-03-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 9,
+                "year": 2013
+            },
+            "to": {
+                "day": 17,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Sep 25, 2013 to Mar 17, 2014"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 1704,
+    "rank": 5261,
+    "popularity": 6973,
+    "members": 3022,
+    "favorites": 17,
+    "synopsis": "Fantasy Chapter 200 is a series of special chapters released with the Kimi no Iru Machi anime Blu-ray/DVD limited edition sets. Original chapter 200 features Haruto and Yuzuki's first time, and the fantasy chapters are alternate versions featuring other female characters selected by a popularity poll.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2405,
+            "type": "people",
+            "name": "Seo, Kouji",
+            "url": "https://myanimelist.net/people/2405/Kouji_Seo"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 8483,
+                    "type": "manga",
+                    "name": "Kimi no Iru Machi",
+                    "url": "https://myanimelist.net/manga/8483/Kimi_no_Iru_Machi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

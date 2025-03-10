@@ -1,0 +1,130 @@
+{
+    "mal_id": 17201,
+    "url": "https://myanimelist.net/manga/17201/Clover_no_Kuni_no_Alice__Heart_no_Kishi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/297918.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/297918t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/297918l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/297918.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/297918t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/297918l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Clover no Kuni no Alice: Heart no Kishi"
+        },
+        {
+            "type": "Japanese",
+            "title": "クローバーの国のアリス ～ハートの騎士～"
+        },
+        {
+            "type": "English",
+            "title": "Alice in the Country of Clover: Ace of Hearts"
+        }
+    ],
+    "title": "Clover no Kuni no Alice: Heart no Kishi",
+    "title_english": "Alice in the Country of Clover: Ace of Hearts",
+    "title_japanese": "クローバーの国のアリス ～ハートの騎士～",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-12-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 12,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 25, 2009"
+    },
+    "score": 7.11,
+    "scored": 7.11,
+    "scored_by": 1410,
+    "rank": 7315,
+    "popularity": 5319,
+    "members": 4094,
+    "favorites": 59,
+    "synopsis": "Ace, the Knight of Heart Castle, is known throughout Wonderland not only for his master swordsmanship, but for his tendency towards cruelty. Can the charming Alice Liddell mellow Ace and his violent ways? Perhaps Ace will even fall in love with Alice...if he doesn't kill her first.\n\n(Source: Seven Seas Entertainment)",
+    "background": "Clover no Kuni no Alice: Heart no Kishi was published in English as Alice in the Country of Clover: Ace of Hearts by Seven Seas Entertainment on June 4, 2013.",
+    "authors": [
+        {
+            "mal_id": 8758,
+            "type": "people",
+            "name": "Fujimaru, Mamenosuke",
+            "url": "https://myanimelist.net/people/8758/Mamenosuke_Fujimaru"
+        },
+        {
+            "mal_id": 10558,
+            "type": "people",
+            "name": "QuinRose",
+            "url": "https://myanimelist.net/people/10558/QuinRose"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 34535,
+                    "type": "manga",
+                    "name": "Clover no Kuni no Alice: Kishi no Kokoroe",
+                    "url": "https://myanimelist.net/manga/34535/Clover_no_Kuni_no_Alice__Kishi_no_Kokoroe"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 11516,
+                    "type": "manga",
+                    "name": "Heart no Kuni no Alice: Wonderful Wonder World",
+                    "url": "https://myanimelist.net/manga/11516/Heart_no_Kuni_no_Alice__Wonderful_Wonder_World"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

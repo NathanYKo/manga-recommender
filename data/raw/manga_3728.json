@@ -1,0 +1,144 @@
+{
+    "mal_id": 3728,
+    "url": "https://myanimelist.net/manga/3728/Natsu_no_Arashi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/55599.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/55599t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/55599l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/55599.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/55599t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/55599l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Natsu no Arashi!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Summer Storm!"
+        },
+        {
+            "type": "Japanese",
+            "title": "夏のあらし!"
+        }
+    ],
+    "title": "Natsu no Arashi!",
+    "title_english": null,
+    "title_japanese": "夏のあらし!",
+    "title_synonyms": [
+        "Summer Storm!"
+    ],
+    "type": "Manga",
+    "chapters": 50,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-08-26T00:00:00+00:00",
+        "to": "2010-09-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 8,
+                "year": 2006
+            },
+            "to": {
+                "day": 22,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Aug 26, 2006 to Sep 22, 2010"
+    },
+    "score": 7.09,
+    "scored": 7.09,
+    "scored_by": 441,
+    "rank": 7644,
+    "popularity": 8697,
+    "members": 2304,
+    "favorites": 15,
+    "synopsis": "When Yasaka goes to stay at his grandfather's house for the summer, he makes friends with a girl named Arashi- but Arashi is not all she appears, for she possesses unique and mysterious powers...",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2135,
+            "type": "people",
+            "name": "Kobayashi, Jin",
+            "url": "https://myanimelist.net/people/2135/Jin_Kobayashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 939,
+            "type": "manga",
+            "name": "Gangan Wing",
+            "url": "https://myanimelist.net/manga/magazine/939/Gangan_Wing"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 79,
+            "type": "manga",
+            "name": "Time Travel",
+            "url": "https://myanimelist.net/manga/genre/79/Time_Travel"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 5597,
+                    "type": "anime",
+                    "name": "Natsu no Arashi!",
+                    "url": "https://myanimelist.net/anime/5597/Natsu_no_Arashi"
+                },
+                {
+                    "mal_id": 6712,
+                    "type": "anime",
+                    "name": "Natsu no Arashi! Akinaichuu",
+                    "url": "https://myanimelist.net/anime/6712/Natsu_no_Arashi_Akinaichuu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Natsu_no_Arashi"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%A4%8F%E3%81%AE%E3%81%82%E3%82%89%E3%81%97!"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "mal_id": 12713,
+    "url": "https://myanimelist.net/manga/12713/Red",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/177360.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/177360t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/177360l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/177360.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/177360t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/177360l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Red"
+        },
+        {
+            "type": "Synonym",
+            "title": "Red: Living on the Edge"
+        },
+        {
+            "type": "Japanese",
+            "title": "RED"
+        }
+    ],
+    "title": "Red",
+    "title_english": null,
+    "title_japanese": "RED",
+    "title_synonyms": [
+        "Red: Living on the Edge"
+    ],
+    "type": "Manga",
+    "chapters": 151,
+    "volumes": 19,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1998-11-04T00:00:00+00:00",
+        "to": "2005-10-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 11,
+                "year": 1998
+            },
+            "to": {
+                "day": 31,
+                "month": 10,
+                "year": 2005
+            }
+        },
+        "string": "Nov 4, 1998 to Oct 31, 2005"
+    },
+    "score": 7.79,
+    "scored": 7.79,
+    "scored_by": 719,
+    "rank": 1380,
+    "popularity": 5297,
+    "members": 4108,
+    "favorites": 62,
+    "synopsis": "There are times when the ambitious nature of human beings has led them to commit unthinkable acts against their fellow men. Red—a young boy of the Wisa Tribe—knows this all too well, having been left behind as the lone survivor after his tribe was massacred by American troops.\n\nDetermined to avenge those dearest to him, Red sets out on a journey, during the course of which he encounters Ierou Itou, a Seinan War deserter who made his way to America in hopes of forgetting the people he left behind; and Angie, a young and charming prostitute who has her own share of secrets. Together with his newfound companions, Red wanders the land, seeking to hunt down those who once treated him as prey.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2780,
+            "type": "people",
+            "name": "Muraeda, Kenichi",
+            "url": "https://myanimelist.net/people/2780/Kenichi_Muraeda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 120,
+            "type": "manga",
+            "name": "Young Magazine Uppers",
+            "url": "https://myanimelist.net/manga/magazine/120/Young_Magazine_Uppers"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/RED_%28%E6%9D%91%E6%9E%9D%E8%B3%A2%E4%B8%80%29"
+        }
+    ]
+}

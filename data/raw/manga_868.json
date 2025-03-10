@@ -1,0 +1,133 @@
+{
+    "mal_id": 868,
+    "url": "https://myanimelist.net/manga/868/Karakuri_Circus",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/170932.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/170932t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/170932l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/170932.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/170932t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/170932l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Karakuri Circus"
+        },
+        {
+            "type": "Synonym",
+            "title": "Clockwork Circus"
+        },
+        {
+            "type": "Japanese",
+            "title": "からくりサーカス"
+        }
+    ],
+    "title": "Karakuri Circus",
+    "title_english": null,
+    "title_japanese": "からくりサーカス",
+    "title_synonyms": [
+        "Clockwork Circus"
+    ],
+    "type": "Manga",
+    "chapters": 426,
+    "volumes": 43,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1997-07-09T00:00:00+00:00",
+        "to": "2006-05-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 1997
+            },
+            "to": {
+                "day": 31,
+                "month": 5,
+                "year": 2006
+            }
+        },
+        "string": "Jul 9, 1997 to May 31, 2006"
+    },
+    "score": 7.96,
+    "scored": 7.96,
+    "scored_by": 1983,
+    "rank": 840,
+    "popularity": 2319,
+    "members": 9435,
+    "favorites": 237,
+    "synopsis": "Katou Narumi suffers from Zonapha Syndrome, a rare ailment that stops his breathing unless he makes people laugh. He's been forced to abandon his training in Chinese kenpo and return to Japan, where he now works as a clown. The only problem: he's not very funny.\n\nOne day he meets Saiga Masaru, the recent inheritor of a huge fortune, who gives him the first laugh he's gotten all day. When he realizes Masaru is being pursued by assassins, he steps in to protect the boy, only to discover that instead of conventional weapons, the assassins wield huge, eerie puppets. They soon encounter the mysterious Shirogane, who controls a puppet of her own, and claims she was sent from France by Masaru's late grandfather to protect him.\n\nTheir paths intertwine and diverge, splitting into two stories: Karakuri and Circus, puppets and performers, tears and laughter. The strange circus of living dolls that spreads Zonapha Syndrome, the human puppets known collectively as the Shirogane, and the puppeteers whose undying grudge set in motion both sides of this performance.\n\n(Source: Batoto)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2660,
+            "type": "people",
+            "name": "Fujita, Kazuhiro",
+            "url": "https://myanimelist.net/people/2660/Kazuhiro_Fujita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 229,
+            "type": "manga",
+            "name": "Shounen Sunday",
+            "url": "https://myanimelist.net/manga/magazine/229/Shounen_Sunday"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 40340,
+                    "type": "anime",
+                    "name": "Shounen Sunday CM: Karakuri Circus",
+                    "url": "https://myanimelist.net/anime/40340/Shounen_Sunday_CM__Karakuri_Circus"
+                },
+                {
+                    "mal_id": 37447,
+                    "type": "anime",
+                    "name": "Karakuri Circus",
+                    "url": "https://myanimelist.net/anime/37447/Karakuri_Circus"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9"
+        }
+    ]
+}

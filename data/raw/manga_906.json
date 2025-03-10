@@ -1,0 +1,116 @@
+{
+    "mal_id": 906,
+    "url": "https://myanimelist.net/manga/906/The_Silvery_Crow",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/157088.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/157088t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/157088l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/157088.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/157088t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/157088l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "The Silvery Crow"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shirogane no Karasu"
+        },
+        {
+            "type": "Japanese",
+            "title": "しろがねの鴉"
+        }
+    ],
+    "title": "The Silvery Crow",
+    "title_english": null,
+    "title_japanese": "しろがねの鴉",
+    "title_synonyms": [
+        "Shirogane no Karasu"
+    ],
+    "type": "Manga",
+    "chapters": 25,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2007 to ?"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 1724,
+    "rank": 8559,
+    "popularity": 5506,
+    "members": 3952,
+    "favorites": 11,
+    "synopsis": "John Elegadine, a curry lover and a professional thief, encounters Lu Larue, a thief lock picker, as he was taking a stroll through a bazaar. With the two together, they are to find the legendary demon stone that is scattered into thirteen pieces around the world. Once the pieces are put back together, the demon stone is willing to grant a wish upon the user's desire.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2465,
+            "type": "people",
+            "name": "Kamijyo, Akimine",
+            "url": "https://myanimelist.net/people/2465/Akimine_Kamijyo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

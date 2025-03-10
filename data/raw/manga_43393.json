@@ -1,0 +1,181 @@
+{
+    "mal_id": 43393,
+    "url": "https://myanimelist.net/manga/43393/Madan_no_Ou_to_Vanadis",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/203786.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/203786t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/203786l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/203786.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/203786t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/203786l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Madan no Ou to Vanadis"
+        },
+        {
+            "type": "Synonym",
+            "title": "Madan no Ou to Senki"
+        },
+        {
+            "type": "Synonym",
+            "title": "The King of the Magic Bullet and Vanadis"
+        },
+        {
+            "type": "Synonym",
+            "title": "Lord Marksman and Vanadis"
+        },
+        {
+            "type": "Japanese",
+            "title": "魔弾の王と戦姫〈ヴァナディース〉"
+        }
+    ],
+    "title": "Madan no Ou to Vanadis",
+    "title_english": null,
+    "title_japanese": "魔弾の王と戦姫〈ヴァナディース〉",
+    "title_synonyms": [
+        "Madan no Ou to Senki",
+        "The King of the Magic Bullet and Vanadis",
+        "Lord Marksman and Vanadis"
+    ],
+    "type": "Light Novel",
+    "chapters": 95,
+    "volumes": 18,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-04-25T00:00:00+00:00",
+        "to": "2017-11-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 25,
+                "month": 11,
+                "year": 2017
+            }
+        },
+        "string": "Apr 25, 2011 to Nov 25, 2017"
+    },
+    "score": 7.82,
+    "scored": 7.82,
+    "scored_by": 1576,
+    "rank": 1255,
+    "popularity": 3035,
+    "members": 7383,
+    "favorites": 114,
+    "synopsis": "Set in Western Europe during times of war, Eleanor \"Ellen\" Vertalia, one of the Vanadis of Zhcted, leads the battle into Brune. There are, in fact, seven Vanadis, named for having each received a powerful weapon from the dragon to individually reign over seven territories. The power of the Vanadis invokes dread and fear from their enemies. An earl in the service of the country of Brune, a young archer by the name of Tigre, experienced the Vandis's power firsthand after being defeated on the battlefield by Ellen. However, Ellen chose to spare his life after witnessing his skills, but in exchange, he is asked to serve her.\n\n(Source: jCafe24)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 19059,
+            "type": "people",
+            "name": "Kawaguchi, Tsukasa",
+            "url": "https://myanimelist.net/people/19059/Tsukasa_Kawaguchi"
+        },
+        {
+            "mal_id": 19063,
+            "type": "people",
+            "name": "Yoshi☆wo",
+            "url": "https://myanimelist.net/people/19063/Yoshi☆wo"
+        },
+        {
+            "mal_id": 25027,
+            "type": "people",
+            "name": "Katagiri, Hinata",
+            "url": "https://myanimelist.net/people/25027/Hinata_Katagiri"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 43391,
+                    "type": "manga",
+                    "name": "Madan no Ou to Vanadis",
+                    "url": "https://myanimelist.net/manga/43391/Madan_no_Ou_to_Vanadis"
+                },
+                {
+                    "mal_id": 24455,
+                    "type": "anime",
+                    "name": "Madan no Ou to Vanadis",
+                    "url": "https://myanimelist.net/anime/24455/Madan_no_Ou_to_Vanadis"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 125183,
+                    "type": "manga",
+                    "name": "Madan no Ou to Michelia",
+                    "url": "https://myanimelist.net/manga/125183/Madan_no_Ou_to_Michelia"
+                },
+                {
+                    "mal_id": 133179,
+                    "type": "manga",
+                    "name": "Madan no Ou to Seisen no Carnwenhan",
+                    "url": "https://myanimelist.net/manga/133179/Madan_no_Ou_to_Seisen_no_Carnwenhan"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.mediafactory.co.jp/bunkoj/madan/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%AD%94%E5%BC%BE%E3%81%AE%E7%8E%8B%E3%81%A8%E6%88%A6%E5%A7%AB"
+        }
+    ]
+}

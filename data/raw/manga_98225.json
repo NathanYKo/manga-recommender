@@ -1,0 +1,121 @@
+{
+    "mal_id": 98225,
+    "url": "https://myanimelist.net/manga/98225/Yu☆Gi☆Oh__Transcend_Game",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/176024.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/176024t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/176024l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/176024.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/176024t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/176024l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yu☆Gi☆Oh!: Transcend Game"
+        },
+        {
+            "type": "Japanese",
+            "title": "遊☆戯☆王 TRANSCEND・GAME"
+        },
+        {
+            "type": "English",
+            "title": "Yu-Gi-Oh! Transcend Game"
+        }
+    ],
+    "title": "Yu☆Gi☆Oh!: Transcend Game",
+    "title_english": "Yu-Gi-Oh! Transcend Game",
+    "title_japanese": "遊☆戯☆王 TRANSCEND・GAME",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-04-11T00:00:00+00:00",
+        "to": "2016-04-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 18,
+                "month": 4,
+                "year": 2016
+            }
+        },
+        "string": "Apr 11, 2016 to Apr 18, 2016"
+    },
+    "score": 6.64,
+    "scored": 6.64,
+    "scored_by": 1072,
+    "rank": 14641,
+    "popularity": 8796,
+    "members": 2273,
+    "favorites": 13,
+    "synopsis": "A two-part prologue special to the movie Yu☆Gi☆Oh!: The Dark Side of Dimensions set between the end of the Yu☆Gi☆Oh! manga and the beginning of the movie.",
+    "background": "Yu☆Gi☆Oh!: Transcend Game was published in English in VIZ Media's digital Weekly Shonen Jump.",
+    "authors": [
+        {
+            "mal_id": 1913,
+            "type": "people",
+            "name": "Takahashi, Kazuki",
+            "url": "https://myanimelist.net/people/1913/Kazuki_Takahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 54,
+                    "type": "manga",
+                    "name": "Yu☆Gi☆Oh!",
+                    "url": "https://myanimelist.net/manga/54/Yu☆Gi☆Oh"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,127 @@
+{
+    "mal_id": 3004,
+    "url": "https://myanimelist.net/manga/3004/Indigo_Blue",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/3985.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/3985t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/3985l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/3985.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/3985t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/3985l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Indigo Blue"
+        },
+        {
+            "type": "Japanese",
+            "title": "インディゴ・ブルー"
+        }
+    ],
+    "title": "Indigo Blue",
+    "title_english": null,
+    "title_japanese": "インディゴ・ブルー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2001-10-06T00:00:00+00:00",
+        "to": "2002-09-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2001
+            },
+            "to": {
+                "day": 7,
+                "month": 9,
+                "year": 2002
+            }
+        },
+        "string": "Oct 6, 2001 to Sep 7, 2002"
+    },
+    "score": 7.24,
+    "scored": 7.24,
+    "scored_by": 1191,
+    "rank": null,
+    "popularity": 7489,
+    "members": 2767,
+    "favorites": 24,
+    "synopsis": "Rutsu, a novelist, finds herself caught between her boyfriend and another woman.\n\n(Source: Lililicious)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3232,
+            "type": "people",
+            "name": "Yamaji, Ebine",
+            "url": "https://myanimelist.net/people/3232/Ebine_Yamaji"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 103,
+            "type": "manga",
+            "name": "Feel Young",
+            "url": "https://myanimelist.net/manga/magazine/103/Feel_Young"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/インディゴ・ブルー"
+        }
+    ]
+}

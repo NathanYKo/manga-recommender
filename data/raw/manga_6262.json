@@ -1,0 +1,115 @@
+{
+    "mal_id": 6262,
+    "url": "https://myanimelist.net/manga/6262/School_Ningyo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/111857.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/111857t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/111857l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/111857.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/111857t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/111857l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "School Ningyo"
+        },
+        {
+            "type": "Synonym",
+            "title": "School Mermaid"
+        },
+        {
+            "type": "Japanese",
+            "title": "スクール人魚"
+        }
+    ],
+    "title": "School Ningyo",
+    "title_english": null,
+    "title_japanese": "スクール人魚",
+    "title_synonyms": [
+        "School Mermaid"
+    ],
+    "type": "Manga",
+    "chapters": 32,
+    "volumes": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-10-26T00:00:00+00:00",
+        "to": "2017-12-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 26, 2006 to Dec 19, 2017"
+    },
+    "score": 6.66,
+    "scored": 6.66,
+    "scored_by": 3511,
+    "rank": 14367,
+    "popularity": 2828,
+    "members": 7909,
+    "favorites": 43,
+    "synopsis": "Compilation of short stories, each about two girls hunting for mermaids to win their true love.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2054,
+            "type": "people",
+            "name": "Yoshitomi, Akihito",
+            "url": "https://myanimelist.net/people/2054/Akihito_Yoshitomi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 186,
+            "type": "manga",
+            "name": "Champion RED",
+            "url": "https://myanimelist.net/manga/magazine/186/Champion_RED"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E4%BA%BA%E9%AD%9A"
+        }
+    ]
+}

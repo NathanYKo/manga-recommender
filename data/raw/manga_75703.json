@@ -1,0 +1,108 @@
+{
+    "mal_id": 75703,
+    "url": "https://myanimelist.net/manga/75703/Oingo_to_Boingo_Kyoudai_Daibouken",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/131129.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/131129t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/131129l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/131129.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/131129t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/131129l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Oingo to Boingo Kyoudai Daibouken"
+        },
+        {
+            "type": "Synonym",
+            "title": "Oingo Boingo Brothers' Adventure"
+        },
+        {
+            "type": "Japanese",
+            "title": "オインゴとボインゴ兄弟大冒険"
+        }
+    ],
+    "title": "Oingo to Boingo Kyoudai Daibouken",
+    "title_english": null,
+    "title_japanese": "オインゴとボインゴ兄弟大冒険",
+    "title_synonyms": [
+        "Oingo Boingo Brothers' Adventure"
+    ],
+    "type": "Manga",
+    "chapters": 2,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-10-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 10,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 23, 2002"
+    },
+    "score": 6.17,
+    "scored": 6.17,
+    "scored_by": 2070,
+    "rank": 19210,
+    "popularity": 5322,
+    "members": 4094,
+    "favorites": 12,
+    "synopsis": "Spin-off of JoJo's Bizarre Adventure Part 3: Stardust Crusaders. Gives an inside look on Oingo and Boingo's way to kill the Crusaders.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2619,
+            "type": "people",
+            "name": "Araki, Hirohiko",
+            "url": "https://myanimelist.net/people/2619/Hirohiko_Araki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 872,
+                    "type": "manga",
+                    "name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+                    "url": "https://myanimelist.net/manga/872/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

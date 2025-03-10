@@ -1,0 +1,153 @@
+{
+    "mal_id": 97916,
+    "url": "https://myanimelist.net/manga/97916/Koutetsujou_no_Kabaneri",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186860.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186860t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186860l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186860.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186860t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186860l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koutetsujou no Kabaneri"
+        },
+        {
+            "type": "Japanese",
+            "title": "甲鉄城のカバネリ"
+        },
+        {
+            "type": "English",
+            "title": "Kabaneri of the Iron Fortress"
+        }
+    ],
+    "title": "Koutetsujou no Kabaneri",
+    "title_english": "Kabaneri of the Iron Fortress",
+    "title_japanese": "甲鉄城のカバネリ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 28,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-05-02T00:00:00+00:00",
+        "to": "2018-11-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 5,
+                "year": 2016
+            },
+            "to": {
+                "day": 5,
+                "month": 11,
+                "year": 2018
+            }
+        },
+        "string": "May 2, 2016 to Nov 5, 2018"
+    },
+    "score": 7.23,
+    "scored": 7.23,
+    "scored_by": 418,
+    "rank": 5638,
+    "popularity": 5764,
+    "members": 3736,
+    "favorites": 29,
+    "synopsis": "As the world is in the middle of an industrial revolution, a monster appears that cannot be defeated unless its heart, which is protected by a layer of iron, is pierced. By infecting humans with its bite, the monster can create aggressive and undead creatures known as Kabane. On the island Hinomoto, located in the far east, people have built stations to shelter themselves from these creatures. People access the station, as well as transport wares between them, with the help of a locomotive running on steam, called Hayajiro. Ikoma, a boy who lives in the Aragane station and helps to build Hayajiro, creates his own weapon called Tsuranukizutsu in order to defeat the creatures. One day, as he waits for an opportunity to use his weapon, he meets a girl named Mumei, who is excused from the mandatory Kabane inspection. During the night, Ikoma meets Mumei again as he sees Hayajiro going out of control. The staff on the locomotive has turned into the creatures. The station, now under attack by Kabane, is the opportunity Ikoma has been looking for.\n\n(Source: MAL News)",
+    "background": "Koutetsujou no Kabaneri is an adaptation of 's original TV anime series of the same title.",
+    "authors": [
+        {
+            "mal_id": 40995,
+            "type": "people",
+            "name": "Yoshida, Shirou",
+            "url": "https://myanimelist.net/people/40995/Shirou_Yoshida"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1217,
+            "type": "manga",
+            "name": "Comic Garden",
+            "url": "https://myanimelist.net/manga/magazine/1217/Comic_Garden"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 98576,
+                    "type": "manga",
+                    "name": "Koutetsujou no Kabaneri: Akatsuki",
+                    "url": "https://myanimelist.net/manga/98576/Koutetsujou_no_Kabaneri__Akatsuki"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 28623,
+                    "type": "anime",
+                    "name": "Koutetsujou no Kabaneri",
+                    "url": "https://myanimelist.net/anime/28623/Koutetsujou_no_Kabaneri"
+                }
+            ]
+        },
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 98575,
+                    "type": "manga",
+                    "name": "Koutetsujou no Kabaneri",
+                    "url": "https://myanimelist.net/manga/98575/Koutetsujou_no_Kabaneri"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%94%B2%E9%89%84%E5%9F%8E%E3%81%AE%E3%82%AB%E3%83%90%E3%83%8D%E3%83%AA"
+        }
+    ]
+}

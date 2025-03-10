@@ -1,0 +1,128 @@
+{
+    "mal_id": 43607,
+    "url": "https://myanimelist.net/manga/43607/Bleach__The_Death_Save_the_Strawberry",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/77703.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/77703t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/77703l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/77703.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/77703t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/77703l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bleach: The Death Save the Strawberry"
+        },
+        {
+            "type": "Japanese",
+            "title": "BLEACH The Death Save The Strawberry"
+        }
+    ],
+    "title": "Bleach: The Death Save the Strawberry",
+    "title_english": null,
+    "title_japanese": "BLEACH The Death Save The Strawberry",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-09-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 9,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 4, 2012"
+    },
+    "score": 7.53,
+    "scored": 7.53,
+    "scored_by": 744,
+    "rank": 2789,
+    "popularity": 7386,
+    "members": 2811,
+    "favorites": 27,
+    "synopsis": "A novel set during the seventeenth month timeskip after the battle with Aizen.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1880,
+            "type": "people",
+            "name": "Kubo, Tite",
+            "url": "https://myanimelist.net/people/1880/Tite_Kubo"
+        },
+        {
+            "mal_id": 12592,
+            "type": "people",
+            "name": "Matsubara, Makoto",
+            "url": "https://myanimelist.net/people/12592/Makoto_Matsubara"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 12,
+                    "type": "manga",
+                    "name": "Bleach",
+                    "url": "https://myanimelist.net/manga/12/Bleach"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

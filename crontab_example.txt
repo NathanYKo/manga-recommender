@@ -1,0 +1,3 @@
+# Example crontab entries for automatic updates:
+0 3 * * 0 cd /Users/nathanko/Documents/GitHub/manga-recommender && ./update_database.py  # Weekly database update every Sunday at 3 AM
+0 4 * * 0 cd /Users/nathanko/Documents/GitHub/manga-recommender && ./refresh_models.py  # Weekly model refresh every Sunday at 4 AM

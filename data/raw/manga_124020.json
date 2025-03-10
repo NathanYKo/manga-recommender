@@ -1,0 +1,106 @@
+{
+    "mal_id": 124020,
+    "url": "https://myanimelist.net/manga/124020/Fushi_no_Sougishi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/226167.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/226167t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/226167l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/226167.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/226167t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/226167l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fushi no Sougishi"
+        },
+        {
+            "type": "Japanese",
+            "title": "不死の葬儀師"
+        },
+        {
+            "type": "English",
+            "title": "Immortal Undertaker"
+        }
+    ],
+    "title": "Fushi no Sougishi",
+    "title_english": "Immortal Undertaker",
+    "title_japanese": "不死の葬儀師",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-12-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 12,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 30, 2017 to ?"
+    },
+    "score": 6.74,
+    "scored": 6.74,
+    "scored_by": 786,
+    "rank": 13192,
+    "popularity": 6107,
+    "members": 3517,
+    "favorites": 8,
+    "synopsis": "This is the story of the hero who must kill the princess. In this world, the dead are sent to their final resting places by the Immortal Undertakers, a race of long-living, human-like beings. Leon, a half-breed, is the youngest of them and is on his way to take his final test when his train derails. He meets a human girl in the forest, and though he doesn't know her, he somehow feels he must protect her...from the other Undertakers!\n\n(Source: Mangamo)",
+    "background": "Fushi no Sougishi is published digitally in English as Immortal Undertaker through Mangamo.",
+    "authors": [
+        {
+            "mal_id": 50375,
+            "type": "people",
+            "name": "Kiyomiya, Kousuke",
+            "url": "https://myanimelist.net/people/50375/Kousuke_Kiyomiya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1339,
+            "type": "manga",
+            "name": "Ganma!",
+            "url": "https://myanimelist.net/manga/magazine/1339/Ganma"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://ganma.jp/undertaker"
+        }
+    ]
+}

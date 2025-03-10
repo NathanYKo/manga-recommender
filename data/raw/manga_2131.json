@@ -1,0 +1,108 @@
+{
+    "mal_id": 2131,
+    "url": "https://myanimelist.net/manga/2131/Koisuru_Boukun_dj_-_Aru_Hi_Mori_no_Naka",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/194452.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/194452t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/194452l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/194452.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/194452t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/194452l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Koisuru Boukun dj - Aru Hi, Mori no Naka."
+        },
+        {
+            "type": "Synonym",
+            "title": "The Tyrant Falls in Love dj - One Day in the Forest"
+        },
+        {
+            "type": "Japanese",
+            "title": "ある日、森の中。"
+        }
+    ],
+    "title": "Koisuru Boukun dj - Aru Hi, Mori no Naka.",
+    "title_english": null,
+    "title_japanese": "ある日、森の中。",
+    "title_synonyms": [
+        "The Tyrant Falls in Love dj - One Day in the Forest"
+    ],
+    "type": "Doujinshi",
+    "chapters": null,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-12-29T00:00:00+00:00",
+        "to": "2016-12-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 12,
+                "year": 2005
+            },
+            "to": {
+                "day": 30,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Dec 29, 2005 to Dec 30, 2016"
+    },
+    "score": 7.64,
+    "scored": 7.64,
+    "scored_by": 1928,
+    "rank": null,
+    "popularity": 5167,
+    "members": 4217,
+    "favorites": 33,
+    "synopsis": "Alternative universe story featuring the main characters from Koisuru Boukun. Kuma (Bear!Morinaga) wishes he could get to know Ookami-san (Wolf! Tatsumi) better, but Ookami-san doesn't seem interested. Until, one day, Kuma finds Ookami-san badly injured and takes him in...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2273,
+            "type": "people",
+            "name": "Takanaga, Hinako",
+            "url": "https://myanimelist.net/people/2273/Hinako_Takanaga"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 1199,
+                    "type": "manga",
+                    "name": "Koisuru Boukun",
+                    "url": "https://myanimelist.net/manga/1199/Koisuru_Boukun"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

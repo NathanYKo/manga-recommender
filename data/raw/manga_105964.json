@@ -1,0 +1,111 @@
+{
+    "mal_id": 105964,
+    "url": "https://myanimelist.net/manga/105964/Moekare_wa_Orange-iro",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/194187.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/194187t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/194187l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/194187.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/194187t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/194187l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Moekare wa Orange-iro"
+        },
+        {
+            "type": "Japanese",
+            "title": "モエカレはオレンジ色"
+        },
+        {
+            "type": "English",
+            "title": "My Boyfriend in Orange"
+        }
+    ],
+    "title": "Moekare wa Orange-iro",
+    "title_english": "My Boyfriend in Orange",
+    "title_japanese": "モエカレはオレンジ色",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-05-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 5,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 24, 2016 to ?"
+    },
+    "score": 7.23,
+    "scored": 7.23,
+    "scored_by": 1259,
+    "rank": 5726,
+    "popularity": 3741,
+    "members": 6024,
+    "favorites": 36,
+    "synopsis": "Asaki had to be transferred to another school because of the death of her father. Unable to adapt to this new environment while smoking on the roof of the school, she is surprised by a fireman man in charge of a fire drill... As if his shame was not enough, the same boy will have to save her life again?",
+    "background": "Moekare wa Orange-iro has been published digitally in English as My Boyfriend in Orange by Kodansha Comics USA since December 26, 2017.",
+    "authors": [
+        {
+            "mal_id": 39841,
+            "type": "people",
+            "name": "Tamashima, Non",
+            "url": "https://myanimelist.net/people/39841/Non_Tamashima"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 95,
+            "type": "manga",
+            "name": "Dessert",
+            "url": "https://myanimelist.net/manga/magazine/95/Dessert"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/my-boyfriend-in-orange/"
+        },
+        {
+            "name": "Official Site",
+            "url": "http://go-dessert.jp/kc/moekare/"
+        }
+    ]
+}

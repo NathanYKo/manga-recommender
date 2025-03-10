@@ -1,0 +1,151 @@
+{
+    "mal_id": 122435,
+    "url": "https://myanimelist.net/manga/122435/Tongari_Boushi_no_Kitchen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/230220.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/230220t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/230220l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/230220.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/230220t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/230220l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tongari Boushi no Kitchen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kitchen of Witch Hat"
+        },
+        {
+            "type": "Japanese",
+            "title": "とんがり帽子のキッチン"
+        },
+        {
+            "type": "English",
+            "title": "Witch Hat Atelier Kitchen"
+        }
+    ],
+    "title": "Tongari Boushi no Kitchen",
+    "title_english": "Witch Hat Atelier Kitchen",
+    "title_japanese": "とんがり帽子のキッチン",
+    "title_synonyms": [
+        "Kitchen of Witch Hat"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2019-11-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 11,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 22, 2019 to ?"
+    },
+    "score": 7.56,
+    "scored": 7.56,
+    "scored_by": 586,
+    "rank": 2583,
+    "popularity": 6498,
+    "members": 3277,
+    "favorites": 18,
+    "synopsis": "During the day, teachers spend all of their time helping their apprentices. But when the children are asleep, the night is theirs to do as they please. Qifrey and his friend Olruggio especially look forward to when this time arrives; for them, the witching hours are meant to create unique and delicious meals for everyone in the atelier to enjoy.\n\n[Written by MAL Rewrite]",
+    "background": "Tongari Boushi no Kitchen has been published in English as Witch Hat Atelier Kitchen by Kodansha USA since October 31, 2023. It has also been released in French by Pika Édition since November 3, 2021, and in Spanish by Milky Way Ediciones since July 29, 2021.",
+    "authors": [
+        {
+            "mal_id": 49813,
+            "type": "people",
+            "name": "Satou, Hiromi",
+            "url": "https://myanimelist.net/people/49813/Hiromi_Satou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 345,
+            "type": "manga",
+            "name": "Morning Two",
+            "url": "https://myanimelist.net/manga/magazine/345/Morning_Two"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 100035,
+                    "type": "manga",
+                    "name": "Tongari Boushi no Atelier",
+                    "url": "https://myanimelist.net/manga/100035/Tongari_Boushi_no_Atelier"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/witch-hat-atelier-kitchen"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://morning.kodansha.co.jp/c/tongarikitchen"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Witch_Hat_Atelier_Kitchen"
+        }
+    ]
+}

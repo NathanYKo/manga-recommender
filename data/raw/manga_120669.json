@@ -1,0 +1,110 @@
+{
+    "mal_id": 120669,
+    "url": "https://myanimelist.net/manga/120669/Kiriko_Kill",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/224441.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/224441t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/224441l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/224441.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/224441t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/224441l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kiriko Kill"
+        },
+        {
+            "type": "Japanese",
+            "title": "切子・殺〈キル〉"
+        }
+    ],
+    "title": "Kiriko Kill",
+    "title_english": null,
+    "title_japanese": "切子・殺〈キル〉",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-08-03T00:00:00+00:00",
+        "to": "2018-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 8,
+                "year": 2018
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Aug 3, 2018 to Sep 28, 2018"
+    },
+    "score": 5.17,
+    "scored": 5.17,
+    "scored_by": 1327,
+    "rank": 20429,
+    "popularity": 8160,
+    "members": 2498,
+    "favorites": 3,
+    "synopsis": "Meet Minami Sakura, a girl who's just started the life she's always dreamed of with her new job in Tokyo. But it turns out that company's clean image also has a dark underside... which bewilders Minami and causes her to struggle. And when one of the employees is found murdered, everything goes to hell. This is just the beginning of Kiriko's party!\n\n(Source: Nihon Bungeisha, translated)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5444,
+            "type": "people",
+            "name": "Honda, Shingo",
+            "url": "https://myanimelist.net/people/5444/Shingo_Honda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 607,
+            "type": "manga",
+            "name": "Manga Goraku",
+            "url": "https://myanimelist.net/manga/magazine/607/Manga_Goraku"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 87670,
+                    "type": "manga",
+                    "name": "Kiriko",
+                    "url": "https://myanimelist.net/manga/87670/Kiriko"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

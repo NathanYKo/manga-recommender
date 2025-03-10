@@ -1,0 +1,155 @@
+{
+    "mal_id": 23355,
+    "url": "https://myanimelist.net/manga/23355/Bleach__The_Unforgivens",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/161558.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/161558t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/161558l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/161558.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/161558t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/161558l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bleach: The Unforgivens"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bleach: Imaginary Number 01"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bleach: Hell Chapter Special"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bleach Hell Arc Special"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bleach: Jigoku-hen Special - The Unforgivens"
+        },
+        {
+            "type": "Japanese",
+            "title": "BLEACH the unforgivens"
+        }
+    ],
+    "title": "Bleach: The Unforgivens",
+    "title_english": null,
+    "title_japanese": "BLEACH the unforgivens",
+    "title_synonyms": [
+        "Bleach: Imaginary Number 01",
+        "Bleach: Hell Chapter Special",
+        "Bleach Hell Arc Special",
+        "Bleach: Jigoku-hen Special - The Unforgivens"
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-11-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 11,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 29, 2010"
+    },
+    "score": 6.78,
+    "scored": 6.78,
+    "scored_by": 3183,
+    "rank": 12522,
+    "popularity": 3462,
+    "members": 6455,
+    "favorites": 39,
+    "synopsis": "One-shot story published as a special prologue chapter to the 4th Bleach movie, Jigoku-hen.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1880,
+            "type": "people",
+            "name": "Kubo, Tite",
+            "url": "https://myanimelist.net/people/1880/Tite_Kubo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 8247,
+                    "type": "anime",
+                    "name": "Bleach Movie 4: Jigoku-hen",
+                    "url": "https://myanimelist.net/anime/8247/Bleach_Movie_4__Jigoku-hen"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 12,
+                    "type": "manga",
+                    "name": "Bleach",
+                    "url": "https://myanimelist.net/manga/12/Bleach"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

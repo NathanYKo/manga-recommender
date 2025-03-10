@@ -1,0 +1,208 @@
+{
+    "mal_id": 895,
+    "url": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/55583.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/55583t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/55583l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/55583.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/55583t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/55583l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Full Metal Panic! Sigma"
+        },
+        {
+            "type": "Japanese",
+            "title": "フルメタル・パニック! Σ"
+        },
+        {
+            "type": "English",
+            "title": "Full Metal Panic! Sigma"
+        }
+    ],
+    "title": "Full Metal Panic! Sigma",
+    "title_english": "Full Metal Panic! Sigma",
+    "title_japanese": "フルメタル・パニック! Σ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 90,
+    "volumes": 19,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-04-09T00:00:00+00:00",
+        "to": "2013-09-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 9,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Apr 9, 2005 to Sep 9, 2013"
+    },
+    "score": 8.32,
+    "scored": 8.32,
+    "scored_by": 5631,
+    "rank": 292,
+    "popularity": 1705,
+    "members": 12697,
+    "favorites": 455,
+    "synopsis": "Tells the same story as Full Metal Panic Second Raid and is as such, also based on the novels The End Of Day By Day.\n\nLeaving off after the original series, this series tells of Sousuke and Mithril as they fight Amalgam. Like the original series, but both sides have gotten a bit more aggressive...",
+    "background": "Full Metal Panic! Sigma was published in English by Chuang Yi Publishing. The series was also published in Brazilian Portuguese by Panini Comics under the Planet Manga imprint from May 2008 to February 2010, which was dropped after volume 9.",
+    "authors": [
+        {
+            "mal_id": 2622,
+            "type": "people",
+            "name": "Gatou, Shouji",
+            "url": "https://myanimelist.net/people/2622/Shouji_Gatou"
+        },
+        {
+            "mal_id": 10255,
+            "type": "people",
+            "name": "Ueda, Hiroshi",
+            "url": "https://myanimelist.net/people/10255/Hiroshi_Ueda"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 98,
+            "type": "manga",
+            "name": "Dragon Age",
+            "url": "https://myanimelist.net/manga/magazine/98/Dragon_Age"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 18,
+            "type": "manga",
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha"
+        },
+        {
+            "mal_id": 38,
+            "type": "manga",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 789,
+                    "type": "manga",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/789/Full_Metal_Panic"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 176984,
+                    "type": "manga",
+                    "name": "Full Metal Panic! Family",
+                    "url": "https://myanimelist.net/manga/176984/Full_Metal_Panic_Family"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 10892,
+                    "type": "manga",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/10892/Full_Metal_Panic"
+                },
+                {
+                    "mal_id": 71,
+                    "type": "anime",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/anime/71/Full_Metal_Panic"
+                },
+                {
+                    "mal_id": 73,
+                    "type": "anime",
+                    "name": "Full Metal Panic! The Second Raid",
+                    "url": "https://myanimelist.net/anime/73/Full_Metal_Panic_The_Second_Raid"
+                },
+                {
+                    "mal_id": 36342,
+                    "type": "anime",
+                    "name": "Full Metal Panic! Movie 1: Boy Meets Girl",
+                    "url": "https://myanimelist.net/anime/36342/Full_Metal_Panic_Movie_1__Boy_Meets_Girl"
+                },
+                {
+                    "mal_id": 36343,
+                    "type": "anime",
+                    "name": "Full Metal Panic! Movie 2: One Night Stand",
+                    "url": "https://myanimelist.net/anime/36343/Full_Metal_Panic_Movie_2__One_Night_Stand"
+                },
+                {
+                    "mal_id": 36344,
+                    "type": "anime",
+                    "name": "Full Metal Panic! Movie 3: Into the Blue",
+                    "url": "https://myanimelist.net/anime/36344/Full_Metal_Panic_Movie_3__Into_the_Blue"
+                },
+                {
+                    "mal_id": 31931,
+                    "type": "anime",
+                    "name": "Full Metal Panic! Invisible Victory",
+                    "url": "https://myanimelist.net/anime/31931/Full_Metal_Panic_Invisible_Victory"
+                },
+                {
+                    "mal_id": 1015,
+                    "type": "anime",
+                    "name": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+                    "url": "https://myanimelist.net/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Full_Metal_Panic!#Manga"
+        }
+    ]
+}

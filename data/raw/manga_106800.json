@@ -1,0 +1,143 @@
+{
+    "mal_id": 106800,
+    "url": "https://myanimelist.net/manga/106800/Granblue_Fantasy",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/198694.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/198694t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/198694l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/198694.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/198694t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/198694l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Granblue Fantasy"
+        },
+        {
+            "type": "Japanese",
+            "title": "グランブルーファンタジー"
+        },
+        {
+            "type": "English",
+            "title": "Granblue Fantasy"
+        }
+    ],
+    "title": "Granblue Fantasy",
+    "title_english": "Granblue Fantasy",
+    "title_japanese": "グランブルーファンタジー",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 44,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-05-08T00:00:00+00:00",
+        "to": "2019-12-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 5,
+                "year": 2016
+            },
+            "to": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            }
+        },
+        "string": "May 8, 2016 to Dec 1, 2019"
+    },
+    "score": 6.59,
+    "scored": 6.59,
+    "scored_by": 622,
+    "rank": 15417,
+    "popularity": 7467,
+    "members": 2776,
+    "favorites": 9,
+    "synopsis": "Ever since his father left home, Gran has longed to search for Estalucia, the mystical island in the sky. Gran's adventure begins when he runs into Lyria, a mysterious girl being chased by the Imperial Army. But as Gran attempts to rescue her, a chain of surprising events unfolds, leading to an incredible act that binds Gran and Lyria's fates together forever. Now, Gran and his pal Vyrn must fight to protect Lyria...and find their way to the end of the sky!\n\n(Source: Kodansha Comics USA)",
+    "background": "Granblue Fantasy was published in English by Kodansha Comics USA from October 8, 2019 to November 17, 2020.",
+    "authors": [
+        {
+            "mal_id": 17769,
+            "type": "people",
+            "name": "Fuugetsu, Makoto",
+            "url": "https://myanimelist.net/people/17769/Makoto_Fuugetsu"
+        },
+        {
+            "mal_id": 45212,
+            "type": "people",
+            "name": "cocho",
+            "url": "https://myanimelist.net/people/45212/cocho"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1417,
+            "type": "manga",
+            "name": "Cycomics",
+            "url": "https://myanimelist.net/manga/magazine/1417/Cycomics"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 31629,
+                    "type": "anime",
+                    "name": "Granblue Fantasy The Animation",
+                    "url": "https://myanimelist.net/anime/31629/Granblue_Fantasy_The_Animation"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 115388,
+                    "type": "manga",
+                    "name": "Guraburu!",
+                    "url": "https://myanimelist.net/manga/115388/Guraburu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/granblue-fantasy/"
+        },
+        {
+            "name": "Official Site",
+            "url": "https://cycomi.com/fw/cycomibrowser/chapter/title/1"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC"
+        }
+    ]
+}

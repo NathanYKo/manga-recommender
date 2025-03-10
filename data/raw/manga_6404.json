@@ -1,0 +1,119 @@
+{
+    "mal_id": 6404,
+    "url": "https://myanimelist.net/manga/6404/Junjou_Minimum",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/8582.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/8582t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/8582l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/8582.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/8582t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/8582l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Junjou Minimum"
+        },
+        {
+            "type": "Synonym",
+            "title": "Pure Minimum"
+        },
+        {
+            "type": "Japanese",
+            "title": "純情ミニマム"
+        }
+    ],
+    "title": "Junjou Minimum",
+    "title_english": null,
+    "title_japanese": "純情ミニマム",
+    "title_synonyms": [
+        "Pure Minimum"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-11-01T00:00:00+00:00",
+        "to": "2005-09-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 11,
+                "year": 2004
+            },
+            "to": {
+                "day": 1,
+                "month": 9,
+                "year": 2005
+            }
+        },
+        "string": "Nov 1, 2004 to Sep 1, 2005"
+    },
+    "score": 7.74,
+    "scored": 7.74,
+    "scored_by": 1310,
+    "rank": 1564,
+    "popularity": 6329,
+    "members": 3367,
+    "favorites": 12,
+    "synopsis": "A one-volume series that kicks off as a side-story from Junjou Romantica (last chapter of volume 4) featuring the characters from Romantica and Egoist. First part flashes back to the younger days of Akihiko Usami and Hiroki while the second part is a cute story about the younger Misaki and his brother...\n\nContains extensive information and an interview with the cast of the drama CD of the same name.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1918,
+            "type": "people",
+            "name": "Nakamura, Shungiku",
+            "url": "https://myanimelist.net/people/1918/Shungiku_Nakamura"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 3092,
+                    "type": "anime",
+                    "name": "Junjou Romantica",
+                    "url": "https://myanimelist.net/anime/3092/Junjou_Romantica"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 765,
+                    "type": "manga",
+                    "name": "Junjou Romantica",
+                    "url": "https://myanimelist.net/manga/765/Junjou_Romantica"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

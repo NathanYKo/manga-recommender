@@ -1,0 +1,164 @@
+{
+    "mal_id": 51747,
+    "url": "https://myanimelist.net/manga/51747/Kotonoha_no_Niwa",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/128633.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/128633t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/128633l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/128633.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/4/128633t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/4/128633l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kotonoha no Niwa"
+        },
+        {
+            "type": "Synonym",
+            "title": "Koto no Ha no Niwa"
+        },
+        {
+            "type": "Japanese",
+            "title": "言の葉の庭"
+        },
+        {
+            "type": "English",
+            "title": "The Garden of Words"
+        }
+    ],
+    "title": "Kotonoha no Niwa",
+    "title_english": "The Garden of Words",
+    "title_japanese": "言の葉の庭",
+    "title_synonyms": [
+        "Koto no Ha no Niwa"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-04-25T00:00:00+00:00",
+        "to": "2013-10-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 25,
+                "month": 10,
+                "year": 2013
+            }
+        },
+        "string": "Apr 25, 2013 to Oct 25, 2013"
+    },
+    "score": 7.59,
+    "scored": 7.59,
+    "scored_by": 6491,
+    "rank": 2352,
+    "popularity": 1533,
+    "members": 13929,
+    "favorites": 220,
+    "synopsis": "On rainy mornings, high school student Takao Akizuki skips class and travels to an enchanting garden nestled in the bustle of Tokyo. Aspiring to become a shoemaker, he spends his time sketching and studying designs. During one visit amid the verdant scenery, Akizuki encounters Yakari Yukino—a mystifying woman whose melancholic appearance captures the young boy's eye.\n\nDespite not introducing themselves, the two continue to meet at the same spot, gradually finding comfort in each other's presence. However, with the end of the rainy season approaching, Akizuki and Yukino must confront the uncertainties in their hearts as they find the courage to walk their own paths.\n\n[Written by MAL Rewrite]",
+    "background": "Kotonoha no Niwa was published in English as The Garden of Words by Vertical Inc. under the Vertical Comics imprint on October 28, 2014. It was also released in Brazilian Portuguese by NewPOP Editora, and in Spanish by Editorial Kamite on June 2, 2019.",
+    "authors": [
+        {
+            "mal_id": 1117,
+            "type": "people",
+            "name": "Shinkai, Makoto",
+            "url": "https://myanimelist.net/people/1117/Makoto_Shinkai"
+        },
+        {
+            "mal_id": 22453,
+            "type": "people",
+            "name": "Motohashi, Midori",
+            "url": "https://myanimelist.net/people/22453/Midori_Motohashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 82,
+            "type": "manga",
+            "name": "Visual Arts",
+            "url": "https://myanimelist.net/manga/genre/82/Visual_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 113124,
+                    "type": "manga",
+                    "name": "Shousetsu Kotonoha no Niwa",
+                    "url": "https://myanimelist.net/manga/113124/Shousetsu_Kotonoha_no_Niwa"
+                },
+                {
+                    "mal_id": 16782,
+                    "type": "anime",
+                    "name": "Kotonoha no Niwa",
+                    "url": "https://myanimelist.net/anime/16782/Kotonoha_no_Niwa"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/the-garden-of-words/"
+        },
+        {
+            "name": "Official Site",
+            "url": "http://afternoon.moae.jp/lineup/188"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E8%A8%80%E3%81%AE%E8%91%89%E3%81%AE%E5%BA%AD"
+        }
+    ]
+}

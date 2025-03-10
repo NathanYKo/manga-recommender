@@ -1,0 +1,110 @@
+{
+    "mal_id": 934,
+    "url": "https://myanimelist.net/manga/934/Dice",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/276430.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/276430t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/276430l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/276430.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/276430t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/276430l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dice"
+        },
+        {
+            "type": "Synonym",
+            "title": "Plus Minus Zero!"
+        },
+        {
+            "type": "Japanese",
+            "title": "ダイス"
+        }
+    ],
+    "title": "Dice",
+    "title_english": null,
+    "title_japanese": "ダイス",
+    "title_synonyms": [
+        "Plus Minus Zero!"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2002 to ?"
+    },
+    "score": 7.25,
+    "scored": 7.25,
+    "scored_by": 1558,
+    "rank": 5483,
+    "popularity": 6672,
+    "members": 3177,
+    "favorites": 29,
+    "synopsis": "2nd year Junior High schooler, Misaki is in love with Mutou-kun in her class. But the one he loves is the class idol, Kuririn. However, Misaki doesn't need to be depressed. She's got got other options...!?\n\n(Source: MangaArt)\n\nIncluded one-shot: Plus Minus Zero",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2642,
+            "type": "people",
+            "name": "Shiina, Ayumi",
+            "url": "https://myanimelist.net/people/2642/Ayumi_Shiina"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ribon Magazine",
+            "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

@@ -1,0 +1,133 @@
+{
+    "mal_id": 75495,
+    "url": "https://myanimelist.net/manga/75495/Fairy_Tail__Blue_Mistral",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/153098.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/153098t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/153098l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/153098.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/153098t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/153098l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Fairy Tail: Blue Mistral"
+        },
+        {
+            "type": "Japanese",
+            "title": "FAIRY TAIL ブルー・ミストラル"
+        },
+        {
+            "type": "English",
+            "title": "Fairy Tail: Blue Mistral"
+        }
+    ],
+    "title": "Fairy Tail: Blue Mistral",
+    "title_english": "Fairy Tail: Blue Mistral",
+    "title_japanese": "FAIRY TAIL ブルー・ミストラル",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 17,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-08-02T00:00:00+00:00",
+        "to": "2015-12-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 8,
+                "year": 2014
+            },
+            "to": {
+                "day": 1,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Aug 2, 2014 to Dec 1, 2015"
+    },
+    "score": 6.66,
+    "scored": 6.66,
+    "scored_by": 2468,
+    "rank": 14284,
+    "popularity": 3157,
+    "members": 7113,
+    "favorites": 53,
+    "synopsis": "A mysterious request leads Wendy Marvell and her feline companion Charles to Nanalu Village, only to find that the job requester does not actually exist. Instead, Wendy becomes friends with Yoshino: a girl her age and the only mage in the village. Wendy soon learns that the villagers have slowly been disappearing, supposedly because of a dead dragon's curse. With only herself and Charles to take on the task, Wendy is determined to help Yoshino save the village.\n\nFairy Tail: Blue Mistral depicts Wendy and Charles' adventures soon after joining Fairy Tail. Wendy faces the ghost of a dragon, a cursed mansion, and other tough challenges, desperate to prove herself as a Fairy Tail member.\n\n[Written by MAL Rewrite]",
+    "background": "Fairy Tail: Blue Mistral was published in English by Kodansha Comics USA from August 25, 2015, to August 7, 2018. It was also released in Brazilian Portuguese by Editora JBC from November 4, 2019, to December 18, 2019.",
+    "authors": [
+        {
+            "mal_id": 32915,
+            "type": "people",
+            "name": "Watanabe, Rui",
+            "url": "https://myanimelist.net/people/32915/Rui_Watanabe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 20,
+            "type": "manga",
+            "name": "Nakayoshi",
+            "url": "https://myanimelist.net/manga/magazine/20/Nakayoshi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 598,
+                    "type": "manga",
+                    "name": "Fairy Tail",
+                    "url": "https://myanimelist.net/manga/598/Fairy_Tail"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/fairy-tail-blue-mistral/"
+        },
+        {
+            "name": "Official Site",
+            "url": "http://nakayosi.kodansha.co.jp/manga/2/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/FAIRY_TAIL"
+        }
+    ]
+}

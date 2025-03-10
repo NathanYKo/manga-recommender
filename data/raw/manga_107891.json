@@ -1,0 +1,138 @@
+{
+    "mal_id": 107891,
+    "url": "https://myanimelist.net/manga/107891/Kimi_to_Wonderland",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/201002.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/201002t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/201002l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/201002.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/201002t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/201002l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kimi to Wonderland"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sonogo no Yukue wa"
+        },
+        {
+            "type": "Japanese",
+            "title": "君とワンダーランド"
+        },
+        {
+            "type": "English",
+            "title": "We found Wonderland"
+        }
+    ],
+    "title": "Kimi to Wonderland",
+    "title_english": "We found Wonderland",
+    "title_japanese": "君とワンダーランド",
+    "title_synonyms": [
+        "Sonogo no Yukue wa"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-06-13T00:00:00+00:00",
+        "to": "2018-04-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 6,
+                "year": 2017
+            },
+            "to": {
+                "day": 13,
+                "month": 4,
+                "year": 2018
+            }
+        },
+        "string": "Jun 13, 2017 to Apr 13, 2018"
+    },
+    "score": 7.12,
+    "scored": 7.12,
+    "scored_by": 1196,
+    "rank": 7177,
+    "popularity": 5918,
+    "members": 3639,
+    "favorites": 21,
+    "synopsis": "Three years ago Nobara Morimura was in a bike accident rendering her partially deaf, but only to humans.\n\n(Source: OtakuMole)\n\nIncluded one-shot:\nVolume 1: Sonogo no Yukue wa",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 15793,
+            "type": "people",
+            "name": "Watanabe, Kana",
+            "url": "https://myanimelist.net/people/15793/Kana_Watanabe"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 53,
+            "type": "manga",
+            "name": "Bessatsu Margaret",
+            "url": "https://myanimelist.net/manga/magazine/53/Bessatsu_Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 62755,
+                    "type": "manga",
+                    "name": "Bokura no Yukue wa",
+                    "url": "https://myanimelist.net/manga/62755/Bokura_no_Yukue_wa"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://betsuma.shueisha.co.jp/lineup/kimitowonder.html"
+        }
+    ]
+}

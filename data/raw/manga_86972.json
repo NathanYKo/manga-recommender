@@ -1,0 +1,140 @@
+{
+    "mal_id": 86972,
+    "url": "https://myanimelist.net/manga/86972/One_Piece_Party",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165199.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165199t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165199l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165199.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/165199t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/165199l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "One Piece Party"
+        },
+        {
+            "type": "Japanese",
+            "title": "ONE PIECE PARTY"
+        }
+    ],
+    "title": "One Piece Party",
+    "title_english": null,
+    "title_japanese": "ONE PIECE PARTY",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 34,
+    "volumes": 7,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-12-05T00:00:00+00:00",
+        "to": "2021-02-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 12,
+                "year": 2014
+            },
+            "to": {
+                "day": 2,
+                "month": 2,
+                "year": 2021
+            }
+        },
+        "string": "Dec 5, 2014 to Feb 2, 2021"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 1294,
+    "rank": 5240,
+    "popularity": 5631,
+    "members": 3836,
+    "favorites": 38,
+    "synopsis": "Spin-off of One Piece, which takes place post-timeskip, showing the cast in SD/chibi form and features their hilarious antics around various islands while out in the sea.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 37135,
+            "type": "people",
+            "name": "Andou, Ei",
+            "url": "https://myanimelist.net/people/37135/Ei_Andou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 697,
+            "type": "manga",
+            "name": "Saikyou Jump",
+            "url": "https://myanimelist.net/manga/magazine/697/Saikyou_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 13,
+                    "type": "manga",
+                    "name": "One Piece",
+                    "url": "https://myanimelist.net/manga/13/One_Piece"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/ONE_PIECE"
+        }
+    ]
+}

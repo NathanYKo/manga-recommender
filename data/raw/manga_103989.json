@@ -1,0 +1,140 @@
+{
+    "mal_id": 103989,
+    "url": "https://myanimelist.net/manga/103989/Kaichou_wa_Maid-sama__Marriage",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/210825.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/210825t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/210825l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/210825.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/210825t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/210825l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kaichou wa Maid-sama!: Marriage"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yukiochimura ni Ojousama!"
+        },
+        {
+            "type": "Japanese",
+            "title": "会長はメイド様！マリアージュ"
+        }
+    ],
+    "title": "Kaichou wa Maid-sama!: Marriage",
+    "title_english": null,
+    "title_japanese": "会長はメイド様！マリアージュ",
+    "title_synonyms": [
+        "Yukiochimura ni Ojousama!"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-11-08T00:00:00+00:00",
+        "to": "2018-04-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 11,
+                "year": 2013
+            },
+            "to": {
+                "day": 24,
+                "month": 4,
+                "year": 2018
+            }
+        },
+        "string": "Nov 8, 2013 to Apr 24, 2018"
+    },
+    "score": 8.23,
+    "scored": 8.23,
+    "scored_by": 6924,
+    "rank": 392,
+    "popularity": 1171,
+    "members": 17283,
+    "favorites": 200,
+    "synopsis": "Compilation of side stories of Kaichou wa Maid-sama! series.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3446,
+            "type": "people",
+            "name": "Fujiwara, Hiro",
+            "url": "https://myanimelist.net/people/3446/Hiro_Fujiwara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 135,
+            "type": "manga",
+            "name": "LaLa DX",
+            "url": "https://myanimelist.net/manga/magazine/135/LaLa_DX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 2921,
+                    "type": "manga",
+                    "name": "Kaichou wa Maid-sama!",
+                    "url": "https://myanimelist.net/manga/2921/Kaichou_wa_Maid-sama"
+                }
+            ]
+        },
+        {
+            "relation": "Character",
+            "entry": [
+                {
+                    "mal_id": 66509,
+                    "type": "manga",
+                    "name": "Yuki wa Jigoku ni Ochiru no ka",
+                    "url": "https://myanimelist.net/manga/66509/Yuki_wa_Jigoku_ni_Ochiru_no_ka"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

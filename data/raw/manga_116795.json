@@ -1,0 +1,128 @@
+{
+    "mal_id": 116795,
+    "url": "https://myanimelist.net/manga/116795/Subete_no_Jinrui_wo_Hakai_suru_Sorera_wa_Saisei_Dekinai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/220188.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/220188t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/220188l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/220188.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/220188t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/220188l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Subete no Jinrui wo Hakai suru. Sorera wa Saisei Dekinai."
+        },
+        {
+            "type": "Synonym",
+            "title": "Destroy all humankind. They can't be regenerated."
+        },
+        {
+            "type": "Japanese",
+            "title": "すべての人類を破壊する。それらは再生できない。"
+        }
+    ],
+    "title": "Subete no Jinrui wo Hakai suru. Sorera wa Saisei Dekinai.",
+    "title_english": null,
+    "title_japanese": "すべての人類を破壊する。それらは再生できない。",
+    "title_synonyms": [
+        "Destroy all humankind. They can't be regenerated."
+    ],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2018-08-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 8,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 25, 2018"
+    },
+    "score": 7.25,
+    "scored": 7.25,
+    "scored_by": 1137,
+    "rank": 5505,
+    "popularity": 8739,
+    "members": 2291,
+    "favorites": 6,
+    "synopsis": "1998, Hajime Kanou is not on good terms with the school star Eimi Sawawatari, but maybe through the card game Magic: The Gathering they can improve their relationship...?!",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3906,
+            "type": "people",
+            "name": "Yokota, Takuma",
+            "url": "https://myanimelist.net/people/3906/Takuma_Yokota"
+        },
+        {
+            "mal_id": 5854,
+            "type": "people",
+            "name": "Ise, Katsura",
+            "url": "https://myanimelist.net/people/5854/Katsura_Ise"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 116539,
+                    "type": "manga",
+                    "name": "Subete no Jinrui wo Hakai suru. Sorera wa Saisei Dekinai.",
+                    "url": "https://myanimelist.net/manga/116539/Subete_no_Jinrui_wo_Hakai_suru_Sorera_wa_Saisei_Dekinai"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

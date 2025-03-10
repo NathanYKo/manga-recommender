@@ -1,0 +1,141 @@
+{
+    "mal_id": 5600,
+    "url": "https://myanimelist.net/manga/5600/Red_Garden",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/7164.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/7164t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/7164l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/7164.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/7164t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/7164l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Red Garden"
+        },
+        {
+            "type": "Synonym",
+            "title": "RG"
+        },
+        {
+            "type": "Japanese",
+            "title": "レッド ガーデン"
+        },
+        {
+            "type": "English",
+            "title": "Red Garden"
+        }
+    ],
+    "title": "Red Garden",
+    "title_english": "Red Garden",
+    "title_japanese": "レッド ガーデン",
+    "title_synonyms": [
+        "RG"
+    ],
+    "type": "Manga",
+    "chapters": 30,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-02-24T00:00:00+00:00",
+        "to": "2009-03-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 2,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Feb 24, 2007 to Mar 2009"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 1024,
+    "rank": 5008,
+    "popularity": 6506,
+    "members": 3272,
+    "favorites": 65,
+    "synopsis": "Strange suicides have been taking place in New York. One day, four girls from the same high school wake up in the morning feeling tired and dizzy and not being able to remember anything about the previous night. In school, they find out that one of their classmates has committed suicide. School is canceled for the rest of the day, but instead of going home, the girls are drawn to a park by butterflies only they can see. Suddenly a man and a woman approach the girls, telling them that they all died the previous night. (Source: ANN)",
+    "background": "Red Garden was published in Brazilian Portuguese by NewPOP Editora from October 2012 to September 2013.",
+    "authors": [
+        {
+            "mal_id": 3133,
+            "type": "people",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/people/3133/Gonzo"
+        },
+        {
+            "mal_id": 8354,
+            "type": "people",
+            "name": "Ayamura, Kirihito",
+            "url": "https://myanimelist.net/people/8354/Kirihito_Ayamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 91,
+            "type": "manga",
+            "name": "Comic Birz",
+            "url": "https://myanimelist.net/manga/magazine/91/Comic_Birz"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1601,
+                    "type": "anime",
+                    "name": "Red Garden",
+                    "url": "https://myanimelist.net/anime/1601/Red_Garden"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.gentosha-comics.net/birz/red-garden/index.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Red_Garden"
+        }
+    ]
+}

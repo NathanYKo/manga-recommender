@@ -1,0 +1,134 @@
+{
+    "mal_id": 536,
+    "url": "https://myanimelist.net/manga/536/Gensou_Suikoden_III__Unmei_no_Keishousha",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/180633.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/180633t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/180633l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/180633.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/180633t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/180633l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gensou Suikoden III: Unmei no Keishousha"
+        },
+        {
+            "type": "Synonym",
+            "title": "Suikoden 3"
+        },
+        {
+            "type": "Japanese",
+            "title": "幻想水滸伝 III 運命の継承者"
+        },
+        {
+            "type": "English",
+            "title": "Suikoden III: The Successor of Fate"
+        }
+    ],
+    "title": "Gensou Suikoden III: Unmei no Keishousha",
+    "title_english": "Suikoden III: The Successor of Fate",
+    "title_japanese": "幻想水滸伝 III 運命の継承者",
+    "title_synonyms": [
+        "Suikoden 3"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-09-21T00:00:00+00:00",
+        "to": "2006-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 9,
+                "year": 2002
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2006
+            }
+        },
+        "string": "Sep 21, 2002 to Apr 2006"
+    },
+    "score": 7.67,
+    "scored": 7.67,
+    "scored_by": 1096,
+    "rank": 1904,
+    "popularity": 8785,
+    "members": 2278,
+    "favorites": 111,
+    "synopsis": "A long war between the Grasslands and Zexen has taken a heavy toll. When a long-needed truce fails, a quest is undertaken to find the legendary Flame Champion, who saved the Grasslands in another war years before.\n\n(Source: Tokyopop)",
+    "background": "Gensou Suikoden III: Unmei no Keishousha was published in English as Suikoden III: The Successor of Fate by Tokyopop from May 11, 2004 to December 7, 2006.",
+    "authors": [
+        {
+            "mal_id": 2059,
+            "type": "people",
+            "name": "Shimizu, Aki",
+            "url": "https://myanimelist.net/people/2059/Aki_Shimizu"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 19271,
+                    "type": "manga",
+                    "name": "Gensou Suikoden II: Hiki Sakareshi Shukusei",
+                    "url": "https://myanimelist.net/manga/19271/Gensou_Suikoden_II__Hiki_Sakareshi_Shukusei"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 20109,
+                    "type": "manga",
+                    "name": "Gensou Suikoden V: Reimei no Shiro",
+                    "url": "https://myanimelist.net/manga/20109/Gensou_Suikoden_V__Reimei_no_Shiro"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%B9%BB%E6%83%B3%E6%B0%B4%E6%BB%B8%E4%BC%9DIII"
+        }
+    ]
+}

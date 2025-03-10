@@ -1,0 +1,161 @@
+{
+    "mal_id": 20318,
+    "url": "https://myanimelist.net/manga/20318/Amagami__Sincerely_Yours",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/32083.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/32083t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/32083l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/32083.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/32083t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/32083l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Amagami: Sincerely Yours"
+        },
+        {
+            "type": "Japanese",
+            "title": "アマガミ Sincerely yours"
+        }
+    ],
+    "title": "Amagami: Sincerely Yours",
+    "title_english": null,
+    "title_japanese": "アマガミ Sincerely yours",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-10-30T00:00:00+00:00",
+        "to": "2010-07-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 30,
+                "month": 7,
+                "year": 2010
+            }
+        },
+        "string": "Oct 30, 2009 to Jul 30, 2010"
+    },
+    "score": 7.09,
+    "scored": 7.09,
+    "scored_by": 1019,
+    "rank": 7654,
+    "popularity": 8501,
+    "members": 2374,
+    "favorites": 12,
+    "synopsis": "Based on the visual novel by Enterbrain with the same name.\n\nA second-year high school boy finds himself uneasy during Christmas time due to an experience in the past. However, this year at Christmas, he gets his last chance to ask out a graduating female senior named Haruka Morishima or one of several other classmates. The story of the anime will be arranged in an omnibus format, with each heroine getting her own version of the story animated. Each heroine will sing her own version of the ending theme song.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 10318,
+            "type": "people",
+            "name": "Enterbrain",
+            "url": "https://myanimelist.net/people/10318/Enterbrain"
+        },
+        {
+            "mal_id": 11328,
+            "type": "people",
+            "name": "Sakura, Kotetsu",
+            "url": "https://myanimelist.net/people/11328/Kotetsu_Sakura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 532,
+            "type": "manga",
+            "name": "Famitsu Comic Clear",
+            "url": "https://myanimelist.net/manga/magazine/532/Famitsu_Comic_Clear"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 32989,
+                    "type": "manga",
+                    "name": "Amagami: Various Artists",
+                    "url": "https://myanimelist.net/manga/32989/Amagami__Various_Artists"
+                },
+                {
+                    "mal_id": 17607,
+                    "type": "manga",
+                    "name": "Amagami: Precious Diary",
+                    "url": "https://myanimelist.net/manga/17607/Amagami__Precious_Diary"
+                },
+                {
+                    "mal_id": 20038,
+                    "type": "manga",
+                    "name": "Amagami: Love Goes On!",
+                    "url": "https://myanimelist.net/manga/20038/Amagami__Love_Goes_On"
+                },
+                {
+                    "mal_id": 23304,
+                    "type": "manga",
+                    "name": "Amagami: Close to You",
+                    "url": "https://myanimelist.net/manga/23304/Amagami__Close_to_You"
+                },
+                {
+                    "mal_id": 28115,
+                    "type": "manga",
+                    "name": "Amagami: Dreamy Forever",
+                    "url": "https://myanimelist.net/manga/28115/Amagami__Dreamy_Forever"
+                },
+                {
+                    "mal_id": 141117,
+                    "type": "manga",
+                    "name": "Amagami LS: Haruka Another",
+                    "url": "https://myanimelist.net/manga/141117/Amagami_LS__Haruka_Another"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.famitsu.com/comic_clear/se_amagami/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%82%AC%E3%83%9F"
+        }
+    ]
+}

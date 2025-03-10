@@ -1,0 +1,137 @@
+{
+    "mal_id": 1253,
+    "url": "https://myanimelist.net/manga/1253/Suzumiya_Haruhi_no_Yuuutsu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/52561.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/52561t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/52561l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/52561.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/52561t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/52561l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Suzumiya Haruhi no Yuuutsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Melancholy of Haruhi Suzumiya"
+        },
+        {
+            "type": "Japanese",
+            "title": "涼宮ハルヒの憂鬱"
+        }
+    ],
+    "title": "Suzumiya Haruhi no Yuuutsu",
+    "title_english": null,
+    "title_japanese": "涼宮ハルヒの憂鬱",
+    "title_synonyms": [
+        "The Melancholy of Haruhi Suzumiya"
+    ],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-03-26T00:00:00+00:00",
+        "to": "2004-10-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 3,
+                "year": 2004
+            },
+            "to": {
+                "day": 26,
+                "month": 10,
+                "year": 2004
+            }
+        },
+        "string": "Mar 26, 2004 to Oct 26, 2004"
+    },
+    "score": 7.66,
+    "scored": 7.66,
+    "scored_by": 1354,
+    "rank": 1939,
+    "popularity": 5502,
+    "members": 3954,
+    "favorites": 140,
+    "synopsis": "Kyon is an ordinary freshman high school student who, self-admittedly, has given up his fantasies of ESPers, time travelers, and aliens as he left middle school. However, sitting behind him is the beautiful, intelligent, and eccentric girl Haruhi Suzumiya, who in her class introduction blatantly states her singular desire in meeting aliens, time travelers, sliders, or ESPers. Interested, Kyon starts trying to make small talk with her before class, eventually leading to normal conversations with Haruhi. One day, after making a comment about Haruhi's displeasure with the available school clubs, he finds himself dragged into membership of the newly formed Spreading Excitement All Over the World with the Haruhi Suzumiya (or SOS) Brigade.\n\n(Source: Wikipedia)",
+    "background": "Suzumiya Haruhi no Yuuutsu is the first of two manga adaptations of the light novel series. Both manga adaptations were published in Shounen Ace, but the earlier one was canceled after the first volume. (Source: Wikipedia)",
+    "authors": [
+        {
+            "mal_id": 2913,
+            "type": "people",
+            "name": "Tanigawa, Nagaru",
+            "url": "https://myanimelist.net/people/2913/Nagaru_Tanigawa"
+        },
+        {
+            "mal_id": 2952,
+            "type": "people",
+            "name": "Mizuno, Makoto",
+            "url": "https://myanimelist.net/people/2952/Makoto_Mizuno"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen Ace",
+            "url": "https://myanimelist.net/manga/magazine/27/Shounen_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 1345,
+                    "type": "manga",
+                    "name": "Suzumiya Haruhi no Yuuutsu",
+                    "url": "https://myanimelist.net/manga/1345/Suzumiya_Haruhi_no_Yuuutsu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Haruhi_Suzumiya"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+        }
+    ]
+}

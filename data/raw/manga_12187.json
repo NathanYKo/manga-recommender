@@ -1,0 +1,182 @@
+{
+    "mal_id": 12187,
+    "url": "https://myanimelist.net/manga/12187/He_Loves_You",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/82194.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/82194t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/82194l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/82194.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/82194t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/82194l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "He Loves You"
+        },
+        {
+            "type": "Synonym",
+            "title": "Half is Made with Love"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hanbun wa Ai de Dekitemasu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Lifeless Life"
+        },
+        {
+            "type": "Synonym",
+            "title": "Fake x Fake"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hadashi no Cinderella"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimi to Watashi no Kyoukaisen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kimi no Te to Hitomi to"
+        },
+        {
+            "type": "Japanese",
+            "title": "HE LOVES YOU"
+        }
+    ],
+    "title": "He Loves You",
+    "title_english": null,
+    "title_japanese": "HE LOVES YOU",
+    "title_synonyms": [
+        "Half is Made with Love",
+        "Hanbun wa Ai de Dekitemasu",
+        "Lifeless Life",
+        "Fake x Fake",
+        "Hadashi no Cinderella",
+        "Kimi to Watashi no Kyoukaisen",
+        "Kimi no Te to Hitomi to"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-12-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 12,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 24, 2010"
+    },
+    "score": 7.46,
+    "scored": 7.46,
+    "scored_by": 1530,
+    "rank": 3298,
+    "popularity": 6844,
+    "members": 3094,
+    "favorites": 4,
+    "synopsis": "Collection of one-shots by various mangaka.\n\n1. Life Less Life [Komura Ayumi]\n2. Fake x Fake [Aida Natsumi]\n3. Kimi to Watashi no Kyoukaisen [Sakurano Mika]\n4. Hadashi no Cinderella [Hazuki Megumi]\n5. Kimi no Te to Hitomi to [Tajima Mimi]\n6. Hanbun wa Ai de Dekitemasu [Sato Zakuri]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2112,
+            "type": "people",
+            "name": "Aida, Natsumi",
+            "url": "https://myanimelist.net/people/2112/Natsumi_Aida"
+        },
+        {
+            "mal_id": 3065,
+            "type": "people",
+            "name": "Tajima, Mimi",
+            "url": "https://myanimelist.net/people/3065/Mimi_Tajima"
+        },
+        {
+            "mal_id": 3832,
+            "type": "people",
+            "name": "Hazuki, Megumi",
+            "url": "https://myanimelist.net/people/3832/Megumi_Hazuki"
+        },
+        {
+            "mal_id": 3875,
+            "type": "people",
+            "name": "Komura, Ayumi",
+            "url": "https://myanimelist.net/people/3875/Ayumi_Komura"
+        },
+        {
+            "mal_id": 4021,
+            "type": "people",
+            "name": "Sato, Zakuri",
+            "url": "https://myanimelist.net/people/4021/Zakuri_Sato"
+        },
+        {
+            "mal_id": 6591,
+            "type": "people",
+            "name": "Sakurano, Mika",
+            "url": "https://myanimelist.net/people/6591/Mika_Sakurano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Margaret",
+            "url": "https://myanimelist.net/manga/magazine/17/Margaret"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 60371,
+                    "type": "manga",
+                    "name": "Hatsutaiken",
+                    "url": "https://myanimelist.net/manga/60371/Hatsutaiken"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,121 @@
+{
+    "mal_id": 103907,
+    "url": "https://myanimelist.net/manga/103907/Kamisama_no_Iutoori_0",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/190479.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/190479t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/190479l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/190479.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/190479t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/190479l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kamisama no Iutoori 0"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kamisama no Iutoori Zero"
+        },
+        {
+            "type": "Japanese",
+            "title": "神さまの言うとおり零"
+        }
+    ],
+    "title": "Kamisama no Iutoori 0",
+    "title_english": null,
+    "title_japanese": "神さまの言うとおり零",
+    "title_synonyms": [
+        "Kamisama no Iutoori Zero"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-01-27T00:00:00+00:00",
+        "to": "2017-02-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 17,
+                "month": 2,
+                "year": 2017
+            }
+        },
+        "string": "Jan 27, 2017 to Feb 17, 2017"
+    },
+    "score": 6.13,
+    "scored": 6.13,
+    "scored_by": 1095,
+    "rank": 19341,
+    "popularity": 7484,
+    "members": 2769,
+    "favorites": 2,
+    "synopsis": "After the sun exploded, 100 people were put on a ship to find a new planet to live on, but when main character wakes up only five kids are still alive and their ship is on a planet that can somehow grant their wishes.\n\n(Source: MangaHelpers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 19049,
+            "type": "people",
+            "name": "Kaneshiro, Muneyuki",
+            "url": "https://myanimelist.net/people/19049/Muneyuki_Kaneshiro"
+        },
+        {
+            "mal_id": 19053,
+            "type": "people",
+            "name": "Fujimura, Akeji",
+            "url": "https://myanimelist.net/people/19053/Akeji_Fujimura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1335,
+            "type": "manga",
+            "name": "Magazine pocket",
+            "url": "https://myanimelist.net/manga/magazine/1335/Magazine_pocket"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 24561,
+                    "type": "manga",
+                    "name": "Kamisama no Iutoori",
+                    "url": "https://myanimelist.net/manga/24561/Kamisama_no_Iutoori"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,107 @@
+{
+    "mal_id": 17462,
+    "url": "https://myanimelist.net/manga/17462/Dousei_Jidai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/173375.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/173375t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/173375l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/173375.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/173375t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/173375l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dousei Jidai"
+        },
+        {
+            "type": "Japanese",
+            "title": "同棲時代"
+        }
+    ],
+    "title": "Dousei Jidai",
+    "title_english": null,
+    "title_japanese": "同棲時代",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 80,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1972-02-15T00:00:00+00:00",
+        "to": "1973-10-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 2,
+                "year": 1972
+            },
+            "to": {
+                "day": 23,
+                "month": 10,
+                "year": 1973
+            }
+        },
+        "string": "Feb 15, 1972 to Oct 23, 1973"
+    },
+    "score": 7.73,
+    "scored": 7.73,
+    "scored_by": 391,
+    "rank": 1632,
+    "popularity": 7560,
+    "members": 2741,
+    "favorites": 82,
+    "synopsis": "1970's, Tokyo. Kyouko and Jirou, unmarried, live together.\n\nA love story with trouble sadness and tears.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3129,
+            "type": "people",
+            "name": "Kamimura, Kazuo",
+            "url": "https://myanimelist.net/people/3129/Kazuo_Kamimura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 847,
+            "type": "manga",
+            "name": "Manga Action",
+            "url": "https://myanimelist.net/manga/magazine/847/Manga_Action"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://kamimurakazuo.com/book/douseijidai/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%90%8C%E6%A3%B2%E6%99%82%E4%BB%A3"
+        }
+    ]
+}

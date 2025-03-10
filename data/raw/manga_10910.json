@@ -1,0 +1,131 @@
+{
+    "mal_id": 10910,
+    "url": "https://myanimelist.net/manga/10910/18_Diary",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/25879.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/25879t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/25879l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/25879.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/25879t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/25879l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "18 Diary"
+        },
+        {
+            "type": "Synonym",
+            "title": "18diary"
+        },
+        {
+            "type": "Synonym",
+            "title": "17's Seisho"
+        },
+        {
+            "type": "Synonym",
+            "title": "17 Seisho"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tadashii Hoshi no Miagekata"
+        },
+        {
+            "type": "Synonym",
+            "title": "Seventeens Bible"
+        },
+        {
+            "type": "Japanese",
+            "title": "18diary"
+        }
+    ],
+    "title": "18 Diary",
+    "title_english": null,
+    "title_japanese": "18diary",
+    "title_synonyms": [
+        "18diary",
+        "17's Seisho",
+        "17 Seisho",
+        "Tadashii Hoshi no Miagekata",
+        "Seventeens Bible"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-05-13T00:00:00+00:00",
+        "to": "2003-08-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 5,
+                "year": 2003
+            },
+            "to": {
+                "day": 11,
+                "month": 8,
+                "year": 2003
+            }
+        },
+        "string": "May 13, 2003 to Aug 11, 2003"
+    },
+    "score": 6.98,
+    "scored": 6.98,
+    "scored_by": 1281,
+    "rank": 9313,
+    "popularity": 8531,
+    "members": 2365,
+    "favorites": 4,
+    "synopsis": "1. 18diary\n2. 17's Bible\n3. Tadashii Hoshi no Miagekata",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2817,
+            "type": "people",
+            "name": "Akira, Shouko",
+            "url": "https://myanimelist.net/people/2817/Shouko_Akira"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

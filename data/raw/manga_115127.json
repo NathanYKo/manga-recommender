@@ -1,0 +1,103 @@
+{
+    "mal_id": 115127,
+    "url": "https://myanimelist.net/manga/115127/Bandai_Kaname_wa_Asobitai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/212194.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/212194t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/212194l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/212194.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/212194t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/212194l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bandai Kaname wa Asobitai"
+        },
+        {
+            "type": "Japanese",
+            "title": "万代かなめは遊びたい"
+        }
+    ],
+    "title": "Bandai Kaname wa Asobitai",
+    "title_english": null,
+    "title_japanese": "万代かなめは遊びたい",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 23,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-12-20T00:00:00+00:00",
+        "to": "2020-04-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 12,
+                "year": 2017
+            },
+            "to": {
+                "day": 15,
+                "month": 4,
+                "year": 2020
+            }
+        },
+        "string": "Dec 20, 2017 to Apr 15, 2020"
+    },
+    "score": 6.51,
+    "scored": 6.51,
+    "scored_by": 2466,
+    "rank": 16354,
+    "popularity": 3445,
+    "members": 6480,
+    "favorites": 16,
+    "synopsis": "Because there were no members and he can concentrate on his studies, Taiyou Takara entered the cultural study group. However, his archenemy Kaname Bandai had also joined for the same reason.\n\n(Source: MangaDex, edited)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 24113,
+            "type": "people",
+            "name": "Hikawa, Shou",
+            "url": "https://myanimelist.net/people/24113/Shou_Hikawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 827,
+            "type": "manga",
+            "name": "Comic Meteor",
+            "url": "https://myanimelist.net/manga/magazine/827/Comic_Meteor"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://comic-meteor.jp/bandai/"
+        }
+    ]
+}

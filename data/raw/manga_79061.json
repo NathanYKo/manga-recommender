@@ -1,0 +1,157 @@
+{
+    "mal_id": 79061,
+    "url": "https://myanimelist.net/manga/79061/Hinomaruzumou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/192657.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/192657t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/192657l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/192657.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/192657t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/192657l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hinomaruzumou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sumo of the Rising Sun"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sumo Wrestler Hinomaru"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kiseki no Mattanashi Taiketsu!!"
+        },
+        {
+            "type": "Japanese",
+            "title": "火ノ丸相撲"
+        },
+        {
+            "type": "English",
+            "title": "Hinomaru Sumo"
+        }
+    ],
+    "title": "Hinomaruzumou",
+    "title_english": "Hinomaru Sumo",
+    "title_japanese": "火ノ丸相撲",
+    "title_synonyms": [
+        "Sumo of the Rising Sun",
+        "Sumo Wrestler Hinomaru",
+        "Kiseki no Mattanashi Taiketsu!!"
+    ],
+    "type": "Manga",
+    "chapters": 252,
+    "volumes": 28,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-05-26T00:00:00+00:00",
+        "to": "2019-07-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 2014
+            },
+            "to": {
+                "day": 22,
+                "month": 7,
+                "year": 2019
+            }
+        },
+        "string": "May 26, 2014 to Jul 22, 2019"
+    },
+    "score": 7.75,
+    "scored": 7.75,
+    "scored_by": 5597,
+    "rank": 1542,
+    "popularity": 1481,
+    "members": 14374,
+    "favorites": 186,
+    "synopsis": "It is a divine ritual, a martial art, a combat sport—it's sumo!!\n\nA \"small\" new student, Ushio Hinomaru, appears before the weak little sumo club of Oodachi High School! The words \"big\" and \"heavy\" are the rules to this sport, which does not fit this newbie any inch, but this guy goes and does what...!? Ushio and the small sumo club climbs its way to the top!\n\nThe goal is Hinoshita Kaisan (a title for the highest rank in professional sumo, equivalent of Yokozuna)!\n\nA fired up high school sumo tale—no retakes allowed!!\n\n(Source: MangaHelpers)\n\nIncluded one-shot:\nVolume 8: Kiseki no Mattanashi Taiketsu!! (Crossover one-shot between \"Kuroko no Basket\" and \"Hinomaruzumou\")",
+    "background": "Hinomaruzumou was simulpub in English as Hinomaru Sumo through MANGA Plus service.",
+    "authors": [
+        {
+            "mal_id": 34091,
+            "type": "people",
+            "name": "Kawada",
+            "url": "https://myanimelist.net/people/34091/Kawada"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 30,
+            "type": "manga",
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/manga/genre/54/Combat_Sports"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 37007,
+                    "type": "anime",
+                    "name": "Hinomaruzumou",
+                    "url": "https://myanimelist.net/anime/37007/Hinomaruzumou"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 96772,
+                    "type": "manga",
+                    "name": "Hinomaruzumou: Shijuuhatte",
+                    "url": "https://myanimelist.net/manga/96772/Hinomaruzumou__Shijuuhatte"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.shonenjump.com/j/sp_hinomaru/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%81%AB%E3%83%8E%E4%B8%B8%E7%9B%B8%E6%92%B2"
+        }
+    ]
+}

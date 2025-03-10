@@ -1,0 +1,186 @@
+{
+    "mal_id": 20063,
+    "url": "https://myanimelist.net/manga/20063/Le_Théâtre_de_B",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/89669.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/89669t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/89669l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/89669.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/89669t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/89669l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Le Théâtre de B"
+        },
+        {
+            "type": "Synonym",
+            "title": "B&W"
+        },
+        {
+            "type": "Synonym",
+            "title": "Free Fitting for Her"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Teddy Bear Murder Case"
+        },
+        {
+            "type": "Synonym",
+            "title": "Teddy Bear Satsujin Jiken"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Bedroom Girl"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Sculpture Room Girl"
+        },
+        {
+            "type": "Synonym",
+            "title": "Noel"
+        },
+        {
+            "type": "Synonym",
+            "title": "Rose Dusk Pale Moon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Le Jardin du thé"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hello"
+        },
+        {
+            "type": "Synonym",
+            "title": "my sister"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Happy Prince"
+        },
+        {
+            "type": "Synonym",
+            "title": "Welcome to Wonderland"
+        },
+        {
+            "type": "Synonym",
+            "title": "B no Higeki"
+        },
+        {
+            "type": "Japanese",
+            "title": "LE THÉÂTRE DE B ～Bの劇場～"
+        }
+    ],
+    "title": "Le Théâtre de B",
+    "title_english": null,
+    "title_japanese": "LE THÉÂTRE DE B ～Bの劇場～",
+    "title_synonyms": [
+        "B&W",
+        "Free Fitting for Her",
+        "The Teddy Bear Murder Case",
+        "Teddy Bear Satsujin Jiken",
+        "The Bedroom Girl",
+        "The Sculpture Room Girl",
+        "Noel",
+        "Rose Dusk Pale Moon",
+        "Le Jardin du thé",
+        "Hello",
+        "my sister",
+        "The Happy Prince",
+        "Welcome to Wonderland",
+        "B no Higeki"
+    ],
+    "type": "Manga",
+    "chapters": 13,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-11-25T00:00:00+00:00",
+        "to": "2012-08-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 11,
+                "year": 2008
+            },
+            "to": {
+                "day": 24,
+                "month": 8,
+                "year": 2012
+            }
+        },
+        "string": "Nov 25, 2008 to Aug 24, 2012"
+    },
+    "score": 7.07,
+    "scored": 7.07,
+    "scored_by": 1608,
+    "rank": 7936,
+    "popularity": 6872,
+    "members": 3081,
+    "favorites": 21,
+    "synopsis": "A collection of Nakamura Asumiko's works previously published in Gothic &amp; Lolita Bible, compiled in a hardback, all-color volume.\n\n1. Noël\n2. Yonshimai Satsujin Jiken\n3. Teddy Bear Satsujin Jiken\n4. A is for Alice A\n5. Shindai no Musume Atelier no Musme (The Bedroom Girl, The Sculpture Room Girl)\n6. B&amp;W: Black&amp;White\n7. Le Jardin du thé\n8-9. Free Fitting for Her\n10. Rose Dusk, Pale Moon\n11. Hello, My Sister\n12. The Happy Prince\n13. Welcome to Wonderland",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5583,
+            "type": "people",
+            "name": "Nakamura, Asumiko",
+            "url": "https://myanimelist.net/people/5583/Asumiko_Nakamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 237,
+            "type": "manga",
+            "name": "Gothic & Lolita Bible",
+            "url": "https://myanimelist.net/manga/magazine/237/Gothic__amp__Lolita_Bible"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 42069,
+                    "type": "manga",
+                    "name": "Le Théâtre de A",
+                    "url": "https://myanimelist.net/manga/42069/Le_Théâtre_de_A"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

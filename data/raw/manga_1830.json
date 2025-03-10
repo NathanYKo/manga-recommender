@@ -1,0 +1,142 @@
+{
+    "mal_id": 1830,
+    "url": "https://myanimelist.net/manga/1830/Yoroshiku_Master",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/5958.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/5958t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/5958l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/5958.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/5958t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/5958l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Yoroshiku Master"
+        },
+        {
+            "type": "Synonym",
+            "title": "Amai Kamiato"
+        },
+        {
+            "type": "Synonym",
+            "title": "Eden no Tobira"
+        },
+        {
+            "type": "Synonym",
+            "title": "Penguin Kakumei Side Story"
+        },
+        {
+            "type": "Japanese",
+            "title": "よろしく・マスター"
+        },
+        {
+            "type": "English",
+            "title": "Sweet Rein"
+        }
+    ],
+    "title": "Yoroshiku Master",
+    "title_english": "Sweet Rein",
+    "title_japanese": "よろしく・マスター",
+    "title_synonyms": [
+        "Amai Kamiato",
+        "Eden no Tobira",
+        "Penguin Kakumei Side Story"
+    ],
+    "type": "Manga",
+    "chapters": 12,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-12-10T00:00:00+00:00",
+        "to": "2008-12-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 12,
+                "year": 2003
+            },
+            "to": {
+                "day": 10,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Dec 10, 2003 to Dec 10, 2008"
+    },
+    "score": 7.38,
+    "scored": 7.38,
+    "scored_by": 1615,
+    "rank": 3989,
+    "popularity": 6017,
+    "members": 3572,
+    "favorites": 22,
+    "synopsis": "One day when 17-year-old Sagara Kurumi accidently bumps into a guy on the streets, reins suddenly appear and binds them both! What is this?! Things get even more confusing when the boy, Kaito, clasps her hands and calls her his master! When Kaito transforms into a reindeer it just becomes too much for poor Kurumi who's out as a light. But it does indeed seem like Kurumi's a santa and Kaito's her reindeer and that they've got an important job to do on Christmas Eve~ \n\n(Source: Dragon Voice Project)\n\nIncluded one-shots:\nVolume 1: Amai Kamiato\nVolume 2: Eden no Tobira\nVolume 3: Penguin Kakumei Side Story",
+    "background": "Yoroshiku Master was published in English as Sweet Rein by VIZ Media under the Shojo Beat imprint from November 5, 2013 to July 1, 2014.",
+    "authors": [
+        {
+            "mal_id": 2682,
+            "type": "people",
+            "name": "Tsukuba, Sakura",
+            "url": "https://myanimelist.net/people/2682/Sakura_Tsukuba"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 135,
+            "type": "manga",
+            "name": "LaLa DX",
+            "url": "https://myanimelist.net/manga/magazine/135/LaLa_DX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 926,
+                    "type": "manga",
+                    "name": "Penguin Kakumei",
+                    "url": "https://myanimelist.net/manga/926/Penguin_Kakumei"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

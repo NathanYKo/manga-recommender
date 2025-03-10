@@ -1,0 +1,138 @@
+{
+    "mal_id": 13149,
+    "url": "https://myanimelist.net/manga/13149/Ageha",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/264407.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/264407t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/264407l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/264407.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/264407t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/264407l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ageha"
+        },
+        {
+            "type": "Synonym",
+            "title": "Butterfly"
+        },
+        {
+            "type": "Synonym",
+            "title": "Eternal Rainbow"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kiss Me"
+        },
+        {
+            "type": "Synonym",
+            "title": "Baby"
+        },
+        {
+            "type": "Japanese",
+            "title": "アゲハ"
+        }
+    ],
+    "title": "Ageha",
+    "title_english": null,
+    "title_japanese": "アゲハ",
+    "title_synonyms": [
+        "Butterfly",
+        "Eternal Rainbow",
+        "Kiss Me",
+        "Baby"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-06-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 6,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 13, 2006"
+    },
+    "score": 6.7,
+    "scored": 6.7,
+    "scored_by": 1177,
+    "rank": 13748,
+    "popularity": 8473,
+    "members": 2381,
+    "favorites": 4,
+    "synopsis": "1. Ageha\n2. Eternal Rainbow\n3. Kiss Me, Baby",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3958,
+            "type": "people",
+            "name": "Watanabe, Ayu",
+            "url": "https://myanimelist.net/people/3958/Ayu_Watanabe"
+        },
+        {
+            "mal_id": 22633,
+            "type": "people",
+            "name": "Sakurai, Ami",
+            "url": "https://myanimelist.net/people/22633/Ami_Sakurai"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

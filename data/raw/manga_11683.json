@@ -1,0 +1,158 @@
+{
+    "mal_id": 11683,
+    "url": "https://myanimelist.net/manga/11683/Tsuki_no_Waltz",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/17835.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/17835t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/17835l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/17835.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/17835t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/17835l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tsuki no Waltz"
+        },
+        {
+            "type": "Synonym",
+            "title": "Moon Light Dream"
+        },
+        {
+            "type": "Synonym",
+            "title": "Waltz of the Moon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Itsuka no Tsuki de Aimashou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hoshi Yuki yo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Zenbu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Hajimete. Bangaihen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Once a Blue Moon"
+        },
+        {
+            "type": "Synonym",
+            "title": "Petit Lesson"
+        },
+        {
+            "type": "Japanese",
+            "title": "月のワルツ"
+        }
+    ],
+    "title": "Tsuki no Waltz",
+    "title_english": null,
+    "title_japanese": "月のワルツ",
+    "title_synonyms": [
+        "Moon Light Dream",
+        "Waltz of the Moon",
+        "Itsuka no Tsuki de Aimashou",
+        "Hoshi Yuki yo",
+        "Zenbu",
+        "Hajimete. Bangaihen",
+        "Once a Blue Moon",
+        "Petit Lesson"
+    ],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": "2009-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            }
+        },
+        "string": "2008 to 2009"
+    },
+    "score": 7.44,
+    "scored": 7.44,
+    "scored_by": 1206,
+    "rank": 3482,
+    "popularity": 8311,
+    "members": 2440,
+    "favorites": 2,
+    "synopsis": "1. Itsuka no Tsuki de Aimashou\n2. Tsuki no Waltz\n3. Once a Blue Moon\n4. Petit Lesson",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3646,
+            "type": "people",
+            "name": "Mitsuki, Kako",
+            "url": "https://myanimelist.net/people/3646/Kako_Mitsuki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 54,
+            "type": "manga",
+            "name": "Betsucomi",
+            "url": "https://myanimelist.net/manga/magazine/54/Betsucomi"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 5766,
+                    "type": "manga",
+                    "name": "Zenbu, Hajimete.",
+                    "url": "https://myanimelist.net/manga/5766/Zenbu_Hajimete"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

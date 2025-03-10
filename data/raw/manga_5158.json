@@ -1,0 +1,179 @@
+{
+    "mal_id": 5158,
+    "url": "https://myanimelist.net/manga/5158/Mononoke",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/21247.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/21247t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/21247l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/21247.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/21247t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/21247l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mononoke"
+        },
+        {
+            "type": "Japanese",
+            "title": "モノノ怪"
+        }
+    ],
+    "title": "Mononoke",
+    "title_english": null,
+    "title_japanese": "モノノ怪",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 19,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-08-17T00:00:00+00:00",
+        "to": "2008-08-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 8,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 8,
+                "year": 2008
+            }
+        },
+        "string": "Aug 17, 2007 to Aug 1, 2008"
+    },
+    "score": 7.7,
+    "scored": 7.7,
+    "scored_by": 2640,
+    "rank": 1736,
+    "popularity": 2510,
+    "members": 8786,
+    "favorites": 132,
+    "synopsis": "The story is about a man who is a medicine seller. He hunts mononoke (demons) and kills them by using a sword. However, before unsheathing his sword he first needs to learn of the form (katachi), the truth behind the human tragedies (makoto) and the reason behind the evils (kotowari) that gave birth to it before killing the demon.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4486,
+            "type": "people",
+            "name": "Ninagawa, Yaeko",
+            "url": "https://myanimelist.net/people/4486/Yaeko_Ninagawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Young Gangan",
+            "url": "https://myanimelist.net/manga/magazine/24/Young_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        },
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 88229,
+                    "type": "manga",
+                    "name": "Mononoke: Umibouzu",
+                    "url": "https://myanimelist.net/manga/88229/Mononoke__Umibouzu"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 586,
+                    "type": "anime",
+                    "name": "Ayakashi: Japanese Classic Horror",
+                    "url": "https://myanimelist.net/anime/586/Ayakashi__Japanese_Classic_Horror"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 148952,
+                    "type": "manga",
+                    "name": "Mononoke",
+                    "url": "https://myanimelist.net/manga/148952/Mononoke"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 171462,
+                    "type": "manga",
+                    "name": "Shousetsu Gekijouban Mononoke: Karakasa",
+                    "url": "https://myanimelist.net/manga/171462/Shousetsu_Gekijouban_Mononoke__Karakasa"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8E%E3%83%8E%E6%80%AA"
+        }
+    ]
+}

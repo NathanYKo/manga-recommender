@@ -1,0 +1,133 @@
+{
+    "mal_id": 19008,
+    "url": "https://myanimelist.net/manga/19008/Bambino_Secondo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/74875.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/74875t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/74875l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/74875.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/74875t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/74875l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bambino! Secondo"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bambino! 2"
+        },
+        {
+            "type": "Japanese",
+            "title": "バンビ〜ノ！SECONDO"
+        }
+    ],
+    "title": "Bambino! Secondo",
+    "title_english": null,
+    "title_japanese": "バンビ〜ノ！SECONDO",
+    "title_synonyms": [
+        "Bambino! 2"
+    ],
+    "type": "Manga",
+    "chapters": 149,
+    "volumes": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-04-06T00:00:00+00:00",
+        "to": "2012-12-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 17,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Apr 6, 2009 to Dec 17, 2012"
+    },
+    "score": 7.28,
+    "scored": 7.28,
+    "scored_by": 772,
+    "rank": 5102,
+    "popularity": 8010,
+    "members": 2551,
+    "favorites": 7,
+    "synopsis": "Shogo Ban is now a chef at Ristorante Legare. As the Yokohama branch of the Trattoria Baccanale he used to work at, he has been entrusted with the responsibility of head of the pasta section. Rejoin Ban as he struggles to meet the expectations of work and develop his personal relationships.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9118,
+            "type": "people",
+            "name": "Sekiya, Tetsuji",
+            "url": "https://myanimelist.net/people/9118/Tetsuji_Sekiya"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 3,
+            "type": "manga",
+            "name": "Big Comic Spirits",
+            "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 47,
+            "type": "manga",
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 11977,
+                    "type": "manga",
+                    "name": "Bambino!",
+                    "url": "https://myanimelist.net/manga/11977/Bambino"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%93%E3%80%9C%E3%83%8E!"
+        }
+    ]
+}

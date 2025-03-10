@@ -1,0 +1,161 @@
+{
+    "mal_id": 86671,
+    "url": "https://myanimelist.net/manga/86671/Dragon_Ball_Z__Fukkatsu_no_F",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/154240.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/154240t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/154240l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/154240.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/154240t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/154240l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dragon Ball Z: Fukkatsu no \"F\""
+        },
+        {
+            "type": "Synonym",
+            "title": "Dragon Ball Z: Revival of F"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dragon Ball Z: Resurrection of F"
+        },
+        {
+            "type": "Synonym",
+            "title": "Dragonball Z: Rebirth of F"
+        },
+        {
+            "type": "Japanese",
+            "title": "ドラゴンボールZ 復活の「F」"
+        }
+    ],
+    "title": "Dragon Ball Z: Fukkatsu no \"F\"",
+    "title_english": null,
+    "title_japanese": "ドラゴンボールZ 復活の「F」",
+    "title_synonyms": [
+        "Dragon Ball Z: Revival of F",
+        "Dragon Ball Z: Resurrection of F",
+        "Dragonball Z: Rebirth of F"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-02-21T00:00:00+00:00",
+        "to": "2015-04-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 2,
+                "year": 2015
+            },
+            "to": {
+                "day": 21,
+                "month": 4,
+                "year": 2015
+            }
+        },
+        "string": "Feb 21, 2015 to Apr 21, 2015"
+    },
+    "score": 6.58,
+    "scored": 6.58,
+    "scored_by": 3610,
+    "rank": 15465,
+    "popularity": 3601,
+    "members": 6251,
+    "favorites": 53,
+    "synopsis": "Short adaptation of the movie with the same name.\n\nAn Earth where peace has arrived. However, remnants of Freeza's army arrive on the planet. Their goal is to revive Freeza with the dragon balls. Their dastardly wish is granted, the \"F\" that plans its revenge against the Saiyans is revived...!\n\n(Source: MAL)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 1901,
+            "type": "people",
+            "name": "Toriyama, Akira",
+            "url": "https://myanimelist.net/people/1901/Akira_Toriyama"
+        },
+        {
+            "mal_id": 19431,
+            "type": "people",
+            "name": "Toyotarou",
+            "url": "https://myanimelist.net/people/19431/Toyotarou"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 168,
+            "type": "manga",
+            "name": "V-Jump",
+            "url": "https://myanimelist.net/manga/magazine/168/V-Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 17,
+            "type": "manga",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 25389,
+                    "type": "anime",
+                    "name": "Dragon Ball Z Movie 15: Fukkatsu no \"F\"",
+                    "url": "https://myanimelist.net/anime/25389/Dragon_Ball_Z_Movie_15__Fukkatsu_no_F"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 42,
+                    "type": "manga",
+                    "name": "Dragon Ball",
+                    "url": "https://myanimelist.net/manga/42/Dragon_Ball"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%ABZ_%E5%BE%A9%E6%B4%BB%E3%81%AE%E3%80%8CF%E3%80%8D"
+        }
+    ]
+}

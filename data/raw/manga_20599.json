@@ -1,0 +1,167 @@
+{
+    "mal_id": 20599,
+    "url": "https://myanimelist.net/manga/20599/Maji_de_Watashi_ni_Koi_Shinasai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/95425.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/95425t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/95425l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/95425.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/95425t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/95425l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Maji de Watashi ni Koi Shinasai!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shinken de Watashi ni Koi Shinasai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Majikoi"
+        },
+        {
+            "type": "Japanese",
+            "title": "真剣で私に恋しなさい！"
+        }
+    ],
+    "title": "Maji de Watashi ni Koi Shinasai!",
+    "title_english": null,
+    "title_japanese": "真剣で私に恋しなさい！",
+    "title_synonyms": [
+        "Shinken de Watashi ni Koi Shinasai",
+        "Majikoi"
+    ],
+    "type": "Manga",
+    "chapters": 33,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-05-26T00:00:00+00:00",
+        "to": "2013-06-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 2010
+            },
+            "to": {
+                "day": 26,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "May 26, 2010 to Jun 26, 2013"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 3223,
+    "rank": 5234,
+    "popularity": 2514,
+    "members": 8773,
+    "favorites": 54,
+    "synopsis": "Kawakami Momoyo is a notorious, woman-chasing, large-breasted master fighter. She and her friends at school end up in all sorts of weird situations, often involving people attempting to defeat Momoyo. Now there are new transfer students from Germany joining their class. Who are these new students, and will they fit in with the crazy bunch surrounding Momoyo?\n\nBased on the same visual novel from Minato Soft.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5506,
+            "type": "people",
+            "name": "Minato Soft",
+            "url": "https://myanimelist.net/people/5506/Minato_Soft"
+        },
+        {
+            "mal_id": 13397,
+            "type": "people",
+            "name": "Inue, Shinsuke",
+            "url": "https://myanimelist.net/people/13397/Shinsuke_Inue"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 112,
+            "type": "manga",
+            "name": "Comp Ace",
+            "url": "https://myanimelist.net/manga/magazine/112/Comp_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 35,
+            "type": "manga",
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 10213,
+                    "type": "anime",
+                    "name": "Maji de Watashi ni Koi Shinasai!",
+                    "url": "https://myanimelist.net/anime/10213/Maji_de_Watashi_ni_Koi_Shinasai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.minatosoft.com/majikoi/index.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%9C%9F%E5%89%A3%E3%81%A7%E7%A7%81%E3%81%AB%E6%81%8B%E3%81%97%E3%81%AA%E3%81%95%E3%81%84!"
+        }
+    ]
+}

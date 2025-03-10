@@ -1,0 +1,136 @@
+{
+    "mal_id": 955,
+    "url": "https://myanimelist.net/manga/955/hack__AI_Buster",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/126051.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/126051t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/126051l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/126051.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/126051t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/126051l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": ".hack//AI Buster"
+        },
+        {
+            "type": "Japanese",
+            "title": ".hack//AI buster"
+        },
+        {
+            "type": "English",
+            "title": ".hack//AI buster"
+        }
+    ],
+    "title": ".hack//AI Buster",
+    "title_english": ".hack//AI buster",
+    "title_japanese": ".hack//AI buster",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 13,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-10-01T00:00:00+00:00",
+        "to": "2005-06-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2002
+            },
+            "to": {
+                "day": 1,
+                "month": 6,
+                "year": 2005
+            }
+        },
+        "string": "Oct 1, 2002 to Jun 1, 2005"
+    },
+    "score": 7.9,
+    "scored": 7.9,
+    "scored_by": 1778,
+    "rank": 983,
+    "popularity": 5365,
+    "members": 4058,
+    "favorites": 86,
+    "synopsis": "In the epic prequel to .hack, the avatar Albireo is a solo adventurer in The World, the most advanced online fantasy game ever created. When he comes across Lycoris, a strange little girl in a dungeon, Albireo wonders if she's simply nothing more than a bug in the system. As the two journey further into The World, Albireo watches Lycoris turn all of the rules of The World upside down. Slowly, he comes to realize that she may hold a very deadly secret—a secret that could unhinge everything in cyberspace... and beyond! \n\n(Source: Amazon)",
+    "background": ".hack//AI Buster was published in English by TokyoPop from August 9, 2005 to February 7, 2006.",
+    "authors": [
+        {
+            "mal_id": 1955,
+            "type": "people",
+            "name": "Hamazaki, Tatsuya",
+            "url": "https://myanimelist.net/people/1955/Tatsuya_Hamazaki"
+        },
+        {
+            "mal_id": 2348,
+            "type": "people",
+            "name": "Idumi, Rei",
+            "url": "https://myanimelist.net/people/2348/Rei_Idumi"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 80,
+            "type": "manga",
+            "name": "Video Game",
+            "url": "https://myanimelist.net/manga/genre/80/Video_Game"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 1355,
+                    "type": "manga",
+                    "name": ".hack//Another Birth",
+                    "url": "https://myanimelist.net/manga/1355/hack__Another_Birth"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/.hack//AI_buster"
+        }
+    ]
+}

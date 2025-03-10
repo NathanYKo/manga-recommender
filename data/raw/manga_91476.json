@@ -1,0 +1,137 @@
+{
+    "mal_id": 91476,
+    "url": "https://myanimelist.net/manga/91476/Deadman_Wonderland",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/160618.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/160618t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/160618l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/160618.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/160618t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/160618l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Deadman Wonderland"
+        },
+        {
+            "type": "Japanese",
+            "title": "デッドマン・ワンダーランド"
+        }
+    ],
+    "title": "Deadman Wonderland",
+    "title_english": null,
+    "title_japanese": "デッドマン・ワンダーランド",
+    "title_synonyms": [],
+    "type": "Light Novel",
+    "chapters": 12,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-04-28T00:00:00+00:00",
+        "to": "2011-07-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 30,
+                "month": 7,
+                "year": 2011
+            }
+        },
+        "string": "Apr 28, 2011 to Jul 30, 2011"
+    },
+    "score": 7.72,
+    "scored": 7.72,
+    "scored_by": 1362,
+    "rank": 1656,
+    "popularity": 4808,
+    "members": 4575,
+    "favorites": 157,
+    "synopsis": "Light novel series based on the manga Deadman Wonderland.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2887,
+            "type": "people",
+            "name": "Kondou, Kazuma",
+            "url": "https://myanimelist.net/people/2887/Kazuma_Kondou"
+        },
+        {
+            "mal_id": 2888,
+            "type": "people",
+            "name": "Kataoka, Jinsei",
+            "url": "https://myanimelist.net/people/2888/Jinsei_Kataoka"
+        },
+        {
+            "mal_id": 28497,
+            "type": "people",
+            "name": "Mutsuzuka, Akira",
+            "url": "https://myanimelist.net/people/28497/Akira_Mutsuzuka"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 3986,
+                    "type": "manga",
+                    "name": "Deadman Wonderland",
+                    "url": "https://myanimelist.net/manga/3986/Deadman_Wonderland"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/デッドマン・ワンダーランド"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "mal_id": 100504,
+    "url": "https://myanimelist.net/manga/100504/Slow_Starter",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/182068.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/182068t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/182068l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/182068.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/182068t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/182068l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Slow Starter"
+        },
+        {
+            "type": "Japanese",
+            "title": "スロースターター"
+        }
+    ],
+    "title": "Slow Starter",
+    "title_english": null,
+    "title_japanese": "スロースターター",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 8,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-07-20T00:00:00+00:00",
+        "to": "2016-04-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 15,
+                "month": 4,
+                "year": 2016
+            }
+        },
+        "string": "Jul 20, 2012 to Apr 15, 2016"
+    },
+    "score": 5.73,
+    "scored": 5.73,
+    "scored_by": 1485,
+    "rank": 20181,
+    "popularity": 8072,
+    "members": 2531,
+    "favorites": 3,
+    "synopsis": null,
+    "background": null,
+    "authors": [
+        {
+            "mal_id": 7652,
+            "type": "people",
+            "name": "Harumi, Chihiro",
+            "url": "https://myanimelist.net/people/7652/Chihiro_Harumi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 354,
+            "type": "manga",
+            "name": "Manga Times (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/354/Manga_Times_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

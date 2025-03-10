@@ -1,0 +1,126 @@
+{
+    "mal_id": 3284,
+    "url": "https://myanimelist.net/manga/3284/Happy_World",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/12034.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/12034t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/12034l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/12034.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/12034t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/12034l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Happy World!"
+        },
+        {
+            "type": "Japanese",
+            "title": "ハッピーワールド"
+        }
+    ],
+    "title": "Happy World!",
+    "title_english": null,
+    "title_japanese": "ハッピーワールド",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 72,
+    "volumes": 11,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-05-19T00:00:00+00:00",
+        "to": "2006-05-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 5,
+                "year": 2000
+            },
+            "to": {
+                "day": 19,
+                "month": 5,
+                "year": 2006
+            }
+        },
+        "string": "May 19, 2000 to May 19, 2006"
+    },
+    "score": 7.5,
+    "scored": 7.5,
+    "scored_by": 2140,
+    "rank": 2957,
+    "popularity": 4851,
+    "members": 4527,
+    "favorites": 63,
+    "synopsis": "Oomura Takeshi is one unlucky fellow. He has has this case of bad luck ever since he was little. One day, while on his normal runs with bad luck, he meets an Angel named Elle, and he finds out that his father wished the curse of bad luck upon him. Takeshi has the oppurtunity to pass on the curse, but accepts it to save a young girl. For his noble act, Elle becomes human and lives with Takeshi to protect him from the curse, which is something Takeshi isn't particularly happy with.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 6589,
+            "type": "people",
+            "name": "Takeshita, Kenjirou",
+            "url": "https://myanimelist.net/people/6589/Kenjirou_Takeshita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 319,
+                    "type": "anime",
+                    "name": "Happy World!",
+                    "url": "https://myanimelist.net/anime/319/Happy_World"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://ultra.shueisha.co.jp/index.html"
+        }
+    ]
+}

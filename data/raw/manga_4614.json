@@ -1,0 +1,139 @@
+{
+    "mal_id": 4614,
+    "url": "https://myanimelist.net/manga/4614/Saru_Lock",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/254234.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/254234t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/254234l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/254234.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/254234t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/254234l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Saru Lock"
+        },
+        {
+            "type": "Japanese",
+            "title": "猿ロック"
+        }
+    ],
+    "title": "Saru Lock",
+    "title_english": null,
+    "title_japanese": "猿ロック",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 243,
+    "volumes": 22,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-12-22T00:00:00+00:00",
+        "to": "2009-10-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 12,
+                "year": 2003
+            },
+            "to": {
+                "day": 12,
+                "month": 10,
+                "year": 2009
+            }
+        },
+        "string": "Dec 22, 2003 to Oct 12, 2009"
+    },
+    "score": 7.37,
+    "scored": 7.37,
+    "scored_by": 1488,
+    "rank": 4086,
+    "popularity": 4422,
+    "members": 5046,
+    "favorites": 29,
+    "synopsis": "Yataro Sarumaru, nicknamed Saru, is an ace in the locksmith trade and is obsessed with girls. This (almost) average teenager is given a hardly ordinary mission which marks the beginning of his adventures! \n\n(Source: Illuminati-Manga)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4093,
+            "type": "people",
+            "name": "Serizawa, Naoki",
+            "url": "https://myanimelist.net/people/4093/Naoki_Serizawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 9,
+            "type": "manga",
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 136506,
+                    "type": "manga",
+                    "name": "Saru Lock Reboot",
+                    "url": "https://myanimelist.net/manga/136506/Saru_Lock_Reboot"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%8C%BF%E3%83%AD%E3%83%83%E3%82%AF"
+        }
+    ]
+}

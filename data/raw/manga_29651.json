@@ -1,0 +1,145 @@
+{
+    "mal_id": 29651,
+    "url": "https://myanimelist.net/manga/29651/Kamisama_no_Inai_Nichiyoubi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/100287.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/100287t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/100287l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/100287.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/100287t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/100287l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kamisama no Inai Nichiyoubi"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Sunday without God"
+        },
+        {
+            "type": "Japanese",
+            "title": "神さまのいない日曜日"
+        }
+    ],
+    "title": "Kamisama no Inai Nichiyoubi",
+    "title_english": null,
+    "title_japanese": "神さまのいない日曜日",
+    "title_synonyms": [
+        "The Sunday without God"
+    ],
+    "type": "Manga",
+    "chapters": 28,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-10-09T00:00:00+00:00",
+        "to": "2013-07-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 9,
+                "month": 7,
+                "year": 2013
+            }
+        },
+        "string": "Oct 9, 2010 to Jul 9, 2013"
+    },
+    "score": 7.1,
+    "scored": 7.1,
+    "scored_by": 1125,
+    "rank": 7503,
+    "popularity": 5621,
+    "members": 3847,
+    "favorites": 17,
+    "synopsis": "Fifteen years ago, Earth was abandoned by God. Since then, no creature has been able to give birth nor fully die, leading to a dire catastrophe. Appearing as humanity's last hope, only gravekeepers are capable of giving peace to the \"dead\"—resurrected humans who degenerate over time.\n\nIn a small village situated beside the mountains, a little girl named Ai lives her life blissfully, serving her duty as the village's gravekeeper. However, tranquility shifts with the arrival of an eccentric, enigmatic individual: Hampnie Hambart, the \"Man-eating Toy,\" whom Ai claims to be her father. Hampnie murders all the residents in Ai's village, leaving her completely alone and traumatized. With no place left to call home, she decides to follow Hampnie on his journey.\n\nAs she learns more about Hampnie, Ai realizes that there is a hidden motive driving his seemingly cruel actions—and even her own existence may not be as simple as she previously thought.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 13803,
+            "type": "people",
+            "name": "Irie, Kimihito",
+            "url": "https://myanimelist.net/people/13803/Kimihito_Irie"
+        },
+        {
+            "mal_id": 13805,
+            "type": "people",
+            "name": "Abara, Heiki",
+            "url": "https://myanimelist.net/people/13805/Heiki_Abara"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 98,
+            "type": "manga",
+            "name": "Dragon Age",
+            "url": "https://myanimelist.net/manga/magazine/98/Dragon_Age"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 36567,
+                    "type": "manga",
+                    "name": "Kamisama no Inai Nichiyoubi",
+                    "url": "https://myanimelist.net/manga/36567/Kamisama_no_Inai_Nichiyoubi"
+                },
+                {
+                    "mal_id": 16009,
+                    "type": "anime",
+                    "name": "Kamisama no Inai Nichiyoubi",
+                    "url": "https://myanimelist.net/anime/16009/Kamisama_no_Inai_Nichiyoubi"
+                },
+                {
+                    "mal_id": 20423,
+                    "type": "anime",
+                    "name": "Kamisama no Inai Nichiyoubi: Kioku",
+                    "url": "https://myanimelist.net/anime/20423/Kamisama_no_Inai_Nichiyoubi__Kioku"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E7%A5%9E%E3%81%95%E3%81%BE%E3%81%AE%E3%81%84%E3%81%AA%E3%81%84%E6%97%A5%E6%9B%9C%E6%97%A5"
+        }
+    ]
+}

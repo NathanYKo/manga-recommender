@@ -1,0 +1,166 @@
+{
+    "mal_id": 103293,
+    "url": "https://myanimelist.net/manga/103293/Dokgo",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/190706.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/190706t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/190706l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/190706.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/190706t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/190706l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Dokgo"
+        },
+        {
+            "type": "Japanese",
+            "title": "독고"
+        }
+    ],
+    "title": "Dokgo",
+    "title_english": null,
+    "title_japanese": "독고",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": null,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-12-07T00:00:00+00:00",
+        "to": "2014-02-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": 7,
+                "month": 2,
+                "year": 2014
+            }
+        },
+        "string": "Dec 7, 2012 to Feb 7, 2014"
+    },
+    "score": 7.73,
+    "scored": 7.73,
+    "scored_by": 2662,
+    "rank": 1599,
+    "popularity": 3610,
+    "members": 6238,
+    "favorites": 105,
+    "synopsis": "After Kang Hu's death from bullying, the family was torn into pieces. His younger brother suppresses his resentment and heads back to school. The story begins exactly one year after Kang Hu's death when his brother seeks to destroy the delinquent circle...\n\n(Source: MU)",
+    "background": "Dokgo is originally a webtoon which was officially published in paperbook format by Loen Tree since September 10, 2015.",
+    "authors": [
+        {
+            "mal_id": 43687,
+            "type": "people",
+            "name": "Baek, Seung Hoon",
+            "url": "https://myanimelist.net/people/43687/Seung_Hoon_Baek"
+        },
+        {
+            "mal_id": 43688,
+            "type": "people",
+            "name": "Meen",
+            "url": "https://myanimelist.net/people/43688/Meen"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1447,
+            "type": "manga",
+            "name": "Sports Today Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/1447/Sports_Today_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 110604,
+                    "type": "manga",
+                    "name": "Dokgo Rewind",
+                    "url": "https://myanimelist.net/manga/110604/Dokgo_Rewind"
+                }
+            ]
+        },
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 118907,
+                    "type": "manga",
+                    "name": "Dokgo 2",
+                    "url": "https://myanimelist.net/manga/118907/Dokgo_2"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 54709,
+                    "type": "anime",
+                    "name": "Dokgo PV",
+                    "url": "https://myanimelist.net/anime/54709/Dokgo_PV"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 117657,
+                    "type": "manga",
+                    "name": "Blood Rain",
+                    "url": "https://myanimelist.net/manga/117657/Blood_Rain"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Namu.wiki",
+            "url": "https://namu.wiki/w/%EB%8F%85%EA%B3%A0(%EC%9B%B9%ED%88%B0)"
+        }
+    ]
+}

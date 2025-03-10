@@ -1,0 +1,123 @@
+{
+    "mal_id": 103008,
+    "url": "https://myanimelist.net/manga/103008/Deaimon",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186997.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186997t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186997l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/186997.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186997t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186997l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Deaimon"
+        },
+        {
+            "type": "Japanese",
+            "title": "であいもん"
+        }
+    ],
+    "title": "Deaimon",
+    "title_english": null,
+    "title_japanese": "であいもん",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-05-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 5,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 2, 2016 to ?"
+    },
+    "score": 7.4,
+    "scored": 7.4,
+    "scored_by": 289,
+    "rank": 3838,
+    "popularity": 8722,
+    "members": 2296,
+    "favorites": 15,
+    "synopsis": "Nagomu Irino returns to his Kyoto home for the first time in ten years when his father is hospitalized. Nagomu is eager to take over Ryokushou, the family's Japanese sweet shop, but he's instead asked to be a father figure to Itsuka Yukihira, the girl everyone calls the successor.\n\n(Source: Manga Translation Battle)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 9743,
+            "type": "people",
+            "name": "Asano, Rin",
+            "url": "https://myanimelist.net/people/9743/Rin_Asano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 403,
+            "type": "manga",
+            "name": "Young Ace",
+            "url": "https://myanimelist.net/manga/magazine/403/Young_Ace"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 48779,
+                    "type": "anime",
+                    "name": "Deaimon",
+                    "url": "https://myanimelist.net/anime/48779/Deaimon"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://web-ace.jp/youngace/contents/153/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Deaimon"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%A7%E3%81%82%E3%81%84%E3%82%82%E3%82%93"
+        }
+    ]
+}

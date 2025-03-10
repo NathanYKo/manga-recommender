@@ -1,0 +1,149 @@
+{
+    "mal_id": 26657,
+    "url": "https://myanimelist.net/manga/26657/Tobaku_Haouden_Zero__Gyanki-hen",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/59937.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/59937t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/59937l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/59937.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/59937t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/59937l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tobaku Haouden Zero: Gyanki-hen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gambling Emperor Legend Zero Gyanki Arc"
+        },
+        {
+            "type": "Synonym",
+            "title": "Gambling Emperor Zero Part 2"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tobaku Haouden Rei: Gyankihen"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Gambling Spirit Arc"
+        },
+        {
+            "type": "Japanese",
+            "title": "賭博覇王伝 零 ギャン鬼編"
+        }
+    ],
+    "title": "Tobaku Haouden Zero: Gyanki-hen",
+    "title_english": null,
+    "title_japanese": "賭博覇王伝 零 ギャン鬼編",
+    "title_synonyms": [
+        "Gambling Emperor Legend Zero Gyanki Arc",
+        "Gambling Emperor Zero Part 2",
+        "Tobaku Haouden Rei: Gyankihen",
+        "The Gambling Spirit Arc"
+    ],
+    "type": "Manga",
+    "chapters": 88,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-07-13T00:00:00+00:00",
+        "to": "2013-05-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 29,
+                "month": 5,
+                "year": 2013
+            }
+        },
+        "string": "Jul 13, 2011 to May 29, 2013"
+    },
+    "score": 7.48,
+    "scored": 7.48,
+    "scored_by": 2054,
+    "rank": 3111,
+    "popularity": 5952,
+    "members": 3614,
+    "favorites": 17,
+    "synopsis": "This is part 2 of Gambling Emperor Legend Zero, picking up a few years after the cliffhanger ending of part 1.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2539,
+            "type": "people",
+            "name": "Fukumoto, Nobuyuki",
+            "url": "https://myanimelist.net/people/2539/Nobuyuki_Fukumoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Shounen Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        },
+        {
+            "mal_id": 11,
+            "type": "manga",
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 3576,
+                    "type": "manga",
+                    "name": "Tobaku Haouden Zero",
+                    "url": "https://myanimelist.net/manga/3576/Tobaku_Haouden_Zero"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E8%B3%AD%E5%8D%9A%E8%A6%87%E7%8E%8B%E4%BC%9D_%E9%9B%B6"
+        }
+    ]
+}

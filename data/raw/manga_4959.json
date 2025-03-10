@@ -1,0 +1,104 @@
+{
+    "mal_id": 4959,
+    "url": "https://myanimelist.net/manga/4959/Hanashippanashi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/68427.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/68427t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/68427l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/68427.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/68427t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/68427l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hanashippanashi"
+        },
+        {
+            "type": "Japanese",
+            "title": "はなしっぱなし"
+        }
+    ],
+    "title": "Hanashippanashi",
+    "title_english": null,
+    "title_japanese": "はなしっぱなし",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 45,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1993-12-25T00:00:00+00:00",
+        "to": "1996-06-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 12,
+                "year": 1993
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 1996
+            }
+        },
+        "string": "Dec 25, 1993 to Jun 25, 1996"
+    },
+    "score": 7.03,
+    "scored": 7.03,
+    "scored_by": 603,
+    "rank": 8576,
+    "popularity": 7922,
+    "members": 2590,
+    "favorites": 20,
+    "synopsis": "A collection of short stories about supernatural occurrences that take place in our everyday…\n\n(Source: Kotohona)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2838,
+            "type": "people",
+            "name": "Igarashi, Daisuke",
+            "url": "https://myanimelist.net/people/2838/Daisuke_Igarashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

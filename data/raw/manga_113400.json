@@ -1,0 +1,154 @@
+{
+    "mal_id": 113400,
+    "url": "https://myanimelist.net/manga/113400/Kyuuketsuki_Sugu_Shinu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/219690.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/219690t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/219690l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/219690.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/219690t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/219690l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kyuuketsuki Sugu Shinu"
+        },
+        {
+            "type": "Synonym",
+            "title": "KyuuShi"
+        },
+        {
+            "type": "Japanese",
+            "title": "吸血鬼すぐ死ぬ"
+        },
+        {
+            "type": "English",
+            "title": "The Vampire Dies in No Time"
+        }
+    ],
+    "title": "Kyuuketsuki Sugu Shinu",
+    "title_english": "The Vampire Dies in No Time",
+    "title_japanese": "吸血鬼すぐ死ぬ",
+    "title_synonyms": [
+        "KyuuShi"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2015-06-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 25, 2015 to ?"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 393,
+    "rank": 5236,
+    "popularity": 7848,
+    "members": 2617,
+    "favorites": 54,
+    "synopsis": "Vampires are said to have many weaknesses such as garlic, crosses, and sunlight. Game-loving vampire lord Draluc just so happens to be weak to... everything. He dies, turning into a pile of ash, at the slightest shock. When his castle is destroyed, he teams up with Vampire Hunter Ronaldo, much to the other's chagrin. Despite their differences, they must try to work together to defend themselves from rogue vampires, Ronaldo's murderous editor, investigators, and more—with Draluc dying continuously along the way.",
+    "background": "Kyuuketsuki Sugu Shinu has been published digitally in English as The Vampire Dies in No Time by Orange Inc. through emaqi.",
+    "authors": [
+        {
+            "mal_id": 49218,
+            "type": "people",
+            "name": "Bonnoki, Itaru",
+            "url": "https://myanimelist.net/people/49218/Itaru_Bonnoki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 206,
+            "type": "manga",
+            "name": "Shounen Champion (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/206/Shounen_Champion_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 57,
+            "type": "manga",
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor"
+        },
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 41833,
+                    "type": "anime",
+                    "name": "Kyuuketsuki Sugu Shinu",
+                    "url": "https://myanimelist.net/anime/41833/Kyuuketsuki_Sugu_Shinu"
+                },
+                {
+                    "mal_id": 50287,
+                    "type": "anime",
+                    "name": "Kyuuketsuki Sugu Shinu 2",
+                    "url": "https://myanimelist.net/anime/50287/Kyuuketsuki_Sugu_Shinu_2"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Vampire_Dies_in_No_Time"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%90%B8%E8%A1%80%E9%AC%BC%E3%81%99%E3%81%90%E6%AD%BB%E3%81%AC"
+        }
+    ]
+}

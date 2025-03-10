@@ -1,0 +1,145 @@
+{
+    "mal_id": 25110,
+    "url": "https://myanimelist.net/manga/25110/Ringo_ni_Hachimitsu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/40427.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/40427t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/40427l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/40427.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/40427t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/40427l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ringo ni Hachimitsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "The blue parasol on the beach"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nagisa no Aoi Parasol"
+        },
+        {
+            "type": "Synonym",
+            "title": "The summer of the end of the world and its shape"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sekai no Owari no Natsu Moyou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Apple & Honey"
+        },
+        {
+            "type": "Japanese",
+            "title": "リンゴに蜂蜜"
+        },
+        {
+            "type": "English",
+            "title": "Apple and Honey"
+        }
+    ],
+    "title": "Ringo ni Hachimitsu",
+    "title_english": "Apple and Honey",
+    "title_japanese": "リンゴに蜂蜜",
+    "title_synonyms": [
+        "The blue parasol on the beach",
+        "Nagisa no Aoi Parasol",
+        "The summer of the end of the world and its shape",
+        "Sekai no Owari no Natsu Moyou",
+        "Apple & Honey"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2010-04-20T00:00:00+00:00",
+        "to": "2010-12-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 4,
+                "year": 2010
+            },
+            "to": {
+                "day": 16,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Apr 20, 2010 to Dec 16, 2010"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 2078,
+    "rank": null,
+    "popularity": 5108,
+    "members": 4281,
+    "favorites": 12,
+    "synopsis": "1. The blue parasol on the beach (渚の青いパラソル, Nagisa no Aoi Parasol)\n2. Things like love and passion… (Ringo ni Hachimitsu)\n3-5. The summer of the end of the world and its shape (世界の終わりのなつもよう, Sekai no Owari no Natsu Moyou)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11024,
+            "type": "people",
+            "name": "Hideyoshico",
+            "url": "https://myanimelist.net/people/11024/Hideyoshico"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 460,
+            "type": "manga",
+            "name": "Cab",
+            "url": "https://myanimelist.net/manga/magazine/460/Cab"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 36407,
+                    "type": "manga",
+                    "name": "Kare no Barairo no Jinsei",
+                    "url": "https://myanimelist.net/manga/36407/Kare_no_Barairo_no_Jinsei"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

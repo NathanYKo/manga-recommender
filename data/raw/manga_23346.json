@@ -1,0 +1,115 @@
+{
+    "mal_id": 23346,
+    "url": "https://myanimelist.net/manga/23346/Spotted_Flower",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/119485.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/119485t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/119485l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/119485.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/119485t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/119485l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Spotted Flower"
+        },
+        {
+            "type": "Japanese",
+            "title": "Spotted Flower"
+        }
+    ],
+    "title": "Spotted Flower",
+    "title_english": null,
+    "title_japanese": "Spotted Flower",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2010-10-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 30, 2010 to ?"
+    },
+    "score": 6.54,
+    "scored": 6.54,
+    "scored_by": 1592,
+    "rank": 16082,
+    "popularity": 3868,
+    "members": 5804,
+    "favorites": 22,
+    "synopsis": "It's about the married life between a newlywed working otaku and his pregnant wife.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2333,
+            "type": "people",
+            "name": "Kio, Shimoku",
+            "url": "https://myanimelist.net/people/2333/Shimoku_Kio"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 545,
+            "type": "manga",
+            "name": "Rakuen Le Paradis",
+            "url": "https://myanimelist.net/manga/magazine/545/Rakuen_Le_Paradis"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 42,
+            "type": "manga",
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei"
+        }
+    ],
+    "relations": [],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/Spotted_Flower"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "mal_id": 5511,
+    "url": "https://myanimelist.net/manga/5511/Terror",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/7023.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/7023t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/7023l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/7023.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/7023t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/7023l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Terror"
+        }
+    ],
+    "title": "Terror",
+    "title_english": null,
+    "title_japanese": null,
+    "title_synonyms": [],
+    "type": "One-shot",
+    "chapters": 1,
+    "volumes": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2007-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2007"
+    },
+    "score": 5.8,
+    "scored": 5.8,
+    "scored_by": 1466,
+    "rank": 20095,
+    "popularity": 8185,
+    "members": 2488,
+    "favorites": 4,
+    "synopsis": "It's midnight, what are those sounds?",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3207,
+            "type": "people",
+            "name": "Jin, Kyung",
+            "url": "https://myanimelist.net/people/3207/Kyung_Jin"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 134,
+            "type": "manga",
+            "name": "Wink",
+            "url": "https://myanimelist.net/manga/magazine/134/Wink"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

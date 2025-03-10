@@ -1,0 +1,143 @@
+{
+    "mal_id": 99528,
+    "url": "https://myanimelist.net/manga/99528/Rikei_ga_Koi_ni_Ochita_no_de_Shoumei_shitemita",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185347.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185347t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185347l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185347.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185347t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185347l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita."
+        },
+        {
+            "type": "Synonym",
+            "title": "RikeKoi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Science Fell in Love"
+        },
+        {
+            "type": "Synonym",
+            "title": "So I Tried to Prove It"
+        },
+        {
+            "type": "Japanese",
+            "title": "理系が恋に落ちたので証明してみた。"
+        }
+    ],
+    "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+    "title_english": null,
+    "title_japanese": "理系が恋に落ちたので証明してみた。",
+    "title_synonyms": [
+        "RikeKoi",
+        "Science Fell in Love",
+        "So I Tried to Prove It"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-03-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 3,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 16, 2016 to ?"
+    },
+    "score": 7.28,
+    "scored": 7.28,
+    "scored_by": 2127,
+    "rank": 5088,
+    "popularity": 1734,
+    "members": 12512,
+    "favorites": 82,
+    "synopsis": "In the laboratory where individual researchers come together, an experimental science love comedy occurs, drawn by Yamamoto Alfred.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 24383,
+            "type": "people",
+            "name": "Yamamoto, Alfred",
+            "url": "https://myanimelist.net/people/24383/Alfred_Yamamoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 827,
+            "type": "manga",
+            "name": "Comic Meteor",
+            "url": "https://myanimelist.net/manga/magazine/827/Comic_Meteor"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 38992,
+                    "type": "anime",
+                    "name": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+                    "url": "https://myanimelist.net/anime/38992/Rikei_ga_Koi_ni_Ochita_no_de_Shoumei_shitemita"
+                },
+                {
+                    "mal_id": 43470,
+                    "type": "anime",
+                    "name": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
+                    "url": "https://myanimelist.net/anime/43470/Rikei_ga_Koi_ni_Ochita_no_de_Shoumei_shitemita_Heart"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://comic-meteor.jp/rikekoi/"
+        }
+    ]
+}

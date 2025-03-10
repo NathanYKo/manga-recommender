@@ -1,0 +1,140 @@
+{
+    "mal_id": 157875,
+    "url": "https://myanimelist.net/manga/157875/Kill_Ao",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/287905.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/287905t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/287905l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/287905.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/287905t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/287905l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kill Ao"
+        },
+        {
+            "type": "Japanese",
+            "title": "キルアオ"
+        },
+        {
+            "type": "English",
+            "title": "Kill Blue"
+        }
+    ],
+    "title": "Kill Ao",
+    "title_english": "Kill Blue",
+    "title_japanese": "キルアオ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2023-04-17T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 4,
+                "year": 2023
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 17, 2023 to ?"
+    },
+    "score": 6.69,
+    "scored": 6.69,
+    "scored_by": 2137,
+    "rank": 13856,
+    "popularity": 3308,
+    "members": 6786,
+    "favorites": 21,
+    "synopsis": "Juzo Oogami's a legend. Even among hit men, his name sends shivers down their spines. There's never been a job he couldn't handle—that is, until the day he awoke as a teenager! But how did his body transform? To find out, he'll have to infiltrate the one place he never thought he'd find himself in...school!\n\n(Source: VIZ Media)",
+    "background": "Kill Ao has been published digitally as an English simulpub as Kill Blue through MANGA Plus. The volumes have been published digitally by VIZ Media under the Shonen Jump imprint since July 23, 2024.",
+    "authors": [
+        {
+            "mal_id": 6854,
+            "type": "people",
+            "name": "Fujimaki, Tadatoshi",
+            "url": "https://myanimelist.net/people/6854/Tadatoshi_Fujimaki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 158009,
+                    "type": "manga",
+                    "name": "Kill Aoharu",
+                    "url": "https://myanimelist.net/manga/158009/Kill_Aoharu"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.shonenjump.com/j/rensai/killblue.html"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kill_Blue"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/キルアオ"
+        }
+    ]
+}

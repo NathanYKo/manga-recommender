@@ -1,0 +1,102 @@
+{
+    "mal_id": 101688,
+    "url": "https://myanimelist.net/manga/101688/Kikoeru",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185067.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185067t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185067l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/185067.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/185067t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/185067l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kikoeru?"
+        },
+        {
+            "type": "Japanese",
+            "title": "きこえる?"
+        }
+    ],
+    "title": "Kikoeru?",
+    "title_english": null,
+    "title_japanese": "きこえる?",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-02-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 2,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 25, 2016"
+    },
+    "score": 7.38,
+    "scored": 7.38,
+    "scored_by": 1516,
+    "rank": null,
+    "popularity": 7124,
+    "members": 2942,
+    "favorites": 11,
+    "synopsis": "The only hobby of college student Sakurabashi Itsuki is listening to his favorite radio DJ, Yunoguchi \"Yuno\" Arata. They cross paths at the bookstore one day and Itsuki boldly asks Yuno to get coffee with him.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 7646,
+            "type": "people",
+            "name": "Hashimoto, Aoi",
+            "url": "https://myanimelist.net/people/7646/Aoi_Hashimoto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1332,
+            "type": "manga",
+            "name": "WEBLink",
+            "url": "https://myanimelist.net/manga/magazine/1332/WEBLink"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://weblink.homesha.jp/aoi_kikoeru/"
+        }
+    ]
+}

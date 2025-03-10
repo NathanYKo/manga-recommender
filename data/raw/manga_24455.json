@@ -1,0 +1,167 @@
+{
+    "mal_id": 24455,
+    "url": "https://myanimelist.net/manga/24455/Konohanatei_Kitan",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/106897.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/106897t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/106897l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/106897.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/106897t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/106897l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Konohanatei Kitan"
+        },
+        {
+            "type": "Synonym",
+            "title": "Konohana Teikitan"
+        },
+        {
+            "type": "Japanese",
+            "title": "此花亭奇譚"
+        }
+    ],
+    "title": "Konohanatei Kitan",
+    "title_english": null,
+    "title_japanese": "此花亭奇譚",
+    "title_synonyms": [
+        "Konohana Teikitan"
+    ],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-06-18T00:00:00+00:00",
+        "to": "2010-09-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 6,
+                "year": 2009
+            },
+            "to": {
+                "day": 18,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Jun 18, 2009 to Sep 18, 2010"
+    },
+    "score": 7.28,
+    "scored": 7.28,
+    "scored_by": 719,
+    "rank": 5084,
+    "popularity": 8197,
+    "members": 2484,
+    "favorites": 16,
+    "synopsis": "Set in a village inhabited by youkai, Konohanatei Kitan presents the lives of several fox mononoke working in a hot spring inn. The stories revolve around a new employee, Yuzu. Yuzu had always been living in the mountains, but now has to adjust to a new life working in a high class inn. She is oblivious and clumsy at first, but with her simple cuteness, she is able to get along with all the other foxes.\n\n(Source: MU)",
+    "background": "Konohanatei Kitan was re-published in a shinsouban format in 2015.",
+    "authors": [
+        {
+            "mal_id": 3514,
+            "type": "people",
+            "name": "Amano, Sakuya",
+            "url": "https://myanimelist.net/people/3514/Sakuya_Amano"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 417,
+            "type": "manga",
+            "name": "Comic Yuri Hime S",
+            "url": "https://myanimelist.net/manga/magazine/417/Comic_Yuri_Hime_S"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 26,
+            "type": "manga",
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 52,
+            "type": "manga",
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT"
+        },
+        {
+            "mal_id": 63,
+            "type": "manga",
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+        },
+        {
+            "mal_id": 48,
+            "type": "manga",
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 93399,
+                    "type": "manga",
+                    "name": "Konohana Kitan",
+                    "url": "https://myanimelist.net/manga/93399/Konohana_Kitan"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35241,
+                    "type": "anime",
+                    "name": "Konohana Kitan",
+                    "url": "https://myanimelist.net/anime/35241/Konohana_Kitan"
+                }
+            ]
+        },
+        {
+            "relation": "Side Story",
+            "entry": [
+                {
+                    "mal_id": 14904,
+                    "type": "manga",
+                    "name": "Cherry Lip",
+                    "url": "https://myanimelist.net/manga/14904/Cherry_Lip"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E6%AD%A4%E8%8A%B1%E4%BA%AD%E5%A5%87%E8%AD%9A"
+        }
+    ]
+}

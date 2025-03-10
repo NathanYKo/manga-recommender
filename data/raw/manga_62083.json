@@ -1,0 +1,143 @@
+{
+    "mal_id": 62083,
+    "url": "https://myanimelist.net/manga/62083/Saenai_Heroine_no_Sodatekata__Koisuru_Metronome",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/150334.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/150334t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/150334l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/150334.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/150334t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/150334l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Saenai Heroine no Sodatekata: Koisuru Metronome"
+        },
+        {
+            "type": "Synonym",
+            "title": "Saenai Kanojo no Sodatekata: Koisuru Metronome"
+        },
+        {
+            "type": "Japanese",
+            "title": "冴えない彼女〈ヒロイン〉の育てかた 恋するメトロノーム"
+        }
+    ],
+    "title": "Saenai Heroine no Sodatekata: Koisuru Metronome",
+    "title_english": null,
+    "title_japanese": "冴えない彼女〈ヒロイン〉の育てかた 恋するメトロノーム",
+    "title_synonyms": [
+        "Saenai Kanojo no Sodatekata: Koisuru Metronome"
+    ],
+    "type": "Manga",
+    "chapters": 51,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-08-24T00:00:00+00:00",
+        "to": "2018-04-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 8,
+                "year": 2013
+            },
+            "to": {
+                "day": 25,
+                "month": 4,
+                "year": 2018
+            }
+        },
+        "string": "Aug 24, 2013 to Apr 25, 2018"
+    },
+    "score": 7.94,
+    "scored": 7.94,
+    "scored_by": 4551,
+    "rank": 894,
+    "popularity": 1827,
+    "members": 11894,
+    "favorites": 314,
+    "synopsis": "Spin-off of the SaeKano novel series focusing on the unlikely relationship between famed author Kasumigaoka Utaha and average otaku Aki Tomoya.\n\nDown in a rut and out of lacking creativity, infatuation develops after a fan-signing for 'Love Metronome' and Aki becomes the estranged \"assistant\" of one of his school's top idols.\n\n(Source: fourberie)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 21509,
+            "type": "people",
+            "name": "Musha, Sabu",
+            "url": "https://myanimelist.net/people/21509/Sabu_Musha"
+        },
+        {
+            "mal_id": 22237,
+            "type": "people",
+            "name": "Maruto, Fumiaki",
+            "url": "https://myanimelist.net/people/22237/Fumiaki_Maruto"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 705,
+            "type": "manga",
+            "name": "Big Gangan",
+            "url": "https://myanimelist.net/manga/magazine/705/Big_Gangan"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 49567,
+                    "type": "manga",
+                    "name": "Saenai Heroine no Sodatekata",
+                    "url": "https://myanimelist.net/manga/49567/Saenai_Heroine_no_Sodatekata"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.jp.square-enix.com/magazine/biggangan/introduction/saenai/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%86%B4%E3%81%88%E3%81%AA%E3%81%84%E5%BD%BC%E5%A5%B3%E3%81%AE%E8%82%B2%E3%81%A6%E3%81%8B%E3%81%9F"
+        }
+    ]
+}

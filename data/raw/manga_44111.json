@@ -1,0 +1,146 @@
+{
+    "mal_id": 44111,
+    "url": "https://myanimelist.net/manga/44111/Hitorijime_My_Hero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/248370.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/248370t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/248370l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/248370.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/248370t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/248370l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hitorijime My Hero"
+        },
+        {
+            "type": "Synonym",
+            "title": "My Very Own Hero"
+        },
+        {
+            "type": "Japanese",
+            "title": "ひとりじめマイヒーロー"
+        },
+        {
+            "type": "English",
+            "title": "Hitorijime My Hero"
+        }
+    ],
+    "title": "Hitorijime My Hero",
+    "title_english": "Hitorijime My Hero",
+    "title_japanese": "ひとりじめマイヒーロー",
+    "title_synonyms": [
+        "My Very Own Hero"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2011-05-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 5,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 28, 2011 to ?"
+    },
+    "score": 7.53,
+    "scored": 7.53,
+    "scored_by": 3897,
+    "rank": 2796,
+    "popularity": 1601,
+    "members": 13495,
+    "favorites": 291,
+    "synopsis": "As a child, Masahiro Setagawa hated the idea of heroes, as no one had ever attempted to save him from his own miserable existence. As a teenager, he became an errand boy for delinquents and had no desire to change his ways before meeting the \"Bear Killer,\" Kousuke Ooshiba, a man with no qualms about beating up evildoers. After discovering his identity, Setagawa became Kousuke's underling and also struck up a friendship with his brother Kensuke.\n\nA few years later, the relationship between Kousuke and Setagawa has not evolved beyond their initial master and subordinate arrangement. But after Setagawa sees Kensuke with his boyfriend Asaya Hasekura, and a misunderstanding arises on the part of Kousuke, Setagawa realizes that his feelings for his mentor may not be as clear cut as previously thought.\n\n[Written by MAL Rewrite]",
+    "background": "Hitorijime My Hero has been published in English by Kodansha Comics USA since January 22, 2019. It has also been released in German by Manga Cult; in Italian by Star Comics since September 30, 2020; and in Spanish by Editorial Ivréa since August 10, 2022.",
+    "authors": [
+        {
+            "mal_id": 19177,
+            "type": "people",
+            "name": "Arii, Memeco",
+            "url": "https://myanimelist.net/people/19177/Memeco_Arii"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 516,
+            "type": "manga",
+            "name": "gateau",
+            "url": "https://myanimelist.net/manga/magazine/516/gateau"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 33654,
+                    "type": "anime",
+                    "name": "Hitorijime My Hero",
+                    "url": "https://myanimelist.net/anime/33654/Hitorijime_My_Hero"
+                }
+            ]
+        },
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 43889,
+                    "type": "manga",
+                    "name": "Hitorijime Boyfriend",
+                    "url": "https://myanimelist.net/manga/43889/Hitorijime_Boyfriend"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "KodanshaKodansha USA",
+            "url": "https://kodansha.us/series/hitorijime-my-hero/"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%98%E3%82%81%E3%83%9E%E3%82%A4%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "mal_id": 2243,
+    "url": "https://myanimelist.net/manga/2243/Benriya-san",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/176522.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/176522t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/176522l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/176522.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/176522t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/176522l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Benriya-san"
+        },
+        {
+            "type": "Japanese",
+            "title": "便利屋さん"
+        },
+        {
+            "type": "English",
+            "title": "Mr. Convenience"
+        }
+    ],
+    "title": "Benriya-san",
+    "title_english": "Mr. Convenience",
+    "title_japanese": "便利屋さん",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 4,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2006-08-07T00:00:00+00:00",
+        "to": "2007-12-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 8,
+                "year": 2006
+            },
+            "to": {
+                "day": 7,
+                "month": 12,
+                "year": 2007
+            }
+        },
+        "string": "Aug 7, 2006 to Dec 7, 2007"
+    },
+    "score": 7.43,
+    "scored": 7.43,
+    "scored_by": 1447,
+    "rank": null,
+    "popularity": 7846,
+    "members": 2620,
+    "favorites": 3,
+    "synopsis": "Shiva Convenience Agency is here to help out, with jobs big or small.",
+    "background": "Benriya-san was published in English as Mr. Convenience by Digital Manga Publishing on October 19, 2011.",
+    "authors": [
+        {
+            "mal_id": 3018,
+            "type": "people",
+            "name": "Yamato, Nase",
+            "url": "https://myanimelist.net/people/3018/Nase_Yamato"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 131,
+            "type": "manga",
+            "name": "GUSH",
+            "url": "https://myanimelist.net/manga/magazine/131/GUSH"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 2252,
+                    "type": "manga",
+                    "name": "Saa Koi ni Ochitamae",
+                    "url": "https://myanimelist.net/manga/2252/Saa_Koi_ni_Ochitamae"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

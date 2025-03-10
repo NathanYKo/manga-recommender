@@ -1,0 +1,112 @@
+{% extends "base.html" %}
+
+{% block title %}Manga Recommendations for {{ manga.title }}{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <!-- Original Manga Details -->
+    <div class="card mb-4 shadow">
+        <div class="card-header bg-primary text-white">
+            <h2 class="mb-0">Recommendations based on: {{ manga.title }}</h2>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-3">
+                    {% if manga.image_url %}
+                    <img src="{{ manga.image_url }}" alt="{{ manga.title }}" class="img-fluid rounded">
+                    {% else %}
+                    <div class="placeholder-image">No Image</div>
+                    {% endif %}
+                </div>
+                <div class="col-md-9">
+                    <h3>{{ manga.title }}</h3>
+                    {% if manga.title_english and manga.title_english != manga.title %}
+                    <p class="text-muted">English: {{ manga.title_english }}</p>
+                    {% endif %}
+                    
+                    <div class="mb-3">
+                        <span class="badge bg-primary me-1">Score: {{ manga.score|default('N/A') }}</span>
+                        <span class="badge bg-secondary me-1">{{ manga.status|default('Unknown Status') }}</span>
+                        {% if manga.genre_list %}
+                            {% for genre in manga.genre_list.split(',') %}
+                                <span class="badge bg-info text-dark me-1">{{ genre.strip() }}</span>
+                            {% endfor %}
+                        {% endif %}
+                    </div>
+                    
+                    {% if manga.synopsis %}
+                    <h5>Synopsis</h5>
+                    <p>{{ manga.synopsis|truncate_text(300) }}</p>
+                    {% endif %}
+                    
+                    <a href="{{ url_for('manga_details', manga_id=manga.manga_id) }}" class="btn btn-outline-primary">View Full Details</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Recommendations -->
+    <h3 class="mb-3">Similar Manga You Might Enjoy</h3>
+    
+    {% if recommendations %}
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mb-4">
+        {% for rec in recommendations %}
+        <div class="col">
+            <div class="card h-100 shadow-sm">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        {% if rec.image_url %}
+                        <a href="{{ url_for('manga_details', manga_id=rec.manga_id) }}">
+                            <img src="{{ rec.image_url }}" class="img-fluid rounded-start h-100" alt="{{ rec.title }}">
+                        </a>
+                        {% else %}
+                        <div class="placeholder-image">No Image</div>
+                        {% endif %}
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a href="{{ url_for('manga_details', manga_id=rec.manga_id) }}" class="text-decoration-none text-dark">
+                                    {{ rec.title }}
+                                </a>
+                            </h5>
+                            
+                            <div class="mb-2">
+                                <span class="badge bg-primary">Score: {{ rec.score|default('N/A') }}</span>
+                                <span class="badge bg-success">Similarity: {{ "%.0f"|format(min(rec.similarity_score * 100, 100)) }}%</span>
+                            </div>
+                            
+                            {% if rec.genre_list %}
+                            <p class="card-text small">
+                                <strong>Genres:</strong> {{ rec.genre_list }}
+                            </p>
+                            {% endif %}
+                            
+                            {% if rec.synopsis %}
+                            <p class="card-text small">{{ rec.synopsis|truncate_text(100) }}</p>
+                            {% endif %}
+                            
+                            <a href="{{ url_for('manga_details', manga_id=rec.manga_id) }}" class="btn btn-sm btn-outline-primary">Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+    <div class="alert alert-info">
+        No recommendations found for this manga. Try a different title.
+    </div>
+    {% endif %}
+    
+    <div class="d-flex justify-content-between mt-4">
+        <a href="{{ url_for('recommend_manga') }}" class="btn btn-outline-secondary">
+            <i class="fas fa-arrow-left"></i> Try Another Manga
+        </a>
+        <a href="{{ url_for('index') }}" class="btn btn-primary">
+            Return Home
+        </a>
+    </div>
+</div>
+{% endblock %} 

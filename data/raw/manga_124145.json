@@ -1,0 +1,131 @@
+{
+    "mal_id": 124145,
+    "url": "https://myanimelist.net/manga/124145/Gilgamesh",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/226439.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/226439t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/226439l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/226439.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/226439t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/226439l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Gilgamesh"
+        },
+        {
+            "type": "Synonym",
+            "title": "Epic of Gilgamesh"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ae Neulgeuni"
+        },
+        {
+            "type": "Japanese",
+            "title": "애늙은이"
+        }
+    ],
+    "title": "Gilgamesh",
+    "title_english": null,
+    "title_japanese": "애늙은이",
+    "title_synonyms": [
+        "Epic of Gilgamesh",
+        "Ae Neulgeuni"
+    ],
+    "type": "Manhwa",
+    "chapters": 129,
+    "volumes": 6,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-08-31T00:00:00+00:00",
+        "to": "2017-12-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "to": {
+                "day": 11,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Aug 31, 2015 to Dec 11, 2017"
+    },
+    "score": 7.75,
+    "scored": 7.75,
+    "scored_by": 1002,
+    "rank": 1540,
+    "popularity": 7702,
+    "members": 2676,
+    "favorites": 40,
+    "synopsis": "Tludia was on her way to become a Knight within the Order when she was unexpectedly kicked out for breaking too many weapons and—wait for it—eating too much. But that doesn't mean she should stand idly by when she witnesses an old man about to be attacked by a band of robbers. Luckily for her—because she was a second too late—the old man did not need saving. It's Tludia that needs saving. Much older than his appearance suggests, Tludia rekindles a long lost memory in him, and he decides to repay her for her efforts by finding a cure for her disease (with promises of food, of course). Thus begins their journey to bring life to one, and long-awaited peace to the other.\n\n(Source: Lezhin Comics)",
+    "background": "Gilgamesh has been published digitally in English by Lezhin Comics since November 14, 2018.",
+    "authors": [
+        {
+            "mal_id": 50503,
+            "type": "people",
+            "name": "Hwandaeng",
+            "url": "https://myanimelist.net/people/50503/Hwandaeng"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1273,
+            "type": "manga",
+            "name": "Lezhin Comics Webtoon",
+            "url": "https://myanimelist.net/manga/magazine/1273/Lezhin_Comics_Webtoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Setting",
+            "entry": [
+                {
+                    "mal_id": 148530,
+                    "type": "manga",
+                    "name": "The Ember Knight",
+                    "url": "https://myanimelist.net/manga/148530/The_Ember_Knight"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.lezhin.com/ko/comic/gilgamesh"
+        }
+    ]
+}

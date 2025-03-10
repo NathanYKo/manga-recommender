@@ -1,0 +1,143 @@
+{
+    "mal_id": 10265,
+    "url": "https://myanimelist.net/manga/10265/Tales_of_Vesperia",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/148297.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/148297t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/148297l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/148297.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/148297t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/148297l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tales of Vesperia"
+        },
+        {
+            "type": "Japanese",
+            "title": "テイルズ オブ ヴェスペリア"
+        }
+    ],
+    "title": "Tales of Vesperia",
+    "title_english": null,
+    "title_japanese": "テイルズ オブ ヴェスペリア",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 21,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-08-07T00:00:00+00:00",
+        "to": "2010-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 8,
+                "year": 2008
+            },
+            "to": {
+                "day": 9,
+                "month": 10,
+                "year": 2010
+            }
+        },
+        "string": "Aug 7, 2008 to Oct 9, 2010"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 678,
+    "rank": 5195,
+    "popularity": 8322,
+    "members": 2434,
+    "favorites": 26,
+    "synopsis": "A power struggle begins in a civilization dependent on an ancient technology, the blastia, and the Empire that controls it. The fates of two friends traveling separate paths intertwine in an epic adventure that threatens the existence of all.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3170,
+            "type": "people",
+            "name": "Bandai-Namco",
+            "url": "https://myanimelist.net/people/3170/Bandai-Namco"
+        },
+        {
+            "mal_id": 6294,
+            "type": "people",
+            "name": "Morita, Yuzuka",
+            "url": "https://myanimelist.net/people/6294/Yuzuka_Morita"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 311,
+            "type": "manga",
+            "name": "Tales of Magazine",
+            "url": "https://myanimelist.net/manga/magazine/311/Tales_of_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 6046,
+                    "type": "anime",
+                    "name": "Tales of Vesperia: The First Strike",
+                    "url": "https://myanimelist.net/anime/6046/Tales_of_Vesperia__The_First_Strike"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 10693,
+                    "type": "manga",
+                    "name": "Tales of Vesperia: Flynn Seinaru Hakugin no Kishi",
+                    "url": "https://myanimelist.net/manga/10693/Tales_of_Vesperia__Flynn_Seinaru_Hakugin_no_Kishi"
+                },
+                {
+                    "mal_id": 90630,
+                    "type": "manga",
+                    "name": "Tales of Vesperia: Kokuu no Kamen",
+                    "url": "https://myanimelist.net/manga/90630/Tales_of_Vesperia__Kokuu_no_Kamen"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%83%B4%E3%82%A7%E3%82%B9%E3%83%9A%E3%83%AA%E3%82%A2"
+        }
+    ]
+}

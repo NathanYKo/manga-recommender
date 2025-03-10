@@ -1,0 +1,114 @@
+{
+    "mal_id": 1685,
+    "url": "https://myanimelist.net/manga/1685/Bitter_Sweet_Café",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/82058.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/82058t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/82058l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/82058.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/82058t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/82058l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bitter Sweet Café"
+        },
+        {
+            "type": "Synonym",
+            "title": "Bitter Sweet Cafe"
+        },
+        {
+            "type": "Japanese",
+            "title": "ビタースイートカフェ"
+        }
+    ],
+    "title": "Bitter Sweet Café",
+    "title_english": null,
+    "title_japanese": "ビタースイートカフェ",
+    "title_synonyms": [
+        "Bitter Sweet Cafe"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-12-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 2005"
+    },
+    "score": 7.17,
+    "scored": 7.17,
+    "scored_by": 1383,
+    "rank": null,
+    "popularity": 8179,
+    "members": 2491,
+    "favorites": 5,
+    "synopsis": "One day, Katsuragi Megumi, a café manager, came across a deeply wounded patissier, Honda Yuuji. Since then, Honda has helped out at Megumi's café. Even though Megumi is much older and a bit clumsy, his cuteness truly touched Honda. One night, Honda sees Megumi screaming some man's name while masturbating. Seeing such an obscene Megumi, Honda realizes that he actually loves Megumi.\n\n(Source: Nakama)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3072,
+            "type": "people",
+            "name": "Kanbe, Akira",
+            "url": "https://myanimelist.net/people/3072/Akira_Kanbe"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 6810,
+                    "type": "manga",
+                    "name": "Love or Pride",
+                    "url": "https://myanimelist.net/manga/6810/Love_or_Pride"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

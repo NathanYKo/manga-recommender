@@ -1,0 +1,110 @@
+{
+    "mal_id": 17222,
+    "url": "https://myanimelist.net/manga/17222/Kansen_Rettou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/25869.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/25869t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/25869l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/25869.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/25869t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/25869l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kansen Rettou"
+        },
+        {
+            "type": "Japanese",
+            "title": "感染列島"
+        }
+    ],
+    "title": "Kansen Rettou",
+    "title_english": null,
+    "title_japanese": "感染列島",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2008"
+    },
+    "score": 6.51,
+    "scored": 6.51,
+    "scored_by": 1929,
+    "rank": 16482,
+    "popularity": 5604,
+    "members": 3860,
+    "favorites": 12,
+    "synopsis": "On January 3, 2011, ER doctor Matsuoka Tsuyoshi examines a patient presenting influenza symptoms. The next day, the patient dies from multiple-organ failure, followed by others who had shown the same symptoms. As the death toll rises, even the high-tech Japanese are at a loss over how to check the further spread of the deadly virus.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 4908,
+            "type": "people",
+            "name": "Kakizaki, Masasumi",
+            "url": "https://myanimelist.net/people/4908/Masasumi_Kakizaki"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 67,
+            "type": "manga",
+            "name": "Medical",
+            "url": "https://myanimelist.net/manga/genre/67/Medical"
+        },
+        {
+            "mal_id": 40,
+            "type": "manga",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

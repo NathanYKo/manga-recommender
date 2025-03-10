@@ -1,0 +1,145 @@
+{
+    "mal_id": 90007,
+    "url": "https://myanimelist.net/manga/90007/Henai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/157478.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/157478t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/157478l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/157478.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/157478t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/157478l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Henai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tomarigi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Messiah no Yakubi"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ore no Doukyuusei ga Binkan sugite Yabai!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ore no Doukyuusei ga Kagen wo Shiranakute Tsurai"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ore no Doukyuusei to Yasumi Jikan no Yuukou Katsuyou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kyoushitsu no Yugami"
+        },
+        {
+            "type": "Japanese",
+            "title": "変愛"
+        }
+    ],
+    "title": "Henai",
+    "title_english": null,
+    "title_japanese": "変愛",
+    "title_synonyms": [
+        "Tomarigi",
+        "Messiah no Yakubi",
+        "Ore no Doukyuusei ga Binkan sugite Yabai!",
+        "Ore no Doukyuusei ga Kagen wo Shiranakute Tsurai",
+        "Ore no Doukyuusei to Yasumi Jikan no Yuukou Katsuyou",
+        "Kyoushitsu no Yugami"
+    ],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2013-06-28T00:00:00+00:00",
+        "to": "2013-12-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 6,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Jun 28, 2013 to Dec 28, 2013"
+    },
+    "score": 7.26,
+    "scored": 7.26,
+    "scored_by": 1180,
+    "rank": null,
+    "popularity": 7143,
+    "members": 2936,
+    "favorites": 6,
+    "synopsis": "1. Henai\n2. Tomarigi\n3. Messiah no Yakubi\n4. Ore no Doukyuusei ga Binkansugite Yabai!\n5. Ore no Doukyuusei ga Kagen wo Shiranakute Tsurai\n6. Ore no Doukyuusei to Yasumi Jikan no Yuukou Katsuyou\n7. Kyoushitsu no Yugami",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 37887,
+            "type": "people",
+            "name": "Harada",
+            "url": "https://myanimelist.net/people/37887/Harada"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 100270,
+                    "type": "manga",
+                    "name": "Posi",
+                    "url": "https://myanimelist.net/manga/100270/Posi"
+                },
+                {
+                    "mal_id": 90008,
+                    "type": "manga",
+                    "name": "Yajirushi",
+                    "url": "https://myanimelist.net/manga/90008/Yajirushi"
+                },
+                {
+                    "mal_id": 119931,
+                    "type": "manga",
+                    "name": "One Room Angel",
+                    "url": "https://myanimelist.net/manga/119931/One_Room_Angel"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

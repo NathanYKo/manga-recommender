@@ -1,0 +1,103 @@
+{
+    "mal_id": 100112,
+    "url": "https://myanimelist.net/manga/100112/By_My_Side",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/244755.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/244755t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/244755l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/244755.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/244755t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/244755l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "By My Side"
+        },
+        {
+            "type": "Japanese",
+            "title": "バイ・マイ・サイド"
+        }
+    ],
+    "title": "By My Side",
+    "title_english": null,
+    "title_japanese": "バイ・マイ・サイド",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 7,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-01-30T00:00:00+00:00",
+        "to": "2019-09-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 20,
+                "month": 9,
+                "year": 2019
+            }
+        },
+        "string": "Jan 30, 2016 to Sep 20, 2019"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 920,
+    "rank": null,
+    "popularity": 8640,
+    "members": 2326,
+    "favorites": 6,
+    "synopsis": "A love between men that starts from seeing a friend doing H by himself.\n\n(Source: Seraphic Deviltry)",
+    "background": "By My Side went on hiatus after the release of chapter 5 in the May 2017 issue of Cheri+ on March 30, 2017, and wasn't finished until the release of the print volume on September 20, 2019, which significantly changed certain elements of the story.",
+    "authors": [
+        {
+            "mal_id": 35939,
+            "type": "people",
+            "name": "Natsume, Kazuki",
+            "url": "https://myanimelist.net/people/35939/Kazuki_Natsume"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1001,
+            "type": "manga",
+            "name": "Cheri+",
+            "url": "https://myanimelist.net/manga/magazine/1001/Cheri_"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [],
+    "external": []
+}

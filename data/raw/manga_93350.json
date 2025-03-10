@@ -1,0 +1,102 @@
+{
+    "mal_id": 93350,
+    "url": "https://myanimelist.net/manga/93350/Ayeshahs_Secret",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/164927.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/164927t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/164927l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/164927.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/164927t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/164927l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Ayeshah's Secret"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ayeshah's Forest"
+        },
+        {
+            "type": "Japanese",
+            "title": "艾莎的森林"
+        }
+    ],
+    "title": "Ayeshah's Secret",
+    "title_english": null,
+    "title_japanese": "艾莎的森林",
+    "title_synonyms": [
+        "Ayeshah's Forest"
+    ],
+    "type": "Manhua",
+    "chapters": 11,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2012-12-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 1, 2012"
+    },
+    "score": 7.24,
+    "scored": 7.24,
+    "scored_by": 3712,
+    "rank": 5622,
+    "popularity": 2574,
+    "members": 8593,
+    "favorites": 141,
+    "synopsis": "A tragic young girl whose mother died giving birth to her? A wicked stepmother and three brothers with whom she shares no blood ties? Murderous intent born from avarice and twisted emotions. Secrets woven with betrayal, terror, deceit, love, death and vengeance? All buried deep within Ayeshah's Forest, shrouded in darkness.\n\n(Source: Easy Going Scans)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 12703,
+            "type": "people",
+            "name": "Zhang, Jing",
+            "url": "https://myanimelist.net/people/12703/Jing_Zhang"
+        }
+    ],
+    "serializations": [],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 147014,
+                    "type": "manga",
+                    "name": "Aisha",
+                    "url": "https://myanimelist.net/manga/147014/Aisha"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

@@ -1,0 +1,116 @@
+{
+    "mal_id": 97319,
+    "url": "https://myanimelist.net/manga/97319/Anime_Prison_School_wo_Tsukutta_Otoko-tachi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/173981.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/173981t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/173981l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/173981.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/173981t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/173981l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Anime Prison School wo Tsukutta Otoko-tachi"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Men Who Made the Prison School Anime"
+        },
+        {
+            "type": "Japanese",
+            "title": "アニメ監獄学園を創った男たち"
+        }
+    ],
+    "title": "Anime Prison School wo Tsukutta Otoko-tachi",
+    "title_english": null,
+    "title_japanese": "アニメ監獄学園を創った男たち",
+    "title_synonyms": [
+        "The Men Who Made the Prison School Anime"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-07-27T00:00:00+00:00",
+        "to": "2015-12-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 5,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Jul 27, 2015 to Dec 5, 2015"
+    },
+    "score": 7.21,
+    "scored": 7.21,
+    "scored_by": 725,
+    "rank": 6021,
+    "popularity": 7491,
+    "members": 2767,
+    "favorites": 22,
+    "synopsis": "Hanamura's manga charts how the anime Prison School came together under the helm of director \"Crazy Boy\" Tsutomu Mizushima, and shows the production committee's raucous discussions over important details like the color of Meiko's panties or the sound effects in Gakuto's defecation scene. The anime's main voice actors—Hiroshi Kamiya, Katsuyuki Konishi, Kenichi Suzumura, Daisuke Namikawa, and Kazuyuki Okitsu—also play supporting roles.\n\n(Source: ANN)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 40723,
+            "type": "people",
+            "name": "Hanamura",
+            "url": "https://myanimelist.net/people/40723/Hanamura"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 10,
+            "type": "manga",
+            "name": "Young Magazine (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 25297,
+                    "type": "manga",
+                    "name": "Prison School",
+                    "url": "https://myanimelist.net/manga/25297/Prison_School"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

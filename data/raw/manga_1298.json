@@ -1,0 +1,196 @@
+{
+    "mal_id": 1298,
+    "url": "https://myanimelist.net/manga/1298/Golgo_13",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/157750.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/157750t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/157750l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/157750.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/157750t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/157750l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Golgo 13"
+        },
+        {
+            "type": "Synonym",
+            "title": "Golgo Thirteen"
+        },
+        {
+            "type": "Synonym",
+            "title": "Duke Togo"
+        },
+        {
+            "type": "Japanese",
+            "title": "ゴルゴ13"
+        },
+        {
+            "type": "English",
+            "title": "Golgo 13"
+        }
+    ],
+    "title": "Golgo 13",
+    "title_english": "Golgo 13",
+    "title_japanese": "ゴルゴ13",
+    "title_synonyms": [
+        "Golgo Thirteen",
+        "Duke Togo"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "1968-11-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 11,
+                "year": 1968
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 29, 1968 to ?"
+    },
+    "score": 7.64,
+    "scored": 7.64,
+    "scored_by": 1087,
+    "rank": 2053,
+    "popularity": 3219,
+    "members": 6976,
+    "favorites": 80,
+    "synopsis": "For four decades, Golgo 13 has been the world's greatest assassin for hire - sometimes to settle a private score, and sometimes to change history!\n\nHis real name and nationality are unknown - but his legend is everywhere. G13 never fails a job, and never sees his clients again...\n\n...unless they try and betray him!",
+    "background": "Golgo 13 is the oldest manga still in publication and has the highest volume count for a single series. The series is also the second best-selling manga of all time behind One Piece, having sold over 300 million copies. The series was published in English by VIZ Media under the VIZ Signature imprint and 13 volumes were published from February 21, 2006 to February 19, 2008. These volumes are a compilation of stories picked from the forty-year history of the manga, and each ends with an editorial commentary about Golgo 13 as a cultural phenomenon in Japan. Glénat published the series in French in two compilation books titled Best 13 of Golgo 13. Each book collected 13 stories from the manga's history with the first book being reader's choice (April 26, 2006) and the second being the author's choice (February 13, 2008).",
+    "authors": [
+        {
+            "mal_id": 2907,
+            "type": "people",
+            "name": "Saitou, Takao",
+            "url": "https://myanimelist.net/people/2907/Takao_Saitou"
+        },
+        {
+            "mal_id": 3020,
+            "type": "people",
+            "name": "Koike, Kazuo",
+            "url": "https://myanimelist.net/people/3020/Kazuo_Koike"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Big Comic",
+            "url": "https://myanimelist.net/manga/magazine/55/Big_Comic"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "type": "manga",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 50,
+            "type": "manga",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "mal_id": 13,
+            "type": "manga",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1760,
+                    "type": "anime",
+                    "name": "Golgo 13",
+                    "url": "https://myanimelist.net/anime/1760/Golgo_13"
+                },
+                {
+                    "mal_id": 1761,
+                    "type": "anime",
+                    "name": "Golgo 13: Queen Bee",
+                    "url": "https://myanimelist.net/anime/1761/Golgo_13__Queen_Bee"
+                },
+                {
+                    "mal_id": 4039,
+                    "type": "anime",
+                    "name": "Golgo 13 (TV)",
+                    "url": "https://myanimelist.net/anime/4039/Golgo_13_TV"
+                }
+            ]
+        },
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 94865,
+                    "type": "manga",
+                    "name": "Chou Kochikame",
+                    "url": "https://myanimelist.net/manga/94865/Chou_Kochikame"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%AB%E3%82%B413"
+        }
+    ]
+}

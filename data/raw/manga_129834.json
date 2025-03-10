@@ -1,0 +1,138 @@
+{
+    "mal_id": 129834,
+    "url": "https://myanimelist.net/manga/129834/Bokura_no_Ketsumei",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/238856.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/238856t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/238856l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/238856.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/238856t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/238856l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Bokura no Ketsumei"
+        },
+        {
+            "type": "Japanese",
+            "title": "ぼくらの血盟"
+        },
+        {
+            "type": "English",
+            "title": "Our Blood Oath"
+        }
+    ],
+    "title": "Bokura no Ketsumei",
+    "title_english": "Our Blood Oath",
+    "title_japanese": "ぼくらの血盟",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 18,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2020-09-14T00:00:00+00:00",
+        "to": "2021-01-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 9,
+                "year": 2020
+            },
+            "to": {
+                "day": 25,
+                "month": 1,
+                "year": 2021
+            }
+        },
+        "string": "Sep 14, 2020 to Jan 25, 2021"
+    },
+    "score": 4.96,
+    "scored": 4.96,
+    "scored_by": 1837,
+    "rank": 20459,
+    "popularity": 6322,
+    "members": 3379,
+    "favorites": 2,
+    "synopsis": "Last year's acclaimed one-shot that graced the pages of Weekly Shonen Jump returns as a brand new series! Kazu Kakazu's elegantly drawn tale of vampire siblings and the oath that binds them now begins!\n\n(Source: MANGA Plus)",
+    "background": "Bokura no Ketsumei was published digitally as an English simulpub as Our Blood Oath through MANGA Plus service. The volumes were published digitally in English by VIZ Media on March 22, 2022.",
+    "authors": [
+        {
+            "mal_id": 51985,
+            "type": "people",
+            "name": "Kakazu, Kazu",
+            "url": "https://myanimelist.net/people/51985/Kazu_Kakazu"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology"
+        },
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Alternative Version",
+            "entry": [
+                {
+                    "mal_id": 129878,
+                    "type": "manga",
+                    "name": "Seiyaku no Aka",
+                    "url": "https://myanimelist.net/manga/129878/Seiyaku_no_Aka"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "https://www.shonenjump.com/j/rensai/ketsumei.html"
+        }
+    ]
+}

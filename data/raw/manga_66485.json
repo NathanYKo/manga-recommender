@@ -1,0 +1,157 @@
+{
+    "mal_id": 66485,
+    "url": "https://myanimelist.net/manga/66485/Sentou_Hakai_Gakuen_Dangerous",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/154469.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/154469t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/154469l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/154469.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/154469t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/154469l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Sentou Hakai Gakuen Dangerous"
+        },
+        {
+            "type": "Synonym",
+            "title": "Battle Destruction School Dangerous"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sentou Hakai Gakuen Dangerosu"
+        },
+        {
+            "type": "Japanese",
+            "title": "戦闘破壊学園ダンゲロス"
+        }
+    ],
+    "title": "Sentou Hakai Gakuen Dangerous",
+    "title_english": null,
+    "title_japanese": "戦闘破壊学園ダンゲロス",
+    "title_synonyms": [
+        "Battle Destruction School Dangerous",
+        "Sentou Hakai Gakuen Dangerosu"
+    ],
+    "type": "Manga",
+    "chapters": 43,
+    "volumes": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2011-12-19T00:00:00+00:00",
+        "to": "2015-04-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 12,
+                "year": 2011
+            },
+            "to": {
+                "day": 20,
+                "month": 4,
+                "year": 2015
+            }
+        },
+        "string": "Dec 19, 2011 to Apr 20, 2015"
+    },
+    "score": 6.34,
+    "scored": 6.34,
+    "scored_by": 579,
+    "rank": 18138,
+    "popularity": 7735,
+    "members": 2663,
+    "favorites": 3,
+    "synopsis": "In this world, there exists individuals known as \"Majin\"—supernatural beings able to wield unique powers. They live among the normal human beings, but the rift created between the Majin and the normal human race is severe. There exists a school known as Dangerous, where the population ratio of Majin students exceeds that of any other high school. In this school, two groups known as the \"Banchou Group\" and the \"Seitokai\" face each other in war, but they have created a balance of power, resulting in a temporary peace. Now, with the inclusion of new students, this balance of power is about to collapse. One of the \"normal\" students, Ryouseiin Otome is forced to choose sides before the beginning of Armageddon.\n\n(Source: MangaHelpers)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 3906,
+            "type": "people",
+            "name": "Yokota, Takuma",
+            "url": "https://myanimelist.net/people/3906/Takuma_Yokota"
+        },
+        {
+            "mal_id": 28971,
+            "type": "people",
+            "name": "Kagami, Kyousuke",
+            "url": "https://myanimelist.net/people/28971/Kyousuke_Kagami"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 6,
+            "type": "manga",
+            "name": "Young Magazine (Monthly)",
+            "url": "https://myanimelist.net/manga/magazine/6/Young_Magazine_Monthly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        },
+        {
+            "mal_id": 31,
+            "type": "manga",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 116683,
+                    "type": "manga",
+                    "name": "Dangerous 1969",
+                    "url": "https://myanimelist.net/manga/116683/Dangerous_1969"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://bookclub.kodansha.co.jp/kodansha-box/topics/dangerous/"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "mal_id": 90800,
+    "url": "https://myanimelist.net/manga/90800/Kanojo_wa_Rokurokubi",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/190959.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/190959t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/190959l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/190959.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/190959t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/190959l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kanojo wa Rokurokubi"
+        },
+        {
+            "type": "Synonym",
+            "title": "She Is Rokurokubi"
+        },
+        {
+            "type": "Synonym",
+            "title": "She Is Long-necked"
+        },
+        {
+            "type": "Japanese",
+            "title": "彼女はろくろ首"
+        }
+    ],
+    "title": "Kanojo wa Rokurokubi",
+    "title_english": null,
+    "title_japanese": "彼女はろくろ首",
+    "title_synonyms": [
+        "She Is Rokurokubi",
+        "She Is Long-necked"
+    ],
+    "type": "Manga",
+    "chapters": 23,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-03-09T00:00:00+00:00",
+        "to": "2016-12-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 3,
+                "year": 2015
+            },
+            "to": {
+                "day": 9,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Mar 9, 2015 to Dec 9, 2016"
+    },
+    "score": 7.17,
+    "scored": 7.17,
+    "scored_by": 6688,
+    "rank": 6449,
+    "popularity": 1456,
+    "members": 14549,
+    "favorites": 107,
+    "synopsis": "A story about a long-necked girl's love life: Kanoi Natsuki and her childhood friend Itsuki visit the same school and there seems to be more between them besides friendship.\n\n(Source: Batoto)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 38379,
+            "type": "people",
+            "name": "Nieki, Zui",
+            "url": "https://myanimelist.net/people/38379/Zui_Nieki"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 450,
+            "type": "manga",
+            "name": "Bessatsu Shounen Magazine",
+            "url": "https://myanimelist.net/manga/magazine/450/Bessatsu_Shounen_Magazine"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [],
+    "external": []
+}

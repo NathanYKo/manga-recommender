@@ -1,0 +1,137 @@
+{
+    "mal_id": 3885,
+    "url": "https://myanimelist.net/manga/3885/Zero",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/11366.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/11366t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/11366l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/11366.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/11366t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/11366l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Zero"
+        },
+        {
+            "type": "Japanese",
+            "title": "제로 - 시작의관"
+        },
+        {
+            "type": "English",
+            "title": "Zero - The Beginning of The Coffin"
+        }
+    ],
+    "title": "Zero",
+    "title_english": "Zero - The Beginning of The Coffin",
+    "title_japanese": "제로 - 시작의관",
+    "title_synonyms": [],
+    "type": "Manhwa",
+    "chapters": 70,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-01-01T00:00:00+00:00",
+        "to": "2005-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            }
+        },
+        "string": "2000 to 2005"
+    },
+    "score": 7.35,
+    "scored": 7.35,
+    "scored_by": 2430,
+    "rank": 4339,
+    "popularity": 4072,
+    "members": 5540,
+    "favorites": 37,
+    "synopsis": "Having been born in a secret government laboratory that cultivated esper (telepathic) powers within humans, Shuuichi and two sisters, Sumire and Katsumi, are forced to endure a difficult life as test subjects until their escape. Years later, these siblings are still being sought after by unknown organizations that are after Shuuichi powers as he is what they refer to as the \"zero-sample\" with the ability to cause \"zero-shock.\"\n\n(Source: Infinity Studios)",
+    "background": "Zero was partially published in English as Zero - The Beginning of the Coffin by Infinity Studios, who published the first three volumes from March 1, 2006 to June 6, 2007, before becoming defunct.",
+    "authors": [
+        {
+            "mal_id": 2259,
+            "type": "people",
+            "name": "Park, Sung-Woo",
+            "url": "https://myanimelist.net/people/2259/Sung-Woo_Park"
+        },
+        {
+            "mal_id": 2827,
+            "type": "people",
+            "name": "Im, Dal Young",
+            "url": "https://myanimelist.net/people/2827/Dal_Young_Im"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 180,
+            "type": "manga",
+            "name": "Daiwon",
+            "url": "https://myanimelist.net/manga/magazine/180/Daiwon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "type": "manga",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 9182,
+                    "type": "manga",
+                    "name": "Zero: Circle of Flow",
+                    "url": "https://myanimelist.net/manga/9182/Zero__Circle_of_Flow"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Zero_%28manhwa%29"
+        }
+    ]
+}

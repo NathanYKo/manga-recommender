@@ -1,0 +1,120 @@
+{
+    "mal_id": 95059,
+    "url": "https://myanimelist.net/manga/95059/Hotarubi_no_Tomoru_Koro_ni",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/183788.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/183788t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/183788l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/183788.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/183788t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/183788l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Hotarubi no Tomoru Koro ni"
+        },
+        {
+            "type": "Synonym",
+            "title": "When the Firefly Light Burns"
+        },
+        {
+            "type": "Japanese",
+            "title": "蛍火の灯る頃に"
+        }
+    ],
+    "title": "Hotarubi no Tomoru Koro ni",
+    "title_english": null,
+    "title_japanese": "蛍火の灯る頃に",
+    "title_synonyms": [
+        "When the Firefly Light Burns"
+    ],
+    "type": "Manga",
+    "chapters": 22,
+    "volumes": 4,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-12-25T00:00:00+00:00",
+        "to": "2018-02-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 12,
+                "year": 2015
+            },
+            "to": {
+                "day": 24,
+                "month": 2,
+                "year": 2018
+            }
+        },
+        "string": "Dec 25, 2015 to Feb 24, 2018"
+    },
+    "score": 6.51,
+    "scored": 6.51,
+    "scored_by": 856,
+    "rank": 16352,
+    "popularity": 8057,
+    "members": 2535,
+    "favorites": 15,
+    "synopsis": "It's July 2016, and the Tadamura family gathers in the Hirasaka village for the funeral of the grandmother and head of the family: the young man Yukito, his step-sister Yue, his father Masashi, his uncles Nobuteru and Tsunemasa, and his cousins Terumi and Teruya, all come to pay their last respects.\n\nBut on that evening, Yue witnesses an incomprehensible scene: the grandmother's dead body starts to move and disappears into the night! The morning after, the family wakes up in a strange world, seemingly cut off from reality, where two suns shine...\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 5092,
+            "type": "people",
+            "name": "Ryukishi07",
+            "url": "https://myanimelist.net/people/5092/Ryukishi07"
+        },
+        {
+            "mal_id": 14233,
+            "type": "people",
+            "name": "Koike, Nokuto",
+            "url": "https://myanimelist.net/people/14233/Nokuto_Koike"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 117,
+            "type": "manga",
+            "name": "Monthly Action",
+            "url": "https://myanimelist.net/manga/magazine/117/Monthly_Action"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 102649,
+                    "type": "manga",
+                    "name": "Umineko no Naku Koro ni: Saigo de Saisho no Okurimono",
+                    "url": "https://myanimelist.net/manga/102649/Umineko_no_Naku_Koro_ni__Saigo_de_Saisho_no_Okurimono"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://webaction.jp/hotarubi/index.html"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "mal_id": 1223,
+    "url": "https://myanimelist.net/manga/1223/Vampire_Miyu",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/142499.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/142499t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/142499l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/142499.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/142499t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/142499l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Vampire Miyu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Kyuuketsuhime Miyu"
+        },
+        {
+            "type": "Japanese",
+            "title": "吸血姫 美夕"
+        },
+        {
+            "type": "English",
+            "title": "Vampire Princess Miyu"
+        }
+    ],
+    "title": "Vampire Miyu",
+    "title_english": "Vampire Princess Miyu",
+    "title_japanese": "吸血姫 美夕",
+    "title_synonyms": [
+        "Kyuuketsuhime Miyu"
+    ],
+    "type": "Manga",
+    "chapters": 48,
+    "volumes": 10,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1989-01-01T00:00:00+00:00",
+        "to": "2002-05-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1989
+            },
+            "to": {
+                "day": 30,
+                "month": 5,
+                "year": 2002
+            }
+        },
+        "string": "1989 to May 30, 2002"
+    },
+    "score": 7.27,
+    "scored": 7.27,
+    "scored_by": 1225,
+    "rank": 5251,
+    "popularity": 5672,
+    "members": 3799,
+    "favorites": 73,
+    "synopsis": "Stranded in the space between human and demon, Miyu was born a vampire and charged with the responsibility of returning evil demons called Shinma to the dark. Being eternally 15, she yearns to return to the dark herself but not until she has banished the Shinma from Earth. And since her awakening, she remains cut off by the facts of who and what she is.\n\n(Source: ANN)",
+    "background": "Vampire Miyu was partially published in English as Vampire Princess Miyu by Studio Ironcat, who published five volumes between December 2001 and January 2004, before becoming defunct.",
+    "authors": [
+        {
+            "mal_id": 2378,
+            "type": "people",
+            "name": "Kakinouchi, Narumi",
+            "url": "https://myanimelist.net/people/2378/Narumi_Kakinouchi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 366,
+            "type": "manga",
+            "name": "Suspiria",
+            "url": "https://myanimelist.net/manga/magazine/366/Suspiria"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 32,
+            "type": "manga",
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 4542,
+                    "type": "manga",
+                    "name": "Shin Vampire Miyu",
+                    "url": "https://myanimelist.net/manga/4542/Shin_Vampire_Miyu"
+                },
+                {
+                    "mal_id": 26185,
+                    "type": "manga",
+                    "name": "Vampire Princess",
+                    "url": "https://myanimelist.net/manga/26185/Vampire_Princess"
+                }
+            ]
+        },
+        {
+            "relation": "Spin-Off",
+            "entry": [
+                {
+                    "mal_id": 8678,
+                    "type": "manga",
+                    "name": "Vampire Yui",
+                    "url": "https://myanimelist.net/manga/8678/Vampire_Yui"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%90%B8%E8%A1%80%E5%A7%AB%E7%BE%8E%E5%A4%95"
+        }
+    ]
+}

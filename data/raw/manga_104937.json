@@ -1,0 +1,150 @@
+{
+    "mal_id": 104937,
+    "url": "https://myanimelist.net/manga/104937/Kuai_Ba_Wo_Ge_Dai_Zou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/193291.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/193291t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/193291l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/193291.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/193291t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/193291l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Kuai Ba Wo Ge Dai Zou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Ani ni Tsukeru Kusuri wa Nai!"
+        },
+        {
+            "type": "Synonym",
+            "title": "Please Take My Brother Away"
+        },
+        {
+            "type": "Japanese",
+            "title": "快把我哥带走"
+        }
+    ],
+    "title": "Kuai Ba Wo Ge Dai Zou",
+    "title_english": null,
+    "title_japanese": "快把我哥带走",
+    "title_synonyms": [
+        "Ani ni Tsukeru Kusuri wa Nai!",
+        "Please Take My Brother Away"
+    ],
+    "type": "Manhua",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2016-01-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 25, 2016 to ?"
+    },
+    "score": 7.54,
+    "scored": 7.54,
+    "scored_by": 1499,
+    "rank": 2670,
+    "popularity": 2956,
+    "members": 7587,
+    "favorites": 68,
+    "synopsis": "What's your brother like? To Miao, her brother Fen is someone who would tease her and make her explode 100 times a day; not a peaceful day as the two are fighting every single minute. However, when troubles come, Fen will become a caring, loving brother who protects his little sister at all cost.\n\n(Source: MU)",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 44612,
+            "type": "people",
+            "name": "You, Ling",
+            "url": "https://myanimelist.net/people/44612/Ling_You"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1443,
+            "type": "manga",
+            "name": "Kuaikan Manhua",
+            "url": "https://myanimelist.net/manga/magazine/1443/Kuaikan_Manhua"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 35015,
+                    "type": "anime",
+                    "name": "Ani ni Tsukeru Kusuri wa Nai!",
+                    "url": "https://myanimelist.net/anime/35015/Ani_ni_Tsukeru_Kusuri_wa_Nai"
+                },
+                {
+                    "mal_id": 37924,
+                    "type": "anime",
+                    "name": "Ani ni Tsukeru Kusuri wa Nai! 2",
+                    "url": "https://myanimelist.net/anime/37924/Ani_ni_Tsukeru_Kusuri_wa_Nai_2"
+                },
+                {
+                    "mal_id": 39959,
+                    "type": "anime",
+                    "name": "Ani ni Tsukeru Kusuri wa Nai! 3",
+                    "url": "https://myanimelist.net/anime/39959/Ani_ni_Tsukeru_Kusuri_wa_Nai_3"
+                },
+                {
+                    "mal_id": 42238,
+                    "type": "anime",
+                    "name": "Ani ni Tsukeru Kusuri wa Nai! 4",
+                    "url": "https://myanimelist.net/anime/42238/Ani_ni_Tsukeru_Kusuri_wa_Nai_4"
+                },
+                {
+                    "mal_id": 49599,
+                    "type": "anime",
+                    "name": "Ani ni Tsukeru Kusuri wa Nai! 5",
+                    "url": "https://myanimelist.net/anime/49599/Ani_ni_Tsukeru_Kusuri_wa_Nai_5"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Official Site",
+            "url": "http://www.kuaikanmanhua.com/web/topic/116/"
+        }
+    ]
+}

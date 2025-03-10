@@ -1,0 +1,135 @@
+{
+    "mal_id": 65683,
+    "url": "https://myanimelist.net/manga/65683/Shonan_Seven",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/130213.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/130213t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/130213l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/130213.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/1/130213t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/1/130213l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Shonan Seven"
+        },
+        {
+            "type": "Japanese",
+            "title": "SHONANセブン"
+        }
+    ],
+    "title": "Shonan Seven",
+    "title_english": null,
+    "title_japanese": "SHONANセブン",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 67,
+    "volumes": 17,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2014-01-06T00:00:00+00:00",
+        "to": "2019-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 5,
+                "month": 7,
+                "year": 2019
+            }
+        },
+        "string": "Jan 6, 2014 to Jul 5, 2019"
+    },
+    "score": 6.91,
+    "scored": 6.91,
+    "scored_by": 663,
+    "rank": 10440,
+    "popularity": 7372,
+    "members": 2817,
+    "favorites": 13,
+    "synopsis": "Yearning to become the strongest in Shonan, hot-blooded delinquent Ikki Kurokami starts his third year at Tsujidou High, Alma Mater of the legendary Oni-Baku duo (Eikichi Onizuka and Ryuuji Danma of Shonan Junai Gumi and GTO).\n\nIkki seeks to join the ranks of the Shonan Seven, winners of a tournament in which 7 representatives from each high school in Shonan participate to prove who is the strongest school, accompanied by 7 beautiful matching motorcycles. However, in order to get there, he'll also have to take on any and all challengers gunning for the same spot.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 2318,
+            "type": "people",
+            "name": "Fujisawa, Tooru",
+            "url": "https://myanimelist.net/people/2318/Tooru_Fujisawa"
+        },
+        {
+            "mal_id": 10581,
+            "type": "people",
+            "name": "Takahashi, Shinsuke",
+            "url": "https://myanimelist.net/people/10581/Shinsuke_Takahashi"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 282,
+            "type": "manga",
+            "name": "Shounen Champion (Monthly)",
+            "url": "https://myanimelist.net/manga/magazine/282/Shounen_Champion_Monthly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 55,
+            "type": "manga",
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents"
+        },
+        {
+            "mal_id": 23,
+            "type": "manga",
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School"
+        }
+    ],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Parent Story",
+            "entry": [
+                {
+                    "mal_id": 445,
+                    "type": "manga",
+                    "name": "Shonan Junai Gumi!",
+                    "url": "https://myanimelist.net/manga/445/Shonan_Junai_Gumi"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

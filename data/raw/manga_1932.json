@@ -1,0 +1,170 @@
+{
+    "mal_id": 1932,
+    "url": "https://myanimelist.net/manga/1932/Cats_Eye",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/175778.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/175778t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/175778l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/175778.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/175778t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/175778l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Cat's Eye"
+        },
+        {
+            "type": "Synonym",
+            "title": "Cats Eye"
+        },
+        {
+            "type": "Japanese",
+            "title": "キャッツ・アイ"
+        },
+        {
+            "type": "English",
+            "title": "Cat's Eye"
+        }
+    ],
+    "title": "Cat's Eye",
+    "title_english": "Cat's Eye",
+    "title_japanese": "キャッツ・アイ",
+    "title_synonyms": [
+        "Cats Eye"
+    ],
+    "type": "Manga",
+    "chapters": 135,
+    "volumes": 18,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1981-06-16T00:00:00+00:00",
+        "to": "1985-01-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 6,
+                "year": 1981
+            },
+            "to": {
+                "day": 15,
+                "month": 1,
+                "year": 1985
+            }
+        },
+        "string": "Jun 16, 1981 to Jan 15, 1985"
+    },
+    "score": 7.29,
+    "scored": 7.29,
+    "scored_by": 1139,
+    "rank": 4935,
+    "popularity": 5518,
+    "members": 3940,
+    "favorites": 40,
+    "synopsis": "The protagonists of the series are the three Kisugi sisters—Hitomi, Rui and Ai—who run a café called Cat's Eye. The sisters lead a double life as a trio of highly skilled art thieves, leaving cards with the name \"Cat's Eye\" at the scene of their crimes. They steal works of art (mostly paintings) that belonged to their long-missing father, Heinz (who was a famous art collector during the Nazi regime), in the hopes of him contacting them. Toshio, the police officer investigating this case is the fiancé of Hitomi. He also swears to capture and bring down the Cat's Eye Gang.",
+    "background": "Cat's Eye has been published digitally in English by Coamix through Manga Hot.",
+    "authors": [
+        {
+            "mal_id": 2623,
+            "type": "people",
+            "name": "Hojo, Tsukasa",
+            "url": "https://myanimelist.net/people/2623/Tsukasa_Hojo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 83,
+            "type": "manga",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "type": "manga",
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery"
+        },
+        {
+            "mal_id": 22,
+            "type": "manga",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 27,
+            "type": "manga",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 58217,
+                    "type": "manga",
+                    "name": "Cat's♥Eye",
+                    "url": "https://myanimelist.net/manga/58217/Cats♥Eye"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 2043,
+                    "type": "anime",
+                    "name": "Cat's Eye",
+                    "url": "https://myanimelist.net/anime/2043/Cats_Eye"
+                },
+                {
+                    "mal_id": 60347,
+                    "type": "anime",
+                    "name": "Cat's♥Eye",
+                    "url": "https://myanimelist.net/anime/60347/Cats♥Eye"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%84%E3%83%BB%E3%82%A2%E3%82%A4"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cat%27s_Eye_(manga)"
+        }
+    ]
+}

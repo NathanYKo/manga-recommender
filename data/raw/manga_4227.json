@@ -1,0 +1,153 @@
+{
+    "mal_id": 4227,
+    "url": "https://myanimelist.net/manga/4227/Tokkou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/4898.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/4898t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/4898l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/4898.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/2/4898t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/2/4898l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Tokkou"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tokko: Phantom Hunter"
+        },
+        {
+            "type": "Synonym",
+            "title": "Tokko: Devil's Awaken"
+        },
+        {
+            "type": "Japanese",
+            "title": "TOKKÔ 特公"
+        },
+        {
+            "type": "English",
+            "title": "Tokko"
+        }
+    ],
+    "title": "Tokkou",
+    "title_english": "Tokko",
+    "title_japanese": "TOKKÔ 特公",
+    "title_synonyms": [
+        "Tokko: Phantom Hunter",
+        "Tokko: Devil's Awaken"
+    ],
+    "type": "Manga",
+    "chapters": 11,
+    "volumes": 3,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2003-04-25T00:00:00+00:00",
+        "to": "2006-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 2003
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            }
+        },
+        "string": "Apr 25, 2003 to 2006"
+    },
+    "score": 6.61,
+    "scored": 6.61,
+    "scored_by": 1680,
+    "rank": 15000,
+    "popularity": 5530,
+    "members": 3931,
+    "favorites": 21,
+    "synopsis": "Shindou just became a new investigator for Tokki: The Special Mobile Investigation Force. On the day of his graduation, he finally saw the half-naked girl that he had always saw in his dream in real life and finds out that she's part of Tokko: The Special Public Safety Task Force. Shindou ends up joining Tokko to revenge his parents' deaths, whose bodies were ripped into pieces...\n\n(Source: Anime Waves)",
+    "background": "Tokkou was published in English by Tokyopop from July 1, 2008 to February 1, 2009. The first two volumes were titled Tokko: Devil's Awaken, the third volume Tokko: Phantom Hunter.",
+    "authors": [
+        {
+            "mal_id": 2318,
+            "type": "people",
+            "name": "Fujisawa, Tooru",
+            "url": "https://myanimelist.net/people/2318/Tooru_Fujisawa"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 1,
+            "type": "manga",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 41,
+            "type": "manga",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Prequel",
+            "entry": [
+                {
+                    "mal_id": 87912,
+                    "type": "manga",
+                    "name": "Tokkou Zero",
+                    "url": "https://myanimelist.net/manga/87912/Tokkou_Zero"
+                }
+            ]
+        },
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 916,
+                    "type": "anime",
+                    "name": "Tokkou",
+                    "url": "https://myanimelist.net/anime/916/Tokkou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/TOKKO_%E7%89%B9%E5%85%AC"
+        }
+    ]
+}

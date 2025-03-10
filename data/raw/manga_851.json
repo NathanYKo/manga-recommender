@@ -1,0 +1,141 @@
+{
+    "mal_id": 851,
+    "url": "https://myanimelist.net/manga/851/Mars_Gaiden__Namae_no_Nai_Uma",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/191264.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/191264t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/191264l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/191264.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/191264t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/191264l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mars Gaiden: Namae no Nai Uma"
+        },
+        {
+            "type": "Synonym",
+            "title": "1 karat no Kajitsu"
+        },
+        {
+            "type": "Synonym",
+            "title": "Nemuru Lion"
+        },
+        {
+            "type": "Synonym",
+            "title": "Sleeping Lion"
+        },
+        {
+            "type": "Japanese",
+            "title": "MARS外伝 名前のない馬"
+        },
+        {
+            "type": "English",
+            "title": "Mars: A Horse with No Name"
+        }
+    ],
+    "title": "Mars Gaiden: Namae no Nai Uma",
+    "title_english": "Mars: A Horse with No Name",
+    "title_japanese": "MARS外伝 名前のない馬",
+    "title_synonyms": [
+        "1 karat no Kajitsu",
+        "Nemuru Lion",
+        "Sleeping Lion"
+    ],
+    "type": "Manga",
+    "chapters": 3,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1995-03-13T00:00:00+00:00",
+        "to": "1999-08-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 3,
+                "year": 1995
+            },
+            "to": {
+                "day": 11,
+                "month": 8,
+                "year": 1999
+            }
+        },
+        "string": "Mar 13, 1995 to Aug 11, 1999"
+    },
+    "score": 7.36,
+    "scored": 7.36,
+    "scored_by": 1385,
+    "rank": 4172,
+    "popularity": 7496,
+    "members": 2765,
+    "favorites": 10,
+    "synopsis": "1. Namae no Nai Uma (A Horse with No Name)\n2. Nemuru Lion (Sleeping Lion)\n3. 1 karat no Kajitsu",
+    "background": "Mars Gaiden: Namae no Nai Uma was published in English by Tokyopop as Mars: A Horse With No Name in July 13, 2004.",
+    "authors": [
+        {
+            "mal_id": 2329,
+            "type": "people",
+            "name": "Souryo, Fuyumi",
+            "url": "https://myanimelist.net/people/2329/Fuyumi_Souryo"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 111,
+            "type": "manga",
+            "name": "Bessatsu Friend",
+            "url": "https://myanimelist.net/manga/magazine/111/Bessatsu_Friend"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "type": "manga",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Other",
+            "entry": [
+                {
+                    "mal_id": 443,
+                    "type": "manga",
+                    "name": "Mars",
+                    "url": "https://myanimelist.net/manga/443/Mars"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/MARS_(%E6%BC%AB%E7%94%BB)"
+        }
+    ]
+}

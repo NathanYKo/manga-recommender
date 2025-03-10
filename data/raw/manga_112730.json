@@ -1,0 +1,134 @@
+{
+    "mal_id": 112730,
+    "url": "https://myanimelist.net/manga/112730/Mayonaka_Love_Alliance",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/228380.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/228380t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/228380l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/228380.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/228380t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/228380l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Mayonaka Love Alliance"
+        },
+        {
+            "type": "Synonym",
+            "title": "Otoshiana ni Hamerarete"
+        },
+        {
+            "type": "Synonym",
+            "title": "Pinup Boy"
+        },
+        {
+            "type": "Synonym",
+            "title": "Yoru mo Hi mo Akenai"
+        },
+        {
+            "type": "Synonym",
+            "title": "After Alliance"
+        },
+        {
+            "type": "Japanese",
+            "title": "真夜中ラブアライアンス"
+        },
+        {
+            "type": "English",
+            "title": "The Love Alliance in Midnight"
+        }
+    ],
+    "title": "Mayonaka Love Alliance",
+    "title_english": "The Love Alliance in Midnight",
+    "title_japanese": "真夜中ラブアライアンス",
+    "title_synonyms": [
+        "Otoshiana ni Hamerarete",
+        "Pinup Boy",
+        "Yoru mo Hi mo Akenai",
+        "After Alliance"
+    ],
+    "type": "Manga",
+    "chapters": 6,
+    "volumes": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2016-02-24T00:00:00+00:00",
+        "to": "2016-10-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 2,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "Feb 24, 2016 to Oct 24, 2016"
+    },
+    "score": 7.2,
+    "scored": 7.2,
+    "scored_by": 1482,
+    "rank": null,
+    "popularity": 6659,
+    "members": 3184,
+    "favorites": 10,
+    "synopsis": "1-2. Otoshiana ni Hamerarete (Fallen Into a Trap)\n3-4. Pin-up Boy\n5. Yoru mo Hi mo Akenai (Can't Go a Minute Without You)\n6. After Alliance",
+    "background": "Mayonaka Love Alliance was published digitally in English as The Love Alliance in Midnight by Renta! on March 31, 2023.",
+    "authors": [
+        {
+            "mal_id": 39490,
+            "type": "people",
+            "name": "Michinoku, Atami",
+            "url": "https://myanimelist.net/people/39490/Atami_Michinoku"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 1307,
+            "type": "manga",
+            "name": "Qpa",
+            "url": "https://myanimelist.net/manga/magazine/1307/Qpa"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 28,
+            "type": "manga",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+        },
+        {
+            "mal_id": 49,
+            "type": "manga",
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Sequel",
+            "entry": [
+                {
+                    "mal_id": 171842,
+                    "type": "manga",
+                    "name": "Mayonaka Love Alliance: Deep",
+                    "url": "https://myanimelist.net/manga/171842/Mayonaka_Love_Alliance__Deep"
+                }
+            ]
+        }
+    ],
+    "external": []
+}

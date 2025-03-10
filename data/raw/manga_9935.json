@@ -1,0 +1,109 @@
+{
+    "mal_id": 9935,
+    "url": "https://myanimelist.net/manga/9935/Afro_Samurai",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/25025.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/25025t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/25025l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/25025.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/5/25025t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/5/25025l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Afro Samurai"
+        },
+        {
+            "type": "Japanese",
+            "title": "アフロサムライ"
+        },
+        {
+            "type": "English",
+            "title": "Afro Samurai"
+        }
+    ],
+    "title": "Afro Samurai",
+    "title_english": "Afro Samurai",
+    "title_japanese": "アフロサムライ",
+    "title_synonyms": [],
+    "type": "Manga",
+    "chapters": 10,
+    "volumes": 2,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2008-09-02T00:00:00+00:00",
+        "to": "2009-02-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 9,
+                "year": 2008
+            },
+            "to": {
+                "day": 3,
+                "month": 2,
+                "year": 2009
+            }
+        },
+        "string": "Sep 2, 2008 to Feb 3, 2009"
+    },
+    "score": 6.9,
+    "scored": 6.9,
+    "scored_by": 3501,
+    "rank": 10540,
+    "popularity": 2938,
+    "members": 7628,
+    "favorites": 82,
+    "synopsis": "In the bleak world of the swordsman, it is said that he who becomes the Number 1 samurai shall rule the world. And only Number 2 is allowed to challenge Number 1. Afro Samurai has assumed the mantle of Number 2, seeking vengeance against Number 1, a gunman who killed his father years ago. But assassins lurk at every corner, seeking to rob Afro Samurai of the title of Number 2. Can Afro survive long enough to exact his revenge?\n\n(Source: Seven Seas Entertainment)",
+    "background": "Afro Samurai was published in English by Seven Seas Entertainment from September 30, 2008 to February 28, 2009. The series was republished by Titan Comics under the Titan Manga imprint from November 4, 2022 to November 21, 2022.",
+    "authors": [
+        {
+            "mal_id": 6144,
+            "type": "people",
+            "name": "Okazaki, Takashi",
+            "url": "https://myanimelist.net/people/6144/Takashi_Okazaki"
+        }
+    ],
+    "serializations": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+        {
+            "mal_id": 21,
+            "type": "manga",
+            "name": "Samurai",
+            "url": "https://myanimelist.net/manga/genre/21/Samurai"
+        }
+    ],
+    "demographics": [],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 1292,
+                    "type": "anime",
+                    "name": "Afro Samurai",
+                    "url": "https://myanimelist.net/anime/1292/Afro_Samurai"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Afro_Samurai"
+        },
+        {
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AD%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4"
+        }
+    ]
+}

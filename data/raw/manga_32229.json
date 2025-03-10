@@ -1,0 +1,144 @@
+{
+    "mal_id": 32229,
+    "url": "https://myanimelist.net/manga/32229/Chocolat_no_Mahou",
+    "images": {
+        "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/59117.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/59117t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/59117l.jpg"
+        },
+        "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/59117.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/manga/3/59117t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/manga/3/59117l.webp"
+        }
+    },
+    "approved": true,
+    "titles": [
+        {
+            "type": "Default",
+            "title": "Chocolat no Mahou"
+        },
+        {
+            "type": "Synonym",
+            "title": "The Magic of Chocolate"
+        },
+        {
+            "type": "Synonym",
+            "title": "Shokora no Mahou"
+        },
+        {
+            "type": "Japanese",
+            "title": "ショコラの魔法"
+        }
+    ],
+    "title": "Chocolat no Mahou",
+    "title_english": null,
+    "title_japanese": "ショコラの魔法",
+    "title_synonyms": [
+        "The Magic of Chocolate",
+        "Shokora no Mahou"
+    ],
+    "type": "Manga",
+    "chapters": null,
+    "volumes": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2008-09-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 9,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 3, 2008 to ?"
+    },
+    "score": 7.44,
+    "scored": 7.44,
+    "scored_by": 845,
+    "rank": 3442,
+    "popularity": 8088,
+    "members": 2527,
+    "favorites": 117,
+    "synopsis": "The \"bittersweet, mysterious story\" revolves around Chocolat Aikawa, a chocolatière who runs a shop called Chocolat Noir. She can grant wishes to the troubled people who visit her shop—if they give her something precious in exchange.",
+    "background": "",
+    "authors": [
+        {
+            "mal_id": 11564,
+            "type": "people",
+            "name": "Rino, Mizuho",
+            "url": "https://myanimelist.net/people/11564/Mizuho_Rino"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 611,
+            "type": "manga",
+            "name": "Ciao DX",
+            "url": "https://myanimelist.net/manga/magazine/611/Ciao_DX"
+        }
+    ],
+    "genres": [
+        {
+            "mal_id": 46,
+            "type": "manga",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "mal_id": 8,
+            "type": "manga",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "type": "manga",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "type": "manga",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+        }
+    ],
+    "relations": [
+        {
+            "relation": "Adaptation",
+            "entry": [
+                {
+                    "mal_id": 9935,
+                    "type": "anime",
+                    "name": "Chocolat no Mahou",
+                    "url": "https://myanimelist.net/anime/9935/Chocolat_no_Mahou"
+                }
+            ]
+        }
+    ],
+    "external": [
+        {
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%81%AE%E9%AD%94%E6%B3%95"
+        }
+    ]
+}
